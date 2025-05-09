@@ -7,7 +7,8 @@
     - Moving Walls color palette (HEX and HSL variables).
     - Tailwind theme extensions for colors (`mw-dark-navy`, `mw-light-blue`, etc.).
     - Base styles for body, headings.
-- **[DONE]** `Roboto` font configured and applied globally (`app/layout.js`).
+- **[DONE]** `Roboto` font configured and applied globally (`app/layout.js`):
+    - `Inter`, `Nunito`, `Caveat` fonts configured and applied globally (`app/layout.js`, `app/globals.css`).
 - **[DONE]** ShadCN `ThemeProvider` setup (`components/theme-provider.js`, `app/layout.js`) with dark theme as default.
 - **[DONE]** Particle animation background (`tsparticles`) integrated for welcome screen.
 
@@ -39,10 +40,11 @@
 
 ### Phase 3: Fortune Display & Lead Capture (Pending)
 
-- **[TODO]** **Screen 3: Display Fortune (`app/display-fortune/page.js`)**
+- **[DONE]** **Screen 3: Display Fortune (`app/display-fortune/page.js`)**
     - Purpose: Present the generated fortune.
     - Layout: Centered Card on dark navy background.
     - Visuals: Header, fortune display area, CTA button ("Save & Share This Wisdom").
+    - API route `/api/generate-fortune` created with Gemini integration for dynamic, structured fortune generation.
 
 - **[TODO]** **Screen 4: Prompt for Contact & Sharing (`app/contact-details/page.js` - or similar route)**
     - Purpose: Capture mandatory contact details and offer sharing.

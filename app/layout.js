@@ -1,11 +1,23 @@
-import { Roboto } from 'next/font/google';
+import { Inter, Nunito, Caveat } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from "@/components/theme-provider";
 
-const roboto = Roboto({
+const inter = Inter({
   subsets: ['latin'],
-  variable: '--font-roboto',
-  weight: ['400', '500', '700', '900'], // Include weights needed
+  variable: '--font-inter',
+  weight: ['400', '500', '700'],
+});
+
+const nunito = Nunito({
+  subsets: ['latin'],
+  variable: '--font-nunito',
+  weight: ['400', '600', '700', '800'],
+});
+
+const caveat = Caveat({
+  subsets: ['latin'],
+  variable: '--font-caveat',
+  weight: ['400', '700'],
 });
 
 export const metadata = {
@@ -15,8 +27,8 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={`${roboto.variable} dark`} suppressHydrationWarning>
-      <body className="font-sans">
+    <html lang="en" className={`${inter.variable} ${nunito.variable} ${caveat.variable} dark`} suppressHydrationWarning>
+      <body className="font-inter">
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"

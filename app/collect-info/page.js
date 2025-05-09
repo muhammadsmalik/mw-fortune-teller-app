@@ -17,6 +17,7 @@ export default function CollectInfoScreen() {
   const [fullName, setFullName] = useState('');
   const [industryType, setIndustryType] = useState('');
   const [companyName, setCompanyName] = useState('');
+  const [isGenerating, setIsGenerating] = useState(false);
 
   // Particles engine initialization
   useEffect(() => {
@@ -47,15 +48,35 @@ export default function CollectInfoScreen() {
     detectRetina: true,
   }), []);
 
-  const handleProceed = () => {
+  const handleProceed = async () => {
     // Basic validation (optional, can be enhanced)
     if (!fullName || !industryType || !companyName) {
       alert("Please fill in all fields.");
       return;
     }
     console.log("Collected Info:", { fullName, industryType, companyName });
-    // Navigate to the next screen (e.g., fortune generation animation)
-    router.push('/generating-fortune'); // Placeholder for the next route
+    setIsGenerating(true);
+    try {
+      const response = await fetch('/api/generate-fortune', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ fullName, industryType, companyName }),
+      });
+      if (response.ok) {
+        const data = await response.json();
+        localStorage.setItem('fortuneData', JSON.stringify(data));
+        router.push('/generating-fortune');
+      } else {
+        const errorData = await response.json();
+        alert(errorData.error || 'Failed to generate fortune. Please try again.');
+      }
+    } catch (error) {
+      alert('An unexpected error occurred. Please check your connection or try again later.');
+    } finally {
+      setIsGenerating(false);
+    }
   };
 
   if (!init) {
@@ -92,7 +113,7 @@ export default function CollectInfoScreen() {
             <Input 
               id="fullName" 
               type="text" 
-              placeholder="e.g., Ada Lovelace" 
+              placeholder="e.g., Alex Chan" 
               value={fullName}
               onChange={(e) => setFullName(e.target.value)}
               className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
@@ -142,8 +163,9 @@ export default function CollectInfoScreen() {
                        hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 \
                        rounded-lg shadow-md transform transition-all duration-150 \
                        hover:shadow-xl active:scale-95"
+            disabled={isGenerating}
           >
-            Consult the Oracle
+            {isGenerating ? 'Consulting...' : 'Consult the Oracle'}
           </Button>
         </CardFooter>
       </Card>
