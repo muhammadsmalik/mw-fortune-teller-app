@@ -46,10 +46,11 @@
     - Visuals: Header, fortune display area, CTA button ("Save & Share This Wisdom").
     - API route `/api/generate-fortune` created with Gemini integration for dynamic, structured fortune generation.
 
-- **[TODO]** **Screen 4: Prompt for Contact & Sharing (`app/contact-details/page.js` - or similar route)**
+- **[DONE]** **Screen 4: Prompt for Contact & Sharing (`app/contact-details/page.js`)**
     - Purpose: Capture mandatory contact details and offer sharing.
     - Layout: Centered Card.
     - Visuals: Header, instructional text, form fields (Email/Phone), sharing buttons (WhatsApp, Email).
+    - Backend: API route `/api/submit-lead` created to capture lead data and store it in Google Sheets.
 
 - **[TODO]** **Screen 5: Completion/Thank You & Reset (`app/thank-you/page.js` - or similar route)**
     - Purpose: Confirm actions, thank user, promote demo, reset.
@@ -59,5 +60,5 @@
 
 - **[IN PROGRESS]** Consistency in styling, typography, whitespace, and hierarchy.
 - **[IN PROGRESS]** Interactive states (focus, hover, active) for UI elements.
-- **[TODO]** Loading states for buttons/actions.
+- **[DONE]** Loading states for buttons/actions (implemented in contact details page).
 - **[TODO]** Error handling (form validation, API errors if any in future).
