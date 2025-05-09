@@ -51,6 +51,7 @@
     - Layout: Centered Card.
     - Visuals: Header, instructional text, form fields (Email/Phone), sharing buttons (WhatsApp, Email).
     - Backend: API route `/api/submit-lead` created to capture lead data and store it in Google Sheets.
+    - **[DONE]** Ensured correct user data and fortune text are passed to `/api/submit-lead` by fixing `localStorage` population in `collect-info` and `display-fortune` pages.
 
 - **[TODO]** **Screen 5: Completion/Thank You & Reset (`app/thank-you/page.js` - or similar route)**
     - Purpose: Confirm actions, thank user, promote demo, reset.

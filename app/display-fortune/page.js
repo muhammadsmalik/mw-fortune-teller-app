@@ -69,6 +69,9 @@ export default function DisplayFortuneScreen() {
     setFortune(htmlString);
     setIsLoadingFortune(false);
     
+    // Store the generated fortune text for the contact page
+    localStorage.setItem('fortuneApp_fortuneText', htmlString);
+
     // Optional: Clear the stored fortune after displaying it if it's a one-time view
     // localStorage.removeItem('fortuneData');
 

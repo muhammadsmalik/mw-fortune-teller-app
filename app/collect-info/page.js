@@ -67,6 +67,12 @@ export default function CollectInfoScreen() {
       if (response.ok) {
         const data = await response.json();
         localStorage.setItem('fortuneData', JSON.stringify(data));
+
+        // Store user inputs for contact page
+        localStorage.setItem('fortuneApp_fullName', fullName);
+        localStorage.setItem('fortuneApp_industry', industryType);
+        localStorage.setItem('fortuneApp_companyName', companyName);
+
         router.push('/generating-fortune');
       } else {
         const errorData = await response.json();
