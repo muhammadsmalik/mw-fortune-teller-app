@@ -106,8 +106,8 @@ export default function WelcomeScreen() {
 
   const handleStart = () => {
     console.log("Navigating to next screen with Moving Walls theme...");
-    alert("Button clicked! Navigation to be implemented.");
-    // router.push('/collect-info');
+    // alert("Button clicked! Navigation to be implemented.");
+    router.push('/collect-info');
   };
 
   if (!init) {
@@ -126,7 +126,6 @@ export default function WelcomeScreen() {
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
         <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
-        {/* Consider using an actual Moving Walls SVG logo here later - Note: Already using it from previous step */}
       </div>
 
       <main className="flex flex-col items-center justify-center text-center space-y-8">
