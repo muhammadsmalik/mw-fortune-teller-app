@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useMemo, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
@@ -133,22 +134,43 @@ export default function DisplayFortuneScreen() {
         <span className="font-semibold">Moving Walls</span>
       </div>
 
-      <Card className="bg-card rounded-lg shadow-lg w-full max-w-xl z-10 mx-4"> {/* Increased max-w slightly */}
+      <Card className="bg-card rounded-lg shadow-lg w-full max-w-3xl z-10 mx-4"> {/* Increased max-w for more space */}
         <CardHeader className="text-center pt-6 sm:pt-8">
           <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
             Your Fortune Reveals...
           </CardTitle>
         </CardHeader>
         <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
-          <div className="bg-mw-dark-navy p-4 sm:p-6 rounded-md border border-mw-light-blue/30 my-4 min-h-[200px] flex flex-col justify-center">
-            {fortune ? (
-              <div
-                className="text-mw-white text-sm sm:text-base leading-relaxed"
-                dangerouslySetInnerHTML={{ __html: fortune }}
-              />
-            ) : (
-              <p className="text-mw-white/70 text-center">Your fortune is being summoned...</p>
-            )}
+          <div className="flex flex-col md:flex-row items-center md:items-center gap-6 md:gap-8">
+            {/* Column 1: CEO Image */}
+            <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center">
+              <div className="w-full rounded-lg shadow-md overflow-hidden">
+                <Image
+                  src="/srikanth-reduced.png" // Assumes image is in public/srikanth-reduced.png
+                  alt="Srikanth Ramachandran, Founder CEO, Moving Walls"
+                  width={822} // Original width of the image for aspect ratio
+                  height={1012} // Original height of the image for aspect ratio
+                  layout="responsive" // Makes the image scale with its container
+                  className="rounded-lg"
+                />
+              </div>
+              <p className="text-center text-mw-white mt-3 font-semibold">Srikanth Ramachandran</p>
+              <p className="text-center text-mw-white/80 text-sm">Founder CEO of Moving Walls</p>
+            </div>
+
+            {/* Column 2: Fortune Text */}
+            <div className="w-full md:flex-1 order-2 md:order-none">
+              <div className="bg-mw-dark-navy p-4 sm:p-6 rounded-md border border-mw-light-blue/30 min-h-[200px] flex flex-col justify-center h-full">
+                {fortune ? (
+                  <div
+                    className="text-mw-white text-sm sm:text-base leading-relaxed"
+                    dangerouslySetInnerHTML={{ __html: fortune }}
+                  />
+                ) : (
+                  <p className="text-mw-white/70 text-center">Your fortune is being summoned...</p>
+                )}
+              </div>
+            </div>
           </div>
         </CardContent>
         <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
