@@ -35,6 +35,7 @@ export default function DisplayFortuneScreen() {
     if (storedFortuneData) {
       try {
         const parsedData = JSON.parse(storedFortuneData);
+        localStorage.setItem('fortuneApp_structuredFortune', JSON.stringify(parsedData));
         
         htmlString += `<p class="font-caveat text-2xl sm:text-3xl text-mw-white mb-6 text-center">${parsedData.openingLine || "A mysterious silence..."}</p>`;
         htmlString += `<div class="space-y-3 text-mw-white/95">`;

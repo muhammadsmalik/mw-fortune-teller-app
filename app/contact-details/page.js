@@ -6,6 +6,16 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+  DialogFooter,
+  DialogClose,
+} from "@/components/ui/dialog";
+import { QRCodeSVG } from 'qrcode.react';
+import {
   Card,
   CardContent,
   CardDescription,
@@ -13,7 +23,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Mail, MessageCircleMore, Loader2, AlertCircle, CheckCircle2 } from 'lucide-react';
+import { Mail, MessageCircleMore, Loader2, AlertCircle, CheckCircle2, QrCode } from 'lucide-react';
 
 export default function ContactDetailsPage() {
   const router = useRouter();
@@ -22,6 +32,9 @@ export default function ContactDetailsPage() {
   const [error, setError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [shareableFortuneText, setShareableFortuneText] = useState('Your fortune is being prepared for sharing...');
+  const [isQrModalOpen, setIsQrModalOpen] = useState(false);
+  const [qrCodeValue, setQrCodeValue] = useState('');
 
   // State for data that would typically come from previous steps/global state
   const [leadData, setLeadData] = useState({
@@ -44,6 +57,50 @@ export default function ContactDetailsPage() {
       companyName: storedCompanyName,
       fortuneText: storedFortuneText,
     });
+  }, []);
+
+  useEffect(() => {
+    const structuredFortuneString = localStorage.getItem('fortuneApp_structuredFortune');
+    let textToShare = "Your fortune is being prepared for sharing...";
+
+    if (structuredFortuneString) {
+      try {
+        const structuredFortune = JSON.parse(structuredFortuneString);
+        let parts = [];
+        if (structuredFortune.openingLine) parts.push(structuredFortune.openingLine);
+        
+        // Remove emojis from shareable text for better cross-platform compatibility
+        if (structuredFortune.locationInsight) parts.push(structuredFortune.locationInsight.replace('📍', '').trim());
+        if (structuredFortune.audienceOpportunity) parts.push(structuredFortune.audienceOpportunity.replace('👀', '').trim());
+        if (structuredFortune.engagementForecast) parts.push(structuredFortune.engagementForecast.replace('💥', '').trim());
+        if (structuredFortune.transactionsPrediction) parts.push(structuredFortune.transactionsPrediction.replace('💸', '').trim());
+        if (structuredFortune.aiAdvice) parts.push(structuredFortune.aiAdvice.replace('🔮', '').trim());
+        
+        textToShare = parts.join('\n\n');
+        textToShare += "\n\nI'd love to book a meeting to learn more...";
+
+      } catch (e) {
+        console.error("Failed to parse structured fortune for sharing:", e);
+        const htmlFortune = localStorage.getItem('fortuneApp_fortuneText');
+        if (htmlFortune) {
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = htmlFortune;
+          textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+        } else {
+          textToShare = "Could not retrieve fortune for sharing.";
+        }
+      }
+    } else {
+      const htmlFortune = localStorage.getItem('fortuneApp_fortuneText');
+      if (htmlFortune) {
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = htmlFortune;
+        textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+      } else {
+        textToShare = "Fortune details not available for sharing.";
+      }
+    }
+    setShareableFortuneText(textToShare);
   }, []);
 
   const handleSubmit = async (e) => {
@@ -92,6 +149,41 @@ export default function ContactDetailsPage() {
       setError('An unexpected error occurred. Please check your connection and try again.');
     }
     setIsLoading(false);
+  };
+
+  const handleShareWhatsApp = () => {
+    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
+      alert("Fortune text is not available to share yet. Please wait a moment.");
+      return;
+    }
+    console.log("Original shareableFortuneText for WhatsApp:", shareableFortuneText);
+    const message = encodeURIComponent(shareableFortuneText);
+    const phoneNumber = "601131412766";
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+    console.log("Generated WhatsApp URL:", whatsappUrl);
+    window.open(whatsappUrl, '_blank');
+  };
+
+  const handleShareEmail = () => {
+    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
+      alert("Fortune text is not available to share yet. Please wait a moment.");
+      return;
+    }
+    const subject = encodeURIComponent("My Business Fortune from Moving Walls!");
+    const body = encodeURIComponent(shareableFortuneText);
+    window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
+  };
+
+  const handleShareViaQrCode = () => {
+    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
+      alert("Fortune text is not available to share yet. Please wait a moment.");
+      return;
+    }
+    const phoneNumber = "601131412766"; // Same number as direct WhatsApp share
+    const message = encodeURIComponent(shareableFortuneText);
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+    setQrCodeValue(whatsappUrl);
+    setIsQrModalOpen(true);
   };
 
   return (
@@ -157,12 +249,48 @@ export default function ContactDetailsPage() {
         <CardFooter className="flex flex-col items-center pt-6">
           <p className="text-mw-white/70 text-sm mb-3">Share Your Insight:</p>
           <div className="flex space-x-4">
-            <Button variant="outline" className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue">
-              <MessageCircleMore className="mr-2 h-5 w-5" /> WhatsApp
-            </Button>
-            <Button variant="outline" className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue">
+            <Button 
+              variant="outline" 
+              className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
+              onClick={handleShareEmail}
+              disabled={!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
+            >
               <Mail className="mr-2 h-5 w-5" /> Email
             </Button>
+            <Dialog open={isQrModalOpen} onOpenChange={setIsQrModalOpen}>
+              <DialogTrigger asChild>
+                <Button
+                  variant="outline"
+                  className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
+                  onClick={handleShareViaQrCode}
+                  disabled={!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
+                >
+                  <QrCode className="mr-2 h-5 w-5" /> WhatsApp QR
+                </Button>
+              </DialogTrigger>
+              <DialogContent className="sm:max-w-md bg-slate-800 border-slate-700 text-mw-white">
+                <DialogHeader>
+                  <DialogTitle className="text-mw-light-blue">Share via WhatsApp QR</DialogTitle>
+                </DialogHeader>
+                <div className="flex flex-col items-center justify-center p-4">
+                  {qrCodeValue ? (
+                    <QRCodeSVG value={qrCodeValue} size={256} bgColor="#1e293b" fgColor="#FFFFFF" level="H" className="rounded-lg" />
+                  ) : (
+                    <p>Generating QR code...</p>
+                  )}
+                  <p className="mt-4 text-sm text-mw-white/80 text-center">
+                    Scan this QR code with your phone to share the fortune on WhatsApp.
+                  </p>
+                </div>
+                <DialogFooter className="sm:justify-center">
+                  <DialogClose asChild>
+                    <Button type="button" variant="secondary" className="bg-mw-light-blue text-mw-dark-navy hover:bg-mw-light-blue/90">
+                      Close
+                    </Button>
+                  </DialogClose>
+                </DialogFooter>
+              </DialogContent>
+            </Dialog>
           </div>
         </CardFooter>
       </Card>

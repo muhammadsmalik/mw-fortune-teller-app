@@ -12,3 +12,4 @@
 6. Fallback LLM
 7. Retry mechanism
 8. Thank you page
+9. Fix formatting on WA & Email
