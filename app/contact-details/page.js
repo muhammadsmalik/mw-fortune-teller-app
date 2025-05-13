@@ -24,6 +24,8 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import { Mail, MessageCircleMore, Loader2, AlertCircle, CheckCircle2, QrCode } from 'lucide-react';
+import 'react-phone-number-input/style.css'
+import PhoneInput, { isValidPhoneNumber } from 'react-phone-number-input'
 
 export default function ContactDetailsPage() {
   const router = useRouter();
@@ -35,6 +37,7 @@ export default function ContactDetailsPage() {
   const [shareableFortuneText, setShareableFortuneText] = useState('Your fortune is being prepared for sharing...');
   const [isQrModalOpen, setIsQrModalOpen] = useState(false);
   const [qrCodeValue, setQrCodeValue] = useState('');
+  const [isLeadSaved, setIsLeadSaved] = useState(false);
 
   // State for data that would typically come from previous steps/global state
   const [leadData, setLeadData] = useState({
@@ -112,8 +115,13 @@ export default function ContactDetailsPage() {
       setError('Email address is mandatory.');
       return;
     }
+    if (!phoneNumber || !isValidPhoneNumber(phoneNumber)) {
+      setError('A valid phone number is mandatory.');
+      return;
+    }
 
     setIsLoading(true);
+    setIsLeadSaved(false);
 
     const payload = {
       ...leadData,
@@ -135,18 +143,17 @@ export default function ContactDetailsPage() {
       if (!response.ok) {
         setError(result.message || 'Submission failed. Please try again.');
         console.error('Submission error details:', result.details);
+        setIsLeadSaved(false);
       } else {
-        setSuccessMessage(result.message || 'Your details have been saved!');
-        // Clear form or redirect
-        setEmail('');
-        setPhoneNumber('');
+        setSuccessMessage(result.message || 'Your details have been saved! You can now share your fortune below, or click "Finish & Continue".');
+        setIsLeadSaved(true);
         // Optional: store contact method for thank you page
         localStorage.setItem('fortuneApp_contactMethod', email);
-        router.push('/thank-you'); // Navigate to thank you page on success
       }
     } catch (err) {
       console.error('Network or other error:', err);
       setError('An unexpected error occurred. Please check your connection and try again.');
+      setIsLeadSaved(false);
     }
     setIsLoading(false);
   };
@@ -192,7 +199,7 @@ export default function ContactDetailsPage() {
         <CardHeader>
           <CardTitle className="text-2xl font-bold tracking-wide text-center">Keep Your Fortune & Connect!</CardTitle>
           <CardDescription className="text-mw-white/80 text-center pt-2">
-            Enter your details to receive your fortune and learn how Moving Walls can help you achieve it. (Email is mandatory)
+            Enter your details to receive your fortune and learn how Moving Walls can help you achieve it.
           </CardDescription>
         </CardHeader>
         <CardContent>
@@ -207,17 +214,21 @@ export default function ContactDetailsPage() {
                 onChange={(e) => setEmail(e.target.value)}
                 required
                 className="bg-slate-800 border-slate-700 text-mw-white focus:ring-mw-light-blue"
+                disabled={isLeadSaved || isLoading}
               />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="phoneNumber" className="text-mw-white/90">Phone Number (Optional)</Label>
-              <Input
+              <Label htmlFor="phoneNumber" className="text-mw-white/90">Phone Number *</Label>
+              <PhoneInput
                 id="phoneNumber"
-                type="tel"
-                placeholder="+1 555 123 4567"
+                placeholder="Enter phone number"
                 value={phoneNumber}
-                onChange={(e) => setPhoneNumber(e.target.value)}
-                className="bg-slate-800 border-slate-700 text-mw-white focus:ring-mw-light-blue"
+                onChange={setPhoneNumber}
+                defaultCountry="MX"
+                international
+                countryCallingCodeEditable={false}
+                className="phone-input-mw"
+                disabled={isLeadSaved || isLoading}
               />
             </div>
 
@@ -230,16 +241,20 @@ export default function ContactDetailsPage() {
             {successMessage && !error && (
               <div className="flex items-center p-3 text-sm text-green-400 bg-green-900/30 rounded-md border border-green-400/50">
                 <CheckCircle2 className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span className='flex-grow'>{successMessage} - Redirecting...</span>
+                <span className='flex-grow'>{successMessage}</span>
               </div>
             )}
 
             <Button 
-              type="submit" 
+              type={isLeadSaved ? "button" : "submit"}
+              onClick={isLeadSaved ? () => router.push('/thank-you') : undefined}
               disabled={isLoading}
-              className="w-full bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90 disabled:opacity-50 flex items-center justify-center">
+              className="w-full bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90 disabled:opacity-50 flex items-center justify-center"
+            >
               {isLoading ? (
-                <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> Sending...</>
+                <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> {isLeadSaved ? 'Proceeding...' : 'Sending...'}</>
+              ) : isLeadSaved ? (
+                'Finish & Continue'
               ) : (
                 'Send My Fortune'
               )}
@@ -247,13 +262,13 @@ export default function ContactDetailsPage() {
           </form>
         </CardContent>
         <CardFooter className="flex flex-col items-center pt-6">
-          <p className="text-mw-white/70 text-sm mb-3">Share Your Insight:</p>
+          <p className="text-mw-white/70 text-sm mb-3 font-medium">Share Your Insight:</p>
           <div className="flex space-x-4">
             <Button 
               variant="outline" 
               className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
               onClick={handleShareEmail}
-              disabled={!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
+              disabled={!isLeadSaved || isLoading || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
             >
               <Mail className="mr-2 h-5 w-5" /> Email
             </Button>
@@ -263,7 +278,7 @@ export default function ContactDetailsPage() {
                   variant="outline"
                   className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
                   onClick={handleShareViaQrCode}
-                  disabled={!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
+                  disabled={!isLeadSaved || isLoading || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
                 >
                   <QrCode className="mr-2 h-5 w-5" /> WhatsApp QR
                 </Button>
@@ -292,6 +307,11 @@ export default function ContactDetailsPage() {
               </DialogContent>
             </Dialog>
           </div>
+          {!isLeadSaved && (
+            <p className="text-mw-white/80 text-xs mt-3 text-center">
+              Please save your details above to enable sharing.
+            </p>
+          )}
         </CardFooter>
       </Card>
       <p className="text-mw-white/70 text-xs mt-8">Moving Walls Logo</p>
@@ -304,4 +324,5 @@ export default function ContactDetailsPage() {
 // localStorage.setItem('fortuneApp_fullName', 'John Doe');
 // localStorage.setItem('fortuneApp_industry', 'Technology');
 // localStorage.setItem('fortuneApp_companyName', 'Innovate Corp');
-// localStorage.setItem('fortuneApp_fortuneText', 'A great opportunity will arise soon.'); 
+// localStorage.setItem('fortuneApp_fortuneText', 'A great opportunity will arise soon.');
+// localStorage.setItem('fortuneApp_structuredFortune', '{"openingLine":"Greetings, John Doe of Innovate Corp!","locationInsight":"📍 Your operations in Technology show strong potential in emerging markets.","audienceOpportunity":"👀 There is a growing audience segment interested in sustainable tech solutions.","engagementForecast":"💥 Expect a significant surge in engagement if you highlight your eco-friendly practices.","transactionsPrediction":"💸 Adopting a clearer value proposition for these solutions could increase transactions by 15-20%.","aiAdvice":"🔮 Leverage AI to personalize outreach to this eco-conscious segment for optimal conversion."}'); 

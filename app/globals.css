@@ -85,3 +85,43 @@
   0%, 100% { opacity: 0.7; transform: scale(1); }
   50% { opacity: 1; transform: scale(1.05); }
 }
+
+/* Styling for react-phone-number-input */
+.phone-input-mw .PhoneInputInput {
+  /* Use HSL variables defined in :root */
+  background-color: hsl(var(--input)); 
+  border-color: hsl(var(--border));
+  color: hsl(var(--foreground));
+  padding: 0.5rem 0.75rem; /* Match typical input padding */
+  border-radius: var(--radius);
+  border-width: 1px;
+  outline: none; /* Remove default outline */
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.phone-input-mw .PhoneInputInput:focus {
+  border-color: hsl(var(--ring));
+  box-shadow: 0 0 0 2px hsl(var(--ring) / 0.4); /* Example focus ring using the ring color */
+}
+
+/* Style the country select dropdown */
+.phone-input-mw .PhoneInputCountrySelect {
+  /* Add styles if needed - it often looks okay by default */
+  /* Example: Change arrow color or background */
+}
+
+.phone-input-mw .PhoneInputCountryIcon {
+  /* Adjust icon size or margin if needed */
+  margin-right: 0.5rem;
+}
+
+/* Ensure disabled state looks right */
+.phone-input-mw .PhoneInputInput:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.phone-input-mw .PhoneInputCountrySelect:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

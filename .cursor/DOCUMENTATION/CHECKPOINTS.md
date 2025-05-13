@@ -61,5 +61,5 @@
 
 - **[IN PROGRESS]** Consistency in styling, typography, whitespace, and hierarchy.
 - **[IN PROGRESS]** Interactive states (focus, hover, active) for UI elements.
-- **[DONE]** Loading states for buttons/actions (implemented in contact details page).
-- **[TODO]** Error handling (form validation, API errors if any in future).
+- **[DONE]** Loading states for buttons/actions (e.g., `contact-details`, `collect-info` pages).
+- **[DONE]** Error handling (form validation on client-side, API error handling on server-side, and display of API errors on client-side).

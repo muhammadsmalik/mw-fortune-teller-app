@@ -35,11 +35,9 @@ Screen 2.5: Fortune Generation Animation (Brief & Engaging)
 Purpose: Minimal gamification, build anticipation.
 Visuals:
 Main Background: bg-mw-dark-navy.
-Animation: Focus on subtle, professional animations.
-A stylized data-stream or network graphic converging (using mw-light-blue lines on the mw-dark-navy background).
-Or, a simple loading spinner/pulsing circle using mw-light-blue. The "cookie cracking" might feel a bit off-brand with the stricter Moving Walls theme, so a more abstract "processing" animation is better.
-Text (Optional): "Consulting the data streams..." or "Your insight is being generated..." (Text: text-mw-white/80).
-Duration: 2-3 seconds.
+Animation: A Lottie animation of a fortune cookie (`public/animations/fortune-cookie-animation.json`) is displayed.
+Text: A series of engaging loading phrases (e.g., "Consulting the data streams...", "Aligning the digital stars...") are cycled through (Text: text-mw-white/80).
+Duration: 2-3 seconds (currently ~2.8 seconds before auto-navigation).
 Screen 3: Display Fortune
 
 Purpose: Present the generated fortune.
@@ -49,8 +47,12 @@ Content Container: Centered Card (bg-card, rounded-lg, shadow-lg).
 Visuals within Card:
 Header (H2): "Your Fortune Reveals..." (Text: text-mw-white, font-bold, tracking-wide).
 Fortune Display Area:
-A distinct sub-panel within the card, perhaps with a very subtle border border-mw-light-blue/30 or a slightly different shade like bg-mw-dark-navy (if card is lighter).
-Fortune Text: "[Positive Business Prediction related to Industry]. To know more, reach out to Moving Walls." (Text: text-mw-white, font-roboto, perhaps slightly larger body text). The "Moving Walls" part could be font-bold or text-mw-light-blue for subtle emphasis.
+The layout presents the fortune alongside an image of the CEO:
+  Image Area: Displays a picture of "Srikanth Ramachandran, Founder CEO, Moving Walls".
+  Fortune Text Area: A distinct sub-panel (bg-mw-dark-navy, border-mw-light-blue/30) displays the structured fortune:
+    - Opening Line: Creative and engaging (font-caveat, text-2xl sm:text-3xl).
+    - Detailed Insights: Location Insight, Audience Opportunity, Engagement Forecast, Transactions Prediction, and AI Oracle's Guidance are presented as labeled sections. The AI Oracle's Guidance includes a call to action to connect with Moving Walls.
+    (Text: text-mw-white, text-sm sm:text-base, with strong tags for labels colored text-mw-light-blue/90).
 CTA Button: "Save & Share This Wisdom"
 Styling: bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker, text-mw-dark-navy, rounded-lg, shadow-md.
 Moving Walls Logo: Bottom-left of the screen, text-mw-white/70.
@@ -62,16 +64,17 @@ Main Background: bg-mw-dark-navy.
 Content Container: Centered Card (bg-card, rounded-lg, shadow-lg).
 Visuals within Card:
 Header (H2): "Keep Your Fortune & Connect!" (Text: text-mw-white, font-bold, tracking-wide).
-Instructional Text: "Enter your details to receive your fortune and learn how Moving Walls can help you achieve it." (Text: text-mw-white/80). Include "(Mandatory)" clearly.
+Instructional Text: "Enter your details to receive your fortune and learn how Moving Walls can help you achieve it." (Text: text-mw-white/80). Mandatory fields are indicated with an asterisk (*) and validated with error messages.
 Form Fields (ShadCN <Input>):
 Labels: text-mw-white/90.
-Inputs: Themed (dark input, white text, ring-mw-light-blue).
-Sharing Options Header: "Choose how you'd like to receive it:" (text-mw-white/70).
+Inputs: Themed (dark input, white text, ring-mw-light-blue on focus) for Email and Phone Number (using `react-phone-number-input` for phone).
+Main CTA (Form Submission):
+  Button initially labeled "Send My Fortune" (Styling: bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker, text-mw-dark-navy). This action saves the user's details and the fortune, then enables sharing options.
+  Upon successful submission, the button text changes to "Finish & Continue" and navigates to the thank-you page.
+Sharing Options Header: "Share Your Insight:" (text-mw-white/70, displayed after details are saved or if already saved).
 Sharing Buttons (WhatsApp, Email):
-These could be secondary-style buttons to differentiate from the main gradient CTA.
-Option 1 (Subtler Gradient/Solid): Solid bg-mw-light-blue with text-mw-dark-navy, or a less prominent gradient.
-Option 2 (Outlined): border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10.
-Include Lucide icons (MessageCircleMore for WhatsApp, Mail for Email) colored text-mw-light-blue if outlined, or text-mw-dark-navy if solid background.
+Styled using an outlined approach: `border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10`.
+Include Lucide icons (Mail for Email, QrCode for WhatsApp QR) colored text-mw-light-blue.
 Rounded corners, subtle shadow.
 Moving Walls Logo: Bottom-left of the screen, text-mw-white/70.
 Screen 5: Completion/Thank You & Reset
@@ -101,6 +104,6 @@ Focus states for inputs should use ring-mw-light-blue.
 Button hover/active states should be subtle but clear (e.g., slight brightness change on gradient, slight scale).
 Loading states on buttons (spinners) should use mw-light-blue or mw-white.
 Error Handling:
-Inline error messages for forms: text-red-400 (or a theme-aligned destructive color if defined).
-Toast/Alerts (ShadCN): Style these to fit the theme (dark background, white text, potentially a mw-light-blue accent for info/success, red for error).
+Inline error messages for forms: Displayed in a themed div (e.g., `text-red-400 bg-red-900/30 border-red-400/50`) with an `AlertCircle` icon.
+Success messages are similarly displayed in a themed div with a `CheckCircle2` icon.
 This revised plan ensures that every step of the user journey is infused with the Moving Walls brand identity, providing a professional and cohesive experience.
