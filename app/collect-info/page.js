@@ -1,14 +1,16 @@
 'use client';
 
-import { useEffect, useState, useMemo, useCallback } from 'react';
+import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
+import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
+import { Mic, MicOff, Loader2 } from 'lucide-react';
 
 export default function CollectInfoScreen() {
   const router = useRouter();
@@ -22,6 +24,18 @@ export default function CollectInfoScreen() {
   // New state for optional fields
   const [geographicFocus, setGeographicFocus] = useState('');
   const [businessObjective, setBusinessObjective] = useState('');
+
+  // --- Voice Input State and Logic ---
+  const [mediaRecorder, setMediaRecorder] = useState(null);
+  // audioChunks state is kept for potential logging or UI feedback if needed during recording.
+  const [audioChunks, setAudioChunks] = useState([]); 
+  // collectedChunksRef is used to reliably collect audio data across MediaRecorder events,
+  // bypassing potential React state update latencies within event handlers.
+  const collectedChunksRef = useRef([]); 
+  const [recordingTargetField, setRecordingTargetField] = useState(null); 
+  const [isRecording, setIsRecording] = useState(false);
+  const [isTranscribing, setIsTranscribing] = useState(false);
+  const [transcriptionError, setTranscriptionError] = useState('');
 
   // Particles engine initialization
   useEffect(() => {
@@ -52,10 +66,104 @@ export default function CollectInfoScreen() {
     detectRetina: true,
   }), []);
 
+  // Handles the initiation of audio recording for a specific input field.
+  const startRecording = async (fieldName) => {
+    setTranscriptionError('');
+    if (isRecording || isTranscribing) return; // Prevent multiple recordings or recording during transcription.
+
+    // Clear previously collected audio data.
+    collectedChunksRef.current = [];
+    setAudioChunks([]); 
+
+    try {
+      // Request microphone access from the user.
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const recorder = new MediaRecorder(stream);
+      setMediaRecorder(recorder);
+      setRecordingTargetField(fieldName);
+      setIsRecording(true);
+
+      // Event handler for when audio data becomes available.
+      recorder.ondataavailable = (event) => {
+        console.log('Audio chunk received, size:', event.data.size);
+        if (event.data.size > 0) {
+          collectedChunksRef.current.push(event.data); // Store chunk in ref.
+          setAudioChunks(prev => [...prev, event.data]); // Update state for logging.
+        }
+      };
+
+      // Event handler for when recording stops.
+      recorder.onstop = async () => {
+        console.log('Recording stopped (onstop). State chunks collected:', audioChunks.length, 'Ref chunks collected:', collectedChunksRef.current.length);
+        console.log('Total size from ref being sent:', collectedChunksRef.current.reduce((acc, chunk) => acc + chunk.size, 0));
+        
+        setIsRecording(false);
+        setIsTranscribing(true);
+        // Create a Blob from the collected audio chunks (from ref for reliability).
+        const audioBlob = new Blob(collectedChunksRef.current, { type: 'audio/webm' }); 
+        
+        const formData = new FormData();
+        formData.append('audio', audioBlob, `${fieldName}_recording.webm`);
+
+        try {
+          // Send audio data to the backend for transcription.
+          const response = await fetch('/api/transcribe-audio', {
+            method: 'POST',
+            body: formData,
+          });
+          const result = await response.json();
+
+          if (response.ok && result.transcript !== undefined) {
+            const transcribedText = result.transcript;
+            // Update the corresponding input field with the transcribed text.
+            switch (fieldName) {
+              case 'geographicFocus': setGeographicFocus(transcribedText); break;
+              case 'businessObjective': setBusinessObjective(transcribedText); break;
+              default: break;
+            }
+          } else {
+            console.error("Transcription API error:", result.error, result.details);
+            setTranscriptionError(result.error || 'Failed to transcribe. Please try again.');
+          }
+        } catch (err) {
+          console.error("Transcription fetch error:", err);
+          setTranscriptionError('Network error during transcription. Please try again.');
+        } finally {
+          setIsTranscribing(false);
+          setRecordingTargetField(null);
+          // Important: Stop all tracks on the media stream to release the microphone.
+          stream.getTracks().forEach(track => track.stop());
+        }
+      };
+      recorder.start(); // Start the recording process.
+    } catch (err) {
+      console.error("Error starting recording:", err);
+      setTranscriptionError('Microphone access denied or an error occurred.');
+      setIsRecording(false);
+      setRecordingTargetField(null);
+    }
+  };
+
+  // Stops the current audio recording if one is active.
+  const stopRecording = () => {
+    if (mediaRecorder && mediaRecorder.state === "recording") {
+      mediaRecorder.stop();
+    }
+  };
+
+  // Toggles recording on/off for a given field or stops if already recording for that field.
+  const handleVoiceInput = (fieldName) => {
+    if (isRecording && recordingTargetField === fieldName) {
+      stopRecording();
+    } else if (!isRecording && !isTranscribing) {
+      // Only start a new recording if not currently recording or transcribing.
+      startRecording(fieldName);
+    }
+  };
+
   const handleProceed = async () => {
-    // Basic validation (optional, can be enhanced)
     if (!fullName || !industryType || !companyName) {
-      alert("Please fill in all fields.");
+      alert("Please fill in all required fields: Full Name, Industry Type, and Company Name.");
       return;
     }
     console.log("Collected Info:", { fullName, industryType, companyName, geographicFocus, businessObjective });
@@ -71,15 +179,11 @@ export default function CollectInfoScreen() {
       if (response.ok) {
         const data = await response.json();
         localStorage.setItem('fortuneData', JSON.stringify(data));
-
-        // Store user inputs for contact page
         localStorage.setItem('fortuneApp_fullName', fullName);
         localStorage.setItem('fortuneApp_industry', industryType);
         localStorage.setItem('fortuneApp_companyName', companyName);
-        // Also store optional fields if provided, for potential use later
         if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
         if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
-
         router.push('/generating-fortune');
       } else {
         const errorData = await response.json();
@@ -93,13 +197,34 @@ export default function CollectInfoScreen() {
   };
 
   if (!init) {
-    return null; // Or a minimal loading state
+    return null; 
   }
+
+  // Renders the microphone button with appropriate icon based on recording/transcribing state.
+  const renderMicButton = (fieldName) => (
+    <Button
+      type="button"
+      variant="outline"
+      size="icon"
+      className="ml-2 border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 disabled:opacity-50"
+      onClick={() => handleVoiceInput(fieldName)}
+      // Disable button if: actively recording for another field, transcribing for another field, or main form is generating.
+      disabled={(isRecording && recordingTargetField !== fieldName) || (isTranscribing && recordingTargetField !== fieldName) || isGenerating}
+    >
+      {isTranscribing && recordingTargetField === fieldName ? (
+        <Loader2 className="h-5 w-5 animate-spin" />
+      ) : isRecording && recordingTargetField === fieldName ? (
+        <MicOff className="h-5 w-5 text-red-500" />
+      ) : (
+        <Mic className="h-5 w-5" />
+      )}
+    </Button>
+  );
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
       <Particles
-        id="tsparticles-collect-info" // Unique ID for this instance
+        id="tsparticles-collect-info" 
         particlesLoaded={particlesLoaded}
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]"
@@ -117,25 +242,33 @@ export default function CollectInfoScreen() {
             A Glimpse Into Your World...
           </CardTitle>
           <CardDescription className="text-mw-white/80 text-sm sm:text-base pt-2">
-            To tailor your fortune, please share a few details.
+            To tailor your fortune, please share a few details. You can type or use the microphone.
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-6 pt-6">
+          {transcriptionError && (
+            <div className="p-3 bg-red-900/30 text-red-400 border border-red-500/50 rounded-md text-sm">
+              {transcriptionError}
+            </div>
+          )}
           <div className="space-y-2">
-            <Label htmlFor="fullName" className="text-mw-white/90">Full Name</Label>
-            <Input 
-              id="fullName" 
-              type="text" 
-              placeholder="e.g., Alex Chan" 
-              value={fullName}
-              onChange={(e) => setFullName(e.target.value)}
-              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
-            />
+            <Label htmlFor="fullName" className="text-mw-white/90">Full Name *</Label>
+            <div className="flex items-center">
+              <Input 
+                id="fullName" 
+                type="text" 
+                placeholder="e.g., Alex Chan" 
+                value={fullName}
+                onChange={(e) => setFullName(e.target.value)}
+                className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring flex-grow"
+                disabled={isTranscribing && recordingTargetField === 'fullName'} // Retained disabled state for safety, though mic is removed.
+              />
+            </div>
           </div>
           
           <div className="space-y-2">
-            <Label htmlFor="industryType" className="text-mw-white/90">Industry Type</Label>
-            <Select value={industryType} onValueChange={setIndustryType}>
+            <Label htmlFor="industryType" className="text-mw-white/90">Industry Type *</Label>
+            <Select value={industryType} onValueChange={setIndustryType} disabled={isRecording || isTranscribing || isGenerating}>
               <SelectTrigger id="industryType" className="bg-input text-mw-white border-border focus:ring-ring">
                 <SelectValue placeholder="Select your industry" />
               </SelectTrigger>
@@ -155,15 +288,18 @@ export default function CollectInfoScreen() {
           </div>
 
           <div className="space-y-2">
-            <Label htmlFor="companyName" className="text-mw-white/90">Company Name</Label>
-            <Input 
-              id="companyName" 
-              type="text" 
-              placeholder="e.g., Innovate Solutions Ltd." 
-              value={companyName}
-              onChange={(e) => setCompanyName(e.target.value)}
-              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
-            />
+            <Label htmlFor="companyName" className="text-mw-white/90">Company Name *</Label>
+            <div className="flex items-center">
+              <Input 
+                id="companyName" 
+                type="text" 
+                placeholder="e.g., Innovate Solutions Ltd." 
+                value={companyName}
+                onChange={(e) => setCompanyName(e.target.value)}
+                className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring flex-grow"
+                disabled={isTranscribing && recordingTargetField === 'companyName'} // Retained disabled state for safety, though mic is removed.
+              />
+            </div>
           </div>
 
           {/* Optional Fields Section */}
@@ -175,26 +311,34 @@ export default function CollectInfoScreen() {
 
           <div className="space-y-2">
             <Label htmlFor="geographicFocus" className="text-mw-white/90">Where does your business primarily operate or focus its efforts? (Optional)</Label>
-            <Input 
-              id="geographicFocus" 
-              type="text" 
-              placeholder="e.g., New York City, Southeast Asia" 
-              value={geographicFocus}
-              onChange={(e) => setGeographicFocus(e.target.value)}
-              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
-            />
+            <div className="flex items-center">
+              <Input 
+                id="geographicFocus" 
+                type="text" 
+                placeholder="e.g., New York City, Southeast Asia" 
+                value={geographicFocus}
+                onChange={(e) => setGeographicFocus(e.target.value)}
+                className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring flex-grow"
+                disabled={isTranscribing && recordingTargetField === 'geographicFocus'}
+              />
+              {renderMicButton('geographicFocus')}
+            </div>
           </div>
 
           <div className="space-y-2">
             <Label htmlFor="businessObjective" className="text-mw-white/90">What's your main business goal right now? (Optional)</Label>
-            <Input 
-              id="businessObjective" 
-              type="text" 
-              placeholder="e.g., Increase brand awareness, Launch new product" 
-              value={businessObjective}
-              onChange={(e) => setBusinessObjective(e.target.value)}
-              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
-            />
+            <div className="flex items-center">
+              <Textarea
+                id="businessObjective" 
+                placeholder="e.g., Increase brand awareness, Launch new product" 
+                value={businessObjective}
+                onChange={(e) => setBusinessObjective(e.target.value)}
+                className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring flex-grow min-h-[60px] resize-none"
+                rows={2}
+                disabled={isTranscribing && recordingTargetField === 'businessObjective'}
+              />
+              {renderMicButton('businessObjective')}
+            </div>
           </div>
 
         </CardContent>
@@ -208,7 +352,8 @@ export default function CollectInfoScreen() {
                        hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 \
                        rounded-lg shadow-md transform transition-all duration-150 \
                        hover:shadow-xl active:scale-95"
-            disabled={isGenerating}
+            // Disable proceed button if recording/transcribing to prevent navigating away mid-process.
+            disabled={isGenerating || isRecording || isTranscribing}
           >
             {isGenerating ? 'Consulting...' : 'Consult the Oracle'}
           </Button>
