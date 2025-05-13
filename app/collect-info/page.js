@@ -19,6 +19,10 @@ export default function CollectInfoScreen() {
   const [companyName, setCompanyName] = useState('');
   const [isGenerating, setIsGenerating] = useState(false);
 
+  // New state for optional fields
+  const [geographicFocus, setGeographicFocus] = useState('');
+  const [businessObjective, setBusinessObjective] = useState('');
+
   // Particles engine initialization
   useEffect(() => {
     initParticlesEngine(async (engine) => {
@@ -54,7 +58,7 @@ export default function CollectInfoScreen() {
       alert("Please fill in all fields.");
       return;
     }
-    console.log("Collected Info:", { fullName, industryType, companyName });
+    console.log("Collected Info:", { fullName, industryType, companyName, geographicFocus, businessObjective });
     setIsGenerating(true);
     try {
       const response = await fetch('/api/generate-fortune', {
@@ -62,7 +66,7 @@ export default function CollectInfoScreen() {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ fullName, industryType, companyName }),
+        body: JSON.stringify({ fullName, industryType, companyName, geographicFocus, businessObjective }),
       });
       if (response.ok) {
         const data = await response.json();
@@ -72,6 +76,9 @@ export default function CollectInfoScreen() {
         localStorage.setItem('fortuneApp_fullName', fullName);
         localStorage.setItem('fortuneApp_industry', industryType);
         localStorage.setItem('fortuneApp_companyName', companyName);
+        // Also store optional fields if provided, for potential use later
+        if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
+        if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
 
         router.push('/generating-fortune');
       } else {
@@ -158,6 +165,45 @@ export default function CollectInfoScreen() {
               className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
             />
           </div>
+
+          {/* Optional Fields Section */}
+          <div className="pt-4 space-y-2">
+            <p className="text-sm text-mw-white/70 italic text-center">
+              Optional: Sharing more details below will make your fortune even more personalized!
+            </p>
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="geographicFocus" className="text-mw-white/90">Primary Geographic Focus (Optional)</Label>
+            <Input 
+              id="geographicFocus" 
+              type="text" 
+              placeholder="e.g., New York City, Southeast Asia" 
+              value={geographicFocus}
+              onChange={(e) => setGeographicFocus(e.target.value)}
+              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
+            />
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="businessObjective" className="text-mw-white/90">Primary Business Objective (Optional)</Label>
+            <Select value={businessObjective} onValueChange={setBusinessObjective}>
+              <SelectTrigger id="businessObjective" className="bg-input text-mw-white border-border focus:ring-ring">
+                <SelectValue placeholder="Select your main objective" />
+              </SelectTrigger>
+              <SelectContent className="bg-popover border-border">
+                <SelectItem value="none" className="text-mw-white/70 hover:bg-mw-light-blue/20">None specified</SelectItem>
+                <SelectItem value="increase_brand_awareness" className="text-mw-white hover:bg-mw-light-blue/20">Increase brand awareness</SelectItem>
+                <SelectItem value="launch_new_product" className="text-mw-white hover:bg-mw-light-blue/20">Launch a new product/service</SelectItem>
+                <SelectItem value="expand_new_market" className="text-mw-white hover:bg-mw-light-blue/20">Expand to a new market</SelectItem>
+                <SelectItem value="drive_more_sales" className="text-mw-white hover:bg-mw-light-blue/20">Drive more sales/leads</SelectItem>
+                <SelectItem value="increase_foot_traffic" className="text-mw-white hover:bg-mw-light-blue/20">Increase foot traffic</SelectItem>
+                <SelectItem value="improve_customer_engagement" className="text-mw-white hover:bg-mw-light-blue/20">Improve customer engagement</SelectItem>
+                <SelectItem value="other_objective" className="text-mw-white hover:bg-mw-light-blue/20">Other</SelectItem>
+              </SelectContent>
+            </Select>
+          </div>
+
         </CardContent>
         <CardFooter className="pt-8 flex justify-center"> {/* Increased top padding for footer */}
           <Button

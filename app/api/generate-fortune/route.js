@@ -60,7 +60,14 @@ export async function POST(request) {
   }
 
   try {
-    const { fullName, industryType, companyName } = await request.json();
+    // Call request.json() once and destructure all fields
+    const { 
+      fullName, 
+      industryType, 
+      companyName, 
+      geographicFocus, 
+      businessObjective 
+    } = await request.json();
 
     if (!fullName || !industryType || !companyName) {
       return new Response(JSON.stringify({ error: "Missing required fields: fullName, industryType, or companyName" }), {
@@ -78,6 +85,23 @@ User Details:
 
 Generate a highly unique, optimistic, and slightly mystical business fortune specifically for THIS user: ${fullName} from ${companyName} in the '${industryType}' industry. Your primary goal is to make the user feel like this fortune is truly about THEM and THEIR specific business/industry context, not a generic template.
 The fortune should focus on potential success and opportunities, especially highlighting how Out-of-Home (OOH) advertising and related technologies can play a role in a way that feels fresh and specific to them.
+- Name: ${fullName}
+- Company: ${companyName}
+- Industry: ${industryType}
+${geographicFocus ? `- Primary Geographic Focus: ${geographicFocus}` : ''}
+${businessObjective ? `- Primary Business Objective: ${businessObjective.replace(/_/g, ' ')}` : ''}
+
+Generate a highly unique, optimistic, and slightly mystical business fortune specifically for THIS user: ${fullName} from ${companyName} in the '${industryType}' industry.
+${geographicFocus ? `They operate primarily in/target the '${geographicFocus}' area.` : ''}
+${businessObjective ? `Their current main business objective is to '${businessObjective.replace(/_/g, ' ')}'.` : ''}
+
+Your primary goal is to make the user feel like this fortune is truly about THEM and THEIR specific business/industry context, not a generic template.
+${businessObjective ? `The fortune should ideally align with or help them achieve their stated objective: '${businessObjective.replace(/_/g, ' ')}'.` : ''}
+
+The fortune should focus on potential success and opportunities, especially highlighting how Out-of-Home (OOH) advertising and related technologies can play a role in a way that feels fresh and specific to them.
+${geographicFocus ? `Make the 'locationInsight' particularly relevant to their '${geographicFocus}' area if possible, offering a unique OOH angle for that specific locale.` : ''}
+${businessObjective ? `Ensure the 'engagementForecast', 'transactionsPrediction', and especially the 'aiAdvice' are tailored to help them with their objective of '${businessObjective.replace(/_/g, ' ')}', suggesting how OOH can contribute.` : ''}
+
 The entire fortune must be extremely concise. When the text from all fields is read sequentially, it should ideally form a cohesive message of about 4-5 short lines. Prioritize impactful brevity and high originality for each individual field. Strive to weave in a subtle, creative, and non-obvious reference to their specific '${industryType}' if it feels natural within the mystical tone.
 
 Company Context (Moving Walls - the provider of this fortune):
@@ -107,7 +131,7 @@ Fortune Output (as JSON, adhering to the schema):
 {
   "openingLine": "Ah, the spirits whisper from the aisles of Mid Valley Megamall…",
   "locationInsight": "📍 Your retail sanctuaries see thousands roam, from young fashionistas to aunties in hunt for discounts.",
-  "audienceOpportunity": "👀 Each screen beams to 25,000 daily shoppers, half of whom can’t resist a 'sale' flash.",
+  "audienceOpportunity": "👀 Each screen beams to 25,000 daily shoppers, half of whom can't resist a 'sale' flash.",
   "engagementForecast": "💥 Add motion content and your engagement rates go up by 3x. Sensor-triggered promotions? Even better.",
   "transactionsPrediction": "💸 With QR-to-buy + proximity ads, you'll convert 'window shoppers' into 'wallet droppers'.",
   "aiAdvice": "🔮 AI says: unify shopper data + automate campaigns = 5X lift in monthly brand activations. Embrace now or forever hold your static ads. Connect with Moving Walls to unlock this potential!"
@@ -116,8 +140,8 @@ Fortune Output (as JSON, adhering to the schema):
 🚆 Example 2: (Hypothetical Input Context: Brazil, Transit - Buses, Classic, Small Format)
 Fortune Output (as JSON, adhering to the schema):
 {
-  "openingLine": "The bus gods say: even if your ad is small, your dreams needn’t be!",
-  "locationInsight": "📍 São Paulo’s traffic may stall, but your roadside banners ride 24/7 with the pulse of the city.",
+  "openingLine": "The bus gods say: even if your ad is small, your dreams needn't be!",
+  "locationInsight": "📍 São Paulo's traffic may stall, but your roadside banners ride 24/7 with the pulse of the city.",
   "audienceOpportunity": "👀 Each unit averages 15K views per route, from early commuters to vibrant nightlife seekers.",
   "engagementForecast": "💥 Digitize them and use geo-fencing — suddenly, your engagement leaps by 210% on mobile follow-ups for local events.",
   "transactionsPrediction": "💸 Hyperlocal campaigns for nearby cafes and services will see swift uptake from these captive audiences.",
@@ -129,7 +153,7 @@ Fortune Output (as JSON, adhering to the schema):
 {
   "openingLine": "The skies have spoken – your screens shall dazzle even the duty-free dodgers!",
   "locationInsight": "📍 In DXB Terminal 3, your digital marvels dominate premium eye-level spaces, catching pre-flight excitement.",
-  "audienceOpportunity": "👀 You’re looking at 100K affluent global travelers daily, many seeking luxury or last-minute travel essentials.",
+  "audienceOpportunity": "👀 You're looking at 100K affluent global travelers daily, many seeking luxury or last-minute travel essentials.",
   "engagementForecast": "💥 Run localized dynamic content by destination language and boarding gate — watch engagement spike by 7x.",
   "transactionsPrediction": "💸 Luxury brands and travel services will compete for these prime slots, boosting your yield significantly.",
   "aiAdvice": "🔮 The AI oracle sees: integrate with real-time flight data for hyper-relevant messaging, powered by Moving Walls' platform, for unparalleled ad performance. Connect with Moving Walls to make it reality!"
@@ -139,16 +163,16 @@ Fortune Output (as JSON, adhering to the schema):
 IMPORTANT INSTRUCTION REGARDING EXAMPLES AND DIVERSITY:
 The examples above are provided SOLELY to illustrate the desired style, tone, conciseness, use of emojis as per the schema, and the overall structure of the JSON output.
 You MUST NOT simply copy, rephrase, or be heavily biased by the specific *content* or *ideas* within these examples. The content in the examples is illustrative and intentionally somewhat generic to show structure; your generated content MUST BE SIGNIFICANTLY MORE ORIGINAL AND TAILORED.
-Your primary goal is to generate a COMPLETELY UNIQUE, DIVERSE, and ORIGINAL fortune specifically tailored to the *current user's details* (Name: ${fullName}, Company: ${companyName}, Industry: ${industryType}) and the general instructions provided.
+Your primary goal is to generate a COMPLETELY UNIQUE, DIVERSE, and ORIGINAL fortune specifically tailored to the *current user's details* (Name: ${fullName}, Company: ${companyName}, Industry: ${industryType}${geographicFocus ? `, Geographic Focus: ${geographicFocus}` : ''}${businessObjective ? `, Business Objective: ${businessObjective.replace(/_/g, ' ')}` : ''}) and the general instructions provided.
 The content of each field in your generated fortune MUST be fresh, creative, highly specific, and directly relevant to the current user and their unique industry. Avoid generic business platitudes. Think of new angles and possibilities for the current user.
 
 Instructions for Fortune Sections (follow the provided JSON schema and ensure each part is extremely brief, highly specific, and original for THIS user):
 - openingLine: Craft a *very brief*, witty, and captivating hook (a few words) that feels intriguing and uniquely hints at the user's potential or their specific '${industryType}'. No emojis here.
-- locationInsight: Provide a *very concise* and *specific* observation (1 short sentence) about their operational context or business location, linking to a *unique OOH advertising opportunity* relevant to their '${industryType}'. Start with the 📍 emoji.
+- locationInsight: Provide a *very concise* and *specific* observation (1 short sentence) about their operational context or business location, linking to a *unique OOH advertising opportunity* relevant to their '${industryType}'. ${geographicFocus ? `If they provided a geographic focus ('${geographicFocus}'), try to make this insight hyper-local and specific to that area.` : 'Make this as specific as possible based on their industry.'} Start with the 📍 emoji.
 - audienceOpportunity: Describe *briefly* and *vividly* (1 short sentence) the *specific* audience they can reach or unique market opportunities available via OOH for their '${industryType}', moving beyond generic descriptions. Start with the 👀 emoji.
-- engagementForecast: Predict *concisely* (1 short sentence) *specific* improvements in engagement, perhaps through innovative OOH or technology that feels particularly relevant and non-obvious for *their* business or '${industryType}'. Start with the 💥 emoji.
-- transactionsPrediction: Forecast *succinctly* (1 short sentence) business growth, sales, or conversions in a *tangible-sounding way*, with a clear, non-generic nod to OOH impact for *their* company in the '${industryType}'. Start with the 💸 emoji.
-- aiAdvice: Offer *very brief*, actionable, and *creative, non-obvious* advice (1-2 short sentences) as if from an AI oracle for *their specific situation*. Subtly integrate how Moving Walls' expertise or solutions can help them achieve *their unique* predicted positive outcomes. Conclude with a *short* call to action (e.g., "Connect with Moving Walls to explore your unique path!"). Start with the 🔮 emoji.
+- engagementForecast: Predict *concisely* (1 short sentence) *specific* improvements in engagement, perhaps through innovative OOH or technology that feels particularly relevant and non-obvious for *their* business or '${industryType}'. ${businessObjective ? `If they stated '${businessObjective.replace(/_/g, ' ')}' as an objective, align this forecast to contribute to it.` : ''} Start with the 💥 emoji.
+- transactionsPrediction: Forecast *succinctly* (1 short sentence) business growth, sales, or conversions in a *tangible-sounding way*, with a clear, non-generic nod to OOH impact for *their* company in the '${industryType}'. ${businessObjective ? `If they stated '${businessObjective.replace(/_/g, ' ')}' as an objective, connect this prediction to achieving that goal.` : ''} Start with the 💸 emoji.
+- aiAdvice: Offer *very brief*, actionable, and *creative, non-obvious* advice (1-2 short sentences) as if from an AI oracle for *their specific situation*. Subtly integrate how Moving Walls' expertise or solutions can help them achieve *their unique* predicted positive outcomes. ${businessObjective ? `Crucially, if their objective is '${businessObjective.replace(/_/g, ' ')}', this advice should offer a key insight or strategy on how OOH (and Moving Walls) can help them achieve it.` : ''} Conclude with a *short* call to action (e.g., "Connect with Moving Walls to explore your unique path!"). Start with the 🔮 emoji.
 
 Ensure each insight section (locationInsight, audienceOpportunity, engagementForecast, transactionsPrediction, aiAdvice) begins its text with the specific emoji mentioned in its schema description. Adhere strictly to the overall conciseness requirement: when the text from all fields is read sequentially, it should ideally form a cohesive message of about 4-5 short lines. Prioritize impactful brevity and HIGH ORIGINALITY for each individual field.
 
