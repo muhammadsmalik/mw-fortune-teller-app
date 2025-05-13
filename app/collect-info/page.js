@@ -174,7 +174,7 @@ export default function CollectInfoScreen() {
           </div>
 
           <div className="space-y-2">
-            <Label htmlFor="geographicFocus" className="text-mw-white/90">Primary Geographic Focus (Optional)</Label>
+            <Label htmlFor="geographicFocus" className="text-mw-white/90">Where does your business primarily operate or focus its efforts? (Optional)</Label>
             <Input 
               id="geographicFocus" 
               type="text" 
@@ -186,22 +186,15 @@ export default function CollectInfoScreen() {
           </div>
 
           <div className="space-y-2">
-            <Label htmlFor="businessObjective" className="text-mw-white/90">Primary Business Objective (Optional)</Label>
-            <Select value={businessObjective} onValueChange={setBusinessObjective}>
-              <SelectTrigger id="businessObjective" className="bg-input text-mw-white border-border focus:ring-ring">
-                <SelectValue placeholder="Select your main objective" />
-              </SelectTrigger>
-              <SelectContent className="bg-popover border-border">
-                <SelectItem value="none" className="text-mw-white/70 hover:bg-mw-light-blue/20">None specified</SelectItem>
-                <SelectItem value="increase_brand_awareness" className="text-mw-white hover:bg-mw-light-blue/20">Increase brand awareness</SelectItem>
-                <SelectItem value="launch_new_product" className="text-mw-white hover:bg-mw-light-blue/20">Launch a new product/service</SelectItem>
-                <SelectItem value="expand_new_market" className="text-mw-white hover:bg-mw-light-blue/20">Expand to a new market</SelectItem>
-                <SelectItem value="drive_more_sales" className="text-mw-white hover:bg-mw-light-blue/20">Drive more sales/leads</SelectItem>
-                <SelectItem value="increase_foot_traffic" className="text-mw-white hover:bg-mw-light-blue/20">Increase foot traffic</SelectItem>
-                <SelectItem value="improve_customer_engagement" className="text-mw-white hover:bg-mw-light-blue/20">Improve customer engagement</SelectItem>
-                <SelectItem value="other_objective" className="text-mw-white hover:bg-mw-light-blue/20">Other</SelectItem>
-              </SelectContent>
-            </Select>
+            <Label htmlFor="businessObjective" className="text-mw-white/90">What's your main business goal right now? (Optional)</Label>
+            <Input 
+              id="businessObjective" 
+              type="text" 
+              placeholder="e.g., Increase brand awareness, Launch new product" 
+              value={businessObjective}
+              onChange={(e) => setBusinessObjective(e.target.value)}
+              className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
+            />
           </div>
 
         </CardContent>
