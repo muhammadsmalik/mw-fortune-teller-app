@@ -43,7 +43,7 @@ export async function POST(req) {
       resource,
     });
 
-    return NextResponse.json({ message: 'Lead submitted successfully!', data: response.data }, { status: 200 });
+    return NextResponse.json({ message: 'Your details are saved! ✨\nFeel free to share your amazing fortune.', data: response.data }, { status: 200 });
 
   } catch (error) {
     console.error('Error submitting lead to Google Sheets:', error);

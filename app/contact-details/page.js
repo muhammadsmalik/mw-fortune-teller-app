@@ -65,6 +65,7 @@ export default function ContactDetailsPage() {
   useEffect(() => {
     const structuredFortuneString = localStorage.getItem('fortuneApp_structuredFortune');
     let textToShare = "Your fortune is being prepared for sharing...";
+    const movingWallsLink = "Learn more about Moving Walls: https://www.movingwalls.com/contact-us/";
 
     if (structuredFortuneString) {
       try {
@@ -81,6 +82,7 @@ export default function ContactDetailsPage() {
         
         textToShare = parts.join('\n\n');
         textToShare += "\n\nI'd love to book a meeting to learn more...";
+        textToShare += `\n\n${movingWallsLink}`;
 
       } catch (e) {
         console.error("Failed to parse structured fortune for sharing:", e);
@@ -89,8 +91,9 @@ export default function ContactDetailsPage() {
           const tempDiv = document.createElement('div');
           tempDiv.innerHTML = htmlFortune;
           textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+          textToShare += `\n\n${movingWallsLink}`;
         } else {
-          textToShare = "Could not retrieve fortune for sharing.";
+          textToShare = `Could not retrieve fortune for sharing. Visit us at ${movingWallsLink}`;
         }
       }
     } else {
@@ -99,8 +102,9 @@ export default function ContactDetailsPage() {
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = htmlFortune;
         textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+        textToShare += `\n\n${movingWallsLink}`;
       } else {
-        textToShare = "Fortune details not available for sharing.";
+        textToShare = `Fortune details not available for sharing. Visit us at ${movingWallsLink}`;
       }
     }
     setShareableFortuneText(textToShare);
@@ -145,7 +149,7 @@ export default function ContactDetailsPage() {
         console.error('Submission error details:', result.details);
         setIsLeadSaved(false);
       } else {
-        setSuccessMessage(result.message || 'Your details have been saved! You can now share your fortune below, or click "Finish & Continue".');
+        setSuccessMessage(result.message || 'Your details are saved! ✨ Feel free to share your amazing fortune.');
         setIsLeadSaved(true);
         // Optional: store contact method for thank you page
         localStorage.setItem('fortuneApp_contactMethod', email);
@@ -177,7 +181,14 @@ export default function ContactDetailsPage() {
       return;
     }
     const subject = encodeURIComponent("My Business Fortune from Moving Walls!");
-    const body = encodeURIComponent(shareableFortuneText);
+    // Construct the email body with the specific sign-off and link
+    let baseFortuneText = shareableFortuneText;
+    const movingWallsLink = "Learn more about Moving Walls: https://www.movingwalls.com/contact-us/";
+    // Remove the generic link if it's already there to avoid duplication, then add specific sign-off
+    baseFortuneText = baseFortuneText.replace(`\n\n${movingWallsLink}`, '');
+
+    const emailBody = `${baseFortuneText}\n\nYour AI fortune teller\n\n${movingWallsLink}`;
+    const body = encodeURIComponent(emailBody);
     window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
   };
 
@@ -241,20 +252,20 @@ export default function ContactDetailsPage() {
             {successMessage && !error && (
               <div className="flex items-center p-3 text-sm text-green-400 bg-green-900/30 rounded-md border border-green-400/50">
                 <CheckCircle2 className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span className='flex-grow'>{successMessage}</span>
+                <span className='flex-grow' style={{ whiteSpace: 'pre-line' }}>{successMessage}</span>
               </div>
             )}
 
             <Button 
               type={isLeadSaved ? "button" : "submit"}
-              onClick={isLeadSaved ? () => router.push('/thank-you') : undefined}
+              onClick={isLeadSaved ? () => {} : handleSubmit}
               disabled={isLoading}
               className="w-full bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90 disabled:opacity-50 flex items-center justify-center"
             >
               {isLoading ? (
-                <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> {isLeadSaved ? 'Proceeding...' : 'Sending...'}</>
+                <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> {isLeadSaved ? 'Saving...' : 'Sending...'}</>
               ) : isLeadSaved ? (
-                'Finish & Continue'
+                'Details Saved! Share Below'
               ) : (
                 'Send My Fortune'
               )}
