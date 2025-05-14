@@ -69,7 +69,7 @@ export default function ContactDetailsPage() {
   useEffect(() => {
     const structuredFortuneString = localStorage.getItem('fortuneApp_structuredFortune');
     let textToShare = "Your fortune is being prepared for sharing...";
-    const movingWallsLink = "Learn more about Moving Walls: https://www.movingwalls.com/contact-us/";
+    const movingWallsLink = "Book an appointment here: https://www.movingwalls.com/contact-us/";
 
     if (structuredFortuneString) {
       try {
