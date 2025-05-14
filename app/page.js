@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Cookie } from 'lucide-react'; // Keeping Cookie icon for thematic consistency with app purpose
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim"; // or loadFull, loadBasic, etc. based on needs
+import BrandFooter from '@/components/ui/BrandFooter'; // Adjusted path if necessary
 
 export default function WelcomeScreen() {
   const router = useRouter();
@@ -115,20 +116,16 @@ export default function WelcomeScreen() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
+    <div className="flex flex-col min-h-screen bg-gradient-to-r from-[#2554A2] to-[#1B1E2B] text-mw-white isolate">
       <Particles
         id="tsparticles"
         particlesLoaded={particlesLoaded}
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]" // Ensure it covers the background and is behind content
       />
-      {/* Moving Walls Logo - Bottom Left */}
-      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
-        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
-        <span className="font-semibold">Moving Walls</span>
-      </div>
+      {/* The old absolute positioned logo is removed as the footer will cover this area or integrate it later */}
 
-      <main className="flex flex-col items-center justify-center text-center space-y-8">
+      <main className="flex-grow flex flex-col items-center justify-center text-center space-y-8 p-4 relative">
         {/* Main Graphic: Fortune Cookie Icon - Styled with Moving Walls Accent */}
         <Cookie
           className="text-mw-light-blue" // Accent color for the icon
@@ -160,6 +157,7 @@ export default function WelcomeScreen() {
           Reveal My Fortune!
         </Button>
       </main>
+      <BrandFooter />
     </div>
   );
 }
