@@ -151,9 +151,9 @@ export default function WelcomeScreen() {
           onClick={handleStart}
           size="lg" // ShadCN predefined large size
           className="px-10 py-7 text-xl font-bold \
-                     bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker \
-                     text-mw-dark-navy  /* Dark text on light blue gradient */\
-                     hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 /* Subtle hover */\
+                     bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
+                     text-mw-dark-navy  /* Dark text on yellow/orange gradient */\
+                     hover:opacity-90 /* Adjusted hover for new gradient */\
                      rounded-lg shadow-lg transform transition-all duration-150 \
                      hover:shadow-xl hover:-translate-y-0.5 active:scale-95"
         >

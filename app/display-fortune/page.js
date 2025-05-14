@@ -177,11 +177,11 @@ export default function DisplayFortuneScreen() {
           <Button
             onClick={handleSaveAndShare}
             size="lg"
-            className="px-8 py-3 text-lg font-semibold 
-                       bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker 
-                       text-mw-dark-navy 
-                       hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 
-                       rounded-lg shadow-md transform transition-all duration-150 
+            className="px-8 py-3 text-lg font-semibold \
+                       bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
+                       text-mw-dark-navy \
+                       hover:opacity-90 \
+                       rounded-lg shadow-md transform transition-all duration-150 \
                        hover:shadow-xl active:scale-95"
           >
             Save & Share This Wisdom

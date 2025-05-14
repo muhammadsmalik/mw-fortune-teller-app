@@ -314,7 +314,10 @@ export default function ContactDetailsPage() {
           )}
         </CardFooter>
       </Card>
-      <p className="text-mw-white/70 text-xs mt-8">Moving Walls Logo</p>
+      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70 z-10">
+        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
+        <span className="font-semibold">Moving Walls</span>
+      </div>
     </div>
   );
 }

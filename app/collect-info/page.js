@@ -394,7 +394,7 @@ export default function CollectInfoScreen() {
             onClick={handleProceed} 
             disabled={isGenerating || isRecording || isTranscribing || !fullName || !industryType || !companyName}
             size="lg"
-            className="w-full px-10 py-7 text-xl font-bold bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
+            className="w-full px-10 py-7 text-xl font-bold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
           >
             {isGenerating ? (
               <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Crafting Your Destiny...</>

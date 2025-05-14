@@ -1,4 +1,4 @@
-import { Inter, Nunito, Caveat } from 'next/font/google';
+import { Inter, Nunito, Caveat, Poppins } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from "@/components/theme-provider";
 
@@ -20,6 +20,12 @@ const caveat = Caveat({
   weight: ['400', '700'],
 });
 
+const poppins = Poppins({
+  subsets: ['latin'],
+  variable: '--font-poppins',
+  weight: ['400', '500', '600', '700', '800'],
+});
+
 export const metadata = {
   title: 'Fortune Cookie Lead Gen by Moving Walls',
   description: 'Discover your business future!',
@@ -27,8 +33,8 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={`${inter.variable} ${nunito.variable} ${caveat.variable} dark`} suppressHydrationWarning>
-      <body className="font-inter">
+    <html lang="en" className={`${inter.variable} ${nunito.variable} ${caveat.variable} ${poppins.variable} dark`} suppressHydrationWarning>
+      <body className="font-poppins">
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"
