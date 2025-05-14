@@ -37,6 +37,10 @@ export default function CollectInfoScreen() {
   const [isTranscribing, setIsTranscribing] = useState(false);
   const [transcriptionError, setTranscriptionError] = useState('');
 
+  // --- Debug Mode State ---
+  const [debugForceProvider, setDebugForceProvider] = useState(null);
+  const isDebugMode = process.env.NEXT_PUBLIC_DEBUG === "true";
+
   // Particles engine initialization
   useEffect(() => {
     initParticlesEngine(async (engine) => {
@@ -168,13 +172,27 @@ export default function CollectInfoScreen() {
     }
     console.log("Collected Info:", { fullName, industryType, companyName, geographicFocus, businessObjective });
     setIsGenerating(true);
+
+    const requestBody = {
+      fullName,
+      industryType,
+      companyName,
+      geographicFocus,
+      businessObjective
+    };
+
+    if (isDebugMode && debugForceProvider) {
+      requestBody.debugProvider = debugForceProvider;
+      console.log(`DEBUG MODE: Forcing provider to ${debugForceProvider}`);
+    }
+
     try {
       const response = await fetch('/api/generate-fortune', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ fullName, industryType, companyName, geographicFocus, businessObjective }),
+        body: JSON.stringify(requestBody),
       });
       if (response.ok) {
         const data = await response.json();
@@ -193,6 +211,8 @@ export default function CollectInfoScreen() {
       alert('An unexpected error occurred. Please check your connection or try again later.');
     } finally {
       setIsGenerating(false);
+      // Reset debug provider after attempt if you want it to be a one-time force
+      // setDebugForceProvider(null); 
     }
   };
 
@@ -248,7 +268,8 @@ export default function CollectInfoScreen() {
         <CardContent className="space-y-6 pt-6">
           {transcriptionError && (
             <div className="p-3 bg-red-900/30 text-red-400 border border-red-500/50 rounded-md text-sm">
-              {transcriptionError}
+              <p className="font-semibold">Voice Input Error:</p>
+              <p>{transcriptionError}</p>
             </div>
           )}
           <div className="space-y-2">
@@ -342,20 +363,44 @@ export default function CollectInfoScreen() {
           </div>
 
         </CardContent>
-        <CardFooter className="pt-8 flex justify-center"> {/* Increased top padding for footer */}
-          <Button
-            onClick={handleProceed}
-            size="lg" // Using a slightly larger button for this main action
-            className="px-10 py-3 text-lg font-semibold \
-                       bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker \
-                       text-mw-dark-navy \
-                       hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 \
-                       rounded-lg shadow-md transform transition-all duration-150 \
-                       hover:shadow-xl active:scale-95"
-            // Disable proceed button if recording/transcribing to prevent navigating away mid-process.
-            disabled={isGenerating || isRecording || isTranscribing}
+        <CardFooter className="flex flex-col items-center pt-6">
+          {isDebugMode && (
+            <div className="mb-4 p-3 border border-yellow-500/50 bg-yellow-900/30 rounded-md w-full">
+              <p className="text-center text-yellow-400 text-sm font-semibold mb-2">DEBUG MODE ACTIVE</p>
+              <div className="flex justify-center space-x-2">
+                <Button 
+                  variant={debugForceProvider === 'GEMINI' ? "default" : "outline"} 
+                  size="sm" 
+                  onClick={() => setDebugForceProvider(prev => prev === 'GEMINI' ? null : 'GEMINI')}
+                  className={debugForceProvider === 'GEMINI' ? "bg-green-500 hover:bg-green-600 text-white" : "border-green-500 text-green-400 hover:bg-green-900/50"}
+                  disabled={isGenerating}
+                >
+                  Force Gemini
+                </Button>
+                <Button 
+                  variant={debugForceProvider === 'OPENAI' ? "default" : "outline"}
+                  size="sm"
+                  onClick={() => setDebugForceProvider(prev => prev === 'OPENAI' ? null : 'OPENAI')}
+                  className={debugForceProvider === 'OPENAI' ? "bg-blue-500 hover:bg-blue-600 text-white" : "border-blue-500 text-blue-400 hover:bg-blue-900/50"}
+                  disabled={isGenerating}
+                >
+                  Force OpenAI
+                </Button>
+              </div>
+              {debugForceProvider && <p className="text-center text-yellow-300 mt-2 text-xs">Forcing: {debugForceProvider}</p>}
+            </div>
+          )}
+          <Button 
+            onClick={handleProceed} 
+            disabled={isGenerating || isRecording || isTranscribing || !fullName || !industryType || !companyName}
+            size="lg"
+            className="w-full px-10 py-7 text-xl font-bold bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy hover:from-mw-light-blue/90 hover:to-mw-gradient-blue-darker/90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
           >
-            {isGenerating ? 'Consulting...' : 'Consult the Oracle'}
+            {isGenerating ? (
+              <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Crafting Your Destiny...</>
+            ) : (
+              'Generate My Fortune!'
+            )}
           </Button>
         </CardFooter>
       </Card>
