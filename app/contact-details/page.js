@@ -85,7 +85,6 @@ export default function ContactDetailsPage() {
         if (structuredFortune.aiAdvice) parts.push(structuredFortune.aiAdvice.replace('🔮', '').trim());
         
         textToShare = parts.join('\n\n');
-        textToShare += "\n\nI'd love to book a meeting to learn more...";
         textToShare += `\n\n${movingWallsLink}`;
 
       } catch (e) {
@@ -94,7 +93,7 @@ export default function ContactDetailsPage() {
         if (htmlFortune) {
           const tempDiv = document.createElement('div');
           tempDiv.innerHTML = htmlFortune;
-          textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+          textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim();
           textToShare += `\n\n${movingWallsLink}`;
         } else {
           textToShare = `Could not retrieve fortune for sharing. Visit us at ${movingWallsLink}`;
@@ -105,7 +104,7 @@ export default function ContactDetailsPage() {
       if (htmlFortune) {
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = htmlFortune;
-        textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim() + "\n\nI'd love to book a meeting to learn more...";
+        textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim();
         textToShare += `\n\n${movingWallsLink}`;
       } else {
         textToShare = `Fortune details not available for sharing. Visit us at ${movingWallsLink}`;
