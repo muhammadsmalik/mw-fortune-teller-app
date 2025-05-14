@@ -177,6 +177,7 @@ async function generateFortuneWithOpenAI(prompt, schema) {
 
 export async function POST(request) {
   const isServerInDebugMode = process.env.NEXT_PUBLIC_DEBUG === "true"; // Can use NEXT_PUBLIC_ on server in App Router
+  const forceGeminiError = process.env.DEBUG_FORCE_GEMINI_ERROR === "true"; // New flag
   let effectiveProvider = LLM_PROVIDER;
   let debugProviderClient = null;
 
@@ -350,6 +351,12 @@ Adhere strictly to the overall conciseness requirement: when the text from all f
       }
 
       try {
+        // Artificial Error for Gemini Fallback Test
+        if (forceGeminiError && effectiveProvider === "GEMINI") { // Only force error if Gemini is the one to be used
+            console.log("DEBUG: Forcing an artificial error in Gemini path to test fallback...");
+            throw new Error("Artificial Gemini Error for Fallback Test");
+        }
+
         const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
         const model = genAI.getGenerativeModel({
           model: GEMINI_MODEL_NAME,
@@ -399,7 +406,7 @@ Adhere strictly to the overall conciseness requirement: when the text from all f
       } catch (geminiError) {
         console.error(`${providerUsed} failed:`, geminiError.message);
         errorDetailsForResponse = geminiError.message;
-        if (ENABLE_LLM_FALLBACK && effectiveProvider === "GEMINI") { // Only fallback if Gemini was the one that failed (and wasn't forced by debug)
+        if (ENABLE_LLM_FALLBACK && effectiveProvider === "GEMINI") { 
           if (!OPENAI_API_KEY) {
             console.warn("Fallback to OpenAI requested but OPENAI_API_KEY is not configured.");
             throw geminiError; 
