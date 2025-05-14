@@ -170,49 +170,44 @@ export default function CollectInfoScreen() {
       alert("Please fill in all required fields: Full Name, Industry Type, and Company Name.");
       return;
     }
-    console.log("Collected Info:", { fullName, industryType, companyName, geographicFocus, businessObjective });
-    setIsGenerating(true);
-
-    const requestBody = {
-      fullName,
-      industryType,
-      companyName,
-      geographicFocus,
-      businessObjective
-    };
-
-    if (isDebugMode && debugForceProvider) {
-      requestBody.debugProvider = debugForceProvider;
-      console.log(`DEBUG MODE: Forcing provider to ${debugForceProvider}`);
-    }
+    setIsGenerating(true); // Disable button
 
     try {
-      const response = await fetch('/api/generate-fortune', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(requestBody),
-      });
-      if (response.ok) {
-        const data = await response.json();
-        localStorage.setItem('fortuneData', JSON.stringify(data));
-        localStorage.setItem('fortuneApp_fullName', fullName);
-        localStorage.setItem('fortuneApp_industry', industryType);
-        localStorage.setItem('fortuneApp_companyName', companyName);
-        if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
-        if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
-        router.push('/generating-fortune');
+      console.log("Collected Info for localStorage:", { fullName, industryType, companyName, geographicFocus, businessObjective });
+      const userInfo = {
+        fullName,
+        industryType,
+        companyName,
+        geographicFocus,
+        businessObjective,
+        // Ensure debugProvider is null if not in debug mode or not set, to avoid sending undefined
+        debugProvider: (isDebugMode && debugForceProvider) ? debugForceProvider : null
+      };
+      localStorage.setItem('userInfoForFortune', JSON.stringify(userInfo));
+
+      // These are still useful for other pages like contact-details
+      localStorage.setItem('fortuneApp_fullName', fullName);
+      localStorage.setItem('fortuneApp_industry', industryType);
+      localStorage.setItem('fortuneApp_companyName', companyName);
+      if (geographicFocus) {
+        localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
       } else {
-        const errorData = await response.json();
-        alert(errorData.error || 'Failed to generate fortune. Please try again.');
+        localStorage.removeItem('fortuneApp_geographicFocus'); // Clean up if empty
       }
+      if (businessObjective) {
+        localStorage.setItem('fortuneApp_businessObjective', businessObjective);
+      } else {
+        localStorage.removeItem('fortuneApp_businessObjective'); // Clean up if empty
+      }
+
+      router.push('/generating-fortune');
+      // setIsGenerating will be reset if the user navigates back.
+      // No need to set to false here as we are navigating away.
+
     } catch (error) {
-      alert('An unexpected error occurred. Please check your connection or try again later.');
-    } finally {
-      setIsGenerating(false);
-      // Reset debug provider after attempt if you want it to be a one-time force
-      // setDebugForceProvider(null); 
+      console.error("Error preparing for fortune generation:", error);
+      alert('An error occurred while preparing your data. Please try again.');
+      setIsGenerating(false); // Re-enable button on error to allow retry
     }
   };
 

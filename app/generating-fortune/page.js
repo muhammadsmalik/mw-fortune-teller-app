@@ -20,6 +20,7 @@ export default function GeneratingFortuneScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
   const [currentPhraseIndex, setCurrentPhraseIndex] = useState(0);
+  const [apiError, setApiError] = useState(null); // Added for API error handling
 
   // Particles engine initialization
   useEffect(() => {
@@ -32,12 +33,51 @@ export default function GeneratingFortuneScreen() {
 
   // Automatic navigation after a delay
   useEffect(() => {
-    const timer = setTimeout(() => {
-      router.push('/display-fortune'); // Navigate to the next screen
-    }, 2800); // Slightly increased to allow last phrase to show a bit
+    if (!init) return; // Wait for particles
 
-    return () => clearTimeout(timer); // Cleanup the timer if the component unmounts
-  }, [router]);
+    const fetchFortuneData = async () => {
+      const storedUserInfo = localStorage.getItem('userInfoForFortune');
+      if (!storedUserInfo) {
+        setApiError("User information not found. Please go back and complete the previous step.");
+        setTimeout(() => router.push('/collect-info'), 4000); // Redirect after showing error
+        return;
+      }
+
+      try {
+        const requestBody = JSON.parse(storedUserInfo);
+        // Optional: Consider removing the item if it's truly one-time use for this step
+        // localStorage.removeItem('userInfoForFortune'); 
+
+        const response = await fetch('/api/generate-fortune', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(requestBody),
+        });
+
+        if (response.ok) {
+          const data = await response.json();
+          localStorage.setItem('fortuneData', JSON.stringify(data));
+          router.push('/display-fortune');
+        } else {
+          const errorData = await response.json();
+          console.error("API Error generating fortune:", errorData);
+          setApiError(errorData.error || 'Failed to generate fortune. Please try again.');
+          // Redirect back to collect-info after a delay to show the error
+          setTimeout(() => router.push('/collect-info'), 5000); 
+        }
+      } catch (error) {
+        console.error("Network/fetch error generating fortune:", error);
+        setApiError('An unexpected network error occurred. Please check your connection or try again later.');
+        // Redirect back to collect-info after a delay
+        setTimeout(() => router.push('/collect-info'), 5000);
+      }
+    };
+
+    fetchFortuneData();
+
+  }, [init, router]); // Dependencies: init and router
 
   // Effect for cycling through loading phrases
   useEffect(() => {
@@ -87,16 +127,25 @@ export default function GeneratingFortuneScreen() {
         <span className="font-semibold">Moving Walls</span>
       </div>
 
-      <Lottie 
-        animationData={animationData} 
-        loop={true} 
-        autoplay={true} 
-        style={{ width: 200, height: 200 }} // Adjust size as needed
-      />
-
-      <p className="text-mw-white/80 text-lg sm:text-xl text-center min-h-[48px]">
-        {loadingPhrases[currentPhraseIndex]}
-      </p>
+      {apiError ? (
+        <div className="text-red-400 bg-red-900/30 p-6 rounded-lg shadow-lg text-center max-w-md">
+          <h2 className="text-xl font-semibold mb-2">Oops! Something Went Wrong</h2>
+          <p>{apiError}</p>
+          <p className="mt-3 text-sm text-mw-white/70">You will be redirected shortly...</p>
+        </div>
+      ) : (
+        <>
+          <Lottie 
+            animationData={animationData} 
+            loop={true} 
+            autoplay={true} 
+            style={{ width: 200, height: 200 }} // Adjust size as needed
+          />
+          <p className="text-mw-white/80 text-lg sm:text-xl text-center min-h-[48px]">
+            {loadingPhrases[currentPhraseIndex]}
+          </p>
+        </>
+      )}
     </div>
   );
 } 
