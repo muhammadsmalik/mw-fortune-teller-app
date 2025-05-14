@@ -10,4 +10,30 @@
 8. Thank you page
 9. Fix formatting on WA & Email
 10. Add branding to email and pages.
-11. 
+
+
+
+Email looks like this:
+Hello Sal Malik,
+
+Here's your business fortune as requested:
+
+The data streams reveal your path, Sal...
+
+Your AI solutions impact the physical world; target innovation hubs where your code meets concrete.
+
+Reach decision-makers gathering at industry events or tech corridors, ripe for automation insights.
+
+Use dynamic screens to showcase real-time AI capabilities, boosting demo requests by 40%.
+
+Secure larger enterprise contracts by demonstrating AI's real-world impact via tailored OOH narratives.
+
+Oracle AI suggests: Use location data to pinpoint ideal OOH zones for maximum tech adoption potential. Leverage Moving Walls' platform for data-driven placement and proof of impact. Connect with Moving Walls to elevate your reach!
+
+I'd love to book a meeting to learn more...
+
+Learn more about Moving Walls: https://www.movingwalls.com/contact-us/
+
+Best regards,
+Your AI Fortune Teller at Moving Walls
+

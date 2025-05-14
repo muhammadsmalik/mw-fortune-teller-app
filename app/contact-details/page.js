@@ -39,6 +39,10 @@ export default function ContactDetailsPage() {
   const [qrCodeValue, setQrCodeValue] = useState('');
   const [isLeadSaved, setIsLeadSaved] = useState(false);
 
+  // State for email sending
+  const [isSendingEmail, setIsSendingEmail] = useState(false);
+  const [emailSendStatus, setEmailSendStatus] = useState({ message: '', type: '' }); // type: 'success' or 'error'
+
   // State for data that would typically come from previous steps/global state
   const [leadData, setLeadData] = useState({
     fullName: '',
@@ -175,21 +179,49 @@ export default function ContactDetailsPage() {
     window.open(whatsappUrl, '_blank');
   };
 
-  const handleShareEmail = () => {
-    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
-      alert("Fortune text is not available to share yet. Please wait a moment.");
+  const handleShareEmail = async () => {
+    if (!isLeadSaved) {
+      alert("Please save your details first before sharing.");
       return;
     }
-    const subject = encodeURIComponent("My Business Fortune from Moving Walls!");
-    // Construct the email body with the specific sign-off and link
-    let baseFortuneText = shareableFortuneText;
-    const movingWallsLink = "Learn more about Moving Walls: https://www.movingwalls.com/contact-us/";
-    // Remove the generic link if it's already there to avoid duplication, then add specific sign-off
-    baseFortuneText = baseFortuneText.replace(`\n\n${movingWallsLink}`, '');
+    if (!email) {
+      alert("Please ensure your email address is entered to receive a copy.");
+      return;
+    }
+    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
+      alert("Fortune text is not available to share yet. Please wait a moment or ensure details are saved.");
+      return;
+    }
 
-    const emailBody = `${baseFortuneText}\n\nYour AI fortune teller\n\n${movingWallsLink}`;
-    const body = encodeURIComponent(emailBody);
-    window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
+    setIsSendingEmail(true);
+    setEmailSendStatus({ message: '', type: '' });
+
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          emailTo: email, // Send to the user's own email
+          subject: `Your Business Fortune from Moving Walls!`,
+          fortuneText: shareableFortuneText,
+          fullName: leadData.fullName, // Pass the full name
+        }),
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        setEmailSendStatus({ message: result.message || 'Failed to send email.', type: 'error' });
+      } else {
+        setEmailSendStatus({ message: result.message || 'Email sent successfully! Check your inbox.', type: 'success' });
+      }
+    } catch (err) {
+      console.error('Email sending error:', err);
+      setEmailSendStatus({ message: 'An unexpected error occurred while sending the email.', type: 'error' });
+    }
+    setIsSendingEmail(false);
   };
 
   const handleShareViaQrCode = () => {
@@ -271,17 +303,28 @@ export default function ContactDetailsPage() {
               )}
             </Button>
           </form>
+          {/* Display email sending status messages */}
+          {emailSendStatus.message && (
+            <div className={`mt-4 flex items-center p-3 text-sm rounded-md border ${
+              emailSendStatus.type === 'success' ? 'text-green-400 bg-green-900/30 border-green-400/50' : 
+              emailSendStatus.type === 'error' ? 'text-red-400 bg-red-900/30 border-red-400/50' : ''
+            }`}>
+              {emailSendStatus.type === 'success' ? <CheckCircle2 className="w-5 h-5 mr-2 flex-shrink-0" /> : <AlertCircle className="w-5 h-5 mr-2 flex-shrink-0" />}
+              <span className='flex-grow'>{emailSendStatus.message}</span>
+            </div>
+          )}
         </CardContent>
         <CardFooter className="flex flex-col items-center pt-6">
           <p className="text-mw-white/70 text-sm mb-3 font-medium">Share Your Insight:</p>
           <div className="flex space-x-4">
             <Button 
               variant="outline" 
-              className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
+              className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue flex items-center justify-center"
               onClick={handleShareEmail}
-              disabled={!isLeadSaved || isLoading || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
+              disabled={!isLeadSaved || isLoading || isSendingEmail || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
             >
-              <Mail className="mr-2 h-5 w-5" /> Email
+              {isSendingEmail ? <Loader2 className="mr-2 h-5 w-5 animate-spin" /> : <Mail className="mr-2 h-5 w-5" />}
+              {isSendingEmail ? 'Sending...' : 'Email'}
             </Button>
             <Dialog open={isQrModalOpen} onOpenChange={setIsQrModalOpen}>
               <DialogTrigger asChild>
