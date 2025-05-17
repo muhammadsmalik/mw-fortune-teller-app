@@ -26,6 +26,7 @@ import {
 import { Mail, MessageCircleMore, Loader2, AlertCircle, CheckCircle2, QrCode } from 'lucide-react';
 import 'react-phone-number-input/style.css'
 import PhoneInput, { isValidPhoneNumber } from 'react-phone-number-input'
+import Image from 'next/image';
 
 export default function ContactDetailsPage() {
   const router = useRouter();
@@ -367,8 +368,8 @@ export default function ContactDetailsPage() {
           )}
         </CardFooter>
       </Card>
-      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70 z-10">
-        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
+      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
+        <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
       </div>
     </div>

@@ -12,6 +12,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { Mic, MicOff, Loader2 } from 'lucide-react';
 import { Scanner } from '@yudiel/react-qr-scanner';
+import Image from 'next/image';
 
 export default function CollectInfoScreen() {
   const router = useRouter();
@@ -130,7 +131,7 @@ export default function CollectInfoScreen() {
       />
       {/* Moving Walls Logo - Bottom Left */}
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
-        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
+        <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
       </div>
       <Card className="bg-card rounded-lg shadow-lg w-full max-w-lg">

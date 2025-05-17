@@ -3,6 +3,7 @@
 import { useEffect, useState, useMemo, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import Lottie from 'lottie-react';
+import Image from 'next/image';
 // Assuming your public folder is at the project root, adjust if necessary
 import animationData from '../../public/animations/fortune-cookie-animation.json'; 
 import Particles, { initParticlesEngine } from "@tsparticles/react";
@@ -123,7 +124,7 @@ export default function GeneratingFortuneScreen() {
       
       {/* Moving Walls Logo - Bottom Left */}
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
-        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
+        <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
       </div>
 

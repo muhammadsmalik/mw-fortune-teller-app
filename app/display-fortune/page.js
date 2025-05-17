@@ -129,8 +129,8 @@ export default function DisplayFortuneScreen() {
       />
       
       {/* Moving Walls Logo - Bottom Left */}
-      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70 z-10">
-        <img src="/MW-logo-web.svg" alt="Moving Walls Logo" className="h-6 w-auto mr-2" />
+      <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
+        <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
       </div>
 
