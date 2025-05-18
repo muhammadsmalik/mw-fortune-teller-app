@@ -2,12 +2,20 @@
 
 import { useEffect, useState, useMemo, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import Lottie from 'lottie-react';
+import dynamic from 'next/dynamic';
 import Image from 'next/image';
 // Assuming your public folder is at the project root, adjust if necessary
 import animationData from '../../public/animations/fortune-cookie-animation.json'; 
-import Particles, { initParticlesEngine } from "@tsparticles/react";
-import { loadSlim } from "@tsparticles/slim";
+// import Particles, { initParticlesEngine } from "@tsparticles/react"; // Comment out or remove direct import
+// import { loadSlim } from "@tsparticles/slim"; // Comment out or remove direct import
+
+// Dynamically import Lottie
+const Lottie = dynamic(() => import('lottie-react'), { ssr: false });
+
+// Dynamically import Particles and related functions
+const Particles = dynamic(() => import('@tsparticles/react').then(mod => mod.Particles), { ssr: false });
+const initParticlesEngine = dynamic(() => import('@tsparticles/react').then(mod => mod.initParticlesEngine), { ssr: false });
+const loadSlim = dynamic(() => import('@tsparticles/slim').then(mod => mod.loadSlim), { ssr: false });
 
 const loadingPhrases = [
   "Consulting the data streams...",
@@ -25,12 +33,19 @@ export default function GeneratingFortuneScreen() {
 
   // Particles engine initialization
   useEffect(() => {
-    initParticlesEngine(async (engine) => {
-      await loadSlim(engine);
-    }).then(() => {
-      setInit(true);
-    });
-  }, []);
+    // Ensure initParticlesEngine is called only on the client side
+    if (typeof window !== 'undefined' && initParticlesEngine && loadSlim) {
+      initParticlesEngine(async (engine) => {
+        await loadSlim(engine);
+      }).then(() => {
+        setInit(true);
+      });
+    } else if (typeof window === 'undefined') {
+      // For SSR, if you need a different behavior or just to avoid the error
+      // console.log("Skipping particles initialization on server");
+      // setInit(true); // Or set init based on other conditions if particles are optional for SSR
+    }
+  }, [initParticlesEngine, loadSlim]); // Add dependencies
 
   // Automatic navigation after a delay
   useEffect(() => {
@@ -109,18 +124,31 @@ export default function GeneratingFortuneScreen() {
     detectRetina: true,
   }), []);
 
-  if (!init) {
+  if (!init && typeof window === 'undefined') {
+    // Fallback for SSR: if particles are essential, this might need a placeholder.
+    // If they are decorative, rendering null or a basic loader is fine.
+    // Since we are now trying to make it SSR compatible by deferring particles,
+    // we might still want to show something.
+    // However, the main issue is `document` not defined, so client-side components are key.
+    // For now, let's keep the original logic of returning null if !init
+    // but be mindful that on the server, init might not become true if it depends on client-side particle init.
+    // The dynamic imports with ssr:false should prevent the components from rendering on server.
+  }
+
+  if (!init && typeof window !== 'undefined') { // Keep null return if not initialized on client
     return null; // Or a very minimal loading state while particles initialize
   }
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate space-y-8">
-      <Particles
-        id="tsparticles-generating" // Unique ID for this instance
-        particlesLoaded={particlesLoaded}
-        options={particleOptions}
-        className="absolute top-0 left-0 w-full h-full z-[-1]"
-      />
+      {init && Particles && ( // Conditionally render Particles only when init is true and Particles is loaded
+        <Particles
+          id="tsparticles-generating" // Unique ID for this instance
+          particlesLoaded={particlesLoaded}
+          options={particleOptions}
+          className="absolute top-0 left-0 w-full h-full z-[-1]"
+        />
+      )}
       
       {/* Moving Walls Logo - Bottom Left */}
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
@@ -136,12 +164,14 @@ export default function GeneratingFortuneScreen() {
         </div>
       ) : (
         <>
-          <Lottie 
-            animationData={animationData} 
-            loop={true} 
-            autoplay={true} 
-            style={{ width: 200, height: 200 }} // Adjust size as needed
-          />
+          {Lottie && ( // Conditionally render Lottie
+            <Lottie 
+              animationData={animationData} 
+              loop={true} 
+              autoplay={true} 
+              style={{ width: 200, height: 200 }} // Adjust size as needed
+            />
+          )}
           <p className="text-mw-white/80 text-lg sm:text-xl text-center min-h-[48px]">
             {loadingPhrases[currentPhraseIndex]}
           </p>
