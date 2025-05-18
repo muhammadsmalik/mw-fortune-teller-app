@@ -99,6 +99,7 @@ export default function CollectInfoScreen() {
     setIsGenerating(true);
     try {
       localStorage.setItem('userLinkedInProfile', linkedinUrl.trim());
+      localStorage.setItem('forceRefreshLinkedInData', 'true'); // Signal a fresh fetch
       router.push('/generating-fortune');
     } catch (error) {
       alert('An error occurred. Please try again.');
