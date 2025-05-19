@@ -7,12 +7,16 @@ import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
+import AudioPlayer from '@/components/AudioPlayer';
 
 export default function DisplayFortuneScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
   const [fortune, setFortune] = useState(''); // Placeholder for fortune text
   const [isLoadingFortune, setIsLoadingFortune] = useState(true);
+  const [audioPlaybackAllowed, setAudioPlaybackAllowed] = useState(false); // Added state for audio playback
+
+  const fortuneAudioFiles = useMemo(() => ['reach_out_1.mp3', 'reach_out_2.mp3', 'reach_out_3.mp3'], []); // Define audio files
 
   // Particles engine initialization
   useEffect(() => {
@@ -106,6 +110,10 @@ export default function DisplayFortuneScreen() {
     router.push('/contact-details');
   };
 
+  const handleEnableAudio = () => {
+    setAudioPlaybackAllowed(true);
+  };
+
   if (!init || isLoadingFortune) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">
@@ -127,7 +135,21 @@ export default function DisplayFortuneScreen() {
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]"
       />
+      <AudioPlayer audioFiles={fortuneAudioFiles} delayBetweenTracks={5000} isPlaying={audioPlaybackAllowed} />
       
+      {!audioPlaybackAllowed && (
+        <div className="absolute top-6 right-6 z-20">
+          <Button
+            onClick={handleEnableAudio}
+            variant="outline"
+            size="sm"
+            className="bg-mw-light-blue/20 text-mw-white hover:bg-mw-light-blue/40 border-mw-light-blue/50"
+          >
+            Enable Sound
+          </Button>
+        </div>
+      )}
+
       {/* Moving Walls Logo - Bottom Left */}
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
         <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
