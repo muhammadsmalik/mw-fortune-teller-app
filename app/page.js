@@ -1,9 +1,9 @@
 'use client';
 
-import { useEffect, useState, useMemo, useCallback } from 'react';
+import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from "@/components/ui/button";
-import { Cookie } from 'lucide-react'; // Keeping Cookie icon for thematic consistency with app purpose
+// import { Cookie } from 'lucide-react'; // Keeping Cookie icon for thematic consistency with app purpose -- REMOVED
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim"; // or loadFull, loadBasic, etc. based on needs
 import BrandFooter from '@/components/ui/BrandFooter'; // Adjusted path if necessary
@@ -11,6 +11,7 @@ import BrandFooter from '@/components/ui/BrandFooter'; // Adjusted path if neces
 export default function WelcomeScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
+  const videoRef = useRef(null);
 
   // this should be run only once per application lifetime
   useEffect(() => {
@@ -111,6 +112,17 @@ export default function WelcomeScreen() {
     router.push('/collect-info');
   };
 
+  // Handler to play/pause the video on click
+  const handleVideoClick = () => {
+    if (videoRef.current) {
+      if (videoRef.current.paused) {
+        videoRef.current.play();
+      } else {
+        videoRef.current.pause();
+      }
+    }
+  };
+
   if (!init) {
     return null; // Or a very minimal loading state if preferred
   }
@@ -126,12 +138,19 @@ export default function WelcomeScreen() {
       {/* The old absolute positioned logo is removed as the footer will cover this area or integrate it later */}
 
       <main className="flex-grow flex flex-col items-center justify-center text-center space-y-8 p-4 relative">
-        {/* Main Graphic: Fortune Cookie Icon - Styled with Moving Walls Accent */}
-        <Cookie
-          className="text-mw-light-blue" // Accent color for the icon
-          size={128} // Slightly smaller: w-32 h-32 (128px)
-          strokeWidth={1.5}
-        />
+        {/* AI Avatar Video */}
+        <video
+          ref={videoRef}
+          src="/animations/ai_avatar.mp4"
+          loop
+          playsInline
+          onClick={handleVideoClick}
+          className="h-80 w-80 rounded-full shadow-lg object-cover object-top cursor-pointer"
+          // Consider adding a poster attribute for a static image while the video loads
+          // poster="/animations/ai_avatar_poster.jpg"
+        >
+          Your browser does not support the video tag.
+        </video>
 
         {/* Headline (H1) - Moving Walls Typography */}
         <h1 className="text-4xl sm:text-5xl font-bold text-mw-white tracking-wide">
