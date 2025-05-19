@@ -152,6 +152,11 @@ export default function WelcomeScreen() {
           Your browser does not support the video tag.
         </video>
 
+        {/* Added Fortune Teller Text */}
+        <p className="text-2xl font-medium text-mw-light-blue tracking-wide">
+          Fortune Teller
+        </p>
+
         {/* Headline (H1) - Moving Walls Typography */}
         <h1 className="text-4xl sm:text-5xl font-bold text-mw-white tracking-wide">
           Unlock Your Business Destiny!
