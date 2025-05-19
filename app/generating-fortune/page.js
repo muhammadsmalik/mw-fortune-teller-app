@@ -37,6 +37,10 @@ const FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
  * @constant {string} FORCE_REFRESH_LINKEDIN_DATA_LOCAL_STORAGE_KEY - LocalStorage key to signal a forced refresh of LinkedIn data.
  */
 const FORCE_REFRESH_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'forceRefreshLinkedInData';
+/**
+ * @constant {string} PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY - LocalStorage key for the request body for the next step.
+ */
+const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
 /**
  * GeneratingFortuneScreen component.
@@ -92,6 +96,7 @@ export default function GeneratingFortuneScreen() {
 
     const processFortuneGeneration = async () => {
       setIsLoading(true);
+      setCurrentStepMessage('Initializing cosmic connection...'); // Initial message
       const userLinkedInProfile = localStorage.getItem('userLinkedInProfile');
       const storedManualUserInfo = localStorage.getItem('userInfoForFortune');
       let fortuneRequestBody = null;
@@ -114,22 +119,21 @@ export default function GeneratingFortuneScreen() {
             if (storedData) {
               try {
                 linkedInData = JSON.parse(storedData);
-                // Basic validation: check if stored data seems to be for the current profile.
                 const profileIdentifier = userLinkedInProfile.split('/').pop();
                 if (!linkedInData.profileData || !linkedInData.profileData.public_identifier || !linkedInData.profileData.public_identifier.includes(profileIdentifier)) {
                   console.log('Stored LinkedIn data mismatch with current profile, will refresh.');
-                  linkedInData = null; // Invalidate data if it doesn't match.
+                  linkedInData = null; 
                 }
               } catch (e) {
                 console.error('Error parsing stored LinkedIn data:', e);
-                localStorage.removeItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY); // Clear corrupted data.
+                localStorage.removeItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY); 
               }
             }
           }
 
-          // Fetch from API if no valid cached data or if refresh is forced.
           if (!linkedInData) {
             console.log(forceRefresh ? 'Forcing LinkedIn API refresh...' : 'No valid stored LinkedIn data, fetching from API...');
+            setCurrentStepMessage('Peering into your LinkedIn profile...');
             const response = await fetch('/api/get-linkedin-company-details', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
@@ -148,18 +152,26 @@ export default function GeneratingFortuneScreen() {
             throw new Error('Could not retrieve essential LinkedIn profile details for fortune generation.');
           }
 
-          // Transform LinkedIn data to the format expected by the fortune generation API.
           const { profileData, latestCompanyData } = linkedInData;
           fortuneRequestBody = {
-            fullName: profileData.full_name || 'Mystic Seeker', // Fallback name
-            industryType: latestCompanyData?.industry || profileData.occupation || 'Diverse Ventures', // Fallback industry
-            companyName: latestCompanyData?.name || 'Their Own Enterprise', // Fallback company
+            fullName: profileData.full_name || 'Mystic Seeker',
+            industryType: latestCompanyData?.industry || profileData.occupation || 'Diverse Ventures',
+            companyName: latestCompanyData?.name || 'Their Own Enterprise',
             geographicFocus: `${profileData.city || 'Global Reach'}, ${profileData.country_full_name || 'Cosmic Planes'}`,
-            businessObjective: '', // LinkedIn flow doesn't currently collect this specific field.
-            // debugProvider is not explicitly passed from LinkedIn flow unless a specific mechanism is added.
+            businessObjective: '', 
+            // debugProvider will be picked up by /api/generate-fortune if set in userInfoForFortune in manual flow
           };
+          
+          // Store the constructed request body for the interlude screen
+          localStorage.setItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY, JSON.stringify(fortuneRequestBody));
+          
           // Clear manual form data from localStorage to prevent conflicts if user switches flows.
           localStorage.removeItem('userInfoForFortune');
+          
+          // Navigate to the new interlude screen
+          router.push('/linkedin-interlude');
+          // setIsLoading(false); // Loading will be handled by the interlude screen now
+          return; // Stop further execution in this component for LinkedIn flow
 
         // Manual Flow: If manual user info is available (and LinkedIn profile was not).
         } else if (storedManualUserInfo) {
@@ -171,21 +183,30 @@ export default function GeneratingFortuneScreen() {
             companyName: parsedManualInfo.companyName,
             geographicFocus: parsedManualInfo.geographicFocus || '',
             businessObjective: parsedManualInfo.businessObjective || '',
-            debugProvider: parsedManualInfo.debugProvider || null, // Pass debugProvider if available.
+            debugProvider: parsedManualInfo.debugProvider || null,
           };
-           // Clear LinkedIn data from localStorage to prevent conflicts if user switches flows.
           localStorage.removeItem('userLinkedInProfile');
           localStorage.removeItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY);
           localStorage.removeItem(FORCE_REFRESH_LINKEDIN_DATA_LOCAL_STORAGE_KEY);
+          localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY); // Also clear this if manual flow is hit
+          // For manual flow, proceed to generate fortune directly
         } else {
-          // No data source found.
           setApiError('No user information found. Please go back and provide your details.');
           setIsLoading(false);
-          setTimeout(() => router.push('/collect-info'), 4000); // Redirect after delay.
+          setTimeout(() => router.push('/collect-info'), 4000); 
           return;
         }
 
-        // Call the fortune generation API with the prepared request body.
+        // THIS PART IS NOW ONLY FOR MANUAL FLOW 
+        // If fortuneRequestBody is null here, it means LinkedIn flow should have redirected.
+        // This check is more of a safeguard for the manual path.
+        if (!fortuneRequestBody) {
+            setApiError('Critical error: Fortune request details not prepared for manual flow.');
+            setIsLoading(false);
+            setTimeout(() => router.push('/collect-info'), 4000);
+            return;
+        }
+
         setCurrentStepMessage('Weaving your destiny... This might take a moment.');
         const fortuneResponse = await fetch('/api/generate-fortune', {
           method: 'POST',
@@ -199,20 +220,25 @@ export default function GeneratingFortuneScreen() {
         }
 
         const fortuneData = await fortuneResponse.json();
-        localStorage.setItem('fortuneData', JSON.stringify(fortuneData)); // Save generated fortune.
-        // Store some primary details for the contact/sharing page.
+        localStorage.setItem('fortuneData', JSON.stringify(fortuneData)); 
         localStorage.setItem('fortuneApp_fullName', fortuneRequestBody.fullName);
         localStorage.setItem('fortuneApp_industry', fortuneRequestBody.industryType);
         localStorage.setItem('fortuneApp_companyName', fortuneRequestBody.companyName);
         
-        router.push('/display-fortune'); // Navigate to display the fortune.
+        router.push('/display-fortune');
 
       } catch (error) {
         console.error("Error in fortune generation process:", error);
         setApiError(`${error.message}. Taking you back to try again...`);
-        setTimeout(() => router.push('/collect-info'), 5000); // Redirect on error after delay.
+        // setIsLoading(false); // Set in finally
+        setTimeout(() => router.push('/collect-info'), 5000); 
       } finally {
-        setIsLoading(false); // Ensure loading state is reset.
+        // Only set isLoading(false) if not redirecting or if an error didn't already cause a redirect.
+        // If userLinkedInProfile was processed, a redirect to /linkedin-interlude should have happened.
+        // If it's manual flow, or an error occurred before LinkedIn redirect, then we might still be on this page.
+        if (typeof window !== 'undefined' && window.location.pathname === '/generating-fortune') {
+             setIsLoading(false);
+        }
       }
     };
 

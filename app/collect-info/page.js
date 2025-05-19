@@ -90,14 +90,49 @@ export default function CollectInfoScreen() {
     return !!normalizeLinkedInUrl(url);
   };
 
+  // New function to handle LinkedIn flow initiation and redirection
+  const initiateLinkedInFlowAndRedirect = async (urlToProcess) => {
+    if (isGenerating) return; // Prevent re-entry if already processing
+    setIsGenerating(true);
+    setQrError(''); // Clear any previous QR errors as we are proceeding
+
+    if (!isValidLinkedIn(urlToProcess)) {
+      // This alert might be aggressive if called from auto-scan. Consider setQrError.
+      setQrError('Yikes! That URL isn\'t passing the vibe check. Make sure it\'s a real LinkedIn profile.');
+      setIsGenerating(false);
+      return;
+    }
+
+    try {
+      localStorage.setItem('userLinkedInProfile', urlToProcess.trim());
+      localStorage.setItem('forceRefreshLinkedInData', 'true'); // Signal a fresh fetch
+      // Clear manual form data if proceeding with LinkedIn
+      localStorage.removeItem('userInfoForFortune');
+      localStorage.removeItem('fortuneApp_fullName');
+      localStorage.removeItem('fortuneApp_industry');
+      localStorage.removeItem('fortuneApp_companyName');
+      localStorage.removeItem('fortuneApp_geographicFocus');
+      localStorage.removeItem('fortuneApp_businessObjective');
+
+      router.push('/generating-fortune');
+    } catch (error) {
+      console.error("Error during LinkedIn flow initiation:", error);
+      setQrError('A mystical mishap occurred! Please try again, or use the button below.');
+      setIsGenerating(false); // Reset on error
+    }
+  };
+
   const handleScan = (result) => {
+    if (isGenerating) return; // Prevent re-entry if already processing scan/proceed
+
     console.log('QR Scanner raw result:', result);
     if (result && Array.isArray(result) && result.length > 0) {
       const value = result[0]?.rawValue || result[0]?.value || result[0];
       const normalized = typeof value === 'string' ? normalizeLinkedInUrl(value) : null;
       if (normalized) {
-        setLinkedinUrl(normalized);
-        setQrError('');
+        setLinkedinUrl(normalized); // Update UI input for visibility
+        // setQrError(''); // Moved to initiateLinkedInFlowAndRedirect
+        initiateLinkedInFlowAndRedirect(normalized); // Auto-proceed
       } else {
         setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
       }
@@ -202,55 +237,46 @@ export default function CollectInfoScreen() {
 
   // --- Combined Proceed Handler ---
   const handleProceed = async () => {
-    setIsGenerating(true);
-    try {
-      if (currentFlow === 'linkedin') {
-        if (!isValidLinkedIn(linkedinUrl)) {
-          alert('Yikes! That URL\'s not passing the vibe check. Make sure it\'s a real LinkedIn profile.');
-          setIsGenerating(false);
-          return;
-        }
-        localStorage.setItem('userLinkedInProfile', linkedinUrl.trim());
-        localStorage.setItem('forceRefreshLinkedInData', 'true'); // Signal a fresh fetch
-        // Clear manual form data if proceeding with LinkedIn
-        localStorage.removeItem('userInfoForFortune');
-        localStorage.removeItem('fortuneApp_fullName');
-        localStorage.removeItem('fortuneApp_industry');
-        localStorage.removeItem('fortuneApp_companyName');
-        localStorage.removeItem('fortuneApp_geographicFocus');
-        localStorage.removeItem('fortuneApp_businessObjective');
-
-      } else if (currentFlow === 'manual') {
-        if (!fullName || !industryType || !companyName) {
-          alert("Please fill in all required fields: Full Name, Industry Type, and Company Name.");
-          setIsGenerating(false);
-          return;
-        }
-        const userInfo = {
-          fullName,
-          industryType,
-          companyName,
-          geographicFocus,
-          businessObjective,
-          debugProvider: (isDebugMode && debugForceProvider) ? debugForceProvider : null
-        };
-        localStorage.setItem('userInfoForFortune', JSON.stringify(userInfo));
-        localStorage.setItem('fortuneApp_fullName', fullName);
-        localStorage.setItem('fortuneApp_industry', industryType);
-        localStorage.setItem('fortuneApp_companyName', companyName);
-        if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
-        else localStorage.removeItem('fortuneApp_geographicFocus');
-        if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
-        else localStorage.removeItem('fortuneApp_businessObjective');
-        // Clear LinkedIn data if proceeding with manual
-        localStorage.removeItem('userLinkedInProfile');
-        localStorage.removeItem('forceRefreshLinkedInData');
+    // For LinkedIn flow, this button is now a fallback or for manual URL entry
+    if (currentFlow === 'linkedin') {
+      // We call the same refactored function
+      await initiateLinkedInFlowAndRedirect(linkedinUrl);
+    } else if (currentFlow === 'manual') {
+      // Manual flow logic remains here as it doesn't auto-trigger
+      setIsGenerating(true);
+      if (!fullName || !industryType || !companyName) {
+        alert("Please fill in all required fields: Full Name, Industry Type, and Company Name.");
+        setIsGenerating(false);
+        return;
       }
+      const userInfo = {
+        fullName,
+        industryType,
+        companyName,
+        geographicFocus,
+        businessObjective,
+        debugProvider: (isDebugMode && debugForceProvider) ? debugForceProvider : null
+      };
+      localStorage.setItem('userInfoForFortune', JSON.stringify(userInfo));
+      localStorage.setItem('fortuneApp_fullName', fullName);
+      localStorage.setItem('fortuneApp_industry', industryType);
+      localStorage.setItem('fortuneApp_companyName', companyName);
+      if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
+      else localStorage.removeItem('fortuneApp_geographicFocus');
+      if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
+      else localStorage.removeItem('fortuneApp_businessObjective');
+      
+      // Clear LinkedIn data if proceeding with manual
+      localStorage.removeItem('userLinkedInProfile');
+      localStorage.removeItem('forceRefreshLinkedInData');
+      
       router.push('/generating-fortune');
-    } catch (error) {
-      alert('A mystical mishap occurred! Please try again.');
-      setIsGenerating(false);
-    }
+      // Note: setIsGenerating(false) for manual flow might not be needed if navigation is successful
+      // or should be in a try/catch/finally block specific to manual flow if errors here are expected to keep user on page.
+      // For now, successful navigation means this component unmounts.
+    } 
+    // Generic catch and finally for setIsGenerating(false) might be needed if initiateLinkedInFlowAndRedirect doesn't handle it
+    // However, initiateLinkedInFlowAndRedirect handles its own setIsGenerating(false) on error.
   };
 
   if (!init) return null;
