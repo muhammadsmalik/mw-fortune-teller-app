@@ -35,6 +35,7 @@ export default function LinkedInInterludeScreen() {
   const [isNarrating, setIsNarrating] = useState(false);
   const [narrationError, setNarrationError] = useState(null);
   const [userManuallyInitiatedNarration, setUserManuallyInitiatedNarration] = useState(false);
+  const [greetingHeardOnce, setGreetingHeardOnce] = useState(false);
   const audioContextRef = useRef(null);
   const audioSourceRef = useRef(null);
 
@@ -58,24 +59,27 @@ export default function LinkedInInterludeScreen() {
     return null;
   };
 
-  // Function to construct narration text
-  const getNarrationText = useCallback(() => {
-    if (!profileInfo.companyName && !profileInfo.jobTitle) return null;
-
-    let text = "Ah, seeker...\nI've peered into your LinkedIn profile…\n";
-    if (profileInfo.fullName) {
-      text += `They call you ${profileInfo.fullName}.\n`;
-    }
-    text += `You work at ${profileInfo.companyName || 'a noteworthy venture'} as ${profileInfo.jobTitle || 'an individual of significance'}.\n`;
-    if (profileInfo.previousCompanies) {
-      text += `${profileInfo.previousCompanies}\n`;
-    }
-    text += "You seek clarity. And destiny has sent you here.";
-    return text;
-  }, [profileInfo]);
-
   // Effect to fetch and play narration
   useEffect(() => {
+    // Define getNarrationText INSIDE the useEffect
+    const getNarrationText = () => { // Not using useCallback here as it's within useEffect scope
+      if (!profileInfo.companyName && !profileInfo.jobTitle) {
+        console.log('[TTS Frontend] getNarrationText: profileInfo not ready');
+        return null;
+      }
+      let text = "Ah, seeker...\nI've peered into your LinkedIn profile…\n";
+      if (profileInfo.fullName) {
+        text += `They call you ${profileInfo.fullName}.\n`;
+      }
+      text += `You work at ${profileInfo.companyName || 'a noteworthy venture'} as ${profileInfo.jobTitle || 'an individual of significance'}.\n`;
+      if (profileInfo.previousCompanies) {
+        text += `${profileInfo.previousCompanies}\n`;
+      }
+      text += "You seek clarity. And destiny has sent you here.";
+      console.log('[TTS Frontend] getNarrationText: Generated text - ', text.substring(0,30) + '...');
+      return text;
+    };
+
     const playNarration = async () => {
       const narrationText = getNarrationText();
       const audioContext = getAudioContext();
@@ -85,17 +89,19 @@ export default function LinkedInInterludeScreen() {
         setNarrationError("Audio system not ready. Please click 'Hear Oracle's Greeting' to enable audio.");
         setIsNarrating(false);
         setUserManuallyInitiatedNarration(false);
+        setGreetingHeardOnce(false);
         return;
       }
 
-      console.log('[TTS Frontend] playNarration called. Conditions - narrationText:', !!narrationText, 'isNarrating:', isNarrating, 'isLoadingPage:', isLoadingPage, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'audioContextState:', audioContext?.state);
+      console.log('[TTS Frontend] playNarration called. Conditions - narrationText:', !!narrationText, 'isNarrating:', isNarrating, 'isLoadingPage:', isLoadingPage, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce, 'audioContextState:', audioContext?.state);
 
-      if (!narrationText || isNarrating || isLoadingPage || !userManuallyInitiatedNarration) {
+      if (!narrationText || isNarrating || isLoadingPage || !userManuallyInitiatedNarration || greetingHeardOnce) {
         // Logging for why playNarration might bail out
         if(!narrationText) console.log('[TTS Frontend] playNarration: Bailing - No narration text.');
         if(isNarrating) console.log('[TTS Frontend] playNarration: Bailing - Already narrating.');
         if(isLoadingPage) console.log('[TTS Frontend] playNarration: Bailing - Page is still loading.');
         if(!userManuallyInitiatedNarration) console.log('[TTS Frontend] playNarration: Bailing - User has not manually initiated narration.');
+        if(greetingHeardOnce) console.log('[TTS Frontend] playNarration: Bailing - Greeting has already been heard.');
         return;
       }
 
@@ -114,6 +120,7 @@ export default function LinkedInInterludeScreen() {
           setNarrationError("Could not start audio. Please click 'Hear Oracle's Greeting' again or check browser permissions.");
           setIsNarrating(false);
           setUserManuallyInitiatedNarration(false);
+          setGreetingHeardOnce(false);
           return;
         }
       }
@@ -155,6 +162,7 @@ export default function LinkedInInterludeScreen() {
           setNarrationError("No audio data was returned from the oracle.");
           setIsNarrating(false);
           setUserManuallyInitiatedNarration(false);
+          setGreetingHeardOnce(false);
           return;
         }
 
@@ -191,6 +199,7 @@ export default function LinkedInInterludeScreen() {
         source.onended = () => {
             console.log('[TTS Frontend] Audio playback ended.');
             setIsNarrating(false);
+            setGreetingHeardOnce(true);
             // User has heard the greeting, keep userManuallyInitiatedNarration as true.
             audioSourceRef.current = null;
         };
@@ -200,11 +209,12 @@ export default function LinkedInInterludeScreen() {
         setNarrationError(`The spirits are quiet: ${error.message}. Please try the greeting again.`);
         setIsNarrating(false);
         setUserManuallyInitiatedNarration(false);
+        setGreetingHeardOnce(false);
       }
     };
 
-    console.log('[TTS Frontend] useEffect for narration triggered. Deps - isLoadingPage:', isLoadingPage, 'profileInfo.companyName:', profileInfo.companyName, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration);
-    if (!isLoadingPage && profileInfo.companyName && userManuallyInitiatedNarration) {
+    console.log('[TTS Frontend] useEffect for narration triggered. Deps - isLoadingPage:', isLoadingPage, 'profileInfo.companyName:', profileInfo.companyName, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce);
+    if (!isLoadingPage && profileInfo.companyName && userManuallyInitiatedNarration && !greetingHeardOnce) {
         console.log('[TTS Frontend] Conditions met (data loaded + user interaction), calling playNarration directly.');
         playNarration();
     }
@@ -218,7 +228,7 @@ export default function LinkedInInterludeScreen() {
         audioSourceRef.current = null;
       }
     };
-  }, [isLoadingPage, profileInfo, getNarrationText, userManuallyInitiatedNarration]); // Ensure userManuallyInitiatedNarration is a dependency
+  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce]); // REMOVED getNarrationText from dependency array, profileInfo is already there
 
   useEffect(() => {
     console.log('[TTS Frontend] useEffect for profile data loading triggered.');
@@ -247,10 +257,27 @@ export default function LinkedInInterludeScreen() {
       }
       
       let jobTitle = 'your esteemed role';
-      if (profileData?.occupation) {
-        jobTitle = profileData.occupation;
-      } else if (profileData?.experiences?.length > 0 && profileData.experiences[0]?.title) {
-        jobTitle = profileData.experiences[0].title;
+      const occupationFromProfile = profileData?.occupation; 
+      const titleFromExperience = profileData?.experiences?.[0]?.title;
+
+      if (occupationFromProfile) {
+        // If companyName is valid (not the default placeholder)
+        // and is included in occupationFromProfile (case-insensitive)
+        // and occupationFromProfile is not identical to companyName (e.g. avoid "Microsoft" contains "Microsoft")
+        // and a titleFromExperience exists, prefer the cleaner titleFromExperience.
+        if (companyName &&
+            companyName !== 'your current venture' &&
+            occupationFromProfile.toLowerCase().includes(companyName.toLowerCase()) &&
+            occupationFromProfile.toLowerCase() !== companyName.toLowerCase() &&
+            titleFromExperience) {
+          jobTitle = titleFromExperience; // e.g., "Founder"
+        } else {
+          // Otherwise, use the occupation as is.
+          jobTitle = occupationFromProfile; // e.g., "CEO" or "Founder at Unrelated Company"
+        }
+      } else if (titleFromExperience) {
+        // Fallback to titleFromExperience if occupationFromProfile is not available.
+        jobTitle = titleFromExperience;
       }
 
       let previousCompaniesString = '';
@@ -300,6 +327,7 @@ export default function LinkedInInterludeScreen() {
   const handleInitiateNarration = async () => {
     console.log('[TTS Frontend] handleInitiateNarration button clicked.');
     setNarrationError(null); // Clear previous errors on new attempt
+    setGreetingHeardOnce(false); // Added for Issue 2: Reset on new initiation
     const audioContext = getAudioContext();
     if (!audioContext) {
       setNarrationError("Audio playback system could not be initialized. Try refreshing the page.");
@@ -317,6 +345,7 @@ export default function LinkedInInterludeScreen() {
         console.error('[TTS Frontend] handleInitiateNarration: Error resuming AudioContext:', e);
         setNarrationError("Could not activate audio. Please check browser permissions or try a different browser.");
         setUserManuallyInitiatedNarration(false); // Allow another try by resetting this
+        setGreetingHeardOnce(false); // Added for Issue 2: Reset on new initiation
         return;
       }
     }
@@ -439,7 +468,7 @@ export default function LinkedInInterludeScreen() {
             )}
 
             {/* Show status if narration has been attempted or is active, and no overriding error */}
-            {(userManuallyInitiatedNarration || isNarrating) && !narrationError && (
+            {((userManuallyInitiatedNarration && !greetingHeardOnce) || isNarrating) && !narrationError && (
                  <p className="text-mw-gold text-lg animate-pulse min-h-[28px]">
                     {isNarrating ? "The Oracle speaks..." : profileInfo.companyName ? "Oracle is ready to speak..." : "Preparing Oracle's greeting..."}
                  </p>
