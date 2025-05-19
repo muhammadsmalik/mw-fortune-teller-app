@@ -1,23 +1,19 @@
 'use client';
 
-import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
+import { useEffect, useState, useMemo, useCallback }
+from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
-import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import { Mic, MicOff, Loader2 } from 'lucide-react';
+import { Loader2 } from 'lucide-react';
 import { Scanner } from '@yudiel/react-qr-scanner';
 import Image from 'next/image';
 
 export default function CollectInfoScreen() {
   const router = useRouter();
   const [linkedinUrl, setLinkedinUrl] = useState('');
-  const [showQr, setShowQr] = useState(false);
   const [isGenerating, setIsGenerating] = useState(false);
   const [qrError, setQrError] = useState('');
 
@@ -52,7 +48,6 @@ export default function CollectInfoScreen() {
     try {
       const parsed = new URL(url.trim());
       if (parsed.hostname !== 'www.linkedin.com') return null;
-      // Path should be /in/username or /in/username/
       const match = parsed.pathname.match(/^\/in\/([A-Za-z0-9\-_%]+)\/?$/);
       if (!match) return null;
       const username = match[1];
@@ -75,25 +70,17 @@ export default function CollectInfoScreen() {
       const normalized = typeof value === 'string' ? normalizeLinkedInUrl(value) : null;
       if (normalized) {
         setLinkedinUrl(normalized);
-        setShowQr(false);
         setQrError('');
       } else {
-        setQrError('QR does not contain a valid LinkedIn profile URL.');
+        setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
       }
     }
-  };
-
-  // Normalize input on change
-  const handleInputChange = (e) => {
-    const raw = e.target.value;
-    const normalized = normalizeLinkedInUrl(raw);
-    setLinkedinUrl(normalized || raw); // Show normalized if valid, else raw
   };
 
   // Proceed handler
   const handleProceed = async () => {
     if (!isValidLinkedIn(linkedinUrl)) {
-      alert('Please enter a valid LinkedIn profile URL.');
+      alert('Yikes! That URL\'s not passing the vibe check. Make sure it\'s a real LinkedIn profile.');
       return;
     }
     setIsGenerating(true);
@@ -102,25 +89,12 @@ export default function CollectInfoScreen() {
       localStorage.setItem('forceRefreshLinkedInData', 'true'); // Signal a fresh fetch
       router.push('/generating-fortune');
     } catch (error) {
-      alert('An error occurred. Please try again.');
+      alert('A mystical mishap occurred! Please try sharing your link again.');
       setIsGenerating(false);
     }
   };
 
   if (!init) return null;
-
-  // Inline Modal for QR scanner
-  const QrModal = ({ open, onClose, children }) => {
-    if (!open) return null;
-    return (
-      <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/70">
-        <div className="bg-mw-dark-navy rounded-lg shadow-lg p-6 relative w-full max-w-md">
-          <button onClick={onClose} className="absolute top-2 right-2 text-mw-white/70 hover:text-mw-white text-2xl">&times;</button>
-          {children}
-        </div>
-      </div>
-    );
-  };
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
@@ -138,42 +112,32 @@ export default function CollectInfoScreen() {
       <Card className="bg-card rounded-lg shadow-lg w-full max-w-lg">
         <CardHeader className="text-center">
           <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
-            Share Your LinkedIn Profile
+            Your Digital Destiny Awaits.
           </CardTitle>
           <CardDescription className="text-mw-white/80 text-sm sm:text-base pt-2">
-            Paste your LinkedIn profile URL or scan a QR code containing it.
+            Just one scan to spark your future.
           </CardDescription>
         </CardHeader>
-        <CardContent className="space-y-6 pt-6">
-          <div className="space-y-2">
-            <Label htmlFor="linkedinUrl" className="text-mw-white/90">LinkedIn Profile URL</Label>
-            <div className="flex items-center">
-              <Input
-                id="linkedinUrl"
-                type="text"
-                placeholder="e.g., https://www.linkedin.com/in/yourname/"
-                value={linkedinUrl}
-                onChange={handleInputChange}
-                className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring flex-grow"
-                disabled={isGenerating}
-                autoComplete="off"
-              />
-              <Button
-                type="button"
-                variant="outline"
-                size="icon"
-                className="ml-2 border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 disabled:opacity-50"
-                onClick={() => { setShowQr(true); setQrError(''); }}
-                disabled={isGenerating}
-                aria-label="Scan QR code"
-              >
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 4.5v2.25A2.25 2.25 0 006 9h2.25M20.25 4.5v2.25A2.25 2.25 0 0118 9h-2.25M3.75 19.5v-2.25A2.25 2.25 0 016 15h2.25M20.25 19.5v-2.25A2.25 2.25 0 0018 15h-2.25" />
-                </svg>
-              </Button>
-            </div>
-            <p className="text-xs text-mw-white/60 mt-1">We only need your public LinkedIn profile link.</p>
-            {qrError && <div className="text-red-400 text-xs mt-2">{qrError}</div>}
+        <CardContent className="space-y-4 pt-6 flex flex-col items-center">
+          <div className="w-full max-w-xs sm:max-w-sm rounded-lg overflow-hidden">
+            <Scanner
+              onScan={handleScan}
+              onError={err => setQrError(`Looks like the camera\'s on a coffee break. ${err?.message || 'Unknown error'}`)}
+              styles={{ container: { width: '100%' }, video: { width: '100%', transform: "scaleX(-1)" } }}
+              options={{ delayBetweenScanAttempts: 100, delayBetweenScanSuccess: 500 }}
+            />
+          </div>
+          {qrError && <div className="text-red-400 text-xs mt-2 text-center">{qrError}</div>}
+          
+          <div className="text-xs text-mw-white/70 mt-4 space-y-2 text-center px-2">
+            <p className="font-semibold text-sm">QR Code? Here's your treasure map!</p>
+            <p>Ready to uncover it? Follow these steps:</p>
+            <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80">
+              <li>Open the LinkedIn mobile app.</li>
+              <li>Tap the search bar at the top.</li>
+              <li>Look for the QR code icon on the right side.</li>
+              <li>Tap it, then select "My Code" to display your QR.</li>
+            </ol>
           </div>
         </CardContent>
         <CardFooter className="flex flex-col items-center pt-6">
@@ -184,23 +148,13 @@ export default function CollectInfoScreen() {
             className="w-full px-10 py-7 text-xl font-bold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
           >
             {isGenerating ? (
-              <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Processing...</>
+              <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Tuning into your destiny…</>
             ) : (
-              'Proceed'
+              'Let the Magic Begin!'
             )}
           </Button>
         </CardFooter>
       </Card>
-      <QrModal open={showQr} onClose={() => setShowQr(false)}>
-        <div className="mb-4 text-center text-mw-white font-semibold">Scan LinkedIn QR Code</div>
-        <Scanner
-          onScan={handleScan}
-          onError={err => setQrError('Camera error: ' + (err?.message || 'Unknown error'))}
-          styles={{ container: { width: '100%' }, video: { width: '100%' } }}
-        />
-        <div className="text-xs text-mw-white/60 mt-2">Point your camera at a QR code containing your LinkedIn profile URL.</div>
-        {qrError && <div className="text-red-400 text-xs mt-2">{qrError}</div>}
-      </QrModal>
     </div>
   );
 } 

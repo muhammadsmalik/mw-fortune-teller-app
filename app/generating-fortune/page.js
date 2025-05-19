@@ -18,11 +18,11 @@ const Particles = dynamic(() => import('@tsparticles/react').then(mod => mod.Par
 // Removed top-level dynamic imports for initParticlesEngine and loadSlim
 
 const loadingPhrases = [
-  "Consulting the data streams...",
-  "Aligning the digital stars...",
-  "Forecasting your success...",
-  "Peering into the business cosmos...",
-  "Unveiling market insights..."
+  "Stirring the digital tea leaves...",
+  "Dusting off the crystal ball...",
+  "Decoding the whispers of the web...",
+  "Warming up the fortune-telling algorithms...",
+  "Polishing our predictive pearls..."
 ];
 
 const FETCHED_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
@@ -69,7 +69,7 @@ export default function GeneratingFortuneScreen() {
       const forceRefresh = localStorage.getItem(FORCE_REFRESH_LOCAL_STORAGE_KEY) === 'true';
 
       if (!userLinkedInProfile) {
-        setError('LinkedIn profile URL not found. Please go back and enter it.');
+        setError('Oops! We need your LinkedIn profile URL to peek into your future. Let\'s go back and grab it!');
         setIsLoading(false);
         return;
       }
@@ -130,7 +130,7 @@ export default function GeneratingFortuneScreen() {
 
       } catch (err) {
         console.error('Failed to fetch or process LinkedIn details:', err);
-        setError(err.message || 'An error occurred while processing details.');
+        setError(`Hmm, our crystal ball seems a bit foggy right now. ${err.message || 'An error occurred while processing details.'}`);
       } finally {
         setIsLoading(false);
       }
@@ -212,13 +212,13 @@ export default function GeneratingFortuneScreen() {
             className="absolute top-0 left-0 w-full h-full z-[-1]"
           />
         )}
-        <h1 className="text-2xl font-bold text-red-400 mb-4">Error</h1>
+        <h1 className="text-2xl font-bold text-red-400 mb-4">A Slight Hiccup!</h1>
         <p className="mb-6">{error}</p>
-        <button 
+        <button
           onClick={() => router.push('/collect-info')}
           className="px-6 py-2 bg-mw-light-blue text-mw-dark-navy font-semibold rounded-lg hover:opacity-90 transition-opacity"
         >
-          Go Back
+          Let's Go Back
         </button>
       </div>
     );
@@ -235,12 +235,12 @@ export default function GeneratingFortuneScreen() {
             className="absolute top-0 left-0 w-full h-full z-[-1]"
           />
         )}
-        No data available. Please try again from the beginning.
-        <button 
+        It seems the future is shy today! No data was found. Let\'s give it another whirl from the start.
+        <button
           onClick={() => router.push('/collect-info')}
           className="mt-4 px-6 py-2 bg-mw-light-blue text-mw-dark-navy font-semibold rounded-lg hover:opacity-90 transition-opacity"
         >
-          Start Over
+          Try Anew
         </button>
       </div>
     );
@@ -264,7 +264,7 @@ export default function GeneratingFortuneScreen() {
       </div>
 
       <div className="bg-card p-8 rounded-lg shadow-xl max-w-2xl w-full">
-        <h1 className="text-3xl font-bold text-mw-gold mb-6 text-center">Data Overview</h1>
+        <h1 className="text-3xl font-bold text-mw-gold mb-6 text-center">Your Cosmic Profile</h1>
         
         {data.profileData && (
           <div className="mb-6 pb-6 border-b border-mw-white/20">
@@ -288,7 +288,7 @@ export default function GeneratingFortuneScreen() {
         )}
 
         <div className="mt-8 text-center">
-            <p className="text-mw-gold text-lg">Next steps: Use this data to generate the fortune!</p>
+            <p className="text-mw-gold text-lg">Ready to see what the future holds? Let\'s weave this data into your fortune!</p>
         </div>
 
       </div>
