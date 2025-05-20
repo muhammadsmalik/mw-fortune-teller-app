@@ -1,3 +1,9 @@
+PROD NOTES:
+- Set domain
+- Set API Keys
+- 
+
+
 1. Make fortune more concise & relevant
     a. Either capture more information to personalize it
     b. Or explicitly mention that it needs to be more tailored

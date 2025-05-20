@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -10,11 +10,9 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-  DialogTrigger,
   DialogFooter,
   DialogClose,
 } from "@/components/ui/dialog";
-import { QRCodeSVG } from 'qrcode.react';
 import {
   Card,
   CardContent,
@@ -23,28 +21,23 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Mail, MessageCircleMore, Loader2, AlertCircle, CheckCircle2, QrCode } from 'lucide-react';
-import 'react-phone-number-input/style.css'
-import PhoneInput, { isValidPhoneNumber } from 'react-phone-number-input'
+import { Mail, Loader2, AlertCircle, CheckCircle2 } from 'lucide-react';
 import Image from 'next/image';
 
 export default function ContactDetailsPage() {
   const router = useRouter();
   const [email, setEmail] = useState('');
-  const [phoneNumber, setPhoneNumber] = useState('');
   const [error, setError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [shareableFortuneText, setShareableFortuneText] = useState('Your fortune is being prepared for sharing...');
-  const [isQrModalOpen, setIsQrModalOpen] = useState(false);
-  const [qrCodeValue, setQrCodeValue] = useState('');
   const [isLeadSaved, setIsLeadSaved] = useState(false);
+  const [isEmailSent, setIsEmailSent] = useState(false);
 
-  // State for email sending
-  const [isSendingEmail, setIsSendingEmail] = useState(false);
-  const [emailSendStatus, setEmailSendStatus] = useState({ message: '', type: '' }); // type: 'success' or 'error'
+  const [isProcessing, setIsProcessing] = useState(false);
 
-  // State for data that would typically come from previous steps/global state
+  const [emailSendStatus, setEmailSendStatus] = useState({ message: '', type: '' });
+
   const [leadData, setLeadData] = useState({
     fullName: '',
     industry: '',
@@ -52,17 +45,47 @@ export default function ContactDetailsPage() {
     fortuneText: '',
   });
 
+  const [isLinkedInFlow, setIsLinkedInFlow] = useState(false);
+  const [linkedInEmail, setLinkedInEmail] = useState('');
+  const [autoProcessAttempted, setAutoProcessAttempted] = useState(false);
+
+  const isEverythingDone = isLeadSaved && isEmailSent;
+
   useEffect(() => {
-    // Simulate retrieving data from localStorage (replace with actual state management)
-    const storedFullName = localStorage.getItem('fortuneApp_fullName') || 'Test User';
-    const storedIndustry = localStorage.getItem('fortuneApp_industry') || 'Tech';
-    const storedCompanyName = localStorage.getItem('fortuneApp_companyName') || 'TestCo';
+    let initialFullName = localStorage.getItem('fortuneApp_fullName');
+    let initialIndustry = localStorage.getItem('fortuneApp_industry');
+    let initialCompanyName = localStorage.getItem('fortuneApp_companyName');
     const storedFortuneText = localStorage.getItem('fortuneApp_fortuneText') || 'Your future is bright!';
-    
+
+    const linkedInDataString = localStorage.getItem('fetchedLinkedInData');
+    if (linkedInDataString) {
+      setIsLinkedInFlow(true);
+      try {
+        const linkedInData = JSON.parse(linkedInDataString);
+        const profile = linkedInData.profileData;
+        const companyData = linkedInData.latestCompanyData;
+
+        if (profile) {
+          initialFullName = profile.full_name || initialFullName || 'User from LinkedIn';
+          initialCompanyName = (profile.experiences && profile.experiences.length > 0 ? profile.experiences[0].company : null) || initialCompanyName || 'Company (via LinkedIn)';
+          initialIndustry = profile.occupation || (companyData ? companyData.industry : null) || initialIndustry || 'Industry (via LinkedIn)';
+
+          if (profile.personal_emails && profile.personal_emails.length > 0 && profile.personal_emails[0]) {
+            const extractedEmail = profile.personal_emails[0];
+            setLinkedInEmail(extractedEmail);
+            setEmail(extractedEmail);
+          }
+        }
+      } catch (e) {
+        console.error("Error parsing LinkedIn data:", e);
+        setIsLinkedInFlow(false);
+      }
+    }
+
     setLeadData({
-      fullName: storedFullName,
-      industry: storedIndustry,
-      companyName: storedCompanyName,
+      fullName: initialFullName || 'Guest User',
+      industry: initialIndustry || 'General',
+      companyName: initialCompanyName || 'N/A',
       fortuneText: storedFortuneText,
     });
   }, []);
@@ -77,8 +100,6 @@ export default function ContactDetailsPage() {
         const structuredFortune = JSON.parse(structuredFortuneString);
         let parts = [];
         if (structuredFortune.openingLine) parts.push(structuredFortune.openingLine);
-        
-        // Remove emojis from shareable text for better cross-platform compatibility
         if (structuredFortune.locationInsight) parts.push(structuredFortune.locationInsight.replace('📍', '').trim());
         if (structuredFortune.audienceOpportunity) parts.push(structuredFortune.audienceOpportunity.replace('👀', '').trim());
         if (structuredFortune.engagementForecast) parts.push(structuredFortune.engagementForecast.replace('💥', '').trim());
@@ -114,127 +135,143 @@ export default function ContactDetailsPage() {
     setShareableFortuneText(textToShare);
   }, []);
 
+  const sendFortuneEmail = useCallback(async (emailToSendTo, userFullName, fortuneContentForEmail) => {
+    if (!fortuneContentForEmail || fortuneContentForEmail.startsWith("Could not") || fortuneContentForEmail.startsWith("Fortune details not") || fortuneContentForEmail.startsWith("Your fortune is being prepared")) {
+      setEmailSendStatus({ message: "Fortune text is not ready for email.", type: 'error' });
+      setIsEmailSent(false);
+      return false;
+    }
+    setEmailSendStatus({ message: '', type: '' });
+    try {
+      const response = await fetch('/api/send-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          emailTo: emailToSendTo,
+          subject: `Your Business Fortune from Moving Walls!`,
+          fortuneText: fortuneContentForEmail,
+          fullName: userFullName,
+        }),
+      });
+      const result = await response.json();
+      if (!response.ok) {
+        setEmailSendStatus({ message: result.message || 'Failed to send fortune email.', type: 'error' });
+        setIsEmailSent(false);
+        return false;
+      } else {
+        setEmailSendStatus({ message: result.message || 'Fortune email sent successfully! Check your inbox.', type: 'success' });
+        setIsEmailSent(true);
+        return true;
+      }
+    } catch (err) {
+      console.error('Email sending error:', err);
+      setEmailSendStatus({ message: `Error during email sending: ${err.message}`, type: 'error' });
+      setIsEmailSent(false);
+      return false;
+    }
+  }, []);
+
+  useEffect(() => {
+    const attemptAutoProcess = async () => {
+      if (isLinkedInFlow && linkedInEmail && !isLeadSaved && !isEmailSent && !isProcessing && !autoProcessAttempted &&
+          leadData.fullName && leadData.companyName && leadData.industry && leadData.fortuneText &&
+          shareableFortuneText && !shareableFortuneText.startsWith("Your fortune is being prepared")) {
+        
+        setAutoProcessAttempted(true);
+        setIsProcessing(true);
+        setError('');
+        setSuccessMessage('');
+        setEmailSendStatus({ message: '', type: '' });
+
+        let leadSuccessfullySubmitted = false;
+        try {
+          const response = await fetch('/api/submit-lead', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              fullName: leadData.fullName,
+              email: linkedInEmail,
+              industry: leadData.industry,
+              companyName: leadData.companyName,
+              fortuneText: leadData.fortuneText,
+            }),
+          });
+          const result = await response.json();
+          if (!response.ok) {
+            setError(`Lead auto-submission failed: ${result.message || 'Unknown error'}`);
+          } else {
+            setSuccessMessage('Details saved automatically. Sending email...');
+            setIsLeadSaved(true);
+            leadSuccessfullySubmitted = true;
+          }
+        } catch (err) {
+          setError(`Error during lead auto-submission: ${err.message}`);
+        }
+
+        if (leadSuccessfullySubmitted) {
+          const emailActuallySent = await sendFortuneEmail(linkedInEmail, leadData.fullName, shareableFortuneText);
+          if (emailActuallySent) {
+            setSuccessMessage('');
+          } else {
+          }
+        }
+        setIsProcessing(false);
+      }
+    };
+    attemptAutoProcess();
+  }, [isLinkedInFlow, linkedInEmail, leadData, shareableFortuneText, isLeadSaved, isEmailSent, isProcessing, autoProcessAttempted, sendFortuneEmail]);
+
   const handleSubmit = async (e) => {
-    e.preventDefault();
+    if (e) e.preventDefault();
     setError('');
     setSuccessMessage('');
+    setEmailSendStatus({ message: '', type: '' });
 
     if (!email) {
       setError('Email address is mandatory.');
       return;
     }
-    if (!phoneNumber || !isValidPhoneNumber(phoneNumber)) {
-      setError('A valid phone number is mandatory.');
-      return;
-    }
-
-    setIsLoading(true);
-    setIsLeadSaved(false);
+    setIsProcessing(true);
 
     const payload = {
       ...leadData,
       email,
-      phoneNumber,
     };
 
+    let leadSuccessfullySubmitted = false;
     try {
       const response = await fetch('/api/submit-lead', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),
       });
-
       const result = await response.json();
 
       if (!response.ok) {
         setError(result.message || 'Submission failed. Please try again.');
-        console.error('Submission error details:', result.details);
         setIsLeadSaved(false);
       } else {
-        setSuccessMessage(result.message || 'Your details are saved! ✨ Feel free to share your amazing fortune.');
+        setSuccessMessage('Your details have been saved. Sending email...');
         setIsLeadSaved(true);
-        // Optional: store contact method for thank you page
+        leadSuccessfullySubmitted = true;
         localStorage.setItem('fortuneApp_contactMethod', email);
       }
     } catch (err) {
-      console.error('Network or other error:', err);
-      setError('An unexpected error occurred. Please check your connection and try again.');
+      setError('An unexpected error occurred while saving details. Please check your connection and try again.');
       setIsLeadSaved(false);
     }
-    setIsLoading(false);
-  };
 
-  const handleShareWhatsApp = () => {
-    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
-      alert("Fortune text is not available to share yet. Please wait a moment.");
-      return;
-    }
-    console.log("Original shareableFortuneText for WhatsApp:", shareableFortuneText);
-    const message = encodeURIComponent(shareableFortuneText);
-    const phoneNumber = "601131412766";
-    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
-    console.log("Generated WhatsApp URL:", whatsappUrl);
-    window.open(whatsappUrl, '_blank');
-  };
-
-  const handleShareEmail = async () => {
-    if (!isLeadSaved) {
-      alert("Please save your details first before sharing.");
-      return;
-    }
-    if (!email) {
-      alert("Please ensure your email address is entered to receive a copy.");
-      return;
-    }
-    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
-      alert("Fortune text is not available to share yet. Please wait a moment or ensure details are saved.");
-      return;
-    }
-
-    setIsSendingEmail(true);
-    setEmailSendStatus({ message: '', type: '' });
-
-    try {
-      const response = await fetch('/api/send-email', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          emailTo: email, // Send to the user's own email
-          subject: `Your Business Fortune from Moving Walls!`,
-          fortuneText: shareableFortuneText,
-          fullName: leadData.fullName, // Pass the full name
-        }),
-      });
-
-      const result = await response.json();
-
-      if (!response.ok) {
-        setEmailSendStatus({ message: result.message || 'Failed to send email.', type: 'error' });
+    if (leadSuccessfullySubmitted) {
+      const emailActuallySent = await sendFortuneEmail(email, leadData.fullName, shareableFortuneText);
+      if (emailActuallySent) {
+        setSuccessMessage('');
       } else {
-        setEmailSendStatus({ message: result.message || 'Email sent successfully! Check your inbox.', type: 'success' });
       }
-    } catch (err) {
-      console.error('Email sending error:', err);
-      setEmailSendStatus({ message: 'An unexpected error occurred while sending the email.', type: 'error' });
     }
-    setIsSendingEmail(false);
+    setIsProcessing(false);
   };
 
-  const handleShareViaQrCode = () => {
-    if (!shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")) {
-      alert("Fortune text is not available to share yet. Please wait a moment.");
-      return;
-    }
-    const phoneNumber = "601131412766"; // Same number as direct WhatsApp share
-    const message = encodeURIComponent(shareableFortuneText);
-    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
-    setQrCodeValue(whatsappUrl);
-    setIsQrModalOpen(true);
-  };
+  const showForm = !isLinkedInFlow || !linkedInEmail;
 
   return (
     <div className="min-h-screen bg-mw-dark-navy flex flex-col items-center justify-center p-4 font-roboto">
@@ -242,69 +279,57 @@ export default function ContactDetailsPage() {
         <CardHeader>
           <CardTitle className="text-2xl font-bold tracking-wide text-center">Keep Your Fortune & Connect!</CardTitle>
           <CardDescription className="text-mw-white/80 text-center pt-2">
-            Enter your details to receive your fortune and learn how Moving Walls can help you achieve it.
+            {isEverythingDone ? "Your details are saved & fortune sent! You can close this window." :
+             isProcessing ? "Processing your information..." :
+             isLinkedInFlow && linkedInEmail && !autoProcessAttempted ? "We found your email. We'll save your details and send your fortune automatically." :
+             "Enter your email to receive your personalized business fortune."}
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <form onSubmit={handleSubmit} className="space-y-6">
-            <div className="space-y-2">
-              <Label htmlFor="email" className="text-mw-white/90">Email Address *</Label>
-              <Input
-                id="email"
-                type="email"
-                placeholder="you@company.com"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-                className="bg-slate-800 border-slate-700 text-mw-white focus:ring-mw-light-blue"
-                disabled={isLeadSaved || isLoading}
-              />
-            </div>
-            <div className="space-y-2">
-              <Label htmlFor="phoneNumber" className="text-mw-white/90">Phone Number *</Label>
-              <PhoneInput
-                id="phoneNumber"
-                placeholder="Enter phone number"
-                value={phoneNumber}
-                onChange={setPhoneNumber}
-                defaultCountry="MX"
-                international
-                countryCallingCodeEditable={false}
-                className="phone-input-mw"
-                disabled={isLeadSaved || isLoading}
-              />
-            </div>
-
-            {error && (
-              <div className="flex items-center p-3 text-sm text-red-400 bg-red-900/30 rounded-md border border-red-400/50">
-                <AlertCircle className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span className='flex-grow'>{error}</span>
+          {(showForm || (!isLinkedInFlow && !linkedInEmail)) && !isEverythingDone && (
+            <form onSubmit={handleSubmit} className="space-y-6">
+              <div className="space-y-2">
+                <Label htmlFor="email" className="text-mw-white/90">Email Address *</Label>
+                <Input
+                  id="email"
+                  type="email"
+                  placeholder="you@company.com"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  required
+                  className="bg-slate-800 border-slate-700 text-mw-white focus:ring-mw-light-blue"
+                  disabled={isProcessing || isEverythingDone || (isLinkedInFlow && linkedInEmail)}
+                />
               </div>
-            )}
-            {successMessage && !error && (
-              <div className="flex items-center p-3 text-sm text-green-400 bg-green-900/30 rounded-md border border-green-400/50">
-                <CheckCircle2 className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span className='flex-grow' style={{ whiteSpace: 'pre-line' }}>{successMessage}</span>
-              </div>
-            )}
+              <Button 
+                type="submit"
+                disabled={isProcessing || isEverythingDone || (isLinkedInFlow && linkedInEmail && !autoProcessAttempted)}
+                className="w-full bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90 disabled:opacity-50 flex items-center justify-center"
+              >
+                {isProcessing ? (
+                  <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> Processing...</>
+                ) : isEverythingDone ? (
+                  'Fortune Sent! ✨'
+                ) : (
+                  'Send My Fortune & Email'
+                )}
+              </Button>
+            </form>
+          )}
 
-            <Button 
-              type={isLeadSaved ? "button" : "submit"}
-              onClick={isLeadSaved ? () => {} : handleSubmit}
-              disabled={isLoading}
-              className="w-full bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90 disabled:opacity-50 flex items-center justify-center"
-            >
-              {isLoading ? (
-                <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> {isLeadSaved ? 'Saving...' : 'Sending...'}</>
-              ) : isLeadSaved ? (
-                'Details Saved! Share Below'
-              ) : (
-                'Send My Fortune'
-              )}
-            </Button>
-          </form>
-          {/* Display email sending status messages */}
-          {emailSendStatus.message && (
+          {error && !isEverythingDone && (
+            <div className="mt-4 flex items-center p-3 text-sm text-red-400 bg-red-900/30 rounded-md border border-red-400/50">
+              <AlertCircle className="w-5 h-5 mr-2 flex-shrink-0" />
+              <span className='flex-grow' style={{ whiteSpace: 'pre-line' }}>{error}</span>
+            </div>
+          )}
+          {successMessage && !isEverythingDone && (
+            <div className="mt-4 flex items-center p-3 text-sm text-green-400 bg-green-900/30 rounded-md border border-green-400/50">
+              <CheckCircle2 className="w-5 h-5 mr-2 flex-shrink-0" />
+              <span className='flex-grow' style={{ whiteSpace: 'pre-line' }}>{successMessage}</span>
+            </div>
+          )}
+          {emailSendStatus.message && !isEverythingDone && (
             <div className={`mt-4 flex items-center p-3 text-sm rounded-md border ${
               emailSendStatus.type === 'success' ? 'text-green-400 bg-green-900/30 border-green-400/50' : 
               emailSendStatus.type === 'error' ? 'text-red-400 bg-red-900/30 border-red-400/50' : ''
@@ -313,60 +338,30 @@ export default function ContactDetailsPage() {
               <span className='flex-grow'>{emailSendStatus.message}</span>
             </div>
           )}
-        </CardContent>
-        <CardFooter className="flex flex-col items-center pt-6">
-          <p className="text-mw-white/70 text-sm mb-3 font-medium">Share Your Insight:</p>
-          <div className="flex space-x-4">
-            <Button 
-              variant="outline" 
-              className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue flex items-center justify-center"
-              onClick={handleShareEmail}
-              disabled={!isLeadSaved || isLoading || isSendingEmail || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
-            >
-              {isSendingEmail ? <Loader2 className="mr-2 h-5 w-5 animate-spin" /> : <Mail className="mr-2 h-5 w-5" />}
-              {isSendingEmail ? 'Sending...' : 'Email'}
-            </Button>
-            <Dialog open={isQrModalOpen} onOpenChange={setIsQrModalOpen}>
-              <DialogTrigger asChild>
-                <Button
-                  variant="outline"
-                  className="border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-mw-light-blue"
-                  onClick={handleShareViaQrCode}
-                  disabled={!isLeadSaved || isLoading || !shareableFortuneText || shareableFortuneText.startsWith("Could not") || shareableFortuneText.startsWith("Fortune details not") || shareableFortuneText.startsWith("Your fortune is being prepared")}
-                >
-                  <QrCode className="mr-2 h-5 w-5" /> WhatsApp QR
-                </Button>
-              </DialogTrigger>
-              <DialogContent className="sm:max-w-md bg-slate-800 border-slate-700 text-mw-white">
-                <DialogHeader>
-                  <DialogTitle className="text-mw-light-blue">Share via WhatsApp QR</DialogTitle>
-                </DialogHeader>
-                <div className="flex flex-col items-center justify-center p-4">
-                  {qrCodeValue ? (
-                    <QRCodeSVG value={qrCodeValue} size={256} bgColor="#1e293b" fgColor="#FFFFFF" level="H" className="rounded-lg" />
-                  ) : (
-                    <p>Generating QR code...</p>
-                  )}
-                  <p className="mt-4 text-sm text-mw-white/80 text-center">
-                    Scan this QR code with your phone to share the fortune on WhatsApp.
-                  </p>
-                </div>
-                <DialogFooter className="sm:justify-center">
-                  <DialogClose asChild>
-                    <Button type="button" variant="secondary" className="bg-mw-light-blue text-mw-dark-navy hover:bg-mw-light-blue/90">
-                      Close
-                    </Button>
-                  </DialogClose>
-                </DialogFooter>
-              </DialogContent>
-            </Dialog>
-          </div>
-          {!isLeadSaved && (
-            <p className="text-mw-white/80 text-xs mt-3 text-center">
-              Please save your details above to enable sharing.
-            </p>
+          {(isLinkedInFlow && linkedInEmail && isProcessing && !isEverythingDone) && (
+            <div className="mt-4 flex items-center justify-center p-3 text-sm text-mw-white/90">
+              <Loader2 className="mr-2 h-5 w-5 animate-spin" />
+              <span>Saving details and sending your fortune...</span>
+            </div>
           )}
-        </CardFooter>
+          {isEverythingDone && (
+            <div className="mt-6 text-center">
+              <p className="text-mw-white/80 mt-2">You may now close this window or start a new fortune.</p>
+              <Button onClick={() => router.push('/')} className="mt-4 bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90">
+                  Start New Fortune
+              </Button>
+            </div>
+          )}
+        </CardContent>
+        {!isEverythingDone && (
+            <CardFooter className="flex flex-col items-center pt-2 pb-6">
+                 {(isLinkedInFlow && linkedInEmail && !autoProcessAttempted && !isProcessing) && (
+                    <p className="text-mw-white/80 text-xs text-center">
+                        We will automatically save your details and send your fortune.
+                    </p>
+                )}
+            </CardFooter>
+        )}
       </Card>
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
         <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />

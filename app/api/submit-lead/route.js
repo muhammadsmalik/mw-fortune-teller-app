@@ -7,7 +7,7 @@ export async function POST(req) {
   }
 
   try {
-    const { fullName, email, phoneNumber, industry, companyName, fortuneText } = await req.json();
+    const { fullName, email, /* phoneNumber, */ industry, companyName, fortuneText } = await req.json();
 
     // Basic validation
     if (!email || !fullName || !industry || !companyName || !fortuneText) {
@@ -26,14 +26,14 @@ export async function POST(req) {
 
     const spreadsheetId = process.env.GOOGLE_SHEET_ID;
     // Ensure 'Sheet1' is the correct name of your sheet/tab.
-    // The range A:G assumes Timestamp, FullName, Email, PhoneNumber, Industry, CompanyName, FortuneText
-    const range = 'Sheet1!A:G'; 
+    // The range A:F assumes Timestamp, FullName, Email, Industry, CompanyName, FortuneText
+    const range = 'Sheet1!A:F'; 
 
     const valueInputOption = 'USER_ENTERED';
     const timestamp = new Date().toISOString();
 
     const resource = {
-      values: [[timestamp, fullName, email, phoneNumber || "", industry, companyName, fortuneText]],
+      values: [[timestamp, fullName, email, industry, companyName, fortuneText]],
     };
 
     const response = await sheets.spreadsheets.values.append({
