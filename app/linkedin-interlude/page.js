@@ -1,10 +1,12 @@
 'use client';
 
-import { useEffect, useState, useCallback, useRef } from 'react';
+import { useEffect, useState, useCallback, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { Loader2, Mic } from 'lucide-react';
 import { Button } from "@/components/ui/button"; 
+import Particles, { initParticlesEngine } from "@tsparticles/react";
+import { loadSlim } from "@tsparticles/slim";
 
 const FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
@@ -38,6 +40,36 @@ export default function LinkedInInterludeScreen() {
   const [greetingHeardOnce, setGreetingHeardOnce] = useState(false);
   const audioContextRef = useRef(null);
   const audioSourceRef = useRef(null);
+  const [init, setInit] = useState(false); // For particle effects
+
+  // Particles engine initialization
+  useEffect(() => {
+    initParticlesEngine(async (engine) => {
+      await loadSlim(engine);
+    }).then(() => {
+      setInit(true);
+    });
+  }, []);
+
+  const particlesLoaded = useCallback(async (container) => {
+    // console.log("Particles container loaded", container);
+  }, []);
+
+  const particleOptions = useMemo(() => ({
+    particles: {
+      number: { value: 40, density: { enable: true, value_area: 800 } },
+      color: { value: ["#FFFFFF", "#5BADDE"] }, // mw-white, mw-light-blue
+      shape: { type: "circle" },
+      opacity: { value: 0.3, random: true, anim: { enable: true, speed: 0.6, opacity_min: 0.1, sync: false } },
+      size: { value: { min: 1, max: 3 }, random: true },
+      move: { enable: true, speed: 0.6, direction: "none", random: true, straight: false, outModes: { default: "out" }, bounce: false },
+    },
+    interactivity: {
+      detect_on: "canvas",
+      events: { onhover: { enable: false }, onclick: { enable: false }, resize: true },
+    },
+    detectRetina: true,
+  }), []);
 
   // Function to check for fortune data and proceed
   const checkForFortuneAndProceed = useCallback(() => {
@@ -508,8 +540,24 @@ export default function LinkedInInterludeScreen() {
     );
   }
 
+  if (!init && typeof window !== 'undefined') { 
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4">
+        <Loader2 className="h-12 w-12 animate-spin text-mw-light-blue" />
+      </div>
+    ); 
+  }
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-8 relative isolate space-y-6 text-center">
+      {init && Particles && (
+        <Particles
+          id="tsparticles-linkedin-interlude" 
+          particlesLoaded={particlesLoaded}
+          options={particleOptions}
+          className="absolute top-0 left-0 w-full h-full z-[-1]" 
+        />
+      )}
        <div className="absolute top-6 right-6 flex items-center text-sm text-mw-white/70">
          <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
          <span className="font-semibold">Moving Walls</span>
@@ -536,7 +584,7 @@ export default function LinkedInInterludeScreen() {
             alt="Mystic Fortune Teller with a knowing look" 
             width={180} 
             height={270} 
-            className="mb-6 object-contain"
+            className="mb-6 object-contain brightness-110 drop-shadow-[0_0_15px_rgba(91,173,222,0.7)]"
             priority={true}
           />
           

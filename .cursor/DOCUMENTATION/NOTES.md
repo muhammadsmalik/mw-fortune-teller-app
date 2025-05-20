@@ -14,6 +14,17 @@
 
 ---
 
+
+- fix double logos
+- 
+
+
+
+
+---
+
+
+
 # 19th May 2025:
 1. After sending email automatically, should clear the variable (or maybe shouldn't set it in the first place)
 
