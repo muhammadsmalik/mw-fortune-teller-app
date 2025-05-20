@@ -39,6 +39,65 @@ export default function LinkedInInterludeScreen() {
   const audioContextRef = useRef(null);
   const audioSourceRef = useRef(null);
 
+  // Function to check for fortune data and proceed
+  const checkForFortuneAndProceed = useCallback(() => {
+    // Ensure this isn't called if we are already trying to navigate or in a terminal error state for this screen
+    // if (router.pathname !== '/linkedin-interlude') return; // May not be needed with proper state management
+
+    const storedFortuneDataString = localStorage.getItem('fortuneData');
+    const storedFortuneError = localStorage.getItem('fortuneGenerationError');
+
+    if (storedFortuneError) {
+      console.error("[LinkedInInterlude] Error from background fortune generation picked up:", storedFortuneError);
+      setApiError(`A cosmic disturbance during fortune generation: ${storedFortuneError}. Redirecting...`);
+      setIsGeneratingFortune(false); // Turn off loading indicator
+      localStorage.removeItem('fortuneGenerationError'); // Clear the error flag
+      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY); // Clear pending request
+      // Potentially clear 'fortuneData' too if it was a partial write, though unlikely with current setup
+      // localStorage.removeItem('fortuneData'); 
+      setTimeout(() => router.push('/collect-info'), 5000);
+      return;
+    }
+
+    if (storedFortuneDataString) {
+      console.log('[LinkedInInterlude] Fortune data found in localStorage. Proceeding to display.');
+      // Data for 'fortuneApp_fullName', etc., should have been set by generating-fortune page's background fetch.
+      // We just ensure PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY is cleaned up.
+      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+      // Clear any potential stale error from this page if data is now fine.
+      setApiError(null);
+      setIsGeneratingFortune(false); // Turn off loading indicator
+      router.push('/display-fortune');
+    } else {
+      console.log('[LinkedInInterlude] Fortune data not yet found in localStorage. Will show loading/wait.');
+      setIsGeneratingFortune(true); // Show loading indicator: "Consulting the oracles..."
+      setApiError(null); // Clear previous API errors from this page
+      // The StorageEvent listener will handle picking up the data when it arrives.
+    }
+  }, [router]); // Added router to useCallback dependencies
+
+  // Effect for StorageEvent listener to react to background data changes
+  useEffect(() => {
+    const handleStorageChange = (event) => {
+      if (event.key === 'fortuneData' || event.key === 'fortuneGenerationError') {
+        console.log('[LinkedInInterlude] Storage event detected for:', event.key);
+        // Only proceed if we are in a state expecting this data (i.e., isGeneratingFortune is true or no apiError blocking)
+        // or if monologue has finished (greetingHeardOnce can be a proxy, or a new state like isMonologueFinished)
+        // For now, let's assume if isGeneratingFortune is true, we are waiting.
+        if (isGeneratingFortune || greetingHeardOnce) { // if waiting for fortune, or if monologue just finished and we should check
+          checkForFortuneAndProceed();
+        }
+      }
+    };
+
+    window.addEventListener('storage', handleStorageChange);
+    return () => {
+      window.removeEventListener('storage', handleStorageChange);
+    };
+    // isGeneratingFortune and greetingHeardOnce are included to re-evaluate if listener logic should change based on these states.
+    // checkForFortuneAndProceed is memoized with useCallback.
+  }, [isGeneratingFortune, greetingHeardOnce, checkForFortuneAndProceed]);
+
   // Function to initialize AudioContext safely on client
   const getAudioContext = () => {
     if (typeof window !== 'undefined') {
@@ -199,9 +258,18 @@ export default function LinkedInInterludeScreen() {
         source.onended = () => {
             console.log('[TTS Frontend] Audio playback ended.');
             setIsNarrating(false);
-            setGreetingHeardOnce(true);
-            // User has heard the greeting, keep userManuallyInitiatedNarration as true.
+            setGreetingHeardOnce(true); 
             audioSourceRef.current = null;
+
+            // If fortune generation wasn't already indicating an error from this page's perspective,
+            // and there's no active narration error that might have cut it short.
+            if (!apiError && !narrationError) { // Check apiError from this page, not isGeneratingFortune which is for background
+                console.log('[TTS Frontend] Narration ended naturally, checking for fortune data.');
+                checkForFortuneAndProceed();
+            } else {
+                if(apiError) console.log('[TTS Frontend] Narration ended, but an API error occurred on this page. Not auto-checking fortune.');
+                if(narrationError) console.log('[TTS Frontend] Narration ended, but a narration error occurred. Not auto-checking fortune.');
+            }
         };
 
       } catch (error) {
@@ -230,98 +298,163 @@ export default function LinkedInInterludeScreen() {
     };
   }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce]); // REMOVED getNarrationText from dependency array, profileInfo is already there
 
+  // This useEffect loads the profile information to display and for narration text
   useEffect(() => {
     console.log('[TTS Frontend] useEffect for profile data loading triggered.');
+    let storedFortuneRequestBodyString = localStorage.getItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
     const storedLinkedInDataString = localStorage.getItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY);
-    const storedFortuneRequestBodyString = localStorage.getItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+    // No longer setting fortuneRequestBody state here directly, will be derived from storedFortuneRequestBodyString
 
-    if (!storedLinkedInDataString || !storedFortuneRequestBodyString) {
-      console.error('[TTS Frontend] Essential data missing from localStorage. Redirecting.');
-      setApiError("Essential information not found. Please start over.");
-      setIsLoadingPage(false);
-      setTimeout(() => router.push('/collect-info'), 4000);
-      return;
-    }
+    if (!storedFortuneRequestBodyString) {
+      console.log('[TTS Frontend] PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY missing. Trying to recover or redirect.');
+      const userLinkedInProfileUrl = localStorage.getItem('userLinkedInProfile');
 
-    try {
-      const linkedInData = JSON.parse(storedLinkedInDataString);
-      const parsedFortuneRequestBody = JSON.parse(storedFortuneRequestBodyString);
-      setFortuneRequestBody(parsedFortuneRequestBody);
+      if (userLinkedInProfileUrl && storedLinkedInDataString) {
+        try {
+          const linkedInData = JSON.parse(storedLinkedInDataString);
+          const profileIdentifierFromUrl = userLinkedInProfileUrl.split('/').pop();
 
-      const { profileData, latestCompanyData } = linkedInData;
-      let companyName = 'your current venture';
-      if (latestCompanyData?.name) {
-        companyName = latestCompanyData.name;
-      } else if (profileData?.experiences?.length > 0 && profileData.experiences[0]?.company) {
-        companyName = profileData.experiences[0].company;
-      }
-      
-      let jobTitle = 'your esteemed role';
-      const occupationFromProfile = profileData?.occupation; 
-      const titleFromExperience = profileData?.experiences?.[0]?.title;
+          if (linkedInData.profileData && linkedInData.profileData.public_identifier && linkedInData.profileData.public_identifier.includes(profileIdentifierFromUrl)) {
+            console.log('[TTS Frontend] Reconstructing PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY from FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY.');
+            const { profileData, latestCompanyData } = linkedInData;
+            const reconstructedRequestBody = {
+              fullName: profileData.full_name || 'Mystic Seeker',
+              industryType: latestCompanyData?.industry || profileData.occupation || 'Diverse Ventures',
+              companyName: latestCompanyData?.name || 'Their Own Enterprise',
+              geographicFocus: `${profileData.city || 'Global Reach'}, ${profileData.country_full_name || 'Cosmic Planes'}`,
+              businessObjective: '', // Consistent with generating-fortune page
+            };
+            localStorage.setItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY, JSON.stringify(reconstructedRequestBody));
+            storedFortuneRequestBodyString = JSON.stringify(reconstructedRequestBody); // Update for subsequent logic
 
-      if (occupationFromProfile) {
-        // If companyName is valid (not the default placeholder)
-        // and is included in occupationFromProfile (case-insensitive)
-        // and occupationFromProfile is not identical to companyName (e.g. avoid "Microsoft" contains "Microsoft")
-        // and a titleFromExperience exists, prefer the cleaner titleFromExperience.
-        if (companyName &&
-            companyName !== 'your current venture' &&
-            occupationFromProfile.toLowerCase().includes(companyName.toLowerCase()) &&
-            occupationFromProfile.toLowerCase() !== companyName.toLowerCase() &&
-            titleFromExperience) {
-          jobTitle = titleFromExperience; // e.g., "Founder"
-        } else {
-          // Otherwise, use the occupation as is.
-          jobTitle = occupationFromProfile; // e.g., "CEO" or "Founder at Unrelated Company"
-        }
-      } else if (titleFromExperience) {
-        // Fallback to titleFromExperience if occupationFromProfile is not available.
-        jobTitle = titleFromExperience;
-      }
-
-      let previousCompaniesString = '';
-      if (profileData?.experiences && profileData.experiences.length > 1) {
-        const currentCompNameLower = companyName.toLowerCase();
-        const uniquePrevCompanies = Array.from(
-          new Set(
-            profileData.experiences
-              .slice(1) 
-              .map(exp => exp.company)
-              .filter(name => name && name.toLowerCase() !== currentCompNameLower)
-          )
-        ).slice(0, 2); 
-
-        if (uniquePrevCompanies.length > 0) {
-          if (uniquePrevCompanies.length === 1) {
-            previousCompaniesString = `Your path also shows experience with ${uniquePrevCompanies[0]}.`;
+            if (!localStorage.getItem('fortuneData') && !localStorage.getItem('fortuneGenerationError')) {
+              console.log('[TTS Frontend] Triggering background fortune generation from interlude page due to missing pending body recovery.');
+              const backgroundFortuneRequestBodyCopy = JSON.parse(JSON.stringify(reconstructedRequestBody)); 
+              fetch('/api/generate-fortune', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(backgroundFortuneRequestBodyCopy),
+              })
+              .then(async response => {
+                if (!response.ok) {
+                  const errorData = await response.json().catch(() => response.text());
+                  localStorage.setItem('fortuneGenerationError', errorData.error || errorData.details || errorData || `Background fortune generation (interlude-triggered) failed (${response.status})`);
+                  return null; 
+                }
+                return response.json();
+              })
+              .then(data => { 
+                if (data) {
+                  localStorage.setItem('fortuneData', JSON.stringify(data));
+                  localStorage.setItem('fortuneApp_fullName', backgroundFortuneRequestBodyCopy.fullName);
+                  localStorage.setItem('fortuneApp_industry', backgroundFortuneRequestBodyCopy.industryType);
+                  localStorage.setItem('fortuneApp_companyName', backgroundFortuneRequestBodyCopy.companyName);
+                  localStorage.removeItem('fortuneGenerationError');
+                  console.log('[TTS Frontend] Background fortune generation (interlude-triggered) successful.');
+                }
+              })
+              .catch(error => {
+                console.error("[TTS Frontend] Network or other error in background fortune generation (interlude-triggered):", error);
+                localStorage.setItem('fortuneGenerationError', error.message || "A network error occurred (interlude-triggered).");
+              });
+            }
           } else {
-            previousCompaniesString = `Your journey also includes chapters at ${uniquePrevCompanies.join(' and ')}.`;
+            console.error('[TTS Frontend] Mismatch: FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY is for a different profile. Redirecting.');
+            setApiError("Stale user data found. Please restart the process from the beginning.");
+            setIsLoadingPage(false);
+            setTimeout(() => router.push('/collect-info'), 4000);
+            return; 
           }
+        } catch (e) {
+          console.error('[TTS Frontend] Error parsing FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY or reconstructing request body:', e);
+          setApiError("There was an issue processing stored user data. Please restart the process.");
+          setIsLoadingPage(false);
+          setTimeout(() => router.push('/collect-info'), 4000);
+          return; 
         }
+      } else {
+        console.error('[TTS Frontend] PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY is missing, and cannot reconstruct. Redirecting.');
+        setApiError("Essential information for the oracle is missing. Please start over.");
+        setIsLoadingPage(false);
+        setTimeout(() => router.push('/collect-info'), 4000);
+        return; 
       }
-      
-      const fullName = parsedFortuneRequestBody.fullName || 'Valued User';
-      const industryType = parsedFortuneRequestBody.industryType || 'Diverse Fields';
-
-      setProfileInfo({
-        companyName,
-        jobTitle,
-        previousCompanies: previousCompaniesString,
-        fullName,
-        industryType
-      });
-      console.log('[TTS Frontend] Profile info set:', { companyName, jobTitle, fullName, industryType });
-      setIsLoadingPage(false);
-      console.log('[TTS Frontend] isLoadingPage set to false.');
-
-    } catch (error) {
-      console.error("[TTS Frontend] Error processing LinkedIn data for interlude:", error);
-      setApiError("There was an issue understanding your profile. Please try again.");
-      setIsLoadingPage(false);
-      console.log('[TTS Frontend] isLoadingPage set to false due to error in profile data processing.');
-      setTimeout(() => router.push('/collect-info'), 4000);
     }
+
+    // Proceed if storedFortuneRequestBodyString is now available (either initially or after recovery)
+    if (storedFortuneRequestBodyString) {
+        try {
+            const parsedFortuneRequestBody = JSON.parse(storedFortuneRequestBodyString);
+            setFortuneRequestBody(parsedFortuneRequestBody); // Set the state for other parts of the component if needed
+
+            let companyName = parsedFortuneRequestBody.companyName || 'your current venture';
+            let jobTitle = 'your esteemed role'; 
+            let fullName = parsedFortuneRequestBody.fullName || 'Valued User';
+            let industryType = parsedFortuneRequestBody.industryType || 'Diverse Fields';
+            let previousCompaniesString = '';
+
+            if (storedLinkedInDataString) {
+                const linkedInData = JSON.parse(storedLinkedInDataString);
+                const { profileData, latestCompanyData } = linkedInData; 
+                
+                // Refine companyName if the one from parsedBody was a placeholder
+                if ((companyName === 'your current venture' || companyName === 'Their Own Enterprise') && latestCompanyData?.name) {
+                    companyName = latestCompanyData.name;
+                } else if ((companyName === 'your current venture' || companyName === 'Their Own Enterprise') && profileData?.experiences?.length > 0 && profileData.experiences[0]?.company) {
+                    companyName = profileData.experiences[0].company;
+                }
+
+                if (profileData?.occupation) {
+                    const occupationFromProfile = profileData.occupation;
+                    const titleFromExperience = profileData.experiences?.[0]?.title;
+                    if (companyName && companyName !== 'your current venture' && occupationFromProfile.toLowerCase().includes(companyName.toLowerCase()) && occupationFromProfile.toLowerCase() !== companyName.toLowerCase() && titleFromExperience) {
+                        jobTitle = titleFromExperience;
+                    } else {
+                        jobTitle = occupationFromProfile;
+                    }
+                } else if (profileData?.experiences?.[0]?.title) {
+                    jobTitle = profileData.experiences[0].title;
+                }
+
+                if (profileData?.experiences && profileData.experiences.length > 1) {
+                    const currentCompNameLower = companyName.toLowerCase();
+                    const uniquePrevCompanies = Array.from(
+                        new Set(
+                            profileData.experiences
+                                .slice(1)
+                                .map(exp => exp.company)
+                                .filter(name => name && name.toLowerCase() !== currentCompNameLower)
+                        )
+                    ).slice(0, 2);
+                    if (uniquePrevCompanies.length > 0) {
+                        if (uniquePrevCompanies.length === 1) {
+                            previousCompaniesString = `Your path also shows experience with ${uniquePrevCompanies[0]}.`;
+                        } else {
+                            previousCompaniesString = `Your journey also includes chapters at ${uniquePrevCompanies.join(' and ')}.`;
+                        }
+                    }
+                }
+            } else {
+                console.warn('[TTS Frontend] Full LinkedIn data (FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY) not available for profile enrichment on interlude page.');
+            }
+            
+            setProfileInfo({
+                companyName,
+                jobTitle,
+                previousCompanies: previousCompaniesString,
+                fullName,
+                industryType
+            });
+            console.log('[TTS Frontend] Profile info set for interlude display (after potential recovery):', { companyName, jobTitle, fullName, industryType });
+            setIsLoadingPage(false);
+
+        } catch (error) {
+            console.error("[TTS Frontend] Error processing data for interlude display (main block):", error);
+            setApiError("There was an issue interpreting your profile for the interlude. Please start over.");
+            setIsLoadingPage(false);
+            setTimeout(() => router.push('/collect-info'), 4000);
+        }
+    } // else: if storedFortuneRequestBodyString is still not available, a redirect should have been scheduled.
   }, [router]);
 
   const handleInitiateNarration = async () => {
@@ -354,50 +487,15 @@ export default function LinkedInInterludeScreen() {
   };
 
   const handleRevealDestiny = async () => {
-    console.log('[TTS Frontend] handleRevealDestiny called.');
-    if (audioSourceRef.current) {
-        console.log('[TTS Frontend] Stopping active narration before revealing destiny.');
+    console.log('[TTS Frontend] handleRevealDestiny (button) called.');
+    if (audioSourceRef.current && audioSourceRef.current.playbackState === audioSourceRef.current.PLAYING_STATE) {
+        console.log('[TTS Frontend] Stopping active narration due to manual reveal destiny click.');
         audioSourceRef.current.stop();
-        setIsNarrating(false);
-    }
-
-    if (!fortuneRequestBody) {
-      console.error('[TTS Frontend] handleRevealDestiny: Cannot proceed, vital information missing.');
-      setApiError("Cannot proceed, vital information missing. Please restart.");
-      setTimeout(() => router.push('/collect-info'), 4000);
-      return;
-    }
-
-    setIsGeneratingFortune(true);
-    setApiError(null);
-
-    try {
-      // Simulate API call delay for testing UI
-      // await new Promise(resolve => setTimeout(resolve, 2000));
-      const fortuneResponse = await fetch('/api/generate-fortune', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(fortuneRequestBody),
-      });
-
-      if (!fortuneResponse.ok) {
-        const errorData = await fortuneResponse.json();
-        throw new Error(errorData.error || errorData.details || `Failed to generate fortune (${fortuneResponse.status})`);
-      }
-
-      const fortuneData = await fortuneResponse.json();
-      localStorage.setItem('fortuneData', JSON.stringify(fortuneData));
-      localStorage.setItem('fortuneApp_fullName', profileInfo.fullName || fortuneRequestBody.fullName);
-      localStorage.setItem('fortuneApp_industry', profileInfo.industryType || fortuneRequestBody.industryType);
-      localStorage.setItem('fortuneApp_companyName', profileInfo.companyName || fortuneRequestBody.companyName);
-      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
-      router.push('/display-fortune');
-
-    } catch (error) {
-      console.error("Error generating fortune from interlude:", error);
-      setApiError(`A cosmic disturbance interrupted fortune generation: ${error.message}. Redirecting...`);
-      setIsGeneratingFortune(false);
-      setTimeout(() => router.push('/collect-info'), 5000);
+        // onended will then call checkForFortuneAndProceed
+    } else {
+      // If narration is not playing, directly check for fortune.
+      // This also covers cases where narration failed to start or user clicks before starting it.
+      checkForFortuneAndProceed();
     }
   };
 
@@ -514,7 +612,6 @@ export default function LinkedInInterludeScreen() {
         <div className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/80 backdrop-blur-sm z-50">
           <Loader2 className="h-12 w-12 animate-spin text-mw-light-blue" />
           <p className="text-lg text-mw-white/90 mt-4">Consulting the oracles for your fortune...</p>
-          {isNarrating && <p className="text-sm text-mw-gold">The oracle is still speaking...</p>}
           <p className="text-sm text-mw-white/70">This may take a moment as we chart your stars.</p>
         </div>
       )}

@@ -162,16 +162,55 @@ export default function GeneratingFortuneScreen() {
             // debugProvider will be picked up by /api/generate-fortune if set in userInfoForFortune in manual flow
           };
           
-          // Store the constructed request body for the interlude screen
+          // Store the constructed request body for the interlude screen's narration
           localStorage.setItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY, JSON.stringify(fortuneRequestBody));
           
-          // Clear manual form data from localStorage to prevent conflicts if user switches flows.
+          // Clear manual form data from localStorage to prevent conflicts.
           localStorage.removeItem('userInfoForFortune');
+
+          // Initiate fortune generation in the background for LinkedIn flow
+          console.log('[GeneratingFortuneScreen] Initiating background fortune generation for LinkedIn flow...');
+          // Create a clone of fortuneRequestBody for the async operation to avoid potential mutation issues if needed, though not strictly necessary here with JSON.stringify.
+          const backgroundFortuneRequestBody = JSON.parse(JSON.stringify(fortuneRequestBody));
           
-          // Navigate to the new interlude screen
+          fetch('/api/generate-fortune', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(backgroundFortuneRequestBody),
+          })
+          .then(async response => {
+            if (!response.ok) {
+              const errorData = await response.json().catch(() => response.text());
+              // Use a more specific error key for background errors
+              localStorage.setItem('fortuneGenerationError', errorData.error || errorData.details || errorData || `Background fortune generation failed (${response.status})`);
+              console.error('[GeneratingFortuneScreen] Background fortune generation API error:', errorData);
+              // No throw here, let interlude screen pick up the error from localStorage
+              return null; // Indicate failure to the next .then()
+            }
+            return response.json();
+          })
+          .then(fortuneData => {
+            if (fortuneData) {
+              localStorage.setItem('fortuneData', JSON.stringify(fortuneData));
+              localStorage.setItem('fortuneApp_fullName', backgroundFortuneRequestBody.fullName);
+              localStorage.setItem('fortuneApp_industry', backgroundFortuneRequestBody.industryType);
+              localStorage.setItem('fortuneApp_companyName', backgroundFortuneRequestBody.companyName);
+              // Clear any previous error flag if successful
+              localStorage.removeItem('fortuneGenerationError');
+              console.log('[GeneratingFortuneScreen] Background fortune generation successful and saved.');
+            }
+            // If fortuneData is null (due to previous error), do nothing here, error is already in localStorage.
+          })
+          .catch(error => {
+            // Catch network errors or issues in the fetch promise chain itself
+            console.error("[GeneratingFortuneScreen] Network or other error in background fortune generation:", error);
+            localStorage.setItem('fortuneGenerationError', error.message || "A network error occurred during background fortune generation.");
+          });
+
+          // Navigate to the interlude screen immediately after initiating background fetch.
           router.push('/linkedin-interlude');
-          // setIsLoading(false); // Loading will be handled by the interlude screen now
-          return; // Stop further execution in this component for LinkedIn flow
+          // setIsLoading(false) // Loading state is now managed by the interlude screen or this page's finally block if error occurs before redirect.
+          return; 
 
         // Manual Flow: If manual user info is available (and LinkedIn profile was not).
         } else if (storedManualUserInfo) {
