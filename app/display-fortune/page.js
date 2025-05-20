@@ -40,7 +40,6 @@ export default function DisplayFortuneScreen() {
   const narrationAudioSourceRef = useRef(null);
   const revealChimeRef = useRef(null);
 
-  const [isPreRevealing, setIsPreRevealing] = useState(false);
   const [hasPreRevealed, setHasPreRevealed] = useState(false);
 
   const [isTransitioningToCeo, setIsTransitioningToCeo] = useState(false);
@@ -79,7 +78,6 @@ export default function DisplayFortuneScreen() {
     setIsLoadingFortune(true);
     setOpeningLineToNarrate('');
     setNarrationError(null);
-    setIsPreRevealing(false);
     setHasPreRevealed(false);
     setNarrationStage('idle');
     setIsTransitioningToCeo(false);
@@ -128,29 +126,14 @@ export default function DisplayFortuneScreen() {
     localStorage.setItem('fortuneApp_fortuneText', htmlString);
 
     if (htmlString) {
-        setIsPreRevealing(true);
+        setIsLoadingFortune(false);
+        setHasPreRevealed(true);
+        console.log('[DisplayFortuneScreen] Fortune data loaded, setting hasPreRevealed to true.');
     } else {
         setIsLoadingFortune(false);
     }
 
   }, [init]);
-
-  useEffect(() => {
-    if (isPreRevealing) {
-      setIsLoadingFortune(false);
-      console.log('[DisplayFortuneScreen] Starting pre-reveal sequence.');
-      if (revealChimeRef.current) {
-        revealChimeRef.current.play().catch(e => console.error("Error playing reveal chime:", e));
-      }
-      const preRevealDuration = 2500;
-      const timer = setTimeout(() => {
-        console.log('[DisplayFortuneScreen] Pre-reveal finished.');
-        setIsPreRevealing(false);
-        setHasPreRevealed(true);
-      }, preRevealDuration);
-      return () => clearTimeout(timer);
-    }
-  }, [isPreRevealing]);
 
   useEffect(() => {
     if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isNarrating || !hasPreRevealed) {
@@ -358,28 +341,6 @@ export default function DisplayFortuneScreen() {
           <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
         </svg>
         <p className="text-lg">Unveiling your destiny...</p>
-      </div>
-    );
-  }
-
-  if (isPreRevealing) {
-    return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
-        <Particles
-          id="tsparticles-prereveal"
-          particlesLoaded={particlesLoaded}
-          options={particleOptions}
-          className="absolute top-0 left-0 w-full h-full z-[-1]"
-        />
-        <motion.div
-          initial={{ opacity: 0, scale: 0.8 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1.5, ease: "circOut" }}
-          className="flex flex-col items-center"
-        >
-          <Image src="/avatar/fortune-teller-eyes-glow.png" alt="Mystical Eyes" width={300} height={225} className="mb-6" />
-          <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">The mists of fate are swirling...</p>
-        </motion.div>
       </div>
     );
   }

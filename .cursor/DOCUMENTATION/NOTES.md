@@ -1,7 +1,7 @@
 PROD NOTES:
 - Set domain
 - Set API Keys
-- 
+- Double check whether lead gets saved when email is extracted from LI
 
 
 1. Make fortune more concise & relevant

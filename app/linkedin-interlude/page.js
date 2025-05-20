@@ -7,6 +7,7 @@ import { Loader2, Mic } from 'lucide-react';
 import { Button } from "@/components/ui/button"; 
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
+import { motion, AnimatePresence } from 'framer-motion';
 
 const FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
@@ -262,11 +263,11 @@ export default function LinkedInInterludeScreen() {
         console.log('[TTS Frontend] getNarrationText: profileInfo not ready');
         return null;
       }
-      let text = "Ah, seeker...\nI've peered into your LinkedIn profile…\n";
+      let text = "Ah, seeker...\nI've peered into your past, present, and future…\n";
       if (profileInfo.fullName) {
         text += `They call you ${profileInfo.fullName}.\n`;
       }
-      text += `You work at ${profileInfo.companyName || 'a noteworthy venture'} as ${profileInfo.jobTitle || 'an individual of significance'}.\n`;
+      text += `You are from ${profileInfo.companyName || 'a noteworthy venture'} as ${profileInfo.jobTitle || 'an individual of significance'}.\n`;
       if (profileInfo.previousCompanies) {
         text += `${profileInfo.previousCompanies}\n`;
       }
@@ -705,8 +706,8 @@ export default function LinkedInInterludeScreen() {
           />
           
           <h1 className="text-3xl font-semibold text-mw-light-blue">Ah, {profileInfo.fullName || 'seeker'}...</h1>
-          <p className="text-xl mt-4">I've peered into your LinkedIn profile…</p>
-          <p className="text-xl">You work at <strong className="text-mw-gold">{profileInfo.companyName || 'an intriguing place'}</strong> as <strong className="text-mw-gold">{profileInfo.jobTitle || 'a person of mystery'}</strong>…</p>
+          <p className="text-xl mt-4">I've peered into your past, present, and future…</p>
+          <p className="text-xl">You are from <strong className="text-mw-gold">{profileInfo.companyName || 'an intriguing place'}</strong> as <strong className="text-mw-gold">{profileInfo.jobTitle || 'a person of mystery'}</strong>…</p>
           {profileInfo.previousCompanies && (
             <p className="text-md mt-2 text-mw-white/80">{profileInfo.previousCompanies}</p>
           )}
@@ -714,20 +715,45 @@ export default function LinkedInInterludeScreen() {
           
           {/* Narration Control UI Block */}
           <div className="mt-8 mb-4 space-y-3 text-center w-full max-w-md mx-auto">
-            {/* Show button if not yet clicked, not narrating, and data is loaded */}
-            {!isLoadingPage && !userManuallyInitiatedNarration && !isNarrating && (
-              <Button
-                onClick={handleInitiateNarration}
-                size="lg"
-                className="w-full px-6 py-3 text-md font-semibold \
-                           bg-mw-light-blue text-mw-dark-navy hover:bg-mw-light-blue/80 \
-                           rounded-lg shadow-md transform transition-all duration-150 \
-                           hover:shadow-lg active:scale-95 disabled:opacity-70"
-                disabled={isGeneratingFortune || isTransitionAudioPlaying} // Disable if transition audio is playing
-              >
-                <Mic className="mr-2 h-5 w-5" /> Hear Oracle's Greeting
-              </Button>
-            )}
+            {/* Show OVERLAY if not yet clicked, not narrating, and data is loaded */}
+            <AnimatePresence>
+              {!isLoadingPage && !userManuallyInitiatedNarration && !isNarrating && (
+                <motion.div
+                  key="doorRevealOverlay"
+                  onClick={() => !(isGeneratingFortune || isTransitionAudioPlaying) && handleInitiateNarration()}
+                  className={`fixed inset-0 z-40 bg-mw-dark-navy/50 backdrop-blur-sm transition-opacity duration-300 ease-in-out \
+                              ${(isGeneratingFortune || isTransitionAudioPlaying) ? 'opacity-50 pointer-events-none' : 'opacity-100 cursor-pointer group'}`}
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  exit={{ opacity: 0 }}
+                  transition={{ duration: 0.5 }}
+                  role="button"
+                  aria-label="Tap on the door to reveal Oracle's Greeting"
+                  tabIndex={(isGeneratingFortune || isTransitionAudioPlaying) ? -1 : 0}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      if (!(isGeneratingFortune || isTransitionAudioPlaying)) {
+                        handleInitiateNarration();
+                      }
+                    }
+                  }}
+                >
+                  <Image
+                    src="/assets/door-reveal.jpg"
+                    alt="Mystical Door - Tap on the door to reveal the oracle's greeting"
+                    layout="fill"
+                    objectFit="cover"
+                    className="group-hover:brightness-110 transition-all duration-300 ease-in-out"
+                    priority
+                  />
+                  <div className="absolute inset-x-0 bottom-0 p-10 flex flex-col items-center justify-end bg-gradient-to-t from-black/60 via-black/30 to-transparent">
+                    <p className="text-2xl md:text-3xl font-semibold text-mw-light-blue group-hover:text-mw-gold transition-colors duration-150 drop-shadow-lg text-center">
+                      Tap on the door to reveal
+                    </p>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
 
             {/* Show status if narration has been attempted or is active, and no overriding error */}
             {((userManuallyInitiatedNarration && !greetingHeardOnce && !isTransitionAudioPlaying) || isNarrating) && !narrationError && (
@@ -788,18 +814,60 @@ export default function LinkedInInterludeScreen() {
         </>
       )}
 
-      {/* Full page loader specifically for when isGeneratingFortune is true OR transition audio is playing */}
-      {(isGeneratingFortune || (isTransitionAudioPlaying && !transitionAudioError)) && (
-        <div className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/80 backdrop-blur-sm z-50">
-          <Loader2 className="h-12 w-12 animate-spin text-mw-light-blue" />
-          <p className="text-lg text-mw-white/90 mt-4">
-            {isGeneratingFortune ? "Consulting the oracles for your fortune..." : "The veil between worlds grows thin..."}
-          </p>
-          <p className="text-sm text-mw-white/70">
-            {isGeneratingFortune ? "This may take a moment as we chart your stars." : "Listen closely..."}
-          </p>
-        </div>
-      )}
+      {/* Full page loader specific conditions */}
+      <AnimatePresence>
+        {isGeneratingFortune && (
+          <motion.div
+            key="generatingFortuneLoader"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/80 backdrop-blur-sm z-50"
+          >
+            <Loader2 className="h-12 w-12 animate-spin text-mw-light-blue" />
+            <p className="text-lg text-mw-white/90 mt-4">
+              Consulting the oracles for your fortune...
+            </p>
+            <p className="text-sm text-mw-white/70">
+              This may take a moment as we chart your stars.
+            </p>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        {!isGeneratingFortune && isTransitionAudioPlaying && !transitionAudioError && (
+          <motion.div
+            key="transitionAudioVeil"
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1, transition: { duration: 0.7, ease: "circOut" } }}
+            exit={{ opacity: 0, scale: 0.8, transition: { duration: 0.5, ease: "circIn" } }}
+            className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/90 backdrop-blur-md text-mw-white p-4 isolate z-50"
+          >
+            <motion.div
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 1.5, ease: "circOut" }}
+              className="flex flex-col items-center text-center"
+            >
+              <Image
+                src="/avatar/fortune-teller-eyes-glow.png"
+                alt="Mystical Eyes"
+                width={300}
+                height={225}
+                className="mb-6"
+                priority
+              />
+              <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">
+                The veil between worlds grows thin...
+              </p>
+              <p className="text-lg text-mw-white/80 mt-3">
+                Listen closely...
+              </p>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 } 
