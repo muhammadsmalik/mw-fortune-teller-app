@@ -9,7 +9,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import AudioPlayer from '@/components/AudioPlayer';
 import { Loader2 } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
 A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
@@ -20,6 +20,9 @@ The speech has a *deliberate elegance*, often flowing like ancient poetry or son
 **Accents & Inflections:**
 There might be traces of archaic or exotic accents, difficult to place—part Middle Eastern, part celestial, part something entirely unearthly. The vowels stretch luxuriously, and the consonants often land with a whispered crispness, like dry leaves brushing against stone. When casting spel`;
 
+const CEO_NARRATION_TEXT = "But fate does not speak idly. It brings you to those you're meant to meet. My role here is done… and as I fade, another takes my place. He walks the road you now stand before. Connect with him — your timing is no accident.";
+const SMOKE_EFFECT_DURATION_MS = 3000; // 3 seconds for smoke effect
+
 export default function DisplayFortuneScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
@@ -28,39 +31,35 @@ export default function DisplayFortuneScreen() {
   const [audioPlaybackAllowed, setAudioPlaybackAllowed] = useState(false);
 
   const [openingLineToNarrate, setOpeningLineToNarrate] = useState('');
-  const [isGeneratingNarration, setIsGeneratingNarration] = useState(false);
+  const [isNarrating, setIsNarrating] = useState(false);
   const [narrationError, setNarrationError] = useState(null);
 
-  const [hasPlayedOpeningLine, setHasPlayedOpeningLine] = useState(false);
+  const [narrationStage, setNarrationStage] = useState('idle');
 
   const audioContextRef = useRef(null);
-  const audioSourceRef = useRef(null);
+  const narrationAudioSourceRef = useRef(null);
   const revealChimeRef = useRef(null);
 
-  // States for the new reveal sequence
   const [isPreRevealing, setIsPreRevealing] = useState(false);
   const [hasPreRevealed, setHasPreRevealed] = useState(false);
 
-  // const fortuneAudioFiles = useMemo(() => ['reach_out_1.mp3', 'reach_out_2.mp3', 'reach_out_3.mp3'], []); // Removed
+  const [isTransitioningToCeo, setIsTransitioningToCeo] = useState(false);
+  const [showCeoImage, setShowCeoImage] = useState(false);
 
-  // Particles engine initialization
   useEffect(() => {
     initParticlesEngine(async (engine) => {
       await loadSlim(engine);
     }).then(() => {
       setInit(true);
     });
-    // NOTE: This effect should ideally only run once for particle init.
-    // The fortune loading logic will be in a separate useEffect that depends on `init`.
   }, []);
 
-  // Function to initialize AudioContext safely on client
   const getAudioContext = useCallback(() => {
     if (typeof window !== 'undefined') {
       if (!audioContextRef.current) {
         try {
           console.log('[DisplayFortuneScreen] Attempting to create AudioContext with 24kHz sample rate.');
-          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 }); // OpenAI TTS uses 24kHz
+          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 });
           console.log('[DisplayFortuneScreen] AudioContext created. State:', audioContextRef.current.state, 'SampleRate:', audioContextRef.current.sampleRate);
         } catch (e) {
           console.error('[DisplayFortuneScreen] Error creating AudioContext:', e);
@@ -74,16 +73,17 @@ export default function DisplayFortuneScreen() {
     return null;
   }, []);
 
-  // Effect for loading and setting fortune data
   useEffect(() => {
-    if (!init) return; // Don't run if particles aren't initialized yet
+    if (!init) return;
 
-    setIsLoadingFortune(true); // Explicitly set loading true when we start fetching/processing
-    setOpeningLineToNarrate(''); // Reset previous opening line
-    setNarrationError(null); // Reset previous narration error
-    setHasPlayedOpeningLine(false); // Reset for new fortune line
-    setIsPreRevealing(false); // Reset pre-reveal state
-    setHasPreRevealed(false); // Reset pre-reveal state
+    setIsLoadingFortune(true);
+    setOpeningLineToNarrate('');
+    setNarrationError(null);
+    setIsPreRevealing(false);
+    setHasPreRevealed(false);
+    setNarrationStage('idle');
+    setIsTransitioningToCeo(false);
+    setShowCeoImage(false);
 
     const storedFortuneData = localStorage.getItem('fortuneData');
     let htmlString = '';
@@ -114,9 +114,6 @@ export default function DisplayFortuneScreen() {
           htmlString += `<div class="flex items-start"><p><strong class="text-mw-light-blue/90">AI Oracle's Guidance:</strong> ${parsedData.aiAdvice}</p></div>`;
         }
         htmlString += `</div>`;
-        // The AI advice should contain the CTA. If a generic CTA is still desired: 
-        // htmlString += `<p class="mt-6 text-mw-white/80 italic text-center text-sm">To discover how Moving Walls can make this a reality, <a href="#" class='font-semibold text-mw-light-blue hover:underline'>reach out to us</a>!</p>`;
-
       } catch (error) {
         console.error("Error parsing fortune data:", error);
         htmlString = '<p class="text-mw-white/70 text-center">There was a slight distortion in the cosmic message. Please try again.</p>';
@@ -126,33 +123,26 @@ export default function DisplayFortuneScreen() {
     }
 
     setFortune(htmlString);
-    setOpeningLineToNarrate(localOpeningLine); // Set opening line to trigger narration
+    setOpeningLineToNarrate(localOpeningLine);
     
-    // Store the generated fortune text for the contact page
     localStorage.setItem('fortuneApp_fortuneText', htmlString);
 
-    // Start pre-reveal after initial data processing is done
-    if (htmlString) { // Only start pre-reveal if there's a fortune to show
+    if (htmlString) {
         setIsPreRevealing(true);
     } else {
-        setIsLoadingFortune(false); // If no fortune, just stop loading
+        setIsLoadingFortune(false);
     }
 
-    // Optional: Clear the stored fortune after displaying it if it's a one-time view
-    // localStorage.removeItem('fortuneData');
+  }, [init]);
 
-  }, [init]); // Rerun when init changes (i.e., after particles are ready)
-
-  // Effect for managing the pre-reveal sequence (mist animation + chime)
   useEffect(() => {
     if (isPreRevealing) {
-      setIsLoadingFortune(false); // Stop main loading spinner
+      setIsLoadingFortune(false);
       console.log('[DisplayFortuneScreen] Starting pre-reveal sequence.');
       if (revealChimeRef.current) {
         revealChimeRef.current.play().catch(e => console.error("Error playing reveal chime:", e));
       }
-      // Duration of the pre-reveal (e.g., mist animation and chime)
-      const preRevealDuration = 2500; // 2.5 seconds
+      const preRevealDuration = 2500;
       const timer = setTimeout(() => {
         console.log('[DisplayFortuneScreen] Pre-reveal finished.');
         setIsPreRevealing(false);
@@ -162,27 +152,28 @@ export default function DisplayFortuneScreen() {
     }
   }, [isPreRevealing]);
 
-  // Effect for generating narration for the opening line
   useEffect(() => {
-    // Only proceed if init, playback allowed, there's a line, not generating, not already played, AND pre-reveal is done.
-    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isGeneratingNarration || hasPlayedOpeningLine || !hasPreRevealed) {
-      if (openingLineToNarrate && !audioPlaybackAllowed && !hasPlayedOpeningLine && hasPreRevealed) {
+    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isNarrating || !hasPreRevealed) {
+      if (openingLineToNarrate && !audioPlaybackAllowed && hasPreRevealed && narrationStage === 'idle') {
         console.log('[DisplayFortuneScreen] Opening line is ready, but waiting for user to enable sound for narration.');
-      } else if (openingLineToNarrate && audioPlaybackAllowed && !isGeneratingNarration && hasPlayedOpeningLine && hasPreRevealed) {
-        console.log('[DisplayFortuneScreen] Opening line narration has already played for the current line.');
       }
       return;
     }
 
-    const generateAndPlayNarration = async () => {
-      console.log('[DisplayFortuneScreen] Attempting to generate narration for:', openingLineToNarrate);
-      setIsGeneratingNarration(true);
+    if (narrationStage === 'idle' && openingLineToNarrate && hasPreRevealed && audioPlaybackAllowed) {
+      console.log('[DisplayFortuneScreen] Conditions met to start opening line narration.');
+      setNarrationStage('openingLine');
+      return;
+    }
+
+    const playNarrationSegment = async (textToNarrate, onEndedCallback) => {
+      console.log(`[DisplayFortuneScreen] Attempting to generate narration for: "${textToNarrate}"`);
+      setIsNarrating(true);
       setNarrationError(null);
 
       const audioContext = getAudioContext();
       if (!audioContext) {
-        // Error is set by getAudioContext or if it returns null before this point
-        setIsGeneratingNarration(false);
+        setIsNarrating(false);
         return;
       }
 
@@ -197,7 +188,7 @@ export default function DisplayFortuneScreen() {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            textInput: openingLineToNarrate,
+            textInput: textToNarrate,
             instructions: TTS_INSTRUCTIONS,
           }),
         });
@@ -237,67 +228,102 @@ export default function DisplayFortuneScreen() {
         const float32Data = new Float32Array(pcmData.length / 2);
         for (let i = 0; i < float32Data.length; i++) {
           let val = pcmData[i * 2] + (pcmData[i * 2 + 1] << 8);
-          if (val >= 0x8000) val |= ~0xFFFF; // Sign-extend 16-bit to 32-bit
-          float32Data[i] = val / 0x8000; // Normalize to [-1, 1]
+          if (val >= 0x8000) val |= ~0xFFFF;
+          float32Data[i] = val / 0x8000;
         }
         
         const audioBuffer = audioContext.createBuffer(1, float32Data.length, audioContext.sampleRate);
         audioBuffer.getChannelData(0).set(float32Data);
 
-        if (audioSourceRef.current) {
-          audioSourceRef.current.stop();
-          audioSourceRef.current.disconnect();
+        if (narrationAudioSourceRef.current) {
+          narrationAudioSourceRef.current.stop();
+          narrationAudioSourceRef.current.disconnect();
         }
         
         const source = audioContext.createBufferSource();
         source.buffer = audioBuffer;
         source.connect(audioContext.destination);
         source.start();
-        audioSourceRef.current = source;
-        setHasPlayedOpeningLine(true); // Mark as played to prevent looping for this line
+        narrationAudioSourceRef.current = source;
         
         console.log('[DisplayFortuneScreen] Narration audio is now playing via Web Audio API.');
 
         source.onended = () => {
-          console.log('[DisplayFortuneScreen] Narration audio playback ended.');
-          audioSourceRef.current = null;
-          setIsGeneratingNarration(false); // Ensure loading state is cleared
+          console.log('[DisplayFortuneScreen] Narration audio playback ended for:', textToNarrate);
+          narrationAudioSourceRef.current = null;
+          setIsNarrating(false);
+          if (onEndedCallback) onEndedCallback();
         };
 
       } catch (error) {
         console.error('[DisplayFortuneScreen] Error generating or playing narration:', error);
         setNarrationError(`The Oracle's voice seems to be lost in the ether. ${error.message}`);
-        setIsGeneratingNarration(false);
+        setIsNarrating(false);
+        setNarrationStage('done');
       }
     };
 
-    generateAndPlayNarration();
+    if (narrationStage === 'openingLine' && !isNarrating) {
+      playNarrationSegment(openingLineToNarrate, () => {
+        console.log('[DisplayFortuneScreen] Opening line narration finished. Moving to CEO narration.');
+        setNarrationStage('ceoNarration');
+      });
+    } else if (narrationStage === 'ceoNarration' && !isNarrating) {
+      playNarrationSegment(CEO_NARRATION_TEXT, () => {
+        console.log('[DisplayFortuneScreen] CEO narration finished. Moving to transition stage.');
+        setNarrationStage('transitioning');
+      });
+    }
 
-    // Cleanup function for this effect
     return () => {
-      if (audioSourceRef.current) {
+      if (narrationAudioSourceRef.current) {
         console.log('[DisplayFortuneScreen] Cleaning up: Stopping narration audio source.');
-        audioSourceRef.current.stop();
-        audioSourceRef.current.disconnect();
-        audioSourceRef.current = null;
+        narrationAudioSourceRef.current.stop();
+        narrationAudioSourceRef.current.disconnect();
+        narrationAudioSourceRef.current = null;
       }
-      // Also ensure the chime stops if the component unmounts during pre-reveal
       if (revealChimeRef.current) {
         revealChimeRef.current.pause();
         revealChimeRef.current.currentTime = 0;
       }
     };
-  }, [init, openingLineToNarrate, getAudioContext, isGeneratingNarration, audioPlaybackAllowed, hasPlayedOpeningLine, hasPreRevealed]); // Added hasPreRevealed
+  }, [init, openingLineToNarrate, getAudioContext, isNarrating, audioPlaybackAllowed, hasPreRevealed, narrationStage]);
+
+  useEffect(() => {
+    if (narrationStage === 'transitioning') {
+      console.log('[DisplayFortuneScreen] Starting CEO transition sequence. Attempting to play chime.');
+      setIsTransitioningToCeo(true);
+      if (revealChimeRef.current) {
+        console.log('[DisplayFortuneScreen] revealChimeRef.current exists. Calling play().');
+        revealChimeRef.current.play()
+          .then(() => {
+            console.log('[DisplayFortuneScreen] Reveal chime played successfully during CEO transition.');
+          })
+          .catch(e => {
+            console.error("[DisplayFortuneScreen] Error playing reveal chime during CEO transition:", e);
+          });
+      } else {
+        console.warn('[DisplayFortuneScreen] revealChimeRef.current is null during CEO transition. Cannot play chime.');
+      }
+
+      const timer = setTimeout(() => {
+        console.log('[DisplayFortuneScreen] Smoke effect finished. Showing CEO image.');
+        setShowCeoImage(true);
+        setIsTransitioningToCeo(false);
+        setNarrationStage('done');
+      }, SMOKE_EFFECT_DURATION_MS);
+
+      return () => clearTimeout(timer);
+    }
+  }, [narrationStage]);
 
   const particlesLoaded = useCallback(async (container) => {
-    // console.log("Particles container loaded", container);
-    // setAudioPlaybackAllowed(true); // REMOVED: Audio should be enabled by user click
   }, []);
 
   const particleOptions = useMemo(() => ({
     particles: {
       number: { value: 40, density: { enable: true, value_area: 800 } },
-      color: { value: ["#FFFFFF", "#5BADDE"] }, // mw-white, mw-light-blue
+      color: { value: ["#FFFFFF", "#5BADDE"] },
       shape: { type: "circle" },
       opacity: { value: 0.3, random: true, anim: { enable: true, speed: 0.6, opacity_min: 0.1, sync: false } },
       size: { value: { min: 1, max: 3 }, random: true },
@@ -312,13 +338,11 @@ export default function DisplayFortuneScreen() {
 
   const handleSaveAndShare = () => {
     console.log("Save & Share clicked. Fortune:", fortune);
-    // Navigate to the contact details page as per PLAN.MD
     router.push('/contact-details');
   };
 
   const handleEnableAudio = () => {
     setAudioPlaybackAllowed(true);
-    // Attempt to resume AudioContext if it exists and is suspended
     if (audioContextRef.current && audioContextRef.current.state === 'suspended') {
       audioContextRef.current.resume().then(() => {
         console.log('[DisplayFortuneScreen] AudioContext resumed by user interaction.');
@@ -329,7 +353,6 @@ export default function DisplayFortuneScreen() {
   if (!init || isLoadingFortune) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">
-        {/* You can add a more sophisticated loader here if desired */}
         <svg className="animate-spin h-10 w-10 text-mw-light-blue" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
           <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
           <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
@@ -345,7 +368,7 @@ export default function DisplayFortuneScreen() {
         <Particles
           id="tsparticles-prereveal"
           particlesLoaded={particlesLoaded}
-          options={particleOptions} // You might want slightly different particles here, e.g., more intense
+          options={particleOptions}
           className="absolute top-0 left-0 w-full h-full z-[-1]"
         />
         <motion.div
@@ -357,8 +380,6 @@ export default function DisplayFortuneScreen() {
           <Image src="/avatar/fortune-teller-eyes-glow.png" alt="Mystical Eyes" width={300} height={225} className="mb-6" />
           <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">The mists of fate are swirling...</p>
         </motion.div>
-         {/* Audio element for the reveal chime - make sure reveal_chime.mp3 is in public/audio/ */}
-        <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
       </div>
     );
   }
@@ -371,9 +392,9 @@ export default function DisplayFortuneScreen() {
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]"
       />
-      {/* <AudioPlayer audioFiles={fortuneAudioFiles} delayBetweenTracks={5000} isPlaying={audioPlaybackAllowed} /> */}
+      <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
       
-      {!audioPlaybackAllowed && hasPreRevealed && ( // Only show if pre-reveal is done
+      {!audioPlaybackAllowed && hasPreRevealed && (
         <div className="absolute top-6 right-6 z-20">
           <Button
             onClick={handleEnableAudio}
@@ -386,20 +407,19 @@ export default function DisplayFortuneScreen() {
         </div>
       )}
 
-      {/* Moving Walls Logo - Bottom Left */}
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
         <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
       </div>
 
-      {hasPreRevealed && ( // Only render the card once pre-reveal is complete
+      {hasPreRevealed && (
         <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
-          className="w-full max-w-3xl z-10 mx-4" // Apply width constraints to motion.div
+          className="w-full max-w-3xl z-10 mx-4"
         >
-          <Card className="bg-card rounded-lg shadow-lg w-full"> {/* Removed max-w from here as it's on motion.div */}
+          <Card className="bg-card rounded-lg shadow-lg w-full">
             <CardHeader className="text-center pt-6 sm:pt-8">
               <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
                 Your Fortune Reveals...
@@ -407,31 +427,64 @@ export default function DisplayFortuneScreen() {
             </CardHeader>
             <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
               <div className="flex flex-col md:flex-row items-center md:items-center gap-6 md:gap-8">
-                {/* Column 1: Fortune Teller Image */}
-                <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center">
-                  <div className="w-full rounded-lg shadow-md overflow-hidden">
-                    <Image
-                      src="/avatar/fortune-reveal.png" 
-                      alt="The Fortune Teller Oracle"
-                      width={822} 
-                      height={1012} 
-                      layout="responsive" 
-                      className="rounded-lg"
-                    />
-                  </div>
-                  <p className="text-center text-mw-white mt-3 font-semibold">Fortune Teller</p>
-                  {isGeneratingNarration && (
-                    <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
-                      <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
-                    The oracle is speaking your fortune...
+                <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center relative">
+                  {isTransitioningToCeo && (
+                    <div className="absolute inset-0 flex items-center justify-center z-10 bg-mw-dark-navy/50 backdrop-blur-sm">
+                      {/* Smoke effect divs and "Transforming..." text removed */}
+                    </div>
+                  )}
+                  <AnimatePresence>
+                    {!showCeoImage && !isTransitioningToCeo && (
+                      <motion.div
+                        key="fortune-teller"
+                        initial={{ opacity: 1, scale: 1 }}
+                        exit={{ opacity: 0, scale: 0.9, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000 } }} // Half of total duration for fade out
+                        className="w-full rounded-lg shadow-md overflow-hidden"
+                      >
+                        <Image
+                          src="/avatar/fortune-reveal.png"
+                          alt="The Fortune Teller Oracle"
+                          width={822}
+                          height={1012}
+                          layout="responsive"
+                          className="rounded-lg"
+                        />
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+                  {showCeoImage && (
+                    <motion.div
+                      key="ceo"
+                      initial={{ opacity: 0, scale: 0.9 }}
+                      animate={{ opacity: 1, scale: 1, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000, delay: SMOKE_EFFECT_DURATION_MS / 2000 } }} // Delay and fade in for the other half
+                      className="w-full rounded-lg shadow-md overflow-hidden"
+                    >
+                      <Image
+                        src="/srikanth-reduced.png"
+                        alt="Srikanth Ramachandran, Founder and CEO of Moving Walls"
+                        width={822}
+                        height={1012}
+                        layout="responsive"
+                        className="rounded-lg"
+                      />
+                    </motion.div>
+                  )}
+                  {!isTransitioningToCeo && (
+                    <p className="text-center text-mw-white mt-3 font-semibold">
+                      {showCeoImage ? "Srikanth Ramachandran, Founder and CEO of Moving Walls" : "Fortune Teller"}
                     </p>
                   )}
-                  {narrationError && !isGeneratingNarration && (
+                  {isNarrating && (
+                    <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
+                      <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
+                      The oracle is speaking...
+                    </p>
+                  )}
+                  {narrationError && !isNarrating && (
                     <p className="text-red-400 text-xs mt-2 text-center px-2">{narrationError}</p>
                   )}
                 </div>
 
-                {/* Column 2: Fortune Text */}
                 <div className="w-full md:flex-1 order-2 md:order-none">
                   <div className="bg-mw-dark-navy p-4 sm:p-6 rounded-md border border-mw-light-blue/30 min-h-[200px] flex flex-col justify-center h-full">
                     {fortune ? (
