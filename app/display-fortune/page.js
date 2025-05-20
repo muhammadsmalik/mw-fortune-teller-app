@@ -9,6 +9,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import AudioPlayer from '@/components/AudioPlayer';
 import { Loader2 } from 'lucide-react';
+import { motion } from 'framer-motion';
 
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
 A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
@@ -34,6 +35,11 @@ export default function DisplayFortuneScreen() {
 
   const audioContextRef = useRef(null);
   const audioSourceRef = useRef(null);
+  const revealChimeRef = useRef(null);
+
+  // States for the new reveal sequence
+  const [isPreRevealing, setIsPreRevealing] = useState(false);
+  const [hasPreRevealed, setHasPreRevealed] = useState(false);
 
   // const fortuneAudioFiles = useMemo(() => ['reach_out_1.mp3', 'reach_out_2.mp3', 'reach_out_3.mp3'], []); // Removed
 
@@ -76,6 +82,8 @@ export default function DisplayFortuneScreen() {
     setOpeningLineToNarrate(''); // Reset previous opening line
     setNarrationError(null); // Reset previous narration error
     setHasPlayedOpeningLine(false); // Reset for new fortune line
+    setIsPreRevealing(false); // Reset pre-reveal state
+    setHasPreRevealed(false); // Reset pre-reveal state
 
     const storedFortuneData = localStorage.getItem('fortuneData');
     let htmlString = '';
@@ -118,24 +126,49 @@ export default function DisplayFortuneScreen() {
     }
 
     setFortune(htmlString);
-    setIsLoadingFortune(false);
     setOpeningLineToNarrate(localOpeningLine); // Set opening line to trigger narration
     
     // Store the generated fortune text for the contact page
     localStorage.setItem('fortuneApp_fortuneText', htmlString);
+
+    // Start pre-reveal after initial data processing is done
+    if (htmlString) { // Only start pre-reveal if there's a fortune to show
+        setIsPreRevealing(true);
+    } else {
+        setIsLoadingFortune(false); // If no fortune, just stop loading
+    }
 
     // Optional: Clear the stored fortune after displaying it if it's a one-time view
     // localStorage.removeItem('fortuneData');
 
   }, [init]); // Rerun when init changes (i.e., after particles are ready)
 
+  // Effect for managing the pre-reveal sequence (mist animation + chime)
+  useEffect(() => {
+    if (isPreRevealing) {
+      setIsLoadingFortune(false); // Stop main loading spinner
+      console.log('[DisplayFortuneScreen] Starting pre-reveal sequence.');
+      if (revealChimeRef.current) {
+        revealChimeRef.current.play().catch(e => console.error("Error playing reveal chime:", e));
+      }
+      // Duration of the pre-reveal (e.g., mist animation and chime)
+      const preRevealDuration = 2500; // 2.5 seconds
+      const timer = setTimeout(() => {
+        console.log('[DisplayFortuneScreen] Pre-reveal finished.');
+        setIsPreRevealing(false);
+        setHasPreRevealed(true);
+      }, preRevealDuration);
+      return () => clearTimeout(timer);
+    }
+  }, [isPreRevealing]);
+
   // Effect for generating narration for the opening line
   useEffect(() => {
-    // Only proceed if init, playback allowed, there's a line, not generating, and not already played this line.
-    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isGeneratingNarration || hasPlayedOpeningLine) {
-      if (openingLineToNarrate && !audioPlaybackAllowed && !hasPlayedOpeningLine) {
+    // Only proceed if init, playback allowed, there's a line, not generating, not already played, AND pre-reveal is done.
+    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isGeneratingNarration || hasPlayedOpeningLine || !hasPreRevealed) {
+      if (openingLineToNarrate && !audioPlaybackAllowed && !hasPlayedOpeningLine && hasPreRevealed) {
         console.log('[DisplayFortuneScreen] Opening line is ready, but waiting for user to enable sound for narration.');
-      } else if (openingLineToNarrate && audioPlaybackAllowed && !isGeneratingNarration && hasPlayedOpeningLine) {
+      } else if (openingLineToNarrate && audioPlaybackAllowed && !isGeneratingNarration && hasPlayedOpeningLine && hasPreRevealed) {
         console.log('[DisplayFortuneScreen] Opening line narration has already played for the current line.');
       }
       return;
@@ -248,11 +281,17 @@ export default function DisplayFortuneScreen() {
         audioSourceRef.current.disconnect();
         audioSourceRef.current = null;
       }
+      // Also ensure the chime stops if the component unmounts during pre-reveal
+      if (revealChimeRef.current) {
+        revealChimeRef.current.pause();
+        revealChimeRef.current.currentTime = 0;
+      }
     };
-  }, [init, openingLineToNarrate, getAudioContext, isGeneratingNarration, audioPlaybackAllowed, hasPlayedOpeningLine]); // Added hasPlayedOpeningLine
+  }, [init, openingLineToNarrate, getAudioContext, isGeneratingNarration, audioPlaybackAllowed, hasPlayedOpeningLine, hasPreRevealed]); // Added hasPreRevealed
 
   const particlesLoaded = useCallback(async (container) => {
     // console.log("Particles container loaded", container);
+    // setAudioPlaybackAllowed(true); // REMOVED: Audio should be enabled by user click
   }, []);
 
   const particleOptions = useMemo(() => ({
@@ -279,6 +318,12 @@ export default function DisplayFortuneScreen() {
 
   const handleEnableAudio = () => {
     setAudioPlaybackAllowed(true);
+    // Attempt to resume AudioContext if it exists and is suspended
+    if (audioContextRef.current && audioContextRef.current.state === 'suspended') {
+      audioContextRef.current.resume().then(() => {
+        console.log('[DisplayFortuneScreen] AudioContext resumed by user interaction.');
+      }).catch(e => console.error('[DisplayFortuneScreen] Error resuming AudioContext:', e));
+    }
   };
 
   if (!init || isLoadingFortune) {
@@ -294,6 +339,30 @@ export default function DisplayFortuneScreen() {
     );
   }
 
+  if (isPreRevealing) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
+        <Particles
+          id="tsparticles-prereveal"
+          particlesLoaded={particlesLoaded}
+          options={particleOptions} // You might want slightly different particles here, e.g., more intense
+          className="absolute top-0 left-0 w-full h-full z-[-1]"
+        />
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 1.5, ease: "circOut" }}
+          className="flex flex-col items-center"
+        >
+          <Image src="/avatar/fortune-teller-eyes-glow.png" alt="Mystical Eyes" width={300} height={225} className="mb-6" />
+          <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">The mists of fate are swirling...</p>
+        </motion.div>
+         {/* Audio element for the reveal chime - make sure reveal_chime.mp3 is in public/audio/ */}
+        <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 relative isolate">
       <Particles
@@ -304,7 +373,7 @@ export default function DisplayFortuneScreen() {
       />
       {/* <AudioPlayer audioFiles={fortuneAudioFiles} delayBetweenTracks={5000} isPlaying={audioPlaybackAllowed} /> */}
       
-      {!audioPlaybackAllowed && (
+      {!audioPlaybackAllowed && hasPreRevealed && ( // Only show if pre-reveal is done
         <div className="absolute top-6 right-6 z-20">
           <Button
             onClick={handleEnableAudio}
@@ -323,68 +392,77 @@ export default function DisplayFortuneScreen() {
         <span className="font-semibold">Moving Walls</span>
       </div>
 
-      <Card className="bg-card rounded-lg shadow-lg w-full max-w-3xl z-10 mx-4"> {/* Increased max-w for more space */}
-        <CardHeader className="text-center pt-6 sm:pt-8">
-          <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
-            Your Fortune Reveals...
-          </CardTitle>
-        </CardHeader>
-        <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
-          <div className="flex flex-col md:flex-row items-center md:items-center gap-6 md:gap-8">
-            {/* Column 1: Fortune Teller Image */}
-            <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center">
-              <div className="w-full rounded-lg shadow-md overflow-hidden">
-                <Image
-                  src="/avatar/fortune-reveal.png" 
-                  alt="The Fortune Teller Oracle"
-                  width={822} 
-                  height={1012} 
-                  layout="responsive" 
-                  className="rounded-lg"
-                />
-              </div>
-              <p className="text-center text-mw-white mt-3 font-semibold">The Oracle Speaks</p>
-              {isGeneratingNarration && (
-                <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
-                  <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
-                The oracle is speaking your fortune...
-                </p>
-              )}
-              {narrationError && !isGeneratingNarration && (
-                <p className="text-red-400 text-xs mt-2 text-center px-2">{narrationError}</p>
-              )}
-            </div>
+      {hasPreRevealed && ( // Only render the card once pre-reveal is complete
+        <motion.div
+          initial={{ opacity: 0, y: 50 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
+          className="w-full max-w-3xl z-10 mx-4" // Apply width constraints to motion.div
+        >
+          <Card className="bg-card rounded-lg shadow-lg w-full"> {/* Removed max-w from here as it's on motion.div */}
+            <CardHeader className="text-center pt-6 sm:pt-8">
+              <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
+                Your Fortune Reveals...
+              </CardTitle>
+            </CardHeader>
+            <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
+              <div className="flex flex-col md:flex-row items-center md:items-center gap-6 md:gap-8">
+                {/* Column 1: Fortune Teller Image */}
+                <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center">
+                  <div className="w-full rounded-lg shadow-md overflow-hidden">
+                    <Image
+                      src="/avatar/fortune-reveal.png" 
+                      alt="The Fortune Teller Oracle"
+                      width={822} 
+                      height={1012} 
+                      layout="responsive" 
+                      className="rounded-lg"
+                    />
+                  </div>
+                  <p className="text-center text-mw-white mt-3 font-semibold">Fortune Teller</p>
+                  {isGeneratingNarration && (
+                    <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
+                      <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
+                    The oracle is speaking your fortune...
+                    </p>
+                  )}
+                  {narrationError && !isGeneratingNarration && (
+                    <p className="text-red-400 text-xs mt-2 text-center px-2">{narrationError}</p>
+                  )}
+                </div>
 
-            {/* Column 2: Fortune Text */}
-            <div className="w-full md:flex-1 order-2 md:order-none">
-              <div className="bg-mw-dark-navy p-4 sm:p-6 rounded-md border border-mw-light-blue/30 min-h-[200px] flex flex-col justify-center h-full">
-                {fortune ? (
-                  <div
-                    className="text-mw-white text-sm sm:text-base leading-relaxed"
-                    dangerouslySetInnerHTML={{ __html: fortune }}
-                  />
-                ) : (
-                  <p className="text-mw-white/70 text-center">Your fortune is being summoned...</p>
-                )}
+                {/* Column 2: Fortune Text */}
+                <div className="w-full md:flex-1 order-2 md:order-none">
+                  <div className="bg-mw-dark-navy p-4 sm:p-6 rounded-md border border-mw-light-blue/30 min-h-[200px] flex flex-col justify-center h-full">
+                    {fortune ? (
+                      <div
+                        className="text-mw-white text-sm sm:text-base leading-relaxed"
+                        dangerouslySetInnerHTML={{ __html: fortune }}
+                      />
+                    ) : (
+                      <p className="text-mw-white/70 text-center">Your fortune is being summoned...</p>
+                    )}
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-        </CardContent>
-        <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
-          <Button
-            onClick={handleSaveAndShare}
-            size="lg"
-            className="px-8 py-3 text-lg font-semibold \
-                       bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
-                       text-mw-dark-navy \
-                       hover:opacity-90 \
-                       rounded-lg shadow-md transform transition-all duration-150 \
-                       hover:shadow-xl active:scale-95"
-          >
-            Save & Share This Wisdom
-          </Button>
-        </CardFooter>
-      </Card>
+            </CardContent>
+            <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
+              <Button
+                onClick={handleSaveAndShare}
+                size="lg"
+                className="px-8 py-3 text-lg font-semibold \
+                           bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
+                           text-mw-dark-navy \
+                           hover:opacity-90 \
+                           rounded-lg shadow-md transform transition-all duration-150 \
+                           hover:shadow-xl active:scale-95"
+              >
+                Save & Share This Wisdom
+              </Button>
+            </CardFooter>
+          </Card>
+        </motion.div>
+      )}
     </div>
   );
 } 
