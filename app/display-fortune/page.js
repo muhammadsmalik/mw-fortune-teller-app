@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useMemo, useCallback } from 'react';
+import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { Button } from "@/components/ui/button";
@@ -8,15 +8,34 @@ import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/componen
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import AudioPlayer from '@/components/AudioPlayer';
+import { Loader2 } from 'lucide-react';
+
+const TTS_INSTRUCTIONS = `**Tone & Timbre:**
+A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
+
+**Cadence & Rhythm:**
+The speech has a *deliberate elegance*, often flowing like ancient poetry or song, with rhythmic pauses that make each word feel significant—*measured, but not slow*. It can shift instantly, becoming quick and unpredictable, like a spark leaping from fire when the genie is amused, annoyed, or impatient.
+
+**Accents & Inflections:**
+There might be traces of archaic or exotic accents, difficult to place—part Middle Eastern, part celestial, part something entirely unearthly. The vowels stretch luxuriously, and the consonants often land with a whispered crispness, like dry leaves brushing against stone. When casting spel`;
 
 export default function DisplayFortuneScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
-  const [fortune, setFortune] = useState(''); // Placeholder for fortune text
+  const [fortune, setFortune] = useState('');
   const [isLoadingFortune, setIsLoadingFortune] = useState(true);
-  const [audioPlaybackAllowed, setAudioPlaybackAllowed] = useState(false); // Added state for audio playback
+  const [audioPlaybackAllowed, setAudioPlaybackAllowed] = useState(false);
 
-  const fortuneAudioFiles = useMemo(() => ['reach_out_1.mp3', 'reach_out_2.mp3', 'reach_out_3.mp3'], []); // Define audio files
+  const [openingLineToNarrate, setOpeningLineToNarrate] = useState('');
+  const [isGeneratingNarration, setIsGeneratingNarration] = useState(false);
+  const [narrationError, setNarrationError] = useState(null);
+
+  const [hasPlayedOpeningLine, setHasPlayedOpeningLine] = useState(false);
+
+  const audioContextRef = useRef(null);
+  const audioSourceRef = useRef(null);
+
+  // const fortuneAudioFiles = useMemo(() => ['reach_out_1.mp3', 'reach_out_2.mp3', 'reach_out_3.mp3'], []); // Removed
 
   // Particles engine initialization
   useEffect(() => {
@@ -29,20 +48,46 @@ export default function DisplayFortuneScreen() {
     // The fortune loading logic will be in a separate useEffect that depends on `init`.
   }, []);
 
+  // Function to initialize AudioContext safely on client
+  const getAudioContext = useCallback(() => {
+    if (typeof window !== 'undefined') {
+      if (!audioContextRef.current) {
+        try {
+          console.log('[DisplayFortuneScreen] Attempting to create AudioContext with 24kHz sample rate.');
+          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 }); // OpenAI TTS uses 24kHz
+          console.log('[DisplayFortuneScreen] AudioContext created. State:', audioContextRef.current.state, 'SampleRate:', audioContextRef.current.sampleRate);
+        } catch (e) {
+          console.error('[DisplayFortuneScreen] Error creating AudioContext:', e);
+          setNarrationError("Failed to initialize audio system for narration. " + e.message);
+          return null;
+        }
+      }
+      return audioContextRef.current;
+    }
+    console.log('[DisplayFortuneScreen] Window undefined, cannot create AudioContext for narration.');
+    return null;
+  }, []);
+
   // Effect for loading and setting fortune data
   useEffect(() => {
     if (!init) return; // Don't run if particles aren't initialized yet
 
     setIsLoadingFortune(true); // Explicitly set loading true when we start fetching/processing
+    setOpeningLineToNarrate(''); // Reset previous opening line
+    setNarrationError(null); // Reset previous narration error
+    setHasPlayedOpeningLine(false); // Reset for new fortune line
+
     const storedFortuneData = localStorage.getItem('fortuneData');
     let htmlString = '';
+    let localOpeningLine = "A mysterious silence...";
 
     if (storedFortuneData) {
       try {
         const parsedData = JSON.parse(storedFortuneData);
         localStorage.setItem('fortuneApp_structuredFortune', JSON.stringify(parsedData));
         
-        htmlString += `<p class="font-caveat text-2xl sm:text-3xl text-mw-white mb-6 text-center">${parsedData.openingLine || "A mysterious silence..."}</p>`;
+        localOpeningLine = parsedData.openingLine || "A mysterious silence...";
+        htmlString += `<p class="font-caveat text-2xl sm:text-3xl text-mw-white mb-6 text-center">${localOpeningLine}</p>`;
         htmlString += `<div class="space-y-3 text-mw-white/95">`;
 
         if (parsedData.locationInsight) {
@@ -74,6 +119,7 @@ export default function DisplayFortuneScreen() {
 
     setFortune(htmlString);
     setIsLoadingFortune(false);
+    setOpeningLineToNarrate(localOpeningLine); // Set opening line to trigger narration
     
     // Store the generated fortune text for the contact page
     localStorage.setItem('fortuneApp_fortuneText', htmlString);
@@ -83,6 +129,127 @@ export default function DisplayFortuneScreen() {
 
   }, [init]); // Rerun when init changes (i.e., after particles are ready)
 
+  // Effect for generating narration for the opening line
+  useEffect(() => {
+    // Only proceed if init, playback allowed, there's a line, not generating, and not already played this line.
+    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isGeneratingNarration || hasPlayedOpeningLine) {
+      if (openingLineToNarrate && !audioPlaybackAllowed && !hasPlayedOpeningLine) {
+        console.log('[DisplayFortuneScreen] Opening line is ready, but waiting for user to enable sound for narration.');
+      } else if (openingLineToNarrate && audioPlaybackAllowed && !isGeneratingNarration && hasPlayedOpeningLine) {
+        console.log('[DisplayFortuneScreen] Opening line narration has already played for the current line.');
+      }
+      return;
+    }
+
+    const generateAndPlayNarration = async () => {
+      console.log('[DisplayFortuneScreen] Attempting to generate narration for:', openingLineToNarrate);
+      setIsGeneratingNarration(true);
+      setNarrationError(null);
+
+      const audioContext = getAudioContext();
+      if (!audioContext) {
+        // Error is set by getAudioContext or if it returns null before this point
+        setIsGeneratingNarration(false);
+        return;
+      }
+
+      try {
+        if (audioContext.state === 'suspended') {
+          console.log('[DisplayFortuneScreen] AudioContext is suspended, attempting to resume for narration.');
+          await audioContext.resume();
+          console.log('[DisplayFortuneScreen] AudioContext resumed for narration. New state:', audioContext.state);
+        }
+
+        const response = await fetch('/api/generate-narration', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            textInput: openingLineToNarrate,
+            instructions: TTS_INSTRUCTIONS,
+          }),
+        });
+
+        if (!response.ok) {
+          const errorData = await response.json().catch(() => ({ 
+            error: "Failed to parse error from narration API", 
+            details: `Status: ${response.status} ${response.statusText}` 
+          }));
+          console.error('[DisplayFortuneScreen] Narration API request failed:', errorData);
+          throw new Error(errorData.error || errorData.details || `Narration API request failed (${response.status})`);
+        }
+
+        const reader = response.body.getReader();
+        let audioBufferChunks = [];
+        let totalLength = 0;
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          audioBufferChunks.push(value);
+          totalLength += value.length;
+        }
+
+        if (totalLength === 0) {
+          console.error('[DisplayFortuneScreen] Narration API returned empty audio stream.');
+          throw new Error("Received empty audio stream from Oracle.");
+        }
+
+        const pcmData = new Uint8Array(totalLength);
+        let offset = 0;
+        for (const chunk of audioBufferChunks) {
+          pcmData.set(chunk, offset);
+          offset += chunk.length;
+        }
+
+        const float32Data = new Float32Array(pcmData.length / 2);
+        for (let i = 0; i < float32Data.length; i++) {
+          let val = pcmData[i * 2] + (pcmData[i * 2 + 1] << 8);
+          if (val >= 0x8000) val |= ~0xFFFF; // Sign-extend 16-bit to 32-bit
+          float32Data[i] = val / 0x8000; // Normalize to [-1, 1]
+        }
+        
+        const audioBuffer = audioContext.createBuffer(1, float32Data.length, audioContext.sampleRate);
+        audioBuffer.getChannelData(0).set(float32Data);
+
+        if (audioSourceRef.current) {
+          audioSourceRef.current.stop();
+          audioSourceRef.current.disconnect();
+        }
+        
+        const source = audioContext.createBufferSource();
+        source.buffer = audioBuffer;
+        source.connect(audioContext.destination);
+        source.start();
+        audioSourceRef.current = source;
+        setHasPlayedOpeningLine(true); // Mark as played to prevent looping for this line
+        
+        console.log('[DisplayFortuneScreen] Narration audio is now playing via Web Audio API.');
+
+        source.onended = () => {
+          console.log('[DisplayFortuneScreen] Narration audio playback ended.');
+          audioSourceRef.current = null;
+          setIsGeneratingNarration(false); // Ensure loading state is cleared
+        };
+
+      } catch (error) {
+        console.error('[DisplayFortuneScreen] Error generating or playing narration:', error);
+        setNarrationError(`The Oracle's voice seems to be lost in the ether. ${error.message}`);
+        setIsGeneratingNarration(false);
+      }
+    };
+
+    generateAndPlayNarration();
+
+    // Cleanup function for this effect
+    return () => {
+      if (audioSourceRef.current) {
+        console.log('[DisplayFortuneScreen] Cleaning up: Stopping narration audio source.');
+        audioSourceRef.current.stop();
+        audioSourceRef.current.disconnect();
+        audioSourceRef.current = null;
+      }
+    };
+  }, [init, openingLineToNarrate, getAudioContext, isGeneratingNarration, audioPlaybackAllowed, hasPlayedOpeningLine]); // Added hasPlayedOpeningLine
 
   const particlesLoaded = useCallback(async (container) => {
     // console.log("Particles container loaded", container);
@@ -135,7 +302,7 @@ export default function DisplayFortuneScreen() {
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]"
       />
-      <AudioPlayer audioFiles={fortuneAudioFiles} delayBetweenTracks={5000} isPlaying={audioPlaybackAllowed} />
+      {/* <AudioPlayer audioFiles={fortuneAudioFiles} delayBetweenTracks={5000} isPlaying={audioPlaybackAllowed} /> */}
       
       {!audioPlaybackAllowed && (
         <div className="absolute top-6 right-6 z-20">
@@ -164,20 +331,28 @@ export default function DisplayFortuneScreen() {
         </CardHeader>
         <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
           <div className="flex flex-col md:flex-row items-center md:items-center gap-6 md:gap-8">
-            {/* Column 1: CEO Image */}
+            {/* Column 1: Fortune Teller Image */}
             <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center">
               <div className="w-full rounded-lg shadow-md overflow-hidden">
                 <Image
-                  src="/srikanth-reduced.png" // Assumes image is in public/srikanth-reduced.png
-                  alt="Srikanth Ramachandran, Founder CEO, Moving Walls"
-                  width={822} // Original width of the image for aspect ratio
-                  height={1012} // Original height of the image for aspect ratio
-                  layout="responsive" // Makes the image scale with its container
+                  src="/avatar/fortune-reveal.png" 
+                  alt="The Fortune Teller Oracle"
+                  width={822} 
+                  height={1012} 
+                  layout="responsive" 
                   className="rounded-lg"
                 />
               </div>
-              <p className="text-center text-mw-white mt-3 font-semibold">Srikanth Ramachandran</p>
-              <p className="text-center text-mw-white/80 text-sm">Founder CEO of Moving Walls</p>
+              <p className="text-center text-mw-white mt-3 font-semibold">The Oracle Speaks</p>
+              {isGeneratingNarration && (
+                <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
+                  <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
+                The oracle is speaking your fortune...
+                </p>
+              )}
+              {narrationError && !isGeneratingNarration && (
+                <p className="text-red-400 text-xs mt-2 text-center px-2">{narrationError}</p>
+              )}
             </div>
 
             {/* Column 2: Fortune Text */}
