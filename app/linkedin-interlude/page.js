@@ -18,7 +18,7 @@ const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBod
 
 // Define the voice instructions (as provided by the user)
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
-A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
+A genie&apos;s voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
 
 **Cadence & Rhythm:**
 The speech has a *deliberate elegance*, often flowing like ancient poetry or song, with rhythmic pauses that make each word feel significant—*measured, but not slow*. It can shift instantly, becoming quick and unpredictable, like a spark leaping from fire when the genie is amused, annoyed, or impatient.
@@ -173,7 +173,7 @@ export default function LinkedInInterludeScreen() {
         console.log('[TTS Frontend] getNarrationText: profileInfo not ready');
         return null;
       }
-      let text = "Ah, seeker...\nI've peered into your past, present, and future…\n";
+      let text = "Ah, seeker...\nI&apos;ve peered into your past, present, and future…\n";
       if (profileInfo.fullName) {
         text += `They call you ${profileInfo.fullName}.\n`;
       }
@@ -192,7 +192,7 @@ export default function LinkedInInterludeScreen() {
 
       if (!audioContext) {
         console.error('[TTS Frontend] playNarration: AudioContext not available.');
-        setNarrationError("Audio system not ready. Please click 'Hear Oracle's Greeting' to enable audio.");
+        setNarrationError("Audio system not ready. Please click 'Hear Oracle&apos;s Greeting' to enable audio.");
         setIsNarrating(false);
         setUserManuallyInitiatedNarration(false);
         setGreetingHeardOnce(false);
@@ -223,7 +223,7 @@ export default function LinkedInInterludeScreen() {
           console.log('[TTS Frontend] AudioContext resumed successfully in playNarration. New state:', audioContext.state);
         } catch (e) {
           console.error('[TTS Frontend] Error resuming AudioContext in playNarration:', e);
-          setNarrationError("Could not start audio. Please click 'Hear Oracle's Greeting' again or check browser permissions.");
+          setNarrationError("Could not start audio. Please click 'Hear Oracle&apos;s Greeting' again or check browser permissions.");
           setIsNarrating(false);
           setUserManuallyInitiatedNarration(false);
           setGreetingHeardOnce(false);
@@ -617,7 +617,7 @@ export default function LinkedInInterludeScreen() {
           />
           
           <h1 className="text-3xl font-semibold text-mw-light-blue">Ah, {profileInfo.fullName || 'seeker'}...</h1>
-          <p className="text-xl mt-4">I've peered into your past, present, and future…</p>
+          <p className="text-xl mt-4">I&apos;ve peered into your past, present, and future…</p>
           <p className="text-xl">You are from <strong className="text-mw-gold">{profileInfo.companyName || 'an intriguing place'}</strong> as <strong className="text-mw-gold">{profileInfo.jobTitle || 'a person of mystery'}</strong>…</p>
           {profileInfo.previousCompanies && (
             <p className="text-md mt-2 text-mw-white/80">{profileInfo.previousCompanies}</p>
@@ -639,7 +639,7 @@ export default function LinkedInInterludeScreen() {
                   exit={{ opacity: 0 }}
                   transition={{ duration: 0.5 }}
                   role="button"
-                  aria-label="Tap on the door to reveal Oracle's Greeting"
+                  aria-label="Tap on the door to reveal Oracle&apos;s Greeting"
                   tabIndex={(isGeneratingFortune) ? -1 : 0}
                   onKeyDown={(e) => {
                     if (e.key === 'Enter' || e.key === ' ') {
@@ -651,7 +651,7 @@ export default function LinkedInInterludeScreen() {
                 >
                   <Image
                     src="/assets/door-reveal.jpg"
-                    alt="Mystical Door - Tap on the door to reveal the oracle's greeting"
+                    alt="Mystical Door - Tap on the door to reveal the oracle&apos;s greeting"
                     layout="fill"
                     objectFit="cover"
                     className="group-hover:brightness-110 transition-all duration-300 ease-in-out"
@@ -669,14 +669,14 @@ export default function LinkedInInterludeScreen() {
             {/* Show status if narration has been attempted or is active, and no overriding error */}
             {((userManuallyInitiatedNarration && !greetingHeardOnce) || isNarrating) && !narrationError && (
                  <p className="text-mw-gold text-lg animate-pulse min-h-[28px]">
-                    {isNarrating ? "The Oracle speaks..." : profileInfo.companyName ? "Oracle is ready to speak..." : "Preparing Oracle's greeting..."}
+                    {isNarrating ? "The Oracle speaks..." : profileInfo.companyName ? "Oracle is ready to speak..." : "Preparing Oracle&apos;s greeting..."}
                  </p>
             )}
 
             {/* Show narration errors specifically */}
             {narrationError && (
               <div className="text-red-400 text-sm p-3 bg-red-900/30 border border-red-500/50 rounded-md">
-                <p className="font-semibold">Oracle's Voice Disrupted:</p>
+                <p className="font-semibold">Oracle&apos;s Voice Disrupted:</p>
                 <p>{narrationError}</p>
                 {/* Allow retry only if not currently in a narrating state (e.g. failed to start) */}
                 {!isNarrating && (

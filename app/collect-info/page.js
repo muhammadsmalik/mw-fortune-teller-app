@@ -290,13 +290,13 @@ export default function CollectInfoScreen() {
         </div>
         {qrError && <div className="text-red-400 text-xs mt-2 text-center">{qrError}</div>}
         <div className="text-xs text-mw-white/70 mt-4 space-y-2 text-center px-2">
-          <p className="font-semibold text-sm">QR Code? Here's your treasure map!</p>
+          <p className="font-semibold text-sm">QR Code? Here&apos;s your treasure map!</p>
           <p>Ready to uncover it? Follow these steps:</p>
           <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80">
             <li>Open the LinkedIn mobile app.</li>
             <li>Tap the search bar at the top.</li>
             <li>Look for the QR code icon on the right side.</li>
-            <li>Tap it, then select "My Code" to display your QR.</li>
+            <li>Tap it, then select &quot;My Code&quot; to display your QR.</li>
           </ol>
         </div>
         <Button variant="link" onClick={() => setCurrentFlow('manual')} className="text-mw-light-blue mt-4">
@@ -402,7 +402,7 @@ export default function CollectInfoScreen() {
           </div>
         </div>
         <div className="space-y-2">
-          <Label htmlFor="businessObjective" className="text-mw-white/90">What's your main business goal right now? (Optional)</Label>
+          <Label htmlFor="businessObjective" className="text-mw-white/90">What&apos;s your main business goal right now? (Optional)</Label>
           <div className="flex items-center">
             <Textarea
               id="businessObjective"
