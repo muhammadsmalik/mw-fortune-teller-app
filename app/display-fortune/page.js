@@ -21,7 +21,7 @@ The speech has a *deliberate elegance*, often flowing like ancient poetry or son
 There might be traces of archaic or exotic accents, difficult to place—part Middle Eastern, part celestial, part something entirely unearthly. The vowels stretch luxuriously, and the consonants often land with a whispered crispness, like dry leaves brushing against stone. When casting spel`;
 
 // const CEO_NARRATION_TEXT = "But fate does not speak idly. It brings you to those you're meant to meet. My role here is done… and as I fade, another takes my place. He walks the road you now stand before. Connect with him — your timing is no accident.";
-const SMOKE_EFFECT_DURATION_MS = 3000; // 3 seconds for smoke effect
+const SMOKE_EFFECT_DURATION_MS = 2000; // 3 seconds for smoke effect
 
 export default function DisplayFortuneScreen() {
   const router = useRouter();
