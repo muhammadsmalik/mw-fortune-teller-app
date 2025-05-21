@@ -20,7 +20,7 @@ The speech has a *deliberate elegance*, often flowing like ancient poetry or son
 **Accents & Inflections:**
 There might be traces of archaic or exotic accents, difficult to place—part Middle Eastern, part celestial, part something entirely unearthly. The vowels stretch luxuriously, and the consonants often land with a whispered crispness, like dry leaves brushing against stone. When casting spel`;
 
-const CEO_NARRATION_TEXT = "But fate does not speak idly. It brings you to those you're meant to meet. My role here is done… and as I fade, another takes my place. He walks the road you now stand before. Connect with him — your timing is no accident.";
+// const CEO_NARRATION_TEXT = "But fate does not speak idly. It brings you to those you're meant to meet. My role here is done… and as I fade, another takes my place. He walks the road you now stand before. Connect with him — your timing is no accident.";
 const SMOKE_EFFECT_DURATION_MS = 3000; // 3 seconds for smoke effect
 
 export default function DisplayFortuneScreen() {
@@ -39,6 +39,7 @@ export default function DisplayFortuneScreen() {
   const audioContextRef = useRef(null);
   const narrationAudioSourceRef = useRef(null);
   const revealChimeRef = useRef(null);
+  const ceoAudioRef = useRef(null); // Added for CEO audio
 
   const [hasPreRevealed, setHasPreRevealed] = useState(false);
 
@@ -252,10 +253,60 @@ export default function DisplayFortuneScreen() {
         setNarrationStage('ceoNarration');
       });
     } else if (narrationStage === 'ceoNarration' && !isNarrating) {
-      playNarrationSegment(CEO_NARRATION_TEXT, () => {
-        console.log('[DisplayFortuneScreen] CEO narration finished. Moving to transition stage.');
+      // Play pre-recorded CEO audio
+      if (ceoAudioRef.current && audioPlaybackAllowed) {
+        console.log('[DisplayFortuneScreen] Attempting to play CEO audio mp3.');
+        setIsNarrating(true);
+        setNarrationError(null);
+        const audioEl = ceoAudioRef.current;
+
+        const handleCeoAudioEnd = () => {
+          console.log('[DisplayFortuneScreen] CEO audio mp3 playback ended.');
+          setIsNarrating(false);
+          setNarrationStage('transitioning');
+          audioEl.removeEventListener('ended', handleCeoAudioEnd);
+          audioEl.removeEventListener('error', handleCeoAudioError);
+        };
+
+        const handleCeoAudioError = (e) => {
+          console.error('[DisplayFortuneScreen] Error playing CEO audio mp3:', e);
+          setNarrationError("The Oracle's message seems to be incomplete. Please try again.");
+          setIsNarrating(false);
+          setNarrationStage('done'); 
+          audioEl.removeEventListener('ended', handleCeoAudioEnd);
+          audioEl.removeEventListener('error', handleCeoAudioError);
+        };
+
+        audioEl.addEventListener('ended', handleCeoAudioEnd);
+        audioEl.addEventListener('error', handleCeoAudioError);
+        
+        // Ensure AudioContext is resumed if suspended, for browsers that require interaction
+        const audioContext = getAudioContext();
+        if (audioContext && audioContext.state === 'suspended') {
+            audioContext.resume().then(() => {
+                console.log('[DisplayFortuneScreen] AudioContext resumed for CEO mp3 playback.');
+                audioEl.play().catch(e => handleCeoAudioError(e));
+            }).catch(e => {
+                console.error('[DisplayFortuneScreen] Error resuming AudioContext for CEO mp3:', e);
+                handleCeoAudioError(e);
+            });
+        } else if (audioContext) {
+             audioEl.play().catch(e => handleCeoAudioError(e));
+        } else {
+            // Fallback if audio context couldn't be initialized/resumed (should ideally not happen if playback was allowed)
+            console.warn('[DisplayFortuneScreen] AudioContext not available for CEO mp3, attempting direct play.');
+            audioEl.play().catch(e => handleCeoAudioError(e));
+        }
+
+      } else {
+        if (!audioPlaybackAllowed) {
+            console.warn('[DisplayFortuneScreen] CEO audio narration skipped: Audio playback not allowed.');
+        } else {
+            console.error('[DisplayFortuneScreen] ceoAudioRef.current is null or audio playback not allowed. Cannot play CEO audio.');
+        }
+        // Skip to transition if CEO audio cannot be played
         setNarrationStage('transitioning');
-      });
+      }
     }
 
     return () => {
@@ -354,6 +405,7 @@ export default function DisplayFortuneScreen() {
         className="absolute top-0 left-0 w-full h-full z-[-1]"
       />
       <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
+      <audio ref={ceoAudioRef} src="/audio/reach_out_to_mw.mp3" preload="auto" />
       
       {!audioPlaybackAllowed && hasPreRevealed && (
         <div className="absolute top-6 right-6 z-20">
@@ -421,10 +473,10 @@ export default function DisplayFortuneScreen() {
                       className="w-full rounded-lg shadow-md overflow-hidden"
                     >
                       <Image
-                        src="/srikanth-reduced.png"
-                        alt="Srikanth Ramachandran, Founder and CEO of Moving Walls"
+                        src="/MW-logo-web.svg"
+                        alt="Moving Walls Logo"
                         width={822}
-                        height={1012}
+                        height={822}
                         layout="responsive"
                         className="rounded-lg"
                       />
@@ -432,7 +484,7 @@ export default function DisplayFortuneScreen() {
                   )}
                   {!isTransitioningToCeo && (
                     <p className="text-center text-mw-white mt-3 font-semibold">
-                      {showCeoImage ? "Srikanth Ramachandran, Founder and CEO of Moving Walls" : "Fortune Teller"}
+                      {showCeoImage ? "Moving Walls" : "Fortune Teller"}
                     </p>
                   )}
                   {isNarrating && (
