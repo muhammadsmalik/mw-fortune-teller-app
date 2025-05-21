@@ -57,7 +57,7 @@ export async function POST(request) {
 
     const { data, error } = await resend.emails.send({
       from: `Moving Walls Fortune Teller <${FROM_EMAIL}>`,
-      to: ['salman.malik@movingwalls.com'], // Temporarily hardcoded for testing
+      to: [emailTo],
       subject: subject,
       html: htmlContent,
     });
