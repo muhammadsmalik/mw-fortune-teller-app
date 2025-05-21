@@ -22,7 +22,8 @@ PROD NOTES:
 
 
 - fix double logos
-- 
+- replace CEO with MW logo
+- add training data
 
 
 
