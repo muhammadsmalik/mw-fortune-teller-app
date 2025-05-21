@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useMemo, useCallback } from 'react';
+import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { Button } from "@/components/ui/button";
@@ -9,9 +9,14 @@ import { CheckSquare, Square, Loader2 } from 'lucide-react';
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import scenariosData from '@/lib/predefined_scenarios.json'; // Importing the JSON directly
+import { motion, AnimatePresence } from 'framer-motion';
 
 const MAX_SELECTIONS = 2;
-const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody'; // Added for clarity
+const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
+
+// Define audio file paths (moved from linkedin-interlude)
+const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3';
+const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3';
 
 export default function ScenarioSelectionScreen() {
   const router = useRouter();
@@ -19,6 +24,12 @@ export default function ScenarioSelectionScreen() {
   const [allScenarios, setAllScenarios] = useState([]);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
   const [error, setError] = useState(null);
+
+  // State and Refs for audio transition (moved from linkedin-interlude)
+  const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false);
+  const [transitionAudioError, setTransitionAudioError] = useState(null);
+  const audioContextRef = useRef(null);
+  const transitionAudioSourceRef = useRef(null);
 
   // Initialize Particles
   useEffect(() => {
@@ -54,6 +65,155 @@ export default function ScenarioSelectionScreen() {
     detectRetina: true,
   }), []);
 
+  // Function to initialize AudioContext safely on client (moved from linkedin-interlude)
+  const getAudioContext = useCallback(() => {
+    if (typeof window !== 'undefined') {
+      if (!audioContextRef.current) {
+        try {
+          console.log('[TTS Frontend - ScenarioSelection] Attempting to create AudioContext with 24kHz sample rate.');
+          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 });
+          console.log('[TTS Frontend - ScenarioSelection] AudioContext created. State:', audioContextRef.current.state, 'SampleRate:', audioContextRef.current.sampleRate);
+        } catch (e) {
+          console.error('[TTS Frontend - ScenarioSelection] Error creating AudioContext:', e);
+          setTransitionAudioError("Failed to initialize audio system for transition. " + e.message);
+          return null;
+        }
+      }
+      return audioContextRef.current;
+    }
+    console.log('[TTS Frontend - ScenarioSelection] Window undefined, cannot create AudioContext.');
+    return null;
+  }, []);
+
+  // Function to navigate after transition (new)
+  const navigateToDisplayFortune = useCallback(() => {
+    const storedFortuneDataString = localStorage.getItem('fortuneData');
+    const storedFortuneError = localStorage.getItem('fortuneGenerationError');
+
+    if (storedFortuneError) {
+      console.error("[ScenarioSelection] Error from background fortune generation picked up before display:", storedFortuneError);
+      setError(`A cosmic disturbance occurred: ${storedFortuneError}. Redirecting to start...`);
+      localStorage.removeItem('fortuneGenerationError');
+      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+      setTimeout(() => router.push('/collect-info'), 5000);
+      return;
+    }
+
+    if (storedFortuneDataString) {
+      console.log('[ScenarioSelection] Fortune data confirmed. Proceeding to display fortune.');
+      setTransitionAudioError(null);
+      router.push('/display-fortune');
+    } else {
+      console.error('[ScenarioSelection] Fortune data NOT found before display. This is unexpected. Redirecting to start.');
+      setError("Your fortune seems to have vanished. Please try again from the start.");
+      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+      setTimeout(() => router.push('/collect-info'), 4000);
+    }
+  }, [router, setError]);
+
+  // playAudioFile function (moved and adapted from linkedin-interlude)
+  const playAudioFile = useCallback(async (filePath, isLastInSequence = false) => {
+    const audioContext = getAudioContext();
+    if (!audioContext) {
+      console.error('[TTS Frontend - ScenarioSelection] playAudioFile: AudioContext not available.');
+      setTransitionAudioError(`Audio system not ready for transition sound: ${filePath}`);
+      setIsTransitionAudioPlaying(false);
+      return Promise.reject(new Error("AudioContext not available"));
+    }
+
+    if (audioContext.state === 'suspended') {
+      try {
+        await audioContext.resume();
+      } catch (e) {
+        console.error(`[TTS Frontend - ScenarioSelection] Error resuming AudioContext for ${filePath}:`, e);
+        setTransitionAudioError(`Could not start transition audio ${filePath}. Check browser permissions.`);
+        setIsTransitionAudioPlaying(false);
+        return Promise.reject(e);
+      }
+    }
+
+    try {
+      console.log(`[TTS Frontend - ScenarioSelection] Fetching audio file: ${filePath}`);
+      const response = await fetch(filePath);
+      if (!response.ok) {
+        throw new Error(`Failed to fetch audio file ${filePath} (${response.status})`);
+      }
+      const arrayBuffer = await response.arrayBuffer();
+      console.log(`[TTS Frontend - ScenarioSelection] Audio file ${filePath} fetched, decoding ${arrayBuffer.byteLength} bytes...`);
+      const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
+      console.log(`[TTS Frontend - ScenarioSelection] Audio file ${filePath} decoded.`);
+
+      if (transitionAudioSourceRef.current) {
+        transitionAudioSourceRef.current.stop();
+        transitionAudioSourceRef.current.disconnect();
+      }
+
+      const source = audioContext.createBufferSource();
+      source.buffer = audioBuffer;
+      source.connect(audioContext.destination);
+      
+      return new Promise((resolve, reject) => {
+        source.onended = () => {
+          console.log(`[TTS Frontend - ScenarioSelection] Audio playback ended for: ${filePath}`);
+          transitionAudioSourceRef.current = null;
+          if (isLastInSequence) {
+            setIsTransitionAudioPlaying(false);
+            console.log('[TTS Frontend - ScenarioSelection] Last transition audio ended, navigating to display fortune.');
+            navigateToDisplayFortune();
+          }
+          resolve();
+        };
+        source.onerror = (err) => {
+            console.error(`[TTS Frontend - ScenarioSelection] Error playing audio file ${filePath}:`, err);
+            setTransitionAudioError(`Error playing transition sound ${filePath}.`);
+            setIsTransitionAudioPlaying(false);
+            transitionAudioSourceRef.current = null;
+            // If the last sound in sequence errors, we should still try to navigate or offer a way forward
+            if (isLastInSequence) {
+              console.warn(`[TTS Frontend - ScenarioSelection] Last transition audio errored. Attempting to navigate anyway.`);
+              navigateToDisplayFortune();
+            }
+            reject(err);
+        };
+        console.log(`[TTS Frontend - ScenarioSelection] Starting audio playback for: ${filePath}.`);
+        source.start();
+        transitionAudioSourceRef.current = source;
+      });
+
+    } catch (error) {
+      console.error(`[TTS Frontend - ScenarioSelection] Error in playAudioFile for ${filePath}:`, error);
+      setTransitionAudioError(`The spirits are quiet for ${filePath}: ${error.message}.`);
+      setIsTransitionAudioPlaying(false);
+      // If an error occurs, especially for the last sound, attempt to navigate as a fallback.
+      if (isLastInSequence) {
+        console.warn(`[TTS Frontend - ScenarioSelection] Error in playAudioFile processing for last sound. Attempting to navigate anyway.`);
+        navigateToDisplayFortune();
+      }
+      return Promise.reject(error);
+    }
+  }, [getAudioContext, navigateToDisplayFortune]);
+
+  // playTransitionSequence function (moved and adapted from linkedin-interlude)
+  const playTransitionSequence = useCallback(async () => {
+    console.log('[TTS Frontend - ScenarioSelection] Starting transition audio sequence.');
+    setIsTransitionAudioPlaying(true);
+    setTransitionAudioError(null);
+
+    try {
+      await playAudioFile(TRANSITION_VOICE_PATH, false);
+      console.log('[TTS Frontend - ScenarioSelection] Transition voice finished, playing shimmer.');
+      await playAudioFile(TRANSITION_SHIMMER_PATH, true);
+      console.log('[TTS Frontend - ScenarioSelection] Transition shimmer finished (or initiated navigation).');
+    } catch (error) {
+      console.error('[TTS Frontend - ScenarioSelection] Error during transition audio sequence:', error);
+      // Error state is set by playAudioFile. setIsTransitionAudioPlaying(false) is also handled there.
+      // Fallback: if sequence fails, attempt to proceed.
+      setIsTransitionAudioPlaying(false); // Ensure this is reset
+      console.warn('[TTS Frontend - ScenarioSelection] Transition audio sequence failed. Attempting to proceed to display fortune anyway.');
+      navigateToDisplayFortune();
+    }
+  }, [playAudioFile, navigateToDisplayFortune]);
+
   const handleScenarioToggle = (scenarioId) => {
     setSelectedScenarioIds(prevSelected => {
       if (prevSelected.includes(scenarioId)) {
@@ -67,7 +227,7 @@ export default function ScenarioSelectionScreen() {
     });
   };
 
-  const handleProceed = () => {
+  const handleProceed = async () => {
     if (selectedScenarioIds.length !== MAX_SELECTIONS) {
       setError(`Please select exactly ${MAX_SELECTIONS} scenarios to proceed.`);
       return;
@@ -79,14 +239,26 @@ export default function ScenarioSelectionScreen() {
 
     if (isLinkedInFlow) {
       // For LinkedIn flow, fortuneData should already be in localStorage from the interlude's background fetch.
-      // PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY can now be removed as interlude is done with it.
       localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
-      router.push('/display-fortune');
     } else {
       // For Manual flow, we still need to generate the main fortune.
-      router.push('/generating-fortune'); 
+      // This path will also go through transition now.
     }
+    console.log('[ScenarioSelection] Proceed clicked. Initiating transition sequence.');
+    await playTransitionSequence();
   };
+
+  // useEffect for cleanup
+  useEffect(() => {
+    return () => {
+      if (transitionAudioSourceRef.current) {
+        console.log('[TTS Frontend - ScenarioSelection] Cleanup: Stopping transition audio source.');
+        transitionAudioSourceRef.current.stop();
+        transitionAudioSourceRef.current.disconnect();
+        transitionAudioSourceRef.current = null;
+      }
+    };
+  }, []);
 
   if (!init || allScenarios.length === 0 && !error) { // Wait for particles and scenarios to load
     return (
@@ -127,10 +299,19 @@ export default function ScenarioSelectionScreen() {
             </p>
           </CardHeader>
           <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
-            {error && (
+            {error && !isTransitionAudioPlaying && (
                 <div className="mb-4 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
                     {error}
                 </div>
+            )}
+            {transitionAudioError && (
+              <div className="mb-4 p-3 text-center text-orange-400 bg-orange-900/30 border border-orange-500/50 rounded-md">
+                <p className="font-semibold">Transition Disrupted:</p>
+                <p>{transitionAudioError}</p>
+                <Button variant="link" onClick={navigateToDisplayFortune} className="text-mw-light-blue hover:text-mw-gold mt-1">
+                    Attempt to Proceed Anyway?
+                </Button>
+              </div>
             )}
             {allScenarios.length > 0 ? (
               <div className="space-y-4">
@@ -173,14 +354,52 @@ export default function ScenarioSelectionScreen() {
                            hover:opacity-90 \
                            rounded-lg shadow-md transform transition-all duration-150 \
                            hover:shadow-xl active:scale-95"
-                disabled={selectedScenarioIds.length !== MAX_SELECTIONS}
+                disabled={selectedScenarioIds.length !== MAX_SELECTIONS || isTransitionAudioPlaying}
               >
-                Proceed with {selectedScenarioIds.length}/{MAX_SELECTIONS} Selected
+                {isTransitionAudioPlaying ? 
+                  <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> The Veil Thins...</> :
+                  `Proceed with ${selectedScenarioIds.length}/${MAX_SELECTIONS} Selected`
+                }
               </Button>
             </CardFooter>
           )}
         </Card>
       </main>
+
+      {/* Transition Audio Animation Overlay (moved from linkedin-interlude) */}
+      <AnimatePresence>
+        {!error && isTransitionAudioPlaying && !transitionAudioError && (
+          <motion.div
+            key="transitionAudioVeilScenario"
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1, transition: { duration: 0.7, ease: "circOut" } }}
+            exit={{ opacity: 0, scale: 0.8, transition: { duration: 0.5, ease: "circIn" } }}
+            className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/90 backdrop-blur-md text-mw-white p-4 isolate z-50"
+          >
+            <motion.div
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 1.5, ease: "circOut" }}
+              className="flex flex-col items-center text-center"
+            >
+              <Image
+                src="/avatar/fortune-teller-eyes-glow.png"
+                alt="Mystical Eyes"
+                width={300}
+                height={225}
+                className="mb-6"
+                priority
+              />
+              <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">
+                The veil between worlds grows thin...
+              </p>
+              <p className="text-lg text-mw-white/80 mt-3">
+                Listen closely...
+              </p>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 } 

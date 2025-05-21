@@ -13,8 +13,8 @@ const FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
 // Define audio file paths
-const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3';
-const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3';
+// const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3'; // Moved
+// const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3'; // Moved
 
 // Define the voice instructions (as provided by the user)
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
@@ -43,11 +43,10 @@ export default function LinkedInInterludeScreen() {
   const [narrationError, setNarrationError] = useState(null);
   const [userManuallyInitiatedNarration, setUserManuallyInitiatedNarration] = useState(false);
   const [greetingHeardOnce, setGreetingHeardOnce] = useState(false);
-  const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false);
-  const [transitionAudioError, setTransitionAudioError] = useState(null);
+  // const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false); // Moved
   const audioContextRef = useRef(null);
   const audioSourceRef = useRef(null);
-  const transitionAudioSourceRef = useRef(null); // For transition sounds
+  // const transitionAudioSourceRef = useRef(null); // Moved
   const [init, setInit] = useState(false); // For particle effects
 
   // Particles engine initialization
@@ -140,7 +139,7 @@ export default function LinkedInInterludeScreen() {
     };
     // isGeneratingFortune and greetingHeardOnce are included to re-evaluate if listener logic should change based on these states.
     // checkForFortuneAndProceed is memoized with useCallback.
-  }, [isGeneratingFortune, greetingHeardOnce, checkForFortuneAndProceed, isTransitionAudioPlaying]);
+  }, [isGeneratingFortune, greetingHeardOnce, checkForFortuneAndProceed]);
 
   // Function to initialize AudioContext safely on client
   const getAudioContext = () => {
@@ -162,101 +161,9 @@ export default function LinkedInInterludeScreen() {
     return null;
   };
 
-  const playAudioFile = useCallback(async (filePath, isLastInSequence = false) => {
-    const audioContext = getAudioContext();
-    if (!audioContext) {
-      console.error('[TTS Frontend] playAudioFile: AudioContext not available.');
-      setTransitionAudioError(`Audio system not ready for transition sound: ${filePath}`);
-      setIsTransitionAudioPlaying(false);
-      return Promise.reject(new Error("AudioContext not available"));
-    }
+  // const playAudioFile = useCallback(async (filePath, isLastInSequence = false) => { ... }); // Entire function moved
 
-    if (audioContext.state === 'suspended') {
-      try {
-        await audioContext.resume();
-      } catch (e) {
-        console.error(`[TTS Frontend] Error resuming AudioContext for ${filePath}:`, e);
-        setTransitionAudioError(`Could not start transition audio ${filePath}. Check browser permissions.`);
-        setIsTransitionAudioPlaying(false);
-        return Promise.reject(e);
-      }
-    }
-
-    try {
-      console.log(`[TTS Frontend] Fetching audio file: ${filePath}`);
-      const response = await fetch(filePath);
-      if (!response.ok) {
-        throw new Error(`Failed to fetch audio file ${filePath} (${response.status})`);
-      }
-      const arrayBuffer = await response.arrayBuffer();
-      console.log(`[TTS Frontend] Audio file ${filePath} fetched, decoding ${arrayBuffer.byteLength} bytes...`);
-      const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
-      console.log(`[TTS Frontend] Audio file ${filePath} decoded.`);
-
-      if (transitionAudioSourceRef.current) {
-        transitionAudioSourceRef.current.stop();
-        transitionAudioSourceRef.current.disconnect();
-      }
-
-      const source = audioContext.createBufferSource();
-      source.buffer = audioBuffer;
-      source.connect(audioContext.destination);
-      
-      return new Promise((resolve, reject) => {
-        source.onended = () => {
-          console.log(`[TTS Frontend] Audio playback ended for: ${filePath}`);
-          transitionAudioSourceRef.current = null;
-          if (isLastInSequence) {
-            setIsTransitionAudioPlaying(false);
-            console.log('[TTS Frontend] Last transition audio ended, checking for fortune data.');
-            checkForFortuneAndProceed();
-          }
-          resolve();
-        };
-        source.onerror = (err) => {
-            console.error(`[TTS Frontend] Error playing audio file ${filePath}:`, err);
-            setTransitionAudioError(`Error playing transition sound ${filePath}.`);
-            setIsTransitionAudioPlaying(false);
-            transitionAudioSourceRef.current = null;
-            reject(err);
-        };
-        console.log(`[TTS Frontend] Starting audio playback for: ${filePath}.`);
-        source.start();
-        transitionAudioSourceRef.current = source;
-      });
-
-    } catch (error) {
-      console.error(`[TTS Frontend] Error in playAudioFile for ${filePath}:`, error);
-      setTransitionAudioError(`The spirits are quiet for ${filePath}: ${error.message}.`);
-      setIsTransitionAudioPlaying(false);
-      return Promise.reject(error);
-    }
-  }, [checkForFortuneAndProceed]); // getAudioContext is stable, checkForFortuneAndProceed is memoized
-
-  const playTransitionSequence = useCallback(async () => {
-    console.log('[TTS Frontend] Starting transition audio sequence.');
-    setIsTransitionAudioPlaying(true);
-    setTransitionAudioError(null); // Clear previous errors
-
-    try {
-      await playAudioFile(TRANSITION_VOICE_PATH, false); // Play voice, not last in sequence
-      console.log('[TTS Frontend] Transition voice finished, playing shimmer.');
-      await playAudioFile(TRANSITION_SHIMMER_PATH, true); // Play shimmer, this IS the last in sequence
-      console.log('[TTS Frontend] Transition shimmer finished.');
-      // checkForFortuneAndProceed is now called by playAudioFile when isLastInSequence is true
-    } catch (error) {
-      console.error('[TTS Frontend] Error during transition audio sequence:', error);
-      // Error state is set by playAudioFile, setIsTransitionAudioPlaying(false) is also handled there.
-      // If the sequence fails, we might want to allow user to proceed or retry.
-      // For now, if sequence fails, it stops. User can click "Reveal Destiny" if enabled.
-      // To be safe, ensure playing state is false if an error escapes playAudioFile logic directly here.
-      setIsTransitionAudioPlaying(false); 
-       // If transition fails, maybe proceed anyway? Or offer a retry?
-       // For now, let's proceed to check for fortune as a fallback.
-      console.warn('[TTS Frontend] Transition audio sequence failed. Attempting to proceed to fortune display anyway.');
-      checkForFortuneAndProceed();
-    }
-  }, [playAudioFile, checkForFortuneAndProceed]);
+  // const playTransitionSequence = useCallback(async () => { ... }); // Entire function moved
 
   // Effect to fetch and play narration
   useEffect(() => {
@@ -404,11 +311,12 @@ export default function LinkedInInterludeScreen() {
             // If fortune generation wasn't already indicating an error from this page's perspective,
             // and there's no active narration error that might have cut it short.
             if (!apiError && !narrationError) { 
-                console.log('[TTS Frontend] Narration ended naturally, starting transition audio sequence.');
-                playTransitionSequence(); // Play transition audio instead of directly checking fortune
+                console.log('[TTS Frontend] Narration ended naturally, checking for fortune data (transition moved).');
+                // playTransitionSequence(); // Old call: Play transition audio instead of directly checking fortune
+                checkForFortuneAndProceed(); // New call: Directly check for fortune
             } else {
-                if(apiError) console.log('[TTS Frontend] Narration ended, but an API error occurred on this page. Not auto-checking fortune or playing transition.');
-                if(narrationError) console.log('[TTS Frontend] Narration ended, but a narration error occurred. Not auto-checking fortune or playing transition.');
+                if(apiError) console.log('[TTS Frontend] Narration ended, but an API error occurred on this page. Not auto-checking fortune.');
+                if(narrationError) console.log('[TTS Frontend] Narration ended, but a narration error occurred. Not auto-checking fortune.');
                  // Fallback: if narration had errors, or page has API error, still try to proceed without transition.
                 checkForFortuneAndProceed();
             }
@@ -437,14 +345,14 @@ export default function LinkedInInterludeScreen() {
         audioSourceRef.current.disconnect();
         audioSourceRef.current = null;
       }
-      if (transitionAudioSourceRef.current) {
-        console.log('[TTS Frontend] Stopping and disconnecting active transition audio source during cleanup.');
-        transitionAudioSourceRef.current.stop();
-        transitionAudioSourceRef.current.disconnect();
-        transitionAudioSourceRef.current = null;
-      }
+      // if (transitionAudioSourceRef.current) { // Moved
+      //   console.log('[TTS Frontend] Stopping and disconnecting active transition audio source during cleanup.');
+      //   transitionAudioSourceRef.current.stop();
+      //   transitionAudioSourceRef.current.disconnect();
+      //   transitionAudioSourceRef.current = null;
+      // }
     };
-  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, playTransitionSequence, apiError, narrationError, checkForFortuneAndProceed]); // Added dependencies
+  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]); // Removed playTransitionSequence
 
   // This useEffect loads the profile information to display and for narration text
   useEffect(() => {
@@ -608,8 +516,8 @@ export default function LinkedInInterludeScreen() {
   const handleInitiateNarration = async () => {
     console.log('[TTS Frontend] handleInitiateNarration button clicked.');
     setNarrationError(null); // Clear previous errors on new attempt
-    setTransitionAudioError(null); // Also clear transition errors
-    setIsTransitionAudioPlaying(false); // Ensure transition audio is not considered playing
+    // setTransitionAudioError(null); // Moved
+    // setIsTransitionAudioPlaying(false); // Moved
     setGreetingHeardOnce(false); // Added for Issue 2: Reset on new initiation
     const audioContext = getAudioContext();
     if (!audioContext) {
@@ -723,19 +631,19 @@ export default function LinkedInInterludeScreen() {
               {!isLoadingPage && !userManuallyInitiatedNarration && !isNarrating && (
                 <motion.div
                   key="doorRevealOverlay"
-                  onClick={() => !(isGeneratingFortune || isTransitionAudioPlaying) && handleInitiateNarration()}
+                  onClick={() => !(isGeneratingFortune) && handleInitiateNarration()}
                   className={`fixed inset-0 z-40 bg-mw-dark-navy/50 backdrop-blur-sm transition-opacity duration-300 ease-in-out \
-                              ${(isGeneratingFortune || isTransitionAudioPlaying) ? 'opacity-50 pointer-events-none' : 'opacity-100 cursor-pointer group'}`}
+                              ${(isGeneratingFortune) ? 'opacity-50 pointer-events-none' : 'opacity-100 cursor-pointer group'}`}
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   exit={{ opacity: 0 }}
                   transition={{ duration: 0.5 }}
                   role="button"
                   aria-label="Tap on the door to reveal Oracle's Greeting"
-                  tabIndex={(isGeneratingFortune || isTransitionAudioPlaying) ? -1 : 0}
+                  tabIndex={(isGeneratingFortune) ? -1 : 0}
                   onKeyDown={(e) => {
                     if (e.key === 'Enter' || e.key === ' ') {
-                      if (!(isGeneratingFortune || isTransitionAudioPlaying)) {
+                      if (!(isGeneratingFortune)) {
                         handleInitiateNarration();
                       }
                     }
@@ -759,17 +667,10 @@ export default function LinkedInInterludeScreen() {
             </AnimatePresence>
 
             {/* Show status if narration has been attempted or is active, and no overriding error */}
-            {((userManuallyInitiatedNarration && !greetingHeardOnce && !isTransitionAudioPlaying) || isNarrating) && !narrationError && (
+            {((userManuallyInitiatedNarration && !greetingHeardOnce) || isNarrating) && !narrationError && (
                  <p className="text-mw-gold text-lg animate-pulse min-h-[28px]">
                     {isNarrating ? "The Oracle speaks..." : profileInfo.companyName ? "Oracle is ready to speak..." : "Preparing Oracle's greeting..."}
                  </p>
-            )}
-
-            {/* Show status for transition audio */}
-            {isTransitionAudioPlaying && !transitionAudioError && (
-              <p className="text-mw-light-blue text-lg animate-pulse min-h-[28px]">
-                Shhh… the veil thins…
-              </p>
             )}
 
             {/* Show narration errors specifically */}
@@ -785,15 +686,6 @@ export default function LinkedInInterludeScreen() {
                 )}
               </div>
             )}
-
-            {/* Show transition audio errors specifically */}
-            {transitionAudioError && (
-              <div className="text-orange-400 text-sm p-3 bg-orange-900/30 border border-orange-500/50 rounded-md mt-2">
-                <p className="font-semibold">Transition Disrupted:</p>
-                <p>{transitionAudioError}</p>
-                {/* Optionally, provide a way to retry or skip transition */}
-              </div>
-            )}
           </div>
           
           <Button
@@ -807,7 +699,7 @@ export default function LinkedInInterludeScreen() {
                        hover:shadow-xl active:scale-95"
             // Disable if actively generating fortune OR if narrating successfully (don't cut off)
             // Also disable if transition audio is playing
-            disabled={isGeneratingFortune || (isNarrating && !narrationError) || isLoadingPage || isTransitionAudioPlaying}
+            disabled={isGeneratingFortune || (isNarrating && !narrationError) || isLoadingPage}
           >
             {isGeneratingFortune ? 
                 <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Consulting Oracles...</> :
@@ -834,40 +726,6 @@ export default function LinkedInInterludeScreen() {
             <p className="text-sm text-mw-white/70">
               This may take a moment as we chart your stars.
             </p>
-          </motion.div>
-        )}
-      </AnimatePresence>
-
-      <AnimatePresence>
-        {!isGeneratingFortune && isTransitionAudioPlaying && !transitionAudioError && (
-          <motion.div
-            key="transitionAudioVeil"
-            initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1, transition: { duration: 0.7, ease: "circOut" } }}
-            exit={{ opacity: 0, scale: 0.8, transition: { duration: 0.5, ease: "circIn" } }}
-            className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/90 backdrop-blur-md text-mw-white p-4 isolate z-50"
-          >
-            <motion.div
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 1.5, ease: "circOut" }}
-              className="flex flex-col items-center text-center"
-            >
-              <Image
-                src="/avatar/fortune-teller-eyes-glow.png"
-                alt="Mystical Eyes"
-                width={300}
-                height={225}
-                className="mb-6"
-                priority
-              />
-              <p className="text-3xl font-caveat text-mw-light-blue animate-pulse">
-                The veil between worlds grows thin...
-              </p>
-              <p className="text-lg text-mw-white/80 mt-3">
-                Listen closely...
-              </p>
-            </motion.div>
           </motion.div>
         )}
       </AnimatePresence>
