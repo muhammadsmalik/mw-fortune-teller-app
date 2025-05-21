@@ -100,14 +100,17 @@ export default function LinkedInInterludeScreen() {
     }
 
     if (storedFortuneDataString) {
-      console.log('[LinkedInInterlude] Fortune data found in localStorage. Proceeding to display.');
+      console.log('[LinkedInInterlude] Fortune data found in localStorage. Proceeding to scenario selection.');
       // Data for 'fortuneApp_fullName', etc., should have been set by generating-fortune page's background fetch.
       // We just ensure PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY is cleaned up.
-      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+      // Note: PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY might still be needed by scenario-selection 
+      // if it needs to determine the flow or pass user context later. Let's keep it for now.
+      // localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY); 
+      
       // Clear any potential stale error from this page if data is now fine.
       setApiError(null);
       setIsGeneratingFortune(false); // Turn off loading indicator
-      router.push('/display-fortune');
+      router.push('/scenario-selection');
     } else {
       console.log('[LinkedInInterlude] Fortune data not yet found in localStorage. Will show loading/wait.');
       setIsGeneratingFortune(true); // Show loading indicator: "Consulting the oracles..."

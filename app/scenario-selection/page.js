@@ -11,6 +11,7 @@ import { loadSlim } from "@tsparticles/slim";
 import scenariosData from '@/lib/predefined_scenarios.json'; // Importing the JSON directly
 
 const MAX_SELECTIONS = 2;
+const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody'; // Added for clarity
 
 export default function ScenarioSelectionScreen() {
   const router = useRouter();
@@ -61,9 +62,8 @@ export default function ScenarioSelectionScreen() {
       if (prevSelected.length < MAX_SELECTIONS) {
         return [...prevSelected, scenarioId];
       }
-      // Optional: Notify user they can only select MAX_SELECTIONS (e.g., using a toast notification)
       console.warn(`Cannot select more than ${MAX_SELECTIONS} scenarios.`);
-      return prevSelected; // Keep current selection if limit reached and trying to add
+      return prevSelected;
     });
   };
 
@@ -75,15 +75,17 @@ export default function ScenarioSelectionScreen() {
     setError(null);
     localStorage.setItem('selectedScenarioIDs', JSON.stringify(selectedScenarioIds));
     
-    // Phase 2: Always navigate to /generating-fortune
-    // In Phase 3, this will become conditional:
-    // const isLinkedInFlow = !!localStorage.getItem('PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY');
-    // if (isLinkedInFlow) {
-    //   router.push('/display-fortune');
-    // } else {
-    //   router.push('/generating-fortune');
-    // }
-    router.push('/generating-fortune'); 
+    const isLinkedInFlow = !!localStorage.getItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+
+    if (isLinkedInFlow) {
+      // For LinkedIn flow, fortuneData should already be in localStorage from the interlude's background fetch.
+      // PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY can now be removed as interlude is done with it.
+      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+      router.push('/display-fortune');
+    } else {
+      // For Manual flow, we still need to generate the main fortune.
+      router.push('/generating-fortune'); 
+    }
   };
 
   if (!init || allScenarios.length === 0 && !error) { // Wait for particles and scenarios to load

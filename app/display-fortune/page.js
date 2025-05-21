@@ -321,7 +321,7 @@ export default function DisplayFortuneScreen() {
 
   const handleSaveAndShare = () => {
     console.log("Save & Share clicked. Fortune:", fortune);
-    router.push('/contact-details');
+    router.push('/scenario-answers');
   };
 
   const handleEnableAudio = () => {
@@ -471,7 +471,7 @@ export default function DisplayFortuneScreen() {
                            rounded-lg shadow-md transform transition-all duration-150 \
                            hover:shadow-xl active:scale-95"
               >
-                Save & Share This Wisdom
+                Click to Realize Your Dreams
               </Button>
             </CardFooter>
           </Card>

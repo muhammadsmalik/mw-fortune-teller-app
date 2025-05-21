@@ -255,28 +255,16 @@ export default function CollectInfoScreen() {
         companyName,
         geographicFocus,
         businessObjective,
-        debugProvider: (isDebugMode && debugForceProvider) ? debugForceProvider : null
+        debugProvider: debugForceProvider,
       };
       localStorage.setItem('userInfoForFortune', JSON.stringify(userInfo));
-      localStorage.setItem('fortuneApp_fullName', fullName);
-      localStorage.setItem('fortuneApp_industry', industryType);
-      localStorage.setItem('fortuneApp_companyName', companyName);
-      if (geographicFocus) localStorage.setItem('fortuneApp_geographicFocus', geographicFocus);
-      else localStorage.removeItem('fortuneApp_geographicFocus');
-      if (businessObjective) localStorage.setItem('fortuneApp_businessObjective', businessObjective);
-      else localStorage.removeItem('fortuneApp_businessObjective');
-      
-      // Clear LinkedIn data if proceeding with manual
+      // Clear LinkedIn specific data if manual flow is chosen
       localStorage.removeItem('userLinkedInProfile');
+      localStorage.removeItem('fetchedLinkedInData');
       localStorage.removeItem('forceRefreshLinkedInData');
-      
-      router.push('/generating-fortune');
-      // Note: setIsGenerating(false) for manual flow might not be needed if navigation is successful
-      // or should be in a try/catch/finally block specific to manual flow if errors here are expected to keep user on page.
-      // For now, successful navigation means this component unmounts.
-    } 
-    // Generic catch and finally for setIsGenerating(false) might be needed if initiateLinkedInFlowAndRedirect doesn't handle it
-    // However, initiateLinkedInFlowAndRedirect handles its own setIsGenerating(false) on error.
+
+      router.push('/scenario-selection');
+    }
   };
 
   if (!init) return null;

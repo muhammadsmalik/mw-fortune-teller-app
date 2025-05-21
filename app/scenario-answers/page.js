@@ -45,16 +45,20 @@ export default function ScenarioAnswersScreen() {
       setIsLoading(true);
       setError(null);
       try {
-        // Phase 1: Use hardcoded scenario IDs
-        const mockSelectedScenarioIDs = ["scenario_1", "scenario_3"]; 
-        // In Phase 2, this will come from localStorage:
-        // const storedScenarioIds = localStorage.getItem('selectedScenarioIDs');
-        // const selectedScenarioIDs = storedScenarioIds ? JSON.parse(storedScenarioIds) : mockSelectedScenarioIDs;
+        const storedScenarioIdsString = localStorage.getItem('selectedScenarioIDs');
+        if (!storedScenarioIdsString) {
+          throw new Error("No scenarios selected. Please go back and select scenarios.");
+        }
+        
+        const selectedScenarioIDs = JSON.parse(storedScenarioIdsString);
+        if (!Array.isArray(selectedScenarioIDs) || selectedScenarioIDs.length === 0) {
+            throw new Error("Selected scenarios are invalid. Please re-select.");
+        }
 
         const response = await fetch('/api/generate-scenario-answers', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ selectedScenarios: mockSelectedScenarioIDs }),
+          body: JSON.stringify({ selectedScenarios: selectedScenarioIDs }),
         });
 
         if (!response.ok) {
@@ -130,7 +134,18 @@ export default function ScenarioAnswersScreen() {
                 <AlertTriangle className="h-10 w-10 text-red-500 mb-4" />
                 <p className="text-xl font-semibold">A Cosmic Glitch!</p>
                 <p className="text-center mt-2">{error}</p>
-                <Button onClick={() => router.push('/collect-info')} className="mt-6">Start Over</Button>
+                <Button 
+                    onClick={() => {
+                        // Attempt to go back to scenario selection, or to collect-info as a fallback
+                        const previousUserPath = localStorage.getItem('userLinkedInProfile') ? '/linkedin-interlude' : '/scenario-selection';
+                        // Heuristic: if linkedin profile exists, user was likely on interlude before display-fortune -> scenario-answers
+                        // If no linkedin, they were on scenario-selection before generating-fortune -> display-fortune -> scenario-answers
+                        // A more robust way would be to store the actual previous path if possible or use a query param.
+                        // For now, this tries to send them to a logical place to re-select scenarios.
+                        router.push(localStorage.getItem('userInfoForFortune') ? '/scenario-selection' : '/collect-info');
+                    }} 
+                    className="mt-6"
+                >Try Selecting Scenarios Again</Button>
               </div>
             )}
 
