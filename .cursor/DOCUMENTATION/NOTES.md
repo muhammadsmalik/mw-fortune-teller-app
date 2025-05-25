@@ -61,3 +61,8 @@ Learn more about Moving Walls: https://www.movingwalls.com/contact-us/
 Best regards,
 Your AI Fortune Teller at Moving Walls
 
+
+
+---
+
+Checkpoint: Fixed manual flow routing to ensure fortunes are generated correctly before display. Both manual and LinkedIn flows now follow a unified path through generating-fortune, enhancing user experience and maintainability.

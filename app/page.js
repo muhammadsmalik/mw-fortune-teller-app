@@ -12,6 +12,33 @@ export default function WelcomeScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
   const videoRef = useRef(null);
+  const [currentCaption, setCurrentCaption] = useState('');
+  const [isVideoPaused, setIsVideoPaused] = useState(true);
+
+  // Transcript data organized into natural phrases for better readability
+  const transcript = [
+    { text: "Welcome brand builder", start: 0, end: 1.92 },
+    { text: "I'm the Moving Walls fortune teller", start: 2.16, end: 5.12 },
+    { text: "Your next breakthrough is one insight away", start: 5.28, end: 9.04 }
+  ];
+
+  // Handle video time updates for captions
+  const handleTimeUpdate = useCallback(() => {
+    if (videoRef.current) {
+      const currentTime = videoRef.current.currentTime;
+      
+      // Find the phrase that should be displayed at current time
+      const activePhrase = transcript.find(item => 
+        currentTime >= item.start && currentTime <= item.end
+      );
+      
+      if (activePhrase) {
+        setCurrentCaption(activePhrase.text);
+      } else {
+        setCurrentCaption('');
+      }
+    }
+  }, [transcript]);
 
   // this should be run only once per application lifetime
   useEffect(() => {
@@ -24,6 +51,30 @@ export default function WelcomeScreen() {
       setInit(true);
     });
   }, []);
+
+  // Add event listeners for video captions
+  useEffect(() => {
+    const video = videoRef.current;
+    if (video) {
+      video.addEventListener('timeupdate', handleTimeUpdate);
+      video.addEventListener('ended', () => setCurrentCaption(''));
+      video.addEventListener('pause', () => {
+        setCurrentCaption('');
+        setIsVideoPaused(true);
+      });
+      video.addEventListener('play', () => setIsVideoPaused(false));
+      
+      return () => {
+        video.removeEventListener('timeupdate', handleTimeUpdate);
+        video.removeEventListener('ended', () => setCurrentCaption(''));
+        video.removeEventListener('pause', () => {
+          setCurrentCaption('');
+          setIsVideoPaused(true);
+        });
+        video.removeEventListener('play', () => setIsVideoPaused(false));
+      };
+    }
+  }, [handleTimeUpdate]);
 
   const particlesLoaded = useCallback(async (container) => {
     // console.log("Particles container loaded", container);
@@ -117,8 +168,10 @@ export default function WelcomeScreen() {
     if (videoRef.current) {
       if (videoRef.current.paused) {
         videoRef.current.play();
+        setIsVideoPaused(false);
       } else {
         videoRef.current.pause();
+        setIsVideoPaused(true);
       }
     }
   };
@@ -138,19 +191,27 @@ export default function WelcomeScreen() {
       {/* The old absolute positioned logo is removed as the footer will cover this area or integrate it later */}
 
       <main className="flex-grow flex flex-col items-center justify-center text-center space-y-8 p-4 relative">
-        {/* AI Avatar Video */}
-        <video
-          ref={videoRef}
-          src="/animations/ai_avatar.mp4"
-          loop
-          playsInline
-          onClick={handleVideoClick}
-          className="h-80 w-80 rounded-full shadow-lg object-cover object-top cursor-pointer"
-          // Consider adding a poster attribute for a static image while the video loads
-          // poster="/animations/ai_avatar_poster.jpg"
-        >
-          Your browser does not support the video tag.
-        </video>
+        {/* AI Avatar Video with Caption Overlay */}
+        <div className="relative">
+          <video
+            ref={videoRef}
+            src="/animations/ai_avatar.mp4"
+            preload="auto"
+            playsInline
+            onClick={handleVideoClick}
+            className="h-80 w-80 rounded-full shadow-lg object-cover object-top cursor-pointer bg-slate-800/50"
+            style={{ aspectRatio: '1/1' }}
+          >
+            Your browser does not support the video tag.
+          </video>
+
+          {/* Caption Overlay */}
+          {currentCaption && (
+            <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/80 text-white px-3 py-1.5 rounded-lg text-sm font-medium max-w-[90%] text-center">
+              {currentCaption}
+            </div>
+          )}
+        </div>
 
         {/* Added Fortune Teller Text */}
         <p className="text-2xl font-medium text-mw-light-blue tracking-wide">
