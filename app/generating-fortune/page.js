@@ -264,7 +264,7 @@ export default function GeneratingFortuneScreen() {
         localStorage.setItem('fortuneApp_industry', fortuneRequestBody.industryType);
         localStorage.setItem('fortuneApp_companyName', fortuneRequestBody.companyName);
         
-        router.push('/display-fortune');
+        router.push('/scenario-selection');
 
       } catch (error) {
         console.error("Error in fortune generation process:", error);
