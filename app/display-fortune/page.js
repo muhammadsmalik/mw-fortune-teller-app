@@ -58,7 +58,7 @@ export default function DisplayFortuneScreen() {
     if (typeof window !== 'undefined') {
       if (!audioContextRef.current) {
         try {
-          console.log('[DisplayFortuneScreen] Attempting to create AudioContext with 24kHz sample rate.');
+          console.log('[DisplayFortuneScreen] Attempting to create AudioContext.');
           audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)();
           console.log('[DisplayFortuneScreen] AudioContext created. State:', audioContextRef.current.state, 'SampleRate:', audioContextRef.current.sampleRate);
         } catch (e) {
@@ -68,7 +68,7 @@ export default function DisplayFortuneScreen() {
       }
       return audioContextRef.current;
     }
-    console.log('[DisplayFortuneScreen] Window undefined, cannot create AudioContext for narration.');
+    console.log('[DisplayFortuneScreen] Window undefined, cannot create AudioContext.');
     return null;
   }, []);
 
@@ -152,13 +152,10 @@ export default function DisplayFortuneScreen() {
     const playNarrationSegment = async (textToNarrate, onEndedCallback) => {
       console.log(`[DisplayFortuneScreen Howler] Attempting to generate narration for: "${textToNarrate}"`);
       
-      if (isNarrating) {
-        console.log('[DisplayFortuneScreen Howler] Already narrating, bailing.');
+      if (isNarrating && howlNarrationRef.current && howlNarrationRef.current.playing()) {
+        console.log('[DisplayFortuneScreen Howler] Already narrating this segment, bailing.');
         return;
       }
-
-      setIsNarrating(true);
-      setNarrationError(null);
 
       if (howlNarrationRef.current) {
         console.log('[DisplayFortuneScreen Howler] Unloading previous Howl narration instance.');
@@ -167,8 +164,8 @@ export default function DisplayFortuneScreen() {
       }
 
       const encodedTextInput = encodeURIComponent(textToNarrate);
-      const voice = 'ballad'; // Assuming ballad voice for display-fortune page as well
-      const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}&instructions=${encodeURIComponent(TTS_INSTRUCTIONS)}`;
+      const voice = 'ballad';
+      const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}`;
 
       console.log('[DisplayFortuneScreen Howler] Using stream URL:', streamUrl);
 
@@ -181,6 +178,8 @@ export default function DisplayFortuneScreen() {
         },
         onplay: () => {
           console.log('[DisplayFortuneScreen Howler] Howler playback started for stream.');
+          setIsNarrating(true);
+          setNarrationError(null);
         },
         onend: () => {
           console.log('[DisplayFortuneScreen Howler] Howler playback ended for stream:', textToNarrate);
@@ -236,7 +235,7 @@ export default function DisplayFortuneScreen() {
 
         const handleCeoAudioError = (e) => {
           console.error('[DisplayFortuneScreen] Error playing CEO audio mp3:', e);
-          setNarrationError("The Oracle's message seems to be incomplete. Please try again.");
+          setNarrationError("The Oracle's message seems to be incomplete. Please try again later.");
           setIsNarrating(false);
           setNarrationStage('done'); 
           audioEl.removeEventListener('ended', handleCeoAudioEnd);
@@ -268,9 +267,8 @@ export default function DisplayFortuneScreen() {
         if (!audioPlaybackAllowed) {
             console.warn('[DisplayFortuneScreen] CEO audio narration skipped: Audio playback not allowed.');
         } else {
-            console.error('[DisplayFortuneScreen] ceoAudioRef.current is null or audio playback not allowed. Cannot play CEO audio.');
+            console.error('[DisplayFortuneScreen] ceoAudioRef.current is null. Cannot play CEO audio.');
         }
-        // Skip to transition if CEO audio cannot be played
         setNarrationStage('transitioning');
       }
     }
@@ -342,10 +340,17 @@ export default function DisplayFortuneScreen() {
 
   const handleEnableAudio = () => {
     setAudioPlaybackAllowed(true);
-    if (audioContextRef.current && audioContextRef.current.state === 'suspended') {
-      audioContextRef.current.resume().then(() => {
-        console.log('[DisplayFortuneScreen] AudioContext resumed by user interaction.');
-      }).catch(e => console.error('[DisplayFortuneScreen] Error resuming AudioContext:', e));
+    const audioCtx = getAudioContext();
+    if (audioCtx && audioCtx.state === 'suspended') {
+      audioCtx.resume().then(() => {
+        console.log('[DisplayFortuneScreen] AudioContext resumed by user interaction (Enable Sound button).');
+      }).catch(e => console.error('[DisplayFortuneScreen] Error resuming AudioContext via Enable Sound:', e));
+    }
+    if (revealChimeRef.current) {
+        revealChimeRef.current.play().then(() => revealChimeRef.current.pause()).catch(() => {});
+    }
+    if (ceoAudioRef.current) {
+        ceoAudioRef.current.play().then(() => ceoAudioRef.current.pause()).catch(() => {});
     }
   };
 
@@ -408,7 +413,6 @@ export default function DisplayFortuneScreen() {
                 <div className="w-[150px] sm:w-[180px] md:w-[200px] flex-shrink-0 order-1 md:order-none flex flex-col items-center relative">
                   {isTransitioningToCeo && (
                     <div className="absolute inset-0 flex items-center justify-center z-10 bg-mw-dark-navy/50 backdrop-blur-sm">
-                      {/* Smoke effect divs and "Transforming..." text removed */}
                     </div>
                   )}
                   <AnimatePresence>
@@ -416,7 +420,7 @@ export default function DisplayFortuneScreen() {
                       <motion.div
                         key="fortune-teller"
                         initial={{ opacity: 1, scale: 1 }}
-                        exit={{ opacity: 0, scale: 0.9, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000 } }} // Half of total duration for fade out
+                        exit={{ opacity: 0, scale: 0.9, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000 } }}
                         className="w-full rounded-lg shadow-md overflow-hidden"
                       >
                         <Image
@@ -434,7 +438,7 @@ export default function DisplayFortuneScreen() {
                     <motion.div
                       key="ceo"
                       initial={{ opacity: 0, scale: 0.9 }}
-                      animate={{ opacity: 1, scale: 1, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000, delay: SMOKE_EFFECT_DURATION_MS / 2000 } }} // Delay and fade in for the other half
+                      animate={{ opacity: 1, scale: 1, transition: { duration: SMOKE_EFFECT_DURATION_MS / 2000, delay: SMOKE_EFFECT_DURATION_MS / 2000 } }}
                       className="w-full rounded-lg shadow-md overflow-hidden"
                     >
                       <Image
