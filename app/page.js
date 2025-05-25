@@ -19,7 +19,8 @@ export default function WelcomeScreen() {
   const transcript = [
     { text: "Welcome brand builder", start: 0, end: 1.92 },
     { text: "I'm the Moving Walls fortune teller", start: 2.16, end: 5.12 },
-    { text: "Your next breakthrough is one insight away", start: 5.28, end: 9.04 }
+    { text: "Your next breakthrough", start: 5.28, end: 7.0 },
+    { text: "...is one insight away", start: 7.0, end: 9.04 }
   ];
 
   // Handle video time updates for captions
