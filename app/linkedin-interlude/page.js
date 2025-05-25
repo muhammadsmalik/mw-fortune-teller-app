@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { motion, AnimatePresence } from 'framer-motion';
+import { Howl } from 'howler';
 
 const FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY = 'fetchedLinkedInData';
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
@@ -48,6 +49,8 @@ export default function LinkedInInterludeScreen() {
   const audioSourceRef = useRef(null);
   // const transitionAudioSourceRef = useRef(null); // Moved
   const [init, setInit] = useState(false); // For particle effects
+  const howlInstanceRef = useRef(null); // For Howler instance
+  // const objectURLRef = useRef(null); // Removed as it's not used in true streaming
 
   // Particles engine initialization
   useEffect(() => {
@@ -126,8 +129,8 @@ export default function LinkedInInterludeScreen() {
         // Only proceed if we are in a state expecting this data (i.e., isGeneratingFortune is true or no apiError blocking)
         // or if monologue has finished (greetingHeardOnce can be a proxy, or a new state like isMonologueFinished)
         // For now, let's assume if isGeneratingFortune is true, we are waiting.
-        // Also, ensure transition audio is not playing.
-        if ((isGeneratingFortune || greetingHeardOnce) && !isTransitionAudioPlaying) { 
+        // Also, ensure transition audio is not playing (if that logic is re-added).
+        if ((isGeneratingFortune || greetingHeardOnce)) { 
           checkForFortuneAndProceed();
         }
       }
@@ -167,8 +170,7 @@ export default function LinkedInInterludeScreen() {
 
   // Effect to fetch and play narration
   useEffect(() => {
-    // Define getNarrationText INSIDE the useEffect
-    const getNarrationText = () => { // Not using useCallback here as it's within useEffect scope
+    const getNarrationText = () => {
       if (!profileInfo.companyName && !profileInfo.jobTitle) {
         console.log('[TTS Frontend] getNarrationText: profileInfo not ready');
         return null;
@@ -188,171 +190,101 @@ export default function LinkedInInterludeScreen() {
 
     const playNarration = async () => {
       const narrationText = getNarrationText();
-      const audioContext = getAudioContext();
 
-      if (!audioContext) {
-        console.error('[TTS Frontend] playNarration: AudioContext not available.');
-        setNarrationError("Audio system not ready. Please click 'Hear Oracle&apos;s Greeting' to enable audio.");
-        setIsNarrating(false);
-        setUserManuallyInitiatedNarration(false);
-        setGreetingHeardOnce(false);
-        return;
-      }
-
-      console.log('[TTS Frontend] playNarration called. Conditions - narrationText:', !!narrationText, 'isNarrating:', isNarrating, 'isLoadingPage:', isLoadingPage, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce, 'audioContextState:', audioContext?.state);
+      console.log('[TTS Frontend Howler] playNarration called. Conditions - narrationText:', !!narrationText, 'isNarrating:', isNarrating, 'isLoadingPage:', isLoadingPage, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce);
 
       if (!narrationText || isNarrating || isLoadingPage || !userManuallyInitiatedNarration || greetingHeardOnce) {
-        // Logging for why playNarration might bail out
-        if(!narrationText) console.log('[TTS Frontend] playNarration: Bailing - No narration text.');
-        if(isNarrating) console.log('[TTS Frontend] playNarration: Bailing - Already narrating.');
-        if(isLoadingPage) console.log('[TTS Frontend] playNarration: Bailing - Page is still loading.');
-        if(!userManuallyInitiatedNarration) console.log('[TTS Frontend] playNarration: Bailing - User has not manually initiated narration.');
-        if(greetingHeardOnce) console.log('[TTS Frontend] playNarration: Bailing - Greeting has already been heard.');
+        if(!narrationText) console.log('[TTS Frontend Howler] playNarration: Bailing - No narration text (profile info likely not ready).');
+        if(isNarrating) console.log('[TTS Frontend Howler] playNarration: Bailing - Already narrating.');
+        if(isLoadingPage) console.log('[TTS Frontend Howler] playNarration: Bailing - Page is still loading.');
+        if(!userManuallyInitiatedNarration) console.log('[TTS Frontend Howler] playNarration: Bailing - User has not manually initiated narration.');
+        if(greetingHeardOnce) console.log('[TTS Frontend Howler] playNarration: Bailing - Greeting has already been heard.');
         return;
       }
 
-      console.log('[TTS Frontend] Starting narration process (post-interaction check).');
-      setIsNarrating(true);
-      setNarrationError(null); // Clear previous errors before new attempt
+      console.log('[TTS Frontend Howler] Starting true streaming narration with Howler.');
+      // setIsNarrating(true); // Set by onplay event now
+
+      if (howlInstanceRef.current) {
+        console.log('[TTS Frontend Howler] Unloading previous Howl instance.');
+        howlInstanceRef.current.unload(); 
+        howlInstanceRef.current = null;
+      }
+      // No objectURLRef cleanup needed here as it's removed
+
+      const encodedTextInput = encodeURIComponent(narrationText);
+      // Voice is hardcoded to ballad for now, as per TTS_INSTRUCTIONS. 
+      // If other voices are used, this needs to be dynamic or passed.
+      const voice = 'ballad'; 
+      const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}`;
+
+      console.log('[TTS Frontend Howler] Using stream URL:', streamUrl);
       
-      console.log('[TTS Frontend] Current AudioContext state before possible resume in playNarration:', audioContext.state);
-      if (audioContext.state === 'suspended') {
-        console.log('[TTS Frontend] AudioContext is suspended in playNarration, attempting to resume.');
-        try {
-          await audioContext.resume();
-          console.log('[TTS Frontend] AudioContext resumed successfully in playNarration. New state:', audioContext.state);
-        } catch (e) {
-          console.error('[TTS Frontend] Error resuming AudioContext in playNarration:', e);
-          setNarrationError("Could not start audio. Please click 'Hear Oracle&apos;s Greeting' again or check browser permissions.");
+      // Set narrating true here, before async operation, to prevent re-entry from rapid state changes if effect re-runs
+      // This is a tradeoff: it might show "Oracle speaks" slightly before audio, but safer for preventing double calls.
+      setIsNarrating(true);
+      setNarrationError(null); // Clear previous errors
+
+      const sound = new Howl({
+        src: [streamUrl],
+        format: ['mp3'],
+        html5: true, 
+        onload: () => {
+          console.log('[TTS Frontend Howler] Howler metadata loaded for stream.');
+        },
+        onplay: () => {
+          console.log('[TTS Frontend Howler] Howler playback started for stream.');
+          // setIsNarrating(true); // Already set before new Howl
+        },
+        onend: () => {
+          console.log('[TTS Frontend Howler] Howler playback ended for stream.');
+          setIsNarrating(false);
+          setGreetingHeardOnce(true);
+          howlInstanceRef.current = null; 
+          checkForFortuneAndProceed();
+        },
+        onloaderror: (id, error) => {
+          console.error('[TTS Frontend Howler] Howler onloaderror for stream:', id, error);
+          setNarrationError(`Oracle's voice stream couldn't be loaded: ${error}. Code: ${id}`);
           setIsNarrating(false);
           setUserManuallyInitiatedNarration(false);
           setGreetingHeardOnce(false);
-          return;
-        }
-      }
-
-      try {
-        console.log('[TTS Frontend] Fetching narration from /api/generate-narration with text:', narrationText.substring(0, 50) + "...", 'and instructions:', TTS_INSTRUCTIONS.substring(0,50) + "...");
-        const response = await fetch('/api/generate-narration', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ textInput: narrationText, instructions: TTS_INSTRUCTIONS }),
-        });
-
-        console.log('[TTS Frontend] API response status:', response.status, 'ok:', response.ok);
-        if (!response.ok) {
-          const errorData = await response.json().catch(() => response.text());
-          console.error('[TTS Frontend] API error response data:', errorData);
-          throw new Error(errorData.error || errorData.details || errorData || `Failed to fetch narration (${response.status})`);
-        }
-
-        const reader = response.body.getReader();
-        let audioBufferChunks = [];
-        let totalLength = 0;
-        console.log('[TTS Frontend] Reading audio stream from API response...');
-
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) {
-            console.log('[TTS Frontend] Audio stream finished.');
-            break;
+          howlInstanceRef.current = null;
+        },
+        onplayerror: (id, error) => {
+          console.error('[TTS Frontend Howler] Howler onplayerror for stream:', id, error);
+          let errorMessage = `Oracle's voice stream couldn't play: ${error}. Code: ${id}`;
+          if (String(error).includes("play() failed because the user didn't interact with the document first")) {
+            errorMessage += " Please click the 'Hear Oracle Greetin' button again.";
           }
-          audioBufferChunks.push(value);
-          totalLength += value.length;
-          // console.log(`[TTS Frontend] Received audio chunk, size: ${value.length}. Total received: ${totalLength}`); // Can be too verbose
-        }
-        console.log('[TTS Frontend] Finished reading stream. Total bytes received:', totalLength);
-
-        if (totalLength === 0) {
-          console.error('[TTS Frontend] No audio data received from stream.');
-          setNarrationError("No audio data was returned from the oracle.");
+          setNarrationError(errorMessage);
           setIsNarrating(false);
-          setUserManuallyInitiatedNarration(false);
+          setUserManuallyInitiatedNarration(false); 
           setGreetingHeardOnce(false);
-          return;
-        }
+          howlInstanceRef.current = null;
+        },
+      });
 
-        const pcmData = new Uint8Array(totalLength);
-        let offset = 0;
-        for (const chunk of audioBufferChunks) {
-          pcmData.set(chunk, offset);
-          offset += chunk.length;
-        }
-        console.log('[TTS Frontend] PCM data concatenated. Total length:', pcmData.length);
-
-        const float32Data = new Float32Array(pcmData.length / 2);
-        for (let i = 0; i < float32Data.length; i++) {
-          let val = pcmData[i * 2] + (pcmData[i * 2 + 1] << 8);
-          if (val >= 0x8000) val |= ~0xFFFF;
-          float32Data[i] = val / 0x8000;
-        }
-        console.log('[TTS Frontend] PCM data converted to Float32Array. Float32Array length:', float32Data.length);
-
-        console.log('[TTS Frontend] Creating AudioBuffer. Channels: 1, Length:', float32Data.length, 'SampleRate:', audioContext.sampleRate);
-        const audioBuffer = audioContext.createBuffer(1, float32Data.length, audioContext.sampleRate);
-        audioBuffer.getChannelData(0).set(float32Data);
-
-        if (audioSourceRef.current) {
-          console.log('[TTS Frontend] Stopping previous audio source.');
-          audioSourceRef.current.stop();
-        }
-        const source = audioContext.createBufferSource();
-        source.buffer = audioBuffer;
-        source.connect(audioContext.destination);
-        console.log('[TTS Frontend] Starting audio playback.');
-        source.start();
-        audioSourceRef.current = source;
-        source.onended = () => {
-            console.log('[TTS Frontend] Audio playback ended.');
-            setIsNarrating(false);
-            setGreetingHeardOnce(true); 
-            audioSourceRef.current = null;
-
-            // If fortune generation wasn't already indicating an error from this page's perspective,
-            // and there's no active narration error that might have cut it short.
-            if (!apiError && !narrationError) { 
-                console.log('[TTS Frontend] Narration ended naturally, checking for fortune data (transition moved).');
-                // playTransitionSequence(); // Old call: Play transition audio instead of directly checking fortune
-                checkForFortuneAndProceed(); // New call: Directly check for fortune
-            } else {
-                if(apiError) console.log('[TTS Frontend] Narration ended, but an API error occurred on this page. Not auto-checking fortune.');
-                if(narrationError) console.log('[TTS Frontend] Narration ended, but a narration error occurred. Not auto-checking fortune.');
-                 // Fallback: if narration had errors, or page has API error, still try to proceed without transition.
-                checkForFortuneAndProceed();
-            }
-        };
-
-      } catch (error) {
-        console.error("[TTS Frontend] Error in playNarration catch block:", error);
-        setNarrationError(`The spirits are quiet: ${error.message}. Please try the greeting again.`);
-        setIsNarrating(false);
-        setUserManuallyInitiatedNarration(false);
-        setGreetingHeardOnce(false);
-      }
+      howlInstanceRef.current = sound;
+      console.log('[TTS Frontend Howler] Initiating playback for stream.');
+      sound.play(); 
     };
 
-    console.log('[TTS Frontend] useEffect for narration triggered. Deps - isLoadingPage:', isLoadingPage, 'profileInfo.companyName:', profileInfo.companyName, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce);
-    if (!isLoadingPage && profileInfo.companyName && userManuallyInitiatedNarration && !greetingHeardOnce) {
-        console.log('[TTS Frontend] Conditions met (data loaded + user interaction), calling playNarration directly.');
+    console.log('[TTS Frontend Howler] useEffect for narration triggered. Deps - isLoadingPage:', isLoadingPage, 'profileInfo.companyName:', profileInfo.companyName, 'userManuallyInitiatedNarration:', userManuallyInitiatedNarration, 'greetingHeardOnce:', greetingHeardOnce, 'apiError:', apiError);
+    if (!isLoadingPage && profileInfo.companyName && userManuallyInitiatedNarration && !greetingHeardOnce && !apiError && !narrationError) {
+        console.log('[TTS Frontend Howler] Conditions met, calling playNarration with Howler.');
         playNarration();
     }
 
     return () => {
-      console.log('[TTS Frontend] Cleanup from narration useEffect (or unmount).');
-      if (audioSourceRef.current) {
-        console.log('[TTS Frontend] Stopping and disconnecting active audio source during cleanup.');
-        audioSourceRef.current.stop();
-        audioSourceRef.current.disconnect();
-        audioSourceRef.current = null;
+      console.log('[TTS Frontend Howler] Cleanup from narration useEffect (or unmount).');
+      if (howlInstanceRef.current) {
+        console.log('[TTS Frontend Howler] Unloading Howl instance during cleanup.');
+        howlInstanceRef.current.unload();
+        howlInstanceRef.current = null;
       }
-      // if (transitionAudioSourceRef.current) { // Moved
-      //   console.log('[TTS Frontend] Stopping and disconnecting active transition audio source during cleanup.');
-      //   transitionAudioSourceRef.current.stop();
-      //   transitionAudioSourceRef.current.disconnect();
-      //   transitionAudioSourceRef.current = null;
-      // }
     };
-  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]); // Removed playTransitionSequence
+  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]); // Removed isNarrating, added narrationError, apiError
 
   // This useEffect loads the profile information to display and for narration text
   useEffect(() => {
@@ -514,47 +446,34 @@ export default function LinkedInInterludeScreen() {
   }, [router]);
 
   const handleInitiateNarration = async () => {
-    console.log('[TTS Frontend] handleInitiateNarration button clicked.');
-    setNarrationError(null); // Clear previous errors on new attempt
-    // setTransitionAudioError(null); // Moved
-    // setIsTransitionAudioPlaying(false); // Moved
-    setGreetingHeardOnce(false); // Added for Issue 2: Reset on new initiation
-    const audioContext = getAudioContext();
-    if (!audioContext) {
-      setNarrationError("Audio playback system could not be initialized. Try refreshing the page.");
-      console.error('[TTS Frontend] handleInitiateNarration: AudioContext creation failed or not available.');
-      return;
+    console.log('[TTS Frontend Howler] handleInitiateNarration button clicked.');
+    setNarrationError(null); 
+    setGreetingHeardOnce(false); 
+    // Howler generally handles AudioContext internally, but user interaction is still key.
+    // Forcing AudioContext resume if suspended can still be beneficial for overall browser audio readiness.
+    const audioCtx = getAudioContext(); // This is the old AudioContext getter
+    if (audioCtx && audioCtx.state === 'suspended') {
+        try {
+            console.log('[TTS Frontend Howler] Attempting to resume existing AudioContext before Howler initiation.');
+            await audioCtx.resume();
+            console.log('[TTS Frontend Howler] AudioContext resumed. State:', audioCtx.state);
+        } catch (e) {
+            console.error('[TTS Frontend Howler] Error resuming AudioContext:', e);
+            setNarrationError("Could not activate audio system. Please check browser permissions.");
+            return; // Don't proceed if audio context can't be resumed
+        }
     }
-
-    console.log('[TTS Frontend] handleInitiateNarration: Current AudioContext state:', audioContext.state);
-    if (audioContext.state === 'suspended') {
-      try {
-        console.log('[TTS Frontend] handleInitiateNarration: Attempting to resume AudioContext due to user interaction.');
-        await audioContext.resume();
-        console.log('[TTS Frontend] handleInitiateNarration: AudioContext resumed successfully. New state:', audioContext.state);
-      } catch (e) {
-        console.error('[TTS Frontend] handleInitiateNarration: Error resuming AudioContext:', e);
-        setNarrationError("Could not activate audio. Please check browser permissions or try a different browser.");
-        setUserManuallyInitiatedNarration(false); // Allow another try by resetting this
-        setGreetingHeardOnce(false); // Added for Issue 2: Reset on new initiation
-        return;
-      }
-    }
-    // If context is already running or resumed successfully, set state to trigger narration effect
     setUserManuallyInitiatedNarration(true);
   };
 
   const handleRevealDestiny = async () => {
-    console.log('[TTS Frontend] handleRevealDestiny (button) called.');
-    if (audioSourceRef.current && audioSourceRef.current.playbackState !== 0 /* FINISHED_STATE */ && typeof audioSourceRef.current.stop === 'function') {
-        console.log('[TTS Frontend] Stopping active narration due to manual reveal destiny click.');
-        audioSourceRef.current.stop(); // onended will fire, which should then call playTransitionSequence
-    } else if (transitionAudioSourceRef.current && transitionAudioSourceRef.current.playbackState !== 0 && typeof transitionAudioSourceRef.current.stop === 'function') {
-        console.log('[TTS Frontend] Stopping active transition audio due to manual reveal destiny click.');
-        transitionAudioSourceRef.current.stop(); // onended of this will fire, which calls checkForFortuneAndProceed if it's the last one
+    console.log('[TTS Frontend Howler] handleRevealDestiny (button) called.');
+    if (howlInstanceRef.current && howlInstanceRef.current.playing()) {
+        console.log('[TTS Frontend Howler] Stopping active Howler narration due to manual reveal destiny click.');
+        howlInstanceRef.current.stop(); // This will trigger onend if playing, or just stop.
+                                      // onend will then call checkForFortuneAndProceed
     } else {
-      // If no audio is playing, or it has finished, directly check for fortune.
-      console.log('[TTS Frontend] No active audio or audio finished, directly checking for fortune.');
+      console.log('[TTS Frontend Howler] No active Howler audio or audio finished, directly checking for fortune.');
       checkForFortuneAndProceed();
     }
   };

@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import AudioPlayer from '@/components/AudioPlayer';
 import { Loader2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Howl } from 'howler';
 
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
 A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
@@ -37,7 +37,7 @@ export default function DisplayFortuneScreen() {
   const [narrationStage, setNarrationStage] = useState('idle');
 
   const audioContextRef = useRef(null);
-  const narrationAudioSourceRef = useRef(null);
+  const howlNarrationRef = useRef(null);
   const revealChimeRef = useRef(null);
   const ceoAudioRef = useRef(null); // Added for CEO audio
 
@@ -59,11 +59,10 @@ export default function DisplayFortuneScreen() {
       if (!audioContextRef.current) {
         try {
           console.log('[DisplayFortuneScreen] Attempting to create AudioContext with 24kHz sample rate.');
-          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 });
+          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)();
           console.log('[DisplayFortuneScreen] AudioContext created. State:', audioContextRef.current.state, 'SampleRate:', audioContextRef.current.sampleRate);
         } catch (e) {
           console.error('[DisplayFortuneScreen] Error creating AudioContext:', e);
-          setNarrationError("Failed to initialize audio system for narration. " + e.message);
           return null;
         }
       }
@@ -137,7 +136,7 @@ export default function DisplayFortuneScreen() {
   }, [init]);
 
   useEffect(() => {
-    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || isNarrating || !hasPreRevealed) {
+    if (!init || !audioPlaybackAllowed || !openingLineToNarrate || !hasPreRevealed) {
       if (openingLineToNarrate && !audioPlaybackAllowed && hasPreRevealed && narrationStage === 'idle') {
         console.log('[DisplayFortuneScreen] Opening line is ready, but waiting for user to enable sound for narration.');
       }
@@ -151,100 +150,67 @@ export default function DisplayFortuneScreen() {
     }
 
     const playNarrationSegment = async (textToNarrate, onEndedCallback) => {
-      console.log(`[DisplayFortuneScreen] Attempting to generate narration for: "${textToNarrate}"`);
-      setIsNarrating(true);
-      setNarrationError(null);
-
-      const audioContext = getAudioContext();
-      if (!audioContext) {
-        setIsNarrating(false);
+      console.log(`[DisplayFortuneScreen Howler] Attempting to generate narration for: "${textToNarrate}"`);
+      
+      if (isNarrating) {
+        console.log('[DisplayFortuneScreen Howler] Already narrating, bailing.');
         return;
       }
 
-      try {
-        if (audioContext.state === 'suspended') {
-          console.log('[DisplayFortuneScreen] AudioContext is suspended, attempting to resume for narration.');
-          await audioContext.resume();
-          console.log('[DisplayFortuneScreen] AudioContext resumed for narration. New state:', audioContext.state);
-        }
+      setIsNarrating(true);
+      setNarrationError(null);
 
-        const response = await fetch('/api/generate-narration', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            textInput: textToNarrate,
-            instructions: TTS_INSTRUCTIONS,
-          }),
-        });
-
-        if (!response.ok) {
-          const errorData = await response.json().catch(() => ({ 
-            error: "Failed to parse error from narration API", 
-            details: `Status: ${response.status} ${response.statusText}` 
-          }));
-          console.error('[DisplayFortuneScreen] Narration API request failed:', errorData);
-          throw new Error(errorData.error || errorData.details || `Narration API request failed (${response.status})`);
-        }
-
-        const reader = response.body.getReader();
-        let audioBufferChunks = [];
-        let totalLength = 0;
-
-        while (true) {
-          const { done, value } = await reader.read();
-          if (done) break;
-          audioBufferChunks.push(value);
-          totalLength += value.length;
-        }
-
-        if (totalLength === 0) {
-          console.error('[DisplayFortuneScreen] Narration API returned empty audio stream.');
-          throw new Error("Received empty audio stream from Oracle.");
-        }
-
-        const pcmData = new Uint8Array(totalLength);
-        let offset = 0;
-        for (const chunk of audioBufferChunks) {
-          pcmData.set(chunk, offset);
-          offset += chunk.length;
-        }
-
-        const float32Data = new Float32Array(pcmData.length / 2);
-        for (let i = 0; i < float32Data.length; i++) {
-          let val = pcmData[i * 2] + (pcmData[i * 2 + 1] << 8);
-          if (val >= 0x8000) val |= ~0xFFFF;
-          float32Data[i] = val / 0x8000;
-        }
-        
-        const audioBuffer = audioContext.createBuffer(1, float32Data.length, audioContext.sampleRate);
-        audioBuffer.getChannelData(0).set(float32Data);
-
-        if (narrationAudioSourceRef.current) {
-          narrationAudioSourceRef.current.stop();
-          narrationAudioSourceRef.current.disconnect();
-        }
-        
-        const source = audioContext.createBufferSource();
-        source.buffer = audioBuffer;
-        source.connect(audioContext.destination);
-        source.start();
-        narrationAudioSourceRef.current = source;
-        
-        console.log('[DisplayFortuneScreen] Narration audio is now playing via Web Audio API.');
-
-        source.onended = () => {
-          console.log('[DisplayFortuneScreen] Narration audio playback ended for:', textToNarrate);
-          narrationAudioSourceRef.current = null;
-          setIsNarrating(false);
-          if (onEndedCallback) onEndedCallback();
-        };
-
-      } catch (error) {
-        console.error('[DisplayFortuneScreen] Error generating or playing narration:', error);
-        setNarrationError(`The Oracle's voice seems to be lost in the ether. ${error.message}`);
-        setIsNarrating(false);
-        setNarrationStage('done');
+      if (howlNarrationRef.current) {
+        console.log('[DisplayFortuneScreen Howler] Unloading previous Howl narration instance.');
+        howlNarrationRef.current.unload();
+        howlNarrationRef.current = null;
       }
+
+      const encodedTextInput = encodeURIComponent(textToNarrate);
+      const voice = 'ballad'; // Assuming ballad voice for display-fortune page as well
+      const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}&instructions=${encodeURIComponent(TTS_INSTRUCTIONS)}`;
+
+      console.log('[DisplayFortuneScreen Howler] Using stream URL:', streamUrl);
+
+      const sound = new Howl({
+        src: [streamUrl],
+        format: ['mp3'],
+        html5: true,
+        onload: () => {
+          console.log('[DisplayFortuneScreen Howler] Howler metadata loaded for stream.');
+        },
+        onplay: () => {
+          console.log('[DisplayFortuneScreen Howler] Howler playback started for stream.');
+        },
+        onend: () => {
+          console.log('[DisplayFortuneScreen Howler] Howler playback ended for stream:', textToNarrate);
+          setIsNarrating(false);
+          howlNarrationRef.current = null;
+          if (onEndedCallback) onEndedCallback();
+        },
+        onloaderror: (id, error) => {
+          console.error('[DisplayFortuneScreen Howler] Howler onloaderror for stream:', id, error);
+          setNarrationError(`The Oracle's voice stream couldn't be loaded: ${error}. Code: ${id}`);
+          setIsNarrating(false);
+          howlNarrationRef.current = null;
+          if (onEndedCallback) onEndedCallback();
+        },
+        onplayerror: (id, error) => {
+          console.error('[DisplayFortuneScreen Howler] Howler onplayerror for stream:', id, error);
+          let errorMessage = `The Oracle's voice stream couldn't play: ${error}. Code: ${id}`;
+          if (String(error).includes("play() failed because the user didn't interact with the document first")) {
+            errorMessage += " Please click 'Enable Sound' or interact with the page.";
+          }
+          setNarrationError(errorMessage);
+          setIsNarrating(false);
+          howlNarrationRef.current = null;
+          if (onEndedCallback) onEndedCallback();
+        },
+      });
+
+      howlNarrationRef.current = sound;
+      console.log('[DisplayFortuneScreen Howler] Initiating playback for stream.');
+      sound.play();
     };
 
     if (narrationStage === 'openingLine' && !isNarrating) {
@@ -310,18 +276,17 @@ export default function DisplayFortuneScreen() {
     }
 
     return () => {
-      if (narrationAudioSourceRef.current) {
-        console.log('[DisplayFortuneScreen] Cleaning up: Stopping narration audio source.');
-        narrationAudioSourceRef.current.stop();
-        narrationAudioSourceRef.current.disconnect();
-        narrationAudioSourceRef.current = null;
+      if (howlNarrationRef.current) {
+        console.log('[DisplayFortuneScreen Howler] Cleaning up: Unloading Howl narration instance.');
+        howlNarrationRef.current.unload();
+        howlNarrationRef.current = null;
       }
       if (revealChimeRef.current) {
         revealChimeRef.current.pause();
         revealChimeRef.current.currentTime = 0;
       }
     };
-  }, [init, openingLineToNarrate, getAudioContext, isNarrating, audioPlaybackAllowed, hasPreRevealed, narrationStage]);
+  }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage]);
 
   useEffect(() => {
     if (narrationStage === 'transitioning') {
