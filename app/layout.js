@@ -1,6 +1,7 @@
 import { Inter, Nunito, Caveat, Poppins } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from "@/components/theme-provider";
+import BackgroundMusic from "@/components/BackgroundMusic";
 
 const inter = Inter({
   subsets: ['latin'],
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
           disableTransitionOnChange
         >
           {children}
+          <BackgroundMusic />
         </ThemeProvider>
       </body>
     </html>
