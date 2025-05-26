@@ -25,6 +25,7 @@ export default function ScenarioSelectionScreen() {
   const [allScenarios, setAllScenarios] = useState([]);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
   const [error, setError] = useState(null);
+  const [isNavigationInProgress, setIsNavigationInProgress] = useState(false);
 
   // State and Refs for audio transition (moved from linkedin-interlude)
   const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false);
@@ -93,6 +94,7 @@ export default function ScenarioSelectionScreen() {
 
   // Function to navigate after transition (new)
   const navigateToDisplayFortune = useCallback(() => {
+    setIsNavigationInProgress(true);
     const storedFortuneDataString = localStorage.getItem('fortuneData');
     const storedFortuneError = localStorage.getItem('fortuneGenerationError');
 
@@ -374,109 +376,111 @@ export default function ScenarioSelectionScreen() {
        </div>
 
       {/* New main container for Avatar and Card */}
-      <main className="w-full flex flex-row items-center justify-center gap-8 z-10 my-12 px-4 sm:px-0">
-        {/* Avatar Image - Now to the left of the card */}
-        {!isTransitionAudioPlaying && (
-          <div 
-            className="z-20 cursor-pointer transition-transform duration-200 hover:scale-105 active:scale-95 self-center hidden lg:block" // hidden on smaller screens, adjust as needed
-            onClick={() => {
-              if (!isGreetingAudioPlaying) {
-                playGreetingAudio(AVATAR_GREETING_AUDIO_PATH);
-              } else {
-                console.log('[TTS Frontend - ScenarioSelection] Greeting audio already playing or action pending.');
-              }
-            }}
-            title="Hear a greeting"
-          >
-            <Image 
-              src="/avatar/genie-pointing-left.png" 
-              alt="Fortune Teller Avatar"
-              width={250} // Increased size
-              height={375} // Increased size, adjust aspect ratio if needed
-              className={`drop-shadow-xl ${isGreetingAudioPlaying ? 'animate-pulse' : ''}`}
-            />
-          </div>
-        )}
+      {!isNavigationInProgress && (
+        <main className="w-full flex flex-row items-center justify-center gap-8 z-10 my-12 px-4 sm:px-0">
+          {/* Avatar Image - Now to the left of the card */}
+          {!isTransitionAudioPlaying && (
+            <div 
+              className="z-20 cursor-pointer transition-transform duration-200 hover:scale-105 active:scale-95 self-center hidden lg:block" // hidden on smaller screens, adjust as needed
+              onClick={() => {
+                if (!isGreetingAudioPlaying) {
+                  playGreetingAudio(AVATAR_GREETING_AUDIO_PATH);
+                } else {
+                  console.log('[TTS Frontend - ScenarioSelection] Greeting audio already playing or action pending.');
+                }
+              }}
+              title="Hear a greeting"
+            >
+              <Image 
+                src="/avatar/genie-pointing-left.png" 
+                alt="Fortune Teller Avatar"
+                width={250} // Increased size
+                height={375} // Increased size, adjust aspect ratio if needed
+                className={`drop-shadow-xl ${isGreetingAudioPlaying ? 'animate-pulse' : ''}`}
+              />
+            </div>
+          )}
 
-        {/* Card container - keeping its original max-width and styling */}
-        <div className="w-full max-w-3xl">
-          <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
-            <CardHeader className="text-center pt-6 sm:pt-8">
-              <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
-                Choose Two Scenarios to Explore
-              </CardTitle>
-              <p className="text-mw-white/70 text-sm mt-2">
-                Select exactly {MAX_SELECTIONS} scenarios that resonate most with your current business focus.
-              </p>
-            </CardHeader>
-            <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
-              {error && !isTransitionAudioPlaying && (
-                  <div className="mb-4 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
-                      {error}
+          {/* Card container - keeping its original max-width and styling */}
+          <div className="w-full max-w-3xl">
+            <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
+              <CardHeader className="text-center pt-6 sm:pt-8">
+                <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
+                  Choose Two Scenarios to Explore
+                </CardTitle>
+                <p className="text-mw-white/70 text-sm mt-2">
+                  Select exactly {MAX_SELECTIONS} scenarios that resonate most with your current business focus.
+                </p>
+              </CardHeader>
+              <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
+                {error && !isTransitionAudioPlaying && (
+                    <div className="mb-4 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
+                        {error}
+                    </div>
+                )}
+                {transitionAudioError && (
+                  <div className="mb-4 p-3 text-center text-orange-400 bg-orange-900/30 border border-orange-500/50 rounded-md">
+                    <p className="font-semibold">Transition Disrupted:</p>
+                    <p>{transitionAudioError}</p>
+                    <Button variant="link" onClick={navigateToDisplayFortune} className="text-mw-light-blue hover:text-mw-gold mt-1">
+                        Attempt to Proceed Anyway?
+                    </Button>
                   </div>
-              )}
-              {transitionAudioError && (
-                <div className="mb-4 p-3 text-center text-orange-400 bg-orange-900/30 border border-orange-500/50 rounded-md">
-                  <p className="font-semibold">Transition Disrupted:</p>
-                  <p>{transitionAudioError}</p>
-                  <Button variant="link" onClick={navigateToDisplayFortune} className="text-mw-light-blue hover:text-mw-gold mt-1">
-                      Attempt to Proceed Anyway?
+                )}
+                {allScenarios.length > 0 ? (
+                  <div className="space-y-4">
+                    {allScenarios.map((scenario) => {
+                      const isSelected = selectedScenarioIds.includes(scenario.id);
+                      return (
+                        <div
+                          key={scenario.id}
+                          onClick={() => handleScenarioToggle(scenario.id)}
+                          className={`p-4 rounded-lg border cursor-pointer transition-all duration-200 ease-in-out 
+                                      flex items-center space-x-3 
+                                      ${isSelected 
+                                        ? 'bg-mw-light-blue/20 border-mw-light-blue shadow-lg' 
+                                        : 'bg-mw-dark-blue/30 border-mw-light-blue/30 hover:bg-mw-light-blue/10'}
+                                  `}
+                        >
+                          {isSelected ? 
+                            <CheckSquare className="h-6 w-6 text-mw-gold flex-shrink-0" /> : 
+                            <Square className="h-6 w-6 text-mw-white/50 flex-shrink-0" />
+                          }
+                          <span className={`text-base ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}>
+                            {scenario.displayText}
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                ) : (
+                  !error && <p className="text-center text-mw-white/70">Loading scenarios...</p>
+                )}
+              </CardContent>
+              {allScenarios.length > 0 && (
+                <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
+                  <Button
+                    onClick={handleProceed}
+                    size="lg"
+                    className="px-8 py-3 text-lg font-semibold \
+                               bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
+                               text-mw-dark-navy \
+                               hover:opacity-90 \
+                               rounded-lg shadow-md transform transition-all duration-150 \
+                               hover:shadow-xl active:scale-95"
+                    disabled={selectedScenarioIds.length !== MAX_SELECTIONS || isTransitionAudioPlaying}
+                  >
+                    {isTransitionAudioPlaying ? 
+                      <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> The Veil Thins...</> :
+                      `Proceed with ${selectedScenarioIds.length}/${MAX_SELECTIONS} Selected`
+                    }
                   </Button>
-                </div>
+                </CardFooter>
               )}
-              {allScenarios.length > 0 ? (
-                <div className="space-y-4">
-                  {allScenarios.map((scenario) => {
-                    const isSelected = selectedScenarioIds.includes(scenario.id);
-                    return (
-                      <div
-                        key={scenario.id}
-                        onClick={() => handleScenarioToggle(scenario.id)}
-                        className={`p-4 rounded-lg border cursor-pointer transition-all duration-200 ease-in-out 
-                                    flex items-center space-x-3 
-                                    ${isSelected 
-                                      ? 'bg-mw-light-blue/20 border-mw-light-blue shadow-lg' 
-                                      : 'bg-mw-dark-blue/30 border-mw-light-blue/30 hover:bg-mw-light-blue/10'}
-                                `}
-                      >
-                        {isSelected ? 
-                          <CheckSquare className="h-6 w-6 text-mw-gold flex-shrink-0" /> : 
-                          <Square className="h-6 w-6 text-mw-white/50 flex-shrink-0" />
-                        }
-                        <span className={`text-base ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}>
-                          {scenario.displayText}
-                        </span>
-                      </div>
-                    );
-                  })}
-                </div>
-              ) : (
-                !error && <p className="text-center text-mw-white/70">Loading scenarios...</p>
-              )}
-            </CardContent>
-            {allScenarios.length > 0 && (
-              <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
-                <Button
-                  onClick={handleProceed}
-                  size="lg"
-                  className="px-8 py-3 text-lg font-semibold \
-                             bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
-                             text-mw-dark-navy \
-                             hover:opacity-90 \
-                             rounded-lg shadow-md transform transition-all duration-150 \
-                             hover:shadow-xl active:scale-95"
-                  disabled={selectedScenarioIds.length !== MAX_SELECTIONS || isTransitionAudioPlaying}
-                >
-                  {isTransitionAudioPlaying ? 
-                    <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> The Veil Thins...</> :
-                    `Proceed with ${selectedScenarioIds.length}/${MAX_SELECTIONS} Selected`
-                  }
-                </Button>
-              </CardFooter>
-            )}
-          </Card>
-        </div>
-      </main>
+            </Card>
+          </div>
+        </main>
+      )}
 
       {/* Greeting Audio Error Display - position might need adjustment based on new layout */}
       {greetingAudioError && (

@@ -67,7 +67,7 @@ Your AI Fortune Teller at Moving Walls
 
 Checkpoint: 
 
-1. Fixed manual flow routing to ensure fortunes are generated correctly before display. Both manual and LinkedIn flows now follow a unified path through generating-fortune, enhancing user experience and maintainability.
+1. Fixed manual flow routing to ensure fortunes are generated correctly before display. Both manual and LinkedIn flows now follow a unified path through generating-fortune.
 
 2. Added bg music that's persistent across all the screens.
 
@@ -75,6 +75,17 @@ Checkpoint:
 
 4. Implemented streaming audio to reduce delay from 6+ seconds to 2-3 seconds
 
+5. Added back button to the following screens:
+
+collect-info
+contact-details
+display-fortune
+scenario-answers
+scenario-selection
+
+6. Added dramatic sound effect after right before revealing fortune.
+
+7. 
 
 
 ⸻
