@@ -21,7 +21,18 @@ The speech has a *deliberate elegance*, often flowing like ancient poetry or son
 There might be traces of archaic or exotic accents, difficult to place—part Middle Eastern, part celestial, part something entirely unearthly. The vowels stretch luxuriously, and the consonants often land with a whispered crispness, like dry leaves brushing against stone. When casting spel`;
 
 // const CEO_NARRATION_TEXT = "But fate does not speak idly. It brings you to those you're meant to meet. My role here is done… and as I fade, another takes my place. He walks the road you now stand before. Connect with him — your timing is no accident.";
-const SMOKE_EFFECT_DURATION_MS = 2000; // 3 seconds for smoke effect
+const SMOKE_EFFECT_DURATION_MS = 2000; // 2 seconds for smoke effect
+
+const CEO_TRANSCRIPT = [
+  { text: "You've been searching, wandering...", start: 0, end: 2.8 },
+  { text: "wondering if this is truly your time.", start: 2.9, end: 6.32 },
+  { text: "Let me tell you, the signs are undeniable.", start: 7.1, end: 10.88 },
+  { text: "You've come to the right place.", start: 11.3, end: 12.96 },
+  { text: "This is where visions become reality...", start: 13.6, end: 16.49 },
+  { text: "...and dreams are no longer just whispers in the dark.", start: 16.5, end: 20.89 },
+  { text: "The ones you meet here...", start: 21.2, end: 22.97 },
+  { text: "...they will help you shape your destiny.", start: 23.2, end: 25.53 }
+];
 
 export default function DisplayFortuneScreen() {
   const router = useRouter();
@@ -33,6 +44,7 @@ export default function DisplayFortuneScreen() {
   const [openingLineToNarrate, setOpeningLineToNarrate] = useState('');
   const [isNarrating, setIsNarrating] = useState(false);
   const [narrationError, setNarrationError] = useState(null);
+  const [currentCeoCaption, setCurrentCeoCaption] = useState(''); // Added for CEO captions
 
   const [narrationStage, setNarrationStage] = useState('idle');
 
@@ -71,6 +83,21 @@ export default function DisplayFortuneScreen() {
     console.log('[DisplayFortuneScreen] Window undefined, cannot create AudioContext.');
     return null;
   }, []);
+
+  // Memoized handler for CEO audio time updates
+  const handleCeoTimeUpdate = useCallback(() => {
+    if (ceoAudioRef.current) {
+      const currentTime = ceoAudioRef.current.currentTime;
+      const activePhrase = CEO_TRANSCRIPT.find(
+        (phrase) => currentTime >= phrase.start && currentTime <= phrase.end
+      );
+      if (activePhrase) {
+        setCurrentCeoCaption(activePhrase.text);
+      } else {
+        setCurrentCeoCaption('');
+      }
+    }
+  }, []); // No dependencies needed as CEO_TRANSCRIPT is constant and ceoAudioRef is a ref
 
   useEffect(() => {
     if (!init) return;
@@ -152,8 +179,8 @@ export default function DisplayFortuneScreen() {
     const playNarrationSegment = async (textToNarrate, onEndedCallback) => {
       console.log(`[DisplayFortuneScreen Howler] Attempting to generate narration for: "${textToNarrate}"`);
       
-      if (isNarrating && howlNarrationRef.current && howlNarrationRef.current.playing()) {
-        console.log('[DisplayFortuneScreen Howler] Already narrating this segment, bailing.');
+      if (isNarrating && howlNarrationRef.current && howlNarrationRef.current.playing() && narrationStage === 'openingLine') {
+        console.log('[DisplayFortuneScreen Howler] Already narrating this segment (opening line), bailing.');
         return;
       }
 
@@ -221,29 +248,42 @@ export default function DisplayFortuneScreen() {
       // Play pre-recorded CEO audio
       if (ceoAudioRef.current && audioPlaybackAllowed) {
         console.log('[DisplayFortuneScreen] Attempting to play CEO audio mp3.');
-        setIsNarrating(true);
-        setNarrationError(null);
+        setCurrentCeoCaption(''); // Clear any old captions
         const audioEl = ceoAudioRef.current;
+
+        const handleCeoAudioPlay = () => {
+          console.log('[DisplayFortuneScreen] CEO audio mp3 playback started via event.');
+          setIsNarrating(true);
+          setNarrationError(null);
+        };
 
         const handleCeoAudioEnd = () => {
           console.log('[DisplayFortuneScreen] CEO audio mp3 playback ended.');
           setIsNarrating(false);
+          setCurrentCeoCaption('');
           setNarrationStage('transitioning');
           audioEl.removeEventListener('ended', handleCeoAudioEnd);
           audioEl.removeEventListener('error', handleCeoAudioError);
+          audioEl.removeEventListener('timeupdate', handleCeoTimeUpdate);
+          audioEl.removeEventListener('play', handleCeoAudioPlay);
         };
 
         const handleCeoAudioError = (e) => {
           console.error('[DisplayFortuneScreen] Error playing CEO audio mp3:', e);
           setNarrationError("The Oracle's message seems to be incomplete. Please try again later.");
           setIsNarrating(false);
+          setCurrentCeoCaption('');
           setNarrationStage('done'); 
           audioEl.removeEventListener('ended', handleCeoAudioEnd);
           audioEl.removeEventListener('error', handleCeoAudioError);
+          audioEl.removeEventListener('timeupdate', handleCeoTimeUpdate);
+          audioEl.removeEventListener('play', handleCeoAudioPlay);
         };
 
         audioEl.addEventListener('ended', handleCeoAudioEnd);
         audioEl.addEventListener('error', handleCeoAudioError);
+        audioEl.addEventListener('timeupdate', handleCeoTimeUpdate);
+        audioEl.addEventListener('play', handleCeoAudioPlay);
         
         // Ensure AudioContext is resumed if suspended, for browsers that require interaction
         const audioContext = getAudioContext();
@@ -283,8 +323,18 @@ export default function DisplayFortuneScreen() {
         revealChimeRef.current.pause();
         revealChimeRef.current.currentTime = 0;
       }
+      // Cleanup CEO audio listeners if component unmounts while it might be playing
+      if (ceoAudioRef.current) {
+        // Define dummy handlers for removeEventListener if they weren't defined (e.g. if audio never played)
+        // This is a bit of a safeguard; ideally, listeners are added only when play starts.
+        // However, the main logic attaches them before play.
+        ceoAudioRef.current.removeEventListener('timeupdate', handleCeoTimeUpdate);
+        // We don't have direct refs to handleCeoAudioPlay, handleCeoAudioEnd, handleCeoAudioError here for removal
+        // This is okay because they are removed within themselves, or when audioEl is reassigned or component unmounts.
+        // The critical one is timeupdate.
+      }
     };
-  }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage]);
+  }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage, handleCeoTimeUpdate]); // Added handleCeoTimeUpdate
 
   useEffect(() => {
     if (narrationStage === 'transitioning') {
@@ -453,18 +503,26 @@ export default function DisplayFortuneScreen() {
                   )}
                   {!isTransitioningToCeo && (
                     <p className="text-center text-mw-white mt-3 font-semibold">
-                      {showCeoImage ? "Moving Walls" : "Fortune Teller"}
+                      {showCeoImage ? "Moving Walls" : narrationStage === 'ceoNarration' ? "Moving Walls" : "Fortune Teller"}
                     </p>
                   )}
-                  {isNarrating && (
-                    <p className="text-mw-light-blue text-sm mt-2 text-center animate-pulse">
-                      <Loader2 className="inline-block mr-2 h-4 w-4 animate-spin" />
-                      The oracle is speaking...
-                    </p>
-                  )}
-                  {narrationError && !isNarrating && (
-                    <p className="text-red-400 text-xs mt-2 text-center px-2">{narrationError}</p>
-                  )}
+                  {/* Status/Caption Area - updated for clarity and better styling */}
+                  <div className="h-12 mt-2 flex flex-col items-center justify-center w-full px-1 min-w-[180px]"> {/* Container for stability */}
+                    {isNarrating && narrationStage === 'openingLine' && openingLineToNarrate && (
+                      <div className="bg-black/70 text-white px-2 py-1 rounded-md text-xs font-medium text-center shadow-lg max-w-full flex items-center">
+                        <Loader2 className="inline-block mr-2 h-3 w-3 animate-spin flex-shrink-0" />
+                        <span>{openingLineToNarrate}</span>
+                      </div>
+                    )}
+                    {isNarrating && narrationStage === 'ceoNarration' && currentCeoCaption && (
+                      <div className="bg-black/70 text-white px-2 py-1 rounded-md text-xs font-medium text-center shadow-lg max-w-full">
+                        {currentCeoCaption}
+                      </div>
+                    )}
+                    {narrationError && !isNarrating && (
+                      <p className="text-red-400 text-xs mt-1 text-center px-2">{narrationError}</p>
+                    )}
+                  </div>
                 </div>
 
                 <div className="w-full md:flex-1 order-2 md:order-none">
