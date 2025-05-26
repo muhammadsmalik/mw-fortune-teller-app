@@ -85,7 +85,11 @@ scenario-selection
 
 6. Added dramatic sound effect after right before revealing fortune.
 
-7. 
+7. Fixed screen glitching/reappearing at the end of scenario selection screen (right before fortune reveal)
+
+8. Implemented conditional flow for scenario selection part 2 based on either media owner or agency.
+
+
 
 
 ⸻

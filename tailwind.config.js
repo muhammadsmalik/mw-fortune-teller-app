@@ -21,6 +21,7 @@ module.exports = {
         'mw-light-blue': 'var(--mw-light-blue-hex, #5BADDE)',
         'mw-white': 'var(--mw-white-hex, #FFFFFF)',
         'mw-gradient-blue-darker': 'var(--mw-gradient-blue-darker-hex, #3A7BBF)',
+        'mw-gold': '#FEDA24',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
