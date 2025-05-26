@@ -71,6 +71,10 @@ Checkpoint:
 
 2. Added bg music that's persistent across all the screens.
 
+3. Added captioning to both welcome screen and display fortune screen
+
+4. Implemented streaming audio to reduce delay from 6+ seconds to 2-3 seconds
+
 
 
 ⸻

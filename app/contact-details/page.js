@@ -21,7 +21,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
-import { Mail, Loader2, AlertCircle, CheckCircle2 } from 'lucide-react';
+import { Mail, Loader2, AlertCircle, CheckCircle2, ArrowLeft } from 'lucide-react';
 import Image from 'next/image';
 
 export default function ContactDetailsPage() {
@@ -275,6 +275,14 @@ export default function ContactDetailsPage() {
 
   return (
     <div className="min-h-screen bg-mw-dark-navy flex flex-col items-center justify-center p-4 font-roboto">
+      <Button
+        variant="outline"
+        size="icon"
+        className="absolute top-6 left-6 z-20 bg-mw-dark-navy/50 text-mw-white hover:bg-mw-dark-navy/80 border-mw-light-blue/50"
+        onClick={() => router.back()}
+      >
+        <ArrowLeft className="h-5 w-5" />
+      </Button>
       <Card className="w-full max-w-lg bg-card text-mw-white shadow-lg rounded-lg">
         <CardHeader>
           <CardTitle className="text-2xl font-bold tracking-wide text-center">Keep Your Fortune & Connect!</CardTitle>

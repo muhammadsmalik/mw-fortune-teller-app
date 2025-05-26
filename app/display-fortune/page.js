@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import { Loader2 } from 'lucide-react';
+import { Loader2, ArrowLeft } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Howl } from 'howler';
 
@@ -427,6 +427,15 @@ export default function DisplayFortuneScreen() {
       <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
       <audio ref={ceoAudioRef} src="/audio/reach_out_to_mw.mp3" preload="auto" />
       
+      <Button
+          variant="outline"
+          size="icon"
+          className="absolute top-6 left-6 z-20 bg-mw-dark-navy/50 text-mw-white hover:bg-mw-dark-navy/80 border-mw-light-blue/50"
+          onClick={() => router.back()}
+        >
+          <ArrowLeft className="h-5 w-5" />
+      </Button>
+
       {!audioPlaybackAllowed && hasPreRevealed && (
         <div className="absolute top-6 right-6 z-20">
           <Button

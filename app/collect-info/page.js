@@ -10,7 +10,7 @@ import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@
 import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import { Loader2, Mic, MicOff } from 'lucide-react';
+import { Loader2, Mic, MicOff, ArrowLeft } from 'lucide-react';
 import { Scanner } from '@yudiel/react-qr-scanner';
 import Image from 'next/image';
 
@@ -472,6 +472,14 @@ export default function CollectInfoScreen() {
         options={particleOptions}
         className="absolute top-0 left-0 w-full h-full z-[-1]"
       />
+      <Button
+        variant="outline"
+        size="icon"
+        className="absolute top-6 left-6 z-20 bg-mw-dark-navy/50 text-mw-white hover:bg-mw-dark-navy/80 border-mw-light-blue/50"
+        onClick={() => router.back()}
+      >
+        <ArrowLeft className="h-5 w-5" />
+      </Button>
       <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
         <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>

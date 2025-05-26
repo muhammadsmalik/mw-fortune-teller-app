@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
-import { CheckSquare, Square, Loader2 } from 'lucide-react';
+import { CheckSquare, Square, Loader2, ArrowLeft } from 'lucide-react';
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import scenariosData from '@/lib/predefined_scenarios.json'; // Importing the JSON directly
@@ -356,6 +356,14 @@ export default function ScenarioSelectionScreen() {
           className="absolute top-0 left-0 w-full h-full z-[-1]"
         />
       )}
+      <Button
+        variant="outline"
+        size="icon"
+        className="absolute top-6 left-6 z-20 bg-mw-dark-navy/50 text-mw-white hover:bg-mw-dark-navy/80 border-mw-light-blue/50"
+        onClick={() => router.push('/collect-info')}
+      >
+        <ArrowLeft className="h-5 w-5" />
+      </Button>
       <div className="absolute top-6 right-6 flex items-center text-sm text-mw-white/70">
         <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
         <span className="font-semibold">Moving Walls</span>
