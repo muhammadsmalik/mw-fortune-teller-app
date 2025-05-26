@@ -718,7 +718,7 @@ export default function ScenarioSelectionScreen() {
       {/* Greeting Audio Error Display - position might need adjustment based on new layout */}
       {greetingAudioError && (
         <div className="fixed bottom-8 left-8 z-30 p-3 text-xs text-orange-300 bg-orange-800/70 border border-orange-600/50 rounded-md max-w-xs">
-          <p className="font-semibold">Oracle's Whisper Faltered:</p>
+          <p className="font-semibold">Oracle&apos;s Whisper Faltered:</p>
           <p>{greetingAudioError}</p>
         </div>
       )}
