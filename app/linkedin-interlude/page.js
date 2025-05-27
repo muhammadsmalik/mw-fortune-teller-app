@@ -112,7 +112,7 @@ export default function LinkedInInterludeScreen() {
       // Clear any potential stale error from this page if data is now fine.
       setApiError(null);
       setIsGeneratingFortune(false); // Turn off loading indicator
-      router.push('/scenario-selection');
+      router.push('/fortune-journey');
     } else {
       console.log('[LinkedInInterlude] Fortune data not yet found in localStorage. Will show loading/wait.');
       setIsGeneratingFortune(true); // Show loading indicator: "Consulting the oracles..."
