@@ -13,8 +13,8 @@ export async function POST(request) {
     if (!selectedScenarios || !Array.isArray(selectedScenarios) || selectedScenarios.length === 0) {
       return NextResponse.json({ error: 'Selected scenarios are required and must be an array.' }, { status: 400 });
     }
-    if (selectedScenarios.length > 2) {
-        return NextResponse.json({ error: 'Maximum of two scenarios can be selected.' }, { status: 400 });
+    if (selectedScenarios.length > 4) {
+        return NextResponse.json({ error: 'Maximum of four scenarios can be processed at once.' }, { status: 400 });
     }
 
     // Read the predefined scenarios from the JSON file

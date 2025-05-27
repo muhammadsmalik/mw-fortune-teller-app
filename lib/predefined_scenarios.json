@@ -1,6 +1,6 @@
 [
   {
-    "id": "scenario_1",
+    "id": "gen_s1",
     "displayText": "I want to know what my top revenue streams will look like in 5 years.",
     "details": {
       "subQuestion": "Will it be from self-serve tools, smarter ad delivery, or measurement services? What should I be doubling down on now?",
@@ -13,7 +13,7 @@
     }
   },
   {
-    "id": "scenario_2",
+    "id": "gen_s2",
     "displayText": "If I suddenly had unlimited budget, I'd want to know which tech investment would give me the biggest competitive edge.",
     "details": {
       "subQuestion": "Should I prioritize a platform like LMX to streamline and scale my operations?",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "id": "scenario_3",
+    "id": "gen_s3",
     "displayText": "I've always wondered—do I really understand my audience?",
     "details": {
       "subQuestion": "If my screens could talk, would they say I'm using the right tools to measure, report, and prove campaign effectiveness?",
@@ -38,7 +38,7 @@
     }
   },
   {
-    "id": "scenario_4",
+    "id": "gen_s4",
     "displayText": "As the industry evolves, what kind of talent or roles should I be building into my team?",
     "details": {
       "subQuestion": "Should I start hiring data analysts, automation experts, or creative technologists to stay ahead?",
@@ -51,7 +51,7 @@
     }
   },
   {
-    "id": "scenario_5",
+    "id": "gen_s5",
     "displayText": "By 2030, will my assets be selling just impressions—or real impact?",
     "details": {
       "subQuestion": "And what's the path to get there? Is it through better tech, smarter delivery, or deeper measurement?",
@@ -61,6 +61,138 @@
         { "icon": "🔄", "text": "Yield Optimization Tools: Dynamically fill underutilized inventory or prioritize high-value campaigns." }
       ],
       "businessImpact": "This transforms your inventory into high-performance media. You're no longer just selling space—you're delivering verified outcomes that justify higher pricing."
+    }
+  },
+  {
+    "id": "mo_q1",
+    "displayText": "How do I get advertisers to keep coming back?",
+    "details": {
+      "subQuestion": "Placeholder: What strategies can ensure advertiser retention and repeat business?",
+      "howMWHelps": [
+        { "icon": "🤝", "text": "Placeholder: Detail how MW helps improve client relationships and campaign success to encourage loyalty." }
+      ],
+      "businessImpact": "Placeholder: Explain the value of high advertiser retention rates."
+    }
+  },
+  {
+    "id": "mo_q2",
+    "displayText": "How do I optimize my inventory pricing and utilization?",
+    "details": {
+      "subQuestion": "Placeholder: What tools and techniques can maximize revenue from existing assets?",
+      "howMWHelps": [
+        { "icon": "⚙️", "text": "Placeholder: Describe MW's yield optimization and dynamic pricing capabilities." }
+      ],
+      "businessImpact": "Placeholder: Highlight increased revenue and efficiency through better inventory management."
+    }
+  },
+  {
+    "id": "mo_q3",
+    "displayText": "How do I attract digital budgets?",
+    "details": {
+      "subQuestion": "Placeholder: How can traditional OOH compete for and win a share of digital advertising spend?",
+      "howMWHelps": [
+        { "icon": "💻", "text": "Placeholder: Explain MW's programmatic capabilities and data-driven targeting that appeal to digital buyers." }
+      ],
+      "businessImpact": "Placeholder: Showcase access to new, larger revenue pools from digital advertisers."
+    }
+  },
+  {
+    "id": "mo_q4",
+    "displayText": "How do I attract SMEs and direct clients?",
+    "details": {
+      "subQuestion": "Placeholder: What makes OOH accessible and appealing to smaller businesses and those booking directly?",
+      "howMWHelps": [
+        { "icon": "🏢", "text": "Placeholder: Describe MW's self-serve platforms or simplified booking processes." }
+      ],
+      "businessImpact": "Placeholder: Emphasize diversification of client base and tapping into the long-tail market."
+    }
+  },
+  {
+    "id": "mo_q5",
+    "displayText": "How do I reduce manual workload in operations?",
+    "details": {
+      "subQuestion": "Placeholder: How can technology streamline campaign management, reporting, and other operational tasks?",
+      "howMWHelps": [
+        { "icon": "🤖", "text": "Placeholder: Detail MW's automation tools for ad serving, scheduling, and reporting." }
+      ],
+      "businessImpact": "Placeholder: Focus on cost savings, reduced errors, and freeing up team capacity for strategic work."
+    }
+  },
+  {
+    "id": "mo_q6",
+    "displayText": "What new innovations or monetization models can I explore?",
+    "details": {
+      "subQuestion": "Placeholder: Beyond traditional ad sales, what are emerging opportunities in OOH?",
+      "howMWHelps": [
+        { "icon": "💡", "text": "Placeholder: Suggest MW's support for new formats, data products, or interactive experiences." }
+      ],
+      "businessImpact": "Placeholder: Illustrate future-proofing the business and creating new revenue streams."
+    }
+  },
+  {
+    "id": "ag_q1",
+    "displayText": "How do I get clients to reinvest in OOH?",
+    "details": {
+      "subQuestion": "Placeholder: How can agencies make a stronger case for OOH in the media mix?",
+      "howMWHelps": [
+        { "icon": "📣", "text": "Placeholder: Provide details on MW's measurement tools and case studies that prove OOH effectiveness." }
+      ],
+      "businessImpact": "Placeholder: Show increased OOH spend from existing clients and stronger campaign results."
+    }
+  },
+  {
+    "id": "ag_q2",
+    "displayText": "How do I optimize campaign delivery and pricing?",
+    "details": {
+      "subQuestion": "Placeholder: What tools can help agencies ensure their clients' OOH campaigns are efficient and cost-effective?",
+      "howMWHelps": [
+        { "icon": "🎯", "text": "Placeholder: Explain MW's targeting, programmatic buying, and performance analytics for agencies." }
+      ],
+      "businessImpact": "Placeholder: Highlight better ROI for clients and improved agency efficiency."
+    }
+  },
+  {
+    "id": "ag_q3",
+    "displayText": "How do I transition my clients into programmatic OOH?",
+    "details": {
+      "subQuestion": "Placeholder: What are the benefits and steps for agencies to guide clients towards pDOOH?",
+      "howMWHelps": [
+        { "icon": "🔄", "text": "Placeholder: Describe MW's pDOOH platform access and educational support for agencies." }
+      ],
+      "businessImpact": "Placeholder: Emphasize access to modern buying methods, flexibility, and data-driven campaigns."
+    }
+  },
+  {
+    "id": "ag_q4",
+    "displayText": "How do I attract new types of advertisers to OOH?",
+    "details": {
+      "subQuestion": "Placeholder: How can agencies expand their client base by showcasing OOH's versatility?",
+      "howMWHelps": [
+        { "icon": "🌟", "text": "Placeholder: Detail MW's solutions for various industries or campaign goals previously not common in OOH." }
+      ],
+      "businessImpact": "Placeholder: Illustrate agency growth by tapping into new client sectors with innovative OOH."
+    }
+  },
+  {
+    "id": "ag_q5",
+    "displayText": "How do I improve planning speed and accuracy?",
+    "details": {
+      "subQuestion": "Placeholder: What tools can streamline the OOH planning and buying process for agencies?",
+      "howMWHelps": [
+        { "icon": "⏱️", "text": "Placeholder: Explain MW's planning tools, inventory discovery, and proposal generation features." }
+      ],
+      "businessImpact": "Placeholder: Focus on faster turnaround times for clients and more competitive proposals."
+    }
+  },
+  {
+    "id": "ag_q6",
+    "displayText": "How do I use data to win more proposals?",
+    "details": {
+      "subQuestion": "Placeholder: How can agencies leverage data to create more compelling and effective OOH strategies?",
+      "howMWHelps": [
+        { "icon": "📊", "text": "Placeholder: Describe MW's audience insights, location analytics, and reporting capabilities for proposal building." }
+      ],
+      "businessImpact": "Placeholder: Highlight higher win rates for proposals and demonstrating strategic value to clients."
     }
   }
 ] 
