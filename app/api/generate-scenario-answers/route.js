@@ -29,11 +29,13 @@ export async function POST(request) {
       const foundScenario = allScenarios.find(s => s.id === selectedId);
       if (foundScenario) {
         return {
-          scenario: foundScenario.displayText, // Or perhaps the full object if needed by frontend
-          insight: foundScenario.details // Send the whole details object
+          id: foundScenario.id,
+          scenario: foundScenario.displayText,
+          insight: foundScenario.details
         };
       }
       return {
+        id: selectedId,
         scenario: `Scenario with ID ${selectedId} not found`,
         insight: { subQuestion: "N/A", howMWHelps: [], businessImpact: "Details not available." }
       };

@@ -161,7 +161,11 @@ export default function ScenarioAnswersScreen() {
 
         const data = await response.json();
         if (data.scenarioAnswers) {
-          setScenarioAnswers(data.scenarioAnswers);
+          // Filter for general scenarios using the ID returned by the API
+          const generalAnswers = data.scenarioAnswers.filter(answer => 
+            answer.id && answer.id.startsWith('gen_')
+          );
+          setScenarioAnswers(generalAnswers);
         } else {
           throw new Error("Scenario answers not found in API response.");
         }
