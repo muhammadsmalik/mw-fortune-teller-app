@@ -50,3 +50,5 @@ linkedin_output/
 scrape_linkedin_data.js
 combine_linkedin_data.js
 combined_linkedin_data.txt
+
+.cursor/n8n-TEMPLATES

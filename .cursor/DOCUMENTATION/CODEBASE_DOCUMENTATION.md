@@ -52,6 +52,158 @@ The user journey typically involves:
 
 ---
 
+## 1.5. User Journey / Application Flow
+
+The application offers two primary user journeys for obtaining a fortune:
+
+**A. LinkedIn QR Code Flow (Automated Data Input)**
+
+1.  **Welcome (`app/page.js` - WelcomeScreen)**:
+    *   User lands on the welcome screen.
+    *   Clicks "Begin Your Journey."
+
+2.  **Information Collection (`app/collect-info/page.js`)**:
+    *   Defaults to the LinkedIn QR code scanning view.
+    *   User scans their LinkedIn QR code using their mobile app.
+    *   The `Scanner` component in `collect-info/page.js` captures the LinkedIn profile URL.
+    *   `initiateLinkedInFlowAndRedirect()` is called:
+        *   The LinkedIn URL is stored in `localStorage` (`userLinkedInProfile`).
+        *   `forceRefreshLinkedInData` is set to 'true' in `localStorage`.
+        *   The system navigates to `/generating-fortune`. (Alternatively, older flows might have gone to `/linkedin-interlude`).
+
+3.  **Generating Fortune (`app/generating-fortune/page.js`)**:
+    *   This page displays loading messages.
+    *   `processFortuneGeneration()` is triggered:
+        *   It retrieves `userLinkedInProfile` from `localStorage`.
+        *   Calls `/api/get-linkedin-company-details` with the URL to fetch profile and latest company data. This data is stored in `localStorage` as `fetchedLinkedInData`.
+        *   It then constructs a request body using `fetchedLinkedInData` (full name, company name, industry, etc.).
+        *   Calls `/api/generate-fortune` to get the personalized fortune.
+        *   On success, the fortune object is stored in `localStorage` (`fortuneData`), along with other helper items like `fortuneApp_fullName`, `fortuneApp_industry`, `fortuneApp_companyName`, `fortuneApp_fortuneText`, and `fortuneApp_structuredFortune`.
+        *   Navigates to `/display-fortune`. (Note: If the `FortuneJourneyPage` orchestrator is used, this might be a direct render within that page rather than a separate navigation after scenario selection).
+
+4.  **Scenario Selection & Fortune Display (Orchestrated by `app/fortune-journey/page.js`)**:
+    *   The `FortuneJourneyPage` likely starts by showing the `ScenarioSelection` component (`components/fortune-journey/ScenarioSelection.js`).
+    *   **Scenario Selection**:
+        *   User selects their role (Media Owner/Agency).
+        *   User selects initial general scenarios (e.g., 2 out of 5).
+        *   User selects role-specific scenarios (e.g., 2 out of N).
+        *   Audio cues (greetings, transitions) may play.
+        *   `onScenariosConfirmed` is called by `ScenarioSelection` with the chosen scenario IDs.
+    *   **Fortune Generation (Re-evaluation/Refinement - if scenarios influence the main fortune)**:
+        *   The `handleScenariosConfirmed` function in `FortuneJourneyPage` receives the scenario data.
+        *   It might re-trigger or refine the fortune generation by calling `/api/generate-fortune` again, possibly including scenario context or just confirming that the previously fetched/generated fortune (from step 3) is now ready to be displayed alongside scenarios. (The current API for `generate-fortune` doesn't explicitly take scenario IDs, so it's more likely the fortune from step 3 is used, and scenarios are for the *next* step).
+        *   `fortuneApiResponse` is populated.
+    *   **Display Fortune**:
+        *   `FortuneJourneyPage` switches its view to render the `DisplayFortune` component (`components/fortune-journey/DisplayFortune.js`).
+        *   `DisplayFortune` receives `fortuneApiResponse` (the fortune data) and `userAudioPreference`.
+        *   It renders the fortune text and imagery.
+        *   Handles audio narration (opening line via TTS, CEO message via pre-recorded audio with captions).
+        *   Manages visual transitions (avatar to CEO image).
+        *   User clicks "Click to Realize Your Dreams" (or similar button).
+
+5.  **Scenario Answers (`app/scenario-answers/page.js`)**:
+    *   Navigated to from `DisplayFortune`.
+    *   Retrieves `selectedScenarioIDs` (set during `ScenarioSelection`) from `localStorage`.
+    *   Calls `/api/generate-scenario-answers` to get detailed insights for these scenarios.
+    *   Displays these answers (often in an accordion).
+    *   Offers options to share the fortune (Email, WhatsApp, Copy).
+    *   User clicks "Proceed to Save & Share" or similar to go to contact details.
+
+6.  **Contact Details (`app/contact-details/page.js`)**:
+    *   Retrieves user data (name, email if available from LinkedIn, fortune text) from `localStorage`.
+    *   **Automated Processing**: If `linkedInEmail` is available, it attempts to:
+        *   Automatically submit lead details to `/api/submit-lead`.
+        *   Automatically send the fortune email via `/api/send-email`.
+    *   **Manual Input**: If no email is pre-filled, or if automation fails/is not configured, prompts the user for their email.
+    *   On submission:
+        *   Calls `/api/submit-lead` to save details to Google Sheets.
+        *   Calls `/api/send-email` to send the fortune.
+    *   Displays success/error messages.
+
+**B. Manual Input Flow**
+
+1.  **Welcome (`app/page.js` - WelcomeScreen)**:
+    *   Same as LinkedIn flow.
+
+2.  **Information Collection (`app/collect-info/page.js`)**:
+    *   User might initially see the QR scanner but can click a link like "No LinkedIn QR? Enter details manually."
+    *   The view switches to the manual input form.
+    *   User fills in: Full Name, Industry Type, Company Name.
+    *   Optionally: Geographic Focus, Business Objective (can use voice input via `/api/transcribe-audio`).
+    *   User can select a debug LLM provider if debug mode is active.
+    *   User clicks "Generate My Fortune!"
+    *   `handleProceed()` is called:
+        *   User info (including any debug provider preference) is stored in `localStorage` (`userInfoForFortune`).
+        *   Navigates to `/generating-fortune`.
+
+3.  **Generating Fortune (`app/generating-fortune/page.js`)**:
+    *   Displays loading messages.
+    *   `processFortuneGeneration()` is triggered:
+        *   It retrieves `userInfoForFortune` from `localStorage`.
+        *   Constructs a request body using this manual data.
+        *   Calls `/api/generate-fortune`.
+        *   On success, stores `fortuneData` and helper items in `localStorage`.
+        *   Navigates to `/display-fortune`. (Again, `FortuneJourneyPage` might intercept this for its orchestrated flow).
+
+4.  **Scenario Selection & Fortune Display (Orchestrated by `app/fortune-journey/page.js`)**:
+    *   Same as step 4 in the LinkedIn flow. The fortune data used by `DisplayFortune` comes from what was generated in step 3 of this manual flow.
+
+5.  **Scenario Answers (`app/scenario-answers/page.js`)**:
+    *   Same as step 5 in the LinkedIn flow.
+
+6.  **Contact Details (`app/contact-details/page.js`)**:
+    *   Retrieves user data (manually entered name, industry, company, fortune text) from `localStorage`.
+    *   Prompts the user for their email (as it wouldn't be pre-filled from LinkedIn).
+    *   On submission:
+        *   Calls `/api/submit-lead`.
+        *   Calls `/api/send-email`.
+    *   Displays success/error messages.
+
+**C. Alternative Scenario Selection Flow (using `app/scenario-selection/page.js` directly)**
+
+This flow might be an older or alternative path, perhaps if `app/fortune-journey/page.js` is not the sole orchestrator.
+
+1.  **Information Collection (Manual or LinkedIn via `/collect-info`, leading to `/generating-fortune`)**:
+    *   User data (`userInfoForFortune` or `fetchedLinkedInData`) and the initial `fortuneData` are stored in `localStorage` as per flows A or B.
+
+2.  **Navigation to Scenario Selection Page**:
+    *   User is somehow navigated to `/scenario-selection` *after* initial fortune generation (this part of the trigger is less clear from the direct page analysis if not coming from `fortune-journey`).
+
+3.  **Scenario Selection (`app/scenario-selection/page.js`)**:
+    *   User selects role and scenarios.
+    *   `handleProceedToFortune()`:
+        *   Stores selected scenario IDs in `localStorage` (`selectedScenarioIDs`).
+        *   **Crucially, stores a `pendingFortuneRequestBody` in `localStorage`. This object includes user details (from `userInfoForFortune` or `fetchedLinkedInData`) AND the `selectedScenarioIDs`.**
+        *   Navigates to `/linkedin-interlude`.
+
+4.  **LinkedIn Interlude (`app/linkedin-interlude/page.js`)**:
+    *   This page seems to be designed to handle the `pendingFortuneRequestBody`.
+    *   It might play narration.
+    *   It listens for `localStorage` changes (`fortuneDataReadyTimestamp`).
+    *   The actual API call using the `pendingFortuneRequestBody` (which includes scenario IDs for context) to `/api/generate-fortune` (or a similar endpoint that processes scenarios) is expected to happen here or be triggered from here, potentially by a background process or another script that reads this "pending" request.
+    *   Once the (potentially scenario-refined) fortune is ready and `fortuneData` is updated in `localStorage`, it navigates to `/display-fortune`.
+
+5.  **Display Fortune, Scenario Answers, Contact Details**:
+    *   Follows from `/display-fortune` as in flows A and B.
+
+**Key Data Flow via `localStorage`:**
+
+*   `userLinkedInProfile`: Stores raw LinkedIn URL.
+*   `userInfoForFortune`: Stores manually entered user data.
+*   `fetchedLinkedInData`: Stores data from `/api/get-linkedin-company-details`.
+*   `fortuneData`: The primary structured fortune object from `/api/generate-fortune`.
+*   `fortuneApp_structuredFortune`: Also stores the structured fortune, likely for easier access by later pages.
+*   `fortuneApp_fortuneText`: Stores the HTML version of the fortune.
+*   `fortuneApp_fullName`, `fortuneApp_industry`, `fortuneApp_companyName`: Helper items for quick access.
+*   `selectedScenarioIDs`: Array of chosen scenario IDs.
+*   `pendingFortuneRequestBody`: (In flow C) Object containing user data and scenario IDs, intended for a delayed/contextual API call.
+*   `forceRefreshLinkedInData`: Flag to ensure fresh LinkedIn data fetch.
+*   `fortuneDataReadyTimestamp`: Timestamp to signal interlude page that fortune is ready.
+
+This section outlines the main paths. Specific UI interactions within components (like enabling audio) are detailed in their respective component documentation.
+
+---
+
 ## 2. Project Structure
 
 The project follows a standard Next.js App Router structure:

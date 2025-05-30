@@ -23,6 +23,8 @@ import {
 } from '@/components/ui/card';
 import { Mail, Loader2, AlertCircle, CheckCircle2, ArrowLeft } from 'lucide-react';
 import Image from 'next/image';
+import { motion } from 'framer-motion';
+import { CheckCircle } from 'lucide-react';
 
 export default function ContactDetailsPage() {
   const router = useRouter();
@@ -49,7 +51,7 @@ export default function ContactDetailsPage() {
   const [linkedInEmail, setLinkedInEmail] = useState('');
   const [autoProcessAttempted, setAutoProcessAttempted] = useState(false);
 
-  const isEverythingDone = isLeadSaved && isEmailSent;
+  const [isEverythingDone, setIsEverythingDone] = useState(false);
 
   useEffect(() => {
     let initialFullName = localStorage.getItem('fortuneApp_fullName');
@@ -221,6 +223,66 @@ export default function ContactDetailsPage() {
     attemptAutoProcess();
   }, [isLinkedInFlow, linkedInEmail, leadData, shareableFortuneText, isLeadSaved, isEmailSent, isProcessing, autoProcessAttempted, sendFortuneEmail]);
 
+  useEffect(() => {
+    if (isLinkedInFlow && linkedInEmail && !autoProcessAttempted && leadData.fullName && leadData.industry && leadData.companyName && shareableFortuneText) {
+      console.log("Attempting auto-processing for LinkedIn flow...");
+      setAutoProcessAttempted(true); // Mark that we've tried
+      
+      const autoSubmitAndEmail = async () => {
+        setIsProcessing(true);
+        let leadSubmissionOk = false;
+        try {
+          const leadResponse = await fetch('/api/submit-lead', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ...leadData, email: linkedInEmail }),
+          });
+          if (leadResponse.ok) {
+            setIsLeadSaved(true);
+            leadSubmissionOk = true;
+            console.log("Auto lead submission successful.");
+          } else {
+            const errorData = await leadResponse.json();
+            console.error("Auto lead submission failed:", errorData.message);
+            // Don't set global error, allow manual attempt
+          }
+        } catch (e) {
+          console.error("Auto lead submission fetch error:", e.message);
+          // Don't set global error
+        }
+
+        if (leadSubmissionOk) {
+          try {
+            await sendFortuneEmail(linkedInEmail, leadData.fullName || 'Valued Individual', shareableFortuneText);
+            console.log("Auto email sending successful.");
+            // isEmailSent is set by sendFortuneEmail
+          } catch (e) {
+            // isEmailSent and emailSendStatus are handled by sendFortuneEmail
+            console.error("Auto email sending failed after lead submission.");
+          }
+        }
+        setIsProcessing(false);
+      };
+      autoSubmitAndEmail();
+    }
+  }, [isLinkedInFlow, linkedInEmail, autoProcessAttempted, leadData, shareableFortuneText, sendFortuneEmail]);
+
+  useEffect(() => {
+    if (isLeadSaved && isEmailSent) {
+      setIsEverythingDone(true);
+    }
+  }, [isLeadSaved, isEmailSent]);
+
+  useEffect(() => {
+    if (isEverythingDone) {
+      // Add a small delay to allow the user to see the success message briefly (optional)
+      const timer = setTimeout(() => {
+        router.push('/archetype-discovery');
+      }, 1000); // 1 second delay
+      return () => clearTimeout(timer);
+    }
+  }, [isEverythingDone, router]);
+
   const handleSubmit = async (e) => {
     if (e) e.preventDefault();
     setError('');
@@ -272,6 +334,36 @@ export default function ContactDetailsPage() {
   };
 
   const showForm = !isLinkedInFlow || !linkedInEmail;
+
+  if (isEverythingDone && !isLinkedInFlow) { // Only show this intermediate for manual flow briefly
+    // For LinkedIn flow, we navigate directly. For manual, show final message then navigate.
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4">
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.5 }}
+          className="bg-white/10 backdrop-blur-md p-8 rounded-xl shadow-2xl text-center max-w-lg"
+        >
+          <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
+          <h2 className="text-3xl font-bold mb-4">All Set!</h2>
+          <p className="text-lg mb-6">Your fortune has been shared and your details recorded.</p>
+          <p className="text-md mb-6">Proceeding to your archetype discovery...</p>
+        </motion.div>
+      </div>
+    );
+  }
+  
+  // If it's LinkedIn flow and everything is done, user will be navigated by the useEffect.
+  // We might want a brief loading or message here if navigation isn't immediate.
+  if (isLinkedInFlow && isEverythingDone) {
+    return (
+        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4">
+            <p className="text-lg">Processing complete. Taking you to your archetype discovery...</p>
+            {/* Optional: Add a spinner here */}
+        </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-mw-dark-navy flex flex-col items-center justify-center p-4 font-roboto">
