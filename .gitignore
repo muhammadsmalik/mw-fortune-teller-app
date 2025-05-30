@@ -43,3 +43,10 @@ next-env.d.ts
 
 # google service account
 client-key-file.json
+
+
+# manual scraping script
+linkedin_output/
+scrape_linkedin_data.js
+combine_linkedin_data.js
+combined_linkedin_data.txt
