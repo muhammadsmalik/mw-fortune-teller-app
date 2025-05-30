@@ -320,6 +320,15 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
       }
       setError(null);
       
+      // Stop greeting audio if it's playing
+      if (greetingAudioSourceRef.current) {
+        greetingAudioSourceRef.current.stop();
+        greetingAudioSourceRef.current.disconnect();
+        greetingAudioSourceRef.current = null;
+        setIsGreetingAudioPlaying(false); // Ensure state is updated
+        console.log('[ScenarioSelection] Greeting audio stopped before proceeding to fortune.');
+      }
+
       const finalSelectedScenarioIds = [...initialSelections, ...selectedScenarioIds];
       localStorage.setItem('selectedScenarioIDs', JSON.stringify(finalSelectedScenarioIds));
       console.log('[ScenarioSelection] Final selections:', finalSelectedScenarioIds);
@@ -360,6 +369,13 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
           }
           setHasPlayedGreetingForSession(false);
       } else if (currentView === 'initialAndUserTypeSelection') {
+        // Stop greeting audio if it was somehow playing, though less likely here.
+        if (greetingAudioSourceRef.current) {
+            greetingAudioSourceRef.current.stop();
+            greetingAudioSourceRef.current.disconnect();
+            greetingAudioSourceRef.current = null;
+            setIsGreetingAudioPlaying(false);
+        }
         router.push('/collect-info'); // Navigate to a page outside this component's flow
       }
     };
