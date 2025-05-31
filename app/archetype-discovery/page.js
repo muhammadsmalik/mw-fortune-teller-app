@@ -86,7 +86,43 @@ export default function ArchetypeDiscoveryPage() {
   const [archetypeInsightData, setArchetypeInsightData] = useState(null);
   const [apiError, setApiError] = useState(null);
   const [userName, setUserName] = useState('');
+  const [generatedAvatar, setGeneratedAvatar] = useState(null);
+  const [isGeneratingAvatar, setIsGeneratingAvatar] = useState(false);
+  const [avatarError, setAvatarError] = useState(null);
   const fetchInitiatedRef = useRef(false);
+
+  const generateAvatar = useCallback(async (profileImageUrl, archetypeName) => {
+    if (!profileImageUrl) return;
+    
+    setIsGeneratingAvatar(true);
+    setAvatarError(null);
+    
+    try {
+      const response = await fetch('/api/generate-avatar', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          profileImageUrl,
+          archetypeName
+        }),
+      });
+
+      const data = await response.json();
+      
+      if (!response.ok) {
+        throw new Error(data.error || 'Failed to generate avatar');
+      }
+
+      setGeneratedAvatar(data.avatarImage);
+    } catch (error) {
+      console.error('Avatar generation failed:', error);
+      setAvatarError(error.message);
+    } finally {
+      setIsGeneratingAvatar(false);
+    }
+  }, []);
 
   const fetchArchetypeData = useCallback(async () => {
     setIsLoading(true);
@@ -100,9 +136,15 @@ export default function ArchetypeDiscoveryPage() {
       setUserName(storedFullName);
 
       let userDataPayload = {};
+      let profileImageUrl = null;
 
       if (storedLinkedInData) {
         const parsedLinkedInData = JSON.parse(storedLinkedInData);
+        // Extract profile image URL for avatar generation
+        if (parsedLinkedInData.profileData?.profile_pic_url) {
+          profileImageUrl = parsedLinkedInData.profileData.profile_pic_url;
+        }
+        
         const summarizedData = summarizeLinkedInData(parsedLinkedInData);
         if (summarizedData) {
             userDataPayload.linkedInProfileSummary = summarizedData;
@@ -142,12 +184,18 @@ export default function ArchetypeDiscoveryPage() {
       const data = await response.json();
       setArchetypeInsightData(data);
       console.log("Archetype data fetched and set", data);
+      
+      // Generate avatar if we have a profile image and archetype
+      if (profileImageUrl && data.userMatchedArchetype?.name) {
+        generateAvatar(profileImageUrl, data.userMatchedArchetype.name);
+      }
+      
     } catch (error) {
       console.error("Failed to fetch archetype data:", error);
       setApiError(error.message);
     }
     setIsLoading(false);
-  }, []);
+  }, [generateAvatar]);
 
   useEffect(() => {
     console.log("useEffect for fetchArchetypeData triggered");
@@ -189,6 +237,43 @@ export default function ArchetypeDiscoveryPage() {
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <h1>{overallNarrative || "Discover Your Conference Archetype!"}</h1>
       <p>Hello, {userName}!</p>
+
+      {/* Avatar Section */}
+      <div style={{ textAlign: 'center', margin: '20px 0' }}>
+        {isGeneratingAvatar && (
+          <div style={{ padding: '20px' }}>
+            <p>Generating your personalized avatar...</p>
+            <div style={{ 
+              border: '4px solid #f3f3f3',
+              borderTop: '4px solid #3498db',
+              borderRadius: '50%',
+              width: '50px',
+              height: '50px',
+              animation: 'spin 2s linear infinite',
+              margin: '0 auto'
+            }}></div>
+          </div>
+        )}
+        
+        {generatedAvatar && (
+          <div style={{ margin: '20px 0' }}>
+            <h3>Your Personalized Avatar</h3>
+            <Image 
+              src={generatedAvatar}
+              alt="Generated Avatar"
+              width={200}
+              height={200}
+              style={{ borderRadius: '10px', border: '3px solid #ddd' }}
+            />
+          </div>
+        )}
+        
+        {avatarError && (
+          <div style={{ color: 'orange', margin: '10px 0' }}>
+            <p>Could not generate avatar: {avatarError}</p>
+          </div>
+        )}
+      </div>
 
       {userMatchedArchetype && (
         <div style={{ border: '1px solid #ccc', padding: '15px', margin: '15px 0' }}>
@@ -233,6 +318,13 @@ export default function ArchetypeDiscoveryPage() {
       >
         Start New Fortune
       </button>
+      
+      <style jsx>{`
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+      `}</style>
     </div>
   );
 } 
