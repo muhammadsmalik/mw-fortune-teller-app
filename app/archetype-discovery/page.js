@@ -472,7 +472,7 @@ export default function ArchetypeDiscoveryPage() {
           )}
           {narrationError && (
             <div className="text-red-400 text-sm p-2 bg-red-900/30 border border-red-500/50 rounded-md max-w-md mx-auto">
-              <p className="font-semibold">Oracle's Voice Disrupted:</p>
+              <p className="font-semibold">Oracle&apos;s Voice Disrupted:</p>
               <p>{narrationError}</p>
               {/* Future: Add a button here to retry narration if needed */}
             </div>
