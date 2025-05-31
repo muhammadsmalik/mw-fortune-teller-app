@@ -1,8 +1,22 @@
 'use client';
 
-import React, { useState, useEffect, useCallback, useRef } from 'react';
+import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
+import { motion } from 'framer-motion';
+import Particles, { initParticlesEngine } from "@tsparticles/react";
+import { loadSlim } from "@tsparticles/slim";
+import { Howl } from 'howler';
+import Lottie from "lottie-react";
+import crystalBallAnimation from '@/public/animations/crystal-ball.json';
+import {
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from '@/components/ui/card';
+import { Button } from "@/components/ui/button";
+import { Loader2 } from 'lucide-react'; // For loading states
 
 // Helper function to calculate duration (simplified)
 function calculateDuration(startsAt, endsAt) {
@@ -90,6 +104,61 @@ export default function ArchetypeDiscoveryPage() {
   const [isGeneratingAvatar, setIsGeneratingAvatar] = useState(false);
   const [avatarError, setAvatarError] = useState(null);
   const fetchInitiatedRef = useRef(false);
+  const [initParticles, setInitParticles] = useState(false);
+  const [hasMounted, setHasMounted] = useState(false);
+
+  const [isNarrating, setIsNarrating] = useState(false);
+  const [narrationPlayed, setNarrationPlayed] = useState(false);
+  const [narrationError, setNarrationError] = useState(null);
+  const howlInstanceRef = useRef(null);
+  const [pageLoadSoundPlayed, setPageLoadSoundPlayed] = useState(false);
+
+  useEffect(() => {
+    setHasMounted(true);
+    initParticlesEngine(async (engine) => {
+      await loadSlim(engine);
+    }).then(() => {
+      setInitParticles(true);
+    });
+
+    // Play page load sound once mounted and if not already played
+    if (hasMounted && !pageLoadSoundPlayed) {
+      const sound = new Howl({
+        src: ['/audio/page-load-chime.mp3'], // Placeholder path
+        volume: 0.5, // Adjust volume as needed
+        onplayerror: (id, error) => {
+          console.error('[ArchetypeDiscoveryPage] Howler onplayerror for page load chime:', id, error);
+          // Optionally set an error state if feedback for this sound is critical
+        },
+        onloaderror: (id, error) => {
+          console.error('[ArchetypeDiscoveryPage] Howler onloaderror for page load chime:', id, error);
+        }
+      });
+      sound.play();
+      setPageLoadSoundPlayed(true);
+    }
+
+  }, [hasMounted, pageLoadSoundPlayed]); // Add hasMounted and pageLoadSoundPlayed to dependency array
+
+  const particlesLoaded = useCallback(async (container) => {
+    // console.log("Particles container loaded", container);
+  }, []);
+
+  const particleOptions = useMemo(() => ({
+    particles: {
+      number: { value: 40, density: { enable: true, value_area: 800 } },
+      color: { value: ["#FFFFFF", "#5BADDE"] }, // mw-white, mw-light-blue
+      shape: { type: "circle" },
+      opacity: { value: 0.3, random: true, anim: { enable: true, speed: 0.6, opacity_min: 0.1, sync: false } },
+      size: { value: { min: 1, max: 3 }, random: true },
+      move: { enable: true, speed: 0.6, direction: "none", random: true, straight: false, outModes: { default: "out" }, bounce: false },
+    },
+    interactivity: {
+      detect_on: "canvas",
+      events: { onhover: { enable: false }, onclick: { enable: false }, resize: true },
+    },
+    detectRetina: true,
+  }), []);
 
   const generateAvatar = useCallback(async (profileImageUrl, archetypeName) => {
     if (!profileImageUrl) return;
@@ -208,25 +277,143 @@ export default function ArchetypeDiscoveryPage() {
     }
   }, [fetchArchetypeData]);
 
+  // Effect to play narration once archetype data is loaded
+  useEffect(() => {
+    const currentArchetype = archetypeInsightData?.userMatchedArchetype;
+
+    if (hasMounted && archetypeInsightData && userName && currentArchetype?.name && !narrationPlayed && !isLoading) {
+      // Play archetype reveal sound first
+      const revealSound = new Howl({
+        src: ['/audio/archetype-reveal-flourish.mp3'], // Placeholder path
+        volume: 0.6, // Adjust volume
+        onplayerror: (id, error) => console.error('[ArchetypeDiscoveryPage] Howler onplayerror for reveal flourish:', id, error),
+        onloaderror: (id, error) => console.error('[ArchetypeDiscoveryPage] Howler onloaderror for reveal flourish:', id, error),
+        onend: () => { // Start narration after reveal sound finishes or with a slight delay
+          // Proceed with narration
+          const narrationText = `Ah, ${userName}, the mists clear! Your essence aligns with... The ${currentArchetype.name}!`;
+          
+          if (howlInstanceRef.current) {
+            howlInstanceRef.current.unload();
+          }
+
+          setIsNarrating(true);
+          setNarrationError(null);
+
+          const encodedTextInput = encodeURIComponent(narrationText);
+          const voice = 'ballad'; 
+          const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}`;
+
+          const narrationSound = new Howl({
+            src: [streamUrl],
+            format: ['mp3'],
+            html5: true, 
+            onplay: () => {
+              console.log('[ArchetypeDiscoveryPage] Narration playback started.');
+              setIsNarrating(true);
+            },
+            onend: () => {
+              console.log('[ArchetypeDiscoveryPage] Narration playback ended.');
+              setIsNarrating(false);
+              setNarrationPlayed(true);
+              howlInstanceRef.current = null;
+            },
+            onloaderror: (id, error) => {
+              console.error('[ArchetypeDiscoveryPage] Howler onloaderror for narration:', id, error);
+              setNarrationError(`Oracle's voice stream couldn't be loaded. Code: ${id}`);
+              setIsNarrating(false);
+              setNarrationPlayed(false);
+              howlInstanceRef.current = null;
+            },
+            onplayerror: (id, error) => {
+              console.error('[ArchetypeDiscoveryPage] Howler onplayerror for narration:', id, error);
+              setNarrationError(`Oracle's voice stream couldn't play. Code: ${id}`);
+              setIsNarrating(false);
+              setNarrationPlayed(false);
+              howlInstanceRef.current = null;
+            },
+          });
+
+          howlInstanceRef.current = narrationSound;
+          console.log('[ArchetypeDiscoveryPage] Initiating narration playback after reveal sound.');
+          narrationSound.play();
+        } // End of revealSound onend
+      });
+      revealSound.play();
+
+    } // End of main if condition
+
+    // Cleanup function for narration Howl instance
+    return () => {
+      if (howlInstanceRef.current) {
+        console.log('[ArchetypeDiscoveryPage] Unloading narration Howl instance during cleanup.');
+        howlInstanceRef.current.stop(); // Stop playback
+        howlInstanceRef.current.unload(); // Release resources
+        howlInstanceRef.current = null;
+      }
+    };
+  }, [hasMounted, archetypeInsightData, userName, narrationPlayed, isLoading]);
+
   if (isLoading) {
-    return <div style={{ textAlign: 'center', marginTop: '50px' }}>Loading your archetype...</div>;
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4 relative isolate">
+        {hasMounted && initParticles && Particles && (
+          <Particles
+            id="tsparticles-archetype-loading"
+            particlesLoaded={particlesLoaded}
+            options={particleOptions}
+            className="absolute inset-0 z-[-1]"
+          />
+        )}
+        <div className="w-48 h-48 md:w-64 md:h-64">
+          <Lottie animationData={crystalBallAnimation} loop={true} />
+        </div>
+        <p className="text-lg mt-4">Aligning the stars to reveal your archetype...</p>
+        {!initParticles && hasMounted && <p className="text-sm text-mw-white/70">Initializing cosmic dust...</p>}
+      </div>
+    );
   }
 
   if (apiError) {
     return (
-      <div style={{ textAlign: 'center', marginTop: '50px', color: 'red' }}>
-        <h2>Error</h2>
-        <p>{apiError}</p>
-        <button onClick={() => router.push('/')}>Start New Fortune</button>
+      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4 relative isolate text-center">
+        {hasMounted && initParticles && Particles && (
+          <Particles
+            id="tsparticles-archetype-error"
+            particlesLoaded={particlesLoaded}
+            options={particleOptions}
+            className="absolute inset-0 z-[-1]"
+          />
+        )}
+        <h2 className="text-2xl font-semibold text-red-400">A Cosmic Disturbance!</h2>
+        <p className="text-mw-white/80">{apiError}</p>
+        <Button 
+          onClick={() => router.push('/')}
+          className="mt-6 bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90"
+        >
+          Start New Fortune
+        </Button>
       </div>
     );
   }
 
   if (!archetypeInsightData) {
     return (
-      <div style={{ textAlign: 'center', marginTop: '50px' }}>
-        <p>Could not retrieve your archetype data. Please try again.</p>
-        <button onClick={() => router.push('/')}>Start New Fortune</button>
+      <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4 relative isolate text-center">
+         {hasMounted && initParticles && Particles && (
+          <Particles
+            id="tsparticles-archetype-nodata"
+            particlesLoaded={particlesLoaded}
+            options={particleOptions}
+            className="absolute inset-0 z-[-1]"
+          />
+        )}
+        <p className="text-mw-white/80">Could not retrieve your archetype data. The stars are unusually quiet.</p>
+        <Button 
+          onClick={() => router.push('/')}
+          className="mt-6 bg-gradient-to-r from-mw-light-blue to-mw-gradient-blue-darker text-mw-dark-navy font-semibold rounded-lg shadow-md hover:opacity-90"
+        >
+          Start New Fortune
+        </Button>
       </div>
     );
   }
@@ -234,97 +421,181 @@ export default function ArchetypeDiscoveryPage() {
   const { userMatchedArchetype, mwEmpowerment, suggestedConferenceConnection, overallNarrative } = archetypeInsightData;
 
   return (
-    <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1>{overallNarrative || "Discover Your Conference Archetype!"}</h1>
-      <p>Hello, {userName}!</p>
-
-      {/* Avatar Section */}
-      <div style={{ textAlign: 'center', margin: '20px 0' }}>
-        {isGeneratingAvatar && (
-          <div style={{ padding: '20px' }}>
-            <p>Generating your personalized avatar...</p>
-            <div style={{ 
-              border: '4px solid #f3f3f3',
-              borderTop: '4px solid #3498db',
-              borderRadius: '50%',
-              width: '50px',
-              height: '50px',
-              animation: 'spin 2s linear infinite',
-              margin: '0 auto'
-            }}></div>
-          </div>
-        )}
-        
-        {generatedAvatar && (
-          <div style={{ margin: '20px 0' }}>
-            <h3>Your Personalized Avatar</h3>
-            <Image 
-              src={generatedAvatar}
-              alt="Generated Avatar"
-              width={200}
-              height={200}
-              style={{ borderRadius: '10px', border: '3px solid #ddd' }}
-            />
-          </div>
-        )}
-        
-        {avatarError && (
-          <div style={{ color: 'orange', margin: '10px 0' }}>
-            <p>Could not generate avatar: {avatarError}</p>
-          </div>
-        )}
-      </div>
-
-      {userMatchedArchetype && (
-        <div style={{ border: '1px solid #ccc', padding: '15px', margin: '15px 0' }}>
-          <h2>Your Archetype: {userMatchedArchetype.name}</h2>
-          <p>{userMatchedArchetype.explanation}</p>
-        </div>
+    <motion.div 
+      className="min-h-screen flex flex-col items-center bg-mw-dark-navy text-mw-white p-4 sm:p-8 relative isolate"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.7 }}
+    >
+      {hasMounted && initParticles && Particles && (
+        <Particles
+          id="tsparticles-archetype-discovery"
+          particlesLoaded={particlesLoaded}
+          options={particleOptions}
+          className="absolute inset-0 z-[-1]"
+        />
       )}
+      <div className="w-full max-w-3xl space-y-8 mt-12 mb-12 text-center">
+        {!initParticles && hasMounted && !isLoading && (
+             <div className="fixed inset-0 flex flex-col items-center justify-center bg-mw-dark-navy/50 backdrop-blur-sm z-50">
+                <Loader2 className="h-10 w-10 animate-spin text-mw-light-blue" />
+                <p className="mt-3 text-mw-white/80">Initializing cosmic dust...</p>
+            </div>
+        )}
 
-      {mwEmpowerment && (
-        <div style={{ border: '1px solid #ccc', padding: '15px', margin: '15px 0' }}>
-          <h2>{mwEmpowerment.title}</h2>
-          <p>{mwEmpowerment.advice}</p>
-        </div>
-      )}
+        {/* Oracle Avatar */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.2 }} // Delay slightly after page title
+          className="mb-6 md:mb-8"
+        >
+          <Image 
+            src="/avatar/twin.png"
+            alt="Oracle of Insight holding a crystal ball"
+            width={240} 
+            height={360} 
+            className="mx-auto drop-shadow-[0_0_20px_rgba(250,174,37,0.4)]"
+            priority 
+          />
+        </motion.div>
 
-      {suggestedConferenceConnection && (
-        <div style={{ border: '1px solid #ccc', padding: '15px', margin: '15px 0' }}>
-          <h2>Connect & Collaborate</h2>
-          {suggestedConferenceConnection.profileImageURL && (
-            <div style={{ marginBottom: '10px' }}>
-              <Image 
-                src={suggestedConferenceConnection.profileImageURL}
-                alt={`Profile picture of ${suggestedConferenceConnection.attendeeName}`}
-                width={100} 
-                height={100} 
-                style={{ borderRadius: '50%', objectFit: 'cover' }} 
-              />
+        <h1 className="text-4xl font-bold text-mw-light-blue tracking-wide">
+          {overallNarrative || "Discover Your Conference Archetype!"}
+        </h1>
+        <p className="text-xl text-mw-white/90">Hello, {userName}!</p>
+
+        {/* Narration Status Display */}
+        <div className="min-h-[2em] text-center">
+          {isNarrating && (
+            <p className="text-mw-gold text-lg animate-pulse">The Oracle speaks...</p>
+          )}
+          {narrationError && (
+            <div className="text-red-400 text-sm p-2 bg-red-900/30 border border-red-500/50 rounded-md max-w-md mx-auto">
+              <p className="font-semibold">Oracle's Voice Disrupted:</p>
+              <p>{narrationError}</p>
+              {/* Future: Add a button here to retry narration if needed */}
             </div>
           )}
-          <p>
-            Meet: <strong>{suggestedConferenceConnection.attendeeName}</strong>
-            <br />
-            Their Archetype: {suggestedConferenceConnection.attendeeArchetype}
-          </p>
-          <p>Why connect? {suggestedConferenceConnection.connectionReason}</p>
         </div>
-      )}
 
-      <button 
-        onClick={() => router.push('/')}
-        style={{ padding: '10px 20px', fontSize: '16px', cursor: 'pointer' }}
-      >
-        Start New Fortune
-      </button>
-      
+        {userMatchedArchetype && (
+          <Card className="bg-card/80 backdrop-blur-sm border-mw-light-blue/30 shadow-xl w-full">
+            <CardHeader className="pb-2 pt-4 md:pt-6">
+              <CardTitle className="text-xl md:text-2xl font-semibold text-mw-light-blue text-center">
+                Your Revealed Archetype
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div className="flex flex-col md:flex-row md:items-start md:space-x-6 py-2">
+                {/* Avatar Column */} 
+                <div className="w-full md:w-1/3 flex flex-col items-center justify-start mb-4 md:mb-0 py-2 min-h-[180px] md:min-h-[200px]"> 
+                  {isGeneratingAvatar && (
+                    <div className="p-3 text-center flex flex-col items-center justify-center h-full">
+                      <div className="relative w-16 h-16 mx-auto mb-2">
+                        <div className="absolute inset-0 border-4 border-mw-light-blue/30 rounded-full"></div>
+                        <div
+                          className="absolute inset-0 border-t-4 border-mw-light-blue rounded-full animate-spin"
+                          style={{ animationName: 'spin' }}
+                        ></div>
+                      </div>
+                      <p className="text-mw-white/80 text-sm mt-1">Generating your avatar...</p>
+                      <p className="text-mw-white/70 text-xs italic mt-1">This may take a moment.</p>
+                    </div>
+                  )}
+                  {generatedAvatar && !isGeneratingAvatar && (
+                    <div className="mt-2 flex flex-col items-center">
+                       <p className="text-mw-white/80 text-sm mb-2 font-medium">Your Personalized Avatar</p>
+                      <Image
+                        src={generatedAvatar}
+                        alt="Generated Personalized Avatar"
+                        width={150} 
+                        height={150}
+                        className="rounded-lg border-2 border-mw-gold/70 shadow-md mx-auto object-cover aspect-square"
+                      />
+                    </div>
+                  )}
+                  {avatarError && !isGeneratingAvatar && (
+                    <div className="text-orange-400 bg-orange-900/30 p-2 rounded-md border border-orange-500/50 text-sm text-center h-full flex flex-col justify-center">
+                      <p className="font-semibold">Avatar Creation Failed</p>
+                      <p className="text-xs">{avatarError}</p>
+                    </div>
+                  )}
+                </div>
+
+                {/* Archetype Info Column */} 
+                <div className="w-full md:w-2/3 text-center md:text-left md:pt-2">
+                  <h3 className="text-2xl lg:text-3xl font-bold text-mw-gold mb-3">
+                    {userMatchedArchetype.name}
+                  </h3>
+                  <p className="text-mw-white/90 text-base md:text-lg leading-relaxed">{userMatchedArchetype.explanation}</p>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        )}
+
+        {mwEmpowerment && (
+          <Card className="bg-card/80 backdrop-blur-sm border-mw-light-blue/30 shadow-xl text-left">
+            <CardHeader>
+              <CardTitle className="text-2xl font-semibold text-mw-light-blue">{mwEmpowerment.title}</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-mw-white/90 text-lg">{mwEmpowerment.advice}</p>
+            </CardContent>
+          </Card>
+        )}
+
+        {suggestedConferenceConnection && (
+          <Card className="bg-card/80 backdrop-blur-sm border-mw-light-blue/30 shadow-xl w-full">
+            <CardHeader className="pb-2 pt-4 md:pt-6">
+              <CardTitle className="text-xl md:text-2xl font-semibold text-mw-light-blue text-center">
+                Connect & Collaborate
+              </CardTitle>
+            </CardHeader>
+            <CardContent className="py-4">
+              <div className="flex flex-col md:flex-row items-center md:items-start text-center md:text-left gap-4 md:gap-6">
+                {suggestedConferenceConnection.profileImageURL && (
+                  <div className="flex-shrink-0">
+                    <Image 
+                      src={suggestedConferenceConnection.profileImageURL}
+                      alt={`Profile picture of ${suggestedConferenceConnection.attendeeName}`}
+                      width={100} 
+                      height={100} 
+                      className="rounded-full object-cover border-2 border-mw-light-blue/50 shadow-md"
+                    />
+                  </div>
+                )}
+                <div className="flex-grow">
+                  <p className="text-mw-white/90 text-lg mb-1">
+                    The stars suggest a meeting with: <strong className="text-mw-gold">{suggestedConferenceConnection.attendeeName}</strong>.
+                  </p>
+                  <p className="text-mw-white/80 text-base mb-2">
+                    Their Archetype: <span className="font-medium">{suggestedConferenceConnection.attendeeArchetype}</span>
+                  </p>
+                  <p className="text-mw-white/90 text-base leading-relaxed">
+                    <span className="font-semibold text-mw-light-blue/90">Reason for connection:</span> {suggestedConferenceConnection.connectionReason}
+                  </p>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        )}
+
+        <Button 
+          onClick={() => router.push('/')}
+          size="lg"
+          className="mt-10 bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy font-semibold rounded-lg shadow-lg hover:opacity-90 transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95"
+        >
+          Start New Fortune
+        </Button>
+      </div>
       <style jsx>{`
         @keyframes spin {
           0% { transform: rotate(0deg); }
           100% { transform: rotate(360deg); }
         }
       `}</style>
-    </div>
+    </motion.div>
   );
 } 
