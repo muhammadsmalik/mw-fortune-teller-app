@@ -115,30 +115,34 @@ export default function ArchetypeDiscoveryPage() {
 
   useEffect(() => {
     setHasMounted(true);
-    initParticlesEngine(async (engine) => {
-      await loadSlim(engine);
-    }).then(() => {
-      setInitParticles(true);
-    });
+  }, []); // Ensures this runs only once on mount
 
-    // Play page load sound once mounted and if not already played
-    if (hasMounted && !pageLoadSoundPlayed) {
-      const sound = new Howl({
-        src: ['/audio/page-load-chime.mp3'], // Placeholder path
-        volume: 0.5, // Adjust volume as needed
-        onplayerror: (id, error) => {
-          console.error('[ArchetypeDiscoveryPage] Howler onplayerror for page load chime:', id, error);
-          // Optionally set an error state if feedback for this sound is critical
-        },
-        onloaderror: (id, error) => {
-          console.error('[ArchetypeDiscoveryPage] Howler onloaderror for page load chime:', id, error);
-        }
+  useEffect(() => {
+    if (hasMounted) {
+      initParticlesEngine(async (engine) => {
+        await loadSlim(engine);
+      }).then(() => {
+        setInitParticles(true);
       });
-      sound.play();
-      setPageLoadSoundPlayed(true);
-    }
 
-  }, [hasMounted, pageLoadSoundPlayed]); // Add hasMounted and pageLoadSoundPlayed to dependency array
+      // Play page load sound once mounted and if not already played
+      if (!pageLoadSoundPlayed) {
+        const sound = new Howl({
+          src: ['/audio/page-load-chime.mp3'], // Placeholder path
+          volume: 0.5, // Adjust volume as needed
+          onplayerror: (id, error) => {
+            console.error('[ArchetypeDiscoveryPage] Howler onplayerror for page load chime:', id, error);
+            // Optionally set an error state if feedback for this sound is critical
+          },
+          onloaderror: (id, error) => {
+            console.error('[ArchetypeDiscoveryPage] Howler onloaderror for page load chime:', id, error);
+          }
+        });
+        sound.play();
+        setPageLoadSoundPlayed(true);
+      }
+    }
+  }, [hasMounted, pageLoadSoundPlayed]); // Dependencies for particle/sound effect
 
   const particlesLoaded = useCallback(async (container) => {
     // console.log("Particles container loaded", container);
@@ -193,21 +197,19 @@ export default function ArchetypeDiscoveryPage() {
     }
   }, []);
 
-  const fetchArchetypeData = useCallback(async () => {
+  const fetchArchetypeData = useCallback(async (storedLinkedInData, storedManualData, storedFullNameFromStorage) => {
     setIsLoading(true);
     setApiError(null);
-    console.log("fetchArchetypeData called");
+    console.log("fetchArchetypeData called with data from storage");
 
-    try {
-      const storedLinkedInData = localStorage.getItem('fetchedLinkedInData');
-      const storedManualData = localStorage.getItem('userInfoForFortune');
-      const storedFullName = localStorage.getItem('fortuneApp_fullName') || 'Guest';
-      setUserName(storedFullName);
+    // userName is now set in the calling useEffect
+    // setUserName(storedFullNameFromStorage); // No longer set here
 
-      let userDataPayload = {};
-      let profileImageUrl = null;
+    let userDataPayload = {};
+    let profileImageUrl = null;
 
-      if (storedLinkedInData) {
+    if (storedLinkedInData) {
+      try {
         const parsedLinkedInData = JSON.parse(storedLinkedInData);
         // Extract profile image URL for avatar generation
         if (parsedLinkedInData.profileData?.profile_pic_url) {
@@ -222,19 +224,57 @@ export default function ArchetypeDiscoveryPage() {
             if (storedManualData) {
                  userDataPayload.manualData = JSON.parse(storedManualData);
             } else {
-                throw new Error("No valid user data available for archetype matching after failing to summarize LinkedIn data.");
+                // Keep this error or adjust if fetchArchetypeData should not throw directly
+                // For now, let it proceed and potentially fail at API call if no data
+                console.error("No valid user data available for archetype matching after failing to summarize LinkedIn data and no manual data provided to function.");
+                // To maintain similar behavior to original:
+                // throw new Error("No valid user data available for archetype matching after failing to summarize LinkedIn data.");
             }
         }
-      } else if (storedManualData) {
+      } catch (e) {
+        console.error("Error parsing stored LinkedIn data:", e);
+        // Potentially fall back to manual data if LinkedIn parse fails
+        if (storedManualData) {
+          try {
+            userDataPayload.manualData = JSON.parse(storedManualData);
+          } catch (parseError) {
+            console.error("Error parsing stored manual data after LinkedIn parse fail:", parseError);
+          }
+        } else {
+           console.error("No manual data to fall back to after LinkedIn parse error.");
+        }
+      }
+    } else if (storedManualData) {
+      try {
         userDataPayload.manualData = JSON.parse(storedManualData);
-      } else {
-        throw new Error("No user data found in local storage for archetype matching.");
+      } catch (e) {
+        console.error("Error parsing stored manual data:", e);
+        // throw new Error("No user data found in local storage for archetype matching."); // Or handle differently
       }
-      
-      if (userDataPayload.manualData && !userDataPayload.manualData.fullName && storedFullName !== 'Guest') {
-        userDataPayload.manualData.fullName = storedFullName;
-      }
+    } else {
+      // This case means neither storedLinkedInData nor storedManualData was passed
+      // This situation should ideally be caught before calling the API
+      console.error("No user data (LinkedIn or manual) provided to fetchArchetypeData.");
+      // To maintain original behavior of throwing an error:
+      // throw new Error("No user data found in local storage for archetype matching.");
+      // For now, let it attempt API call, which might fail gracefully or as intended by API design.
+    }
+    
+    // Ensure storedFullNameFromStorage is used for userDataPayload if manualData needs it
+    // And ensure manualData exists before trying to set fullName on it
+    if (userDataPayload.manualData && !userDataPayload.manualData.fullName && storedFullNameFromStorage && storedFullNameFromStorage !== 'Guest') {
+      userDataPayload.manualData.fullName = storedFullNameFromStorage;
+    }
 
+
+    // If after all checks, userDataPayload is empty, it might indicate an issue.
+    if (Object.keys(userDataPayload).length === 0) {
+        setApiError("Could not prepare user data for archetype matching. Please try again.");
+        setIsLoading(false);
+        return; // Prevent API call if no data could be prepared
+    }
+    
+    try {
       const response = await fetch('/api/match-archetype', {
         method: 'POST',
         headers: {
@@ -262,20 +302,30 @@ export default function ArchetypeDiscoveryPage() {
     } catch (error) {
       console.error("Failed to fetch archetype data:", error);
       setApiError(error.message);
+    } finally { // Ensure isLoading is set to false in all paths
+        setIsLoading(false);
     }
-    setIsLoading(false);
-  }, [generateAvatar]);
+  }, [generateAvatar]); // Removed setIsLoading, setApiError, setUserName, summarizeLinkedInData from deps for stability
+                         // generateAvatar is the main external dependency. summarizeLinkedInData is a pure helper.
 
   useEffect(() => {
-    console.log("useEffect for fetchArchetypeData triggered");
-    if (!fetchInitiatedRef.current) {
-      console.log("Initiating fetch...");
-      fetchArchetypeData();
+    console.log("useEffect for fetchArchetypeData triggered. hasMounted:", hasMounted);
+    if (hasMounted && !fetchInitiatedRef.current) {
+      console.log("Initiating fetch as component has mounted...");
+      const storedLinkedInData = localStorage.getItem('fetchedLinkedInData');
+      const storedManualData = localStorage.getItem('userInfoForFortune');
+      const storedFullNameFromStorage = localStorage.getItem('fortuneApp_fullName') || 'Guest';
+      
+      setUserName(storedFullNameFromStorage); // Set userName state here
+
+      fetchArchetypeData(storedLinkedInData, storedManualData, storedFullNameFromStorage);
       fetchInitiatedRef.current = true;
+    } else if (!hasMounted) {
+      console.log("Component not yet mounted, skipping fetch.");
     } else {
       console.log("Fetch already initiated, skipping.");
     }
-  }, [fetchArchetypeData]);
+  }, [hasMounted, fetchArchetypeData]); // Added hasMounted. setUserName is stable, so not strictly needed in deps.
 
   // Effect to play narration once archetype data is loaded
   useEffect(() => {
