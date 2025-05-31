@@ -4,10 +4,8 @@ import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import Particles, { initParticlesEngine } from "@tsparticles/react";
-import { loadSlim } from "@tsparticles/slim";
+import dynamic from 'next/dynamic';
 import { Howl } from 'howler';
-import Lottie from "lottie-react";
 import crystalBallAnimation from '@/public/animations/crystal-ball.json';
 import {
   Card,
@@ -17,6 +15,10 @@ import {
 } from '@/components/ui/card';
 import { Button } from "@/components/ui/button";
 import { Loader2 } from 'lucide-react'; // For loading states
+
+// Dynamically import Lottie and Particles
+const Lottie = dynamic(() => import('lottie-react'), { ssr: false });
+const Particles = dynamic(() => import('@tsparticles/react').then(mod => mod.Particles), { ssr: false });
 
 // Helper function to calculate duration (simplified)
 function calculateDuration(startsAt, endsAt) {
@@ -119,28 +121,37 @@ export default function ArchetypeDiscoveryPage() {
 
   useEffect(() => {
     if (hasMounted) {
-      initParticlesEngine(async (engine) => {
-        await loadSlim(engine);
-      }).then(() => {
-        setInitParticles(true);
-      });
+      const initializeParticlesEngineAndSound = async () => {
+        try {
+          // Dynamically import particle engine and slim preset
+          const { initParticlesEngine } = await import('@tsparticles/react');
+          const { loadSlim } = await import('@tsparticles/slim');
+          await initParticlesEngine(async (engine) => {
+            await loadSlim(engine);
+          });
+          setInitParticles(true);
+        } catch (e) {
+          console.error("[ArchetypeDiscoveryPage] Failed to initialize particles engine:", e);
+          setInitParticles(true); // Proceed with caution or set an error state for particles
+        }
 
-      // Play page load sound once mounted and if not already played
-      if (!pageLoadSoundPlayed) {
-        const sound = new Howl({
-          src: ['/audio/page-load-chime.mp3'], // Placeholder path
-          volume: 0.5, // Adjust volume as needed
-          onplayerror: (id, error) => {
-            console.error('[ArchetypeDiscoveryPage] Howler onplayerror for page load chime:', id, error);
-            // Optionally set an error state if feedback for this sound is critical
-          },
-          onloaderror: (id, error) => {
-            console.error('[ArchetypeDiscoveryPage] Howler onloaderror for page load chime:', id, error);
-          }
-        });
-        sound.play();
-        setPageLoadSoundPlayed(true);
-      }
+        // Play page load sound once mounted and if not already played
+        if (!pageLoadSoundPlayed) {
+          const sound = new Howl({
+            src: ['/audio/page-load-chime.mp3'], // Placeholder path
+            volume: 0.5, // Adjust volume as needed
+            onplayerror: (id, error) => {
+              console.error('[ArchetypeDiscoveryPage] Howler onplayerror for page load chime:', id, error);
+            },
+            onloaderror: (id, error) => {
+              console.error('[ArchetypeDiscoveryPage] Howler onloaderror for page load chime:', id, error);
+            }
+          });
+          sound.play();
+          setPageLoadSoundPlayed(true);
+        }
+      };
+      initializeParticlesEngineAndSound();
     }
   }, [hasMounted, pageLoadSoundPlayed]); // Dependencies for particle/sound effect
 
