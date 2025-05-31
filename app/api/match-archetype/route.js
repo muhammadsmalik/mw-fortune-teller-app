@@ -7,8 +7,8 @@ import * as path from 'node:path';
 const GEMINI_MODEL_NAME = process.env.GEMINI_MODEL_NAME || "gemini-2.5-flash-preview-04-17";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
-// Define the schema for the archetype matching response
-const archetypeMatchSchema = {
+// Define the schema for the archetype matching response (LLM part)
+const llmArchetypeMatchSchema = {
   type: "OBJECT",
   properties: {
     userMatchedArchetype: {
@@ -48,12 +48,13 @@ const archetypeMatchSchema = {
         },
         attendeeArchetype: {
           type: "STRING",
-          description: "The archetype of the suggested attendee."
+          description: "The archetype of the suggested attendee (must be one of the archetypes from the provided conference attendee list)."
         },
         connectionReason: {
           type: "STRING",
           description: "A brief, compelling reason (1-2 sentences) why the user should connect with this specific attendee, highlighting shared interests, complementary expertise, or mutual benefits based on their profiles and archetypes."
         }
+        // profileImageURL is removed from LLM's responsibility
       },
       required: ["attendeeName", "attendeeArchetype", "connectionReason"]
     },
@@ -101,7 +102,7 @@ export async function POST(request) {
 
   try {
     const requestBody = await request.json();
-    const { userData } = requestBody; // conferenceArchetypes is now loaded from file
+    const { userData } = requestBody;
 
     if (!userData || (!userData.linkedInProfileSummary && !userData.manualData)) {
       return new Response(JSON.stringify({ error: "Missing required field: userData (either linkedInProfileSummary or manualData)" }), {
@@ -145,10 +146,11 @@ export async function POST(request) {
       `;
     }
 
+    // LLM is still aware of profileImageURL for context, but not asked to return it.
     const conferenceArchetypesContext = `
       Available Conference Attendee Archetypes (for connection suggestions):
       ${conferenceArchetypes.map(att =>
-      `- Name: ${att.name}, Archetype: ${att.archetype}\n  Summary: ${att.summary}\n  Connection Context: ${att.archetype_connection_llm_context}`).join('\n\n')}
+      `- Name: ${att.name}, Archetype: ${att.archetype}, ProfileImageURL: ${att.profileImageURL || 'N/A'}\n  Summary: ${att.summary}\n  Connection Context: ${att.archetype_connection_llm_context}`).join('\n\n')}
     `;
 
     const prompt = `
@@ -171,9 +173,9 @@ Conference Attendee Information (use this to find a suitable connection):
 ${conferenceArchetypesContext}
 
 Instructions:
-1.  **Determine User's Archetype**: Based on their profile, define a "userMatchedArchetype" with a "name" (e.g., "The Data-Driven Growth Hacker") and an "explanation" of why it fits, referencing their profile. This archetype can be inspired by, but not necessarily identical to, the conference attendees' archetypes if a direct match isn't perfect.
-2.  **Explain MW Empowerment**: For "mwEmpowerment", provide a "title" and "advice" on how Moving Walls' solutions specifically help this archetype.
-3.  **Suggest Conference Connection**: For "suggestedConferenceConnection", identify ONE attendee from the provided list. Provide their "attendeeName", "attendeeArchetype", and a compelling "connectionReason".
+1.  **Determine User\'s Archetype**: Based on their profile, define a "userMatchedArchetype" with a "name" (e.g., "The Data-Driven Growth Hacker") and an "explanation" of why it fits, referencing their profile. This archetype can be inspired by, but not necessarily identical to, the conference attendees\' archetypes if a direct match isn\'t perfect.
+2.  **Explain MW Empowerment**: For "mwEmpowerment", provide a "title" and "advice" on how Moving Walls\' solutions specifically help this archetype.
+3.  **Suggest Conference Connection**: For "suggestedConferenceConnection", identify ONE attendee from the provided list. Provide their "attendeeName", "attendeeArchetype" (must be their archetype from the list), and a compelling "connectionReason". Do NOT include profileImageURL in this part of the JSON.
 4.  **Overall Narrative**: Craft a brief "overallNarrative" to introduce the archetype discovery.
 
 Ensure your response is concise, insightful, and strictly adheres to the JSON schema provided.
@@ -185,7 +187,7 @@ Ensure your response is concise, insightful, and strictly adheres to the JSON sc
       generationConfig: {
         temperature: 0.7,
         responseMimeType: "application/json",
-        responseSchema: archetypeMatchSchema,
+        responseSchema: llmArchetypeMatchSchema, // Use the modified schema for LLM
       },
       safetySettings: [
         { category: HarmCategory.HARM_CATEGORY_HARASSMENT, threshold: HarmBlockThreshold.BLOCK_MEDIUM_AND_ABOVE },
@@ -196,36 +198,53 @@ Ensure your response is concise, insightful, and strictly adheres to the JSON sc
     });
 
     const result = await model.generateContent(prompt);
-    const response = result.response;
+    const llmResponse = result.response;
 
-    if (!response || !response.text) {
+    if (!llmResponse || !llmResponse.text) {
       let debugInfo = "Gemini response object was null or undefined.";
-       if (response && response.promptFeedback) {
-         debugInfo += ` Prompt Feedback: ${JSON.stringify(response.promptFeedback, null, 2)}`;
+       if (llmResponse && llmResponse.promptFeedback) {
+         debugInfo += ` Prompt Feedback: ${JSON.stringify(llmResponse.promptFeedback, null, 2)}`;
        }
       console.error("Invalid response structure from Gemini API.", debugInfo);
       throw new Error(`Received no valid text response from Gemini API. ${debugInfo}`);
     }
 
-    const responseJsonString = response.text();
-    let matchedArchetypeData;
+    const responseJsonString = llmResponse.text();
+    let llmMatchedData;
     try {
-      matchedArchetypeData = JSON.parse(responseJsonString);
+      llmMatchedData = JSON.parse(responseJsonString);
     } catch (jsonError) {
       console.error("Gemini response was not valid JSON:", responseJsonString, jsonError);
       throw new Error("Archetype data received from Gemini AI was not in the expected JSON format.");
     }
     
-    // Basic validation of the parsed JSON structure (can be expanded)
-    const requiredTopLevelFields = archetypeMatchSchema.required;
+    // Basic validation of the parsed JSON structure from LLM
+    const requiredTopLevelFields = llmArchetypeMatchSchema.required;
     for (const field of requiredTopLevelFields) {
-        if (!(field in matchedArchetypeData)) {
+        if (!(field in llmMatchedData)) {
             throw new Error(`Missing top-level required field '${field}' in Gemini response.`);
         }
     }
+    if (!llmMatchedData.suggestedConferenceConnection || !llmMatchedData.suggestedConferenceConnection.attendeeName) {
+        throw new Error("Gemini response missing suggestedConferenceConnection.attendeeName.")
+    }
 
+    // Manually look up and add profileImageURL
+    const finalResponseData = { ...llmMatchedData };
+    const suggestedAttendeeName = finalResponseData.suggestedConferenceConnection.attendeeName;
+    const attendeeFromFile = conferenceArchetypes.find(att => att.name === suggestedAttendeeName);
 
-    return new Response(JSON.stringify(matchedArchetypeData), {
+    if (attendeeFromFile) {
+        finalResponseData.suggestedConferenceConnection.profileImageURL = attendeeFromFile.profileImageURL || null;
+         // Ensure attendeeArchetype matches the one from the file if LLM provided a slightly different one
+        finalResponseData.suggestedConferenceConnection.attendeeArchetype = attendeeFromFile.archetype;
+    } else {
+        // Fallback if LLM suggests an attendee not in our list (should be rare with good prompting)
+        finalResponseData.suggestedConferenceConnection.profileImageURL = null;
+        console.warn(`LLM suggested attendee '${suggestedAttendeeName}' not found in archetypes_data.json.`) 
+    }
+
+    return new Response(JSON.stringify(finalResponseData), {
       status: 200,
       headers: { 'Content-Type': 'application/json' }
     });

@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 
 // Helper function to calculate duration (simplified)
 function calculateDuration(startsAt, endsAt) {
@@ -206,6 +207,17 @@ export default function ArchetypeDiscoveryPage() {
       {suggestedConferenceConnection && (
         <div style={{ border: '1px solid #ccc', padding: '15px', margin: '15px 0' }}>
           <h2>Connect & Collaborate</h2>
+          {suggestedConferenceConnection.profileImageURL && (
+            <div style={{ marginBottom: '10px' }}>
+              <Image 
+                src={suggestedConferenceConnection.profileImageURL}
+                alt={`Profile picture of ${suggestedConferenceConnection.attendeeName}`}
+                width={100} 
+                height={100} 
+                style={{ borderRadius: '50%', objectFit: 'cover' }} 
+              />
+            </div>
+          )}
           <p>
             Meet: <strong>{suggestedConferenceConnection.attendeeName}</strong>
             <br />
