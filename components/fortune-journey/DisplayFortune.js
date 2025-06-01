@@ -128,13 +128,17 @@ export default function DisplayFortune({ fortuneData: propFortuneData, onGoBack,
       // Check if it's an error object passed from parent
       if (propFortuneData.error) {
         console.log('[DisplayFortuneComponent] Main useEffect: propFortuneData contains an error object.', propFortuneData.error);
-        htmlString = `<p class=\"text-mw-white/70 text-center text-xl p-4\">${propFortuneData.error}</p>`;
+        htmlString = `<p class="text-mw-white/70 text-center text-xl p-4">${propFortuneData.error}</p>`;
         localOpeningLine = propFortuneData.openingLine || "An Error Has Occurred";
         setFortune(htmlString);
         setOpeningLineToNarrate(localOpeningLine);
         setIsLoadingFortune(false);
         setHasPreRevealed(true); // Set to true to show the error card
         console.log('[DisplayFortuneComponent] Main useEffect: Processed error from propFortuneData. Fortune HTML set to error message. localOpeningLine:', localOpeningLine);
+        // Also save error state to localStorage if needed by contact page for specific error handling
+        localStorage.setItem('fortuneApp_fortuneText', htmlString);
+        // For structuredFortune, perhaps save an error structure or clear it
+        localStorage.removeItem('fortuneApp_structuredFortune'); // Or save { error: propFortuneData.error }
         return; // Stop further processing if it's an error
       }
 
@@ -162,16 +166,27 @@ export default function DisplayFortune({ fortuneData: propFortuneData, onGoBack,
           htmlString += `<div class="flex items-start"><p><strong class="text-mw-light-blue/90">AI Oracle's Guidance:</strong> ${parsedData.aiAdvice}</p></div>`;
         }
         htmlString += `</div>`;
+
+        // Save to localStorage for contact-details page
+        localStorage.setItem('fortuneApp_structuredFortune', JSON.stringify(parsedData));
+        localStorage.setItem('fortuneApp_fortuneText', htmlString);
+
       } catch (error) {
         console.error("[DisplayFortune] Error processing propFortuneData:", error);
         htmlString = '<p class="text-mw-white/70 text-center">There was a slight distortion in the cosmic message. Please try again.</p>';
         localOpeningLine = "A glitch in the astral plane..."; // Update opening line for error too
+        // Save error state to localStorage
+        localStorage.setItem('fortuneApp_fortuneText', htmlString);
+        localStorage.removeItem('fortuneApp_structuredFortune');
       }
     } else {
       // This case will be hit if propFortuneData is null or undefined
       console.log('[DisplayFortuneComponent] Main useEffect: propFortuneData IS NULL or UNDEFINED. Setting to silent/awaiting message.');
       htmlString = '<p class="text-mw-white/70 text-center">The Oracle is currently silent. Your fortune awaits its moment.</p>';
       localOpeningLine = "The Oracle prepares...";
+      // Save this state to localStorage as well
+      localStorage.setItem('fortuneApp_fortuneText', htmlString);
+      localStorage.removeItem('fortuneApp_structuredFortune');
     }
 
     setFortune(htmlString);
