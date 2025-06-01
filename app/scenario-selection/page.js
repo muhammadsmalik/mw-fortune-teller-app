@@ -17,7 +17,7 @@ const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBod
 // Define audio file paths (moved from linkedin-interlude)
 const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3';
 const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3';
-const AVATAR_GREETING_AUDIO_PATH = '/audio/5-questions.mp3';
+const AVATAR_GREETING_AUDIO_PATH = '/audio/6-questions.mp3';
 
 // Define initial general scenarios
 const initialGeneralScenarios = [
