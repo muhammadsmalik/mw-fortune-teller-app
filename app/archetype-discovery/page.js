@@ -320,23 +320,31 @@ export default function ArchetypeDiscoveryPage() {
                          // generateAvatar is the main external dependency. summarizeLinkedInData is a pure helper.
 
   useEffect(() => {
-    console.log("useEffect for fetchArchetypeData triggered. hasMounted:", hasMounted);
     if (hasMounted && !fetchInitiatedRef.current) {
-      console.log("Initiating fetch as component has mounted...");
       const storedLinkedInData = localStorage.getItem('fetchedLinkedInData');
       const storedManualData = localStorage.getItem('userInfoForFortune');
+
+      // If it's a manual flow (manual data exists, LinkedIn data does NOT), redirect.
+      if (storedManualData && !storedLinkedInData) {
+        console.log("[ArchetypeDiscoveryPage] Manual flow detected. Redirecting to home.");
+        router.push('/');
+        return; // Stop further execution in this effect
+      }
+
+      // Proceed with existing logic if it's LI flow or if flow cannot be determined
+      // (e.g. LI data present, or neither present - though latter is an edge case for this page)
+      console.log("[ArchetypeDiscoveryPage] Initiating fetch as component has mounted (not a redirected manual flow).");
       const storedFullNameFromStorage = localStorage.getItem('fortuneApp_fullName') || 'Guest';
-      
       setUserName(storedFullNameFromStorage); // Set userName state here
 
       fetchArchetypeData(storedLinkedInData, storedManualData, storedFullNameFromStorage);
       fetchInitiatedRef.current = true;
     } else if (!hasMounted) {
-      console.log("Component not yet mounted, skipping fetch.");
+      // console.log("Component not yet mounted, skipping fetch.");
     } else {
-      console.log("Fetch already initiated, skipping.");
+      // console.log("Fetch already initiated, skipping.");
     }
-  }, [hasMounted, fetchArchetypeData]); // Added hasMounted. setUserName is stable, so not strictly needed in deps.
+  }, [hasMounted, fetchArchetypeData, router]); // Added router to dependency array
 
   // Effect to play narration once archetype data is loaded
   useEffect(() => {
@@ -413,6 +421,8 @@ export default function ArchetypeDiscoveryPage() {
       }
     };
   }, [hasMounted, archetypeInsightData, userName, narrationPlayed, isLoading]);
+
+  const showAvatarSection = isGeneratingAvatar || generatedAvatar || avatarError;
 
   if (isLoading) {
     return (
@@ -549,43 +559,45 @@ export default function ArchetypeDiscoveryPage() {
             </CardHeader>
             <CardContent>
               <div className="flex flex-col md:flex-row md:items-start md:space-x-6 py-2">
-                {/* Avatar Column */} 
-                <div className="w-full md:w-1/3 flex flex-col items-center justify-start mb-4 md:mb-0 py-2 min-h-[180px] md:min-h-[200px]"> 
-                  {isGeneratingAvatar && (
-                    <div className="p-3 text-center flex flex-col items-center justify-center h-full">
-                      <div className="relative w-16 h-16 mx-auto mb-2">
-                        <div className="absolute inset-0 border-4 border-mw-light-blue/30 rounded-full"></div>
-                        <div
-                          className="absolute inset-0 border-t-4 border-mw-light-blue rounded-full animate-spin"
-                          style={{ animationName: 'spin' }}
-                        ></div>
+                {/* Avatar Column */}
+                {showAvatarSection && (
+                  <div className="w-full md:w-1/3 flex flex-col items-center justify-start mb-4 md:mb-0 py-2 min-h-[180px] md:min-h-[200px]">
+                    {isGeneratingAvatar && (
+                      <div className="p-3 text-center flex flex-col items-center justify-center h-full">
+                        <div className="relative w-16 h-16 mx-auto mb-2">
+                          <div className="absolute inset-0 border-4 border-mw-light-blue/30 rounded-full"></div>
+                          <div
+                            className="absolute inset-0 border-t-4 border-mw-light-blue rounded-full animate-spin"
+                            style={{ animationName: 'spin' }}
+                          ></div>
+                        </div>
+                        <p className="text-mw-white/80 text-sm mt-1">Generating your avatar...</p>
+                        <p className="text-mw-white/70 text-xs italic mt-1">This may take a moment.</p>
                       </div>
-                      <p className="text-mw-white/80 text-sm mt-1">Generating your avatar...</p>
-                      <p className="text-mw-white/70 text-xs italic mt-1">This may take a moment.</p>
-                    </div>
-                  )}
-                  {generatedAvatar && !isGeneratingAvatar && (
-                    <div className="mt-2 flex flex-col items-center">
-                       <p className="text-mw-white/80 text-sm mb-2 font-medium">Your Personalized Avatar</p>
-                      <Image
-                        src={generatedAvatar}
-                        alt="Generated Personalized Avatar"
-                        width={150} 
-                        height={150}
-                        className="rounded-lg border-2 border-mw-gold/70 shadow-md mx-auto object-cover aspect-square"
-                      />
-                    </div>
-                  )}
-                  {avatarError && !isGeneratingAvatar && (
-                    <div className="text-orange-400 bg-orange-900/30 p-2 rounded-md border border-orange-500/50 text-sm text-center h-full flex flex-col justify-center">
-                      <p className="font-semibold">Avatar Creation Failed</p>
-                      <p className="text-xs">{avatarError}</p>
-                    </div>
-                  )}
-                </div>
+                    )}
+                    {generatedAvatar && !isGeneratingAvatar && (
+                      <div className="mt-2 flex flex-col items-center">
+                         <p className="text-mw-white/80 text-sm mb-2 font-medium">Your Personalized Avatar</p>
+                        <Image
+                          src={generatedAvatar}
+                          alt="Generated Personalized Avatar"
+                          width={150} 
+                          height={150}
+                          className="rounded-lg border-2 border-mw-gold/70 shadow-md mx-auto object-cover aspect-square"
+                        />
+                      </div>
+                    )}
+                    {avatarError && !isGeneratingAvatar && (
+                      <div className="text-orange-400 bg-orange-900/30 p-2 rounded-md border border-orange-500/50 text-sm text-center h-full flex flex-col justify-center">
+                        <p className="font-semibold">Avatar Creation Failed</p>
+                        <p className="text-xs">{avatarError}</p>
+                      </div>
+                    )}
+                  </div>
+                )}
 
-                {/* Archetype Info Column */} 
-                <div className="w-full md:w-2/3 text-center md:text-left md:pt-2">
+                {/* Archetype Info Column */}
+                <div className={`w-full ${showAvatarSection ? 'md:w-2/3' : 'md:w-full'} text-center md:text-left md:pt-2`}>
                   <h3 className="text-2xl lg:text-3xl font-bold text-mw-gold mb-3">
                     {userMatchedArchetype.name}
                   </h3>
