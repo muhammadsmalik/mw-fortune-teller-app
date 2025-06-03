@@ -14,7 +14,12 @@ const BEHOLD_AUDIO_PATH = '/audio/behold.mp3';
 export default function ScenarioAnswersScreen() {
   const router = useRouter();
   const [init, setInit] = useState(false);
-  const [scenarioAnswers, setScenarioAnswers] = useState([]);
+  const [categorizedAnswers, setCategorizedAnswers] = useState({
+    general: [],
+    mediaOwner: [],
+    agency: [],
+    other: [] // For any answers that don't fit the known prefixes
+  });
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -160,12 +165,21 @@ export default function ScenarioAnswersScreen() {
         }
 
         const data = await response.json();
+        const newCategorizedAnswers = { general: [], mediaOwner: [], agency: [], other: [] };
+
         if (data.scenarioAnswers) {
-          // Filter for general scenarios using the ID returned by the API
-          const generalAnswers = data.scenarioAnswers.filter(answer => 
-            answer.id && answer.id.startsWith('gen_')
-          );
-          setScenarioAnswers(generalAnswers);
+          data.scenarioAnswers.forEach(answer => {
+            if (answer.id && answer.id.startsWith('gen_')) {
+              newCategorizedAnswers.general.push(answer);
+            } else if (answer.id && answer.id.startsWith('mo_')) {
+              newCategorizedAnswers.mediaOwner.push(answer);
+            } else if (answer.id && answer.id.startsWith('ag_')) {
+              newCategorizedAnswers.agency.push(answer);
+            } else {
+              newCategorizedAnswers.other.push(answer); // Catch any other types
+            }
+          });
+          setCategorizedAnswers(newCategorizedAnswers);
         } else {
           throw new Error("Scenario answers not found in API response.");
         }
@@ -196,6 +210,13 @@ export default function ScenarioAnswersScreen() {
     router.push('/contact-details');
   };
   
+  const categoryTitles = {
+    general: "Future Outlook",
+    mediaOwner: "For Media Owners",
+    agency: "For Agencies",
+    other: "Other Insights"
+  };
+
   if (!init) { // Wait for particles to be ready if it's a core visual element
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">
@@ -231,21 +252,21 @@ export default function ScenarioAnswersScreen() {
          <span className="font-semibold">Moving Walls</span>
        </div>
 
-      {/* Main content area with Globe, Card, and Genie Avatar */}
-      <main className="w-full flex flex-row items-center justify-center gap-4 md:gap-8 z-10 my-8 px-2 sm:px-0">
-        {/* Left: Globe Logo */}
-        <div className="hidden lg:block self-center"> {/* Hidden on smaller screens */} 
-          <Image 
-            src="/assets/globe-logo.jpeg" 
-            alt="Globe Logo"
-            width={150} // Adjust size as needed
-            height={150} // Adjust size as needed
-            className="rounded-full shadow-lg"
-          />
-        </div>
+      {/* Fixed Globe Logo for lg screens */}
+      <div className="hidden lg:block fixed top-1/2 -translate-y-1/2 left-8 xl:left-12 z-20">
+        <Image 
+          src="/assets/globe-logo.jpeg" 
+          alt="Globe Logo"
+          width={150}
+          height={150}
+          className="rounded-full shadow-lg"
+        />
+      </div>
 
-        {/* Center: Scenario Answers Card */}
-        <div className="w-full lg:w-auto max-w-4xl flex-shrink">
+      {/* Main content area with Card */}
+      <main className="w-full flex flex-col items-center justify-center z-10 my-8 px-2 sm:px-0 lg:px-0 lg:pl-[214px] lg:pr-[314px] xl:pl-[230px] xl:pr-[330px]">
+        {/* Center: Scenario Answers Card Wrapper */}
+        <div className="w-full lg:w-auto max-w-4xl">
           <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
             <CardHeader className="text-center pt-6 sm:pt-8">
               <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
@@ -280,40 +301,48 @@ export default function ScenarioAnswersScreen() {
                 </div>
               )}
 
-              {!isLoading && !error && scenarioAnswers.length > 0 && (
-                <div className="space-y-8">
-                  {scenarioAnswers.map((answer, index) => (
-                    <div key={index} className="p-5 rounded-lg bg-mw-dark-blue/30 border border-mw-light-blue/20 shadow-md">
-                      <h3 className="text-xl font-semibold text-mw-gold mb-3">{answer.scenario}</h3>
-                      {answer.insight && (
-                        <>
-                          <p className="text-mw-white/80 italic mb-4">{answer.insight.subQuestion}</p>
-                          <div className="mb-4">
-                            <h4 className="text-md font-semibold text-mw-light-blue mb-2">How MW Helps:</h4>
-                            <ul className="space-y-2 list-inside">
-                              {answer.insight.howMWHelps?.map((point, pIndex) => (
-                                <li key={pIndex} className="flex items-start">
-                                  <span className="text-xl mr-2">{point.icon}</span>
-                                  <span className="text-mw-white/90">{point.text}</span>
-                                </li>
-                              ))}
-                            </ul>
-                          </div>
-                          <div>
-                            <h4 className="text-md font-semibold text-mw-light-blue mb-2">Business Impact:</h4>
-                            <p className="text-mw-white/90">{answer.insight.businessImpact}</p>
-                          </div>
-                        </>
-                      )}
-                    </div>
-                  ))}
-                </div>
-              )}
-               {!isLoading && !error && scenarioAnswers.length === 0 && (
+              {!isLoading && !error && 
+                Object.values(categorizedAnswers).every(category => category.length === 0) && (
                   <div className="flex flex-col items-center justify-center min-h-[300px] text-mw-white/70">
                       <p className="text-lg">No scenario insights available at the moment.</p>
+                      <p className="text-sm mt-2">Please try selecting scenarios again.</p>
                   </div>
                )}
+
+              {!isLoading && !error && Object.entries(categorizedAnswers).map(([categoryKey, answers]) => (
+                answers.length > 0 && (
+                  <div key={categoryKey} className="mb-12"> {/* Increased bottom margin for better separation */}
+                    <h2 className="text-2xl sm:text-3xl font-bold text-mw-gold mb-6 text-center">{categoryTitles[categoryKey]}</h2>
+                    <div className="space-y-8">
+                      {answers.map((answer, index) => (
+                        <div key={index} className="p-5 rounded-lg bg-mw-dark-blue/30 border border-mw-light-blue/20 shadow-md">
+                          <h3 className="text-xl font-semibold text-mw-gold mb-3">{answer.scenario}</h3>
+                          {answer.insight && (
+                            <>
+                              <p className="text-mw-white/80 italic mb-4">{answer.insight.subQuestion}</p>
+                              <div className="mb-4">
+                                <h4 className="text-md font-semibold text-mw-light-blue mb-2">How MW Helps:</h4>
+                                <ul className="space-y-2 list-inside">
+                                  {answer.insight.howMWHelps?.map((point, pIndex) => (
+                                    <li key={pIndex} className="flex items-start">
+                                      <span className="text-xl mr-2">{point.icon}</span>
+                                      <span className="text-mw-white/90">{point.text}</span>
+                                    </li>
+                                  ))}
+                                </ul>
+                              </div>
+                              <div>
+                                <h4 className="text-md font-semibold text-mw-light-blue mb-2">Business Impact:</h4>
+                                <p className="text-mw-white/90">{answer.insight.businessImpact}</p>
+                              </div>
+                            </>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )
+              ))}
             </CardContent>
             {!isLoading && !error && (
               <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
@@ -333,30 +362,29 @@ export default function ScenarioAnswersScreen() {
             )}
           </Card>
         </div>
-
-        {/* Right: Genie Avatar - Should be INSIDE the main flex container */}
-        <div className="hidden lg:block self-center flex-shrink-0"> {/* Hidden on smaller screens, ensure it doesn't shrink */} 
-          <div 
-            className="z-20 cursor-pointer transition-transform duration-200 hover:scale-105 active:scale-95"
-            onClick={() => {
-              if (!isBeholdAudioPlaying) {
-                playBeholdAudio(BEHOLD_AUDIO_PATH);
-              } else {
-                console.log('[TTS Frontend - ScenarioAnswers] Behold audio already playing or action pending.');
-              }
-            }}
-            title="Hear a revelation"
-          >
-            <Image 
-              src="/avatar/genie-pointing-right.png" 
-              alt="Fortune Teller Avatar Right"
-              width={250} // Matched size from scenario-selection for consistency
-              height={375}
-              className={`drop-shadow-xl ${isBeholdAudioPlaying ? 'animate-pulse' : ''}`}
-            />
-          </div>
-        </div>
       </main>
+
+      {/* Fixed Genie Avatar for lg screens */}
+      <div className="hidden lg:block fixed top-1/2 -translate-y-1/2 right-8 xl:right-12 z-20">
+        <div 
+          className="cursor-pointer transition-transform duration-200 hover:scale-105 active:scale-95"
+          onClick={() => {
+            if (!isBeholdAudioPlaying) {
+              playBeholdAudio(BEHOLD_AUDIO_PATH);
+            }
+            // Removed console.log for brevity as it's not essential user feedback here
+          }}
+          title="Hear a revelation"
+        >
+          <Image 
+            src="/avatar/genie-pointing-right.png" 
+            alt="Fortune Teller Avatar Right"
+            width={250}
+            height={375}
+            className={`drop-shadow-xl ${isBeholdAudioPlaying ? 'animate-pulse' : ''}`}
+          />
+        </div>
+      </div>
 
       {/* Behold Audio Error Display */}
       {beholdAudioError && (

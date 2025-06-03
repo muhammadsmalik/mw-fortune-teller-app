@@ -5,9 +5,18 @@
     "details": {
       "subQuestion": "Will it be from self-serve tools, smarter ad delivery, or measurement services? What should I be doubling down on now?",
       "howMWHelps": [
-        { "icon": "💻", "text": "Self-Serve Booking Platform (via LMX): Monetize long-tail advertisers by allowing them to book and manage campaigns directly." },
-        { "icon": "🖥️", "text": "MW Ad Server: Unlock real-time, rules-based campaign scheduling and dynamic content delivery to sell smarter, not just more." },
-        { "icon": "📊", "text": "Measurement & Reporting Tools: Offer advertisers proof of performance and premium insights as a value-added service." }
+        {
+          "icon": "💻",
+          "text": "Self-Serve Booking Platform (via LMX): Monetize long-tail advertisers by allowing them to book and manage campaigns directly."
+        },
+        {
+          "icon": "🖥️",
+          "text": "MW Ad Server: Unlock real-time, rules-based campaign scheduling and dynamic content delivery to sell smarter, not just more."
+        },
+        {
+          "icon": "📊",
+          "text": "Measurement & Reporting Tools: Offer advertisers proof of performance and premium insights as a value-added service."
+        }
       ],
       "businessImpact": "These tools diversify your revenue stack—giving you volume (self-serve), efficiency (ad server), and premium value (measurement)—setting you up for sustainable growth."
     }
@@ -18,8 +27,14 @@
     "details": {
       "subQuestion": "Should I prioritize a platform like LMX to streamline and scale my operations?",
       "howMWHelps": [
-        { "icon": "🚀", "text": "LMX Platform: Centralizes all your inventory, standardizes media packs, enables programmatic access, and plugs into global demand platforms." },
-        { "icon": "🧩", "text": "Integrations with SSPs, DSPs & resellers: Open up new revenue channels effortlessly." }
+        {
+          "icon": "🚀",
+          "text": "LMX Platform: Centralizes all your inventory, standardizes media packs, enables programmatic access, and plugs into global demand platforms."
+        },
+        {
+          "icon": "🧩",
+          "text": "Integrations with SSPs, DSPs & resellers: Open up new revenue channels effortlessly."
+        }
       ],
       "businessImpact": "LMX gives you enterprise-grade control and visibility, making your business platform-ready without massive internal development costs."
     }
@@ -30,9 +45,18 @@
     "details": {
       "subQuestion": "If my screens could talk, would they say I'm using the right tools to measure, report, and prove campaign effectiveness?",
       "howMWHelps": [
-        { "icon": "📍", "text": "Audience Intelligence: Use MW's location and movement data to build audience profiles per screen." },
-        { "icon": "📈", "text": "Brand Lift Studies: Prove campaign impact through recall and intent metrics." },
-        { "icon": "📤", "text": "Automated Campaign Reports: Share real-time delivery and exposure metrics with clients." }
+        {
+          "icon": "📍",
+          "text": "Audience Intelligence: Use MW's location and movement data to build audience profiles per screen."
+        },
+        {
+          "icon": "📈",
+          "text": "Brand Lift Studies: Prove campaign impact through recall and intent metrics."
+        },
+        {
+          "icon": "📤",
+          "text": "Automated Campaign Reports: Share real-time delivery and exposure metrics with clients."
+        }
       ],
       "businessImpact": "Audience understanding = higher advertiser confidence. These insights help you price inventory better and retain clients with transparent performance metrics."
     }
@@ -43,9 +67,18 @@
     "details": {
       "subQuestion": "Should I start hiring data analysts, automation experts, or creative technologists to stay ahead?",
       "howMWHelps": [
-        { "icon": "🛠", "text": "No-Code Tools: Empower your current sales or ops teams with dashboards and campaign tools—no technical hires needed." },
-        { "icon": "🤖", "text": "Programmatic Delivery via LMX: Automatically handle ad rotation, targeting, and creative rules without growing your operations team." },
-        { "icon": "📊", "text": "Campaign Intelligence: Arm your sales team with pitch decks and reports built on real audience and delivery data." }
+        {
+          "icon": "🛠",
+          "text": "No-Code Tools: Empower your current sales or ops teams with dashboards and campaign tools—no technical hires needed."
+        },
+        {
+          "icon": "🤖",
+          "text": "Programmatic Delivery via LMX: Automatically handle ad rotation, targeting, and creative rules without growing your operations team."
+        },
+        {
+          "icon": "📊",
+          "text": "Campaign Intelligence: Arm your sales team with pitch decks and reports built on real audience and delivery data."
+        }
       ],
       "businessImpact": "You scale intelligently—keeping costs low while equipping your team with tech and insights to close bigger, smarter deals."
     }
@@ -56,9 +89,18 @@
     "details": {
       "subQuestion": "And what's the path to get there? Is it through better tech, smarter delivery, or deeper measurement?",
       "howMWHelps": [
-        { "icon": "🎯", "text": "MW Ad Server: Shift from static slot sales to impression-based, targeted delivery using real audience and context data." },
-        { "icon": "🧠", "text": "Contextual & Daypart Targeting: Deliver the right message at the right time, improving ad relevance and outcomes." },
-        { "icon": "🔄", "text": "Yield Optimization Tools: Dynamically fill underutilized inventory or prioritize high-value campaigns." }
+        {
+          "icon": "🎯",
+          "text": "MW Ad Server: Shift from static slot sales to impression-based, targeted delivery using real audience and context data."
+        },
+        {
+          "icon": "🧠",
+          "text": "Contextual & Daypart Targeting: Deliver the right message at the right time, improving ad relevance and outcomes."
+        },
+        {
+          "icon": "🔄",
+          "text": "Yield Optimization Tools: Dynamically fill underutilized inventory or prioritize high-value campaigns."
+        }
       ],
       "businessImpact": "This transforms your inventory into high-performance media. You're no longer just selling space—you're delivering verified outcomes that justify higher pricing."
     }
@@ -67,132 +109,264 @@
     "id": "mo_q1",
     "displayText": "How do I get advertisers to keep coming back?",
     "details": {
-      "subQuestion": "Placeholder: What strategies can ensure advertiser retention and repeat business?",
+      "subQuestion": "How can I use data and reporting to retain advertisers?",
       "howMWHelps": [
-        { "icon": "🤝", "text": "Placeholder: Detail how MW helps improve client relationships and campaign success to encourage loyalty." }
+        {
+          "icon": "📊",
+          "text": "Client Dashboards: Offer transparent proof-of-performance to foster long-term trust."
+        },
+        {
+          "icon": "📍",
+          "text": "Audience Intelligence: Show advertisers who they reached post-campaign."
+        },
+        {
+          "icon": "📈",
+          "text": "Attribution Tools: Prove ROI via footfall lift, brand recall, or purchase intent."
+        }
       ],
-      "businessImpact": "Placeholder: Explain the value of high advertiser retention rates."
+      "businessImpact": "Repeat advertisers increase lifetime value and stabilize revenue cycles."
     }
   },
   {
     "id": "mo_q2",
     "displayText": "How do I optimize my inventory pricing and utilization?",
     "details": {
-      "subQuestion": "Placeholder: What tools and techniques can maximize revenue from existing assets?",
+      "subQuestion": "How can I optimize inventory pricing?",
       "howMWHelps": [
-        { "icon": "⚙️", "text": "Placeholder: Describe MW's yield optimization and dynamic pricing capabilities." }
+        {
+          "icon": "💰",
+          "text": "Dynamic Pricing: Adjust CPMs based on asset performance and demand."
+        },
+        {
+          "icon": "⚙️",
+          "text": "Yield Management: Identify underperforming assets and recommend reallocations."
+        },
+        {
+          "icon": "📊",
+          "text": "Format Benchmarking: Use comparative data to price competitively."
+        }
       ],
-      "businessImpact": "Placeholder: Highlight increased revenue and efficiency through better inventory management."
+      "businessImpact": "Higher yields from existing inventory increase profit margins."
     }
   },
   {
     "id": "mo_q3",
     "displayText": "How do I attract digital budgets?",
     "details": {
-      "subQuestion": "Placeholder: How can traditional OOH compete for and win a share of digital advertising spend?",
+      "subQuestion": "How can I tap into digital and programmatic spending?",
       "howMWHelps": [
-        { "icon": "💻", "text": "Placeholder: Explain MW's programmatic capabilities and data-driven targeting that appeal to digital buyers." }
+        {
+          "icon": "🧠",
+          "text": "SSP Connections: Make inventory available to programmatic buyers."
+        },
+        {
+          "icon": "📅",
+          "text": "Real-Time Booking: Enable screen discovery and instant booking."
+        },
+        {
+          "icon": "👥",
+          "text": "Audience Packaging: Bundle screens with audience data for digital buyers."
+        }
       ],
-      "businessImpact": "Placeholder: Showcase access to new, larger revenue pools from digital advertisers."
+      "businessImpact": "Access to new budget pools and buyers modernizes sales channels."
     }
   },
   {
     "id": "mo_q4",
     "displayText": "How do I attract SMEs and direct clients?",
     "details": {
-      "subQuestion": "Placeholder: What makes OOH accessible and appealing to smaller businesses and those booking directly?",
+      "subQuestion": "How can I attract non-agency advertisers?",
       "howMWHelps": [
-        { "icon": "🏢", "text": "Placeholder: Describe MW's self-serve platforms or simplified booking processes." }
+        {
+          "icon": "🧾",
+          "text": "Self-Serve Booking: Local advertisers can discover and activate screens on demand."
+        },
+        {
+          "icon": "📍",
+          "text": "Hyperlocal Campaigns: Let SMEs target ads by city block or landmark."
+        },
+        {
+          "icon": "📊",
+          "text": "Basic Reports: Easy-to-read reports suitable for non-marketers."
+        }
       ],
-      "businessImpact": "Placeholder: Emphasize diversification of client base and tapping into the long-tail market."
+      "businessImpact": "Unlocking SME revenue adds a long tail of incremental bookings."
     }
   },
   {
     "id": "mo_q5",
     "displayText": "How do I reduce manual workload in operations?",
     "details": {
-      "subQuestion": "Placeholder: How can technology streamline campaign management, reporting, and other operational tasks?",
+      "subQuestion": "How can I automate campaign management processes?",
       "howMWHelps": [
-        { "icon": "🤖", "text": "Placeholder: Detail MW's automation tools for ad serving, scheduling, and reporting." }
+        {
+          "icon": "🔄",
+          "text": "Auto-Playlisting: Streamline content scheduling by rules."
+        },
+        {
+          "icon": "📦",
+          "text": "Creative Workflow: Manage versioning, approvals, and deployment centrally."
+        },
+        {
+          "icon": "🔗",
+          "text": "System Integrations: Reduce manual entry through API connections."
+        }
       ],
-      "businessImpact": "Placeholder: Focus on cost savings, reduced errors, and freeing up team capacity for strategic work."
+      "businessImpact": "Lower operational costs and faster campaign activation."
     }
   },
   {
     "id": "mo_q6",
     "displayText": "What new innovations or monetization models can I explore?",
     "details": {
-      "subQuestion": "Placeholder: Beyond traditional ad sales, what are emerging opportunities in OOH?",
+      "subQuestion": "What new opportunities exist for media owners?",
       "howMWHelps": [
-        { "icon": "💡", "text": "Placeholder: Suggest MW's support for new formats, data products, or interactive experiences." }
+        {
+          "icon": "🎮",
+          "text": "Gamified Campaigns: Boost engagement through AR or interactive formats."
+        },
+        {
+          "icon": "📊",
+          "text": "Data Monetization: Package footfall or location analytics as a service."
+        },
+        {
+          "icon": "🧠",
+          "text": "Emerging Tech: Explore NFTs, QR-based interactions, or contextual commerce."
+        }
       ],
-      "businessImpact": "Placeholder: Illustrate future-proofing the business and creating new revenue streams."
+      "businessImpact": "Non-advertising revenue sources diversify risk and build brand equity."
     }
   },
   {
     "id": "ag_q1",
     "displayText": "How do I get clients to reinvest in OOH?",
     "details": {
-      "subQuestion": "Placeholder: How can agencies make a stronger case for OOH in the media mix?",
+      "subQuestion": "How can I use data to retain and grow client base?",
       "howMWHelps": [
-        { "icon": "📣", "text": "Placeholder: Provide details on MW's measurement tools and case studies that prove OOH effectiveness." }
+        {
+          "icon": "📊",
+          "text": "Client Dashboards: Share campaign results in real time to build trust."
+        },
+        {
+          "icon": "📈",
+          "text": "Attribution Studies: Show impact on footfall, recall, or behavior change."
+        },
+        {
+          "icon": "📍",
+          "text": "Post-Campaign Insights: Visualize who saw the ads and where."
+        }
       ],
-      "businessImpact": "Placeholder: Show increased OOH spend from existing clients and stronger campaign results."
+      "businessImpact": "Stronger results lead to client retention and upselling opportunities."
     }
   },
   {
     "id": "ag_q2",
     "displayText": "How do I optimize campaign delivery and pricing?",
     "details": {
-      "subQuestion": "Placeholder: What tools can help agencies ensure their clients' OOH campaigns are efficient and cost-effective?",
+      "subQuestion": "How to optimize pricing and campaign performance?",
       "howMWHelps": [
-        { "icon": "🎯", "text": "Placeholder: Explain MW's targeting, programmatic buying, and performance analytics for agencies." }
+        {
+          "icon": "⚙️",
+          "text": "Campaign Simulation: Model reach and frequency before buying."
+        },
+        {
+          "icon": "📈",
+          "text": "Performance Forecasting: Set delivery expectations upfront."
+        },
+        {
+          "icon": "🗺️",
+          "text": "Location Ranking: Prioritize sites based on audience fit and past results."
+        }
       ],
-      "businessImpact": "Placeholder: Highlight better ROI for clients and improved agency efficiency."
+      "businessImpact": "Better optimization drives results and ensures client satisfaction."
     }
   },
   {
     "id": "ag_q3",
     "displayText": "How do I transition my clients into programmatic OOH?",
     "details": {
-      "subQuestion": "Placeholder: What are the benefits and steps for agencies to guide clients towards pDOOH?",
+      "subQuestion": "How can I shift clients to digital/programmatic OOH?",
       "howMWHelps": [
-        { "icon": "🔄", "text": "Placeholder: Describe MW's pDOOH platform access and educational support for agencies." }
+        {
+          "icon": "🧠",
+          "text": "Programmatic Access: One-click deals through DSPs and SSPs."
+        },
+        {
+          "icon": "📊",
+          "text": "Audience Matching: Use data to align DOOH with digital buyer profiles."
+        },
+        {
+          "icon": "⏱️",
+          "text": "Real-Time Bidding: Activate screens only during relevant conditions."
+        }
       ],
-      "businessImpact": "Placeholder: Emphasize access to modern buying methods, flexibility, and data-driven campaigns."
+      "businessImpact": "Seamless DOOH inclusion helps tap into growing digital media budgets."
     }
   },
   {
     "id": "ag_q4",
     "displayText": "How do I attract new types of advertisers to OOH?",
     "details": {
-      "subQuestion": "Placeholder: How can agencies expand their client base by showcasing OOH's versatility?",
+      "subQuestion": "How to attract SMEs and direct clients?",
       "howMWHelps": [
-        { "icon": "🌟", "text": "Placeholder: Detail MW's solutions for various industries or campaign goals previously not common in OOH." }
+        {
+          "icon": "🧾",
+          "text": "Self-Serve Tools: Let smaller clients explore, plan, and book without needing full service."
+        },
+        {
+          "icon": "📍",
+          "text": "Micro-Geotargeting: Build campaigns around specific store catchments or events."
+        },
+        {
+          "icon": "🛠️",
+          "text": "Templates & Bundles: Offer quick-start campaign kits for common objectives."
+        }
       ],
-      "businessImpact": "Placeholder: Illustrate agency growth by tapping into new client sectors with innovative OOH."
+      "businessImpact": "Expanding the client base drives volume and reduces reliance on large accounts."
     }
   },
   {
     "id": "ag_q5",
     "displayText": "How do I improve planning speed and accuracy?",
     "details": {
-      "subQuestion": "Placeholder: What tools can streamline the OOH planning and buying process for agencies?",
+      "subQuestion": "How to automate operations and reduce overhead?",
       "howMWHelps": [
-        { "icon": "⏱️", "text": "Placeholder: Explain MW's planning tools, inventory discovery, and proposal generation features." }
+        {
+          "icon": "⚡",
+          "text": "Plan Automation: Reduce manual spreadsheet work for planning teams."
+        },
+        {
+          "icon": "📤",
+          "text": "Campaign Trafficking APIs: Auto-schedule creatives across multiple vendors."
+        },
+        {
+          "icon": "📦",
+          "text": "Data Centralization: Access inventory, audiences, and performance in one place."
+        }
       ],
-      "businessImpact": "Placeholder: Focus on faster turnaround times for clients and more competitive proposals."
+      "businessImpact": "Streamlined workflows improve margins and delivery timelines."
     }
   },
   {
     "id": "ag_q6",
     "displayText": "How do I use data to win more proposals?",
     "details": {
-      "subQuestion": "Placeholder: How can agencies leverage data to create more compelling and effective OOH strategies?",
+      "subQuestion": "How can I use data for planning and proposals?",
       "howMWHelps": [
-        { "icon": "📊", "text": "Placeholder: Describe MW's audience insights, location analytics, and reporting capabilities for proposal building." }
+        {
+          "icon": "📍",
+          "text": "Footfall Maps: Support recommendations with location intelligence."
+        },
+        {
+          "icon": "📈",
+          "text": "Forecasting Tools: Estimate impressions, reach, and frequency in advance."
+        },
+        {
+          "icon": "📝",
+          "text": "Custom Proposal Builder: Auto-generate visual plans and rationale."
+        }
       ],
-      "businessImpact": "Placeholder: Highlight higher win rates for proposals and demonstrating strategic value to clients."
+      "businessImpact": "Winning proposals more often improves agency win rates and client trust."
     }
   }
 ] 
