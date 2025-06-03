@@ -552,7 +552,7 @@ export default function LinkedInInterludeScreen() {
                   key="doorRevealOverlay"
                   onClick={() => !(isGeneratingFortune) && handleInitiateNarration()}
                   className={`fixed inset-0 z-40 bg-mw-dark-navy/50 backdrop-blur-sm ${(isGeneratingFortune) ? 'pointer-events-none' : 'cursor-pointer group'}`}
-                  initial={{ opacity: 0 }}
+                  initial={{ opacity: isGeneratingFortune ? 0.5 : 1 }}
                   animate={{ opacity: isGeneratingFortune ? 0.5 : 1 }}
                   exit={{ opacity: 0 }}
                   transition={{ duration: 0.5 }}
