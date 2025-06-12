@@ -1,0 +1,56 @@
+{
+  "publisher": {
+    "high": [
+      { "id": "pub_h1", "text": "Audience sequences?" },
+      { "id": "pub_h2", "text": "AI CRM funnels?" },
+      { "id": "pub_h3", "text": "Plug-and-play buying?" },
+      { "id": "pub_h4", "text": "Blockchain revenue?" },
+      { "id": "pub_h5", "text": "AI copilot teams?" },
+      { "id": "pub_h6", "text": "Performance subs?" }
+    ],
+    "tactical": [
+      { "id": "pub_t1", "text": "Prove effectiveness" },
+      { "id": "pub_t2", "text": "Inbound case studies" },
+      { "id": "pub_t3", "text": "Vertical-SaaS APIs" },
+      { "id": "pub_t4", "text": "Low-code CRM" },
+      { "id": "pub_t5", "text": "Audience architects" },
+      { "id": "pub_t6", "text": "Trial campaigns" }
+    ]
+  },
+  "advertiser": {
+    "high": [
+      { "id": "adv_h1", "text": "AI-optimised journey?" },
+      { "id": "adv_h2", "text": "AR + DOOH?" },
+      { "id": "adv_h3", "text": "Net-zero campaigns?" },
+      { "id": "adv_h4", "text": "Metaverse sync?" },
+      { "id": "adv_h5", "text": "Blockchain proof?" },
+      { "id": "adv_h6", "text": "Dynamic pricing?" }
+    ],
+    "tactical": [
+      { "id": "adv_t1", "text": "Link DOOH to sales" },
+      { "id": "adv_t2", "text": "Shift budget to DOOH" },
+      { "id": "adv_t3", "text": "Location vs audience" },
+      { "id": "adv_t4", "text": "Dynamic creatives" },
+      { "id": "adv_t5", "text": "Incremental reach" },
+      { "id": "adv_t6", "text": "1P data use" }
+    ]
+  },
+  "platform": {
+    "high": [
+      { "id": "plat_h1", "text": "AI workflow auto?" },
+      { "id": "plat_h2", "text": "Sell journeys, not ads" },
+      { "id": "plat_h3", "text": "Carbon-neutral svc" },
+      { "id": "plat_h4", "text": "OOHaaS platform" },
+      { "id": "plat_h5", "text": "Blockchain audits" },
+      { "id": "plat_h6", "text": "Human-AI teams" }
+    ],
+    "tactical": [
+      { "id": "plat_t1", "text": "Clean-room ROI" },
+      { "id": "plat_t2", "text": "DOOH budget share" },
+      { "id": "plat_t3", "text": "Prime vs audience" },
+      { "id": "plat_t4", "text": "Dynamic ads at scale" },
+      { "id": "plat_t5", "text": "Retail-media sync" },
+      { "id": "plat_t6", "text": "Unified KPIs" }
+    ]
+  }
+} 

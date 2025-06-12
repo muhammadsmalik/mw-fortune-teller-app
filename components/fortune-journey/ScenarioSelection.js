@@ -12,6 +12,7 @@ import { loadSlim } from "@tsparticles/slim";
 // For now, assuming components.json maps @/* correctly relative to this new location.
 import scenariosData from '@/lib/predefined_scenarios.json';
 import { motion, AnimatePresence } from 'framer-motion';
+import personaQuestions from '@/lib/persona_questions.json';
 
 const MAX_SELECTIONS = 2;
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
@@ -48,6 +49,14 @@ const agencyQuestions = [
   { id: 'ag_q5', displayText: 'How do I improve planning speed and accuracy?' },
   { id: 'ag_q6', displayText: 'How do I use data to win more proposals?' },
 ];
+
+const personaKeys = ['publisher', 'advertiser', 'platform'];
+
+const personaDisplayNames = {
+  publisher: 'Publisher',
+  advertiser: 'Advertiser',
+  platform: 'Platform / Service Provider',
+};
 
 export default function ScenarioSelection({ onScenariosConfirmed }) {
   const router = useRouter(); // Still used for navigating back to /collect-info
@@ -290,18 +299,13 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
       });
     };
 
-    const handleProceedFromInitialAndUserType = () => {
-      if (!userType) {
-        setError('Please select your role (Media Owner or Agency).');
-        return;
-      }
+    const handleConfirmSelections = () => {
       if (selectedScenarioIds.length !== MAX_SELECTIONS) {
-        setError(`Please select exactly ${MAX_SELECTIONS} general scenarios to proceed.`);
+        setError(`Please select exactly ${MAX_SELECTIONS} questions to proceed.`);
         return;
       }
-      setInitialSelections(selectedScenarioIds);
-      setCurrentView('roleSpecificScenarioSelection');
       setError(null);
+      onScenariosConfirmed({ scenarios: selectedScenarioIds });
     };
 
     const handleUserTypeSelect = (type) => {
@@ -432,123 +436,90 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
         <span className="font-semibold">Moving Walls</span>
       </div>
       
-      {currentView === 'initialAndUserTypeSelection' && ( // Removed !isNavigationInProgress
+      {currentView === 'initialAndUserTypeSelection' && (
         <main className="w-full flex flex-row items-start justify-center gap-8 z-10 my-12 px-4 sm:px-0">
           {!isTransitionAudioPlaying && (
             <div 
               className="z-20 cursor-pointer transition-transform duration-200 hover:scale-105 active:scale-95 self-center hidden lg:block pt-16"
-              title="The Oracle awaits..."
+              title="Select questions"
             >
               <Image 
                 src="/avatar/genie-pointing-left.png" 
                 alt="Fortune Teller Avatar"
                 width={250}
                 height={375}
-                className={`drop-shadow-xl ${isGreetingAudioPlaying ? 'animate-pulse' : ''}`} 
+                className="drop-shadow-xl" 
               />
             </div>
           )}
-          <div className="w-full max-w-3xl">
+          <div className="w-full max-w-6xl">
             <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
               <CardHeader className="text-center pt-6 sm:pt-8">
                 <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
                   Chart Your Course
                 </CardTitle>
                 <p className="text-mw-white/70 text-sm mt-2">
-                  First, tell us who you are, then choose two initial paths that resonate most.
+                  Choose exactly {MAX_SELECTIONS} questions that resonate most.
                 </p>
               </CardHeader>
               <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
                 {error && (
-                    <div className="mb-6 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
-                        {error}
-                    </div>
-                )}
-
-                <div className="mb-8">
-                  <h3 className="text-lg font-semibold text-mw-light-blue mb-3 text-center">I am a...</h3>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    <Button
-                      onClick={() => handleUserTypeSelect('mediaOwner')}
-                      variant={userType === 'mediaOwner' ? 'default' : 'outline'}
-                      className={`w-full text-base py-6 border-2 group
-                                  ${userType === 'mediaOwner' 
-                                    ? 'bg-mw-gold text-mw-dark-navy border-mw-gold font-semibold shadow-lg opacity-100'
-                                    : 'border-mw-light-blue/50 text-mw-white hover:border-mw-gold hover:bg-mw-light-blue/10'} 
-                                  transition-all duration-200`}
-                    >
-                      <Building className={`mr-2 h-6 w-6 ${userType === 'mediaOwner' ? 'text-mw-dark-navy' : 'text-mw-light-blue group-hover:text-mw-gold'} transition-colors`} />
-                      Media Owner
-                    </Button>
-                    <Button
-                      onClick={() => handleUserTypeSelect('agency')}
-                      variant={userType === 'agency' ? 'default' : 'outline'}
-                      className={`w-full text-base py-6 border-2 group
-                                  ${userType === 'agency' 
-                                    ? 'bg-mw-gold text-mw-dark-navy border-mw-gold font-semibold shadow-lg opacity-100'
-                                    : 'border-mw-light-blue/50 text-mw-white hover:border-mw-gold hover:bg-mw-light-blue/10'} 
-                                  transition-all duration-200`}
-                    >
-                      <Users className={`mr-2 h-6 w-6 ${userType === 'agency' ? 'text-mw-dark-navy' : 'text-mw-light-blue group-hover:text-mw-gold'} transition-colors`} />
-                      Agency Representative
-                    </Button>
+                  <div className="mb-6 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
+                    {error}
                   </div>
-                </div>
-
-                <div>
-                  <h3 className="text-lg font-semibold text-mw-light-blue mb-3 text-center">My Initial Questions...</h3>
-                  {allScenarios.length > 0 ? (
-                    <div className="space-y-3">
-                      {allScenarios.map((scenario) => {
-                        const isSelected = selectedScenarioIds.includes(scenario.id);
-                        return (
-                          <div
-                            key={scenario.id}
-                            onClick={() => handleScenarioToggle(scenario.id)}
-                            className={`p-3 rounded-lg border cursor-pointer transition-all duration-200 ease-in-out 
-                                        flex items-center space-x-3
-                                        ${isSelected 
-                                          ? 'bg-mw-light-blue/20 border-mw-light-blue shadow-md' 
-                                          : 'bg-mw-dark-blue/30 border-mw-light-blue/30 hover:bg-mw-light-blue/10'}
-                                    `}
-                          >
-                            {isSelected ? 
-                              <CheckSquare className="h-5 w-5 text-mw-gold flex-shrink-0" /> : 
-                              <Square className="h-5 w-5 text-mw-white/50 flex-shrink-0" />
-                            }
-                            <span className={`text-sm ${isSelected ? 'text-mw-white font-medium' : 'text-mw-white/80'}`}>
-                              {scenario.displayText}
-                            </span>
-                          </div>
-                        );
-                      })}
+                )}
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
+                  {personaKeys.map((personaKey) => (
+                    <div key={personaKey} className="mb-10 last:mb-0">
+                      <h3 className="text-2xl font-bold text-mw-gold mb-4 text-center sm:text-left">
+                        {personaDisplayNames[personaKey]}
+                      </h3>
+                      <div className="bg-mw-dark-blue/40 border border-mw-light-blue/30 rounded-lg p-4 h-full">
+                        <div className="space-y-3">
+                          {personaQuestions[personaKey].high.map((scenario) => {
+                            const isSelected = selectedScenarioIds.includes(scenario.id);
+                            return (
+                              <div
+                                key={scenario.id}
+                                onClick={() => handleScenarioToggle(scenario.id)}
+                                className={`flex items-start space-x-2 cursor-pointer rounded-md p-3 transition-all duration-200 border 
+                                            ${isSelected 
+                                              ? 'bg-mw-light-blue/30 border-mw-light-blue shadow-lg' 
+                                              : 'bg-mw-dark-blue/20 border-transparent hover:border-mw-light-blue/50 hover:bg-mw-light-blue/10'}`}
+                              >
+                                {isSelected ? (
+                                  <CheckSquare className="h-5 w-5 text-mw-gold flex-shrink-0 mt-0.5" />
+                                ) : (
+                                  <Square className="h-5 w-5 text-mw-white/50 flex-shrink-0 mt-0.5" />
+                                )}
+                                <span className={`text-base md:text-lg leading-snug break-words ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}> 
+                                  {scenario.text}
+                                </span>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
                     </div>
-                  ) : (
-                    <div className="flex flex-col items-center justify-center min-h-[150px]">
-                      <Loader2 className="h-8 w-8 animate-spin text-mw-light-blue mb-3" />
-                      <p className="text-center text-mw-white/70">Loading initial questions...</p>
-                    </div>
-                  )}
+                  ))}
                 </div>
               </CardContent>
-              {allScenarios.length > 0 && (
-                <CardFooter className="pt-4 pb-6 sm:pb-8 flex justify-center">
-                  <Button
-                    onClick={handleProceedFromInitialAndUserType}
-                    size="lg"
-                    className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md transform transition-all duration-150 hover:shadow-xl active:scale-95"
-                    disabled={!userType || selectedScenarioIds.length !== MAX_SELECTIONS}
-                  >
-                    {`Next (${selectedScenarioIds.length}/${MAX_SELECTIONS} Questions Selected)`}
-                  </Button>
-                </CardFooter>
-              )}
+              <CardFooter className="pt-4 pb-6 sm:pb-8 flex justify-center">
+                <Button
+                  onClick={handleConfirmSelections}
+                  size="lg"
+                  className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md transform transition-all duration-150 hover:shadow-xl active:scale-95"
+                  disabled={selectedScenarioIds.length !== MAX_SELECTIONS}
+                >
+                  {`Reveal My Blueprint (${selectedScenarioIds.length}/${MAX_SELECTIONS})`}
+                </Button>
+              </CardFooter>
             </Card>
           </div>
         </main>
       )}
       
-      {currentView === 'roleSpecificScenarioSelection' && ( // Removed !isNavigationInProgress
+      {currentView === 'roleSpecificScenarioSelection' && (
         <main className="w-full flex flex-row items-start justify-center gap-8 z-10 my-12 px-4 sm:px-0">
           {!isTransitionAudioPlaying && (
             <div 
@@ -570,7 +541,7 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
             </div>
           )}
 
-          <div className="w-full max-w-3xl">
+          <div className="w-full max-w-6xl">
             <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
               <CardHeader className="text-center pt-6 sm:pt-8">
                 <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
@@ -590,10 +561,6 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
                   <div className="mb-4 p-3 text-center text-orange-400 bg-orange-900/30 border border-orange-500/50 rounded-md">
                     <p className="font-semibold">Transition Disrupted:</p>
                     <p>{transitionAudioError}</p>
-                    {/* In Phase 2, parent will handle how to proceed. For now, this button would do nothing if not wired. */}
-                    {/* <Button variant="link" onClick={() => onScenariosConfirmed({ scenarios: [...initialSelections, ...selectedScenarioIds], transitionError: true })} className="text-mw-light-blue hover:text-mw-gold mt-1">
-                        Attempt to Proceed Anyway?
-                    </Button> */}
                   </div>
                 )}
                 {allScenarios.length > 0 ? (
@@ -633,7 +600,7 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
               {allScenarios.length > 0 && (
                 <CardFooter className="pt-2 pb-6 sm:pb-8 flex justify-center">
                   <Button
-                    onClick={handleProceedToFortune} // This now calls onScenariosConfirmed via playTransitionSequence
+                    onClick={handleProceedToFortune}
                     size="lg"
                     className="px-8 py-3 text-lg font-semibold \
                                bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] \
@@ -663,9 +630,9 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
       )}
 
       <AnimatePresence>
-        {!error && isTransitionAudioPlaying && !transitionAudioError && ( // Removed !isNavigationInProgress
+        {!error && isTransitionAudioPlaying && !transitionAudioError && (
           <motion.div
-            key="transitionAudioVeilScenarioComponent" // Changed key
+            key="transitionAudioVeilScenarioComponent"
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1, transition: { duration: 0.7, ease: "circOut" } }}
             exit={{ opacity: 0, scale: 0.8, transition: { duration: 0.5, ease: "circIn" } }}
