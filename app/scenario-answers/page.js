@@ -289,12 +289,12 @@ export default function ScenarioAnswersScreen() {
                   <Button 
                       onClick={() => {
                           // Attempt to go back to scenario selection, or to collect-info as a fallback
-                          const previousUserPath = localStorage.getItem('userLinkedInProfile') ? '/linkedin-interlude' : '/scenario-selection';
+                          const previousUserPath = localStorage.getItem('userLinkedInProfile') ? '/linkedin-interlude' : '/fortune-journey';
                           // Heuristic: if linkedin profile exists, user was likely on interlude before display-fortune -> scenario-answers
                           // If no linkedin, they were on scenario-selection before generating-fortune -> display-fortune -> scenario-answers
                           // A more robust way would be to store the actual previous path if possible or use a query param.
                           // For now, this tries to send them to a logical place to re-select scenarios.
-                          router.push(localStorage.getItem('userInfoForFortune') ? '/scenario-selection' : '/collect-info');
+                          router.push(localStorage.getItem('userInfoForFortune') ? '/fortune-journey' : '/collect-info');
                       }} 
                       className="mt-6"
                   >Try Selecting Scenarios Again</Button>
