@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'; // Kept for /collect-info navigatio
 import Image from 'next/image';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
-import { CheckSquare, Square, Loader2, ArrowLeft, Users, Building } from 'lucide-react';
+import { CheckSquare, Square, Loader2, ArrowLeft, Users, Building, Combine } from 'lucide-react';
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 // Scenarios data is imported directly, adjust path if necessary if this file moves deeper
@@ -63,6 +63,7 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
   const [init, setInit] = useState(false);
   const [allScenarios, setAllScenarios] = useState([]);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
+  const [lockedPersona, setLockedPersona] = useState(null);
   const [error, setError] = useState(null);
   // const [isNavigationInProgress, setIsNavigationInProgress] = useState(false); // Managed by parent
 
@@ -288,13 +289,38 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
     }, [playAudioFile]);
 
     const handleScenarioToggle = (scenarioId) => {
+      const getPersonaFromId = (id) => {
+        if (id.startsWith('pub_')) return 'publisher';
+        if (id.startsWith('adv_')) return 'advertiser';
+        if (id.startsWith('plat_')) return 'platform';
+        return null;
+      };
+
+      const clickedPersona = getPersonaFromId(scenarioId);
+
       setSelectedScenarioIds(prevSelected => {
-        if (prevSelected.includes(scenarioId)) {
-          return prevSelected.filter(id => id !== scenarioId);
+        const isAlreadySelected = prevSelected.includes(scenarioId);
+        
+        if (isAlreadySelected) {
+          const newSelection = prevSelected.filter(id => id !== scenarioId);
+          if (newSelection.length === 0) {
+            setLockedPersona(null); // Unlock if no scenarios are selected
+          }
+          return newSelection;
         }
+
+        // If a persona is already locked, only allow selections from that persona
+        if (lockedPersona && lockedPersona !== clickedPersona) {
+          return prevSelected;
+        }
+
         if (prevSelected.length < MAX_SELECTIONS) {
+          if (prevSelected.length === 0) {
+            setLockedPersona(clickedPersona); // Lock to the persona of the first selection
+          }
           return [...prevSelected, scenarioId];
         }
+        
         return prevSelected;
       });
     };
@@ -305,7 +331,10 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
         return;
       }
       setError(null);
-      onScenariosConfirmed({ scenarios: selectedScenarioIds });
+      onScenariosConfirmed({ 
+        scenarios: selectedScenarioIds,
+        persona: lockedPersona 
+      });
     };
 
     const handleUserTypeSelect = (type) => {
@@ -469,39 +498,45 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
                   </div>
                 )}
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
-                  {personaKeys.map((personaKey) => (
-                    <div key={personaKey} className="mb-10 last:mb-0">
-                      <h3 className="text-2xl font-bold text-mw-gold mb-4 text-center sm:text-left">
-                        {personaDisplayNames[personaKey]}
-                      </h3>
-                      <div className="bg-mw-dark-blue/40 border border-mw-light-blue/30 rounded-lg p-4 h-full">
-                        <div className="space-y-3">
-                          {personaQuestions[personaKey].high.map((scenario) => {
-                            const isSelected = selectedScenarioIds.includes(scenario.id);
-                            return (
-                              <div
-                                key={scenario.id}
-                                onClick={() => handleScenarioToggle(scenario.id)}
-                                className={`flex items-start space-x-2 cursor-pointer rounded-md p-3 transition-all duration-200 border 
-                                            ${isSelected 
-                                              ? 'bg-mw-light-blue/30 border-mw-light-blue shadow-lg' 
-                                              : 'bg-mw-dark-blue/20 border-transparent hover:border-mw-light-blue/50 hover:bg-mw-light-blue/10'}`}
-                              >
-                                {isSelected ? (
-                                  <CheckSquare className="h-5 w-5 text-mw-gold flex-shrink-0 mt-0.5" />
-                                ) : (
-                                  <Square className="h-5 w-5 text-mw-white/50 flex-shrink-0 mt-0.5" />
-                                )}
-                                <span className={`text-base md:text-lg leading-snug break-words ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}> 
-                                  {scenario.text}
-                                </span>
-                              </div>
-                            );
-                          })}
+                  {personaKeys.map((personaKey) => {
+                    const isLocked = lockedPersona && lockedPersona !== personaKey;
+                    return (
+                      <div 
+                        key={personaKey} 
+                        className={`transition-opacity duration-300 ${isLocked ? 'opacity-40 pointer-events-none' : 'opacity-100'}`}
+                      >
+                        <h3 className="text-2xl font-bold text-mw-gold mb-4 text-center sm:text-left">
+                          {personaDisplayNames[personaKey]}
+                        </h3>
+                        <div className="bg-mw-dark-blue/40 border border-mw-light-blue/30 rounded-lg p-4 h-full">
+                          <div className="space-y-3">
+                            {personaQuestions[personaKey].high.map((scenario) => {
+                              const isSelected = selectedScenarioIds.includes(scenario.id);
+                              return (
+                                <div
+                                  key={scenario.id}
+                                  onClick={() => handleScenarioToggle(scenario.id)}
+                                  className={`flex items-start space-x-2 cursor-pointer rounded-md p-3 transition-all duration-200 border 
+                                              ${isSelected 
+                                                ? 'bg-mw-light-blue/30 border-mw-light-blue shadow-lg' 
+                                                : 'bg-mw-dark-blue/20 border-transparent hover:border-mw-light-blue/50 hover:bg-mw-light-blue/10'}`}
+                                >
+                                  {isSelected ? (
+                                    <CheckSquare className="h-5 w-5 text-mw-gold flex-shrink-0 mt-0.5" />
+                                  ) : (
+                                    <Square className="h-5 w-5 text-mw-white/50 flex-shrink-0 mt-0.5" />
+                                  )}
+                                  <span className={`text-base md:text-lg leading-snug break-words ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}> 
+                                    {scenario.text}
+                                  </span>
+                                </div>
+                              );
+                            })}
+                          </div>
                         </div>
                       </div>
-                    </div>
-                  ))}
+                    );
+                  })}
                 </div>
               </CardContent>
               <CardFooter className="pt-4 pb-6 sm:pb-8 flex justify-center">
