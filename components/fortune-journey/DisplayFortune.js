@@ -667,14 +667,14 @@ export default function DisplayFortune({
               <div className="text-left space-y-6 relative z-10">
                 {/* Opening Statement with Gradient Text */}
                 <p className="font-sans text-2xl sm:text-3xl font-bold bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent text-center leading-tight">
-                  "{fortuneData.openingStatement}"
+                  {fortuneData.openingStatement}
                 </p>
                 
                 {/* First Insight Section */}
                 <div className="border-t border-mw-white/10 pt-6">
                   <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
                     <Lightbulb className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
-                    <span className="italic">"{fortuneData.insight1.challenge}"</span>
+                    <span className="italic">&ldquo;{fortuneData.insight1.challenge}&rdquo;</span>
                   </h3>
                   <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
                     {fortuneData.insight1.insight.split('\n').map((line, index) => (
@@ -690,7 +690,7 @@ export default function DisplayFortune({
                 <div className="border-t border-mw-white/10 pt-6">
                   <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
                     <BarChart className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
-                    <span className="italic">"{fortuneData.insight2.challenge}"</span>
+                    <span className="italic">&ldquo;{fortuneData.insight2.challenge}&rdquo;</span>
                   </h3>
                   <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
                     {fortuneData.insight2.insight.split('\n').map((line, index) => (
