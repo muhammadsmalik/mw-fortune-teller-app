@@ -4,80 +4,187 @@ import { useState, useEffect } from 'react';
 // import ScenarioSelection from '@/components/fortune-journey/ScenarioSelection';
 // import DisplayFortune from '@/components/fortune-journey/DisplayFortune';
 import { useRouter } from 'next/navigation'; // For initial redirection if needed or back to /collect-info from parent
+import personaQuestions from '@/lib/persona_questions.json';
+
+// Dynamic imports for component lazy loading
+let ScenarioSelectionComponent, DisplayFortuneComponent, ScenarioAnswersComponent;
 
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
 export default function FortuneJourneyPage() {
-  const [currentView, setCurrentView] = useState('scenarioSelection'); // 'scenarioSelection' or 'displayFortune'
+  const [currentStage, setCurrentStage] = useState('highLevelSelection'); // highLevelSelection, initialFortuneReveal, tacticalSelection, finalBlueprint
+  const [selectedPersona, setSelectedPersona] = useState(null);
+  const [highLevelChoices, setHighLevelChoices] = useState([]);
+  const [tacticalChoices, setTacticalChoices] = useState([]);
+  
   const [journeyFortuneData, setJourneyFortuneData] = useState(null);
-  const [journeySelectedScenarios, setJourneySelectedScenarios] = useState(null);
   const [isAudioUnlocked, setIsAudioUnlocked] = useState(false);
+  const [componentsLoaded, setComponentsLoaded] = useState(false);
+  const [contextLoaded, setContextLoaded] = useState(false);
+
+  // State for persona context files
+  const [advertiserContext, setAdvertiserContext] = useState('');
+  const [publisherContext, setPublisherContext] = useState('');
+  const [platformContext, setPlatformContext] = useState('');
+
   const router = useRouter();
 
-  // Placeholder: In Phase 2, this will handle data from ScenarioSelection
-  // and prepare data for DisplayFortune.
-  const handleScenariosConfirmed = (confirmedScenariosData) => {
-    console.log('[FortuneJourneyPage] Scenarios Confirmed:', confirmedScenariosData.scenarios);
-    setJourneySelectedScenarios(confirmedScenariosData.scenarios);
+  useEffect(() => {
+    // Load components and persona context concurrently
+    const loadAssets = async () => {
+      try {
+        await Promise.all([
+          import('@/components/fortune-journey/ScenarioSelection').then(mod => ScenarioSelectionComponent = mod.default),
+          import('@/components/fortune-journey/DisplayFortune').then(mod => DisplayFortuneComponent = mod.default),
+          import('@/app/scenario-answers/page').then(mod => ScenarioAnswersComponent = mod.default),
+        ]);
+        setComponentsLoaded(true);
+        console.log('[FortuneJourneyPage] All journey components dynamically loaded.');
 
-    // Logic to align with previous flow where fortuneData is expected in localStorage
-    // This might have been set by a /generating-fortune page or /linkedin-interlude page
+        const [advRes, pubRes, platRes] = await Promise.all([
+          fetch('/personas/advertiser.md'),
+          fetch('/personas/publisher.md'),
+          fetch('/personas/platform_and_service_provider.md'),
+        ]);
 
-    if (localStorage.getItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY)) {
-        console.log('[FortuneJourneyPage] LinkedIn flow artifact found, removing.');
-        localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
-    }
-
-    const storedFortuneDataString = localStorage.getItem('fortuneData');
-    const storedFortuneError = localStorage.getItem('fortuneGenerationError');
-
-    let fortuneToSet = null;
-
-    if (storedFortuneError) {
-        console.error("[FortuneJourneyPage] Error from previous fortune generation step found:", storedFortuneError);
-        // Create an error object structure that DisplayFortune can understand or display
-        fortuneToSet = {
-            openingLine: "A disturbance in the stars...",
-            error: `A cosmic disturbance occurred: ${storedFortuneError}. Please try starting over.`
-            // You might want to add other fields DisplayFortune expects, or have it handle an 'error' prop specifically
-        };
-        localStorage.removeItem('fortuneGenerationError'); // Clear the error after processing
-    } else if (storedFortuneDataString) {
-        try {
-            const parsedFortuneData = JSON.parse(storedFortuneDataString);
-            console.log('[FortuneJourneyPage] Successfully retrieved and parsed fortuneData from localStorage:', parsedFortuneData);
-            fortuneToSet = parsedFortuneData;
-        } catch (e) {
-            console.error('[FortuneJourneyPage] Failed to parse fortuneData from localStorage:', e);
-            fortuneToSet = {
-                openingLine: "The Oracle's message is corrupted...",
-                error: "Failed to interpret the stars. The stored fortune data was unreadable. Please try starting over."
-            };
+        if (!advRes.ok || !pubRes.ok || !platRes.ok) {
+          throw new Error('Failed to fetch one or more persona context files.');
         }
-    } else {
-        console.warn('[FortuneJourneyPage] fortuneData NOT found in localStorage. This is unexpected if a prior generation step was assumed.');
-        // This is a critical missing piece if the flow relies on a prior page setting this.
-        // For now, set an error state. In a full implementation, you might redirect or show a more specific error.
-        fortuneToSet = {
-            openingLine: "The path to your fortune is unclear...",
-            error: "The Oracle\'s vision is missing. No fortune data was found from previous steps. Please ensure you have completed all prior stages or try starting over."
-        };
-        // As a temporary measure for testing, you could re-insert mock data here, but ideally, the flow should ensure data exists.
-        // fortuneToSet = { /* mock data if absolutely needed for continued testing of subsequent UI */ };
-    }
-    
-    setJourneyFortuneData(fortuneToSet); 
 
-    setIsAudioUnlocked(true); 
-    console.log('[FortuneJourneyPage] Audio unlocked state set, attempting to set view to displayFortune.');
-    setCurrentView('displayFortune');
+        setAdvertiserContext(await advRes.text());
+        setPublisherContext(await pubRes.text());
+        setPlatformContext(await platRes.text());
+        
+        setContextLoaded(true);
+        console.log('[FortuneJourneyPage] All persona contexts loaded.');
+
+      } catch (err) {
+        console.error("[FortuneJourneyPage] Failed to load assets:", err);
+      }
+    };
+
+    loadAssets();
+  }, []);
+
+  const handleHighLevelConfirmed = async ({ scenarios, persona }) => {
+    console.log('[FortuneJourneyPage] High-level choices confirmed:', { scenarios, persona });
+    if (!contextLoaded) {
+      console.error("[FortuneJourneyPage] Cannot proceed: Persona context not loaded yet.");
+      // Optionally, set an error state to inform the user
+      return;
+    }
+
+    setHighLevelChoices(scenarios);
+    setSelectedPersona(persona);
+    setCurrentStage('initialFortuneReveal');
+    setIsAudioUnlocked(true);
+    setJourneyFortuneData(null);
+
+    try {
+      // --- Extract ACTUAL user data from localStorage ---
+      const userInfo = JSON.parse(localStorage.getItem('userInfoForFortune')) || {};
+      const pendingRequestBody = JSON.parse(localStorage.getItem('pendingFortuneRequestBody')) || {};
+      const fetchedLinkedInData = JSON.parse(localStorage.getItem('fetchedLinkedInData')) || {};
+      
+      // Prioritize actual stored data over placeholder values
+      let actualFullName = localStorage.getItem('fortuneApp_fullName') || 
+                          pendingRequestBody.fullName || 
+                          fetchedLinkedInData.profileData?.full_name || 
+                          userInfo.fullName || 
+                          'Valued User';
+      
+      let actualCompanyName = localStorage.getItem('fortuneApp_companyName') || 
+                             pendingRequestBody.companyName || 
+                             fetchedLinkedInData.latestCompanyData?.name || 
+                             userInfo.companyName || 
+                             'Your Company';
+      
+      let actualIndustryType = localStorage.getItem('fortuneApp_industry') || 
+                              pendingRequestBody.industryType || 
+                              fetchedLinkedInData.latestCompanyData?.industry || 
+                              fetchedLinkedInData.profileData?.occupation || 
+                              userInfo.industryType || 
+                              'Your Industry';
+      
+      let actualGeographicFocus = pendingRequestBody.geographicFocus || 
+                                 userInfo.geographicFocus || 
+                                 (fetchedLinkedInData.profileData ? 
+                                   `${fetchedLinkedInData.profileData.city || 'Global Reach'}, ${fetchedLinkedInData.profileData.country_full_name || 'Cosmic Planes'}` : 
+                                   'Your Region');
+
+      console.log('[FortuneJourneyPage] Using actual user data:', {
+        actualFullName,
+        actualCompanyName,
+        actualIndustryType,
+        actualGeographicFocus
+      });
+
+      const allHighLevelQuestionsForPersona = personaQuestions[persona].high;
+      const selectedQuestionObjects = allHighLevelQuestionsForPersona.filter(q => scenarios.includes(q.id));
+      const unselectedQuestionObjects = allHighLevelQuestionsForPersona.filter(q => !scenarios.includes(q.id));
+
+      const payload = {
+        fullName: actualFullName,
+        companyName: actualCompanyName,
+        industryType: actualIndustryType,
+        geographicFocus: actualGeographicFocus,
+        selectedPersona: persona,
+        selectedQuestions: selectedQuestionObjects.map(q => q.text),
+        unselectedQuestions: unselectedQuestionObjects.map(q => q.text),
+        advertiserContext,
+        publisherContext,
+        platformContext,
+        // Include additional context if available
+        linkedinData: fetchedLinkedInData,
+      };
+      
+      console.log('[FortuneJourneyPage] Sending payload to API:', JSON.stringify(payload, null, 2));
+      
+      const response = await fetch('/api/generate-initial-fortune', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to generate initial fortune.');
+      }
+
+      const initialFortune = await response.json();
+
+      localStorage.setItem('fortuneData', JSON.stringify(initialFortune));
+      setJourneyFortuneData(initialFortune);
+
+    } catch (error) {
+      console.error("[FortuneJourneyPage] Error fetching initial fortune:", error);
+      const errorFortune = {
+        openingStatement: "A disturbance in the cosmic ether...",
+        error: `The Oracle's vision is clouded. ${error.message}. Please try again.`
+      };
+      setJourneyFortuneData(errorFortune);
+    }
   };
 
-  const handleGoBackToScenarios = () => {
-    setCurrentView('scenarioSelection');
-    // Reset states if necessary
-    setJourneyFortuneData(null);
-    setIsAudioUnlocked(false); // Re-lock audio state if needed, or manage context appropriately
+  const handleProceedToTactical = () => {
+    console.log('[FortuneJourneyPage] Proceeding to tactical selection stage.');
+    setCurrentStage('tacticalSelection');
+  };
+
+  const handleTacticalConfirmed = ({ scenarios }) => {
+    console.log('[FortuneJourneyPage] Tactical choices confirmed:', { scenarios });
+    setTacticalChoices(scenarios);
+    const allSelectedIds = [...highLevelChoices, ...scenarios];
+    localStorage.setItem('selectedScenarioIDs', JSON.stringify(allSelectedIds));
+    console.log('[FortuneJourneyPage] All choices saved. Proceeding to final blueprint.');
+    setCurrentStage('finalBlueprint');
+  };
+
+  const handleGoBack = () => {
+    if (currentStage === 'finalBlueprint') setCurrentStage('tacticalSelection');
+    else if (currentStage === 'tacticalSelection') setCurrentStage('initialFortuneReveal');
+    else if (currentStage === 'initialFortuneReveal') setCurrentStage('highLevelSelection');
+    else if (currentStage === 'highLevelSelection') router.push('/collect-info');
   };
   
   // This useEffect will redirect if user lands here without completing previous steps.
@@ -90,45 +197,50 @@ export default function FortuneJourneyPage() {
     // }
   }, [router]);
 
-  // Dynamically import components to ensure they are client-side
-  const [ScenarioSelectionComponent, setScenarioSelectionComponent] = useState(null);
-  const [DisplayFortuneComponent, setDisplayFortuneComponent] = useState(null);
-
-  useEffect(() => {
-    import('@/components/fortune-journey/ScenarioSelection')
-      .then(mod => setScenarioSelectionComponent(() => mod.default))
-      .catch(err => console.error("[FortuneJourneyPage] Failed to load ScenarioSelection:", err));
-
-    import('@/components/fortune-journey/DisplayFortune')
-      .then(mod => {
-        console.log('[FortuneJourneyPage] Dynamic import of DisplayFortune component SUCCEEDED.');
-        setDisplayFortuneComponent(() => mod.default);
-      })
-      .catch(err => console.error("[FortuneJourneyPage] Failed to load DisplayFortune:", err));
-  }, []);
-
-
-  if (currentView === 'scenarioSelection') {
-    if (!ScenarioSelectionComponent) {
-      return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">Loading Scenario Selection Module...</div>;
+  if (!componentsLoaded || !contextLoaded) {
+    return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">Preparing your journey... The Oracle is consulting the archives.</div>;
     }
-    return <ScenarioSelectionComponent onScenariosConfirmed={handleScenariosConfirmed} />;
-  }
 
-  if (currentView === 'displayFortune') {
-    if (!DisplayFortuneComponent) {
-      console.log('[FortuneJourneyPage] Current view is displayFortune, but DisplayFortuneComponent is NOT YET LOADED. Showing loading message.');
-      return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">Loading Your Fortune Display Module...</div>;
-    }
-    console.log('[FortuneJourneyPage] Current view is displayFortune, DisplayFortuneComponent IS LOADED. Attempting to render DisplayFortuneComponent with journeyFortuneData:', journeyFortuneData);
+  switch (currentStage) {
+    case 'highLevelSelection':
+      return (
+        <ScenarioSelectionComponent
+          onScenariosConfirmed={handleHighLevelConfirmed}
+          onBack={handleGoBack}
+          questionType="high"
+          title="What Challenges Cloud Your Future?"
+          subtitle="Choose the two that concern you most to reveal a glimpse of what's to come."
+          ctaLabel="Predict My Fortune"
+        />
+      );
+    
+    case 'initialFortuneReveal':
     return (
       <DisplayFortuneComponent
-        fortuneData={journeyFortuneData} // In Phase 2, this will be the primary source
-        onGoBack={handleGoBackToScenarios}
-        audioPlaybackAllowed={isAudioUnlocked} // This will enable automatic audio playback
+          fortuneData={journeyFortuneData}
+          onGoBack={handleGoBack}
+          onProceedToNextStep={handleProceedToTactical}
+          audioPlaybackAllowed={isAudioUnlocked}
+        />
+      );
+
+    case 'tacticalSelection':
+      return (
+        <ScenarioSelectionComponent
+          onScenariosConfirmed={handleTacticalConfirmed}
+          onBack={handleGoBack}
+          questionType="tactical"
+          persona={selectedPersona}
+          title="Choose Your Tools Wisely"
+          subtitle="Which powers do you wish to master to realize your dreams?"
+          ctaLabel="Reveal My Blueprint"
       />
     );
-  }
 
-  return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">Loading your journey...</div>;
+    case 'finalBlueprint':
+      return <ScenarioAnswersComponent />;
+
+    default:
+      return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">An unknown error occurred in your journey.</div>;
+  }
 } 

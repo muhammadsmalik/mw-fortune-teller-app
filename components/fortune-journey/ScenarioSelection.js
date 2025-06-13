@@ -58,12 +58,20 @@ const personaDisplayNames = {
   platform: 'Platform / Service Provider',
 };
 
-export default function ScenarioSelection({ onScenariosConfirmed }) {
+export default function ScenarioSelection({ 
+  onScenariosConfirmed,
+  onBack,
+  questionType = 'high',
+  persona = null,
+  title = "Chart Your Course",
+  subtitle = `Choose exactly ${MAX_SELECTIONS} questions that resonate most.`,
+  ctaLabel = "Reveal My Blueprint"
+}) {
   const router = useRouter(); // Still used for navigating back to /collect-info
   const [init, setInit] = useState(false);
   const [allScenarios, setAllScenarios] = useState([]);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
-  const [lockedPersona, setLockedPersona] = useState(null);
+  const [lockedPersona, setLockedPersona] = useState(persona);
   const [error, setError] = useState(null);
   // const [isNavigationInProgress, setIsNavigationInProgress] = useState(false); // Managed by parent
 
@@ -289,51 +297,60 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
     }, [playAudioFile]);
 
     const handleScenarioToggle = (scenarioId) => {
-      const getPersonaFromId = (id) => {
-        if (id.startsWith('pub_')) return 'publisher';
-        if (id.startsWith('adv_')) return 'advertiser';
-        if (id.startsWith('plat_')) return 'platform';
-        return null;
-      };
+      // This logic only applies to the high-level selection stage
+      if (questionType === 'high') {
+        const getPersonaFromId = (id) => {
+          if (id.startsWith('pub_')) return 'publisher';
+          if (id.startsWith('adv_')) return 'advertiser';
+          if (id.startsWith('plat_')) return 'platform';
+          return null;
+        };
+        const clickedPersona = getPersonaFromId(scenarioId);
 
-      const clickedPersona = getPersonaFromId(scenarioId);
-
-      setSelectedScenarioIds(prevSelected => {
-        const isAlreadySelected = prevSelected.includes(scenarioId);
-        
-        if (isAlreadySelected) {
-          const newSelection = prevSelected.filter(id => id !== scenarioId);
-          if (newSelection.length === 0) {
-            setLockedPersona(null); // Unlock if no scenarios are selected
+        setSelectedScenarioIds(prevSelected => {
+          const isAlreadySelected = prevSelected.includes(scenarioId);
+          if (isAlreadySelected) {
+            const newSelection = prevSelected.filter(id => id !== scenarioId);
+            if (newSelection.length === 0) setLockedPersona(null);
+            return newSelection;
           }
-          return newSelection;
-        }
-
-        // If a persona is already locked, only allow selections from that persona
-        if (lockedPersona && lockedPersona !== clickedPersona) {
+          if (lockedPersona && lockedPersona !== clickedPersona) return prevSelected;
+          if (prevSelected.length < MAX_SELECTIONS) {
+            if (prevSelected.length === 0) setLockedPersona(clickedPersona);
+            return [...prevSelected, scenarioId];
+          }
           return prevSelected;
+        });
+      } else {
+        // Simpler logic for tactical stage where persona is already locked
+      setSelectedScenarioIds(prevSelected => {
+        if (prevSelected.includes(scenarioId)) {
+          return prevSelected.filter(id => id !== scenarioId);
         }
-
         if (prevSelected.length < MAX_SELECTIONS) {
-          if (prevSelected.length === 0) {
-            setLockedPersona(clickedPersona); // Lock to the persona of the first selection
-          }
           return [...prevSelected, scenarioId];
         }
-        
         return prevSelected;
       });
+      }
     };
 
-    const handleConfirmSelections = () => {
+    const handleConfirmSelections = async () => {
       if (selectedScenarioIds.length !== MAX_SELECTIONS) {
-        setError(`Please select exactly ${MAX_SELECTIONS} questions to proceed.`);
+        setError(`Please select exactly ${MAX_SELECTIONS} questions.`);
         return;
       }
       setError(null);
-      onScenariosConfirmed({ 
-        scenarios: selectedScenarioIds,
-        persona: lockedPersona 
+      
+      await playTransitionSequence((transitionError) => {
+        const payload = { 
+          scenarios: selectedScenarioIds,
+          persona: lockedPersona || persona
+        };
+        if (transitionError) {
+          console.warn('[ScenarioSelection] Transition audio failed, but proceeding.', transitionError);
+        }
+        onScenariosConfirmed(payload);
       });
     };
 
@@ -411,6 +428,8 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
         }
         router.push('/collect-info'); // Navigate to a page outside this component's flow
       }
+      setSelectedScenarioIds([]);
+      setLockedPersona(null);
     };
 
     useEffect(() => {
@@ -485,17 +504,17 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
             <Card className="bg-card/80 backdrop-blur-sm rounded-lg shadow-xl w-full">
               <CardHeader className="text-center pt-6 sm:pt-8">
                 <CardTitle className="text-mw-light-blue font-bold tracking-wide text-2xl sm:text-3xl">
-                  Chart Your Course
+                  {title}
                 </CardTitle>
                 <p className="text-mw-white/70 text-sm mt-2">
-                  Choose exactly {MAX_SELECTIONS} questions that resonate most.
+                  {subtitle}
                 </p>
               </CardHeader>
               <CardContent className="px-4 sm:px-6 pt-4 pb-6 sm:pb-8">
                 {error && (
-                  <div className="mb-6 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
-                    {error}
-                  </div>
+                    <div className="mb-6 p-3 text-center text-red-400 bg-red-900/30 border border-red-700 rounded-md">
+                        {error}
+                    </div>
                 )}
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
                   {personaKeys.map((personaKey) => {
@@ -503,24 +522,24 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
                     return (
                       <div 
                         key={personaKey} 
-                        className={`transition-opacity duration-300 ${isLocked ? 'opacity-40 pointer-events-none' : 'opacity-100'}`}
-                      >
+                        className={`transition-opacity duration-300 ${isLocked ? 'opacity-30 pointer-events-none' : 'opacity-100'}`}
+                    >
                         <h3 className="text-2xl font-bold text-mw-gold mb-4 text-center sm:text-left">
                           {personaDisplayNames[personaKey]}
                         </h3>
                         <div className="bg-mw-dark-blue/40 border border-mw-light-blue/30 rounded-lg p-4 h-full">
-                          <div className="space-y-3">
-                            {personaQuestions[personaKey].high.map((scenario) => {
-                              const isSelected = selectedScenarioIds.includes(scenario.id);
-                              return (
-                                <div
-                                  key={scenario.id}
-                                  onClick={() => handleScenarioToggle(scenario.id)}
+                    <div className="space-y-3">
+                            {personaQuestions[personaKey][questionType].map((scenario) => {
+                        const isSelected = selectedScenarioIds.includes(scenario.id);
+                        return (
+                          <div
+                            key={scenario.id}
+                            onClick={() => handleScenarioToggle(scenario.id)}
                                   className={`flex items-start space-x-2 cursor-pointer rounded-md p-3 transition-all duration-200 border 
-                                              ${isSelected 
+                                        ${isSelected 
                                                 ? 'bg-mw-light-blue/30 border-mw-light-blue shadow-lg' 
                                                 : 'bg-mw-dark-blue/20 border-transparent hover:border-mw-light-blue/50 hover:bg-mw-light-blue/10'}`}
-                                >
+                          >
                                   {isSelected ? (
                                     <CheckSquare className="h-5 w-5 text-mw-gold flex-shrink-0 mt-0.5" />
                                   ) : (
@@ -528,27 +547,31 @@ export default function ScenarioSelection({ onScenariosConfirmed }) {
                                   )}
                                   <span className={`text-base md:text-lg leading-snug break-words ${isSelected ? 'text-mw-white font-semibold' : 'text-mw-white/80'}`}> 
                                     {scenario.text}
-                                  </span>
-                                </div>
-                              );
-                            })}
+                            </span>
                           </div>
+                        );
+                      })}
+                    </div>
                         </div>
-                      </div>
+                    </div>
                     );
                   })}
                 </div>
               </CardContent>
-              <CardFooter className="pt-4 pb-6 sm:pb-8 flex justify-center">
-                <Button
+                <CardFooter className="pt-4 pb-6 sm:pb-8 flex justify-center">
+                  <Button
                   onClick={handleConfirmSelections}
-                  size="lg"
-                  className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md transform transition-all duration-150 hover:shadow-xl active:scale-95"
-                  disabled={selectedScenarioIds.length !== MAX_SELECTIONS}
-                >
-                  {`Reveal My Blueprint (${selectedScenarioIds.length}/${MAX_SELECTIONS})`}
-                </Button>
-              </CardFooter>
+                    size="lg"
+                    className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md transform transition-all duration-150 hover:shadow-xl active:scale-95"
+                  disabled={selectedScenarioIds.length !== MAX_SELECTIONS || isTransitionAudioPlaying}
+                  >
+                  {isTransitionAudioPlaying ? (
+                    <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> The Veil Thins...</>
+                  ) : (
+                    ctaLabel
+                  )}
+                  </Button>
+                </CardFooter>
             </Card>
           </div>
         </main>
