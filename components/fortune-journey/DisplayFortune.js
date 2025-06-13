@@ -24,6 +24,10 @@ There might be traces of archaic or exotic accents, difficult to place—part Mi
 
 const SMOKE_EFFECT_DURATION_MS = 2000;
 
+/**
+ * Pre-recorded CEO audio transcript with timing for synchronized captions
+ * Each object contains the text phrase and its start/end times in seconds
+ */
 const CEO_TRANSCRIPT = [
   { text: "You've been searching, wandering...", start: 0, end: 2.8 },
   { text: "wondering if this is truly your time.", start: 2.9, end: 6.32 },
@@ -35,38 +39,67 @@ const CEO_TRANSCRIPT = [
   { text: "...they will help you shape your destiny.", start: 23.2, end: 25.53 }
 ];
 
+/**
+ * DisplayFortune Component
+ * 
+ * Displays the generated fortune with advanced audio narration system and mystical UI
+ * Features:
+ * - Multi-stage audio narration (TTS + pre-recorded CEO audio)
+ * - Visual transitions between fortune teller and CEO imagery
+ * - Gradient backgrounds and glitter animations for mystical atmosphere
+ * - Autoplay restriction handling with user interaction gates
+ * - Responsive layout with expanded content area for better text readability
+ * 
+ * @param {Object} fortuneData - The fortune data object with insights
+ * @param {Function} onGoBack - Callback for navigation back
+ * @param {Function} onProceedToNextStep - Callback for proceeding to next stage
+ * @param {Boolean} audioPlaybackAllowed - Whether audio playback is permitted by user interaction
+ */
 export default function DisplayFortune({ 
   fortuneData, 
   onGoBack, 
   onProceedToNextStep,
   audioPlaybackAllowed: initialAudioAllowed = false
 }) {
+  // Particles engine initialization state
   const [init, setInit] = useState(false);
+  
+  // Loading and error states for the fortune content
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+  
+  // Audio playback permission state (starts with prop value, can be overridden by user)
   const [audioPlaybackAllowed, setAudioPlaybackAllowed] = useState(initialAudioAllowed);
 
-  const [narrationStage, setNarrationStage] = useState('idle');
+  // Audio narration system states
+  const [narrationStage, setNarrationStage] = useState('idle'); // idle -> openingLine -> ceoNarration -> transitioning -> done
   const [isNarrating, setIsNarrating] = useState(false);
   const [narrationError, setNarrationError] = useState(null);
-  const [currentCeoCaption, setCurrentCeoCaption] = useState('');
-  const [openingLineToNarrate, setOpeningLineToNarrate] = useState('');
+  const [currentCeoCaption, setCurrentCeoCaption] = useState(''); // Current caption during CEO audio
+  const [openingLineToNarrate, setOpeningLineToNarrate] = useState(''); // Text for TTS generation
 
+  // Visual transition states for fortune teller -> CEO animation
   const [hasPreRevealed, setHasPreRevealed] = useState(false);
   const [isTransitioningToCeo, setIsTransitioningToCeo] = useState(false);
   const [showCeoImage, setShowCeoImage] = useState(false);
 
-  const audioContextRef = useRef(null);
-  const howlNarrationRef = useRef(null);
-  const revealChimeRef = useRef(null);
-  const ceoAudioRef = useRef(null);
+  // Audio system references
+  const audioContextRef = useRef(null); // Web Audio API context for handling autoplay restrictions
+  const howlNarrationRef = useRef(null); // Howler.js instance for TTS audio streaming
+  const revealChimeRef = useRef(null); // HTML5 audio element for transition chime
+  const ceoAudioRef = useRef(null); // HTML5 audio element for pre-recorded CEO message
 
+  // Initialize particles engine on component mount
   useEffect(() => {
     initParticlesEngine(async (engine) => {
       await loadSlim(engine);
     }).then(() => setInit(true));
   }, []);
 
+  /**
+   * Get or create AudioContext for handling browser autoplay restrictions
+   * AudioContext must be created after user interaction to avoid suspended state
+   */
   const getAudioContext = useCallback(() => {
     if (typeof window !== 'undefined') {
       if (!audioContextRef.current) {
@@ -85,7 +118,10 @@ export default function DisplayFortune({
     return null;
   }, []);
 
-  // Memoized handler for CEO audio time updates
+  /**
+   * Memoized handler for CEO audio time updates to sync captions
+   * Finds the active phrase based on current playback time and updates caption state
+   */
   const handleCeoTimeUpdate = useCallback(() => {
     if (ceoAudioRef.current) {
       const currentTime = ceoAudioRef.current.currentTime;
@@ -100,6 +136,10 @@ export default function DisplayFortune({
     }
   }, []);
 
+  /**
+   * Process fortune data when received
+   * Extracts opening statement for TTS narration and handles error states
+   */
   useEffect(() => {
     if (fortuneData) {
       console.log('[DisplayFortune] Fortune data received:', fortuneData);
@@ -107,9 +147,9 @@ export default function DisplayFortune({
         setError(fortuneData.error);
       } else {
         setError(null);
-        // Save structured data for next steps
+        // Save structured data for next steps in the journey
         localStorage.setItem('fortuneData', JSON.stringify(fortuneData));
-        // Extract opening statement for narration
+        // Extract opening statement for TTS narration
         const openingText = fortuneData.openingStatement || '';
         console.log('[DisplayFortune] Setting opening line for narration:', openingText);
         setOpeningLineToNarrate(openingText);
@@ -122,7 +162,20 @@ export default function DisplayFortune({
     }
   }, [fortuneData]);
 
-  // Audio Narration useEffect
+  /**
+   * Main Audio Narration System
+   * 
+   * Orchestrates the multi-stage audio experience:
+   * 1. Opening Line Narration (Dynamic TTS from OpenAI)
+   * 2. CEO Audio Narration (Pre-recorded MP3 with captions)
+   * 3. Visual Transition (Chime sound + smoke effect)
+   * 
+   * Key Fixes Applied:
+   * - Removed isNarrating from dependency array to prevent useEffect re-runs during playback
+   * - Added timeout protection for hanging AudioContext.resume() calls
+   * - Multiple fallback strategies for audio playback (resume -> timeout -> direct play)
+   * - Comprehensive error handling and logging
+   */
   useEffect(() => {
     console.log('[DisplayFortune] Audio narration effect - conditions:', {
       init,
@@ -133,6 +186,7 @@ export default function DisplayFortune({
       narrationStage
     });
 
+    // Wait for all prerequisites before starting audio
     if (!init || !audioPlaybackAllowed || !openingLineToNarrate || !hasPreRevealed) {
       if (openingLineToNarrate && !audioPlaybackAllowed && hasPreRevealed && narrationStage === 'idle') {
         console.log('[DisplayFortune] Opening line is ready, but waiting for user to enable sound for narration.');
@@ -140,36 +194,47 @@ export default function DisplayFortune({
       return;
     }
 
+    // Start opening line narration when conditions are met
     if (narrationStage === 'idle' && openingLineToNarrate && hasPreRevealed && audioPlaybackAllowed) {
       console.log('[DisplayFortune] Conditions met to start opening line narration.');
       setNarrationStage('openingLine');
       return;
     }
 
+    /**
+     * Play narration segment using Howler.js for streaming TTS audio
+     * 
+     * @param {string} textToNarrate - Text to convert to speech
+     * @param {Function} onEndedCallback - Callback when audio finishes
+     */
     const playNarrationSegment = async (textToNarrate, onEndedCallback) => {
       console.log(`[DisplayFortune Howler] Attempting to generate narration for: "${textToNarrate}"`);
       
+      // Prevent multiple instances from playing simultaneously
       if (isNarrating && howlNarrationRef.current && howlNarrationRef.current.playing() && narrationStage === 'openingLine') {
         console.log('[DisplayFortune Howler] Already narrating this segment (opening line), bailing.');
         return;
       }
 
+      // Clean up any existing Howl instance
       if (howlNarrationRef.current) {
         console.log('[DisplayFortune Howler] Unloading previous Howl narration instance.');
         howlNarrationRef.current.unload();
         howlNarrationRef.current = null;
       }
 
+      // Build streaming URL for TTS API
       const encodedTextInput = encodeURIComponent(textToNarrate);
-      const voice = 'ballad';
+      const voice = 'ballad'; // Mystical genie voice
       const streamUrl = `/api/generate-narration?voice=${voice}&textInput=${encodedTextInput}`;
 
       console.log('[DisplayFortune Howler] Using stream URL:', streamUrl);
 
+      // Create Howler instance for streaming audio playback
       const sound = new Howl({
         src: [streamUrl],
         format: ['mp3'],
-        html5: true,
+        html5: true, // Enable HTML5 mode for streaming
         onload: () => {
           console.log('[DisplayFortune Howler] Howler metadata loaded for stream.');
         },
@@ -209,12 +274,22 @@ export default function DisplayFortune({
       sound.play();
     };
 
+    /**
+     * Stage 1: Opening Line Narration (Dynamic TTS)
+     * Prevents multiple audio instances with additional safety check (!howlNarrationRef.current)
+     */
     if (narrationStage === 'openingLine' && !isNarrating && !howlNarrationRef.current) {
       playNarrationSegment(openingLineToNarrate, () => {
         console.log('[DisplayFortune] Opening line narration finished. Moving to CEO narration.');
         setNarrationStage('ceoNarration');
       });
-    } else if (narrationStage === 'ceoNarration' && !isNarrating) {
+    } 
+    
+    /**
+     * Stage 2: CEO Audio Narration (Pre-recorded MP3 with captions)
+     * Enhanced with timeout protection and multiple fallback strategies
+     */
+    else if (narrationStage === 'ceoNarration' && !isNarrating) {
       // Play pre-recorded CEO audio
       if (ceoAudioRef.current && audioPlaybackAllowed) {
         console.log('[DisplayFortune] Attempting to play CEO audio mp3.');
@@ -223,6 +298,7 @@ export default function DisplayFortune({
         setCurrentCeoCaption(''); // Clear any old captions
         const audioEl = ceoAudioRef.current;
 
+        // Event handlers for CEO audio playback
         const handleCeoAudioPlay = () => {
           console.log('[DisplayFortune] CEO audio mp3 playback started via event.');
           setIsNarrating(true);
@@ -234,6 +310,7 @@ export default function DisplayFortune({
           setIsNarrating(false);
           setCurrentCeoCaption('');
           setNarrationStage('transitioning');
+          // Clean up event listeners
           audioEl.removeEventListener('ended', handleCeoAudioEnd);
           audioEl.removeEventListener('error', handleCeoAudioError);
           audioEl.removeEventListener('timeupdate', handleCeoTimeUpdate);
@@ -246,18 +323,25 @@ export default function DisplayFortune({
           setIsNarrating(false);
           setCurrentCeoCaption('');
           setNarrationStage('done'); 
+          // Clean up event listeners
           audioEl.removeEventListener('ended', handleCeoAudioEnd);
           audioEl.removeEventListener('error', handleCeoAudioError);
           audioEl.removeEventListener('timeupdate', handleCeoTimeUpdate);
           audioEl.removeEventListener('play', handleCeoAudioPlay);
         };
 
+        // Attach event listeners for CEO audio
         audioEl.addEventListener('ended', handleCeoAudioEnd);
         audioEl.addEventListener('error', handleCeoAudioError);
         audioEl.addEventListener('timeupdate', handleCeoTimeUpdate);
         audioEl.addEventListener('play', handleCeoAudioPlay);
         
-        // Ensure AudioContext is resumed if suspended, for browsers that require interaction
+        /**
+         * Enhanced AudioContext Handling with Timeout Protection
+         * 
+         * Problem: AudioContext.resume() can hang indefinitely in some browsers
+         * Solution: Multiple fallback strategies with timeout protection
+         */
         const audioContext = getAudioContext();
         console.log('[DisplayFortune] AudioContext state before CEO playback:', audioContext?.state);
         
@@ -267,7 +351,7 @@ export default function DisplayFortune({
             console.log('[DisplayFortune] CEO audio element src:', audioEl.src);
             console.log('[DisplayFortune] CEO audio element duration:', audioEl.duration);
             
-            // Set a timeout for AudioContext.resume() in case it hangs
+            // Timeout protection: if resume() hangs, try direct play after 2 seconds
             const resumeTimeout = setTimeout(() => {
                 console.warn('[DisplayFortune] AudioContext.resume() timeout - trying direct play instead');
                 const playPromise = audioEl.play();
@@ -281,6 +365,7 @@ export default function DisplayFortune({
                 }
             }, 2000); // 2 second timeout
             
+            // Primary strategy: resume AudioContext then play
             audioContext.resume().then(() => {
                 clearTimeout(resumeTimeout);
                 console.log('[DisplayFortune] AudioContext resumed successfully! New state:', audioContext.state);
@@ -302,7 +387,7 @@ export default function DisplayFortune({
                 console.error('[DisplayFortune] Error resuming AudioContext for CEO mp3:', e);
                 console.error('[DisplayFortune] AudioContext resume error details:', e.name, e.message);
                 
-                // Try direct play as fallback
+                // Fallback strategy: try direct play if resume fails
                 console.log('[DisplayFortune] Attempting direct CEO audio play as fallback...');
                 const playPromise = audioEl.play();
                 if (playPromise !== undefined) {
@@ -321,7 +406,7 @@ export default function DisplayFortune({
             console.log('[DisplayFortune] AudioContext in unknown state:', audioContext.state, 'attempting direct play.');
             audioEl.play().catch(e => handleCeoAudioError(e));
         } else {
-            // Fallback if audio context couldn't be initialized/resumed (should ideally not happen if playback was allowed)
+            // Fallback if audio context couldn't be initialized
             console.warn('[DisplayFortune] AudioContext not available for CEO mp3, attempting direct play.');
             audioEl.play().catch(e => handleCeoAudioError(e));
         }
@@ -336,6 +421,7 @@ export default function DisplayFortune({
       }
     }
 
+    // Cleanup function for audio resources
     return () => {
       if (howlNarrationRef.current) {
         console.log('[DisplayFortune Howler] Cleaning up: Unloading Howl narration instance.');
@@ -346,17 +432,23 @@ export default function DisplayFortune({
         revealChimeRef.current.pause();
         revealChimeRef.current.currentTime = 0;
       }
-      // Cleanup CEO audio listeners if component unmounts while it might be playing
+      // Cleanup CEO audio listeners if component unmounts during playback
       if (ceoAudioRef.current) {
         ceoAudioRef.current.removeEventListener('timeupdate', handleCeoTimeUpdate);
       }
     };
   }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage, handleCeoTimeUpdate]);
 
+  /**
+   * Stage 3: Visual Transition Effect
+   * Manages the smoke effect transition from fortune teller to CEO image
+   */
   useEffect(() => {
     if (narrationStage === 'transitioning') {
       console.log('[DisplayFortune] Starting CEO transition sequence. Attempting to play chime.');
       setIsTransitioningToCeo(true);
+      
+      // Play transition chime sound
       if (revealChimeRef.current) {
         console.log('[DisplayFortune] revealChimeRef.current exists. Calling play().');
         revealChimeRef.current.play()
@@ -370,6 +462,7 @@ export default function DisplayFortune({
         console.warn('[DisplayFortune] revealChimeRef.current is null during CEO transition. Cannot play chime.');
       }
 
+      // Timer for visual transition completion
       const timer = setTimeout(() => {
         console.log('[DisplayFortune] Smoke effect finished. Showing CEO image.');
         setShowCeoImage(true);
@@ -381,6 +474,10 @@ export default function DisplayFortune({
     }
   }, [narrationStage]);
     
+  /**
+   * Particles Configuration for Background Effect
+   * Creates floating particles that complement the mystical theme
+   */
   const particlesOptions = useMemo(() => ({
     background: { color: { value: '#0a0a2a' } },
     fpsLimit: 60,
@@ -417,6 +514,10 @@ export default function DisplayFortune({
     detectRetina: true,
   }), []);
 
+  /**
+   * Handle manual audio enablement by user
+   * Resumes AudioContext and primes audio elements to avoid future autoplay issues
+   */
   const handleEnableAudio = () => {
     setAudioPlaybackAllowed(true);
     const audioCtx = getAudioContext();
@@ -425,6 +526,8 @@ export default function DisplayFortune({
         console.log('[DisplayFortune] AudioContext resumed by user interaction (Enable Sound button).');
       }).catch(e => console.error('[DisplayFortune] Error resuming AudioContext via Enable Sound:', e));
     }
+    
+    // Prime audio elements by briefly playing then pausing to unlock them for future use
     if (revealChimeRef.current) {
         revealChimeRef.current.play().then(() => revealChimeRef.current.pause()).catch(() => {});
     }
@@ -433,6 +536,10 @@ export default function DisplayFortune({
     }
   };
 
+  /**
+   * Render main content based on current state
+   * Handles loading, error, and success states with appropriate UI
+   */
   const renderContent = () => {
     if (isLoading) {
       return (
@@ -454,12 +561,17 @@ export default function DisplayFortune({
 
     if (fortuneData) {
   return (
+        // Enhanced Layout with Improved Spacing and Centering
         <div className="flex flex-col lg:flex-row items-center lg:items-center gap-6 lg:gap-12">
+          {/* Avatar/Logo Section with Enhanced Sizing */}
           <div className="w-[150px] sm:w-[180px] lg:w-[220px] flex-shrink-0 order-1 lg:order-none flex flex-col items-center relative">
+            {/* Transition overlay during CEO animation */}
             {isTransitioningToCeo && (
               <div className="absolute inset-0 flex items-center justify-center z-10 bg-mw-dark-navy/50 backdrop-blur-sm">
               </div>
             )}
+            
+            {/* Fortune Teller Avatar */}
             <AnimatePresence>
               {!showCeoImage && !isTransitioningToCeo && (
                 <motion.div
@@ -479,6 +591,8 @@ export default function DisplayFortune({
                 </motion.div>
               )}
             </AnimatePresence>
+            
+            {/* CEO/Company Logo */}
             {showCeoImage && (
               <motion.div
                 key="ceo"
@@ -496,33 +610,42 @@ export default function DisplayFortune({
                 />
               </motion.div>
             )}
+            
+            {/* Character/Company Label */}
             {!isTransitioningToCeo && (
               <p className="text-center text-mw-white mt-3 font-semibold">
                 {showCeoImage ? "Moving Walls" : narrationStage === 'ceoNarration' ? "Moving Walls" : "Fortune Teller"}
               </p>
             )}
-            {/* Status/Caption Area */}
+            
+            {/* Audio Status and Caption Display Area */}
             <div className="h-12 mt-2 flex flex-col items-center justify-center w-full px-1 min-w-[180px]">
+              {/* Opening Line Narration Status */}
               {isNarrating && narrationStage === 'openingLine' && openingLineToNarrate && (
                 <div className="bg-black/70 text-white px-2 py-1 rounded-md text-xs font-medium text-center shadow-lg max-w-full flex items-center">
                   <Loader2 className="inline-block mr-2 h-3 w-3 animate-spin flex-shrink-0" />
                   <span>{openingLineToNarrate}</span>
                 </div>
               )}
+              
+              {/* CEO Audio Captions */}
               {isNarrating && narrationStage === 'ceoNarration' && currentCeoCaption && (
                 <div className="bg-black/70 text-white px-2 py-1 rounded-md text-xs font-medium text-center shadow-lg max-w-full">
                   {currentCeoCaption}
                 </div>
               )}
+              
+              {/* Narration Error Display */}
               {narrationError && !isNarrating && (
                 <p className="text-red-400 text-xs mt-1 text-center px-2">{narrationError}</p>
               )}
             </div>
           </div>
 
+          {/* Enhanced Content Area with Expanded Width and Gradient Backgrounds */}
           <div className="w-full lg:flex-1 order-2 lg:order-none max-w-none">
             <div className="bg-gradient-to-br from-mw-dark-navy/90 via-purple-900/20 to-mw-dark-navy/90 p-6 sm:p-8 rounded-md border border-mw-light-blue/40 min-h-[200px] flex flex-col justify-center h-full backdrop-blur-sm relative overflow-hidden">
-              {/* Inner glitter effect */}
+              {/* Inner Glitter Animation Effect */}
               <div className="absolute inset-0 opacity-20">
                 {[...Array(20)].map((_, i) => (
                   <div
@@ -539,38 +662,43 @@ export default function DisplayFortune({
                   </div>
                 ))}
               </div>
-                              <div className="text-left space-y-6 relative z-10">
-                  <p className="font-sans text-2xl sm:text-3xl font-bold bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent text-center leading-tight">
-                    "{fortuneData.openingStatement}"
-                  </p>
+              
+              {/* Fortune Content with Enhanced Typography */}
+              <div className="text-left space-y-6 relative z-10">
+                {/* Opening Statement with Gradient Text */}
+                <p className="font-sans text-2xl sm:text-3xl font-bold bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent text-center leading-tight">
+                  "{fortuneData.openingStatement}"
+                </p>
                 
+                {/* First Insight Section */}
                 <div className="border-t border-mw-white/10 pt-6">
                   <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
                     <Lightbulb className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
                     <span className="italic">"{fortuneData.insight1.challenge}"</span>
                   </h3>
                   <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
-                                          {fortuneData.insight1.insight.split('\n').map((line, index) => (
-                        <div key={index} className="flex items-start mb-2">
-                          <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
-                          <span>{line.trim()}</span>
-                        </div>
-                      ))}
+                    {fortuneData.insight1.insight.split('\n').map((line, index) => (
+                      <div key={index} className="flex items-start mb-2">
+                        <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
+                        <span>{line.trim()}</span>
+                      </div>
+                    ))}
                   </div>
                 </div>
 
+                {/* Second Insight Section */}
                 <div className="border-t border-mw-white/10 pt-6">
                   <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
                     <BarChart className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
                     <span className="italic">"{fortuneData.insight2.challenge}"</span>
                   </h3>
                   <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
-                                          {fortuneData.insight2.insight.split('\n').map((line, index) => (
-                        <div key={index} className="flex items-start mb-2">
-                          <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
-                          <span>{line.trim()}</span>
-                        </div>
-                      ))}
+                    {fortuneData.insight2.insight.split('\n').map((line, index) => (
+                      <div key={index} className="flex items-start mb-2">
+                        <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
+                        <span>{line.trim()}</span>
+                      </div>
+                    ))}
                   </div>
                 </div>
               </div>
@@ -585,9 +713,12 @@ export default function DisplayFortune({
 
   return (
     <>
+      {/* Background Particles Effect */}
       {init && <Particles id="tsparticles" options={particlesOptions} />}
+      
+      {/* Main Container with Gradient Background and Global Glitter Animation */}
       <div className="min-h-screen bg-gradient-to-br from-mw-dark-navy via-purple-900/20 to-mw-dark-navy flex flex-col items-center justify-center p-4 relative z-10 overflow-hidden">
-        {/* Glitter Animation */}
+        {/* Global Glitter Animation - 50 Floating Sparkles */}
         <div className="absolute inset-0 opacity-30">
           {[...Array(50)].map((_, i) => (
             <div
@@ -604,9 +735,12 @@ export default function DisplayFortune({
             </div>
           ))}
         </div>
+        
+        {/* Audio Elements for Pre-recorded Sounds */}
         <audio ref={revealChimeRef} src="/audio/reveal_chime.mp3" preload="auto" />
         <audio ref={ceoAudioRef} src="/audio/reach_out_to_mw.mp3" preload="auto" />
         
+        {/* Manual Audio Enable Button (shown when audio is blocked) */}
         {!audioPlaybackAllowed && hasPreRevealed && (
           <div className="absolute top-6 right-6 z-20">
             <Button
@@ -620,31 +754,39 @@ export default function DisplayFortune({
           </div>
         )}
 
+        {/* Moving Walls Branding */}
         <div className="absolute bottom-6 left-6 flex items-center text-sm text-mw-white/70">
           <Image src="/MW-logo-web.svg" alt="Moving Walls Logo" width={24} height={24} className="h-6 w-auto mr-2" />
           <span className="font-semibold">Moving Walls</span>
         </div>
 
+        {/* Main Content Card with Enhanced Container Width */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           className="w-full max-w-6xl"
         >
-                      <Card className="bg-gradient-to-br from-mw-dark-blue/60 via-purple-900/30 to-mw-dark-blue/60 backdrop-blur-sm border border-mw-light-blue/30 shadow-2xl shadow-mw-light-blue/20 relative overflow-hidden">
-              {/* Card glitter overlay */}
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-mw-gold/5 to-transparent animate-pulse" />
+          {/* Enhanced Card with Gradient Background and Glitter Overlay */}
+          <Card className="bg-gradient-to-br from-mw-dark-blue/60 via-purple-900/30 to-mw-dark-blue/60 backdrop-blur-sm border border-mw-light-blue/30 shadow-2xl shadow-mw-light-blue/20 relative overflow-hidden">
+            {/* Card-level Glitter Overlay */}
+            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-mw-gold/5 to-transparent animate-pulse" />
+            
             <CardHeader>
-                              <CardTitle className="text-center text-4xl font-morrison bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent tracking-wider flex items-center justify-center gap-3 relative z-10">
+              {/* Enhanced Title with Gradient Text and Animated Sparkles */}
+              <CardTitle className="text-center text-4xl font-morrison bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent tracking-wider flex items-center justify-center gap-3 relative z-10">
                 <Sparkles className="h-8 w-8 text-mw-gold animate-pulse" />
                 Your Destiny Awakens
                 <Sparkles className="h-8 w-8 text-mw-gold animate-pulse" />
               </CardTitle>
             </CardHeader>
+            
             <CardContent className="px-6 py-8 sm:px-10">
               {renderContent()}
             </CardContent>
+            
             <CardFooter className="flex justify-between p-6">
+              {/* Navigation Buttons */}
               <Button variant="outline" onClick={onGoBack} className="border-mw-light-blue/50 text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-white">
                 <ArrowLeft className="h-4 w-4 mr-2" />
                 Return to Choices
@@ -654,7 +796,7 @@ export default function DisplayFortune({
                 disabled={isLoading || !!error}
                 className="bg-mw-gold text-mw-dark-navy font-bold hover:bg-mw-gold/90 transition-all duration-300 shadow-lg shadow-mw-gold/20"
               >
-                Realize my Dream
+                Realize Your Vision
               </Button>
             </CardFooter>
           </Card>
