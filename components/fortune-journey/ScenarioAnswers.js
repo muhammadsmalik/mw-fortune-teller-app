@@ -378,7 +378,7 @@ export default function ScenarioAnswersScreen() {
         >
           <Image 
             src="/avatar/genie-pointing-right.png" 
-            alt="Fortune Teller Avatar Right"
+            alt="Fortune Teller Avatar pointing right"
             width={250}
             height={375}
             className={`drop-shadow-xl ${isBeholdAudioPlaying ? 'animate-pulse' : ''}`}

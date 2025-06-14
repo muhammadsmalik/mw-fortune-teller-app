@@ -493,7 +493,7 @@ export default function ScenarioSelection({
             >
               <Image 
                 src="/avatar/genie-pointing-left.png" 
-                alt="Fortune Teller Avatar"
+                alt="Fortune Teller Avatar pointing left"
                 width={250}
                 height={375}
                 className="drop-shadow-xl" 
@@ -591,7 +591,7 @@ export default function ScenarioSelection({
             >
               <Image 
                 src="/avatar/genie-pointing-left.png" 
-                alt="Fortune Teller Avatar"
+                alt="Fortune Teller Avatar pointing left"
                 width={250}
                 height={375}
                 className={`drop-shadow-xl ${isGreetingAudioPlaying ? 'animate-pulse' : ''}`}
@@ -704,7 +704,7 @@ export default function ScenarioSelection({
             >
               <Image
                 src="/avatar/fortune-teller-eyes-glow.png"
-                alt="Mystical Eyes"
+                alt="Mystical glowing eyes of the fortune teller"
                 width={300}
                 height={225}
                 className="mb-6"

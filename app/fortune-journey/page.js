@@ -7,7 +7,7 @@ import { useRouter } from 'next/navigation'; // For initial redirection if neede
 import personaQuestions from '@/lib/persona_questions.json';
 
 // Dynamic imports for component lazy loading
-let ScenarioSelectionComponent, DisplayFortuneComponent, ScenarioAnswersComponent;
+let ScenarioSelectionComponent, DisplayFortuneComponent, TacticalCardSelectionComponent, BlueprintDisplayComponent;
 
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
@@ -18,6 +18,7 @@ export default function FortuneJourneyPage() {
   const [tacticalChoices, setTacticalChoices] = useState([]);
   
   const [journeyFortuneData, setJourneyFortuneData] = useState(null);
+  const [userInfo, setUserInfo] = useState(null);
   const [isAudioUnlocked, setIsAudioUnlocked] = useState(false);
   const [componentsLoaded, setComponentsLoaded] = useState(false);
   const [contextLoaded, setContextLoaded] = useState(false);
@@ -36,7 +37,8 @@ export default function FortuneJourneyPage() {
         await Promise.all([
           import('@/components/fortune-journey/ScenarioSelection').then(mod => ScenarioSelectionComponent = mod.default),
           import('@/components/fortune-journey/DisplayFortune').then(mod => DisplayFortuneComponent = mod.default),
-          import('@/app/scenario-answers/page').then(mod => ScenarioAnswersComponent = mod.default),
+          import('@/components/fortune-journey/TacticalCardSelection').then(mod => TacticalCardSelectionComponent = mod.default),
+          import('@/components/fortune-journey/BlueprintDisplay').then(mod => BlueprintDisplayComponent = mod.default),
         ]);
         setComponentsLoaded(true);
         console.log('[FortuneJourneyPage] All journey components dynamically loaded.');
@@ -82,42 +84,45 @@ export default function FortuneJourneyPage() {
 
     try {
       // --- Extract ACTUAL user data from localStorage ---
-      const userInfo = JSON.parse(localStorage.getItem('userInfoForFortune')) || {};
+      const storedUserInfo = JSON.parse(localStorage.getItem('userInfoForFortune')) || {};
       const pendingRequestBody = JSON.parse(localStorage.getItem('pendingFortuneRequestBody')) || {};
       const fetchedLinkedInData = JSON.parse(localStorage.getItem('fetchedLinkedInData')) || {};
       
       // Prioritize actual stored data over placeholder values
-      let actualFullName = localStorage.getItem('fortuneApp_fullName') || 
+      const actualFullName = localStorage.getItem('fortuneApp_fullName') || 
                           pendingRequestBody.fullName || 
                           fetchedLinkedInData.profileData?.full_name || 
-                          userInfo.fullName || 
+                          storedUserInfo.fullName || 
                           'Valued User';
       
-      let actualCompanyName = localStorage.getItem('fortuneApp_companyName') || 
+      const actualCompanyName = localStorage.getItem('fortuneApp_companyName') || 
                              pendingRequestBody.companyName || 
                              fetchedLinkedInData.latestCompanyData?.name || 
-                             userInfo.companyName || 
+                             storedUserInfo.companyName || 
                              'Your Company';
       
-      let actualIndustryType = localStorage.getItem('fortuneApp_industry') || 
+      const actualIndustryType = localStorage.getItem('fortuneApp_industry') || 
                               pendingRequestBody.industryType || 
                               fetchedLinkedInData.latestCompanyData?.industry || 
                               fetchedLinkedInData.profileData?.occupation || 
-                              userInfo.industryType || 
+                              storedUserInfo.industryType || 
                               'Your Industry';
       
-      let actualGeographicFocus = pendingRequestBody.geographicFocus || 
-                                 userInfo.geographicFocus || 
+      const actualGeographicFocus = pendingRequestBody.geographicFocus || 
+                                 storedUserInfo.geographicFocus || 
                                  (fetchedLinkedInData.profileData ? 
                                    `${fetchedLinkedInData.profileData.city || 'Global Reach'}, ${fetchedLinkedInData.profileData.country_full_name || 'Cosmic Planes'}` : 
                                    'Your Region');
+      
+      const currentUserInfo = {
+        fullName: actualFullName,
+        companyName: actualCompanyName,
+        industryType: actualIndustryType,
+        geographicFocus: actualGeographicFocus
+      };
+      setUserInfo(currentUserInfo);
 
-      console.log('[FortuneJourneyPage] Using actual user data:', {
-        actualFullName,
-        actualCompanyName,
-        actualIndustryType,
-        actualGeographicFocus
-      });
+      console.log('[FortuneJourneyPage] Using actual user data:', currentUserInfo);
 
       const allHighLevelQuestionsForPersona = personaQuestions[persona].high;
       const selectedQuestionObjects = allHighLevelQuestionsForPersona.filter(q => scenarios.includes(q.id));
@@ -180,6 +185,11 @@ export default function FortuneJourneyPage() {
     setCurrentStage('finalBlueprint');
   };
 
+  const handleCompleteJourney = () => {
+    // Navigate to the final contact page or show a summary
+    router.push('/contact-details');
+  };
+
   const handleGoBack = () => {
     if (currentStage === 'finalBlueprint') setCurrentStage('tacticalSelection');
     else if (currentStage === 'tacticalSelection') setCurrentStage('initialFortuneReveal');
@@ -226,19 +236,24 @@ export default function FortuneJourneyPage() {
 
     case 'tacticalSelection':
       return (
-        <ScenarioSelectionComponent
-          onScenariosConfirmed={handleTacticalConfirmed}
-          onBack={handleGoBack}
-          questionType="tactical"
+        <TacticalCardSelectionComponent
           persona={selectedPersona}
-          title="Choose Your Tools Wisely"
-          subtitle="Which powers do you wish to master to realize your dreams?"
-          ctaLabel="Reveal My Blueprint"
-      />
-    );
+          onConfirm={handleTacticalConfirmed}
+          onBack={handleGoBack}
+        />
+      );
 
     case 'finalBlueprint':
-      return <ScenarioAnswersComponent />;
+      return (
+        <BlueprintDisplayComponent
+          userInfo={userInfo}
+          highLevelChoices={highLevelChoices}
+          tacticalChoices={tacticalChoices}
+          persona={selectedPersona}
+          onComplete={handleCompleteJourney}
+          onBack={handleGoBack}
+        />
+      );
 
     default:
       return <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 space-y-4">An unknown error occurred in your journey.</div>;

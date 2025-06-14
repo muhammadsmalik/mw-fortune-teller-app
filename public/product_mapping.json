@@ -1,0 +1,110 @@
+{
+  "pub_t1": {
+    "productName": "MW Measure",
+    "features": ["Campaign Insights & Reports", "BLS", "Incremental Reach Calculator", "Billboard Oscars"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Deliver trusted proof of audience exposure, brand lift and third-party verified results."
+  },
+  "pub_t2": {
+    "productName": "MW Measure, Marketplace",
+    "features": ["Reports", "BLS", "Automated Campaign Reports", "Showcase Deals"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Build success stories from real results to attract new advertisers."
+  },
+  "pub_t3": {
+    "productName": "LMX Platform, Sitebuilder APIs, SSP/DSP Integrations",
+    "features": ["Booking API", "Inventory API", "Campaign Management API"],
+    "businessModel": "API Fee",
+    "description": "Offer vertical partners custom SaaS workflows via API integrations."
+  },
+  "pub_t4": {
+    "productName": "Self-Serve Booking, Sitebuilder, Billing & Invoices",
+    "features": ["Booking portal", "Templates", "Billing Management"],
+    "businessModel": "Subscription",
+    "description": "Allow smaller advertisers to book, manage and pay without complex CRM."
+  },
+  "pub_t5": {
+    "productName": "Audience Intelligence, MAX, Planner",
+    "features": ["Audience data", "Geo-Targeting", "Planner tool"],
+    "businessModel": "Usage-Based",
+    "description": "Build tailored packages based on audience movement and screen data."
+  },
+  "pub_t6": {
+    "productName": "Self-Serve Booking, Packages, Marketplace",
+    "features": ["Packages", "Deals", "Instant Booking"],
+    "businessModel": "Usage-Based",
+    "description": "Enable small advertisers to run quick test campaigns with minimal friction."
+  },
+  "adv_t1": {
+    "productName": "MW Measure",
+    "features": ["Campaign Reports", "BLS", "3rd Party Measurement"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Tie DOOH exposure to sales impact with independent proof."
+  },
+  "adv_t2": {
+    "productName": "Measurement & Reporting Tools",
+    "features": ["Real-time Reports", "BLS"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Demonstrate ROI to build advertiser confidence."
+  },
+  "adv_t3": {
+    "productName": "Audience Intelligence, MAX, Planner",
+    "features": ["Audience Profiles", "Geo/PoI Targeting", "Planner"],
+    "businessModel": "Usage-Based",
+    "description": "Select screens by audience, not just location."
+  },
+  "adv_t4": {
+    "productName": "MW Ad Server, Creative Management, Playlist Manager",
+    "features": ["Rules-based Scheduling", "Dynamic Content Delivery"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Serve context-relevant ads for higher impact."
+  },
+  "adv_t5": {
+    "productName": "MW Measure",
+    "features": ["Incremental Reach Calculator"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Prove unique reach beyond other media."
+  },
+  "adv_t6": {
+    "productName": "Audience Intelligence, SSP/DSP Integrations",
+    "features": ["Geo & Contextual Signals"],
+    "businessModel": "Usage-Based",
+    "description": "Use local signals for targeting, respecting privacy."
+  },
+  "plat_t1": {
+    "productName": "MAX Platform, MW Measure",
+    "features": ["Privacy-safe Reporting", "Third-party Integrations"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Prove value with clean-room data and neutral measurement."
+  },
+  "plat_t2": {
+    "productName": "Measurement & Reporting Tools",
+    "features": ["Real-time Reports", "BLS"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Back up DOOH performance to claim a larger budget share."
+  },
+  "plat_t3": {
+    "productName": "Registry, Inventory Manager, Audience Intelligence",
+    "features": ["Inventory Quality Data", "Audience Profiles"],
+    "businessModel": "Subscription",
+    "description": "Balance screen quality and audience match for better yields."
+  },
+  "plat_t4": {
+    "productName": "MW Ad Server, Creative Management, SSP/DSP Integrations",
+    "features": ["Rules Engine", "Dynamic Content Delivery", "Header Bidding"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Deliver context-aware ads programmatically at scale."
+  },
+  "plat_t5": {
+    "productName": "SSP/DSP Integrations, Marketplace",
+    "features": ["Plug into Retail DSPs", "Deal Manager"],
+    "businessModel": "Usage-Based",
+    "description": "Capture retail budgets by syncing DOOH supply with commerce demand."
+  },
+  "plat_t6": {
+    "productName": "MW Measure, MAX Platform",
+    "features": ["Cross-campaign Reporting", "Standardized Metrics"],
+    "businessModel": "Subscription + Usage-based",
+    "description": "Align performance metrics for consistent ROI tracking."
+  }
+} 

@@ -801,7 +801,7 @@ export default function DisplayFortune({
                 ) : error ? (
                   'Error: Cannot Proceed'
                 ) : (
-                  'Realize Your Vision'
+                  'Consult the Instruments of Fate'
                 )}
               </Button>
             </CardFooter>
