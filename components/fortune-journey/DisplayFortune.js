@@ -785,7 +785,7 @@ export default function DisplayFortune({
               {renderContent()}
             </CardContent>
             
-            <CardFooter className="flex justify-between p-6">
+            <CardFooter className="flex justify-between p-6 relative z-10">
               {/* Navigation Buttons */}
               <Button variant="outline" onClick={onGoBack} className="border-mw-light-blue/50 text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-white">
                 <ArrowLeft className="h-4 w-4 mr-2" />
@@ -796,7 +796,13 @@ export default function DisplayFortune({
                 disabled={isLoading || !!error}
                 className="bg-mw-gold text-mw-dark-navy font-bold hover:bg-mw-gold/90 transition-all duration-300 shadow-lg shadow-mw-gold/20"
               >
-                Realize Your Vision
+                {isLoading ? (
+                  <><Loader2 className="mr-2 h-4 w-4 animate-spin" /> Consulting the Stars...</>
+                ) : error ? (
+                  'Error: Cannot Proceed'
+                ) : (
+                  'Realize Your Vision'
+                )}
               </Button>
             </CardFooter>
           </Card>
