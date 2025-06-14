@@ -4,18 +4,20 @@ import { useEffect, useState, useMemo } from 'react';
 import { Button } from '@/components/ui/button';
 import { motion } from 'framer-motion';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
-import { Loader2, ArrowLeft, CheckCircle, Sparkles, BookOpen } from 'lucide-react';
+import { Loader2, ArrowLeft, CheckCircle, Sparkles, BookOpen, Star } from 'lucide-react';
 import allQuestions from '@/lib/persona_questions.json';
 import Image from 'next/image';
+import productMappingData from '@/public/product_mapping.json';
 
 export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalChoices, persona, onComplete, onBack }) {
-  const [productMapping, setProductMapping] = useState(null);
-  const [generatedSummary, setGeneratedSummary] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  const title = useMemo(() => {
+    return `${userInfo.fullName}'s Blueprint for DOOH Mastery`;
+  }, [userInfo.fullName]);
+
   const tacticalSolutions = useMemo(() => {
-    if (!productMapping) return [];
     return tacticalChoices.map(id => {
       const allPersonaQuestions = [...allQuestions[persona].high, ...allQuestions[persona].tactical];
       const question = allPersonaQuestions.find(q => q.id === id);
@@ -24,80 +26,40 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
       return {
         id,
         questionText: question ? question.text : 'Unknown Challenge',
-        solution: productMapping[id],
+        solution: productMappingData[id],
         imagePath: persona === 'advertiser' ? `/tactical_cards/advertiser/adv_${tacticalIndex + 1}.png` : null
       };
     });
-  }, [productMapping, tacticalChoices, persona]);
+  }, [tacticalChoices, persona]);
 
-  useEffect(() => {
-    const fetchAndGenerate = async () => {
-      setIsLoading(true);
-      setError(null);
-      try {
-        const mappingRes = await fetch('/product_mapping.json');
-        if (!mappingRes.ok) throw new Error('Could not load the cosmic blueprints.');
-        const mappingData = await mappingRes.json();
-        setProductMapping(mappingData);
-
-        const allPersonaQuestions = [...allQuestions[persona].high, ...allQuestions[persona].tactical];
-        const tacticalChallenges = tacticalChoices.map(id => allPersonaQuestions.find(q => q.id === id));
-        const selectedSolutions = tacticalChoices.map(id => mappingData[id]);
-
-        const payload = {
-            ...userInfo,
-            selectedPersona: persona,
-            tacticalChallenges,
-            selectedSolutions,
-        };
-
-        const summaryRes = await fetch('/api/generate-blueprint-summary', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(payload)
-        });
-
-        if (!summaryRes.ok) {
-            const errorData = await summaryRes.json();
-            throw new Error(errorData.error || 'The Oracle is silent. The final prophecy could not be generated.');
-        }
-
-        const summaryData = await summaryRes.json();
-        setGeneratedSummary(summaryData);
-
-      } catch (err) {
-        setError(err.message);
-      } finally {
-        setIsLoading(false);
-      }
-    };
-
-    if (userInfo && persona && highLevelChoices.length > 0 && tacticalChoices.length > 0) {
-        fetchAndGenerate();
-    } else {
-        setError("Missing critical information from the journey to forge the blueprint.");
-        setIsLoading(false);
-    }
-  }, [userInfo, persona, highLevelChoices, tacticalChoices]);
-  
   const unselectedQuestions = useMemo(() => {
-    if (!productMapping) return [];
     return allQuestions[persona] ? 
       allQuestions[persona].tactical
         .filter(q => !tacticalChoices.includes(q.id))
         .map(q => ({
           id: q.id,
           text: q.text,
-          solution: productMapping[q.id] ? `Solution: ${productMapping[q.id].productName}` : 'A mystery to be unraveled.'
+          solution: productMappingData[q.id] ? `Solution: ${productMappingData[q.id].productName}` : 'A mystery to be unraveled.'
         })) 
       : [];
-  }, [productMapping, tacticalChoices, persona]);
+  }, [tacticalChoices, persona]);
 
-  if (isLoading || !generatedSummary) {
+  useEffect(() => {
+    setIsLoading(true);
+    if (userInfo && persona && tacticalChoices.length > 0) {
+      // Simulate a brief loading period for a smoother feel, as we are no longer fetching from an API
+      setTimeout(() => setIsLoading(false), 500);
+    } else {
+        setError("Missing critical information from the journey to forge the blueprint.");
+        setIsLoading(false);
+    }
+  }, [userInfo, persona, tacticalChoices]);
+
+  if (isLoading) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4">
         <Loader2 className="h-12 w-12 animate-spin text-mw-light-blue" />
-        <p className="mt-4 text-lg font-caveat">The Oracle is weaving the final threads of your destiny...</p>
+        <p className="mt-4 text-lg font-caveat">Forging your strategic blueprint...</p>
       </div>
     );
   }
@@ -126,42 +88,66 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
                         <Sparkles className="h-12 w-12 mx-auto text-mw-gold" />
                     </motion.div>
                     <CardTitle className="text-mw-gold font-morrison tracking-wide text-4xl mt-4">
-                        {generatedSummary.blueprintTitle}
+                        {title}
                     </CardTitle>
                 </CardHeader>
 
                 <CardContent className="p-8">
-                    <div className="space-y-16">
-                        {[generatedSummary.solution1, generatedSummary.solution2].map((solution, index) => (
+                    <div className="space-y-12">
+                        {tacticalSolutions.map((item, index) => (
                             <motion.div
-                                key={index}
+                                key={item.id}
                                 initial={{ opacity: 0, x: -30 }}
                                 animate={{ opacity: 1, x: 0 }}
                                 transition={{ delay: 0.5 + index * 0.2, duration: 0.5 }}
-                                className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 items-center"
+                                className="grid grid-cols-1 md:grid-cols-4 gap-6 md:gap-8 items-center"
                             >
-                                {tacticalSolutions[index]?.imagePath && (
+                                {item.imagePath && (
                                   <div className="md:col-span-1 flex justify-center">
                                     <Image 
-                                      src={tacticalSolutions[index].imagePath}
-                                      alt={`Tarot card for: ${solution.challenge}`}
-                                      width={200}
-                                      height={300}
+                                      src={item.imagePath}
+                                      alt={`Tarot card for: ${item.questionText}`}
+                                      width={150}
+                                      height={225}
                                       className="rounded-lg shadow-lg"
                                     />
                                   </div>
                                 )}
-                                <div className={tacticalSolutions[index]?.imagePath ? "md:col-span-2" : "md:col-span-3"}>
-                                    <h3 className="text-2xl font-semibold text-mw-light-blue mb-4">{solution.challenge}</h3>
-                                    <p className="text-mw-white/90 leading-relaxed">{solution.prophecy}</p>
+                                <div className={item.imagePath ? "md:col-span-3" : "md:col-span-4"}>
+                                    <div className="flex items-start gap-4">
+                                        <div className="text-4xl">{item.solution.icon}</div>
+                                        <div>
+                                            {item.solution.platformPillar && (
+                                                <div className="mb-2">
+                                                    <span className={`inline-block px-3 py-1 text-xs font-semibold rounded-full ${
+                                                        item.solution.platformPillar === 'Measure' ? 'bg-blue-500/20 text-blue-300' :
+                                                        item.solution.platformPillar === 'Influence' ? 'bg-purple-500/20 text-purple-300' :
+                                                        'bg-teal-500/20 text-teal-300' // Automate
+                                                    }`}>
+                                                        {item.solution.platformPillar}
+                                                    </span>
+                                                </div>
+                                            )}
+                                            <h3 className="text-2xl font-bold text-mw-light-blue mb-2">{item.solution.productName}</h3>
+                                            <p className="text-mw-white/90 leading-relaxed italic mb-4">"{item.solution.oneLiner}"</p>
+                                            <div className="flex flex-wrap gap-2">
+                                                {item.solution.features.map(feature => (
+                                                    <div key={feature} className="flex items-center gap-1.5 bg-mw-dark-blue/40 text-mw-light-blue text-xs font-medium px-2 py-1 rounded-full">
+                                                        <Star className="h-3 w-3" />
+                                                        {feature}
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </motion.div>
                         ))}
                     </div>
 
                     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }} className="text-center mt-16 border-t border-mw-gold/20 pt-8">
-                        <p className="text-lg text-mw-white/90 italic leading-relaxed">
-                            "{generatedSummary.closingProphecy}"
+                        <p className="text-lg text-mw-white/90 leading-relaxed">
+                            Armed with this blueprint, you are poised to reshape the advertising landscape. Embrace the future, for the power to command attention is now yours.
                         </p>
                         <p className="text-md text-mw-gold mt-2">- The Oracle</p>
                     </motion.div>
