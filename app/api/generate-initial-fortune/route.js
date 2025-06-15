@@ -98,11 +98,29 @@ export async function POST(req) {
       });
     }
 
+    // Capitalize the first letter of the persona to match the context keys
+    const capitalizedPersona = selectedPersona.charAt(0).toUpperCase() + selectedPersona.slice(1);
+
     const personaContext = {
       Advertiser: advertiserContext,
       Publisher: publisherContext,
       'Platform & Service Provider': platformContext,
     };
+
+    const isGenericLocation = geographicFocus === 'Your Region';
+
+    const locationInstruction = isGenericLocation
+      ? `2. **BE INSIGHTFUL & STRATEGIC:**
+         - Provide insights that are broadly applicable to the user's industry (${industryType}).
+         - Focus on strategic business concepts and future trends.
+         - Do NOT use specific city or country names. Do NOT mention words like 'Region' or 'Area'. Keep the advice general but powerful.`
+      : `2. **BE HYPER-LOCAL & SPECIFIC FOR ${geographicFocus}:**
+         - If Singapore: mention Marina Bay, Orchard Road, CBD, Changi
+         - If Kuala Lumpur: mention KLCC, Bukit Bintang, Federal Highway, Pavilion KL
+         - If Jakarta: mention Sudirman, Thamrin, PIK, Grand Indonesia
+         - If Bangkok: mention Sukhumvit, Siam, Silom, CentralWorld
+         - If Manila: mention Makati, BGC, EDSA, SM Mall of Asia
+         - Research and use REAL places from the specified location`;
 
     const prompt = `
       You are Kai, a genius-level lead expert from Moving Walls, the world's leading provider of out-of-home (OOH) advertising technology.
@@ -112,10 +130,10 @@ export async function POST(req) {
       - **Name:** ${fullName}
       - **Company:** ${companyName}
       - **Industry:** ${industryType || 'Not specified'}
-      - **Geographic Focus:** ${geographicFocus}
+      ${!isGenericLocation ? `- **Geographic Focus:** ${geographicFocus}` : ''}
       - **Persona:** ${selectedPersona}
-      ${linkedinData ? `- **LinkedIn Context:** ${JSON.stringify(linkedinData)}` : ''}
-      ${companyDetails ? `- **Company Details:** ${JSON.stringify(companyDetails)}` : ''}
+      ${linkedinData && Object.keys(linkedinData).length > 0 ? `- **LinkedIn Context:** ${JSON.stringify(linkedinData)}` : ''}
+      ${companyDetails && Object.keys(companyDetails).length > 0 ? `- **Company Details:** ${JSON.stringify(companyDetails)}` : ''}
 
       **USER'S CHOSEN FUTURE CHALLENGES:**
       1. "${selectedQuestions[0]}"
@@ -126,32 +144,25 @@ export async function POST(req) {
       1. **ULTRA-CONCISE OPENING:** 
          - Address ${fullName} by name in a powerful, memorable way
          - MAX 100 characters total (about 10-15 words)
-         - Reference ${geographicFocus} if possible
+         - ${isGenericLocation ? 'Reference their industry or a powerful business concept.' : `Reference ${geographicFocus} if possible`}
          - Make it intriguing and forward-looking
-         - Examples: "${fullName}, Singapore's OOH revolution begins now."
+         - Examples: "${fullName}, your vision will redefine the ${industryType} landscape."
          - Or: "${fullName}, your DOOH vision transforms ${geographicFocus}."
       
-      2. **BE HYPER-LOCAL & SPECIFIC FOR ${geographicFocus}:**
-         - If Singapore: mention Marina Bay, Orchard Road, CBD, Changi
-         - If Kuala Lumpur: mention KLCC, Bukit Bintang, Federal Highway, Pavilion KL
-         - If Jakarta: mention Sudirman, Thamrin, PIK, Grand Indonesia
-         - If Bangkok: mention Sukhumvit, Siam, Silom, CentralWorld
-         - If Manila: mention Makati, BGC, EDSA, SM Mall of Asia
-         - Research and use REAL places from the specified location
+      ${locationInstruction}
       
       3. **BE CONCISE & READABLE:**
          - Opening statement: MAX 100 characters, ultra punchy
          - Each insight: 2-3 bullet points separated by newlines
          - Each bullet point: MAX 100 characters per line
-         - Use specific locations and actionable advice
-         - Format: "Deploy AR screens at Marina Bay Sands\nSync with Orchard Road foot traffic data\nLaunch pilot at Changi Airport terminals"
+         - Use specific locations and actionable advice if location is not generic
+         - Format: "Deploy AR screens at Marina Bay Sands\\nSync with Orchard Road foot traffic data\\nLaunch pilot at Changi Airport terminals"
       
       4. **BULLET POINT FORMAT FOR INSIGHTS:**
          - Structure each insight as 2-3 actionable points
-         - Each point should reference specific ${geographicFocus} locations
+         - ${isGenericLocation ? 'Each point should offer a strategic advantage.' : `Each point should reference specific ${geographicFocus} locations`}
          - Use action verbs: "Deploy", "Launch", "Integrate", "Sync"
          - Make each point build on the previous one
-         - Separate points with newline characters (\n)
       
       5. **BE FUTURISTIC & ACTIONABLE:** Reference concepts like:
          - Omni-Media Sequencing, AI Co-pilots, Blockchain Attribution
@@ -167,7 +178,7 @@ export async function POST(req) {
       Use the following Moving Walls persona insights to inform your response:
 
       <PersonaContext>
-      ${personaContext[selectedPersona] || ''}
+      ${personaContext[capitalizedPersona] || ''}
       </PersonaContext>
 
       **EXAMPLE OF WHAT NOT TO DO:**
@@ -253,12 +264,17 @@ export async function POST(req) {
     // Check for placeholder text that shouldn't be there
     const placeholderPatterns = [
       /Your Company/gi,
-      /Your Region/gi,
+      // /Your Region/gi, // This is now conditional
       /Valued User/gi,
       /\[Local Landmark\]/gi,
       /\[Specific District Name\]/gi,
       /\[.*?\]/gi // Any text in square brackets
     ];
+
+    // Only check for "Your Region" if the user was supposed to provide a specific one.
+    if (!isGenericLocation) {
+      placeholderPatterns.push(/Your Region/gi);
+    }
     
     let hasPlaceholders = false;
     placeholderPatterns.forEach(pattern => {

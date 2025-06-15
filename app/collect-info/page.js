@@ -263,7 +263,7 @@ export default function CollectInfoScreen() {
       localStorage.removeItem('fetchedLinkedInData');
       localStorage.removeItem('forceRefreshLinkedInData');
 
-      router.push('/generating-fortune');
+      router.push('/fortune-journey');
     }
   };
 
