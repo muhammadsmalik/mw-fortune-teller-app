@@ -129,7 +129,7 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
                                                 </div>
                                             )}
                                             <h3 className="text-2xl font-bold text-mw-light-blue mb-2">{item.solution.productName}</h3>
-                                            <p className="text-mw-white/90 leading-relaxed italic mb-4">"{item.solution.oneLiner}"</p>
+                                            <p className="text-mw-white/90 leading-relaxed italic mb-4">&ldquo;{item.solution.oneLiner}&rdquo;</p>
                                             <div className="flex flex-wrap gap-2">
                                                 {item.solution.features.map(feature => (
                                                     <div key={feature} className="flex items-center gap-1.5 bg-mw-dark-blue/40 text-mw-light-blue text-xs font-medium px-2 py-1 rounded-full">
