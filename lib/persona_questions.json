@@ -1,56 +1,56 @@
 {
   "publisher": {
     "high": [
-      { "id": "pub_h1", "text": "Audience sequences?" },
-      { "id": "pub_h2", "text": "AI CRM funnels?" },
-      { "id": "pub_h3", "text": "Plug-and-play buying?" },
-      { "id": "pub_h4", "text": "Blockchain revenue?" },
-      { "id": "pub_h5", "text": "AI copilot teams?" },
-      { "id": "pub_h6", "text": "Performance subs?" }
+      { "id": "pub_h1", "text": "Will AI automatically target ads based on what people do online?" },
+      { "id": "pub_h2", "text": "Will AI predict which brands want to buy ads before they ask?" },
+      { "id": "pub_h3", "text": "Will brands book billboards by talking to AI assistants?" },
+      { "id": "pub_h4", "text": "Will smart contracts automatically split ad revenue?" },
+      { "id": "pub_h5", "text": "What happens to sales teams when AI does most of their work?" },
+      { "id": "pub_h6", "text": "Will publishers guarantee sales results instead of just ad views?" }
     ],
     "tactical": [
-      { "id": "pub_t1", "text": "Prove effectiveness" },
-      { "id": "pub_t2", "text": "Inbound case studies" },
-      { "id": "pub_t3", "text": "Vertical-SaaS APIs" },
-      { "id": "pub_t4", "text": "Low-code CRM" },
-      { "id": "pub_t5", "text": "Audience architects" },
-      { "id": "pub_t6", "text": "Trial campaigns" }
+      { "id": "pub_t1", "text": "How do you prove billboards actually drive sales?" },
+      { "id": "pub_t2", "text": "How do you get digital brands interested in billboards?" },
+      { "id": "pub_t3", "text": "How do you make buying billboards as easy as buying Google ads?" },
+      { "id": "pub_t4", "text": "What simple tools can automate your sales follow-ups?" },
+      { "id": "pub_t5", "text": "How do you teach sales teams to sell marketing strategies, not just ad space?" },
+      { "id": "pub_t6", "text": "How do you get brands to try billboards without big commitments?" }
     ]
   },
   "advertiser": {
     "high": [
-      { "id": "adv_h1", "text": "AI-optimised journey?" },
-      { "id": "adv_h2", "text": "AR + DOOH?" },
-      { "id": "adv_h3", "text": "Net-zero campaigns?" },
-      { "id": "adv_h4", "text": "Metaverse sync?" },
-      { "id": "adv_h5", "text": "Blockchain proof?" },
-      { "id": "adv_h6", "text": "Dynamic pricing?" }
+      { "id": "adv_h1", "text": "Will AI automatically create personalized customer journeys from billboards to mobile to TV?" },
+      { "id": "adv_h2", "text": "Will smart glasses show product demos when people look at billboards?" },
+      { "id": "adv_h3", "text": "Will eco-friendly billboards become required for brand trust?" },
+      { "id": "adv_h4", "text": "Will virtual billboards in the metaverse sync with real-world ads?" },
+      { "id": "adv_h5", "text": "Will blockchain track exactly how billboards drive sales?" },
+      { "id": "adv_h6", "text": "Will billboard prices change automatically based on demand and audience?" }
     ],
     "tactical": [
-      { "id": "adv_t1", "text": "Link DOOH to sales" },
-      { "id": "adv_t2", "text": "Shift budget to DOOH" },
-      { "id": "adv_t3", "text": "Location vs audience" },
-      { "id": "adv_t4", "text": "Dynamic creatives" },
-      { "id": "adv_t5", "text": "Incremental reach" },
-      { "id": "adv_t6", "text": "1P data use" }
+      { "id": "adv_t1", "text": "How do you prove billboards actually increase sales?" },
+      { "id": "adv_t2", "text": "How much of your digital budget should go to billboards?" },
+      { "id": "adv_t3", "text": "Should you buy specific billboard locations or target specific audiences?" },
+      { "id": "adv_t4", "text": "How do you make billboard ads more memorable with QR codes and animations?" },
+      { "id": "adv_t5", "text": "How do you use billboards to boost your other digital ads without wasting money?" },
+      { "id": "adv_t6", "text": "How do you use your customer data to target billboard audiences better?" }
     ]
   },
   "platform": {
     "high": [
-      { "id": "plat_h1", "text": "AI workflow auto?" },
-      { "id": "plat_h2", "text": "Sell journeys, not ads" },
-      { "id": "plat_h3", "text": "Carbon-neutral svc" },
-      { "id": "plat_h4", "text": "OOHaaS platform" },
-      { "id": "plat_h5", "text": "Blockchain audits" },
-      { "id": "plat_h6", "text": "Human-AI teams" }
+      { "id": "plat_h1", "text": "Will AI handle most campaign planning, optimization, and reporting automatically?" },
+      { "id": "plat_h2", "text": "Will agencies sell complete customer journeys instead of just billboard ads?" },
+      { "id": "plat_h3", "text": "Will eco-friendly campaigns become required for all client work?" },
+      { "id": "plat_h4", "text": "Will brands book billboards by talking to AI assistants in everyday apps?" },
+      { "id": "plat_h5", "text": "Will blockchain become the standard way to track and verify campaign results?" },
+      { "id": "plat_h6", "text": "What skills will teams need to work alongside AI tools?" }
     ],
     "tactical": [
-      { "id": "plat_t1", "text": "Clean-room ROI" },
-      { "id": "plat_t2", "text": "DOOH budget share" },
-      { "id": "plat_t3", "text": "Prime vs audience" },
-      { "id": "plat_t4", "text": "Dynamic ads at scale" },
-      { "id": "plat_t5", "text": "Retail-media sync" },
-      { "id": "plat_t6", "text": "Unified KPIs" }
+      { "id": "plat_t1", "text": "How do you prove billboards boost your other digital campaigns?" },
+      { "id": "plat_t2", "text": "How do you convince clients to shift more digital budget to billboards?" },
+      { "id": "plat_t3", "text": "Should you buy premium billboard locations or use AI to target audiences?" },
+      { "id": "plat_t4", "text": "How do you create personalized billboard content without breaking budgets?" },
+      { "id": "plat_t5", "text": "How do you connect billboard campaigns with retail sales tracking?" },
+      { "id": "plat_t6", "text": "How do you combine billboard metrics with digital campaign data?" }
     ]
   }
 } 
