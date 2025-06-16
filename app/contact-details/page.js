@@ -93,49 +93,54 @@ export default function ContactDetailsPage() {
   }, []);
 
   useEffect(() => {
-    const structuredFortuneString = localStorage.getItem('fortuneApp_structuredFortune');
+    const fortuneDataString = localStorage.getItem('fortuneData');
     let textToShare = "Your fortune is being prepared for sharing...";
     const movingWallsLink = "Book an appointment here: https://www.movingwalls.com/contact-us/";
 
-    if (structuredFortuneString) {
+    if (fortuneDataString) {
       try {
-        const structuredFortune = JSON.parse(structuredFortuneString);
-        let parts = [];
-        if (structuredFortune.openingLine) parts.push(structuredFortune.openingLine);
-        if (structuredFortune.locationInsight) parts.push(structuredFortune.locationInsight.replace('📍', '').trim());
-        if (structuredFortune.audienceOpportunity) parts.push(structuredFortune.audienceOpportunity.replace('👀', '').trim());
-        if (structuredFortune.engagementForecast) parts.push(structuredFortune.engagementForecast.replace('💥', '').trim());
-        if (structuredFortune.transactionsPrediction) parts.push(structuredFortune.transactionsPrediction.replace('💸', '').trim());
-        if (structuredFortune.aiAdvice) parts.push(structuredFortune.aiAdvice.replace('🔮', '').trim());
-        
-        textToShare = parts.join('\n\n');
-        textToShare += `\n\n${movingWallsLink}`;
+        const fortune = JSON.parse(fortuneDataString);
+        const parts = [];
 
-      } catch (e) {
-        console.error("Failed to parse structured fortune for sharing:", e);
-        const htmlFortune = localStorage.getItem('fortuneApp_fortuneText');
-        if (htmlFortune) {
-          const tempDiv = document.createElement('div');
-          tempDiv.innerHTML = htmlFortune;
-          textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim();
+        if (fortune.openingStatement) {
+          parts.push(fortune.openingStatement);
+        }
+
+        if (fortune.insight1 && fortune.insight1.challenge) {
+          parts.push(`\nChallenge: "${fortune.insight1.challenge}"\nInsight:\n${fortune.insight1.insight}`);
+        }
+
+        if (fortune.insight2 && fortune.insight2.challenge) {
+          parts.push(`\nChallenge: "${fortune.insight2.challenge}"\nInsight:\n${fortune.insight2.insight}`);
+        }
+        
+        if (parts.length > 0) {
+          textToShare = parts.join('\n');
           textToShare += `\n\n${movingWallsLink}`;
         } else {
-          textToShare = `Could not retrieve fortune for sharing. Visit us at ${movingWallsLink}`;
+          throw new Error("Parsed fortune object was empty or invalid.");
         }
+
+      } catch (e) {
+        console.error("Failed to parse fortuneData for sharing:", e);
+        textToShare = `Could not retrieve fortune for sharing. Visit us at ${movingWallsLink}`;
       }
     } else {
-      const htmlFortune = localStorage.getItem('fortuneApp_fortuneText');
-      if (htmlFortune) {
-        const tempDiv = document.createElement('div');
-        tempDiv.innerHTML = htmlFortune;
-        textToShare = (tempDiv.textContent || tempDiv.innerText || "").replace(/\n\s*\n/g, '\n\n').trim();
-        textToShare += `\n\n${movingWallsLink}`;
-      } else {
         textToShare = `Fortune details not available for sharing. Visit us at ${movingWallsLink}`;
-      }
     }
     setShareableFortuneText(textToShare);
   }, []);
+
+  useEffect(() => {
+    // This effect syncs the clean, shareable text back into the leadData object
+    // once it has been processed. This ensures the correct text is sent to the Google Sheet.
+    if (shareableFortuneText && !shareableFortuneText.startsWith("Your fortune is being prepared")) {
+      setLeadData(prevData => ({
+        ...prevData,
+        fortuneText: shareableFortuneText
+      }));
+    }
+  }, [shareableFortuneText]);
 
   const sendFortuneEmail = useCallback(async (emailToSendTo, userFullName, fortuneContentForEmail) => {
     if (!fortuneContentForEmail || fortuneContentForEmail.startsWith("Could not") || fortuneContentForEmail.startsWith("Fortune details not") || fortuneContentForEmail.startsWith("Your fortune is being prepared")) {

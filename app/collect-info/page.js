@@ -262,6 +262,14 @@ export default function CollectInfoScreen() {
       localStorage.removeItem('userLinkedInProfile');
       localStorage.removeItem('fetchedLinkedInData');
       localStorage.removeItem('forceRefreshLinkedInData');
+      localStorage.removeItem('pendingFortuneRequestBody');
+      // Also clear any residual data from a previous LinkedIn or manual flow run
+      localStorage.removeItem('fortuneApp_fullName');
+      localStorage.removeItem('fortuneApp_industry');
+      localStorage.removeItem('fortuneApp_companyName');
+      localStorage.removeItem('fortuneApp_geographicFocus');
+      localStorage.removeItem('fortuneApp_businessObjective');
+      localStorage.removeItem('fortuneData');
 
       router.push('/fortune-journey');
     }

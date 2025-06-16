@@ -122,6 +122,11 @@ export default function FortuneJourneyPage() {
       };
       setUserInfo(currentUserInfo);
 
+      // Persist the finalized user info for the contact-details page
+      localStorage.setItem('fortuneApp_fullName', currentUserInfo.fullName);
+      localStorage.setItem('fortuneApp_companyName', currentUserInfo.companyName);
+      localStorage.setItem('fortuneApp_industry', currentUserInfo.industryType);
+
       console.log('[FortuneJourneyPage] Using actual user data:', currentUserInfo);
 
       const allHighLevelQuestionsForPersona = personaQuestions[persona].high;
