@@ -18,16 +18,28 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
   }, [userInfo.fullName]);
 
   const tacticalSolutions = useMemo(() => {
+    const personaPathConfig = {
+      advertiser: { prefix: 'adv', folder: 'advertiser' },
+      publisher: { prefix: 'pub', folder: 'publisher' },
+      platform: { prefix: 'plat', folder: 'platform' }
+    };
+
     return tacticalChoices.map(id => {
       const allPersonaQuestions = [...allQuestions[persona].high, ...allQuestions[persona].tactical];
       const question = allPersonaQuestions.find(q => q.id === id);
       const tacticalIndex = allQuestions[persona].tactical.findIndex(q => q.id === id);
+      const config = personaPathConfig[persona];
+
+      let imagePath = null;
+      if (config && tacticalIndex !== -1) {
+        imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${tacticalIndex + 1}.png`;
+      }
 
       return {
         id,
         questionText: question ? question.text : 'Unknown Challenge',
         solution: productMappingData[id],
-        imagePath: persona === 'advertiser' ? `/tactical_cards/advertiser/adv_${tacticalIndex + 1}.png` : null
+        imagePath
       };
     });
   }, [tacticalChoices, persona]);

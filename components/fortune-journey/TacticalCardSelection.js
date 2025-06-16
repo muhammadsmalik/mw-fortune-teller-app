@@ -43,6 +43,12 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
         return personaQuestions[persona].tactical || [];
     }, [persona]);
 
+    const personaPathConfig = {
+        advertiser: { prefix: 'adv', folder: 'advertiser' },
+        publisher: { prefix: 'pub', folder: 'publisher' },
+        platform: { prefix: 'plat', folder: 'platform' }
+    };
+
     useEffect(() => {
         // A short delay to allow for a transition animation from the parent
         const timer = setTimeout(() => setIsReady(true), 500);
@@ -86,6 +92,71 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
         visible: { y: 0, opacity: 1, transition: { type: 'spring', stiffness: 100 } }
     };
 
+    const renderCards = () => {
+        const config = personaPathConfig[persona];
+        if (!config) {
+            // Fallback for an unknown persona, though this case is unlikely.
+            // This preserves the icon-based view if a new persona is added without card images.
+            return (
+                <motion.div
+                    variants={containerVariants}
+                    initial="hidden"
+                    animate="visible"
+                    className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full z-10"
+                >
+                    {questions.map(q => {
+                        const isSelected = selectedIds.includes(q.id);
+                        const icon = iconMapping[q.crisp] || <ShieldCheck className="h-12 w-12 mx-auto text-mw-gold" />;
+                        return (
+                            <motion.div
+                                key={q.id}
+                                variants={cardVariants}
+                                onClick={() => handleSelectCard(q.id)}
+                                className={`cursor-pointer rounded-lg border-2 p-6 text-center transition-all duration-300 transform hover:scale-105
+                                            ${isSelected ? 'border-mw-gold bg-mw-gold/10 shadow-2xl shadow-mw-gold/20' : 'border-mw-light-blue/30 bg-mw-dark-blue/40 hover:border-mw-gold/50'}`}
+                            >
+                                <div className="mb-4">{icon}</div>
+                                <h3 className="text-xl font-bold text-mw-light-blue mb-2 h-14 flex items-center justify-center">{q.crisp}</h3>
+                                <p className="text-mw-white/70 text-sm h-20">{q.text}</p>
+                            </motion.div>
+                        );
+                    })}
+                </motion.div>
+            );
+        }
+
+        return (
+            <motion.div
+                variants={containerVariants}
+                initial="hidden"
+                animate="visible"
+                className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full"
+            >
+                {questions.map((q, index) => {
+                    const isSelected = selectedIds.includes(q.id);
+                    const imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${index + 1}.png`;
+                    return (
+                        <motion.div
+                            key={q.id}
+                            variants={cardVariants}
+                            onClick={() => handleSelectCard(q.id)}
+                            className={`cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
+                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20' : 'border-transparent'}`}
+                        >
+                            <Image
+                                src={imagePath}
+                                alt={`A tarot card representing the question: ${q.text}`}
+                                width={500}
+                                height={750}
+                                className="rounded-lg w-full h-full object-cover"
+                            />
+                        </motion.div>
+                    );
+                })}
+            </motion.div>
+        );
+    };
+
     return (
         <div className="min-h-screen w-full flex flex-col items-center justify-center bg-mw-dark-navy text-mw-white p-4 sm:p-8 overflow-hidden">
             <AnimatePresence>
@@ -108,61 +179,7 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
 
             {questions.length > 0 ? (
                 <div className="w-full flex justify-center">
-                    {persona === 'advertiser' ? (
-                        <motion.div
-                            variants={containerVariants}
-                            initial="hidden"
-                            animate="visible"
-                            className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full"
-                        >
-                            {questions.map((q, index) => {
-                                const isSelected = selectedIds.includes(q.id);
-                                const imagePath = `/tactical_cards/advertiser/adv_${index + 1}.png`;
-                                return (
-                                    <motion.div
-                                        key={q.id}
-                                        variants={cardVariants}
-                                        onClick={() => handleSelectCard(q.id)}
-                                        className={`cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
-                                                    ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20' : 'border-transparent'}`}
-                                    >
-                                        <Image
-                                            src={imagePath}
-                                            alt={`A tarot card representing the question: ${q.text}`}
-                                            width={500}
-                                            height={750}
-                                            className="rounded-lg w-full h-full object-cover"
-                                        />
-                                    </motion.div>
-                                );
-                            })}
-                        </motion.div>
-                    ) : (
-                        <motion.div
-                            variants={containerVariants}
-                            initial="hidden"
-                            animate="visible"
-                            className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full z-10"
-                        >
-                            {questions.map(q => {
-                                const isSelected = selectedIds.includes(q.id);
-                                const icon = iconMapping[q.crisp] || <ShieldCheck className="h-12 w-12 mx-auto text-mw-gold" />;
-                                return (
-                                    <motion.div
-                                        key={q.id}
-                                        variants={cardVariants}
-                                        onClick={() => handleSelectCard(q.id)}
-                                        className={`cursor-pointer rounded-lg border-2 p-6 text-center transition-all duration-300 transform hover:scale-105
-                                                    ${isSelected ? 'border-mw-gold bg-mw-gold/10 shadow-2xl shadow-mw-gold/20' : 'border-mw-light-blue/30 bg-mw-dark-blue/40 hover:border-mw-gold/50'}`}
-                                    >
-                                        <div className="mb-4">{icon}</div>
-                                        <h3 className="text-xl font-bold text-mw-light-blue mb-2 h-14 flex items-center justify-center">{q.crisp}</h3>
-                                        <p className="text-mw-white/70 text-sm h-20">{q.text}</p>
-                                    </motion.div>
-                                );
-                            })}
-                        </motion.div>
-                    )}
+                    {renderCards()}
                 </div>
             ) : (
                 <div className="flex items-center text-lg text-mw-white/70">
