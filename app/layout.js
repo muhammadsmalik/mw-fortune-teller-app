@@ -2,6 +2,7 @@ import { Inter, Nunito, Caveat, Poppins } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from "@/components/theme-provider";
 import BackgroundMusic from "@/components/BackgroundMusic";
+import { AudioProvider } from '@/contexts/AudioContext';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -42,8 +43,15 @@ export default function RootLayout({ children }) {
           enableSystem={false}
           disableTransitionOnChange
         >
-          {children}
-          <BackgroundMusic />
+          {/* 
+            The AudioProvider wraps the entire application to provide a global,
+            centralized audio management system. Every component can now access
+            the same audio context, ensuring features like global mute work consistently.
+          */}
+          <AudioProvider>
+            {children}
+            <BackgroundMusic />
+          </AudioProvider>
         </ThemeProvider>
       </body>
     </html>

@@ -12,6 +12,7 @@ import { loadSlim } from "@tsparticles/slim";
 import { Loader2, ArrowLeft, Lightbulb, BarChart, Users, Compass, Sparkles } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Howl } from 'howler';
+import { useAudio } from '@/contexts/AudioContext';
 
 const TTS_INSTRUCTIONS = `**Tone & Timbre:**
 A genie's voice carries an *otherworldly resonance*, like it reverberates from a place beyond the physical world. It has layers—deep and velvety in one breath, then sharp and crystalline the next. The lower tones might rumble like distant thunder, while higher notes shimmer with a metallic echo, like wind chimes in an empty temple.
@@ -61,6 +62,8 @@ export default function DisplayFortune({
   onProceedToNextStep,
   audioPlaybackAllowed: initialAudioAllowed = false
 }) {
+  // Access the global mute state from the AudioContext.
+  const { isMuted } = useAudio();
   // Particles engine initialization state
   const [init, setInit] = useState(false);
   
@@ -535,6 +538,18 @@ export default function DisplayFortune({
         ceoAudioRef.current.play().then(() => ceoAudioRef.current.pause()).catch(() => {});
     }
   };
+
+  // This effect synchronizes the HTML5 audio elements with the global mute state.
+  useEffect(() => {
+    // When the global `isMuted` state changes, update the `muted` property
+    // of the audio elements directly.
+    if (revealChimeRef.current) {
+      revealChimeRef.current.muted = isMuted;
+    }
+    if (ceoAudioRef.current) {
+      ceoAudioRef.current.muted = isMuted;
+    }
+  }, [isMuted]);
 
   /**
    * Render main content based on current state

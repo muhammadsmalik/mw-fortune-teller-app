@@ -10,6 +10,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { motion, AnimatePresence } from 'framer-motion';
 import personaQuestions from '@/lib/persona_questions.json';
+import { useAudio } from '@/contexts/AudioContext';
 
 const MAX_SELECTIONS = 2;
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
@@ -37,6 +38,7 @@ export default function ScenarioSelection({
   ctaLabel = "Reveal My Blueprint"
 }) {
   const router = useRouter(); // Still used for navigating back to /collect-info
+  const { audioContext, masterGain, initializeAudio } = useAudio();
   const [init, setInit] = useState(false);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
   const [currentPersona, setCurrentPersona] = useState(persona);
@@ -44,7 +46,6 @@ export default function ScenarioSelection({
 
   const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false);
   const [transitionAudioError, setTransitionAudioError] = useState(null);
-  const audioContextRef = useRef(null);
   const transitionAudioSourceRef = useRef(null);
 
   useEffect(() => {
@@ -70,25 +71,10 @@ export default function ScenarioSelection({
     detectRetina: true,
   }), []);
 
-  const getAudioContext = useCallback(() => {
-    if (typeof window !== 'undefined') {
-      if (!audioContextRef.current) {
-        try {
-          audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 });
-        } catch (e) {
-          setTransitionAudioError("Failed to initialize audio system for transition. " + e.message);
-          return null;
-        }
-      }
-      return audioContextRef.current;
-    }
-    return null;
-  }, []);
-
-  const playAudioFile = useCallback(async (filePath, isLastInSequence = false, onAudioEndCallback) => {
-    const audioContext = getAudioContext();
-    if (!audioContext) {
-      setTransitionAudioError(`Audio system not ready for transition sound: ${filePath}`);
+  const playAudioFile = useCallback(async (audioSystem, filePath, isLastInSequence = false, onAudioEndCallback) => {
+    const { audioContext, masterGain } = audioSystem;
+    if (!audioContext || !masterGain) {
+      setTransitionAudioError(`Audio system not ready. Please interact with the page first.`);
       setIsTransitionAudioPlaying(false);
       if (onAudioEndCallback) onAudioEndCallback(new Error("AudioContext not available"));
       return Promise.reject(new Error("AudioContext not available"));
@@ -98,7 +84,7 @@ export default function ScenarioSelection({
       try {
         await audioContext.resume();
       } catch (e) {
-        setTransitionAudioError(`Could not start transition audio ${filePath}. Check browser permissions.`);
+        setTransitionAudioError(`Could not start transition audio. Check browser permissions.`);
         setIsTransitionAudioPlaying(false);
         if (onAudioEndCallback) onAudioEndCallback(e);
         return Promise.reject(e);
@@ -118,7 +104,7 @@ export default function ScenarioSelection({
 
       const source = audioContext.createBufferSource();
       source.buffer = audioBuffer;
-      source.connect(audioContext.destination);
+      source.connect(masterGain);
       
       return new Promise((resolve, reject) => {
         source.onended = () => {
@@ -146,17 +132,17 @@ export default function ScenarioSelection({
       if (onAudioEndCallback) onAudioEndCallback(error);
       return Promise.reject(error);
     }
-  }, [getAudioContext]);
+  }, []);
   
-  const playTransitionSequence = useCallback(async (callbackOnCompletion) => {
+  const playTransitionSequence = useCallback(async (audioSystem, callbackOnCompletion) => {
     console.log('[ScenarioSelection] Starting transition audio sequence (internal to component).');
     setIsTransitionAudioPlaying(true);
     setTransitionAudioError(null);
 
     try {
-      await playAudioFile(TRANSITION_VOICE_PATH, false, null);
+      await playAudioFile(audioSystem, TRANSITION_VOICE_PATH, false, null);
       console.log('[ScenarioSelection] Transition voice finished, playing shimmer.');
-      await playAudioFile(TRANSITION_SHIMMER_PATH, true, (error) => {
+      await playAudioFile(audioSystem, TRANSITION_SHIMMER_PATH, true, (error) => {
           setIsTransitionAudioPlaying(false);
           if (error) {
               console.error('[ScenarioSelection] Error during shimmer sound:', error);
@@ -196,7 +182,19 @@ export default function ScenarioSelection({
     }
     setError(null);
     
-    await playTransitionSequence((transitionError) => {
+    let audioSystem = { audioContext, masterGain };
+    if (!audioSystem.audioContext) {
+      audioSystem = initializeAudio();
+    }
+
+    if (!audioSystem || !audioSystem.audioContext) {
+      console.warn("[ScenarioSelection] Audio system not available, skipping audio transition.");
+      // Proceed without audio
+      onScenariosConfirmed({ scenarios: selectedScenarioIds, persona: currentPersona });
+      return;
+    }
+
+    await playTransitionSequence(audioSystem, (transitionError) => {
       const payload = { 
         scenarios: selectedScenarioIds,
         persona: currentPersona
