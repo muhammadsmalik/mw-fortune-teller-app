@@ -4,7 +4,7 @@ import { useEffect, useState, useMemo } from 'react';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Loader2, ArrowLeft, ShieldCheck, PieChart, Map, Wand, Store, ClipboardList, Target, Layers, GitMerge, Database, FileText, Cpu, Users, AppWindow, TestTube } from 'lucide-react';
+import { Loader2, ArrowLeft, ShieldCheck, PieChart, Map, Wand, Store, ClipboardList, Target, Layers, GitMerge, Database, FileText, Cpu, Users, AppWindow, TestTube, CheckCircle } from 'lucide-react';
 import personaQuestions from '@/lib/persona_questions.json';
 
 const MAX_SELECTIONS = 2;
@@ -112,9 +112,21 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
                                 key={q.id}
                                 variants={cardVariants}
                                 onClick={() => handleSelectCard(q.id)}
-                                className={`cursor-pointer rounded-lg border-2 p-6 text-center transition-all duration-300 transform hover:scale-105
+                                className={`cursor-pointer rounded-lg border-2 p-6 text-center transition-all duration-300 transform hover:scale-105 relative
                                             ${isSelected ? 'border-mw-gold bg-mw-gold/10 shadow-2xl shadow-mw-gold/20' : 'border-mw-light-blue/30 bg-mw-dark-blue/40 hover:border-mw-gold/50'}`}
                             >
+                                <AnimatePresence>
+                                    {isSelected && (
+                                        <motion.div
+                                            initial={{ opacity: 0, scale: 0.5 }}
+                                            animate={{ opacity: 1, scale: 1 }}
+                                            exit={{ opacity: 0, scale: 0.5 }}
+                                            className="absolute top-3 right-3 bg-mw-dark-navy p-1 rounded-full"
+                                        >
+                                            <CheckCircle className="h-6 w-6 text-mw-gold" />
+                                        </motion.div>
+                                    )}
+                                </AnimatePresence>
                                 <div className="mb-4">{icon}</div>
                                 <h3 className="text-xl font-bold text-mw-light-blue mb-2 h-14 flex items-center justify-center">{q.crisp}</h3>
                                 <p className="text-mw-white/70 text-sm h-20">{q.text}</p>
@@ -140,8 +152,8 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
                             key={q.id}
                             variants={cardVariants}
                             onClick={() => handleSelectCard(q.id)}
-                            className={`cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
-                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20' : 'border-transparent'}`}
+                            className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
+                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}`}
                         >
                             <Image
                                 src={imagePath}
@@ -150,6 +162,18 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
                                 height={750}
                                 className="rounded-lg w-full h-full object-cover"
                             />
+                            <AnimatePresence>
+                                {isSelected && (
+                                    <motion.div
+                                        initial={{ opacity: 0 }}
+                                        animate={{ opacity: 1 }}
+                                        exit={{ opacity: 0 }}
+                                        className="absolute inset-0 bg-black/60 rounded-xl flex items-center justify-center"
+                                    >
+                                        <CheckCircle className="h-24 w-24 text-mw-gold" />
+                                    </motion.div>
+                                )}
+                            </AnimatePresence>
                         </motion.div>
                     );
                 })}
