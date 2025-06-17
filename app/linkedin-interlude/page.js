@@ -50,6 +50,7 @@ export default function LinkedInInterludeScreen() {
   // const transitionAudioSourceRef = useRef(null); // Moved
   const [init, setInit] = useState(false); // For particle effects
   const howlInstanceRef = useRef(null); // For Howler instance
+  const isSkippingNarrationRef = useRef(false);
   // const objectURLRef = useRef(null); // Removed as it's not used in true streaming
 
   // Particles engine initialization
@@ -234,16 +235,35 @@ export default function LinkedInInterludeScreen() {
         },
         onplay: () => {
           console.log('[TTS Frontend Howler] Howler playback started for stream.');
+          isSkippingNarrationRef.current = false; // Reset flag on new playback
           // setIsNarrating(true); // Already set before new Howl
+        },
+        onstop: () => {
+            console.log('[TTS Frontend Howler] onstop triggered.');
+            if (isSkippingNarrationRef.current) {
+                console.log('[TTS Frontend Howler] Narration skip confirmed. Proceeding.');
+                isSkippingNarrationRef.current = false; // Reset flag
+                setIsNarrating(false);
+                if (howlInstanceRef.current) {
+                    howlInstanceRef.current.unload(); // Important to free memory
+                    howlInstanceRef.current = null;
+                }
+                checkForFortuneAndProceed();
+            }
         },
         onend: () => {
           console.log('[TTS Frontend Howler] Howler playback ended for stream.');
+          isSkippingNarrationRef.current = false;
           setIsNarrating(false);
           setGreetingHeardOnce(true);
           howlInstanceRef.current = null; 
           checkForFortuneAndProceed();
         },
         onloaderror: (id, error) => {
+          if (isSkippingNarrationRef.current) {
+            console.log('[TTS Frontend Howler] onloaderror ignored due to narration skip.');
+            return;
+          }
           console.error('[TTS Frontend Howler] Howler onloaderror for stream:', id, error);
           setNarrationError(`Oracle's voice stream couldn't be loaded: ${error}. Code: ${id}`);
           setIsNarrating(false);
@@ -314,38 +334,6 @@ export default function LinkedInInterludeScreen() {
             };
             localStorage.setItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY, JSON.stringify(reconstructedRequestBody));
             storedFortuneRequestBodyString = JSON.stringify(reconstructedRequestBody); // Update for subsequent logic
-
-            if (!localStorage.getItem('fortuneData') && !localStorage.getItem('fortuneGenerationError')) {
-              console.log('[TTS Frontend] Triggering background fortune generation from interlude page due to missing pending body recovery.');
-              const backgroundFortuneRequestBodyCopy = JSON.parse(JSON.stringify(reconstructedRequestBody)); 
-              fetch('/api/generate-fortune', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(backgroundFortuneRequestBodyCopy),
-              })
-              .then(async response => {
-                if (!response.ok) {
-                  const errorData = await response.json().catch(() => response.text());
-                  localStorage.setItem('fortuneGenerationError', errorData.error || errorData.details || errorData || `Background fortune generation (interlude-triggered) failed (${response.status})`);
-                  return null; 
-                }
-                return response.json();
-              })
-              .then(data => { 
-                if (data) {
-                  localStorage.setItem('fortuneData', JSON.stringify(data));
-                  localStorage.setItem('fortuneApp_fullName', backgroundFortuneRequestBodyCopy.fullName);
-                  localStorage.setItem('fortuneApp_industry', backgroundFortuneRequestBodyCopy.industryType);
-                  localStorage.setItem('fortuneApp_companyName', backgroundFortuneRequestBodyCopy.companyName);
-                  localStorage.removeItem('fortuneGenerationError');
-                  console.log('[TTS Frontend] Background fortune generation (interlude-triggered) successful.');
-                }
-              })
-              .catch(error => {
-                console.error("[TTS Frontend] Network or other error in background fortune generation (interlude-triggered):", error);
-                localStorage.setItem('fortuneGenerationError', error.message || "A network error occurred (interlude-triggered).");
-              });
-            }
           } else {
             console.error('[TTS Frontend] Mismatch: FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY is for a different profile. Redirecting.');
             setApiError("Stale user data found. Please restart the process from the beginning.");
@@ -470,8 +458,8 @@ export default function LinkedInInterludeScreen() {
     console.log('[TTS Frontend Howler] handleRevealDestiny (button) called.');
     if (howlInstanceRef.current && howlInstanceRef.current.playing()) {
         console.log('[TTS Frontend Howler] Stopping active Howler narration due to manual reveal destiny click.');
-        howlInstanceRef.current.stop(); // This will trigger onend if playing, or just stop.
-                                      // onend will then call checkForFortuneAndProceed
+        isSkippingNarrationRef.current = true;
+        howlInstanceRef.current.stop(); // This will trigger onstop to proceed to the next screen.
     } else {
       console.log('[TTS Frontend Howler] No active Howler audio or audio finished, directly checking for fortune.');
       checkForFortuneAndProceed();
@@ -615,9 +603,8 @@ export default function LinkedInInterludeScreen() {
                        hover:opacity-90 \
                        rounded-lg shadow-md transform transition-all duration-150 \
                        hover:shadow-xl active:scale-95"
-            // Disable if actively generating fortune OR if narrating successfully (don't cut off)
-            // Also disable if transition audio is playing
-            disabled={isGeneratingFortune || (isNarrating && !narrationError) || isLoadingPage}
+            // Disable if actively generating fortune. Narration can be skipped.
+            disabled={isGeneratingFortune || isLoadingPage}
           >
             {isGeneratingFortune ? 
                 <><Loader2 className="mr-2 h-6 w-6 animate-spin" /> Consulting Oracles...</> :
