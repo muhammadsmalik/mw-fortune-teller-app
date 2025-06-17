@@ -173,9 +173,14 @@ Conference Attendee Information (use this to find a suitable connection):
 ${conferenceArchetypesContext}
 
 Instructions:
-1.  **Determine User\'s Archetype**: Based on their profile, define a "userMatchedArchetype" with a "name" (e.g., "The Data-Driven Growth Hacker") and an "explanation" of why it fits, referencing their profile. This archetype can be inspired by, but not necessarily identical to, the conference attendees\' archetypes if a direct match isn\'t perfect.
-2.  **Explain MW Empowerment**: For "mwEmpowerment", provide a "title" and "advice" on how Moving Walls\' solutions specifically help this archetype.
-3.  **Suggest Conference Connection**: For "suggestedConferenceConnection", identify ONE attendee from the provided list. Provide their "attendeeName", "attendeeArchetype" (must be their archetype from the list), and a compelling "connectionReason". Do NOT include profileImageURL in this part of the JSON.
+1.  **Determine User's Archetype**: Based on their profile, define a "userMatchedArchetype" with a "name" (e.g., "The Data-Driven Growth Hacker") and an "explanation" of why it fits, referencing their profile. This archetype can be inspired by, but not necessarily identical to, the conference attendees' archetypes if a direct match isn't perfect.
+2.  **Explain MW Empowerment**: For "mwEmpowerment", provide a "title" and "advice" on how Moving Walls' solutions specifically help this archetype.
+3.  **Suggest Conference Connection**: For "suggestedConferenceConnection", thoughtfully select ONE attendee from the provided list. Your selection must be strategic:
+    a.  **Prioritize Diversity**: Do not just select the first or most obvious match. Analyze the entire list of attendees.
+    b.  **Foster International Connection**: If the user has a "Geographic Focus" specified in their profile, you MUST prioritize suggesting an attendee from a DIFFERENT country or region. Scan the attendee summaries for geographic clues (e.g., "Mexico City", "ANZ", "South Africa", "Dubai", "LATAM") to facilitate this. A domestic match is a last resort.
+    c.  **Compelling Reason**: Provide their "attendeeName", their exact "attendeeArchetype" from the list, and a compelling "connectionReason" that clearly explains the value of this specific international connection.
+    d.  **Tie-Breaker**: If multiple attendees are an equally good fit, prioritize suggesting someone who is NOT 'The DOOH Monetization Maverick' to ensure variety in suggestions.
+    e.  Do NOT include profileImageURL in this part of the JSON.
 4.  **Overall Narrative**: Craft a brief "overallNarrative" to introduce the archetype discovery.
 
 Ensure your response is concise, insightful, and strictly adheres to the JSON schema provided.
