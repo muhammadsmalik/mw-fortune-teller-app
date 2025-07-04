@@ -190,8 +190,12 @@ export default function FortuneJourneyPage() {
     setCurrentStage('finalBlueprint');
   };
 
-  const handleCompleteJourney = () => {
+  const handleCompleteJourney = (blueprintHtml) => {
     // Navigate to the final contact page or show a summary
+    if (blueprintHtml) {
+      localStorage.setItem('blueprintHtml', blueprintHtml);
+      console.log('[FortuneJourneyPage] Blueprint HTML saved to localStorage.');
+    }
     router.push('/contact-details');
   };
 

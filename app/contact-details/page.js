@@ -47,6 +47,7 @@ export default function ContactDetailsPage() {
     fortuneText: '',
   });
 
+  const [blueprintHtml, setBlueprintHtml] = useState('');
   const [isLinkedInFlow, setIsLinkedInFlow] = useState(false);
   const [linkedInEmail, setLinkedInEmail] = useState('');
   const [autoProcessAttempted, setAutoProcessAttempted] = useState(false);
@@ -58,6 +59,11 @@ export default function ContactDetailsPage() {
     let initialIndustry = localStorage.getItem('fortuneApp_industry');
     let initialCompanyName = localStorage.getItem('fortuneApp_companyName');
     const storedFortuneText = localStorage.getItem('fortuneApp_fortuneText') || 'Your future is bright!';
+    const storedBlueprintHtml = localStorage.getItem('blueprintHtml');
+
+    if (storedBlueprintHtml) {
+      setBlueprintHtml(storedBlueprintHtml);
+    }
 
     const linkedInDataString = localStorage.getItem('fetchedLinkedInData');
     if (linkedInDataString) {
@@ -142,7 +148,7 @@ export default function ContactDetailsPage() {
     }
   }, [shareableFortuneText]);
 
-  const sendFortuneEmail = useCallback(async (emailToSendTo, userFullName, fortuneContentForEmail) => {
+  const sendFortuneEmail = useCallback(async (emailToSendTo, userFullName, fortuneContentForEmail, blueprintContentForEmail) => {
     if (!fortuneContentForEmail || fortuneContentForEmail.startsWith("Could not") || fortuneContentForEmail.startsWith("Fortune details not") || fortuneContentForEmail.startsWith("Your fortune is being prepared")) {
       setEmailSendStatus({ message: "Fortune text is not ready for email.", type: 'error' });
       setIsEmailSent(false);
@@ -158,6 +164,7 @@ export default function ContactDetailsPage() {
           subject: `Your Business Fortune from Moving Walls!`,
           fortuneText: fortuneContentForEmail,
           fullName: userFullName,
+          blueprintHtml: blueprintContentForEmail,
         }),
       });
       const result = await response.json();
@@ -216,7 +223,7 @@ export default function ContactDetailsPage() {
         }
 
         if (leadSuccessfullySubmitted) {
-          const emailActuallySent = await sendFortuneEmail(linkedInEmail, leadData.fullName, shareableFortuneText);
+          const emailActuallySent = await sendFortuneEmail(linkedInEmail, leadData.fullName, shareableFortuneText, blueprintHtml);
           if (emailActuallySent) {
             setSuccessMessage('');
           } else {
@@ -226,7 +233,7 @@ export default function ContactDetailsPage() {
       }
     };
     attemptAutoProcess();
-  }, [isLinkedInFlow, linkedInEmail, leadData, shareableFortuneText, isLeadSaved, isEmailSent, isProcessing, autoProcessAttempted, sendFortuneEmail]);
+  }, [isLinkedInFlow, linkedInEmail, leadData, shareableFortuneText, isLeadSaved, isEmailSent, isProcessing, autoProcessAttempted, sendFortuneEmail, blueprintHtml]);
 
   useEffect(() => {
     if (isLinkedInFlow && linkedInEmail && !autoProcessAttempted && leadData.fullName && leadData.industry && leadData.companyName && shareableFortuneText) {
@@ -258,7 +265,7 @@ export default function ContactDetailsPage() {
 
         if (leadSubmissionOk) {
           try {
-            await sendFortuneEmail(linkedInEmail, leadData.fullName || 'Valued Individual', shareableFortuneText);
+            await sendFortuneEmail(linkedInEmail, leadData.fullName || 'Valued Individual', shareableFortuneText, blueprintHtml);
             console.log("Auto email sending successful.");
             // isEmailSent is set by sendFortuneEmail
           } catch (e) {
@@ -270,7 +277,7 @@ export default function ContactDetailsPage() {
       };
       autoSubmitAndEmail();
     }
-  }, [isLinkedInFlow, linkedInEmail, autoProcessAttempted, leadData, shareableFortuneText, sendFortuneEmail]);
+  }, [isLinkedInFlow, linkedInEmail, autoProcessAttempted, leadData, shareableFortuneText, sendFortuneEmail, blueprintHtml]);
 
   useEffect(() => {
     if (isLeadSaved && isEmailSent) {
@@ -329,7 +336,7 @@ export default function ContactDetailsPage() {
     }
 
     if (leadSuccessfullySubmitted) {
-      const emailActuallySent = await sendFortuneEmail(email, leadData.fullName, shareableFortuneText);
+      const emailActuallySent = await sendFortuneEmail(email, leadData.fullName, shareableFortuneText, blueprintHtml);
       if (emailActuallySent) {
         setSuccessMessage('');
       } else {

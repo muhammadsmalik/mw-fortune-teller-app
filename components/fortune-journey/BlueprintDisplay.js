@@ -14,8 +14,9 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
   const [error, setError] = useState(null);
 
   const title = useMemo(() => {
+    if (!userInfo || !userInfo.fullName) return "Blueprint for DOOH Mastery";
     return `${userInfo.fullName}'s Blueprint for DOOH Mastery`;
-  }, [userInfo.fullName]);
+  }, [userInfo]);
 
   const tacticalSolutions = useMemo(() => {
     const personaPathConfig = {
@@ -56,6 +57,43 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
       : [];
   }, [tacticalChoices, persona]);
 
+  const generateBlueprintHtml = () => {
+    let html = `<h2 style="font-family: Arial, sans-serif; color: #1a202c; font-size: 22px; font-weight: bold;">${title}</h2>`;
+    html += `<div style="margin-top: 20px;">`;
+    
+    html += `<h3 style="font-family: Arial, sans-serif; color: #2d3748; font-size: 18px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-top: 24px;">Your Chosen Solutions</h3>`;
+    html += '<div>';
+    tacticalSolutions.forEach(item => {
+      html += `<div style="margin-top: 16px; padding-bottom: 16px; border-bottom: 1px solid #edf2f7;">`;
+      html += `<h4 style="font-family: Arial, sans-serif; color: #2c5282; font-size: 16px; font-weight: bold; margin-bottom: 4px;">${item.solution.productName}</h4>`;
+      html += `<p style="font-family: Arial, sans-serif; color: #4a5568; font-style: italic; margin-bottom: 8px;">"${item.solution.oneLiner}"</p>`;
+      if (item.solution.features && item.solution.features.length > 0) {
+        html += `<ul style="list-style-type: none; padding-left: 0; margin-top: 8px;">`;
+        item.solution.features.forEach(feature => {
+          html += `<li style="font-family: Arial, sans-serif; color: #4a5568; font-size: 14px; margin-bottom: 4px;">- ${feature}</li>`;
+        });
+        html += `</ul>`;
+      }
+      html += `</div>`;
+    });
+    html += '</div>';
+
+    if (unselectedQuestions.length > 0) {
+        html += `<h3 style="font-family: Arial, sans-serif; color: #2d3748; font-size: 18px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-top: 24px;">Other Paths to Explore</h3>`;
+        html += '<div>';
+        unselectedQuestions.forEach(q => {
+            html += `<div style="margin-top: 12px;">`;
+            html += `<p style="font-family: Arial, sans-serif; font-weight: bold; color: #4a5568;">${q.text}</p>`;
+            html += `<p style="font-family: Arial, sans-serif; color: #718096; font-size: 14px; margin-top: 4px;">${q.solution}</p>`;
+            html += `</div>`;
+        });
+        html += '</div>';
+    }
+
+    html += `</div>`;
+    return html;
+  };
+
   useEffect(() => {
     setIsLoading(true);
     if (userInfo && persona && tacticalChoices.length > 0) {
@@ -66,6 +104,11 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
         setIsLoading(false);
     }
   }, [userInfo, persona, tacticalChoices]);
+
+  const handleComplete = () => {
+      const blueprintHtml = generateBlueprintHtml();
+      onComplete(blueprintHtml);
+  };
 
   if (isLoading) {
     return (
@@ -190,7 +233,7 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
                     <ArrowLeft className="h-4 w-4 mr-2" />
                     Go Back
                 </Button>
-                <Button onClick={onComplete} size="lg" className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md">
+                <Button onClick={handleComplete} size="lg" className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md">
                     <CheckCircle className="h-5 w-5 mr-2" />
                     Complete My Journey
                 </Button>

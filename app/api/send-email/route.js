@@ -7,7 +7,7 @@ const EMAIL_FOOTER_IMAGE_URL = process.env.EMAIL_FOOTER_URL || 'https://placehol
 
 export async function POST(request) {
   try {
-    const { emailTo, subject, fortuneText, fullName } = await request.json();
+    const { emailTo, subject, fortuneText, fullName, blueprintHtml } = await request.json();
 
     if (!emailTo || !subject || !fortuneText) {
       return NextResponse.json({ message: 'Missing required fields: emailTo, subject, or fortuneText' }, { status: 400 });
@@ -34,6 +34,7 @@ export async function POST(request) {
             .container { padding: 20px; max-width: 600px; margin: auto; border: 1px solid #ddd; border-radius: 5px; }
             .header { font-size: 1.2em; font-weight: bold; margin-bottom: 15px; }
             .fortune-text { margin-bottom: 20px; }
+            .blueprint-section { margin-top: 30px; padding-top: 20px; border-top: 2px solid #e2e8f0; }
             .footer-image { width: 100%; max-width: 600px; height: auto; margin-top: 20px; }
             .signature { margin-top: 20px; font-style: italic; }
           </style>
@@ -45,6 +46,11 @@ export async function POST(request) {
             <div class="fortune-text">
               ${fortuneParagraphs}
             </div>
+            ${blueprintHtml ? `
+              <div class="blueprint-section">
+                ${blueprintHtml}
+              </div>
+            ` : ''}
             <p class="signature">
               Best regards,<br />
               Your AI Fortune Teller at Moving Walls 🚀
