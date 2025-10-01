@@ -211,6 +211,22 @@ export default function FortuneJourneyV2Page() {
       // Store for potential future use
       localStorage.setItem('fortuneData', JSON.stringify(legacyFortune));
 
+      // COMPATIBILITY FIX: Convert legacy 6-field format to v1 format for contact-details page
+      // contact-details expects: { openingStatement, insight1: {challenge, insight}, insight2: {challenge, insight} }
+      const compatibilityFortune = {
+        openingStatement: legacyFortune.openingLine || '',
+        insight1: {
+          challenge: selectedChallengeTexts[0] || 'Your First Challenge',
+          insight: `${legacyFortune.locationInsight || ''}\n\n${legacyFortune.audienceOpportunity || ''}`
+        },
+        insight2: {
+          challenge: selectedChallengeTexts[1] || 'Your Second Challenge',
+          insight: `${legacyFortune.engagementForecast || ''}\n\n${legacyFortune.transactionsPrediction || ''}\n\n${legacyFortune.aiAdvice || ''}`
+        }
+      };
+      // Overwrite with compatible format for contact-details
+      localStorage.setItem('fortuneData', JSON.stringify(compatibilityFortune));
+
       setLegacyFortuneData(legacyFortune);
       setCurrentStage('legacyFortuneReveal');
 
