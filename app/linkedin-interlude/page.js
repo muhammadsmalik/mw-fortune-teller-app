@@ -82,68 +82,15 @@ export default function LinkedInInterludeScreen() {
     detectRetina: true,
   }), []);
 
-  // Function to check for fortune data and proceed
-  const checkForFortuneAndProceed = useCallback(() => {
-    // Ensure this isn't called if we are already trying to navigate or in a terminal error state for this screen
-    // if (router.pathname !== '/linkedin-interlude') return; // May not be needed with proper state management
+  // V2 HYBRID: Simplified - just proceed to fortune-journey-v2 after showing profile
+  // No more background fortune generation checking
+  const proceedToJourney = useCallback(() => {
+    console.log('[LinkedInInterlude] Proceeding to fortune-journey-v2.');
+    router.push('/fortune-journey-v2');
+  }, [router]);
 
-    const storedFortuneDataString = localStorage.getItem('fortuneData');
-    const storedFortuneError = localStorage.getItem('fortuneGenerationError');
-
-    if (storedFortuneError) {
-      console.error("[LinkedInInterlude] Error from background fortune generation picked up:", storedFortuneError);
-      setApiError(`A cosmic disturbance during fortune generation: ${storedFortuneError}. Redirecting...`);
-      setIsGeneratingFortune(false); // Turn off loading indicator
-      localStorage.removeItem('fortuneGenerationError'); // Clear the error flag
-      localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY); // Clear pending request
-      // Potentially clear 'fortuneData' too if it was a partial write, though unlikely with current setup
-      // localStorage.removeItem('fortuneData'); 
-      setTimeout(() => router.push('/collect-info'), 5000);
-      return;
-    }
-
-    if (storedFortuneDataString) {
-      console.log('[LinkedInInterlude] Fortune data found in localStorage. Proceeding to scenario selection.');
-      // Data for 'fortuneApp_fullName', etc., should have been set by generating-fortune page's background fetch.
-      // We just ensure PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY is cleaned up.
-      // Note: PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY might still be needed by scenario-selection 
-      // if it needs to determine the flow or pass user context later. Let's keep it for now.
-      // localStorage.removeItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY); 
-      
-      // Clear any potential stale error from this page if data is now fine.
-      setApiError(null);
-      setIsGeneratingFortune(false); // Turn off loading indicator
-      router.push('/fortune-journey');
-    } else {
-      console.log('[LinkedInInterlude] Fortune data not yet found in localStorage. Will show loading/wait.');
-      setIsGeneratingFortune(true); // Show loading indicator: "Consulting the oracles..."
-      setApiError(null); // Clear previous API errors from this page
-      // The StorageEvent listener will handle picking up the data when it arrives.
-    }
-  }, [router]); // Added router to useCallback dependencies
-
-  // Effect for StorageEvent listener to react to background data changes
-  useEffect(() => {
-    const handleStorageChange = (event) => {
-      if (event.key === 'fortuneData' || event.key === 'fortuneGenerationError') {
-        console.log('[LinkedInInterlude] Storage event detected for:', event.key);
-        // Only proceed if we are in a state expecting this data (i.e., isGeneratingFortune is true or no apiError blocking)
-        // or if monologue has finished (greetingHeardOnce can be a proxy, or a new state like isMonologueFinished)
-        // For now, let's assume if isGeneratingFortune is true, we are waiting.
-        // Also, ensure transition audio is not playing (if that logic is re-added).
-        if ((isGeneratingFortune || greetingHeardOnce)) { 
-          checkForFortuneAndProceed();
-        }
-      }
-    };
-
-    window.addEventListener('storage', handleStorageChange);
-    return () => {
-      window.removeEventListener('storage', handleStorageChange);
-    };
-    // isGeneratingFortune and greetingHeardOnce are included to re-evaluate if listener logic should change based on these states.
-    // checkForFortuneAndProceed is memoized with useCallback.
-  }, [isGeneratingFortune, greetingHeardOnce, checkForFortuneAndProceed]);
+  // V2 HYBRID: No longer need StorageEvent listener since we're not waiting for background fortune
+  // Removed the fortune data checking logic
 
   // Function to initialize AudioContext safely on client
   const getAudioContext = () => {
@@ -248,7 +195,7 @@ export default function LinkedInInterludeScreen() {
                     howlInstanceRef.current.unload(); // Important to free memory
                     howlInstanceRef.current = null;
                 }
-                checkForFortuneAndProceed();
+                proceedToJourney();
             }
         },
         onend: () => {
@@ -304,7 +251,7 @@ export default function LinkedInInterludeScreen() {
         howlInstanceRef.current = null;
       }
     };
-  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]); // Removed isNarrating, added narrationError, apiError
+  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, proceedToJourney]); // V2: Updated to use proceedToJourney
 
   // This useEffect loads the profile information to display and for narration text
   useEffect(() => {
@@ -461,8 +408,8 @@ export default function LinkedInInterludeScreen() {
         isSkippingNarrationRef.current = true;
         howlInstanceRef.current.stop(); // This will trigger onstop to proceed to the next screen.
     } else {
-      console.log('[TTS Frontend Howler] No active Howler audio or audio finished, directly checking for fortune.');
-      checkForFortuneAndProceed();
+      console.log('[TTS Frontend Howler] No active Howler audio or audio finished, proceeding to journey.');
+      proceedToJourney();
     }
   };
 

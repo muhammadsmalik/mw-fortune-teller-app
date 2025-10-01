@@ -114,7 +114,7 @@ export default function CollectInfoScreen() {
       localStorage.removeItem('fortuneApp_geographicFocus');
       localStorage.removeItem('fortuneApp_businessObjective');
 
-      router.push('/generating-fortune');
+      router.push('/linkedin-interlude');
     } catch (error) {
       console.error("Error during LinkedIn flow initiation:", error);
       setQrError('A mystical mishap occurred! Please try again, or use the button below.');
@@ -271,7 +271,7 @@ export default function CollectInfoScreen() {
       localStorage.removeItem('fortuneApp_businessObjective');
       localStorage.removeItem('fortuneData');
 
-      router.push('/fortune-journey');
+      router.push('/fortune-journey-v2');
     }
   };
 
