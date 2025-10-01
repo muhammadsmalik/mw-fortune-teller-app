@@ -16,7 +16,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // LLM Configuration
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL_NAME = process.env.GEMINI_MODEL_NAME || "gemini-2.5-flash-preview-04-17";
+const GEMINI_MODEL_NAME = process.env.GEMINI_MODEL_NAME || "gemini-flash-latest";
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const OPENAI_MODEL_NAME = process.env.OPENAI_MODEL_NAME || "gpt-4o-2024-08-06";
 const LLM_PROVIDER = process.env.LLM_PROVIDER || "GEMINI";
