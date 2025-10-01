@@ -82,6 +82,63 @@ export default function LinkedInInterludeScreen() {
     detectRetina: true,
   }), []);
 
+  // V2 HYBRID: Fetch LinkedIn data on mount (moved from generating-fortune)
+  useEffect(() => {
+    const fetchLinkedInData = async () => {
+      const userLinkedInProfile = localStorage.getItem('userLinkedInProfile');
+      if (!userLinkedInProfile) {
+        console.error('[LinkedInInterlude] No LinkedIn profile URL found.');
+        setApiError('LinkedIn profile not found. Please start over.');
+        return;
+      }
+
+      // Check if we already have the data
+      const storedLinkedInData = localStorage.getItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY);
+      const storedFortuneRequestBody = localStorage.getItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY);
+
+      if (storedLinkedInData && storedFortuneRequestBody) {
+        console.log('[LinkedInInterlude] Using existing LinkedIn data from localStorage.');
+        return; // Data already fetched
+      }
+
+      try {
+        console.log('[LinkedInInterlude] Fetching LinkedIn data...');
+        const response = await fetch('/api/get-linkedin-company-details', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ linkedinUrl: userLinkedInProfile }),
+        });
+
+        const result = await response.json();
+        if (!response.ok) {
+          throw new Error(result.error || `LinkedIn API request failed (${response.status})`);
+        }
+
+        const linkedInData = result;
+        localStorage.setItem(FETCHED_LINKEDIN_DATA_LOCAL_STORAGE_KEY, JSON.stringify(linkedInData));
+
+        // Build fortune request body
+        const { profileData, latestCompanyData } = linkedInData;
+        const fortuneRequestBody = {
+          fullName: profileData.full_name || 'Mystic Seeker',
+          industryType: latestCompanyData?.industry || profileData.occupation || 'Diverse Ventures',
+          companyName: latestCompanyData?.name || 'Their Own Enterprise',
+          geographicFocus: `${profileData.city || 'Global Reach'}, ${profileData.country_full_name || 'Cosmic Planes'}`,
+          businessObjective: '',
+        };
+
+        localStorage.setItem(PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY, JSON.stringify(fortuneRequestBody));
+        console.log('[LinkedInInterlude] LinkedIn data fetched and stored successfully.');
+
+      } catch (error) {
+        console.error('[LinkedInInterlude] Error fetching LinkedIn data:', error);
+        setApiError(`Failed to fetch LinkedIn data: ${error.message}`);
+      }
+    };
+
+    fetchLinkedInData();
+  }, []);
+
   // V2 HYBRID: Simplified - just proceed to fortune-journey-v2 after showing profile
   // No more background fortune generation checking
   const proceedToJourney = useCallback(() => {
