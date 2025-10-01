@@ -1,3 +1,43 @@
+/**
+ * ⚠️ DEPRECATED - V1
+ *
+ * This component has been deprecated as part of the hybrid architecture migration.
+ *
+ * REASON FOR DEPRECATION:
+ * - Displays v1 fortune format: { openingStatement, insight1: {challenge, insight}, insight2: {challenge, insight} }
+ * - Used by /fortune-journey (v1) with /api/generate-initial-fortune endpoint
+ * - Replaced by DisplayLegacyFortune component which displays 6-field format
+ *
+ * V1 FORMAT (This Component):
+ * {
+ *   openingStatement: string (max 100 chars),
+ *   insight1: { challenge: string, insight: string (bullet points) },
+ *   insight2: { challenge: string, insight: string (bullet points) }
+ * }
+ *
+ * V2 FORMAT (New Component):
+ * {
+ *   openingLine: string,
+ *   locationInsight: string (📍),
+ *   audienceOpportunity: string (👀),
+ *   engagementForecast: string (💥),
+ *   transactionsPrediction: string (💸),
+ *   aiAdvice: string (🔮)
+ * }
+ *
+ * FEATURES TO PRESERVE:
+ * - Audio narration system (TTS + CEO audio)
+ * - CEO transition animation with smoke effect
+ * - Particle effects background
+ * - Responsive layout
+ *
+ * MIGRATION DATE: 2025-10-01
+ * KEPT FOR: Reference during DisplayLegacyFortune development
+ * REMOVAL: After Phase 7 of migration
+ *
+ * SEE: .cursor/DOCUMENTATION/HYBRID_ARCHITECTURE.md
+ */
+
 'use client';
 
 import { useEffect, useState, useMemo, useCallback, useRef } from 'react';

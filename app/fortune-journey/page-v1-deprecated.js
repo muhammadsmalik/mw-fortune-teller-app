@@ -1,3 +1,33 @@
+/**
+ * ⚠️ DEPRECATED - V1
+ *
+ * This file has been deprecated as part of the hybrid architecture migration.
+ *
+ * REASON FOR DEPRECATION:
+ * - Original 4-stage journey using /api/generate-initial-fortune
+ * - Generated openingStatement + 2 challenge-insight pairs format
+ * - Replaced by /fortune-journey-v2 using enhanced /api/generate-fortune with 6-field legacy format
+ *
+ * ORIGINAL STAGES:
+ * 1. highLevelSelection (persona + 2 challenges)
+ * 2. initialFortuneReveal (openingStatement + insights)
+ * 3. tacticalSelection (2 tactical challenges)
+ * 4. finalBlueprint
+ *
+ * NEW V2 STAGES:
+ * 1. highLevelSelection (persona + 2 challenges)
+ * 2. generatingLegacyFortune (loading)
+ * 3. legacyFortuneReveal (6 fields: openingLine, locationInsight, etc.)
+ * 4. tacticalSelection
+ * 5. finalBlueprint
+ *
+ * MIGRATION DATE: 2025-10-01
+ * KEPT FOR: Reference during transition
+ * REMOVAL: After Phase 7 of migration
+ *
+ * SEE: .cursor/DOCUMENTATION/HYBRID_ARCHITECTURE.md
+ */
+
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -36,7 +66,7 @@ export default function FortuneJourneyPage() {
       try {
         await Promise.all([
           import('@/components/fortune-journey/ScenarioSelection').then(mod => ScenarioSelectionComponent = mod.default),
-          import('@/components/fortune-journey/DisplayFortune').then(mod => DisplayFortuneComponent = mod.default),
+          import('@/components/fortune-journey/DisplayFortune-v1-deprecated').then(mod => DisplayFortuneComponent = mod.default),
           import('@/components/fortune-journey/TacticalCardSelection').then(mod => TacticalCardSelectionComponent = mod.default),
           import('@/components/fortune-journey/BlueprintDisplay').then(mod => BlueprintDisplayComponent = mod.default),
         ]);

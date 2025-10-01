@@ -1,3 +1,32 @@
+/**
+ * ⚠️ DEPRECATED - V1
+ *
+ * This file has been deprecated as part of the hybrid architecture migration.
+ *
+ * REASON FOR DEPRECATION:
+ * - Originally processed LinkedIn data and initiated background fortune generation
+ * - Called /api/generate-fortune in background while showing loading screen
+ * - Then immediately redirected to /linkedin-interlude
+ * - Created wasteful double fortune generation (background one was ignored)
+ *
+ * ORIGINAL FLOW (LinkedIn only):
+ * 1. /collect-info (QR scan) → /generating-fortune
+ * 2. /generating-fortune (fetch LinkedIn data, start bg fortune) → /linkedin-interlude
+ * 3. /linkedin-interlude (wait for bg fortune) → /fortune-journey
+ * 4. /fortune-journey (generate NEW fortune via /api/generate-initial-fortune) ← WASTE!
+ *
+ * NEW HYBRID FLOW:
+ * 1. /collect-info (QR scan) → /linkedin-interlude
+ * 2. /linkedin-interlude (fetch LinkedIn data, show profile) → /fortune-journey-v2
+ * 3. /fortune-journey-v2 (generate ONE fortune via enhanced /api/generate-fortune)
+ *
+ * MIGRATION DATE: 2025-10-01
+ * KEPT FOR: Reference during transition
+ * REMOVAL: After Phase 7 of migration
+ *
+ * SEE: .cursor/DOCUMENTATION/HYBRID_ARCHITECTURE.md
+ */
+
 'use client';
 
 import { useEffect, useState, useMemo, useCallback } from 'react';

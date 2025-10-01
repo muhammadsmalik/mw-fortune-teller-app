@@ -1,3 +1,32 @@
+/**
+ * ⚠️ LEGACY - V1 (Keep for Reference)
+ *
+ * This file is kept as a legacy reference for the original standalone fortune display screen.
+ *
+ * ORIGINAL PURPOSE:
+ * - Display 6-field legacy fortune format (openingLine, locationInsight, audienceOpportunity, etc.)
+ * - Used with /api/generate-fortune endpoint
+ * - Featured CEO transition sequence with pre-recorded audio
+ * - Was originally the target screen after /generating-fortune
+ *
+ * CURRENT STATUS:
+ * - Orphaned (not in current main flow)
+ * - LinkedIn flow goes: generating-fortune → linkedin-interlude → fortune-journey (v1)
+ * - Manual flow goes directly to: fortune-journey (v1)
+ * - This screen was bypassed in favor of multi-stage journey
+ *
+ * HYBRID MIGRATION:
+ * - Logic will be adapted into DisplayLegacyFortune component
+ * - CEO transition logic may be reused
+ * - Audio narration system serves as reference
+ *
+ * MIGRATION DATE: 2025-10-01
+ * KEPT FOR: Reference and potential code reuse (CEO transition, narration)
+ * REMOVAL: After Phase 7 when all features extracted
+ *
+ * SEE: .cursor/DOCUMENTATION/HYBRID_ARCHITECTURE.md
+ */
+
 'use client';
 
 import { useEffect, useState, useMemo, useCallback, useRef } from 'react';

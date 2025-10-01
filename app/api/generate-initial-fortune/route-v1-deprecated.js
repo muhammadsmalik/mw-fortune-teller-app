@@ -1,3 +1,20 @@
+/**
+ * ⚠️ DEPRECATED - V1
+ *
+ * This file has been deprecated as part of the hybrid architecture migration.
+ *
+ * REASON FOR DEPRECATION:
+ * - Functionality merged into enhanced /api/generate-fortune endpoint
+ * - This endpoint generated persona-based fortunes with openingStatement + 2 insights format
+ * - New hybrid system uses /api/generate-fortune with persona-awareness for 6-field legacy format
+ *
+ * MIGRATION DATE: 2025-10-01
+ * KEPT FOR: Reference during transition period
+ * REMOVAL: After Phase 7 of migration (when v2 system is stable)
+ *
+ * SEE: .cursor/DOCUMENTATION/HYBRID_ARCHITECTURE.md for full migration details
+ */
+
 import { z } from 'zod';
 import OpenAI from 'openai';
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
