@@ -1,56 +1,32 @@
 {
   "media_owner": {
-    "high": [
-      { "id": "pub_h1", "text": "Will AI automatically target ads based on what people do online?" },
-      { "id": "pub_h2", "text": "Will AI predict which brands want to buy ads before they ask?" },
-      { "id": "pub_h3", "text": "Will brands book billboards by talking to AI assistants?" },
-      { "id": "pub_h4", "text": "Will smart contracts automatically split ad revenue?" },
-      { "id": "pub_h5", "text": "What happens to sales teams when AI does most of their work?" },
-      { "id": "pub_h6", "text": "Will publishers guarantee sales results instead of just ad views?" }
-    ],
-    "tactical": [
-      { "id": "pub_t1", "text": "How do you prove billboards actually drive sales?" },
-      { "id": "pub_t2", "text": "How do you get digital brands interested in billboards?" },
-      { "id": "pub_t3", "text": "How do you make buying billboards as easy as buying Google ads?" },
-      { "id": "pub_t4", "text": "What simple tools can automate your sales follow-ups?" },
-      { "id": "pub_t5", "text": "How do you teach sales teams to sell marketing strategies, not just ad space?" },
-      { "id": "pub_t6", "text": "How do you get brands to try billboards without big commitments?" }
+    "questions": [
+      { "id": "pub_t1", "text": "How can I sell my inventory faster or directly?" },
+      { "id": "pub_t2", "text": "How can I get SMEs and brands to notice my screens?" },
+      { "id": "pub_t3", "text": "What's the best way to automate campaign scheduling?" },
+      { "id": "pub_t4", "text": "How can I benchmark my screen performance against others?" },
+      { "id": "pub_t5", "text": "How do I prepare for programmatic OOH?" },
+      { "id": "pub_t6", "text": "How can AI help me predict demand or pricing?" }
     ]
   },
   "brand_owner": {
-    "high": [
-      { "id": "adv_h1", "text": "Will AI automatically create personalized customer journeys from billboards to mobile to TV?" },
-      { "id": "adv_h2", "text": "Will smart glasses show product demos when people look at billboards?" },
-      { "id": "adv_h3", "text": "Will eco-friendly billboards become required for brand trust?" },
-      { "id": "adv_h4", "text": "Will virtual billboards in the metaverse sync with real-world ads?" },
-      { "id": "adv_h5", "text": "Will blockchain track exactly how billboards drive sales?" },
-      { "id": "adv_h6", "text": "Will billboard prices change automatically based on demand and audience?" }
-    ],
-    "tactical": [
-      { "id": "adv_t1", "text": "How do you prove billboards actually increase sales?" },
-      { "id": "adv_t2", "text": "How much of your digital budget should go to billboards?" },
-      { "id": "adv_t3", "text": "Should you buy specific billboard locations or target specific audiences?" },
-      { "id": "adv_t4", "text": "How do you make billboard ads more memorable with QR codes and animations?" },
-      { "id": "adv_t5", "text": "How do you use billboards to boost your other digital ads without wasting money?" },
-      { "id": "adv_t6", "text": "How do you use your customer data to target billboard audiences better?" }
+    "questions": [
+      { "id": "adv_t1", "text": "How can I make my campaigns more visible beyond digital ads?" },
+      { "id": "adv_t2", "text": "What's the smartest way to plan OOH with a limited budget?" },
+      { "id": "adv_t3", "text": "How can I measure the impact of my offline ads like online ones?" },
+      { "id": "adv_t4", "text": "Which cities or moments should I advertise in next quarter?" },
+      { "id": "adv_t5", "text": "How can I blend influencer or social campaigns with outdoor?" },
+      { "id": "adv_t6", "text": "How can automation help me scale faster across markets?" }
     ]
   },
   "media_agency": {
-    "high": [
-      { "id": "plat_h1", "text": "Will AI handle most campaign planning, optimization, and reporting automatically?" },
-      { "id": "plat_h2", "text": "Will agencies sell complete customer journeys instead of just billboard ads?" },
-      { "id": "plat_h3", "text": "Will eco-friendly campaigns become required for all client work?" },
-      { "id": "plat_h4", "text": "Will brands book billboards by talking to AI assistants in everyday apps?" },
-      { "id": "plat_h5", "text": "Will blockchain become the standard way to track and verify campaign results?" },
-      { "id": "plat_h6", "text": "What skills will teams need to work alongside AI tools?" }
-    ],
-    "tactical": [
-      { "id": "plat_t1", "text": "How do you prove billboards boost your other digital campaigns?" },
-      { "id": "plat_t2", "text": "How do you convince clients to shift more digital budget to billboards?" },
-      { "id": "plat_t3", "text": "Should you buy premium billboard locations or use AI to target audiences?" },
-      { "id": "plat_t4", "text": "How do you create personalized billboard content without breaking budgets?" },
-      { "id": "plat_t5", "text": "How do you connect billboard campaigns with retail sales tracking?" },
-      { "id": "plat_t6", "text": "How do you combine billboard metrics with digital campaign data?" }
+    "questions": [
+      { "id": "plat_t1", "text": "Which screens deliver the best ROI for my clients?" },
+      { "id": "plat_t2", "text": "How can I manage multiple campaigns across channels easily?" },
+      { "id": "plat_t3", "text": "How can I optimize in-flight performance for OOH?" },
+      { "id": "plat_t4", "text": "Where can I access premium inventory instantly?" },
+      { "id": "plat_t5", "text": "How can I prove OOH effectiveness with data?" },
+      { "id": "plat_t6", "text": "What's the next big AI shift in campaign planning?" }
     ]
   }
 } 

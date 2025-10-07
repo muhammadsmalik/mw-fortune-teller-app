@@ -28,10 +28,9 @@ const personaDisplayNames = {
   media_agency: 'Media Agency',
 };
 
-export default function ScenarioSelection({ 
+export default function ScenarioSelection({
   onScenariosConfirmed,
   onBack,
-  questionType = 'high',
   persona = null,
   title = "Chart Your Course",
   subtitle = `Choose exactly ${MAX_SELECTIONS} questions that resonate most.`,
@@ -336,7 +335,7 @@ export default function ScenarioSelection({
                   )}
                   <div className="bg-mw-dark-blue/40 border border-mw-light-blue/30 rounded-lg p-4">
                     <div className="space-y-3">
-                      {(personaQuestions[currentPersona]?.[questionType] || []).map((scenario) => {
+                      {(personaQuestions[currentPersona]?.questions || []).map((scenario) => {
                         const isSelected = selectedScenarioIds.includes(scenario.id);
                         return (
                           <div

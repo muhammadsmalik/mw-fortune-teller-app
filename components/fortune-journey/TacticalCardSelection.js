@@ -37,10 +37,10 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
     const [error, setError] = useState(null);
     const [isReady, setIsReady] = useState(false);
     
-    // Use tactical questions based on the persona
+    // Use questions based on the persona
     const questions = useMemo(() => {
         if (!persona || !personaQuestions[persona]) return [];
-        return personaQuestions[persona].tactical || [];
+        return personaQuestions[persona].questions || [];
     }, [persona]);
 
     const personaPathConfig = {

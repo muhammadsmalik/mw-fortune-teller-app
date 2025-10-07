@@ -12,10 +12,9 @@ let ScenarioSelectionComponent, DisplayFortuneComponent, TacticalCardSelectionCo
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
 export default function FortuneJourneyPage() {
-  const [currentStage, setCurrentStage] = useState('highLevelSelection'); // highLevelSelection, initialFortuneReveal, tacticalSelection, finalBlueprint
+  const [currentStage, setCurrentStage] = useState('questionSelection'); // questionSelection, initialFortuneReveal, finalBlueprint
   const [selectedPersona, setSelectedPersona] = useState(null);
-  const [highLevelChoices, setHighLevelChoices] = useState([]);
-  const [tacticalChoices, setTacticalChoices] = useState([]);
+  const [selectedQuestions, setSelectedQuestions] = useState([]); // Combined - no more high/tactical split
   
   const [journeyFortuneData, setJourneyFortuneData] = useState(null);
   const [userInfo, setUserInfo] = useState(null);
@@ -68,15 +67,15 @@ export default function FortuneJourneyPage() {
     loadAssets();
   }, []);
 
-  const handleHighLevelConfirmed = async ({ scenarios, persona }) => {
-    console.log('[FortuneJourneyPage] High-level choices confirmed:', { scenarios, persona });
+  const handleQuestionConfirmed = async ({ scenarios, persona }) => {
+    console.log('[FortuneJourneyPage] Questions confirmed:', { scenarios, persona });
     if (!contextLoaded) {
       console.error("[FortuneJourneyPage] Cannot proceed: Persona context not loaded yet.");
       // Optionally, set an error state to inform the user
       return;
     }
 
-    setHighLevelChoices(scenarios);
+    setSelectedQuestions(scenarios);
     setSelectedPersona(persona);
     setCurrentStage('initialFortuneReveal');
     setIsAudioUnlocked(true);
@@ -129,9 +128,9 @@ export default function FortuneJourneyPage() {
 
       console.log('[FortuneJourneyPage] Using actual user data:', currentUserInfo);
 
-      const allHighLevelQuestionsForPersona = personaQuestions[persona].high;
-      const selectedQuestionObjects = allHighLevelQuestionsForPersona.filter(q => scenarios.includes(q.id));
-      const unselectedQuestionObjects = allHighLevelQuestionsForPersona.filter(q => !scenarios.includes(q.id));
+      const allQuestionsForPersona = personaQuestions[persona].questions;
+      const selectedQuestionObjects = allQuestionsForPersona.filter(q => scenarios.includes(q.id));
+      const unselectedQuestionObjects = allQuestionsForPersona.filter(q => !scenarios.includes(q.id));
 
       const payload = {
         fullName: actualFullName,
@@ -176,16 +175,17 @@ export default function FortuneJourneyPage() {
     }
   };
 
-  const handleProceedToTactical = () => {
-    console.log('[FortuneJourneyPage] Proceeding to tactical selection stage.');
-    setCurrentStage('tacticalSelection');
+  const handleProceedToBlueprint = () => {
+    console.log('[FortuneJourneyPage] Proceeding to final blueprint.');
+    localStorage.setItem('selectedScenarioIDs', JSON.stringify(selectedQuestions));
+    setCurrentStage('finalBlueprint');
   };
 
+  // Keeping this for backward compatibility with TacticalCardSelection component (will remove in Phase 3)
   const handleTacticalConfirmed = ({ scenarios }) => {
-    console.log('[FortuneJourneyPage] Tactical choices confirmed:', { scenarios });
-    setTacticalChoices(scenarios);
-    const allSelectedIds = [...highLevelChoices, ...scenarios];
-    localStorage.setItem('selectedScenarioIDs', JSON.stringify(allSelectedIds));
+    console.log('[FortuneJourneyPage] Tactical choices confirmed (legacy):', { scenarios });
+    setSelectedQuestions(scenarios);
+    localStorage.setItem('selectedScenarioIDs', JSON.stringify(scenarios));
     console.log('[FortuneJourneyPage] All choices saved. Proceeding to final blueprint.');
     setCurrentStage('finalBlueprint');
   };
@@ -200,10 +200,9 @@ export default function FortuneJourneyPage() {
   };
 
   const handleGoBack = () => {
-    if (currentStage === 'finalBlueprint') setCurrentStage('tacticalSelection');
-    else if (currentStage === 'tacticalSelection') setCurrentStage('initialFortuneReveal');
-    else if (currentStage === 'initialFortuneReveal') setCurrentStage('highLevelSelection');
-    else if (currentStage === 'highLevelSelection') router.push('/collect-info');
+    if (currentStage === 'finalBlueprint') setCurrentStage('initialFortuneReveal');
+    else if (currentStage === 'initialFortuneReveal') setCurrentStage('questionSelection');
+    else if (currentStage === 'questionSelection') router.push('/collect-info');
   };
   
   // This useEffect will redirect if user lands here without completing previous steps.
@@ -221,34 +220,24 @@ export default function FortuneJourneyPage() {
     }
 
   switch (currentStage) {
-    case 'highLevelSelection':
+    case 'questionSelection':
       return (
         <ScenarioSelectionComponent
-          onScenariosConfirmed={handleHighLevelConfirmed}
+          onScenariosConfirmed={handleQuestionConfirmed}
           onBack={handleGoBack}
-          questionType="high"
-          title="What Challenges Cloud Your Future?"
-          subtitle="Choose the two that concern you most to reveal a glimpse of what's to come."
-          ctaLabel="Predict My Fortune"
+          title="What Challenges Guide Your Path?"
+          subtitle="Choose the two that matter most to reveal your strategic fortune."
+          ctaLabel="Reveal My Fortune"
         />
       );
-    
+
     case 'initialFortuneReveal':
     return (
       <DisplayFortuneComponent
           fortuneData={journeyFortuneData}
           onGoBack={handleGoBack}
-          onProceedToNextStep={handleProceedToTactical}
+          onProceedToNextStep={handleProceedToBlueprint}
           audioPlaybackAllowed={isAudioUnlocked}
-        />
-      );
-
-    case 'tacticalSelection':
-      return (
-        <TacticalCardSelectionComponent
-          persona={selectedPersona}
-          onConfirm={handleTacticalConfirmed}
-          onBack={handleGoBack}
         />
       );
 
@@ -256,8 +245,8 @@ export default function FortuneJourneyPage() {
       return (
         <BlueprintDisplayComponent
           userInfo={userInfo}
-          highLevelChoices={highLevelChoices}
-          tacticalChoices={tacticalChoices}
+          highLevelChoices={selectedQuestions}
+          tacticalChoices={selectedQuestions}
           persona={selectedPersona}
           onComplete={handleCompleteJourney}
           onBack={handleGoBack}
