@@ -1,7 +1,7 @@
 import OpenAI from 'openai'; // Added for OpenAI integration
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
 
-const GEMINI_MODEL_NAME = process.env.GEMINI_MODEL_NAME || "gemini-2.5-flash-preview-04-17";
+const GEMINI_MODEL_NAME = process.env.GEMINI_MODEL_NAME || "gemini-flash-latest";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 // OpenAI Configuration
@@ -22,23 +22,23 @@ const fortuneSchema = {
     },
     locationInsight: {
       type: "STRING",
-      description: "A highly specific and insightful statement about the user's business location or operational context, relevant to a unique OOH advertising potential tied to their industry. Start with the 📍 emoji."
+      description: "A highly specific and insightful statement about the user's business location or operational context, relevant to a unique OOH advertising potential tied to their industry. DO NOT include emojis."
     },
     audienceOpportunity: {
       type: "STRING",
-      description: "A vivid projection of a specific audience segment they can reach or unique market opportunities available through OOH, going beyond generic terms. Start with the 👀 emoji."
+      description: "A vivid projection of a specific audience segment they can reach or unique market opportunities available through OOH, going beyond generic terms. DO NOT include emojis."
     },
     engagementForecast: {
       type: "STRING",
-      description: "A prediction of how their engagement could improve in a specific, tangible way, ideally tying into innovative OOH strategies relevant to their industry. Start with the 💥 emoji."
+      description: "A prediction of how their engagement could improve in a specific, tangible way, ideally tying into innovative OOH strategies relevant to their industry. DO NOT include emojis."
     },
     transactionsPrediction: {
       type: "STRING",
-      description: "A forecast related to specific business growth, sales, or conversions, hinting at how OOH could uniquely contribute to their company. Start with the 💸 emoji."
+      description: "A forecast related to specific business growth, sales, or conversions, hinting at how OOH could uniquely contribute to their company. DO NOT include emojis."
     },
     aiAdvice: {
       type: "STRING",
-      description: "Actionable, creative, and non-obvious advice, presented as if from an AI oracle for their specific situation. Start with the 🔮 emoji. This advice should subtly highlight how Moving Walls' expertise or solutions can help them achieve their unique predicted outcomes. End with a call to action to connect with Moving Walls."
+      description: "Actionable, creative, and non-obvious advice, presented as if from an AI oracle for their specific situation. DO NOT include emojis. This advice should subtly highlight how Moving Walls' expertise or solutions can help them achieve their unique predicted outcomes. End with a call to action to connect with Moving Walls."
     }
   },
   required: [
@@ -72,23 +72,23 @@ const openAIFortuneSchema = {
       },
       locationInsight: {
         type: "string",
-        description: "A highly specific and insightful statement about the user's business location or operational context, relevant to a unique OOH advertising potential tied to their industry. Start with the 📍 emoji."
+        description: "A highly specific and insightful statement about the user's business location or operational context, relevant to a unique OOH advertising potential tied to their industry. DO NOT include emojis."
       },
       audienceOpportunity: {
         type: "string",
-        description: "A vivid projection of a specific audience segment they can reach or unique market opportunities available through OOH, going beyond generic terms. Start with the 👀 emoji."
+        description: "A vivid projection of a specific audience segment they can reach or unique market opportunities available through OOH, going beyond generic terms. DO NOT include emojis."
       },
       engagementForecast: {
         type: "string",
-        description: "A prediction of how their engagement could improve in a specific, tangible way, ideally tying into innovative OOH strategies relevant to their industry. Start with the 💥 emoji."
+        description: "A prediction of how their engagement could improve in a specific, tangible way, ideally tying into innovative OOH strategies relevant to their industry. DO NOT include emojis."
       },
       transactionsPrediction: {
         type: "string",
-        description: "A forecast related to specific business growth, sales, or conversions, hinting at how OOH could uniquely contribute to their company. Start with the 💸 emoji."
+        description: "A forecast related to specific business growth, sales, or conversions, hinting at how OOH could uniquely contribute to their company. DO NOT include emojis."
       },
       aiAdvice: {
         type: "string",
-        description: "Actionable, creative, and non-obvious advice, presented as if from an AI oracle for their specific situation. Start with the 🔮 emoji. This advice should subtly highlight how Moving Walls' expertise or solutions can help them achieve their unique predicted outcomes. End with a call to action to connect with Moving Walls."
+        description: "Actionable, creative, and non-obvious advice, presented as if from an AI oracle for their specific situation. DO NOT include emojis. This advice should subtly highlight how Moving Walls' expertise or solutions can help them achieve their unique predicted outcomes. End with a call to action to connect with Moving Walls."
       }
     },
     required: [
@@ -255,7 +255,7 @@ ${businessObjective ? `Ensure the 'engagementForecast', 'transactionsPrediction'
 
 The entire fortune must be extremely concise. When the text from all fields is read sequentially, it should ideally form a cohesive message of about 4-5 short lines. Prioritize impactful brevity and high originality for each individual field. Strive to weave in a subtle, creative, and non-obvious reference to their specific '${industryType}' if it feels natural within the mystical tone.
 
-Ensure each insight section (locationInsight, audienceOpportunity, engagementForecast, transactionsPrediction, aiAdvice) begins its text with the specific emoji mentioned in its schema description.
+DO NOT include emojis in any of the insight fields - emojis will be added by the frontend display.
 
 Company Context (Moving Walls - the provider of this fortune):
 Moving Walls is a global advertising technology leader spearheading the digital transformation of Out-of-Home (OOH) media. We empower media owners and advertisers to thrive in this evolving landscape by:
