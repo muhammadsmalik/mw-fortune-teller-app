@@ -199,9 +199,9 @@ export async function POST(req) {
       selectedPersona,
       selectedQuestions,
       unselectedQuestions,
-      advertiserContext,
-      publisherContext,
-      platformContext,
+      brandOwnerContext,
+      mediaOwnerContext,
+      mediaAgencyContext,
       linkedinData,
       companyDetails,
       debugProvider
@@ -229,9 +229,9 @@ export async function POST(req) {
 
     const capitalizedPersona = selectedPersona.charAt(0).toUpperCase() + selectedPersona.slice(1);
     const personaContext = {
-      Advertiser: advertiserContext,
-      Publisher: publisherContext,
-      'Platform & Service Provider': platformContext,
+      Brand_owner: brandOwnerContext,
+      Media_owner: mediaOwnerContext,
+      Media_agency: mediaAgencyContext,
     };
     const isGenericLocation = geographicFocus === 'Your Region';
 

@@ -24,9 +24,9 @@ export default function FortuneJourneyPage() {
   const [contextLoaded, setContextLoaded] = useState(false);
 
   // State for persona context files
-  const [advertiserContext, setAdvertiserContext] = useState('');
-  const [publisherContext, setPublisherContext] = useState('');
-  const [platformContext, setPlatformContext] = useState('');
+  const [brandOwnerContext, setBrandOwnerContext] = useState('');
+  const [mediaOwnerContext, setMediaOwnerContext] = useState('');
+  const [mediaAgencyContext, setMediaAgencyContext] = useState('');
 
   const router = useRouter();
 
@@ -43,19 +43,19 @@ export default function FortuneJourneyPage() {
         setComponentsLoaded(true);
         console.log('[FortuneJourneyPage] All journey components dynamically loaded.');
 
-        const [advRes, pubRes, platRes] = await Promise.all([
-          fetch('/personas/advertiser.md'),
-          fetch('/personas/publisher.md'),
-          fetch('/personas/platform_and_service_provider.md'),
+        const [brandOwnerRes, mediaOwnerRes, mediaAgencyRes] = await Promise.all([
+          fetch('/personas/brand_owner.md'),
+          fetch('/personas/media_owner.md'),
+          fetch('/personas/media_agency.md'),
         ]);
 
-        if (!advRes.ok || !pubRes.ok || !platRes.ok) {
+        if (!brandOwnerRes.ok || !mediaOwnerRes.ok || !mediaAgencyRes.ok) {
           throw new Error('Failed to fetch one or more persona context files.');
         }
 
-        setAdvertiserContext(await advRes.text());
-        setPublisherContext(await pubRes.text());
-        setPlatformContext(await platRes.text());
+        setBrandOwnerContext(await brandOwnerRes.text());
+        setMediaOwnerContext(await mediaOwnerRes.text());
+        setMediaAgencyContext(await mediaAgencyRes.text());
         
         setContextLoaded(true);
         console.log('[FortuneJourneyPage] All persona contexts loaded.');
@@ -141,9 +141,9 @@ export default function FortuneJourneyPage() {
         selectedPersona: persona,
         selectedQuestions: selectedQuestionObjects.map(q => q.text),
         unselectedQuestions: unselectedQuestionObjects.map(q => q.text),
-        advertiserContext,
-        publisherContext,
-        platformContext,
+        brandOwnerContext,
+        mediaOwnerContext,
+        mediaAgencyContext,
         // Include additional context if available
         linkedinData: fetchedLinkedInData,
       };

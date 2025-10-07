@@ -1,5 +1,5 @@
 {
-  "publisher": {
+  "media_owner": {
     "high": [
       { "id": "pub_h1", "text": "Will AI automatically target ads based on what people do online?" },
       { "id": "pub_h2", "text": "Will AI predict which brands want to buy ads before they ask?" },
@@ -17,7 +17,7 @@
       { "id": "pub_t6", "text": "How do you get brands to try billboards without big commitments?" }
     ]
   },
-  "advertiser": {
+  "brand_owner": {
     "high": [
       { "id": "adv_h1", "text": "Will AI automatically create personalized customer journeys from billboards to mobile to TV?" },
       { "id": "adv_h2", "text": "Will smart glasses show product demos when people look at billboards?" },
@@ -35,7 +35,7 @@
       { "id": "adv_t6", "text": "How do you use your customer data to target billboard audiences better?" }
     ]
   },
-  "platform": {
+  "media_agency": {
     "high": [
       { "id": "plat_h1", "text": "Will AI handle most campaign planning, optimization, and reporting automatically?" },
       { "id": "plat_h2", "text": "Will agencies sell complete customer journeys instead of just billboard ads?" },

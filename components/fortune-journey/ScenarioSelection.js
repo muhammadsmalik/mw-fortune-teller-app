@@ -20,12 +20,12 @@ const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3';
 const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3';
 const AVATAR_GREETING_AUDIO_PATH = '/audio/6-questions.mp3';
 
-const personaKeys = ['publisher', 'advertiser', 'platform'];
+const personaKeys = ['media_owner', 'brand_owner', 'media_agency'];
 
 const personaDisplayNames = {
-  publisher: 'Publisher',
-  advertiser: 'Advertiser',
-  platform: 'Platform / Service Provider',
+  media_owner: 'Media Owner',
+  brand_owner: 'Brand Owner',
+  media_agency: 'Media Agency',
 };
 
 export default function ScenarioSelection({ 
@@ -306,9 +306,9 @@ export default function ScenarioSelection({
                         className="p-6 rounded-lg border border-mw-light-blue/30 bg-mw-dark-blue/40 hover:bg-mw-light-blue/20 hover:border-mw-light-blue/70 cursor-pointer transition-all duration-300 transform hover:scale-105 flex flex-col items-center text-center"
                       >
                         <div className="mb-4">
-                          {personaKey === 'publisher' && <Building className="h-12 w-12 text-mw-gold" />}
-                          {personaKey === 'advertiser' && <Users className="h-12 w-12 text-mw-gold" />}
-                          {personaKey === 'platform' && <Combine className="h-12 w-12 text-mw-gold" />}
+                          {personaKey === 'media_owner' && <Building className="h-12 w-12 text-mw-gold" />}
+                          {personaKey === 'brand_owner' && <Users className="h-12 w-12 text-mw-gold" />}
+                          {personaKey === 'media_agency' && <Combine className="h-12 w-12 text-mw-gold" />}
                         </div>
                         <h3 className="text-xl font-bold text-mw-white">
                           {personaDisplayNames[personaKey]}

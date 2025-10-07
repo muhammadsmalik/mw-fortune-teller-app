@@ -44,9 +44,9 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
     }, [persona]);
 
     const personaPathConfig = {
-        advertiser: { prefix: 'adv', folder: 'advertiser' },
-        publisher: { prefix: 'pub', folder: 'publisher' },
-        platform: { prefix: 'plat', folder: 'platform' }
+        brand_owner: { prefix: 'adv', folder: 'brand_owner' },
+        media_owner: { prefix: 'pub', folder: 'media_owner' },
+        media_agency: { prefix: 'plat', folder: 'media_agency' }
     };
 
     useEffect(() => {
