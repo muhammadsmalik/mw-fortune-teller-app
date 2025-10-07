@@ -137,19 +137,13 @@ export default function FortuneJourneyPage() {
         companyName: actualCompanyName,
         industryType: actualIndustryType,
         geographicFocus: actualGeographicFocus,
-        selectedPersona: persona,
-        selectedQuestions: selectedQuestionObjects.map(q => q.text),
-        unselectedQuestions: unselectedQuestionObjects.map(q => q.text),
-        brandOwnerContext,
-        mediaOwnerContext,
-        mediaAgencyContext,
-        // Include additional context if available
-        linkedinData: fetchedLinkedInData,
+        businessObjective: '', // Optional: can derive from questions if needed
+        selectedQuestions: selectedQuestionObjects.map(q => q.text), // Pass for AI context
       };
-      
-      console.log('[FortuneJourneyPage] Sending payload to API:', JSON.stringify(payload, null, 2));
-      
-      const response = await fetch('/api/generate-initial-fortune', {
+
+      console.log('[FortuneJourneyPage] Sending payload to legacy fortune API:', JSON.stringify(payload, null, 2));
+
+      const response = await fetch('/api/generate-fortune', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),

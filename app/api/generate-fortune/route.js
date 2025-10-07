@@ -196,6 +196,7 @@ export async function POST(request) {
       companyName,
       geographicFocus,
       businessObjective,
+      selectedQuestions, // NEW: questions for context
       debugProvider // Extract debugProvider from request
     } = requestBody;
 
@@ -226,6 +227,11 @@ User Details:
 - Industry: ${industryType}
 ${geographicFocus ? `- Primary Geographic Focus: ${geographicFocus}` : ''}
 ${businessObjective ? `- Primary Business Objective: ${businessObjective.replace(/_/g, ' ')}` : ''}
+${selectedQuestions && selectedQuestions.length > 0 ? `
+- User's Current Challenges:
+  1. "${selectedQuestions[0]}"
+  2. "${selectedQuestions[1]}"
+` : ''}
 `;
 
     const coreInstructions = `
@@ -235,6 +241,13 @@ ${businessObjective ? `Their current main business objective is to '${businessOb
 
 Your primary goal is to make the user feel like this fortune is truly about THEM and THEIR specific business/industry context, not a generic template.
 ${businessObjective ? `The fortune should ideally align with or help them achieve their stated objective: '${businessObjective.replace(/_/g, ' ')}'.` : ''}
+${selectedQuestions && selectedQuestions.length > 0 ? `
+**IMPORTANT:** The user has expressed specific concerns about:
+1. "${selectedQuestions[0]}"
+2. "${selectedQuestions[1]}"
+
+While maintaining the mystical fortune format with emoji insights, subtly weave wisdom that addresses these challenges. Make them feel like the fortune speaks directly to their concerns. For example, if they ask about measurement, the engagementForecast and transactionsPrediction should hint at tracking and proving results. If they ask about targeting, the locationInsight and audienceOpportunity should address strategic placement.
+` : ''}
 
 The fortune should focus on potential success and opportunities, especially highlighting how Out-of-Home (OOH) advertising and related technologies can play a role in a way that feels fresh and specific to them.
 ${geographicFocus ? `Make the 'locationInsight' particularly relevant to their '${geographicFocus}' area if possible, offering a unique OOH angle for that specific locale.` : ''}
