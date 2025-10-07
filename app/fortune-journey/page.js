@@ -169,10 +169,9 @@ export default function FortuneJourneyPage() {
     }
   };
 
-  const handleProceedToBlueprint = () => {
-    console.log('[FortuneJourneyPage] Proceeding to final blueprint.');
-    localStorage.setItem('selectedScenarioIDs', JSON.stringify(selectedQuestions));
-    setCurrentStage('finalBlueprint');
+  const handleProceedToTarotSelection = () => {
+    console.log('[FortuneJourneyPage] Proceeding to tarot card selection.');
+    setCurrentStage('tarotCardSelection');
   };
 
   // Keeping this for backward compatibility with TacticalCardSelection component (will remove in Phase 3)
@@ -194,7 +193,8 @@ export default function FortuneJourneyPage() {
   };
 
   const handleGoBack = () => {
-    if (currentStage === 'finalBlueprint') setCurrentStage('initialFortuneReveal');
+    if (currentStage === 'finalBlueprint') setCurrentStage('tarotCardSelection');
+    else if (currentStage === 'tarotCardSelection') setCurrentStage('initialFortuneReveal');
     else if (currentStage === 'initialFortuneReveal') setCurrentStage('questionSelection');
     else if (currentStage === 'questionSelection') router.push('/collect-info');
   };
@@ -230,8 +230,18 @@ export default function FortuneJourneyPage() {
       <DisplayFortuneComponent
           fortuneData={journeyFortuneData}
           onGoBack={handleGoBack}
-          onProceedToNextStep={handleProceedToBlueprint}
+          onProceedToNextStep={handleProceedToTarotSelection}
           audioPlaybackAllowed={isAudioUnlocked}
+        />
+      );
+
+    case 'tarotCardSelection':
+      return (
+        <TacticalCardSelectionComponent
+          persona={selectedPersona}
+          selectedQuestionIds={selectedQuestions}
+          onConfirm={handleTacticalConfirmed}
+          onBack={handleGoBack}
         />
       );
 

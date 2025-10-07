@@ -4,50 +4,67 @@ import { useEffect, useState, useMemo } from 'react';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Loader2, ArrowLeft, ShieldCheck, PieChart, Map, Wand, Store, ClipboardList, Target, Layers, GitMerge, Database, FileText, Cpu, Users, AppWindow, TestTube, CheckCircle } from 'lucide-react';
+import { Loader2, ArrowLeft, CheckCircle } from 'lucide-react';
 import personaQuestions from '@/lib/persona_questions.json';
+import questionPlatformMapping from '@/lib/question_platform_mapping.json';
 
 const MAX_SELECTIONS = 2;
 
-// Mapping icons for other personas (fallback)
-const iconMapping = {
-    // Platform / Service Provider
-    'ROI: Clean Room Attribution?': <ShieldCheck className="h-12 w-12 mx-auto text-mw-gold" />,
-    "Budget: DOOH's Digital Share?": <PieChart className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Programmatic: Prime vs. Audience Mix?': <Map className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Creative: Affordable Dynamic Ads?': <Wand className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Integration: Retail Media Sync?': <Store className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Audience: Unified KPIs?': <ClipboardList className="h-12 w-12 mx-auto text-mw-gold" />,
-    // Advertiser
-    'ROI: Linking DOOH to Sales?': <Target className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Creative: Dynamic Content for Recall?': <Layers className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Integration: Incremental Reach?': <GitMerge className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Audience: 1st-Party Data Activation?': <Database className="h-12 w-12 mx-auto text-mw-gold" />,
-    // Publisher
-    'Data: Unified Audience Graphs?': <Database className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Marketing: Inbound Case Studies?': <FileText className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Distribution: Vertical SaaS APIs?': <AppWindow className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Technology: Low-Code CRM?': <Cpu className="h-12 w-12 mx-auto text-mw-gold" />,
-    'People: Audience Architects?': <Users className="h-12 w-12 mx-auto text-mw-gold" />,
-    'Products: Dynamic Trial Campaigns?': <TestTube className="h-12 w-12 mx-auto text-mw-gold" />,
-};
+// 7 Universal Tarot Cards (not persona-specific)
+const allCards = [
+    { id: 'architect', name: 'The Architect', platform: 'Studio', image: 'architect.jpg' },
+    { id: 'navigator', name: 'The Navigator', platform: 'Planner', image: 'navigator.jpg' },
+    { id: 'connector', name: 'The Connector', platform: 'Influence', image: 'connector.jpg' },
+    { id: 'magician', name: 'The Magician', platform: 'Activate', image: 'magician.jpg' },
+    { id: 'merchant', name: 'The Merchant', platform: 'Market', image: 'merchant.jpg' },
+    { id: 'judge', name: 'The Judge', platform: 'Measure', image: 'judge.jpg' },
+    { id: 'oracle', name: 'The Oracle', platform: 'Science', image: 'oracle.jpg' },
+];
 
-export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
+
+export default function TacticalCardSelection({
+    persona,
+    selectedQuestionIds = [], // NEW: Array of question IDs user selected
+    onConfirm,
+    onBack
+}) {
     const [selectedIds, setSelectedIds] = useState([]);
     const [error, setError] = useState(null);
     const [isReady, setIsReady] = useState(false);
-    
-    // Use questions based on the persona
+
+    // Use questions based on the persona (KEEP for backward compatibility)
     const questions = useMemo(() => {
         if (!persona || !personaQuestions[persona]) return [];
         return personaQuestions[persona].questions || [];
     }, [persona]);
 
-    const personaPathConfig = {
-        brand_owner: { prefix: 'adv', folder: 'brand_owner' },
-        media_owner: { prefix: 'pub', folder: 'media_owner' },
-        media_agency: { prefix: 'plat', folder: 'media_agency' }
-    };
+    // Determine which 2 cards should glow (based on selected questions)
+    const guidedCardIds = useMemo(() => {
+        try {
+            if (!persona || !selectedQuestionIds || selectedQuestionIds.length === 0) return [];
+            if (!questionPlatformMapping || !questionPlatformMapping[persona]) return [];
+
+            // Map tarot card name to card id
+            const cardNameToId = {
+                'The Architect': 'architect',
+                'The Navigator': 'navigator',
+                'The Connector': 'connector',
+                'The Magician': 'magician',
+                'The Merchant': 'merchant',
+                'The Judge': 'judge',
+                'The Oracle': 'oracle',
+            };
+
+            return selectedQuestionIds.map(questionId => {
+                const mapping = questionPlatformMapping[persona]?.[questionId];
+                if (!mapping) return null;
+                return cardNameToId[mapping.tarotCard];
+            }).filter(Boolean);
+        } catch (error) {
+            console.error('[TacticalCardSelection] Error in guidedCardIds:', error);
+            return [];
+        }
+    }, [persona, selectedQuestionIds]);
 
     useEffect(() => {
         // A short delay to allow for a transition animation from the parent
@@ -93,73 +110,32 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
     };
 
     const renderCards = () => {
-        const config = personaPathConfig[persona];
-        if (!config) {
-            // Fallback for an unknown persona, though this case is unlikely.
-            // This preserves the icon-based view if a new persona is added without card images.
-            return (
-                <motion.div
-                    variants={containerVariants}
-                    initial="hidden"
-                    animate="visible"
-                    className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full z-10"
-                >
-                    {questions.map(q => {
-                        const isSelected = selectedIds.includes(q.id);
-                        const icon = iconMapping[q.crisp] || <ShieldCheck className="h-12 w-12 mx-auto text-mw-gold" />;
-                        return (
-                            <motion.div
-                                key={q.id}
-                                variants={cardVariants}
-                                onClick={() => handleSelectCard(q.id)}
-                                className={`cursor-pointer rounded-lg border-2 p-6 text-center transition-all duration-300 transform hover:scale-105 relative
-                                            ${isSelected ? 'border-mw-gold bg-mw-gold/10 shadow-2xl shadow-mw-gold/20' : 'border-mw-light-blue/30 bg-mw-dark-blue/40 hover:border-mw-gold/50'}`}
-                            >
-                                <AnimatePresence>
-                                    {isSelected && (
-                                        <motion.div
-                                            initial={{ opacity: 0, scale: 0.5 }}
-                                            animate={{ opacity: 1, scale: 1 }}
-                                            exit={{ opacity: 0, scale: 0.5 }}
-                                            className="absolute top-3 right-3 bg-mw-dark-navy p-1 rounded-full"
-                                        >
-                                            <CheckCircle className="h-6 w-6 text-mw-gold" />
-                                        </motion.div>
-                                    )}
-                                </AnimatePresence>
-                                <div className="mb-4">{icon}</div>
-                                <h3 className="text-xl font-bold text-mw-light-blue mb-2 h-14 flex items-center justify-center">{q.crisp}</h3>
-                                <p className="text-mw-white/70 text-sm h-20">{q.text}</p>
-                            </motion.div>
-                        );
-                    })}
-                </motion.div>
-            );
-        }
-
         return (
             <motion.div
                 variants={containerVariants}
                 initial="hidden"
                 animate="visible"
-                className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-6xl w-full"
+                className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 lg:gap-6 max-w-6xl w-full"
             >
-                {questions.map((q, index) => {
-                    const isSelected = selectedIds.includes(q.id);
-                    const imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${index + 1}.png`;
+                {allCards.map((card) => {
+                    const isSelected = selectedIds.includes(card.id);
+                    const isGuided = guidedCardIds.includes(card.id);
+                    const imagePath = `/tarot_cards/${card.image}`;
+
                     return (
                         <motion.div
-                            key={q.id}
+                            key={card.id}
                             variants={cardVariants}
-                            onClick={() => handleSelectCard(q.id)}
+                            onClick={() => handleSelectCard(card.id)}
                             className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
-                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}`}
+                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
+                                        ${isGuided && !isSelected ? 'ring-4 ring-mw-gold/50 animate-pulse' : ''}`}
                         >
                             <Image
                                 src={imagePath}
-                                alt={`A tarot card representing the question: ${q.text}`}
-                                width={500}
-                                height={750}
+                                alt={`${card.name} - ${card.platform}`}
+                                width={400}
+                                height={600}
                                 className="rounded-lg w-full h-full object-cover"
                             />
                             <AnimatePresence>
@@ -201,14 +177,14 @@ export default function TacticalCardSelection({ persona, onConfirm, onBack }) {
                 )}
             </AnimatePresence>
 
-            {questions.length > 0 ? (
+            {allCards.length > 0 ? (
                 <div className="w-full flex justify-center">
                     {renderCards()}
                 </div>
             ) : (
                 <div className="flex items-center text-lg text-mw-white/70">
                     <Loader2 className="mr-2 h-5 w-5 animate-spin" />
-                    Summoning the instruments...
+                    Summoning the cards...
                 </div>
             )}
 
