@@ -263,16 +263,20 @@ export async function POST(req) {
       1. "${selectedQuestions[0]}"
       2. "${selectedQuestions[1]}"
       **CRITICAL INSTRUCTIONS - READ CAREFULLY:**
-      1. **ULTRA-CONCISE OPENING:** 
-         - Address ${fullName} by name in a powerful, memorable way
-         - MAX 100 characters total (about 10-15 words)
-         - ${isGenericLocation ? 'Reference their industry or a powerful business concept.' : `Reference ${geographicFocus} if possible`}
-         - Make it intriguing and forward-looking
-         - Examples: "${fullName}, your vision will redefine the ${industryType} landscape."
-         - Or: "${fullName}, your DOOH vision transforms ${geographicFocus}."
+      1. **MYSTICAL OPENING HOOK:**
+         - Start with a mystical phrase: "The spirits whisper...", "Fate reveals...", "The Oracle sees...", "Ancient wisdom foretells..."
+         - Address ${fullName} by name with prophetic, dramatic flair
+         - Reference BOTH of their chosen questions thematically (e.g., "your path to direct selling and AI-powered insight")
+         - MAX 150 characters (allow for mystical personality)
+         - ${isGenericLocation ? 'Reference their industry or business destiny.' : `Weave in ${geographicFocus} as their destined location`}
+         - Make it sound like a fortune teller revealing destiny, not a business consultant
+         - Examples:
+           * "The spirits whisper, ${fullName}... your path to ${question theme} and ${question theme} will soon illuminate the way forward."
+           * "Fate reveals, ${fullName}, that ${geographicFocus}'s screens await your ${question theme} mastery."
+           * "The Oracle sees ${fullName} of ${companyName} rising — ${question theme} and ${question theme} converging into destiny."
       ${locationInstruction}
       3. **BE CONCISE & READABLE:**
-         - Opening statement: MAX 100 characters, ultra punchy
+         - Opening statement: MAX 150 characters, mystical and prophetic
          - Each insight: 2-3 bullet points separated by newlines
          - Each bullet point: MAX 100 characters per line
          - Use specific locations and actionable advice if location is not generic
@@ -297,11 +301,12 @@ export async function POST(req) {
       </PersonaContext>
       **EXAMPLE OF WHAT NOT TO DO:**
       ❌ "Valued User, your focus at Your Company in Your Region..."
-      ❌ "Srikanth Ramachandran, your leadership at Moving Walls in Singapore, Singapore is shaping the future. Let's look at OOH possibilities here."
+      ❌ "${fullName}, your leadership at ${companyName} is shaping the future." (Too dry, not mystical)
+      ❌ "Let's explore OOH opportunities for you." (Business consultant tone, not fortune teller)
       **EXAMPLE OF WHAT TO DO:**
-      ✅ "${fullName}, Singapore's DOOH future starts now."
-      ✅ "${fullName}, your vision transforms ${geographicFocus}'s skyline."
-      ✅ "${fullName}, Marina Bay's screens await your revolution."
+      ✅ "The spirits whisper, ${fullName}... your journey to ${question theme} begins in ${geographicFocus}."
+      ✅ "Fate reveals that ${fullName} of ${companyName} will soon master both ${question theme} and ${question theme}."
+      ✅ "The Oracle sees ${fullName}... Marina Bay's screens and AI's wisdom converging at your command."
       **Output Format:** Generate a JSON object with the exact structure specified in the schema. Make the opening statement ULTRA-CONCISE and MEMORABLE.
     `;
 

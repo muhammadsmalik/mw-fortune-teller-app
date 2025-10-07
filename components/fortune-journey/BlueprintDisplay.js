@@ -20,20 +20,20 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
 
   const tacticalSolutions = useMemo(() => {
     const personaPathConfig = {
-      advertiser: { prefix: 'adv', folder: 'advertiser' },
-      publisher: { prefix: 'pub', folder: 'publisher' },
-      platform: { prefix: 'plat', folder: 'platform' }
+      brand_owner: { prefix: 'adv', folder: 'brand_owner' },
+      media_owner: { prefix: 'pub', folder: 'media_owner' },
+      media_agency: { prefix: 'plat', folder: 'media_agency' }
     };
 
     return tacticalChoices.map(id => {
-      const allPersonaQuestions = [...allQuestions[persona].high, ...allQuestions[persona].tactical];
+      const allPersonaQuestions = allQuestions[persona]?.questions || [];
       const question = allPersonaQuestions.find(q => q.id === id);
-      const tacticalIndex = allQuestions[persona].tactical.findIndex(q => q.id === id);
+      const questionIndex = allPersonaQuestions.findIndex(q => q.id === id);
       const config = personaPathConfig[persona];
 
       let imagePath = null;
-      if (config && tacticalIndex !== -1) {
-        imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${tacticalIndex + 1}.png`;
+      if (config && questionIndex !== -1) {
+        imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${questionIndex + 1}.png`;
       }
 
       return {
@@ -46,14 +46,14 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
   }, [tacticalChoices, persona]);
 
   const unselectedQuestions = useMemo(() => {
-    return allQuestions[persona] ? 
-      allQuestions[persona].tactical
+    return allQuestions[persona] ?
+      allQuestions[persona].questions
         .filter(q => !tacticalChoices.includes(q.id))
         .map(q => ({
           id: q.id,
           text: q.text,
           solution: productMappingData[q.id] ? `Solution: ${productMappingData[q.id].productName}` : 'A mystery to be unraveled.'
-        })) 
+        }))
       : [];
   }, [tacticalChoices, persona]);
 

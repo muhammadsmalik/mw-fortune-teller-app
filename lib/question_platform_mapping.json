@@ -1,0 +1,98 @@
+{
+  "brand_owner": {
+    "adv_t1": {
+      "platform": "Market",
+      "tarotCard": "The Merchant",
+      "interpretation": "Reach new audiences and buy OOH space directly like digital ads."
+    },
+    "adv_t2": {
+      "platform": "Planner",
+      "tarotCard": "The Navigator",
+      "interpretation": "Identify the right cities, moments, and screens that maximize impact."
+    },
+    "adv_t3": {
+      "platform": "Measure",
+      "tarotCard": "The Judge",
+      "interpretation": "Prove every campaign's effectiveness through measurable insights."
+    },
+    "adv_t4": {
+      "platform": "Influence",
+      "tarotCard": "The Connector",
+      "interpretation": "Extend your social or influencer strategy into the real world."
+    },
+    "adv_t5": {
+      "platform": "Activate",
+      "tarotCard": "The Magician",
+      "interpretation": "Launch multi-channel campaigns with the speed and ease of automation."
+    },
+    "adv_t6": {
+      "platform": "Science",
+      "tarotCard": "The Oracle",
+      "interpretation": "Leverage AI to predict high-performing creatives, moments, and audiences."
+    }
+  },
+  "media_agency": {
+    "plat_t1": {
+      "platform": "Planner",
+      "tarotCard": "The Navigator",
+      "interpretation": "Plan smarter with AI-driven audience and location insights."
+    },
+    "plat_t2": {
+      "platform": "Activate",
+      "tarotCard": "The Magician",
+      "interpretation": "Manage campaigns across channels with ease and automation."
+    },
+    "plat_t3": {
+      "platform": "Measure",
+      "tarotCard": "The Judge",
+      "interpretation": "Optimize performance with real-time measurement and attribution."
+    },
+    "plat_t4": {
+      "platform": "Studio",
+      "tarotCard": "The Architect",
+      "interpretation": "Access premium inventory and creative tools instantly."
+    },
+    "plat_t5": {
+      "platform": "Science",
+      "tarotCard": "The Oracle",
+      "interpretation": "Prove OOH effectiveness with AI-powered predictive insights."
+    },
+    "plat_t6": {
+      "platform": "Science",
+      "tarotCard": "The Oracle",
+      "interpretation": "Stay ahead of AI shifts in campaign planning and optimization."
+    }
+  },
+  "media_owner": {
+    "pub_t1": {
+      "platform": "Studio",
+      "tarotCard": "The Architect",
+      "interpretation": "Build your brand's direct gateway to OOH visibility and presence."
+    },
+    "pub_t2": {
+      "platform": "Market",
+      "tarotCard": "The Merchant",
+      "interpretation": "Sell directly to advertisers and SMEs with marketplace access."
+    },
+    "pub_t3": {
+      "platform": "Planner",
+      "tarotCard": "The Navigator",
+      "interpretation": "Automate scheduling and optimize inventory management."
+    },
+    "pub_t4": {
+      "platform": "Measure",
+      "tarotCard": "The Judge",
+      "interpretation": "Benchmark and prove your screen performance with data."
+    },
+    "pub_t5": {
+      "platform": "Activate",
+      "tarotCard": "The Magician",
+      "interpretation": "Prepare for programmatic with automated campaign delivery."
+    },
+    "pub_t6": {
+      "platform": "Science",
+      "tarotCard": "The Oracle",
+      "interpretation": "Use AI to predict demand, optimize pricing, and forecast revenue."
+    }
+  }
+}

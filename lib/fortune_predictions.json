@@ -1,0 +1,113 @@
+{
+  "brand_owner": {
+    "Studio": [
+      "${Name}, your brand will soon command physical visibility like never before — a digital storefront for ${Company Name} that lives across real-world screens.",
+      "Structure meets creativity — you'll be able to control every aspect of how your brand appears in the world.",
+      "Your campaign presence will no longer be limited by budget or time — it will scale with precision and design."
+    ],
+    "Planner": [
+      "Your next campaign will feel effortless — every city, location, and moment aligned for maximum relevance.",
+      "The data will tell you where to be, when to show up, and who to reach — planning will become foresight.",
+      "Your next move in ${Industry} will be guided by clarity, not chance."
+    ],
+    "Influence": [
+      "Your message will travel from social to streets — synchronizing every channel your audience sees.",
+      "The right time, the right place, the right emotion — ${Company Name}'s campaigns will move with the public pulse.",
+      "A bridge is forming between your digital world and the physical one — and your brand is at its center."
+    ],
+    "Activate": [
+      "You'll go from planning to execution in hours, not weeks — automation becomes your secret advantage.",
+      "Your team will launch faster than competitors, powered by data and AI precision.",
+      "What once required coordination now flows automatically — every screen, every story, live at once."
+    ],
+    "Market": [
+      "Your next campaign will launch in minutes — a few clicks away from the real world.",
+      "${Company Name} will access premium outdoor spaces without traditional gatekeepers.",
+      "The walls of advertising will open — connecting your brand to new audiences directly."
+    ],
+    "Measure": [
+      "What was once unmeasurable will become visible — every impression, every lift, every outcome.",
+      "Your brand story will now be told in both emotion and data — impact that's provable.",
+      "You'll soon know the real-world ROI of your ideas."
+    ],
+    "Science": [
+      "AI is about to become your campaign strategist — predicting when and where your audience reacts best.",
+      "The next phase of growth for ${Company Name} will be powered by autonomous optimization.",
+      "Every future campaign you run will get smarter than the last — and success will compound."
+    ]
+  },
+  "media_agency": {
+    "Studio": [
+      "Your agency will soon orchestrate campaigns across cities as if from a single control room.",
+      "The complexity of managing diverse clients will simplify into one seamless platform.",
+      "Every screen your clients see will align with your strategy — structure enabling scale."
+    ],
+    "Planner": [
+      "Your plans will anticipate performance, not just respond to it — a strategist's dream.",
+      "Foresight replaces guesswork — every plan, every recommendation, backed by data clarity.",
+      "${Company Name} will deliver smarter proposals faster, winning clients through precision."
+    ],
+    "Influence": [
+      "Your creative teams will sync perfectly with media placement — context will meet content.",
+      "Each campaign will feel naturally integrated, connecting screens, people, and stories.",
+      "The synergy between online influence and offline impact will set new standards for your clients."
+    ],
+    "Activate": [
+      "Execution will no longer slow your ideas — campaigns will launch in real time.",
+      "Your workflows will transform — multiple channels activated with a single command.",
+      "${Name}, your agency's strength will shift from speed of thought to speed of delivery."
+    ],
+    "Market": [
+      "You'll gain access to global and local inventories within seconds.",
+      "Small clients will now play big — booking their first OOH campaign through you.",
+      "Every opportunity in OOH will be just one search away — a marketplace built for efficiency."
+    ],
+    "Measure": [
+      "You'll bring clients insights that redefine accountability in OOH.",
+      "Campaign reports will no longer be static PDFs — they'll tell living stories of performance.",
+      "${Company Name} will become synonymous with transparency and precision."
+    ],
+    "Science": [
+      "AI will forecast outcomes before campaigns even begin — your planning will evolve into prediction.",
+      "Performance insights will refine themselves, optimizing media without intervention.",
+      "The intelligence you build will future-proof your agency — every win compounding the next."
+    ]
+  },
+  "media_owner": {
+    "Studio": [
+      "${Name}, your media empire will soon run itself — a digital storefront that never sleeps.",
+      "Every screen under ${Company Name} will be visible, searchable, and bookable worldwide.",
+      "You'll soon move from inventory manager to marketplace architect."
+    ],
+    "Planner": [
+      "Data will guide every booking — your unsold inventory will find the perfect campaign match.",
+      "No slot will go unused — planning becomes prediction.",
+      "The way ${Company Name} schedules campaigns will soon mirror the precision of digital platforms."
+    ],
+    "Influence": [
+      "Your screens will deliver the right message at the right moment — automatically.",
+      "Dynamic content will make your network come alive — tailored to audiences in real time.",
+      "You'll be the invisible force behind campaigns that feel human and connected."
+    ],
+    "Activate": [
+      "Manual scheduling will fade — activation will flow automatically from system to screen.",
+      "Every new campaign will sync perfectly across formats — digital, static, programmatic.",
+      "${Company Name} will redefine efficiency — faster turnaround, fewer errors, greater trust."
+    ],
+    "Market": [
+      "New revenue streams are opening — direct buyers, SMEs, and instant transactions.",
+      "Your platform will soon attract advertisers you've never met — ready to buy instantly.",
+      "The screens you own will finally sell themselves."
+    ],
+    "Measure": [
+      "The performance of your network will be transparent, credible, and competitive.",
+      "Measurement will not just validate value — it will increase it.",
+      "You'll benchmark your screens against the best, and the market will recognize your leadership."
+    ],
+    "Science": [
+      "AI will predict demand, guide pricing, and forecast campaigns before they're requested.",
+      "${Company Name} will harness intelligence that transforms every decision into advantage.",
+      "The future you once imagined — fully automated, data-driven, profitable — is closer than you think."
+    ]
+  }
+}
