@@ -129,7 +129,7 @@ export default function TacticalCardSelection({
                             onClick={() => handleSelectCard(card.id)}
                             className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
                                         ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
-                                        ${isGuided && !isSelected ? 'ring-4 ring-mw-gold/50 animate-pulse' : ''}`}
+                                        ${isGuided && !isSelected ? 'ring-4 ring-mw-gold shadow-lg shadow-mw-gold/30' : ''}`}
                         >
                             <Image
                                 src={imagePath}
