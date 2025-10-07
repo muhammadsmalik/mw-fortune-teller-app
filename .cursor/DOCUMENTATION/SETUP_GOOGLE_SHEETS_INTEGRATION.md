@@ -33,8 +33,8 @@ This guide outlines the steps to integrate your Next.js application with Google 
     *   Go to [Google Sheets](https://sheets.google.com) and create a new spreadsheet.
     *   Name it (e.g., "Fortune Teller Leads").
     *   Define your header row (the first row). For example:
-        `Timestamp | FullName | Email | PhoneNumber | Industry | CompanyName | FortuneText`
-        *(Note: The `PhoneNumber` column was added as per the implemented API route).*
+        `Timestamp | FullName | Email | Industry | CompanyName | FortuneText | FlowSource | LinkedInProfileUrl | LinkedInHeadline | LinkedInLocation | Persona | SelectedQuestionIds | SelectedQuestionTexts | SelectedTarotCards | SessionId`
+        *(Note: You can add or remove columns as needed; ensure they match the order used by the API range.)*
 
 5.  **Share the Google Sheet with Your Service Account:**
     *   Open the JSON credentials file you downloaded. Find the `client_email` value (e.g., `your-service-account-name@your-project-id.iam.gserviceaccount.com`).
@@ -72,8 +72,8 @@ This guide outlines the steps to integrate your Next.js application with Google 
 3.  **API Route Code (`app/api/submit-lead/route.js`):**
     *   The API route has been created. It:
         *   Authenticates using the environment variables.
-        *   Receives `fullName`, `email`, `phoneNumber` (optional), `industry`, `companyName`, and `fortuneText` in the request body.
-        *   Appends a new row to `Sheet1!A:G` (Timestamp, FullName, Email, PhoneNumber, Industry, CompanyName, FortuneText).
+        *   Receives `fullName`, `email`, `industry`, `companyName`, and `fortuneText`, plus optional extras like `flowSource`, LinkedIn details, persona, selected questions, selected tarot cards, and a `sessionId`.
+        *   Appends a new row to `Sheet1!A:O` (Timestamp, FullName, Email, Industry, CompanyName, FortuneText, FlowSource, LinkedInProfileUrl, LinkedInHeadline, LinkedInLocation, Persona, SelectedQuestionIds, SelectedQuestionTexts, SelectedTarotCards, SessionId).
         *   **Important:** Ensure your actual Google Sheet tab name is `Sheet1` or update the `range` in the API route.
 
 ## Phase 3: Frontend Implementation
@@ -86,7 +86,7 @@ This guide outlines the steps to integrate your Next.js application with Google 
 
 ## Important Notes & Troubleshooting
 
-*   **Sheet Name:** In the API route, `range = 'Sheet1!A:G';`, ensure `Sheet1` matches the actual name of your sheet tab.
+*   **Sheet Name:** In the API route, `range = 'Sheet1!A:O';`, ensure `Sheet1` matches the actual name of your sheet tab.
 *   **Permissions:** Double-check the service account has "Editor" access to your Google Sheet.
 *   **API Enabled:** Verify the Google Sheets API is enabled in your Cloud project.
 *   **Environment Variables:**
@@ -95,4 +95,3 @@ This guide outlines the steps to integrate your Next.js application with Google 
     *   The `GOOGLE_SHEETS_PRIVATE_KEY.replace(/\\n/g, '\n')` in the API route is crucial for correct parsing of the private key.
 *   **Error Handling:** The API route includes error handling. Check server logs and Google API responses for detailed error messages if issues occur. The `ERR_OSSL_UNSUPPORTED` error, for example, typically points to an incorrectly formatted private key in the environment variables.
 *   **Security:** The API route acts as a secure intermediary. Never expose your service account's private key or the full JSON credentials file on the client-side.
-

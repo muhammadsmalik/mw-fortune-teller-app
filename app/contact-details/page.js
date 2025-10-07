@@ -54,6 +54,34 @@ export default function ContactDetailsPage() {
 
   const [isEverythingDone, setIsEverythingDone] = useState(false);
 
+  // Extra metadata to persist to Google Sheets
+  const [selectedPersona, setSelectedPersona] = useState('');
+  const [selectedQuestionIds, setSelectedQuestionIds] = useState([]);
+  const [selectedQuestionTexts, setSelectedQuestionTexts] = useState([]);
+  const [selectedTarotCards, setSelectedTarotCards] = useState([]);
+  const [sessionId, setSessionId] = useState('');
+  const [linkedinExtras, setLinkedinExtras] = useState({
+    profileUrl: '',
+    headline: '',
+    city: '',
+    country: '',
+  });
+
+  // Helper to avoid dumping huge payloads in logs
+  const summarizeLeadPayload = (p) => ({
+    fullName: p.fullName,
+    email: p.email,
+    industry: p.industry,
+    companyName: p.companyName,
+    fortuneTextLen: p.fortuneText ? String(p.fortuneText).length : 0,
+    flowSource: p.flowSource,
+    linkedinProfileUrl: p.linkedinProfileUrl,
+    persona: p.persona,
+    selectedQuestionIdsCount: Array.isArray(p.selectedQuestionIds) ? p.selectedQuestionIds.length : undefined,
+    selectedTarotCardsCount: Array.isArray(p.selectedTarotCards) ? p.selectedTarotCards.length : undefined,
+    sessionId: p.sessionId,
+  });
+
   useEffect(() => {
     let initialFullName = localStorage.getItem('fortuneApp_fullName');
     let initialIndustry = localStorage.getItem('fortuneApp_industry');
@@ -83,6 +111,16 @@ export default function ContactDetailsPage() {
             setLinkedInEmail(extractedEmail);
             setEmail(extractedEmail);
           }
+
+          // Prepare LinkedIn extras for Sheets
+          const publicId = profile.public_identifier;
+          const reconstructedUrl = publicId ? `https://www.linkedin.com/in/${publicId}` : '';
+          setLinkedinExtras({
+            profileUrl: reconstructedUrl,
+            headline: profile.occupation || profile.headline || '',
+            city: profile.city || '',
+            country: profile.country_full_name || '',
+          });
         }
       } catch (e) {
         console.error("Error parsing LinkedIn data:", e);
@@ -96,6 +134,27 @@ export default function ContactDetailsPage() {
       companyName: initialCompanyName || 'N/A',
       fortuneText: storedFortuneText,
     });
+
+    // Load selections and session metadata
+    try {
+      const persona = localStorage.getItem('selectedPersona') || '';
+      const qIds = JSON.parse(localStorage.getItem('selectedQuestionIds') || '[]');
+      const qTexts = JSON.parse(localStorage.getItem('selectedQuestionTexts') || '[]');
+      const tarot = JSON.parse(localStorage.getItem('selectedTarotCards') || '[]');
+      setSelectedPersona(persona);
+      setSelectedQuestionIds(Array.isArray(qIds) ? qIds : []);
+      setSelectedQuestionTexts(Array.isArray(qTexts) ? qTexts : []);
+      setSelectedTarotCards(Array.isArray(tarot) ? tarot : []);
+
+      let sid = localStorage.getItem('fortuneSessionId');
+      if (!sid) {
+        sid = `${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
+        localStorage.setItem('fortuneSessionId', sid);
+      }
+      setSessionId(sid);
+    } catch (e) {
+      console.warn('Failed loading selection/session metadata:', e);
+    }
   }, []);
 
   useEffect(() => {
@@ -212,18 +271,31 @@ export default function ContactDetailsPage() {
 
         let leadSuccessfullySubmitted = false;
         try {
+          const payload = {
+            fullName: leadData.fullName,
+            email: linkedInEmail,
+            industry: leadData.industry,
+            companyName: leadData.companyName,
+            fortuneText: leadData.fortuneText,
+            flowSource: 'linkedin',
+            linkedinProfileUrl: linkedinExtras.profileUrl,
+            linkedinHeadline: linkedinExtras.headline,
+            linkedinCity: linkedinExtras.city,
+            linkedinCountry: linkedinExtras.country,
+            persona: selectedPersona || '',
+            selectedQuestionIds: selectedQuestionIds,
+            selectedQuestionTexts: selectedQuestionTexts,
+            selectedTarotCards: selectedTarotCards,
+            sessionId,
+          };
+          console.log('[contact-details] Auto attempt payload', summarizeLeadPayload(payload));
           const response = await fetch('/api/submit-lead', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              fullName: leadData.fullName,
-              email: linkedInEmail,
-              industry: leadData.industry,
-              companyName: leadData.companyName,
-              fortuneText: leadData.fortuneText,
-            }),
+            body: JSON.stringify(payload),
           });
           const result = await response.json();
+          console.log('[contact-details] Auto attempt response', response.status, result);
           if (!response.ok) {
             setError(`Lead auto-submission failed: ${result.message || 'Unknown error'}`);
           } else {
@@ -257,11 +329,28 @@ export default function ContactDetailsPage() {
         setIsProcessing(true);
         let leadSubmissionOk = false;
         try {
+          const payload2 = {
+            ...leadData,
+            email: linkedInEmail,
+            flowSource: 'linkedin',
+            linkedinProfileUrl: linkedinExtras.profileUrl,
+            linkedinHeadline: linkedinExtras.headline,
+            linkedinCity: linkedinExtras.city,
+            linkedinCountry: linkedinExtras.country,
+            persona: selectedPersona || '',
+            selectedQuestionIds: selectedQuestionIds,
+            selectedQuestionTexts: selectedQuestionTexts,
+            selectedTarotCards: selectedTarotCards,
+            sessionId,
+          };
+          console.log('[contact-details] Auto submit payload', summarizeLeadPayload(payload2));
           const leadResponse = await fetch('/api/submit-lead', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ ...leadData, email: linkedInEmail }),
+            body: JSON.stringify(payload2),
           });
+          const leadResult = await leadResponse.json().catch(() => ({}));
+          console.log('[contact-details] Auto submit response', leadResponse.status, leadResult);
           if (leadResponse.ok) {
             setIsLeadSaved(true);
             leadSubmissionOk = true;
@@ -315,7 +404,19 @@ export default function ContactDetailsPage() {
     const payload = {
       ...leadData,
       email,
+      // Extras
+      flowSource: isLinkedInFlow ? 'linkedin' : 'manual',
+      linkedinProfileUrl: linkedinExtras.profileUrl,
+      linkedinHeadline: linkedinExtras.headline,
+      linkedinCity: linkedinExtras.city,
+      linkedinCountry: linkedinExtras.country,
+      persona: selectedPersona || '',
+      selectedQuestionIds: selectedQuestionIds,
+      selectedQuestionTexts: selectedQuestionTexts,
+      selectedTarotCards: selectedTarotCards,
+      sessionId,
     };
+    console.log('[contact-details] Manual submit payload', summarizeLeadPayload(payload));
 
     let leadSuccessfullySubmitted = false;
     try {
@@ -325,6 +426,7 @@ export default function ContactDetailsPage() {
         body: JSON.stringify(payload),
       });
       const result = await response.json();
+      console.log('[contact-details] Manual submit response', response.status, result);
 
       if (!response.ok) {
         setError(result.message || 'Submission failed. Please try again.');

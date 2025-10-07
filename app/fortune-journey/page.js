@@ -133,6 +133,15 @@ export default function FortuneJourneyPage() {
       const selectedQuestionObjects = allQuestionsForPersona.filter(q => scenarios.includes(q.id));
       const unselectedQuestionObjects = allQuestionsForPersona.filter(q => !scenarios.includes(q.id));
 
+      // Persist selections for downstream pages (e.g., contact-details)
+      try {
+        localStorage.setItem('selectedPersona', persona);
+        localStorage.setItem('selectedQuestionIds', JSON.stringify(scenarios));
+        localStorage.setItem('selectedQuestionTexts', JSON.stringify(selectedQuestionObjects.map(q => q.text)));
+      } catch (e) {
+        console.warn('[FortuneJourneyPage] Failed to persist selection metadata to localStorage:', e);
+      }
+
       const payload = {
         fullName: actualFullName,
         companyName: actualCompanyName,
