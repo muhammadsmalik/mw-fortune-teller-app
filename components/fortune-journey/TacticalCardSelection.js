@@ -115,7 +115,7 @@ export default function TacticalCardSelection({
                 variants={containerVariants}
                 initial="hidden"
                 animate="visible"
-                className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 lg:gap-6 max-w-6xl w-full"
+                className="flex flex-wrap justify-center gap-4 lg:gap-6 max-w-6xl w-full"
             >
                 {allCards.map((card) => {
                     const isSelected = selectedIds.includes(card.id);
@@ -127,7 +127,7 @@ export default function TacticalCardSelection({
                             key={card.id}
                             variants={cardVariants}
                             onClick={() => handleSelectCard(card.id)}
-                            className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105
+                            className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105 w-40 sm:w-48
                                         ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
                                         ${isGuided && !isSelected ? 'ring-4 ring-mw-gold shadow-lg shadow-mw-gold/30' : ''}`}
                         >
@@ -136,7 +136,7 @@ export default function TacticalCardSelection({
                                 alt={`${card.name} - ${card.platform}`}
                                 width={400}
                                 height={600}
-                                className="rounded-lg w-full h-full object-cover"
+                                className="rounded-lg object-cover"
                             />
                             <AnimatePresence>
                                 {isSelected && (
@@ -168,11 +168,16 @@ export default function TacticalCardSelection({
                         className="text-center mb-8 z-10"
                     >
                         <h1 className="text-4xl font-morrison bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent tracking-wider">
-                            The Instruments of Fate
+                            The Oracle Has Drawn Your Destiny Cards
                         </h1>
                         <p className="text-mw-white/80 mt-2 text-lg font-caveat">
-                            Six powers lie before you. Choose the two you wish to command.
+                            Seven cards reveal themselves. Choose 2 to unveil your path.
                         </p>
+                        {guidedCardIds.length > 0 && (
+                            <p className="text-sm text-mw-light-blue mt-2 italic">
+                                ✨ The glowing cards align with your chosen challenges
+                            </p>
+                        )}
                     </motion.div>
                 )}
             </AnimatePresence>
@@ -196,7 +201,7 @@ export default function TacticalCardSelection({
                     size="lg"
                     className="px-8 py-3 text-lg font-semibold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-md transform transition-all duration-150 hover:shadow-xl active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                    {`Forge My Blueprint (${selectedIds.length}/${MAX_SELECTIONS})`}
+                    {`Reveal Your Cards (${selectedIds.length}/${MAX_SELECTIONS})`}
                 </Button>
             </div>
 
@@ -207,7 +212,7 @@ export default function TacticalCardSelection({
                     className="border-mw-light-blue/50 text-mw-light-blue hover:bg-mw-light-blue/10 hover:text-white"
                 >
                     <ArrowLeft className="h-4 w-4 mr-2" />
-                    Return to the Vision
+                    Back to Fortune
                 </Button>
             </div>
         </div>
