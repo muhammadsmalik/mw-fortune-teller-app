@@ -111,49 +111,97 @@ export default function TacticalCardSelection({
 
     const renderCards = () => {
         return (
-            <motion.div
-                variants={containerVariants}
-                initial="hidden"
-                animate="visible"
-                className="flex flex-wrap justify-center gap-4 lg:gap-6 max-w-6xl w-full"
-            >
-                {allCards.map((card) => {
-                    const isSelected = selectedIds.includes(card.id);
-                    const isGuided = guidedCardIds.includes(card.id);
-                    const imagePath = `/tarot_cards/${card.image}`;
+            <div className="flex flex-col items-center gap-4 lg:gap-6">
+                {/* Top row - 3 cards */}
+                <motion.div
+                    variants={containerVariants}
+                    initial="hidden"
+                    animate="visible"
+                    className="flex gap-4 lg:gap-6 justify-center"
+                >
+                    {allCards.slice(0, 3).map((card) => {
+                        const isSelected = selectedIds.includes(card.id);
+                        const isGuided = guidedCardIds.includes(card.id);
+                        const imagePath = `/tarot_cards/${card.image}`;
 
-                    return (
-                        <motion.div
-                            key={card.id}
-                            variants={cardVariants}
-                            onClick={() => handleSelectCard(card.id)}
-                            className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105 w-40 sm:w-48
-                                        ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
-                                        ${isGuided && !isSelected ? 'ring-4 ring-mw-gold shadow-lg shadow-mw-gold/30' : ''}`}
-                        >
-                            <Image
-                                src={imagePath}
-                                alt={`${card.name} - ${card.platform}`}
-                                width={400}
-                                height={600}
-                                className="rounded-lg object-cover"
-                            />
-                            <AnimatePresence>
-                                {isSelected && (
-                                    <motion.div
-                                        initial={{ opacity: 0 }}
-                                        animate={{ opacity: 1 }}
-                                        exit={{ opacity: 0 }}
-                                        className="absolute inset-0 bg-black/60 rounded-xl flex items-center justify-center"
-                                    >
-                                        <CheckCircle className="h-24 w-24 text-mw-gold" />
-                                    </motion.div>
-                                )}
-                            </AnimatePresence>
-                        </motion.div>
-                    );
-                })}
-            </motion.div>
+                        return (
+                            <motion.div
+                                key={card.id}
+                                variants={cardVariants}
+                                onClick={() => handleSelectCard(card.id)}
+                                className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105 w-40 sm:w-48
+                                            ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
+                                            ${isGuided && !isSelected ? 'ring-4 ring-mw-gold shadow-lg shadow-mw-gold/30' : ''}`}
+                            >
+                                <Image
+                                    src={imagePath}
+                                    alt={`${card.name} - ${card.platform}`}
+                                    width={400}
+                                    height={600}
+                                    className="rounded-lg object-cover"
+                                />
+                                <AnimatePresence>
+                                    {isSelected && (
+                                        <motion.div
+                                            initial={{ opacity: 0 }}
+                                            animate={{ opacity: 1 }}
+                                            exit={{ opacity: 0 }}
+                                            className="absolute inset-0 bg-black/60 rounded-xl flex items-center justify-center"
+                                        >
+                                            <CheckCircle className="h-24 w-24 text-mw-gold" />
+                                        </motion.div>
+                                    )}
+                                </AnimatePresence>
+                            </motion.div>
+                        );
+                    })}
+                </motion.div>
+
+                {/* Bottom row - 4 cards */}
+                <motion.div
+                    variants={containerVariants}
+                    initial="hidden"
+                    animate="visible"
+                    className="flex gap-4 lg:gap-6 justify-center"
+                >
+                    {allCards.slice(3, 7).map((card) => {
+                        const isSelected = selectedIds.includes(card.id);
+                        const isGuided = guidedCardIds.includes(card.id);
+                        const imagePath = `/tarot_cards/${card.image}`;
+
+                        return (
+                            <motion.div
+                                key={card.id}
+                                variants={cardVariants}
+                                onClick={() => handleSelectCard(card.id)}
+                                className={`relative cursor-pointer rounded-xl border-4 transition-all duration-300 transform hover:scale-105 w-40 sm:w-48
+                                            ${isSelected ? 'border-mw-gold shadow-2xl shadow-mw-gold/20 scale-105' : 'border-transparent'}
+                                            ${isGuided && !isSelected ? 'ring-4 ring-mw-gold shadow-lg shadow-mw-gold/30' : ''}`}
+                            >
+                                <Image
+                                    src={imagePath}
+                                    alt={`${card.name} - ${card.platform}`}
+                                    width={400}
+                                    height={600}
+                                    className="rounded-lg object-cover"
+                                />
+                                <AnimatePresence>
+                                    {isSelected && (
+                                        <motion.div
+                                            initial={{ opacity: 0 }}
+                                            animate={{ opacity: 1 }}
+                                            exit={{ opacity: 0 }}
+                                            className="absolute inset-0 bg-black/60 rounded-xl flex items-center justify-center"
+                                        >
+                                            <CheckCircle className="h-24 w-24 text-mw-gold" />
+                                        </motion.div>
+                                    )}
+                                </AnimatePresence>
+                            </motion.div>
+                        );
+                    })}
+                </motion.div>
+            </div>
         );
     };
 
