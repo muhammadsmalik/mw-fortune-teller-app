@@ -678,44 +678,79 @@ export default function DisplayFortune({
                 ))}
               </div>
               
-              {/* Fortune Content with Enhanced Typography */}
+              {/* Fortune Content - Legacy Format with Emojis */}
               <div className="text-left space-y-6 relative z-10">
-                {/* Opening Statement with Gradient Text */}
-                <p className="font-sans text-2xl sm:text-3xl font-bold bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent text-center leading-tight">
-                  {fortuneData.openingStatement}
-                </p>
-                
-                {/* First Insight Section */}
-                <div className="border-t border-mw-white/10 pt-6">
-                  <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
-                    <Lightbulb className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
-                    <span className="italic">&ldquo;{fortuneData.insight1.challenge}&rdquo;</span>
-                  </h3>
-                  <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
-                    {fortuneData.insight1.insight.split('\n').map((line, index) => (
-                      <div key={index} className="flex items-start mb-2">
-                        <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
-                        <span>{line.trim()}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
+                {/* Opening Line */}
+                {fortuneData?.openingLine && (
+                  <p className="font-sans text-2xl sm:text-3xl font-bold bg-gradient-to-r from-mw-gold via-yellow-300 to-mw-gold bg-clip-text text-transparent text-center leading-tight mb-8">
+                    {fortuneData.openingLine}
+                  </p>
+                )}
 
-                {/* Second Insight Section */}
-                <div className="border-t border-mw-white/10 pt-6">
-                  <h3 className="text-3xl font-bold bg-gradient-to-r from-mw-light-blue via-blue-300 to-mw-light-blue bg-clip-text text-transparent flex items-center mb-4">
-                    <BarChart className="h-7 w-7 mr-3 text-mw-light-blue/80 animate-pulse" />
-                    <span className="italic">&ldquo;{fortuneData.insight2.challenge}&rdquo;</span>
-                  </h3>
-                  <div className="text-mw-white/90 leading-relaxed text-xl pl-10">
-                    {fortuneData.insight2.insight.split('\n').map((line, index) => (
-                      <div key={index} className="flex items-start mb-2">
-                        <span className="bg-gradient-to-r from-mw-gold to-yellow-400 bg-clip-text text-transparent mr-3 text-xl animate-pulse">•</span>
-                        <span>{line.trim()}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
+                {/* Location Insight */}
+                {fortuneData?.locationInsight && (
+                  <motion.div
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.2 }}
+                    className="flex items-start gap-4 p-4 bg-mw-dark-blue/40 rounded-lg border border-mw-light-blue/30"
+                  >
+                    <span className="text-3xl flex-shrink-0">📍</span>
+                    <p className="text-mw-white/90 text-lg leading-relaxed">{fortuneData.locationInsight}</p>
+                  </motion.div>
+                )}
+
+                {/* Audience Opportunity */}
+                {fortuneData?.audienceOpportunity && (
+                  <motion.div
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.4 }}
+                    className="flex items-start gap-4 p-4 bg-mw-dark-blue/40 rounded-lg border border-mw-light-blue/30"
+                  >
+                    <span className="text-3xl flex-shrink-0">👀</span>
+                    <p className="text-mw-white/90 text-lg leading-relaxed">{fortuneData.audienceOpportunity}</p>
+                  </motion.div>
+                )}
+
+                {/* Engagement Forecast */}
+                {fortuneData?.engagementForecast && (
+                  <motion.div
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.6 }}
+                    className="flex items-start gap-4 p-4 bg-mw-dark-blue/40 rounded-lg border border-mw-light-blue/30"
+                  >
+                    <span className="text-3xl flex-shrink-0">💥</span>
+                    <p className="text-mw-white/90 text-lg leading-relaxed">{fortuneData.engagementForecast}</p>
+                  </motion.div>
+                )}
+
+                {/* Transactions Prediction */}
+                {fortuneData?.transactionsPrediction && (
+                  <motion.div
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.8 }}
+                    className="flex items-start gap-4 p-4 bg-mw-dark-blue/40 rounded-lg border border-mw-light-blue/30"
+                  >
+                    <span className="text-3xl flex-shrink-0">💸</span>
+                    <p className="text-mw-white/90 text-lg leading-relaxed">{fortuneData.transactionsPrediction}</p>
+                  </motion.div>
+                )}
+
+                {/* AI Advice */}
+                {fortuneData?.aiAdvice && (
+                  <motion.div
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 1.0 }}
+                    className="flex items-start gap-4 p-4 bg-mw-dark-blue/40 rounded-lg border border-mw-gold/30"
+                  >
+                    <span className="text-3xl flex-shrink-0">🔮</span>
+                    <p className="text-mw-white/90 text-lg leading-relaxed">{fortuneData.aiAdvice}</p>
+                  </motion.div>
+                )}
               </div>
             </div>
           </div>
