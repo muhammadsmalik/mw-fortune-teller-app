@@ -298,15 +298,7 @@ export default function ContactDetailsPage() {
     }
   }, [isLeadSaved, isEmailSent]);
 
-  useEffect(() => {
-    if (isEverythingDone) {
-      // Add a small delay to allow the user to see the success message briefly (optional)
-      const timer = setTimeout(() => {
-        router.push('/archetype-discovery');
-      }, 1000); // 1 second delay
-      return () => clearTimeout(timer);
-    }
-  }, [isEverythingDone, router]);
+  // Removed archetype discovery redirect - user stays on success page
 
   const handleSubmit = async (e) => {
     if (e) e.preventDefault();
@@ -360,8 +352,7 @@ export default function ContactDetailsPage() {
 
   const showForm = !isLinkedInFlow || !linkedInEmail;
 
-  if (isEverythingDone && !isLinkedInFlow) { // Only show this intermediate for manual flow briefly
-    // For LinkedIn flow, we navigate directly. For manual, show final message then navigate.
+  if (isEverythingDone) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4">
         <motion.div
@@ -373,20 +364,9 @@ export default function ContactDetailsPage() {
           <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
           <h2 className="text-3xl font-bold mb-4">All Set!</h2>
           <p className="text-lg mb-6">Your fortune has been shared and your details recorded.</p>
-          <p className="text-md mb-6">Proceeding to your archetype discovery...</p>
+          <p className="text-md text-mw-gold">Thank you for using the MW Fortune Teller!</p>
         </motion.div>
       </div>
-    );
-  }
-  
-  // If it's LinkedIn flow and everything is done, user will be navigated by the useEffect.
-  // We might want a brief loading or message here if navigation isn't immediate.
-  if (isLinkedInFlow && isEverythingDone) {
-    return (
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4">
-            <p className="text-lg">Processing complete. Taking you to your archetype discovery...</p>
-            {/* Optional: Add a spinner here */}
-        </div>
     );
   }
 
