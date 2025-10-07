@@ -364,7 +364,13 @@ export default function ContactDetailsPage() {
           <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
           <h2 className="text-3xl font-bold mb-4">All Set!</h2>
           <p className="text-lg mb-6">Your fortune has been shared and your details recorded.</p>
-          <p className="text-md text-mw-gold">Thank you for using the MW Fortune Teller!</p>
+          <p className="text-md text-mw-gold mb-8">Thank you for using the MW Fortune Teller!</p>
+          <Button
+            onClick={() => router.push('/')}
+            className="bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 font-semibold px-6 py-3"
+          >
+            Start New Journey
+          </Button>
         </motion.div>
       </div>
     );
