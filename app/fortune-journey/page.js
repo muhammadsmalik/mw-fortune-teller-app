@@ -15,6 +15,7 @@ export default function FortuneJourneyPage() {
   const [currentStage, setCurrentStage] = useState('questionSelection'); // questionSelection, initialFortuneReveal, finalBlueprint
   const [selectedPersona, setSelectedPersona] = useState(null);
   const [selectedQuestions, setSelectedQuestions] = useState([]); // Combined - no more high/tactical split
+  const [selectedTarotCards, setSelectedTarotCards] = useState([]); // Tarot card IDs selected by user
   
   const [journeyFortuneData, setJourneyFortuneData] = useState(null);
   const [userInfo, setUserInfo] = useState(null);
@@ -174,12 +175,12 @@ export default function FortuneJourneyPage() {
     setCurrentStage('tarotCardSelection');
   };
 
-  // Keeping this for backward compatibility with TacticalCardSelection component (will remove in Phase 3)
+  // Handle tarot card selection
   const handleTacticalConfirmed = ({ scenarios }) => {
-    console.log('[FortuneJourneyPage] Tactical choices confirmed (legacy):', { scenarios });
-    setSelectedQuestions(scenarios);
-    localStorage.setItem('selectedScenarioIDs', JSON.stringify(scenarios));
-    console.log('[FortuneJourneyPage] All choices saved. Proceeding to final blueprint.');
+    console.log('[FortuneJourneyPage] Tarot cards selected:', { scenarios });
+    setSelectedTarotCards(scenarios);
+    localStorage.setItem('selectedTarotCards', JSON.stringify(scenarios));
+    console.log('[FortuneJourneyPage] Tarot cards saved. Proceeding to final blueprint.');
     setCurrentStage('finalBlueprint');
   };
 
@@ -251,6 +252,7 @@ export default function FortuneJourneyPage() {
           userInfo={userInfo}
           highLevelChoices={selectedQuestions}
           tacticalChoices={selectedQuestions}
+          selectedTarotCards={selectedTarotCards}
           persona={selectedPersona}
           onComplete={handleCompleteJourney}
           onBack={handleGoBack}

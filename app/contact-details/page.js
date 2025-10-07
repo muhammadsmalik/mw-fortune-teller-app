@@ -108,20 +108,33 @@ export default function ContactDetailsPage() {
         const fortune = JSON.parse(fortuneDataString);
         const parts = [];
 
-        if (fortune.openingStatement) {
-          parts.push(fortune.openingStatement);
+        // Legacy fortune format
+        if (fortune.openingLine) {
+          parts.push(fortune.openingLine);
         }
 
-        if (fortune.insight1 && fortune.insight1.challenge) {
-          parts.push(`\nChallenge: "${fortune.insight1.challenge}"\nInsight:\n${fortune.insight1.insight}`);
+        if (fortune.locationInsight) {
+          parts.push(`📍 ${fortune.locationInsight}`);
         }
 
-        if (fortune.insight2 && fortune.insight2.challenge) {
-          parts.push(`\nChallenge: "${fortune.insight2.challenge}"\nInsight:\n${fortune.insight2.insight}`);
+        if (fortune.audienceOpportunity) {
+          parts.push(`👀 ${fortune.audienceOpportunity}`);
         }
-        
+
+        if (fortune.engagementForecast) {
+          parts.push(`💥 ${fortune.engagementForecast}`);
+        }
+
+        if (fortune.transactionsPrediction) {
+          parts.push(`💸 ${fortune.transactionsPrediction}`);
+        }
+
+        if (fortune.aiAdvice) {
+          parts.push(`🔮 ${fortune.aiAdvice}`);
+        }
+
         if (parts.length > 0) {
-          textToShare = parts.join('\n');
+          textToShare = parts.join('\n\n');
           textToShare += `\n\n${movingWallsLink}`;
         } else {
           throw new Error("Parsed fortune object was empty or invalid.");

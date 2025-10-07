@@ -4,12 +4,24 @@ import { useEffect, useState, useMemo } from 'react';
 import { Button } from '@/components/ui/button';
 import { motion } from 'framer-motion';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
-import { Loader2, ArrowLeft, CheckCircle, Sparkles, BookOpen, Star } from 'lucide-react';
+import { Loader2, ArrowLeft, CheckCircle, Sparkles, BookOpen } from 'lucide-react';
 import allQuestions from '@/lib/persona_questions.json';
 import Image from 'next/image';
-import productMappingData from '@/public/product_mapping.json';
+import questionPlatformMapping from '@/lib/question_platform_mapping.json';
+import fortunePredictions from '@/lib/fortune_predictions.json';
 
-export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalChoices, persona, onComplete, onBack }) {
+// Tarot card definitions
+const tarotCards = {
+  architect: { name: 'The Architect', platform: 'Studio', image: 'architect.jpg' },
+  navigator: { name: 'The Navigator', platform: 'Planner', image: 'navigator.jpg' },
+  connector: { name: 'The Connector', platform: 'Influence', image: 'connector.jpg' },
+  magician: { name: 'The Magician', platform: 'Activate', image: 'magician.jpg' },
+  merchant: { name: 'The Merchant', platform: 'Market', image: 'merchant.jpg' },
+  judge: { name: 'The Judge', platform: 'Measure', image: 'judge.jpg' },
+  oracle: { name: 'The Oracle', platform: 'Science', image: 'oracle.jpg' },
+};
+
+export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalChoices, selectedTarotCards, persona, onComplete, onBack }) {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -18,65 +30,66 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
     return `${userInfo.fullName}'s Blueprint for DOOH Mastery`;
   }, [userInfo]);
 
-  const tacticalSolutions = useMemo(() => {
-    const personaPathConfig = {
-      brand_owner: { prefix: 'adv', folder: 'brand_owner' },
-      media_owner: { prefix: 'pub', folder: 'media_owner' },
-      media_agency: { prefix: 'plat', folder: 'media_agency' }
-    };
+  const tarotPredictions = useMemo(() => {
+    // Map card IDs to full objects with personalized predictions
+    const tarotCardIds = selectedTarotCards || [];
+    return tarotCardIds.slice(0, 2).map(cardId => {
+      const card = tarotCards[cardId];
+      if (!card) return null;
 
-    return tacticalChoices.map(id => {
-      const allPersonaQuestions = allQuestions[persona]?.questions || [];
-      const question = allPersonaQuestions.find(q => q.id === id);
-      const questionIndex = allPersonaQuestions.findIndex(q => q.id === id);
-      const config = personaPathConfig[persona];
+      const predictions = fortunePredictions[persona]?.[card.platform] || [];
 
-      let imagePath = null;
-      if (config && questionIndex !== -1) {
-        imagePath = `/tactical_cards/${config.folder}/${config.prefix}_${questionIndex + 1}.png`;
-      }
+      // Personalize predictions
+      const personalizedPredictions = predictions.map(pred =>
+        pred
+          .replace(/\$\{Name\}/g, userInfo?.fullName || 'Seeker')
+          .replace(/\$\{Company Name\}/g, userInfo?.companyName || 'Your Company')
+          .replace(/\$\{Industry\}/g, userInfo?.industryType || 'Your Industry')
+      );
 
       return {
-        id,
-        questionText: question ? question.text : 'Unknown Challenge',
-        solution: productMappingData[id],
-        imagePath
+        ...card,
+        predictions: personalizedPredictions
       };
-    });
-  }, [tacticalChoices, persona]);
+    }).filter(Boolean);
+  }, [selectedTarotCards, persona, userInfo]);
+
 
   const unselectedQuestions = useMemo(() => {
     return allQuestions[persona] ?
       allQuestions[persona].questions
         .filter(q => !tacticalChoices.includes(q.id))
-        .map(q => ({
-          id: q.id,
-          text: q.text,
-          solution: productMappingData[q.id] ? `Solution: ${productMappingData[q.id].productName}` : 'A mystery to be unraveled.'
-        }))
+        .map(q => {
+          const mapping = questionPlatformMapping[persona]?.[q.id];
+          const platform = mapping?.platform || 'Unknown Path';
+          const interpretation = mapping?.interpretation || 'A mystery to be unraveled.';
+
+          return {
+            id: q.id,
+            text: q.text,
+            solution: `Solution: ${platform} - ${interpretation}`
+          };
+        })
       : [];
   }, [tacticalChoices, persona]);
 
   const generateBlueprintHtml = () => {
     let html = `<h2 style="font-family: Arial, sans-serif; color: #1a202c; font-size: 22px; font-weight: bold;">${title}</h2>`;
     html += `<div style="margin-top: 20px;">`;
-    
-    html += `<h3 style="font-family: Arial, sans-serif; color: #2d3748; font-size: 18px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-top: 24px;">Your Chosen Solutions</h3>`;
-    html += '<div>';
-    tacticalSolutions.forEach(item => {
-      html += `<div style="margin-top: 16px; padding-bottom: 16px; border-bottom: 1px solid #edf2f7;">`;
-      html += `<h4 style="font-family: Arial, sans-serif; color: #2c5282; font-size: 16px; font-weight: bold; margin-bottom: 4px;">${item.solution.productName}</h4>`;
-      html += `<p style="font-family: Arial, sans-serif; color: #4a5568; font-style: italic; margin-bottom: 8px;">"${item.solution.oneLiner}"</p>`;
-      if (item.solution.features && item.solution.features.length > 0) {
-        html += `<ul style="list-style-type: none; padding-left: 0; margin-top: 8px;">`;
-        item.solution.features.forEach(feature => {
-          html += `<li style="font-family: Arial, sans-serif; color: #4a5568; font-size: 14px; margin-bottom: 4px;">- ${feature}</li>`;
+
+    // Add tarot cards section
+    if (tarotPredictions.length > 0) {
+      html += `<h3 style="font-family: Arial, sans-serif; color: #FEDA24; font-size: 18px; border-bottom: 2px solid #FEDA24; padding-bottom: 8px; margin-top: 24px;">Your Destiny Cards</h3>`;
+      tarotPredictions.forEach(card => {
+        html += `<div style="margin-top: 16px; padding-bottom: 16px;">`;
+        html += `<h4 style="font-family: Arial, sans-serif; color: #2c5282; font-size: 16px; font-weight: bold; margin-bottom: 4px;">${card.name}</h4>`;
+        html += `<ul style="list-style-type: disc; padding-left: 20px; margin-top: 8px;">`;
+        card.predictions.forEach(pred => {
+          html += `<li style="font-family: Arial, sans-serif; color: #4a5568; font-size: 14px; margin-bottom: 6px;">${pred}</li>`;
         });
-        html += `</ul>`;
-      }
-      html += `</div>`;
-    });
-    html += '</div>';
+        html += `</ul></div>`;
+      });
+    }
 
     if (unselectedQuestions.length > 0) {
         html += `<h3 style="font-family: Arial, sans-serif; color: #2d3748; font-size: 18px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-top: 24px;">Other Paths to Explore</h3>`;
@@ -148,59 +161,44 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
                 </CardHeader>
 
                 <CardContent className="p-8">
-                    <div className="space-y-12">
-                        {tacticalSolutions.map((item, index) => (
+                    {/* Tarot Cards Section */}
+                    {tarotPredictions.length > 0 && (
+                      <div className="mb-16 border-b border-mw-gold/20 pb-12">
+                        <h2 className="text-3xl font-bold text-mw-gold mb-8 text-center">
+                          Your Destiny Cards
+                        </h2>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                          {tarotPredictions.map((card, index) => (
                             <motion.div
-                                key={item.id}
-                                initial={{ opacity: 0, x: -30 }}
-                                animate={{ opacity: 1, x: 0 }}
-                                transition={{ delay: 0.5 + index * 0.2, duration: 0.5 }}
-                                className="grid grid-cols-1 md:grid-cols-4 gap-6 md:gap-8 items-center"
+                              key={card.platform}
+                              initial={{ opacity: 0, y: 20 }}
+                              animate={{ opacity: 1, y: 0 }}
+                              transition={{ delay: index * 0.2 }}
+                              className="flex flex-col items-center"
                             >
-                                {item.imagePath && (
-                                  <div className="md:col-span-1 flex justify-center">
-                                    <Image 
-                                      src={item.imagePath}
-                                      alt={`Tarot card for: ${item.questionText}`}
-                                      width={150}
-                                      height={225}
-                                      className="rounded-lg shadow-lg"
-                                    />
-                                  </div>
-                                )}
-                                <div className={item.imagePath ? "md:col-span-3" : "md:col-span-4"}>
-                                    <div className="flex items-start gap-4">
-                                        <div className="text-4xl">{item.solution.icon}</div>
-                                        <div>
-                                            {item.solution.platformPillar && (
-                                                <div className="mb-2">
-                                                    <span className={`inline-block px-3 py-1 text-xs font-semibold rounded-full ${
-                                                        item.solution.platformPillar === 'Measure' ? 'bg-blue-500/20 text-blue-300' :
-                                                        item.solution.platformPillar === 'Influence' ? 'bg-purple-500/20 text-purple-300' :
-                                                        'bg-teal-500/20 text-teal-300' // Automate
-                                                    }`}>
-                                                        {item.solution.platformPillar}
-                                                    </span>
-                                                </div>
-                                            )}
-                                            <h3 className="text-2xl font-bold text-mw-light-blue mb-2">{item.solution.productName}</h3>
-                                            <p className="text-mw-white/90 leading-relaxed italic mb-4">&ldquo;{item.solution.oneLiner}&rdquo;</p>
-                                            <div className="flex flex-wrap gap-2">
-                                                {item.solution.features.map(feature => (
-                                                    <div key={feature} className="flex items-center gap-1.5 bg-mw-dark-blue/40 text-mw-light-blue text-xs font-medium px-2 py-1 rounded-full">
-                                                        <Star className="h-3 w-3" />
-                                                        {feature}
-                                                    </div>
-                                                ))}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                              <Image
+                                src={`/tarot_cards/${card.image}`}
+                                alt={card.name}
+                                width={150}
+                                height={225}
+                                className="rounded-lg shadow-xl mb-4"
+                              />
+                              <h3 className="text-xl font-bold text-mw-light-blue mb-3">{card.name}</h3>
+                              <ul className="space-y-2 text-mw-white/90">
+                                {card.predictions.map((pred, idx) => (
+                                  <li key={idx} className="flex items-start gap-2">
+                                    <span className="text-mw-gold mt-1">•</span>
+                                    <span>{pred}</span>
+                                  </li>
+                                ))}
+                              </ul>
                             </motion.div>
-                        ))}
-                    </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
 
-                    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }} className="text-center mt-16 border-t border-mw-gold/20 pt-8">
+                    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} className="text-center mt-16 border-t border-mw-gold/20 pt-8">
                         <p className="text-lg text-mw-white/90 leading-relaxed">
                             Armed with this blueprint, you are poised to reshape the advertising landscape. Embrace the future, for the power to command attention is now yours.
                         </p>
