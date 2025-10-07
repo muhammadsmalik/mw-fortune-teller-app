@@ -271,9 +271,9 @@ export async function POST(req) {
          - ${isGenericLocation ? 'Reference their industry or business destiny.' : `Weave in ${geographicFocus} as their destined location`}
          - Make it sound like a fortune teller revealing destiny, not a business consultant
          - Examples:
-           * "The spirits whisper, ${fullName}... your path to ${question theme} and ${question theme} will soon illuminate the way forward."
-           * "Fate reveals, ${fullName}, that ${geographicFocus}'s screens await your ${question theme} mastery."
-           * "The Oracle sees ${fullName} of ${companyName} rising — ${question theme} and ${question theme} converging into destiny."
+           * "The spirits whisper, ${fullName}... your path to [question theme] and [question theme] will soon illuminate the way forward."
+           * "Fate reveals, ${fullName}, that ${geographicFocus}'s screens await your [question theme] mastery."
+           * "The Oracle sees ${fullName} of ${companyName} rising — [question theme] and [question theme] converging into destiny."
       ${locationInstruction}
       3. **BE CONCISE & READABLE:**
          - Opening statement: MAX 150 characters, mystical and prophetic
@@ -304,8 +304,8 @@ export async function POST(req) {
       ❌ "${fullName}, your leadership at ${companyName} is shaping the future." (Too dry, not mystical)
       ❌ "Let's explore OOH opportunities for you." (Business consultant tone, not fortune teller)
       **EXAMPLE OF WHAT TO DO:**
-      ✅ "The spirits whisper, ${fullName}... your journey to ${question theme} begins in ${geographicFocus}."
-      ✅ "Fate reveals that ${fullName} of ${companyName} will soon master both ${question theme} and ${question theme}."
+      ✅ "The spirits whisper, ${fullName}... your journey to [question theme] begins in ${geographicFocus}."
+      ✅ "Fate reveals that ${fullName} of ${companyName} will soon master both [question theme] and [question theme]."
       ✅ "The Oracle sees ${fullName}... Marina Bay's screens and AI's wisdom converging at your command."
       **Output Format:** Generate a JSON object with the exact structure specified in the schema. Make the opening statement ULTRA-CONCISE and MEMORABLE.
     `;
