@@ -67,7 +67,7 @@ export default function BlueprintDisplay({ userInfo, highLevelChoices, tacticalC
           return {
             id: q.id,
             text: q.text,
-            solution: `Solution: ${platform} - ${interpretation}`
+            solution: `Solution: Moving Walls ${platform} - ${interpretation}`
           };
         })
       : [];

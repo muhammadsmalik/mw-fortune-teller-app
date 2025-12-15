@@ -490,12 +490,12 @@ export default function ContactDetailsPage() {
       </Button>
       <Card className="w-full max-w-lg bg-card text-mw-white shadow-lg rounded-lg">
         <CardHeader>
-          <CardTitle className="text-2xl font-bold tracking-wide text-center">Keep Your Fortune & Connect!</CardTitle>
+          <CardTitle className="text-2xl font-bold tracking-wide text-center leading-snug text-mw-gold">Don&apos;t let your prophecy vanish into pixels.</CardTitle>
           <CardDescription className="text-mw-white/80 text-center pt-2">
             {isEverythingDone ? "Your details are saved & fortune sent! You can close this window." :
              isProcessing ? "Processing your information..." :
              isLinkedInFlow && linkedInEmail && !autoProcessAttempted ? "We found your email. We'll save your details and send your fortune automatically." :
-             "Enter your email to receive your personalized business fortune."}
+             "Enter your email to receive your personalised fortune and unlock deeper insights from Moving Walls."}
           </CardDescription>
         </CardHeader>
         <CardContent>
@@ -524,7 +524,7 @@ export default function ContactDetailsPage() {
                 ) : isEverythingDone ? (
                   'Fortune Sent! ✨'
                 ) : (
-                  'Send My Fortune & Email'
+                  'Receive My Business Fortune'
                 )}
               </Button>
             </form>

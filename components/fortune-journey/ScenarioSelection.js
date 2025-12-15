@@ -407,7 +407,7 @@ export default function ScenarioSelection({
                 The veil between worlds grows thin...
               </p>
               <p className="text-lg text-mw-white/80 mt-3">
-                Listen closely...
+                Listen closely and the answers shall unfold.
               </p>
             </motion.div>
           </motion.div>
