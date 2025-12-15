@@ -27,12 +27,12 @@ export default function WelcomeScreen() {
   const handleTimeUpdate = useCallback(() => {
     if (videoRef.current) {
       const currentTime = videoRef.current.currentTime;
-      
+
       // Find the phrase that should be displayed at current time
-      const activePhrase = transcript.find(item => 
+      const activePhrase = transcript.find(item =>
         currentTime >= item.start && currentTime <= item.end
       );
-      
+
       if (activePhrase) {
         setCurrentCaption(activePhrase.text);
       } else {
@@ -64,7 +64,7 @@ export default function WelcomeScreen() {
         setIsVideoPaused(true);
       });
       video.addEventListener('play', () => setIsVideoPaused(false));
-      
+
       return () => {
         video.removeEventListener('timeupdate', handleTimeUpdate);
         video.removeEventListener('ended', () => setCurrentCaption(''));
@@ -225,8 +225,10 @@ export default function WelcomeScreen() {
         </h1>
 
         {/* Sub-headline (Paragraph) */}
-        <p className="text-lg sm:text-xl text-mw-white/80 max-w-md">
-          Curious about what the future holds for your company? Let our Digital Fortune Teller provide a glimpse.
+        <p className="text-lg sm:text-xl text-mw-white/80 max-w-2xl">
+          Curious to know what's written in the stars for your business?
+          <br />
+          Let our Digital Fortune Teller offer a glimpse into your future.
         </p>
 
         {/* CTA Button - Moving Walls Styling */}
