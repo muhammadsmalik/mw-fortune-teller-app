@@ -304,7 +304,8 @@ export default function LinkedInInterludeScreen() {
         howlInstanceRef.current = null;
       }
     };
-  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]); // Removed isNarrating, added narrationError, apiError
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isLoadingPage, profileInfo, userManuallyInitiatedNarration, greetingHeardOnce, apiError, narrationError, checkForFortuneAndProceed]);
 
   // This useEffect loads the profile information to display and for narration text
   useEffect(() => {

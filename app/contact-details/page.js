@@ -318,6 +318,7 @@ export default function ContactDetailsPage() {
       }
     };
     attemptAutoProcess();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isLinkedInFlow, linkedInEmail, leadData, shareableFortuneText, isLeadSaved, isEmailSent, isProcessing, autoProcessAttempted, sendFortuneEmail, blueprintHtml]);
 
   useEffect(() => {
@@ -379,6 +380,7 @@ export default function ContactDetailsPage() {
       };
       autoSubmitAndEmail();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isLinkedInFlow, linkedInEmail, autoProcessAttempted, leadData, shareableFortuneText, sendFortuneEmail, blueprintHtml]);
 
   useEffect(() => {

@@ -163,6 +163,10 @@ export default function DisplayFortuneScreen() {
   }, [init]);
 
   useEffect(() => {
+    // Capture refs at the start for cleanup
+    const revealChime = revealChimeRef.current;
+    const ceoAudio = ceoAudioRef.current;
+
     if (!init || !audioPlaybackAllowed || !openingLineToNarrate || !hasPreRevealed) {
       if (openingLineToNarrate && !audioPlaybackAllowed && hasPreRevealed && narrationStage === 'idle') {
         console.log('[DisplayFortuneScreen] Opening line is ready, but waiting for user to enable sound for narration.');
@@ -319,22 +323,17 @@ export default function DisplayFortuneScreen() {
         howlNarrationRef.current.unload();
         howlNarrationRef.current = null;
       }
-      if (revealChimeRef.current) {
-        revealChimeRef.current.pause();
-        revealChimeRef.current.currentTime = 0;
+      if (revealChime) {
+        revealChime.pause();
+        revealChime.currentTime = 0;
       }
       // Cleanup CEO audio listeners if component unmounts while it might be playing
-      if (ceoAudioRef.current) {
-        // Define dummy handlers for removeEventListener if they weren't defined (e.g. if audio never played)
-        // This is a bit of a safeguard; ideally, listeners are added only when play starts.
-        // However, the main logic attaches them before play.
-        ceoAudioRef.current.removeEventListener('timeupdate', handleCeoTimeUpdate);
-        // We don't have direct refs to handleCeoAudioPlay, handleCeoAudioEnd, handleCeoAudioError here for removal
-        // This is okay because they are removed within themselves, or when audioEl is reassigned or component unmounts.
-        // The critical one is timeupdate.
+      if (ceoAudio) {
+        ceoAudio.removeEventListener('timeupdate', handleCeoTimeUpdate);
       }
     };
-  }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage, handleCeoTimeUpdate]); // Added handleCeoTimeUpdate
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage, handleCeoTimeUpdate]);
 
   useEffect(() => {
     if (narrationStage === 'transitioning') {

@@ -180,6 +180,10 @@ export default function DisplayFortune({
    * - Comprehensive error handling and logging
    */
   useEffect(() => {
+    // Capture refs at the start for cleanup
+    const revealChime = revealChimeRef.current;
+    const ceoAudio = ceoAudioRef.current;
+
     console.log('[DisplayFortune] Audio narration effect - conditions:', {
       init,
       audioPlaybackAllowed,
@@ -431,15 +435,16 @@ export default function DisplayFortune({
         howlNarrationRef.current.unload();
         howlNarrationRef.current = null;
       }
-      if (revealChimeRef.current) {
-        revealChimeRef.current.pause();
-        revealChimeRef.current.currentTime = 0;
+      if (revealChime) {
+        revealChime.pause();
+        revealChime.currentTime = 0;
       }
       // Cleanup CEO audio listeners if component unmounts during playback
-      if (ceoAudioRef.current) {
-        ceoAudioRef.current.removeEventListener('timeupdate', handleCeoTimeUpdate);
+      if (ceoAudio) {
+        ceoAudio.removeEventListener('timeupdate', handleCeoTimeUpdate);
       }
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [init, openingLineToNarrate, getAudioContext, audioPlaybackAllowed, hasPreRevealed, narrationStage, handleCeoTimeUpdate]);
 
   /**

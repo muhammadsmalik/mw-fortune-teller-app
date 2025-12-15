@@ -16,12 +16,12 @@ export default function WelcomeScreen() {
   const [isVideoPaused, setIsVideoPaused] = useState(true);
 
   // Transcript data organized into natural phrases for better readability
-  const transcript = [
+  const transcript = useMemo(() => [
     { text: "Welcome brand builder", start: 0, end: 1.92 },
     { text: "I'm the Moving Walls fortune teller", start: 2.16, end: 5.12 },
     { text: "Your next breakthrough", start: 5.28, end: 7.0 },
     { text: "...is one insight away", start: 7.0, end: 9.04 }
-  ];
+  ], []);
 
   // Handle video time updates for captions
   const handleTimeUpdate = useCallback(() => {
@@ -226,7 +226,7 @@ export default function WelcomeScreen() {
 
         {/* Sub-headline (Paragraph) */}
         <p className="text-lg sm:text-xl text-mw-white/80 max-w-2xl">
-          Curious to know what's written in the stars for your business?
+          Curious to know what&apos;s written in the stars for your business?
           <br />
           Let our Digital Fortune Teller offer a glimpse into your future.
         </p>
