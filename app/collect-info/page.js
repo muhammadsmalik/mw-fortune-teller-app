@@ -10,8 +10,9 @@ import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@
 import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import { Loader2, Mic, MicOff, ArrowLeft } from 'lucide-react';
+import { Loader2, Mic, MicOff, ArrowLeft, Upload, ChevronDown, ChevronUp } from 'lucide-react';
 import { Scanner } from '@yudiel/react-qr-scanner';
+import QrScanner from 'qr-scanner';
 import Image from 'next/image';
 
 export default function CollectInfoScreen() {
@@ -25,6 +26,9 @@ export default function CollectInfoScreen() {
   // --- LinkedIn Flow State ---
   const [linkedinUrl, setLinkedinUrl] = useState('');
   const [qrError, setQrError] = useState('');
+  const [isProcessingUpload, setIsProcessingUpload] = useState(false);
+  const fileInputRef = useRef(null);
+  const [showInstructions, setShowInstructions] = useState(false);
 
   // --- Manual Input Flow State ---
   const [fullName, setFullName] = useState('');
@@ -135,6 +139,36 @@ export default function CollectInfoScreen() {
         initiateLinkedInFlowAndRedirect(normalized); // Auto-proceed
       } else {
         setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
+      }
+    }
+  };
+
+  // --- QR Image Upload Handler ---
+  const handleFileUpload = async (event) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    setIsProcessingUpload(true);
+    setQrError('');
+
+    try {
+      const result = await QrScanner.scanImage(file, { returnDetailedScanResult: true });
+      const normalized = normalizeLinkedInUrl(result.data);
+
+      if (normalized) {
+        setLinkedinUrl(normalized);
+        initiateLinkedInFlowAndRedirect(normalized);
+      } else {
+        setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
+      }
+    } catch (error) {
+      console.error('QR scan error:', error);
+      setQrError('Couldn\'t read that QR code. Try a clearer image or paste your LinkedIn URL below.');
+    } finally {
+      setIsProcessingUpload(false);
+      // Reset file input so the same file can be selected again
+      if (fileInputRef.current) {
+        fileInputRef.current.value = '';
       }
     }
   };
@@ -281,7 +315,7 @@ export default function CollectInfoScreen() {
     <>
       <CardHeader className="text-center">
         <CardTitle className="text-mw-white font-bold tracking-wide text-2xl sm:text-3xl">
-          Your Digital Destiny Awaits.
+          Your Digital Destiny Awaits!
         </CardTitle>
         <CardDescription className="text-mw-white/80 text-sm sm:text-base pt-2">
           Scan your LinkedIn QR code to spark your future.
@@ -291,25 +325,70 @@ export default function CollectInfoScreen() {
         <div className="w-full max-w-xs sm:max-w-sm rounded-lg overflow-hidden">
           <Scanner
             onScan={handleScan}
-            onError={err => setQrError(`Looks like the camera\'s on a coffee break. ${err?.message || 'Unknown error'}`)}
+            onError={() => setQrError('Looks like the camera\'s on a coffee break! Grant camera access or upload your QR manually to continue the magic.')}
             styles={{ container: { width: '100%' }, video: { width: '100%', transform: "scaleX(-1)" } }}
             options={{ delayBetweenScanAttempts: 100, delayBetweenScanSuccess: 500 }}
           />
         </div>
-        {qrError && <div className="text-red-400 text-xs mt-2 text-center">{qrError}</div>}
-        <div className="text-xs text-mw-white/70 mt-4 space-y-2 text-center px-2">
-          <p className="font-semibold text-sm">QR Code? Here&apos;s your treasure map!</p>
-          <p>Ready to uncover it? Follow these steps:</p>
-          <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80">
-            <li>Open the LinkedIn mobile app.</li>
-            <li>Tap the search bar at the top.</li>
-            <li>Look for the QR code icon on the right side.</li>
-            <li>Tap it, then select &quot;My Code&quot; to display your QR.</li>
-          </ol>
-        </div>
-        <Button variant="link" onClick={() => setCurrentFlow('manual')} className="text-mw-light-blue mt-4">
-          No LinkedIn QR? Enter details manually.
+
+        {/* Upload QR Button */}
+        <input
+          type="file"
+          ref={fileInputRef}
+          onChange={handleFileUpload}
+          accept="image/*"
+          className="hidden"
+        />
+        <Button
+          variant="outline"
+          onClick={() => fileInputRef.current?.click()}
+          disabled={isProcessingUpload || isGenerating}
+          className="mt-2 border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10"
+        >
+          {isProcessingUpload ? (
+            <><Loader2 className="mr-2 h-4 w-4 animate-spin" /> Processing...</>
+          ) : (
+            <><Upload className="mr-2 h-4 w-4" /> Upload QR Image</>
+          )}
         </Button>
+
+        {qrError && <div className="text-red-400 text-xs mt-2 text-center">{qrError}</div>}
+
+        <div className="w-full max-w-xs sm:max-w-sm mt-4">
+          <p className="text-mw-white/70 text-sm text-center mb-2">Or paste your LinkedIn profile URL:</p>
+          <Input
+            type="url"
+            placeholder="https://www.linkedin.com/in/yourprofile"
+            value={linkedinUrl}
+            onChange={(e) => setLinkedinUrl(e.target.value)}
+            className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
+          />
+        </div>
+
+        <div className="text-xs text-mw-white/70 mt-4 text-center px-2">
+          <button
+            type="button"
+            onClick={() => setShowInstructions(!showInstructions)}
+            className="font-semibold text-sm text-mw-light-blue hover:text-mw-gold flex items-center justify-center mx-auto gap-1 transition-colors"
+          >
+            Can&apos;t find your LinkedIn QR? Here&apos;s your treasure map
+            {showInstructions ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+          </button>
+          {showInstructions && (
+            <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80 mt-2">
+              <li>Open the LinkedIn app on your phone.</li>
+              <li>Tap the search bar at the top.</li>
+              <li>Tap the QR icon on the right.</li>
+              <li>Choose &quot;My Code&quot; to display your QR.</li>
+            </ol>
+          )}
+        </div>
+        <div className="mt-4 text-center">
+          <p className="text-mw-white/70 text-sm">Don&apos;t have access to LinkedIn? No worries.</p>
+          <Button variant="link" onClick={() => setCurrentFlow('manual')} className="text-mw-light-blue">
+            Tap Here to Enter details manually.
+          </Button>
+        </div>
       </CardContent>
       <CardFooter className="flex flex-col items-center pt-6">
         <Button

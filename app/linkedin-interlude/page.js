@@ -564,6 +564,9 @@ export default function LinkedInInterludeScreen() {
                     priority
                   />
                   <div className="absolute inset-x-0 bottom-0 p-10 flex flex-col items-center justify-end bg-gradient-to-t from-black/60 via-black/30 to-transparent">
+                    <p className="text-lg md:text-xl text-mw-white/90 mb-2 drop-shadow-lg text-center italic">
+                      Behind this door lies your marketing fate…
+                    </p>
                     <p className="text-2xl md:text-3xl font-semibold text-mw-light-blue group-hover:text-mw-gold transition-colors duration-150 drop-shadow-lg text-center">
                       Tap on the door to reveal
                     </p>

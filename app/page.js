@@ -242,7 +242,7 @@ export default function WelcomeScreen() {
                      rounded-lg shadow-lg transform transition-all duration-150 \
                      hover:shadow-xl hover:-translate-y-0.5 active:scale-95"
         >
-          Reveal My Fortune!
+          Tap Here To Reveal Your Fortune
         </Button>
       </main>
       <BrandFooter />
