@@ -123,7 +123,7 @@ async function generateFortuneWithOpenAI(prompt, schema) {
       messages: [
         {
           role: "system",
-          content: "You are a business fortune teller. Generate a fortune in JSON format according to the provided schema. Ensure all fields in the schema are populated with creative, insightful, and specific content as described in their respective descriptions. Adhere to emoji usage specified in field descriptions."
+          content: "You are a business fortune teller. Generate a fortune in JSON format according to the provided schema. Ensure all fields in the schema are populated with creative, insightful, and specific content as described in their respective descriptions. Adhere to emoji usage specified in field descriptions. IMPORTANT: Use British English spellings throughout (e.g., 'optimise' not 'optimize', 'maximise' not 'maximize', 'analyse' not 'analyze', 'colour' not 'color', 'behaviour' not 'behavior', 'centre' not 'center', 'realise' not 'realize')."
         },
         { role: "user", content: prompt }
       ],
@@ -256,6 +256,8 @@ ${businessObjective ? `Ensure the 'engagementForecast', 'transactionsPrediction'
 The entire fortune must be extremely concise. When the text from all fields is read sequentially, it should ideally form a cohesive message of about 4-5 short lines. Prioritize impactful brevity and high originality for each individual field. Strive to weave in a subtle, creative, and non-obvious reference to their specific '${industryType}' if it feels natural within the mystical tone.
 
 DO NOT include emojis in any of the insight fields - emojis will be added by the frontend display.
+
+IMPORTANT: Use British English spellings throughout all generated content (e.g., 'optimise' not 'optimize', 'maximise' not 'maximize', 'analyse' not 'analyze', 'colour' not 'color', 'behaviour' not 'behavior', 'centre' not 'center', 'realise' not 'realize', 'organisation' not 'organization').
 
 Company Context (Moving Walls - the provider of this fortune):
 Moving Walls is a global advertising technology leader spearheading the digital transformation of Out-of-Home (OOH) media. We empower media owners and advertisers to thrive in this evolving landscape by:

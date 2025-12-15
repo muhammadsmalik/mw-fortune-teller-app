@@ -7,7 +7,7 @@
       "howMWHelps": [
         {
           "icon": "💻",
-          "text": "Self-Serve Booking Platform (via LMX): Monetize long-tail advertisers by allowing them to book and manage campaigns directly."
+          "text": "Self-Serve Booking Platform (via LMX): Monetise long-tail advertisers by allowing them to book and manage campaigns directly."
         },
         {
           "icon": "🖥️",
@@ -25,11 +25,11 @@
     "id": "gen_s2",
     "displayText": "If I suddenly had unlimited budget, I'd want to know which tech investment would give me the biggest competitive edge.",
     "details": {
-      "subQuestion": "Should I prioritize a platform like LMX to streamline and scale my operations?",
+      "subQuestion": "Should I prioritise a platform like LMX to streamline and scale my operations?",
       "howMWHelps": [
         {
           "icon": "🚀",
-          "text": "LMX Platform: Centralizes all your inventory, standardizes media packs, enables programmatic access, and plugs into global demand platforms."
+          "text": "LMX Platform: Centralises all your inventory, standardises media packs, enables programmatic access, and plugs into global demand platforms."
         },
         {
           "icon": "🧩",
@@ -99,7 +99,7 @@
         },
         {
           "icon": "🔄",
-          "text": "Yield Optimization Tools: Dynamically fill underutilized inventory or prioritize high-value campaigns."
+          "text": "Yield Optimisation Tools: Dynamically fill underutilised inventory or prioritise high-value campaigns."
         }
       ],
       "businessImpact": "This transforms your inventory into high-performance media. You're no longer just selling space—you're delivering verified outcomes that justify higher pricing."
@@ -124,14 +124,14 @@
           "text": "Attribution Tools: Prove ROI via footfall lift, brand recall, or purchase intent."
         }
       ],
-      "businessImpact": "Repeat advertisers increase lifetime value and stabilize revenue cycles."
+      "businessImpact": "Repeat advertisers increase lifetime value and stabilise revenue cycles."
     }
   },
   {
     "id": "mo_q2",
-    "displayText": "How do I optimize my inventory pricing and utilization?",
+    "displayText": "How do I optimise my inventory pricing and utilisation?",
     "details": {
-      "subQuestion": "How can I optimize inventory pricing?",
+      "subQuestion": "How can I optimise inventory pricing?",
       "howMWHelps": [
         {
           "icon": "💰",
@@ -168,7 +168,7 @@
           "text": "Audience Packaging: Bundle screens with audience data for digital buyers."
         }
       ],
-      "businessImpact": "Access to new budget pools and buyers modernizes sales channels."
+      "businessImpact": "Access to new budget pools and buyers modernises sales channels."
     }
   },
   {
@@ -217,7 +217,7 @@
   },
   {
     "id": "mo_q6",
-    "displayText": "What new innovations or monetization models can I explore?",
+    "displayText": "What new innovations or monetisation models can I explore?",
     "details": {
       "subQuestion": "What new opportunities exist for media owners?",
       "howMWHelps": [
@@ -227,7 +227,7 @@
         },
         {
           "icon": "📊",
-          "text": "Data Monetization: Package footfall or location analytics as a service."
+          "text": "Data Monetisation: Package footfall or location analytics as a service."
         },
         {
           "icon": "🧠",
@@ -249,11 +249,11 @@
         },
         {
           "icon": "📈",
-          "text": "Attribution Studies: Show impact on footfall, recall, or behavior change."
+          "text": "Attribution Studies: Show impact on footfall, recall, or behaviour change."
         },
         {
           "icon": "📍",
-          "text": "Post-Campaign Insights: Visualize who saw the ads and where."
+          "text": "Post-Campaign Insights: Visualise who saw the ads and where."
         }
       ],
       "businessImpact": "Stronger results lead to client retention and upselling opportunities."
@@ -261,9 +261,9 @@
   },
   {
     "id": "ag_q2",
-    "displayText": "How do I optimize campaign delivery and pricing?",
+    "displayText": "How do I optimise campaign delivery and pricing?",
     "details": {
-      "subQuestion": "How to optimize pricing and campaign performance?",
+      "subQuestion": "How to optimise pricing and campaign performance?",
       "howMWHelps": [
         {
           "icon": "⚙️",
@@ -275,10 +275,10 @@
         },
         {
           "icon": "🗺️",
-          "text": "Location Ranking: Prioritize sites based on audience fit and past results."
+          "text": "Location Ranking: Prioritise sites based on audience fit and past results."
         }
       ],
-      "businessImpact": "Better optimization drives results and ensures client satisfaction."
+      "businessImpact": "Better optimisation drives results and ensures client satisfaction."
     }
   },
   {
@@ -341,7 +341,7 @@
         },
         {
           "icon": "📦",
-          "text": "Data Centralization: Access inventory, audiences, and performance in one place."
+          "text": "Data Centralisation: Access inventory, audiences, and performance in one place."
         }
       ],
       "businessImpact": "Streamlined workflows improve margins and delivery timelines."

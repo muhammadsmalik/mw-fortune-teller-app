@@ -229,8 +229,8 @@ export default function FortuneJourneyPage() {
         <ScenarioSelectionComponent
           onScenariosConfirmed={handleQuestionConfirmed}
           onBack={handleGoBack}
-          title="What Challenges Guide Your Path?"
-          subtitle="Choose the two that matter most to reveal your strategic fortune."
+          title="Every seeker walks a different path. Which one is yours?"
+          subtitle="I already sense your choice… prove me right."
           ctaLabel="Reveal My Fortune"
         />
       );

@@ -22,8 +22,8 @@
   "media_agency": {
     "questions": [
       { "id": "plat_t1", "text": "Which screens deliver the best ROI for my clients?" },
-      { "id": "plat_t2", "text": "How can I manage multiple campaigns across channels easily?" },
-      { "id": "plat_t3", "text": "How can I optimize in-flight performance for OOH?" },
+      { "id": "plat_t2", "text": "How can I orchestrate campaigns seamlessly across channels?" },
+      { "id": "plat_t3", "text": "How can I optimise in-flight performance for OOH?" },
       { "id": "plat_t4", "text": "Where can I access premium inventory instantly?" },
       { "id": "plat_t5", "text": "How can I prove OOH effectiveness with data?" },
       { "id": "plat_t6", "text": "What's the next big AI shift in campaign planning?" }
