@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -24,7 +24,57 @@ import {
 import { Mail, Loader2, AlertCircle, CheckCircle2, ArrowLeft } from 'lucide-react';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { CheckCircle } from 'lucide-react';
+import { CheckCircle, ExternalLink } from 'lucide-react';
+
+// Product links for MW ecosystem
+const PRODUCT_LINKS = {
+  Studio: {
+    name: 'Studio',
+    url: 'https://studio.movingwalls.com/',
+    description: 'Your Digital Front Door for OOH inventory management',
+  },
+  Planner: {
+    name: 'Planner',
+    url: 'https://mw-planner-landingpage.replit.app/landing',
+    description: 'Data-driven campaign strategy and planning',
+  },
+  Market: {
+    name: 'Market',
+    url: 'https://market.movingwalls.com/',
+    description: 'Self-serve OOH booking marketplace',
+  },
+  Activate: {
+    name: 'Activate',
+    url: 'https://mw-activate-landing-page.replit.app/',
+    description: 'Launch campaigns at the speed of light',
+  },
+  Influence: {
+    name: 'Influence',
+    url: 'https://mw-influence-landing-page.replit.app/',
+    description: 'Dynamic deals for dynamic inventory',
+  },
+  Measure: {
+    name: 'Measure',
+    url: 'https://mw-measure-landingpage.replit.app/',
+    description: 'Proof of performance, automated',
+  },
+  Science: {
+    name: 'Science',
+    url: 'https://moving-walls-science-suraj95.replit.app/',
+    description: 'Your AI campaign co-pilot',
+  },
+};
+
+// Map tarot card IDs to platform names
+const TAROT_TO_PLATFORM = {
+  architect: 'Studio',
+  navigator: 'Planner',
+  connector: 'Influence',
+  magician: 'Activate',
+  merchant: 'Market',
+  judge: 'Measure',
+  oracle: 'Science',
+};
 
 export default function ContactDetailsPage() {
   const router = useRouter();
@@ -66,6 +116,23 @@ export default function ContactDetailsPage() {
     city: '',
     country: '',
   });
+
+  // Compute recommended products based on selected tarot cards
+  const { recommendedProducts, otherProducts } = useMemo(() => {
+    const recommendedPlatforms = selectedTarotCards
+      .map(cardId => TAROT_TO_PLATFORM[cardId])
+      .filter(Boolean);
+
+    const allPlatforms = Object.keys(PRODUCT_LINKS);
+    const recommended = allPlatforms
+      .filter(platform => recommendedPlatforms.includes(platform))
+      .map(platform => PRODUCT_LINKS[platform]);
+    const others = allPlatforms
+      .filter(platform => !recommendedPlatforms.includes(platform))
+      .map(platform => PRODUCT_LINKS[platform]);
+
+    return { recommendedProducts: recommended, otherProducts: others };
+  }, [selectedTarotCards]);
 
   // Helper to avoid dumping huge payloads in logs
   const summarizeLeadPayload = (p) => ({
@@ -458,17 +525,72 @@ export default function ContactDetailsPage() {
 
   if (isEverythingDone) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4">
+      <div className="min-h-screen flex flex-col items-center bg-gradient-to-br from-mw-dark-navy to-mw-purple text-white p-4 py-12 overflow-y-auto">
         <motion.div
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
-          className="bg-white/10 backdrop-blur-md p-8 rounded-xl shadow-2xl text-center max-w-lg"
+          className="bg-white/10 backdrop-blur-md p-8 rounded-xl shadow-2xl text-center max-w-4xl w-full"
         >
           <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
           <h2 className="text-3xl font-bold mb-4">All Set!</h2>
-          <p className="text-lg mb-6">Your fortune has been shared and your details recorded.</p>
+          <p className="text-lg mb-2">Your fortune has been shared and your details recorded.</p>
           <p className="text-md text-mw-gold mb-8">Thank you for using the MW Fortune Teller!</p>
+
+          {/* Recommended Products Section */}
+          {recommendedProducts.length > 0 && (
+            <div className="mb-8">
+              <h3 className="text-xl font-semibold text-mw-gold mb-4">Your Recommended Solutions</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {recommendedProducts.map((product, index) => (
+                  <motion.a
+                    key={product.name}
+                    href={product.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: index * 0.1 }}
+                    className="block p-4 rounded-lg bg-mw-gold/20 border-2 border-mw-gold hover:bg-mw-gold/30 transition-colors text-left"
+                  >
+                    <div className="flex items-center justify-between mb-2">
+                      <span className="font-bold text-mw-gold">{product.name}</span>
+                      <ExternalLink className="w-4 h-4 text-mw-gold" />
+                    </div>
+                    <p className="text-sm text-white/80">{product.description}</p>
+                  </motion.a>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Other Products Section */}
+          {otherProducts.length > 0 && (
+            <div className="mb-8">
+              <h3 className="text-lg font-semibold text-mw-light-blue mb-4">Explore More Solutions</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                {otherProducts.map((product, index) => (
+                  <motion.a
+                    key={product.name}
+                    href={product.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: (recommendedProducts.length + index) * 0.1 }}
+                    className="block p-3 rounded-lg bg-white/5 border border-mw-light-blue/30 hover:bg-white/10 transition-colors text-left"
+                  >
+                    <div className="flex items-center justify-between mb-1">
+                      <span className="font-semibold text-mw-light-blue">{product.name}</span>
+                      <ExternalLink className="w-3 h-3 text-mw-light-blue/70" />
+                    </div>
+                    <p className="text-xs text-white/70">{product.description}</p>
+                  </motion.a>
+                ))}
+              </div>
+            </div>
+          )}
+
           <Button
             onClick={() => router.push('/')}
             className="bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 font-semibold px-6 py-3"
