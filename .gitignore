@@ -56,6 +56,10 @@ combined_linkedin_data.txt
 # auto-generated meeting notes
 *Notes by Gemini.md
 
-# from MASTER_DOCS
+# local planning docs (kept local, not committed)
 ARCHETYPE_TWINNING_INVESTIGATION.md
 SELF_SERVICE_BACKLOG.md
+
+# twinning pipeline generated state (rebuildable via `node scripts/twin-tracker.mjs init`)
+scripts/twins.json
+scripts/enriched_attendees.json
