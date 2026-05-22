@@ -52,3 +52,14 @@ combine_linkedin_data.js
 combined_linkedin_data.txt
 
 .cursor/n8n-TEMPLATES
+
+# auto-generated meeting notes
+*Notes by Gemini.md
+
+# local planning docs (kept local, not committed)
+ARCHETYPE_TWINNING_INVESTIGATION.md
+SELF_SERVICE_BACKLOG.md
+
+# twinning pipeline generated state (rebuildable via `node scripts/twin-tracker.mjs init`)
+scripts/twins.json
+scripts/enriched_attendees.json
