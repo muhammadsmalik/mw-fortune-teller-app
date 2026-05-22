@@ -23,7 +23,7 @@ export default function CollectInfoScreen() {
   const [currentFlow, setCurrentFlow] = useState('linkedin'); // Default to LinkedIn flow
 
   // --- LinkedIn Flow State ---
-  const [linkedinUrl, setLinkedinUrl] = useState('');
+  const [linkedinSlug, setLinkedinSlug] = useState('');
   const [qrError, setQrError] = useState('');
   const [isProcessingUpload, setIsProcessingUpload] = useState(false);
   const fileInputRef = useRef(null);
@@ -138,7 +138,6 @@ export default function CollectInfoScreen() {
       const normalized = normalizeLinkedInUrl(result.data);
 
       if (normalized) {
-        setLinkedinUrl(normalized);
         initiateLinkedInFlowAndRedirect(normalized);
       } else {
         setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
@@ -251,12 +250,34 @@ export default function CollectInfoScreen() {
     </Button>
   );
 
+  // --- Stub-prefilled username helpers ---
+  // The user only types the slug after a fixed "linkedin.com/in/" stub. We still
+  // accept a pasted full/partial URL and reduce it to just the slug, since modern
+  // LinkedIn usernames can contain numbers and other characters.
+  const handleSlugChange = (raw) => {
+    setQrError('');
+    let v = (raw || '').trim();
+    const m = v.match(/\/in\/([^/?#\s]+)/i);
+    if (m) {
+      v = m[1];
+    } else {
+      v = v
+        .replace(/^https?:\/\//i, '')
+        .replace(/^(www\.)?linkedin\.com\/in\//i, '')
+        .replace(/^\/+/, '');
+    }
+    setLinkedinSlug(v.replace(/\/+$/, ''));
+  };
+
+  const cleanedSlug = linkedinSlug.trim();
+  const builtLinkedInUrl = cleanedSlug ? `https://www.linkedin.com/in/${cleanedSlug}` : '';
+
   // --- Combined Proceed Handler ---
   const handleProceed = async () => {
     // For LinkedIn flow, this button is now a fallback or for manual URL entry
     if (currentFlow === 'linkedin') {
       // We call the same refactored function
-      await initiateLinkedInFlowAndRedirect(linkedinUrl);
+      await initiateLinkedInFlowAndRedirect(builtLinkedInUrl);
     } else if (currentFlow === 'manual') {
       // Manual flow logic remains here as it doesn't auto-trigger
       setIsGenerating(true);
@@ -328,14 +349,21 @@ export default function CollectInfoScreen() {
         {qrError && <div className="text-red-400 text-xs mt-2 text-center">{qrError}</div>}
 
         <div className="w-full max-w-xs sm:max-w-sm mt-4">
-          <p className="text-mw-white/70 text-sm text-center mb-2">Or paste your LinkedIn profile URL:</p>
-          <Input
-            type="url"
-            placeholder="https://www.linkedin.com/in/yourprofile"
-            value={linkedinUrl}
-            onChange={(e) => setLinkedinUrl(e.target.value)}
-            className="bg-input text-mw-white placeholder:text-mw-white/50 border-border focus:ring-ring"
-          />
+          <p className="text-mw-white/70 text-sm text-center mb-2">Or enter your LinkedIn username:</p>
+          <div className="flex items-center rounded-md border border-border bg-input overflow-hidden focus-within:ring-1 focus-within:ring-ring">
+            <span className="pl-3 pr-0.5 py-2 text-mw-white/50 text-sm select-none whitespace-nowrap">linkedin.com/in/</span>
+            <input
+              type="text"
+              autoCapitalize="none"
+              autoCorrect="off"
+              autoComplete="off"
+              spellCheck={false}
+              placeholder="your-name"
+              value={linkedinSlug}
+              onChange={(e) => handleSlugChange(e.target.value)}
+              className="flex-1 min-w-0 bg-transparent text-mw-white placeholder:text-mw-white/40 py-2 pr-3 text-sm focus:outline-none"
+            />
+          </div>
         </div>
 
         <div className="text-xs text-mw-white/70 mt-4 text-center px-2">
@@ -367,7 +395,7 @@ export default function CollectInfoScreen() {
       <CardFooter className="flex flex-col items-center pt-6">
         <Button
           onClick={handleProceed}
-          disabled={isGenerating || !isValidLinkedIn(linkedinUrl)}
+          disabled={isGenerating || !isValidLinkedIn(builtLinkedInUrl)}
           size="lg"
           className="w-full px-10 py-7 text-xl font-bold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
         >
