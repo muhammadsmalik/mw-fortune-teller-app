@@ -52,3 +52,6 @@ combine_linkedin_data.js
 combined_linkedin_data.txt
 
 .cursor/n8n-TEMPLATES
+
+# auto-generated meeting notes
+*Notes by Gemini.md
