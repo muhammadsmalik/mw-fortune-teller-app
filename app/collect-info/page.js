@@ -11,7 +11,6 @@ import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { Loader2, Mic, MicOff, ArrowLeft, Upload, ChevronDown, ChevronUp } from 'lucide-react';
-import { Scanner } from '@yudiel/react-qr-scanner';
 import QrScanner from 'qr-scanner';
 import Image from 'next/image';
 
@@ -123,23 +122,6 @@ export default function CollectInfoScreen() {
       console.error("Error during LinkedIn flow initiation:", error);
       setQrError('A mystical mishap occurred! Please try again, or use the button below.');
       setIsGenerating(false); // Reset on error
-    }
-  };
-
-  const handleScan = (result) => {
-    if (isGenerating) return; // Prevent re-entry if already processing scan/proceed
-
-    console.log('QR Scanner raw result:', result);
-    if (result && Array.isArray(result) && result.length > 0) {
-      const value = result[0]?.rawValue || result[0]?.value || result[0];
-      const normalized = typeof value === 'string' ? normalizeLinkedInUrl(value) : null;
-      if (normalized) {
-        setLinkedinUrl(normalized); // Update UI input for visibility
-        // setQrError(''); // Moved to initiateLinkedInFlowAndRedirect
-        initiateLinkedInFlowAndRedirect(normalized); // Auto-proceed
-      } else {
-        setQrError('That QR code\'s having an identity crisis. Got a LinkedIn one?');
-      }
     }
   };
 
@@ -318,20 +300,11 @@ export default function CollectInfoScreen() {
           Your Digital Destiny Awaits!
         </CardTitle>
         <CardDescription className="text-mw-white/80 text-sm sm:text-base pt-2">
-          Scan your LinkedIn QR code to spark your future.
+          Upload your LinkedIn QR code, or paste your profile link to spark your future.
         </CardDescription>
       </CardHeader>
       <CardContent className="space-y-4 pt-6 flex flex-col items-center">
-        <div className="w-full max-w-xs sm:max-w-sm rounded-lg overflow-hidden">
-          <Scanner
-            onScan={handleScan}
-            onError={() => setQrError('Looks like the camera\'s on a coffee break! Grant camera access or upload your QR manually to continue the magic.')}
-            styles={{ container: { width: '100%' }, video: { width: '100%', transform: "scaleX(-1)" } }}
-            options={{ delayBetweenScanAttempts: 100, delayBetweenScanSuccess: 500 }}
-          />
-        </div>
-
-        {/* Upload QR Button */}
+        {/* Upload QR Image — primary self-service path */}
         <input
           type="file"
           ref={fileInputRef}
@@ -340,15 +313,15 @@ export default function CollectInfoScreen() {
           className="hidden"
         />
         <Button
-          variant="outline"
           onClick={() => fileInputRef.current?.click()}
           disabled={isProcessingUpload || isGenerating}
-          className="mt-2 border-mw-light-blue text-mw-light-blue hover:bg-mw-light-blue/10"
+          size="lg"
+          className="w-full max-w-xs sm:max-w-sm px-8 py-6 text-lg font-bold bg-gradient-to-r from-[#FEDA24] to-[#FAAE25] text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg transform transition-all duration-150 hover:shadow-xl hover:-translate-y-0.5 active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
         >
           {isProcessingUpload ? (
-            <><Loader2 className="mr-2 h-4 w-4 animate-spin" /> Processing...</>
+            <><Loader2 className="mr-2 h-5 w-5 animate-spin" /> Processing...</>
           ) : (
-            <><Upload className="mr-2 h-4 w-4" /> Upload QR Image</>
+            <><Upload className="mr-2 h-5 w-5" /> Upload LinkedIn QR Image</>
           )}
         </Button>
 
@@ -371,15 +344,16 @@ export default function CollectInfoScreen() {
             onClick={() => setShowInstructions(!showInstructions)}
             className="font-semibold text-sm text-mw-light-blue hover:text-mw-gold flex items-center justify-center mx-auto gap-1 transition-colors"
           >
-            Can&apos;t find your LinkedIn QR? Here&apos;s your treasure map
+            New to this? How to find &amp; save your LinkedIn QR
             {showInstructions ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
           </button>
           {showInstructions && (
-            <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80 mt-2">
-              <li>Open the LinkedIn app on your phone.</li>
-              <li>Tap the search bar at the top.</li>
+            <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80 mt-2 space-y-1">
+              <li>Open the LinkedIn app and tap the search bar at the top.</li>
               <li>Tap the QR icon on the right.</li>
               <li>Choose &quot;My Code&quot; to display your QR.</li>
+              <li>Screenshot it (or tap Save) to add it to your photos.</li>
+              <li>Come back here, tap &quot;Upload LinkedIn QR Image&quot;, and pick that screenshot.</li>
             </ol>
           )}
         </div>
