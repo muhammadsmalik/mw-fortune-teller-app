@@ -29,6 +29,7 @@
 
 import 'dotenv/config';
 import { Resend } from 'resend';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 1. THE MEDIA OWNER  →  replace these fields with one real RSVP attendee.
@@ -102,19 +103,22 @@ const BANNED_PHRASES = [
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Gemini / Vertex setup
+// Gemini setup — @google/generative-ai SDK (Developer API, AIza key)
 // ─────────────────────────────────────────────────────────────────────────────
 const API_KEY = process.env.GOOGLE_GENERATIVE_AI_API_KEY || process.env.GEMINI_API_KEY;
-const MODEL_NAME = process.env.GEMINI_MODEL_NAME || 'gemini-3.1-flash-lite-preview';
-// Vertex AI publisher endpoint with API-key auth ("express mode"). This bills
-// the GCP project tied to the key (where the $300 credit lives) — NOT the
-// generativelanguage.googleapis.com Developer API (separate, empty prepay pool).
-const VERTEX_BASE = 'https://aiplatform.googleapis.com/v1/publishers/google/models';
+const MODEL_NAME = process.env.GEMINI_MODEL_NAME || 'gemini-2.5-flash';
 
 if (!API_KEY) {
   console.error('\n✗ No Gemini key. Set GOOGLE_GENERATIVE_AI_API_KEY (or GEMINI_API_KEY) in .env and re-run.\n');
   process.exit(1);
 }
+
+const genAI = new GoogleGenerativeAI(API_KEY);
+const model = genAI.getGenerativeModel({
+  model: MODEL_NAME,
+  tools: [{ googleSearch: {} }],
+  generationConfig: { temperature: 0.3 },
+});
 
 const profileBlock = `
 - Name: ${PROFILE.fullName}
@@ -149,24 +153,14 @@ function extractJson(text) {
   return JSON.parse(raw.slice(start, end + 1));
 }
 
-// Vertex call → { text, sources, queries }. Captures grounding for Layer 2.
+// SDK call → { text, sources, queries }. Captures grounding for Layer 2.
 async function ask(prompt) {
-  const url = `${VERTEX_BASE}/${MODEL_NAME}:generateContent?key=${API_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      tools: [{ googleSearch: {} }],
-      generationConfig: { temperature: 0.3 },
-    }),
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error(`Vertex ${res.status}: ${JSON.stringify(data?.error || data).slice(0, 400)}`);
-  const cand = data?.candidates?.[0];
+  const result = await model.generateContent(prompt);
+  const resp = result.response;
+  const cand = resp?.candidates?.[0];
   const parts = cand?.content?.parts || [];
   const text = parts.map((p) => p.text).filter(Boolean).join('');
-  if (!text) throw new Error('Empty response: ' + JSON.stringify(data).slice(0, 400));
+  if (!text) throw new Error('Empty response: ' + JSON.stringify(resp).slice(0, 400));
   const gm = cand?.groundingMetadata || {};
   // groundingChunks = the real pages Google returned. web.title is the real domain;
   // web.uri is an opaque Google redirect. groundingSupports maps response spans → chunks.

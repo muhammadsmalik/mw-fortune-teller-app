@@ -7,8 +7,7 @@
  *   [RSVP list] -> ENRICH (this file) -> score pairs -> allocate twins -> store
  *
  * It reuses the proven grounded-call pattern from scripts/score-mockup.mjs:
- * the Vertex express-mode REST endpoint (NOT the @google/generative-ai SDK,
- * whose Developer-API pool is empty for the MW key) + the googleSearch tool.
+ * the @google/generative-ai SDK (Developer API, AIza key) + the googleSearch tool.
  *
  * Output is shaped for MATCHING — only the facts that decide whether two media
  * owners are a good "twin": company + inventory, region/markets, focus areas,
@@ -35,15 +34,13 @@
 import 'dotenv/config';
 import * as fs from 'node:fs/promises';
 import * as path from 'node:path';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Gemini / Vertex setup — identical auth path to score-mockup.mjs
+// Gemini setup — @google/generative-ai SDK (Developer API, AIza key)
 // ─────────────────────────────────────────────────────────────────────────────
 const API_KEY = process.env.GOOGLE_GENERATIVE_AI_API_KEY || process.env.GEMINI_API_KEY;
 const MODEL_NAME = process.env.POC_MODEL || process.env.GEMINI_MODEL_NAME || 'gemini-2.5-flash';
-// Vertex AI publisher endpoint with API-key auth ("express mode"): bills the GCP
-// project tied to the key (the $300 credit), and supports the googleSearch tool.
-const VERTEX_BASE = 'https://aiplatform.googleapis.com/v1/publishers/google/models';
 
 const ARCHETYPES_PATH = path.join(process.cwd(), 'lib', 'archetypes_data.json');
 const CACHE_PATH = path.join(process.cwd(), 'scripts', 'enriched_attendees.json');
@@ -54,6 +51,13 @@ if (!API_KEY) {
   console.error('\n✗ No Gemini key. Set GOOGLE_GENERATIVE_AI_API_KEY (or GEMINI_API_KEY) in .env and re-run.\n');
   process.exit(1);
 }
+
+const genAI = new GoogleGenerativeAI(API_KEY);
+const model = genAI.getGenerativeModel({
+  model: MODEL_NAME,
+  tools: [{ googleSearch: {} }],
+  generationConfig: { temperature: 0.3 },
+});
 
 // ── Anti-fluff blocklist: matching keys on specifics, so vague hooks are useless. ──
 const BANNED_PHRASES = [
@@ -75,22 +79,12 @@ function extractJson(text) {
 }
 
 async function ask(prompt) {
-  const url = `${VERTEX_BASE}/${MODEL_NAME}:generateContent?key=${API_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      tools: [{ googleSearch: {} }],
-      generationConfig: { temperature: 0.3 },
-    }),
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error(`Vertex ${res.status}: ${JSON.stringify(data?.error || data).slice(0, 400)}`);
-  const cand = data?.candidates?.[0];
+  const result = await model.generateContent(prompt);
+  const resp = result.response;
+  const cand = resp?.candidates?.[0];
   const parts = cand?.content?.parts || [];
   const text = parts.map((p) => p.text).filter(Boolean).join('');
-  if (!text) throw new Error('Empty response: ' + JSON.stringify(data).slice(0, 400));
+  if (!text) throw new Error('Empty response: ' + JSON.stringify(resp).slice(0, 400));
   const gm = cand?.groundingMetadata || {};
   const sources = (gm.groundingChunks || [])
     .map((c) => (c.web ? { domain: c.web.title, uri: c.web.uri } : null))

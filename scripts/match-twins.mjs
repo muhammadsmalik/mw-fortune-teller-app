@@ -7,8 +7,7 @@
  * cosine similarity (geometry, not a reasoning call). A greedy 1:1 allocation
  * then proposes pairs, which the deterministic tracker enforces/records.
  *
- * Embeddings: text-embedding-004 via the Vertex express :predict endpoint
- * (the same key path as the other scripts; :embedContent 404s on Vertex express).
+ * Embeddings: text-embedding-004 via the @google/generative-ai SDK (embedContent).
  *
  * TWO MODES (the open "what is a twin?" question, made switchable):
  *   --mode similar        affinity = cosine similarity  → pairs the most alike
@@ -31,6 +30,7 @@
 import 'dotenv/config';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 const HERE = path.dirname(new URL(import.meta.url).pathname);
 const STORE_PATH = path.join(HERE, 'twins.json');
@@ -40,13 +40,12 @@ const GEMINI_KEY = process.env.GOOGLE_GENERATIVE_AI_API_KEY || process.env.GEMIN
 const OPENAI_KEY = process.env.OPENAI_API_KEY;
 const GEMINI_EMBED_MODEL = process.env.POC_EMBED_MODEL || 'text-embedding-004';
 const OPENAI_EMBED_MODEL = process.env.POC_OPENAI_EMBED_MODEL || 'text-embedding-3-small';
-const VERTEX_BASE = 'https://aiplatform.googleapis.com/v1/publishers/google/models';
 const SAME_REGION_PENALTY = 0.12; // complementary mode: how hard to push apart same-region pairs
 
 const argv = process.argv.slice(2);
 const getArg = (f, d) => { const i = argv.indexOf(f); return i !== -1 ? argv[i + 1] : d; };
 const mode = getArg('--mode', 'similar').toLowerCase();
-const provider = getArg('--provider', 'gemini').toLowerCase();
+const provider = getArg('--provider', 'openai').toLowerCase();
 if (!['similar', 'complementary'].includes(mode)) {
   console.error(`✗ --mode must be 'similar' or 'complementary' (got '${mode}')`);
   process.exit(1);
@@ -94,24 +93,30 @@ async function embed(text) {
   return provider === 'openai' ? embedOpenAI(text) : embedGemini(text);
 }
 
-// Gemini: Vertex express :predict. Quota is tight (per-base-model) → back off on 429.
+// Gemini embeddings via @google/generative-ai SDK. Quota is tight → back off on 429.
+let _embedModel;
+function getEmbedModel() {
+  if (!_embedModel) {
+    const genAI = new GoogleGenerativeAI(GEMINI_KEY);
+    _embedModel = genAI.getGenerativeModel({ model: GEMINI_EMBED_MODEL });
+  }
+  return _embedModel;
+}
 async function embedGemini(text, attempts = 6) {
-  const url = `${VERTEX_BASE}/${GEMINI_EMBED_MODEL}:predict?key=${GEMINI_KEY}`;
   let lastErr;
   for (let i = 0; i < attempts; i++) {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ instances: [{ content: text }] }),
-    });
-    const data = await res.json();
-    if (res.ok) {
-      const values = data?.predictions?.[0]?.embeddings?.values;
-      if (!Array.isArray(values)) throw new Error('no embedding values: ' + JSON.stringify(data).slice(0, 300));
+    try {
+      const result = await getEmbedModel().embedContent(text);
+      const values = result?.embedding?.values;
+      if (!Array.isArray(values)) throw new Error('no embedding values: ' + JSON.stringify(result).slice(0, 300));
       return values;
+    } catch (e) {
+      const msg = String(e?.message || e);
+      if (/429|quota|rate limit|resource has been exhausted/i.test(msg)) {
+        lastErr = e; await sleep(2000 * 2 ** i); continue;
+      }
+      throw new Error(`embed: ${msg.slice(0, 300)}`);
     }
-    if (res.status === 429) { lastErr = new Error('429 quota'); await sleep(2000 * 2 ** i); continue; }
-    throw new Error(`embed ${res.status}: ${JSON.stringify(data?.error || data).slice(0, 300)}`);
   }
   throw new Error(`gemini embed failed after ${attempts} attempts: ${lastErr?.message}`);
 }
