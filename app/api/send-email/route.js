@@ -76,9 +76,34 @@ function scoreSection(score) {
     </div>`;
 }
 
+// Render the live self-assessment score (passed from the client; computed from the
+// attendee's questionnaire answers). Shown next to the AI score — the meeting's "two scores".
+function selfScoreSection(selfScore, selfSubScores) {
+  if (selfScore === null || selfScore === undefined) return '';
+  const clamp = (n) => Math.max(0, Math.min(100, Number(n) || 0));
+  const subs = selfSubScores && typeof selfSubScores === 'object' ? Object.values(selfSubScores) : [];
+  const rows = subs.map((d) => {
+    const pct = clamp(d.score);
+    return `
+      <div style="margin:10px 0;">
+        <table width="100%" style="border-collapse:collapse;"><tr>
+          <td style="font-weight:bold;color:#6a4fb3;font-size:13px;">${d.dimension || ''}${d.product ? ` <span style="color:#999;font-weight:normal;">&rarr; ${d.product}</span>` : ''}</td>
+          <td style="text-align:right;font-weight:bold;color:#151E43;font-size:14px;">${pct}<span style="font-size:10px;color:#888;">/100</span></td>
+        </tr></table>
+        <div style="background:#efe9fb;border-radius:10px;height:7px;margin:4px 0;overflow:hidden;"><div style="width:${pct}%;height:7px;background:#8b6fd6;border-radius:10px;"></div></div>
+      </div>`;
+  }).join('');
+  return `
+    <div class="self-score-section" style="margin-top:22px;padding:18px 20px;background:#fbfaff;border:1px solid #e4ddf5;border-radius:8px;">
+      <p style="margin:0 0 2px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#6a4fb3;">&#9997;&#65039; How You Rated Yourself</p>
+      <p style="margin:0 0 12px;font-size:28px;font-weight:bold;color:#151E43;">${clamp(selfScore)}<span style="font-size:13px;color:#888;">/100 self-assessment</span></p>
+      ${rows}
+    </div>`;
+}
+
 export async function POST(request) {
   try {
-    const { emailTo, subject, fortuneText, fullName, blueprintHtml } = await request.json();
+    const { emailTo, subject, fortuneText, fullName, blueprintHtml, selfScore, selfSubScores } = await request.json();
 
     if (!emailTo || !subject || !fortuneText) {
       return NextResponse.json({ message: 'Missing required fields: emailTo, subject, or fortuneText' }, { status: 400 });
@@ -99,6 +124,7 @@ export async function POST(request) {
 
     // Email-gated scorecard + twin: included here (not on screen) so a real inbox is needed to see them.
     const scoreHtml = scoreSection(lookupScore(fullName));
+    const selfHtml = selfScoreSection(selfScore, selfSubScores);
     const twin = lookupTwin(fullName);
     const twinHtml = twin && twin.twin ? `
       <div class="twin-section" style="margin-top:30px;padding:18px 20px;background:#f0f6ff;border:1px solid #b9d4f0;border-radius:8px;">
@@ -135,6 +161,7 @@ export async function POST(request) {
               </div>
             ` : ''}
             ${scoreHtml}
+            ${selfHtml}
             ${twinHtml}
             <p class="signature">
               Best regards,<br />

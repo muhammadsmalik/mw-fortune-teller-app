@@ -7,12 +7,12 @@ import { useRouter } from 'next/navigation'; // For initial redirection if neede
 import personaQuestions from '@/lib/persona_questions.json';
 
 // Dynamic imports for component lazy loading
-let ScenarioSelectionComponent, DisplayFortuneComponent, TacticalCardSelectionComponent, BlueprintDisplayComponent;
+let SelfAssessmentComponent, ScenarioSelectionComponent, DisplayFortuneComponent, TacticalCardSelectionComponent, BlueprintDisplayComponent;
 
 const PENDING_FORTUNE_REQUEST_BODY_LOCAL_STORAGE_KEY = 'pendingFortuneRequestBody';
 
 export default function FortuneJourneyPage() {
-  const [currentStage, setCurrentStage] = useState('questionSelection'); // questionSelection, initialFortuneReveal, finalBlueprint
+  const [currentStage, setCurrentStage] = useState('selfAssessment'); // selfAssessment, questionSelection, initialFortuneReveal, finalBlueprint
   const [selectedPersona, setSelectedPersona] = useState(null);
   const [selectedQuestions, setSelectedQuestions] = useState([]); // Combined - no more high/tactical split
   const [selectedTarotCards, setSelectedTarotCards] = useState([]); // Tarot card IDs selected by user
@@ -35,6 +35,7 @@ export default function FortuneJourneyPage() {
     const loadAssets = async () => {
       try {
         await Promise.all([
+          import('@/components/fortune-journey/SelfAssessment').then(mod => SelfAssessmentComponent = mod.default),
           import('@/components/fortune-journey/ScenarioSelection').then(mod => ScenarioSelectionComponent = mod.default),
           import('@/components/fortune-journey/DisplayFortune').then(mod => DisplayFortuneComponent = mod.default),
           import('@/components/fortune-journey/TacticalCardSelection').then(mod => TacticalCardSelectionComponent = mod.default),
@@ -67,6 +68,16 @@ export default function FortuneJourneyPage() {
 
     loadAssets();
   }, []);
+
+  const handleSelfAssessmentConfirmed = ({ score, subScores }) => {
+    try {
+      localStorage.setItem('selfAssessmentScore', String(score));
+      localStorage.setItem('selfAssessmentSubScores', JSON.stringify(subScores));
+    } catch (e) {
+      console.warn('[FortuneJourneyPage] Failed to persist self-assessment:', e);
+    }
+    setCurrentStage('questionSelection');
+  };
 
   const handleQuestionConfirmed = async ({ scenarios, persona }) => {
     console.log('[FortuneJourneyPage] Questions confirmed:', { scenarios, persona });
@@ -206,7 +217,8 @@ export default function FortuneJourneyPage() {
     if (currentStage === 'finalBlueprint') setCurrentStage('tarotCardSelection');
     else if (currentStage === 'tarotCardSelection') setCurrentStage('initialFortuneReveal');
     else if (currentStage === 'initialFortuneReveal') setCurrentStage('questionSelection');
-    else if (currentStage === 'questionSelection') router.push('/collect-info');
+    else if (currentStage === 'questionSelection') setCurrentStage('selfAssessment');
+    else if (currentStage === 'selfAssessment') router.push('/collect-info');
   };
   
   // This useEffect will redirect if user lands here without completing previous steps.
@@ -224,6 +236,14 @@ export default function FortuneJourneyPage() {
     }
 
   switch (currentStage) {
+    case 'selfAssessment':
+      return (
+        <SelfAssessmentComponent
+          onComplete={handleSelfAssessmentConfirmed}
+          onBack={handleGoBack}
+        />
+      );
+
     case 'questionSelection':
       return (
         <ScenarioSelectionComponent

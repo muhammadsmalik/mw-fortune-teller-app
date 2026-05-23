@@ -295,6 +295,10 @@ export default function ContactDetailsPage() {
     }
     setEmailSendStatus({ message: '', type: '' });
     try {
+      // Live self-assessment score (from the journey) — passed so the email shows it next to the AI score.
+      const selfScore = Number(localStorage.getItem('selfAssessmentScore')) || null;
+      let selfSubScores = null;
+      try { selfSubScores = JSON.parse(localStorage.getItem('selfAssessmentSubScores') || 'null'); } catch { selfSubScores = null; }
       const response = await fetch('/api/send-email', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -304,6 +308,8 @@ export default function ContactDetailsPage() {
           fortuneText: fortuneContentForEmail,
           fullName: userFullName,
           blueprintHtml: blueprintContentForEmail,
+          selfScore,
+          selfSubScores,
         }),
       });
       const result = await response.json();
