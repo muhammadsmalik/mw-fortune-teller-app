@@ -164,12 +164,13 @@ async function ask(prompt) {
   const gm = cand?.groundingMetadata || {};
   // groundingChunks = the real pages Google returned. web.title is the real domain;
   // web.uri is an opaque Google redirect. groundingSupports maps response spans → chunks.
-  const sources = (gm.groundingChunks || [])
-    .map((c) => (c.web ? { domain: c.web.title, uri: c.web.uri } : null))
-    .filter(Boolean);
+  // Keep groundingChunks index-aligned (DON'T drop nulls) so groundingSupports'
+  // chunk indices still resolve. `sources` is the filtered list for display/counting.
+  const chunks = (gm.groundingChunks || []).map((c) => (c.web ? { domain: c.web.title, uri: c.web.uri } : null));
+  const sources = chunks.filter(Boolean);
   const supports = (gm.groundingSupports || []).map((s) => ({ text: s.segment?.text || '', chunks: s.groundingChunkIndices || [] }));
   const queries = gm.webSearchQueries || [];
-  return { text, sources, supports, queries };
+  return { text, sources, chunks, supports, queries };
 }
 
 // ── LAYER 3: validate one dimension object { score, bullets:[{point,evidence}x3] }. ──
@@ -186,16 +187,40 @@ function validateDimension(label, dim) {
   });
 }
 
+// ── LAYER 2 (real verification): mark each bullet against groundingSupports — the
+// API's OWN map of which response span is backed by which source chunk — instead of
+// string-matching the model's freeform "evidence". A bullet is verified iff a grounded
+// segment overlapping it cites ≥1 real source; those source domains become groundedBy. ──
+const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const sigWords = (s) => norm(s).split(' ').filter((w) => w.length > 3);
+
+function verifyBullets(bullets, supports, chunks) {
+  const grounded = (supports || []).filter((s) => (s.chunks || []).length);
+  for (const b of bullets) {
+    const words = sigWords(b.point);
+    const domains = new Set();
+    if (words.length) {
+      for (const s of grounded) {
+        const segWords = new Set(sigWords(s.text));
+        const overlap = words.filter((w) => segWords.has(w)).length / words.length;
+        if (overlap >= 0.5) for (const i of s.chunks) { const d = chunks[i]?.domain; if (d) domains.add(d); }
+      }
+    }
+    b.groundedBy = [...domains];
+    b.verified = b.groundedBy.length > 0;
+  }
+}
+
 // Run a grounded call with retries: L2 grounding gate + L3 validation.
 async function scoreWithRetry(prompt, validate, attempts = 2) {
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
     try {
-      const { text, sources, supports, queries } = await ask(prompt);
+      const { text, sources, chunks, supports, queries } = await ask(prompt);
       if (!queries.length) throw new Error('no Google Search grounding — model did not actually search');
       const parsed = extractJson(text);
       validate(parsed);
-      return { parsed, sources, supports, queries };
+      return { parsed, sources, chunks, supports, queries };
     } catch (e) {
       lastErr = e;
       if (i < attempts) console.log(`    ↻ retry ${i}: ${e.message}`);
@@ -242,12 +267,8 @@ async function scoreDimensions() {
   let queries = [];
   for (const [key, r] of settled) {
     out[key] = r.parsed;
-    // Cross-check each bullet's self-cited evidence against the REAL grounding sources Google returned.
-    const domains = r.sources.map((s) => (s.domain || '').toLowerCase()).filter(Boolean);
-    for (const b of out[key].bullets) {
-      const ev = (b.evidence || '').toLowerCase();
-      b.verified = domains.some((d) => ev.includes(d) || d.includes(ev.split('/')[0].replace(/^https?:\/\//, '')));
-    }
+    // Verify each bullet against groundingSupports (API truth), not the model's evidence string.
+    verifyBullets(out[key].bullets, r.supports, r.chunks);
     out[key]._groundingSources = r.sources.map((s) => s.domain);
     sources = sources.concat(r.sources);
     queries = queries.concat(r.queries);
@@ -369,7 +390,10 @@ async function emit(result) {
 function printScores(scores) {
   for (const k of DIM_KEYS) {
     console.log(`  · ${DIMENSIONS[k].label}: ${scores[k]?.score}`);
-    (scores[k]?.bullets || []).forEach((b) => console.log(`      ${b.verified ? '✓' : '⚠'} ${b.point}  [${b.evidence}]`));
+    (scores[k]?.bullets || []).forEach((b) => {
+      const src = b.groundedBy?.length ? b.groundedBy.join(', ') : (b.evidence || 'no source');
+      console.log(`      ${b.verified ? '✓' : '⚠'} ${b.point}  [${src}]`);
+    });
   }
 }
 
