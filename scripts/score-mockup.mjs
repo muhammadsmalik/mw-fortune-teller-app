@@ -211,22 +211,38 @@ function verifyBullets(bullets, supports, chunks) {
   }
 }
 
-// Run a grounded call with retries: L2 grounding gate + L3 validation.
-async function scoreWithRetry(prompt, validate, attempts = 2) {
-  let lastErr;
+// Run a grounded call with retries, ENFORCING grounding: keep only bullets a retrieved
+// source actually backs (verifyBullets), require 3 → pass. Can't get 3 after retries →
+// return the grounded ones we DID find, flagged lowConfidence. Never fake an ungrounded
+// bullet. Only the genuinely-empty case (0 grounded) throws → caller withholds the score.
+async function scoreWithRetry(prompt, validate, attempts = 3) {
+  let lastErr, best = null;
   for (let i = 1; i <= attempts; i++) {
     try {
       const { text, sources, chunks, supports, queries } = await ask(prompt);
-      if (!queries.length) throw new Error('no Google Search grounding — model did not actually search');
+      if (!queries.length) throw new Error('model did not search');
       const parsed = extractJson(text);
-      validate(parsed);
-      return { parsed, sources, chunks, supports, queries };
+      validate(parsed);                                  // score + 3 bullets + no fluff
+      verifyBullets(parsed.bullets, supports, chunks);   // sets verified + groundedBy
+      const grounded = parsed.bullets.filter((b) => b.verified);
+      if (!best || grounded.length > best.grounded.length)
+        best = { parsed, sources, chunks, supports, queries, grounded };
+      if (grounded.length >= 3) {
+        parsed.bullets = grounded.slice(0, 3);
+        return { parsed, sources, chunks, supports, queries, lowConfidence: false };
+      }
+      throw new Error(`only ${grounded.length}/3 bullets grounded in retrieved sources`);
     } catch (e) {
       lastErr = e;
       if (i < attempts) console.log(`    ↻ retry ${i}: ${e.message}`);
     }
   }
-  throw new Error(`failed after ${attempts} attempts: ${lastErr.message}`);
+  // Exhausted — don't fake. Return only the grounded bullets we found, flagged low-confidence.
+  if (best && best.grounded.length) {
+    best.parsed.bullets = best.grounded;
+    return { ...best, lowConfidence: true };
+  }
+  throw new Error(`no grounded bullets after ${attempts} attempts: ${lastErr.message}`);
 }
 
 // Build the isolated, single-dimension prompt. It never names the other dimensions.
@@ -256,9 +272,16 @@ Return ONLY raw JSON:
 async function scoreDimensions() {
   const settled = [];
   for (const key of DIM_KEYS) {
-    const r = await scoreWithRetry(dimensionPrompt(key), (p) => validateDimension(DIMENSIONS[key].label, p));
-    console.log(`  · ${DIMENSIONS[key].label}: ${r.parsed.score} (${r.sources.length} grounding sources)`);
-    settled.push([key, r]);
+    try {
+      const r = await scoreWithRetry(dimensionPrompt(key), (p) => validateDimension(DIMENSIONS[key].label, p));
+      const flag = r.lowConfidence ? ` ⚠ LOW CONFIDENCE (${r.parsed.bullets.length} grounded)` : '';
+      console.log(`  · ${DIMENSIONS[key].label}: ${r.parsed.score} (${r.sources.length} sources)${flag}`);
+      settled.push([key, r]);
+    } catch (e) {
+      // Nothing grounded after retries — withhold rather than ship a guess.
+      console.log(`  · ${DIMENSIONS[key].label}: WITHHELD — ${e.message}`);
+      settled.push([key, { parsed: { score: null, bullets: [], _ungrounded: true }, sources: [], queries: [], lowConfidence: true }]);
+    }
     await new Promise((res) => setTimeout(res, 4000));
   }
 
@@ -267,15 +290,17 @@ async function scoreDimensions() {
   let queries = [];
   for (const [key, r] of settled) {
     out[key] = r.parsed;
-    // Verify each bullet against groundingSupports (API truth), not the model's evidence string.
-    verifyBullets(out[key].bullets, r.supports, r.chunks);
+    out[key].lowConfidence = r.lowConfidence;
     out[key]._groundingSources = r.sources.map((s) => s.domain);
     sources = sources.concat(r.sources);
     queries = queries.concat(r.queries);
   }
-  // Data-driven summary (not LLM-generated → can't hallucinate): call out the weakest dimension.
-  const lowest = [...DIM_KEYS].sort((a, b) => out[a].score - out[b].score)[0];
-  out.summary = `Your lowest-scoring area is ${DIMENSIONS[lowest].label} (${out[lowest].score}/100) — the fastest place to win back buyers.`;
+  // Data-driven summary: weakest dimension among the ones we could actually verify (ignore withheld).
+  const scored = DIM_KEYS.filter((k) => typeof out[k].score === 'number');
+  if (scored.length) {
+    const lowest = [...scored].sort((a, b) => out[a].score - out[b].score)[0];
+    out.summary = `Your lowest-scoring area is ${DIMENSIONS[lowest].label} (${out[lowest].score}/100) — the fastest place to win back buyers.`;
+  }
   return { scores: out, sources, queries };
 }
 
@@ -295,30 +320,43 @@ function escapeHtml(s) {
 }
 
 // One dimension: score bar + 3 skimmable bullets. Table layout (not flex) for email safety.
-function dimensionRow(label, score, bullets) {
+function dimensionRow(label, score, bullets, lowConfidence) {
+  const withheld = typeof score !== 'number';
   const pct = clampScore(score);
+  const scoreCell = withheld
+    ? `&mdash;<span style="font-size:11px;color:#8aa0c8;"> /100</span>`
+    : `${pct}<span style="font-size:11px;color:#8aa0c8;">/100</span>`;
+  const n = (bullets || []).length;
+  const note = withheld
+    ? `<li style="margin:7px 0;color:${GOLD};font-size:13px;line-height:1.45;">Could not verify any claim against live sources — score withheld.</li>`
+    : (lowConfidence
+        ? `<li style="margin:7px 0;color:${GOLD};font-size:12px;font-style:italic;line-height:1.45;">Low confidence — only ${n} grounded ${n === 1 ? 'claim' : 'claims'} found.</li>`
+        : '');
   const items = (bullets || [])
     .map(
       (b) =>
         `<li style="margin:7px 0;color:#dce6f7;font-size:13px;line-height:1.45;">${escapeHtml(b.point)}</li>`
     )
-    .join('');
+    .join('') + note;
   return `
     <div style="margin:22px 0;">
       <table width="100%" style="border-collapse:collapse;"><tr>
         <td style="text-align:left;font-weight:700;color:${GOLD};font-size:15px;letter-spacing:.3px;">${escapeHtml(label)}</td>
-        <td style="text-align:right;font-weight:700;color:#ffffff;font-size:18px;">${pct}<span style="font-size:11px;color:#8aa0c8;">/100</span></td>
+        <td style="text-align:right;font-weight:700;color:#ffffff;font-size:18px;">${scoreCell}</td>
       </tr></table>
       <div style="background:rgba(255,255,255,0.09);border-radius:20px;height:9px;margin:8px 0;overflow:hidden;">
-        <div style="width:${pct}%;height:9px;background:${LIGHT};border-radius:20px;"></div>
+        <div style="width:${withheld ? 0 : pct}%;height:9px;background:${LIGHT};border-radius:20px;"></div>
       </div>
       <ul style="margin:6px 0 0;padding-left:18px;">${items}</ul>
     </div>`;
 }
 
 function buildScorecardHtml(scores, modeLabel, sourceCount) {
-  const overall = Math.round(DIM_KEYS.reduce((s, k) => s + clampScore(scores[k]?.score), 0) / DIM_KEYS.length);
-  const rows = DIM_KEYS.map((k) => dimensionRow(DIMENSIONS[k].label, scores[k]?.score, scores[k]?.bullets)).join('');
+  const scoredKeys = DIM_KEYS.filter((k) => typeof scores[k]?.score === 'number');
+  const overall = scoredKeys.length
+    ? Math.round(scoredKeys.reduce((s, k) => s + clampScore(scores[k].score), 0) / scoredKeys.length)
+    : 0;
+  const rows = DIM_KEYS.map((k) => dimensionRow(DIMENSIONS[k].label, scores[k]?.score, scores[k]?.bullets, scores[k]?.lowConfidence)).join('');
   const firstName = (PROFILE.fullName || '').split(' ')[0] || 'there';
   const trust = sourceCount ? `Backed by ${sourceCount} live web sources` : 'Backed by live web search';
 
@@ -389,7 +427,9 @@ async function emit(result) {
 // Print scores + bullets to the console so you can sanity-check without opening anything.
 function printScores(scores) {
   for (const k of DIM_KEYS) {
-    console.log(`  · ${DIMENSIONS[k].label}: ${scores[k]?.score}`);
+    const sc = scores[k]?.score;
+    const tag = scores[k]?.lowConfidence ? (typeof sc === 'number' ? ' (low confidence)' : ' (withheld)') : '';
+    console.log(`  · ${DIMENSIONS[k].label}: ${sc ?? '—'}${tag}`);
     (scores[k]?.bullets || []).forEach((b) => {
       const src = b.groundedBy?.length ? b.groundedBy.join(', ') : (b.evidence || 'no source');
       console.log(`      ${b.verified ? '✓' : '⚠'} ${b.point}  [${src}]`);
