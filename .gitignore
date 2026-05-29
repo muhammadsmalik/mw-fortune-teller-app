@@ -65,3 +65,4 @@ scripts/twins.json
 scripts/enriched_attendees.json
 scripts/twin_pairs.json
 scripts/scores.json
+scripts/output/

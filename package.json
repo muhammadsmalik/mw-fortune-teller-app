@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "scrape:attendee-linkedin": "node scripts/scrape-attendee-linkedin-profiles.js"
   },
   "dependencies": {
     "@deepgram/sdk": "^4.1.0",
