@@ -34,6 +34,7 @@ export default function SelectNamePage() {
   const [linkedinUrl, setLinkedinUrl] = useState('');
   const [walkinLoading, setWalkinLoading] = useState(false);
   const [walkinError, setWalkinError] = useState('');
+  const [navigating, setNavigating] = useState(false);
 
   // Wipe any prior selection so the back-out / reset path is clean.
   useEffect(() => {
@@ -64,6 +65,7 @@ export default function SelectNamePage() {
       window.localStorage.setItem('selectedAttendeeCompany', selected.company || '');
       window.localStorage.setItem('selectedAttendeeRole', selected.role || '');
     }
+    setNavigating(true);
     router.push('/reveal');
   };
 
@@ -240,13 +242,15 @@ export default function SelectNamePage() {
               <div className="mt-8 space-y-3">
                 <Button
                   onClick={handleConfirm}
+                  disabled={navigating}
                   size="lg"
                   className="w-full px-10 py-7 text-lg font-bold
                              bg-gradient-to-r from-mw-gold-antique to-mw-gold-antique-deep
                              text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg
-                             transition-all duration-150 hover:shadow-xl active:scale-95"
+                             transition-all duration-150 hover:shadow-xl active:scale-95
+                             disabled:opacity-70 disabled:cursor-wait"
                 >
-                  Continue
+                  {navigating ? 'Revealing your matches…' : 'Continue'}
                 </Button>
                 <Button
                   onClick={handleBack}
