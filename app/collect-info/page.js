@@ -10,7 +10,7 @@ import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@
 import { Textarea } from "@/components/ui/textarea";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
-import { Loader2, Mic, MicOff, ArrowLeft, Upload, ChevronDown, ChevronUp } from 'lucide-react';
+import { Loader2, Mic, MicOff, ArrowLeft, Upload } from 'lucide-react';
 import QrScanner from 'qr-scanner';
 import Image from 'next/image';
 
@@ -27,7 +27,6 @@ export default function CollectInfoScreen() {
   const [qrError, setQrError] = useState('');
   const [isProcessingUpload, setIsProcessingUpload] = useState(false);
   const fileInputRef = useRef(null);
-  const [showInstructions, setShowInstructions] = useState(false);
 
   // --- Manual Input Flow State ---
   const [fullName, setFullName] = useState('');
@@ -366,24 +365,30 @@ export default function CollectInfoScreen() {
           </div>
         </div>
 
-        <div className="text-xs text-mw-white/70 mt-4 text-center px-2">
-          <button
-            type="button"
-            onClick={() => setShowInstructions(!showInstructions)}
-            className="font-semibold text-sm text-mw-light-blue hover:text-mw-gold flex items-center justify-center mx-auto gap-1 transition-colors"
-          >
-            New to this? How to find &amp; save your LinkedIn QR
-            {showInstructions ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
-          </button>
-          {showInstructions && (
-            <ol className="list-decimal list-inside text-left mx-auto inline-block text-mw-white/80 mt-2 space-y-1">
+        <div className="mt-5 mx-auto max-w-2xl flex flex-col md:flex-row gap-3 items-stretch">
+          <div className="flex-1 rounded-lg border border-mw-light-blue/25 bg-mw-light-blue/5 px-4 py-3 text-left">
+            <p className="text-[11px] font-semibold uppercase tracking-wider text-mw-light-blue">
+              How to find &amp; save your LinkedIn QR
+            </p>
+            <ol className="mt-2 list-decimal list-outside pl-4 text-sm text-mw-white/85 space-y-1.5 leading-snug">
               <li>Open the LinkedIn app and tap the search bar at the top.</li>
               <li>Tap the QR icon on the right.</li>
               <li>Choose &quot;My Code&quot; to display your QR.</li>
               <li>Screenshot it (or tap Save) to add it to your photos.</li>
               <li>Come back here, tap &quot;Upload LinkedIn QR Image&quot;, and pick that screenshot.</li>
             </ol>
-          )}
+          </div>
+          <div className="flex-1 rounded-lg border border-mw-light-blue/25 bg-mw-light-blue/5 px-4 py-3 text-left">
+            <p className="text-[11px] font-semibold uppercase tracking-wider text-mw-light-blue">
+              How to copy your LinkedIn URL
+            </p>
+            <ol className="mt-2 list-decimal list-outside pl-4 text-sm text-mw-white/85 space-y-1.5 leading-snug">
+              <li>Open the LinkedIn app and go to your profile.</li>
+              <li>Tap the three dots (&middot;&middot;&middot;) near the top.</li>
+              <li>Choose &quot;Share via&quot;, then tap &quot;Copy&quot;.</li>
+              <li>Come back here and paste it into the field above.</li>
+            </ol>
+          </div>
         </div>
         <div className="mt-4 text-center">
           <p className="text-mw-white/70 text-sm">Don&apos;t have access to LinkedIn? No worries.</p>
