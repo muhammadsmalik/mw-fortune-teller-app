@@ -25,7 +25,7 @@ briefs the marketing DRI to make the intro at the booth.
 ## 2. What's DONE
 
 ### Booth flow & UI
-- **`/select-name`** — searchable attendee picker (from `lib/rsvp_attendees.json`, 39 people), stores selection in localStorage.
+- **`/select-name`** — searchable attendee picker over the precomputed directory (`lib/twin_index.json`), stores selection in localStorage. **Walk-ins** (anyone not in the directory) get their **own focused screen** — paste LinkedIn → live match — reached via "Not on the list?", with a collapsible **"How do I find my LinkedIn URL?"** guide (iOS/Android, handles the menu variants) and a **back-to-search** return. The screen is one-task-per-state: search → walk-in → confirm.
 - **`/reveal`** — two-column "twin-matches" design (source profile panel + 3 match cards), data-driven from `lib/twin_matches.json`. Cards show headshot, name, confidence pill, role/company, country, match reason, LinkedIn link, and **inline talking points**. Attendee selects **1–3** via ✓ checkboxes → "Ask WALLi for an intro (N)".
 - **`/concierge`** — shows the chosen matches, captures email (pre-filled if on file), sends the request. Routes to `/confirmation`.
 - **`/confirmation`** — thank-you + "start over" (clears localStorage).
@@ -87,7 +87,7 @@ briefs the marketing DRI to make the intro at the booth.
 | Item | Status |
 |---|---|
 | Matching logic: exclude same **country** AND company | ✅ **live walk-in matcher applies it** (`/api/match`). ⚠️ the **batch** precompute (`matches.md`) still only excludes same-company — folds into the paused CRM re-run. _Open Q for Salman: rule is same-**country**; if "international connection" meant cross-**region**, it's a 1-line soft-penalty change (see route TODO)._ |
-| Mobile optimization | ⬜ not done (layout stacks but not tuned) |
+| Mobile optimization | ✅ done (flow tuned for phones; shipped within the theme revamp, no standalone commit) |
 | Missing-email fallback + notify DRI | ✅ done |
 | Email-cost estimate doc (≈400 footfall, ~1,200 emails) | ⬜ not started |
 | Credential-sharing guide | ⬜ not started |
@@ -119,7 +119,6 @@ briefs the marketing DRI to make the intro at the booth.
 > **Why 18 RSVP people have no matches:** the booth's selectable list (`rsvp_attendees.json`, 39) and the scraped/matched universe (453) come from different inputs and only partly overlap. 21 of the 39 are in the 453; 18 were never scraped, so there's nothing to precompute for them. This is an input-coverage gap, not a matching failure — all 453 indexed profiles do have matches.
 
 ### ✅ NOT blocked — can build now
-- Mobile optimization pass
 - Talking points for the current mapped set (cost = LLM tokens; or wait to batch with CRM)
 - Concierge polish, DRI placeholder, copy
 - The three docs (email cost, credential guide, API-key guide)
