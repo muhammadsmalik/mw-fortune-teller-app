@@ -5,7 +5,7 @@ _Branch: `integration/woo-e2e` · Pairs with the [brand sheet](#) "Agent WALLi �
 > **Status (2026-05-29):** tokens + `<WalliAvatar>` + dark-navy/glow + avatar placement on all 4
 > booth screens are **DONE & live** (steps 1–3, +footer bg). **Remaining:** generate the avatar art
 > (step 4), mobile pass, footer-wave recolor + favicon (step 5), QA (step 6). The WALLi avatars
-> currently render as gold-ring "W" placeholders until the PNGs land in `/public/walli/`.
+> currently render as gold-ring "W" placeholders until the PNGs land in `/public/agent-walli/`.
 
 Goal: move the booth flow from the current **flat blue gradient + bright-yellow buttons** to the
 brand sheet's **deep-navy, antique-gold, "Human + Magical" premium** look — and give WALLi an actual
@@ -97,7 +97,7 @@ expressions grid on the sheet).
 
 ## 3. Avatar image-gen prompts (placeholders)
 
-**Pipeline:** generate these once, drop into `public/walli/<pose>.png` (transparent PNG, square,
+**Pipeline:** generate these once, drop into `public/agent-walli/<pose>.png` (transparent PNG, square,
 ≥512px), and render via the existing `Avatar`-style component or a new `<WalliAvatar pose="greeting" />`.
 Until generated, ship a **gold-ring placeholder with the "W" mark** so layout is final before art lands.
 
@@ -149,12 +149,12 @@ Until generated, ship a **gold-ring placeholder with the "W" mark** so layout is
    legacy `mw-gold` (#FEDA24) is kept untouched so the deprecated fortune flow stays as-is.
    Swept the 6 WALLi-flow files (gold accents + pale-yellow → `mw-parchment`). Verified in live CSS.
 2. ✅ **`<WalliAvatar>` component** — `components/twin-reveal/WalliAvatar.js`. `pose` prop →
-   `/public/walli/<pose>.png` with a gold-ring "W" + electric-blue-glow **placeholder** that
+   `/public/agent-walli/<pose>.png` with a gold-ring "W" + electric-blue-glow **placeholder** that
    auto-replaces once the PNGs exist.
 3. ✅ **Per-screen layout** — dark-navy bg + electric-blue glow on all 4 booth screens; WALLi
    avatars placed (`greeting` on select-name, `presenting` on reveal + concierge, `celebrating`
    on confirmation). ⬜ **Mobile pass still TODO** (stacks but not tuned).
-4. ⬜ **Generate art** — run §3 prompts, export transparent PNGs to `public/walli/`; they
+4. ⬜ **Generate art** — run §3 prompts, export transparent PNGs to `public/agent-walli/`; they
    auto-replace the placeholders, no code change.
 5. ◑ **Footer + favicon** — footer background recolored to deep navy ✅; **wave-color recolor +
    favicon "W" swap still ⬜**.
@@ -164,4 +164,4 @@ Until generated, ship a **gold-ring placeholder with the "W" mark** so layout is
 - `tailwind.config.js` (tokens)
 - `app/select-name/page.js`, `app/reveal/page.js`, `app/concierge/page.js`, `app/confirmation/page.js`
 - `components/twin-reveal/MatchCard.js` (gold accents only), `components/ui/BrandFooter.js`
-- **new:** `components/twin-reveal/WalliAvatar.js`, `public/walli/*.png`
+- **new:** `components/twin-reveal/WalliAvatar.js`, `public/agent-walli/*.png`

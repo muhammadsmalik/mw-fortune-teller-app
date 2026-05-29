@@ -35,7 +35,7 @@ briefs the marketing DRI to make the intro at the booth.
 ### Theme / visual (Agent WALLi look — NEW)
 - Booth flow restyled toward the brand sheet: **deep-navy backgrounds** (`#0A0F1C → #1B2740 → #111827`) + an electric-blue glow, **antique-gold** accents (`#D4AF37`, replacing the bright yellow `#FEDA24`).
 - **Scope:** antique gold is **booth-flow only** — the legacy fortune flow keeps the bright `mw-gold` and was left untouched (new `mw-gold-antique*` / `mw-navy*` / `mw-blue-electric` / `mw-parchment` tokens in `tailwind.config.js`).
-- **`components/twin-reveal/WalliAvatar.js`** gives WALLi a face at each step (greeting / presenting / celebrating). Currently renders a **gold-ring "W" placeholder** until art is dropped into `/public/walli/<pose>.png` (auto-replaces, no code change).
+- **`components/twin-reveal/WalliAvatar.js`** gives WALLi a face at each step (greeting / presenting / thinking / casting / celebrating). Real art now lives in `public/agent-walli/<pose>.png` (Gemini-generated, downscaled to 512px); a gold-ring "W" glow placeholder still renders for any missing pose.
 - **Plan + image-gen prompts + remaining steps** (avatar art, mobile pass, footer-wave recolor, favicon): **`MASTER_DOCS/AGENT_WALLI_THEME_REVAMP.md`**.
 
 ### Email + lead capture (wired & configured)

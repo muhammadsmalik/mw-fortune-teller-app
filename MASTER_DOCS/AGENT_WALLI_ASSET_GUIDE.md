@@ -15,7 +15,7 @@ for the character, palette, and props. Commit it so prompts can reference a stab
 
 ```
 MASTER_DOCS/assets/agent-walli-brand-sheet.png      ← the full sheet (reference)
-public/walli/                                        ← generated app assets land here
+public/agent-walli/                                        ← generated app assets land here
 ```
 
 Then, when using a generator that accepts an image, point it at the brand sheet (or a **crop** of the
@@ -63,7 +63,7 @@ The sheet is built to be fed back into an image model. Three modes, by tool:
 
 ## 3. App avatars — the priority assets
 
-These feed `components/twin-reveal/WalliAvatar.js` → drop them at `public/walli/<pose>.png`. The
+These feed `components/twin-reveal/WalliAvatar.js` → drop them at `public/agent-walli/<pose>.png`. The
 component crops to a circle, so **frame head-and-shoulders, centered, with headroom**, on a
 **transparent background**.
 
@@ -169,5 +169,5 @@ existing font; reserve this styling for marketing lockups.
 - [ ] Set the **aspect ratio** and **fixed seed** from the table.
 - [ ] Append the **global negative prompt**.
 - [ ] Export **transparent PNG** for anything overlaying the app's dark gradient (avatars, marks).
-- [ ] Drop app avatars at `public/walli/<pose>.png` — they auto-replace the placeholders.
+- [ ] Drop app avatars at `public/agent-walli/<pose>.png` — they auto-replace the placeholders.
 - [ ] Verify the face matches the sheet; if it drifts, raise reference weight / lower creativity.
