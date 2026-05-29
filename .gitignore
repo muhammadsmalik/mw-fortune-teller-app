@@ -55,3 +55,10 @@ combined_linkedin_data.txt
 
 # POC output
 scripts/output/
+
+# auto-generated Gemini meeting notes (any file in any directory)
+*Notes by Gemini.md
+
+# local-only planning docs — never commit
+MASTER_DOCS/ARCHETYPE_TWINNING_INVESTIGATION.md
+MASTER_DOCS/SELF_SERVICE_BACKLOG.md
