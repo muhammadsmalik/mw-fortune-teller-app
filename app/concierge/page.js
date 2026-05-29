@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -8,6 +8,7 @@ import { Label } from '@/components/ui/label';
 import BrandFooter from '@/components/ui/BrandFooter';
 import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 import twinMatches from '@/lib/twin_matches.json';
+import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
 
 // Concierge requests are handled by a marketing DRI (not general sales).
 // Falls back to the legacy sales-rep var, then a hard default.
@@ -16,6 +17,27 @@ const DRI_EMAIL =
   process.env.NEXT_PUBLIC_SALES_REP_EMAIL ||
   'atlas1000x@gmail.com';
 
+// POST JSON and treat any non-2xx as a failure. The previous code never checked
+// res.ok, so an HTTP 500 from the sheet/email routes still resolved and the flow
+// navigated to /confirmation as if it had succeeded.
+async function postJson(url, body) {
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) {
+    let detail = '';
+    try {
+      detail = (await res.json())?.message || '';
+    } catch {
+      /* non-JSON error body */
+    }
+    throw new Error(`${url} failed (${res.status})${detail ? `: ${detail}` : ''}`);
+  }
+  return res;
+}
+
 export default function ConciergePage() {
   const router = useRouter();
   const [ctx, setCtx] = useState(null);
@@ -23,6 +45,11 @@ export default function ConciergePage() {
   const [chosen, setChosen] = useState([]);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
+  // Per-step guards so a retry only re-sends the email(s) that previously failed.
+  // These live in a ref (not localStorage), so they reset on refresh — a duplicate
+  // email is harmless. The sheet row is the opposite: a duplicate matters, so it's
+  // guarded by a localStorage marker (LEAD_SAVED_KEY) that survives a refresh.
+  const sent = useRef({ attendee: false, dri: false });
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -75,11 +102,14 @@ export default function ConciergePage() {
     const matches = chosen;
 
     try {
-      // 1. Append to Google Sheet (re-uses existing lead pipe)
-      await fetch('/api/submit-lead', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
+      // 1. Append to Google Sheet (re-uses existing lead pipe). Skip if a prior
+      //    attempt already wrote this attendee's row, so retrying after a failed
+      //    email doesn't append a duplicate lead.
+      const leadAlreadySaved =
+        typeof window !== 'undefined' &&
+        window.localStorage.getItem(LEAD_SAVED_KEY) === ctx.slug;
+      if (!leadAlreadySaved) {
+        await postJson('/api/submit-lead', {
           fullName: ctx.name,
           email,
           companyName: ctx.company,
@@ -88,26 +118,31 @@ export default function ConciergePage() {
           linkedinProfileUrl: ctx.linkedinUrl,
           persona: 'media_owner',
           sessionId: ctx.slug,
-        }),
-      });
+        });
+        if (typeof window !== 'undefined') {
+          window.localStorage.setItem(LEAD_SAVED_KEY, ctx.slug);
+        }
+      }
 
-      // 2. Fire both emails in parallel
-      await Promise.all([
-        fetch('/api/send-email', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+      // 2. Fire both emails in parallel — building only the ones still pending so a
+      //    retry re-sends just the one(s) that previously failed.
+      const emailTasks = [];
+      if (!sent.current.attendee) {
+        emailTasks.push(
+          postJson('/api/send-email', {
             template: 'twinConfirmation',
             emailTo: email,
             subject: 'Your WOO London matches — Moving Walls',
             fullName: ctx.name,
             matches,
-          }),
-        }),
-        fetch('/api/send-email', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+          }).then(() => {
+            sent.current.attendee = true;
+          })
+        );
+      }
+      if (!sent.current.dri) {
+        emailTasks.push(
+          postJson('/api/send-email', {
             template: 'salesRepNotification',
             emailTo: DRI_EMAIL,
             subject: `[WOO Concierge] ${ctx.name} — ${ctx.company || ''}`.trim(),
@@ -119,9 +154,12 @@ export default function ConciergePage() {
             linkedinUrl: ctx.linkedinUrl,
             attendeeSlug: ctx.slug,
             matches,
-          }),
-        }),
-      ]);
+          }).then(() => {
+            sent.current.dri = true;
+          })
+        );
+      }
+      await Promise.all(emailTasks);
 
       if (typeof window !== 'undefined') {
         window.localStorage.setItem('selectedAttendeeEmail', email);
@@ -129,7 +167,7 @@ export default function ConciergePage() {
       router.push('/confirmation');
     } catch (err) {
       console.error('[concierge] submit failed', err);
-      setError('Something went wrong. Please try again.');
+      setError('Something went wrong — please tap the button again to retry.');
       setSubmitting(false);
     }
   };

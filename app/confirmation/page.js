@@ -4,6 +4,7 @@ import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import BrandFooter from '@/components/ui/BrandFooter';
 import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
+import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
 
 export default function ConfirmationPage() {
   const router = useRouter();
@@ -12,7 +13,7 @@ export default function ConfirmationPage() {
     if (typeof window !== 'undefined') {
       ['selectedAttendeeSlug', 'selectedAttendeeName', 'selectedAttendeeLinkedInUrl',
         'selectedAttendeeEmail', 'selectedAttendeeCompany', 'selectedAttendeeRole',
-        'selectedMatches']
+        'selectedMatches', LEAD_SAVED_KEY]
         .forEach((k) => window.localStorage.removeItem(k));
     }
     router.push('/select-name');

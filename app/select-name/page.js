@@ -10,6 +10,7 @@ import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 // built alongside twin_matches.json — keeps the heavy match graph out of this
 // route's bundle. The reveal resolves each picked slug against twin_matches.json.
 import attendees from '@/lib/twin_index.json';
+import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
 
 const STORAGE_KEYS = [
   'selectedAttendeeSlug',
@@ -21,6 +22,7 @@ const STORAGE_KEYS = [
   'selectedAttendeeHeadshotUrl',
   'liveMatches',
   'selectedMatches',
+  LEAD_SAVED_KEY,
 ];
 
 const MAX_RESULTS = 50; // keep the DOM light; broad queries get truncated with a hint
