@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import BrandFooter from '@/components/ui/BrandFooter';
 import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
+import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 export default function ConfirmationPage() {
   const router = useRouter();
@@ -33,6 +34,17 @@ export default function ConfirmationPage() {
             <br />
             Drop by the Moving Walls booth and Agent WALLi&apos;s team will make the intro in person.
           </p>
+
+          <div className="mt-8 rounded-lg border border-white/15 bg-white/5 p-4 text-left">
+            <p className="text-xs uppercase tracking-wider text-mw-light-blue mb-2">
+              Find us at the booth during any networking break
+            </p>
+            <ul className="space-y-1.5">
+              {MEETING_SLOTS.map((s) => (
+                <li key={s} className="text-sm text-white/85">{s}</li>
+              ))}
+            </ul>
+          </div>
 
           <p className="mt-8 text-sm font-semibold uppercase tracking-[0.25em] text-mw-gold-antique">
             Discover. Connect. Transform.

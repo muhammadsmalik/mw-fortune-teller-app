@@ -177,7 +177,6 @@ export default function ConciergePage() {
             attendeeName: ctx.name,
             attendeeRole: ctx.role,
             attendeeCompany: ctx.company,
-            meetingSlot: m.meetingSlot || '',
             matchReason: m.matchReason,
             talkingPoints: m.talkingPoints,
           }).then(() => {

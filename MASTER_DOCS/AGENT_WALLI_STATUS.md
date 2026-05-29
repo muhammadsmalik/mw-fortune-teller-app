@@ -41,7 +41,8 @@ briefs the marketing DRI to make the intro at the booth.
 
 ### Email + lead capture (wired & configured)
 - `POST /api/send-email` has **three** booth templates (dispatched via a `BOOTH_TEMPLATES` map): **`twinConfirmation`** (to the attendee, their matches + talking points), **`salesRepNotification`** (to the **marketing DRI**, lists requested matches w/ LinkedIn links, flags missing-email cases + which matches were auto-emailed), and **`matchIntro`** (to each selected match — see below).
-- **Match-intro emails (NEW):** on submit, each **selected** match that has an `email` gets a `matchIntro` — the attendee + role/company, the proposed `meetingSlot` (networking break), and the grounded talking points; **reply-to is the attendee** so the match can respond directly. Matches without an email are skipped and flagged in the DRI notification for a manual intro. `email`/`meetingSlot` are optional fields per match in `twin_matches.json` — real values pending the CRM list + networking schedule (currently **test data only**, see §4).
+- **Match-intro emails (NEW):** on submit, each **selected** match that has an `email` gets a `matchIntro` — the attendee + role/company, the **shared list of booth networking windows** (`lib/meeting-slots.js`), and the grounded talking points; **reply-to is the attendee** so the match can respond directly. Matches without an email are skipped and flagged in the DRI notification for a manual intro. `email` is an optional field per match in `twin_matches.json` — real values pending the CRM list (currently **test data only**, see §4).
+- **Meeting slots (NEW, simplified):** there is **no per-match slot**. A single static list of exhibition-area networking windows lives in **`lib/meeting-slots.js`** and renders the same for everyone in both the `matchIntro` email and the `/confirmation` screen. Nothing is persisted per pairing — the attendee + match coordinate via reply-to or by dropping by the booth. The listed times are **preliminary** (from the WOO programme); confirm finals with Deewakshi and edit the one list.
 - **Idempotent submit (NEW):** the sheet write is guarded by a localStorage marker (keyed by attendee slug, single-sourced in `lib/concierge-storage.js`) so a retry/refresh can't double-write; each email is guarded so a retry re-sends only the one(s) that failed. Failures now surface (HTTP errors throw) instead of silently routing to `/confirmation`.
 - **Email test mode (NEW):** `EMAIL_TEST_MODE=true` + `EMAIL_TEST_RECIPIENTS` reroute **every** outbound email to a fixed test list (subject prefixed `[TEST→<real recipient>]`) via a single server-side `resolveDelivery()` chokepoint — booth tests never hit a real inbox. Server-only var → keep `false` for the live event; restart to apply.
 - `POST /api/submit-lead` appends the request to Google Sheets (reuses existing pipe, `flowSource:'twin-reveal'`).
@@ -95,10 +96,10 @@ briefs the marketing DRI to make the intro at the booth.
 ### Product gaps (beyond the meeting)
 - ~~**On-the-fly / live matching** for walk-ups not in the precomputed set.~~ ✅ **DONE** — wired via `POST /api/match` + `lib/match_embeddings.json` (see §2 "Live walk-in matching").
 - **Talking points for the other 20 mapped attendees** (currently only Guillermo). Costly LLM run — batch with the CRM re-run.
-- **Meeting-slot assignment** from networking breaks (system assigns, manual fallback). The `matchIntro` email already renders a per-match `meetingSlot` — just needs the real slots populated.
+- ~~**Meeting-slot assignment** from networking breaks (system assigns, manual fallback).~~ ✅ **DONE (simplified)** — replaced per-match assignment with a single shared window list (`lib/meeting-slots.js`) shown in the email + confirmation. Only the **actual times** remain to confirm (preliminary in the programme).
 - **DRI email** in production (`NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` is unset → falls back to hardcoded gmail).
 - **Scorecard end-screen** (deferred).
-- ~~**Direct "X wants to meet you" emails to matches**~~ ✅ **DONE** — `matchIntro` emails each selected match that has an `email` (meeting slot + talking points, reply-to the attendee). Still gated on **real match emails** (test data only so far — see §4) and the **real meeting slots** for `meetingSlot`.
+- ~~**Direct "X wants to meet you" emails to matches**~~ ✅ **DONE** — `matchIntro` emails each selected match that has an `email` (meeting slot + talking points, reply-to the attendee). Still gated on **real match emails** (test data only so far — see §4). Meeting slots now ship as a shared list (`lib/meeting-slots.js`); only the final times need confirming.
 
 ---
 
@@ -110,7 +111,7 @@ briefs the marketing DRI to make the intro at the booth.
 | Blocked item | Waiting on |
 |---|---|
 | **Final re-match** (apply same-country rule + fold in new people) + talking-points re-run | **CRM media-owner list** — Deewakshi / Sukriti |
-| **Meeting-slot assignment** | **Networking schedule / local times** — Deewakshi |
+| **Final meeting-slot times** | **Networking schedule / local times** — Deewakshi. Slots ship as a shared list (`lib/meeting-slots.js`); only the times are preliminary. |
 | **Match-intro emails to real recipients** | the matches' **email addresses** (from the CRM list) — code is done; `twin_matches.json` has test emails only |
 | Matches for the **18 unmapped RSVP people** | their LinkedIn data (or live matching) — folds into the re-run |
 | DRI notification going to the right inbox | the **DRI email address** (minor; placeholder works meanwhile) |
@@ -153,7 +154,7 @@ npm run build:match-embeddings              # rebuild lib/match_embeddings.json 
 ```
 Talking points: add a `sourceSlug` block to `lib/twin_talking_points.json`, then re-run the generator.
 
-> ⚠️ **Match `email` / `meetingSlot` are not yet produced by `build-twin-matches.mjs`** — they currently live as inline fields in `twin_matches.json` (test data for Guillermo) and would be **overwritten on a rebuild**. When real match emails/slots arrive, either teach the generator to merge them (like talking points) or re-apply them after regen.
+> ⚠️ **Match `email` is not yet produced by `build-twin-matches.mjs`** — it currently lives as an inline field in `twin_matches.json` (test data for Guillermo) and would be **overwritten on a rebuild**. When real match emails arrive, either teach the generator to merge them (like talking points) or re-apply them after regen. (Meeting slots are no longer per-match — they live in `lib/meeting-slots.js`, so a rebuild can't touch them.)
 
 ---
 

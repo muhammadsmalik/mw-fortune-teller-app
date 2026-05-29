@@ -2,6 +2,7 @@ import { Resend } from 'resend';
 import { NextResponse } from 'next/server';
 import fs from 'node:fs';
 import path from 'node:path';
+import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const FROM_EMAIL = process.env.RESEND_FROM_EMAIL || 'onboarding@resend.dev'; // Replace with your verified Resend "from" email or set in .env
@@ -156,15 +157,17 @@ function twinConfirmationHtml({ fullName, matches }) {
 }
 
 // Intro email to a matched person: the attendee asked to meet them, with the
-// proposed networking-break slot and the grounded "why you two" talking points.
-// Reply-to is set to the attendee (in the route) so the match can respond directly.
-function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, meetingSlot, matchReason, talkingPoints }) {
+// shared list of booth networking windows and the grounded "why you two" talking
+// points. We don't assign a specific slot per pairing — the same windows go to
+// everyone and the two coordinate via reply-to (set to the attendee in the route)
+// or by dropping by the booth.
+function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, matchReason, talkingPoints }) {
   const requester = [attendeeRole, attendeeCompany].filter(Boolean).join(', ');
-  const slot = meetingSlot ? `
+  const slot = `
     <div style="margin:16px 0;padding:12px 16px;background:#f0f6ff;border:1px solid #b9d4f0;border-radius:8px;">
-      <p style="margin:0;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Suggested meeting time</p>
-      <p style="margin:4px 0 0;font-size:16px;font-weight:bold;color:#151E43;">${meetingSlot}</p>
-    </div>` : '';
+      <p style="margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Find each other at the Moving Walls booth</p>
+      <ul style="margin:0;padding-left:18px;">${MEETING_SLOTS.map((s) => `<li style="margin:3px 0;font-size:14px;color:#151E43;">${s}</li>`).join('')}</ul>
+    </div>`;
   const tp = Array.isArray(talkingPoints) && talkingPoints.length ? `
     <p style="margin:18px 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">What you two share</p>
     ${talkingPointsList(talkingPoints)}
