@@ -112,32 +112,47 @@ function twinConfirmationHtml({ fullName, matches }) {
         <ul style="margin:0;padding-left:18px;">${m.talkingPoints.map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>
       ` : ''}
     </div>`).join('');
+  const count = (matches || []).length;
+  const people = count === 1 ? 'the person' : `the ${count} people`;
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
       <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
         <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
-        <p>Agent WALLi here — your AI concierge wizard at WOO London. I peered into your LinkedIn and picked out the three people you should meet:</p>
-        ${cards || '<p><em>My team will follow up shortly with your three matches.</em></p>'}
+        <p>Agent WALLi here — your AI concierge wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
+        ${cards || '<p><em>My team will follow up shortly with your matches.</em></p>'}
         <p style="margin-top:24px;">Drop by the Moving Walls booth and we&apos;ll handle the introductions in person.</p>
         <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI concierge wizard<br/>Moving Walls</p>
       </div>
     </body></html>`;
 }
 
-function salesRepNotificationHtml({ fullName, email, company, role, attendeeSlug, matches }) {
-  const matchLines = (matches || []).map((m) => `<li>${m.name || ''} — ${m.company || ''}</li>`).join('') || '<li>(no match data attached)</li>';
+function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company, role, linkedinUrl, attendeeSlug, matches }) {
+  const matchLines = (matches || []).map((m) => {
+    const meta = [m.role, m.company].filter(Boolean).join(', ');
+    const li = m.linkedinUrl
+      ? `<a href="${m.linkedinUrl}" style="color:#2554A2;">${m.name || m.linkedinUrl}</a>`
+      : (m.name || '');
+    return `<li style="margin:3px 0;">${li}${meta ? ` — ${meta}` : ''}</li>`;
+  }).join('') || '<li>(no match data attached)</li>';
+  const count = (matches || []).length;
+  const emailRow = emailOnFile
+    ? `<tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''}</td></tr>`
+    : `<tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''} <span style="color:#b45309;font-weight:bold;">(entered at booth — not previously on file)</span></td></tr>`;
+  const requesterLi = linkedinUrl ? `<tr><td style="padding:3px 8px 3px 0;color:#666;">LinkedIn</td><td><a href="${linkedinUrl}" style="color:#2554A2;">${linkedinUrl}</a></td></tr>` : '';
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.5;color:#222;">
       <div style="padding:20px;max-width:640px;margin:auto;">
         <h2 style="margin:0 0 12px;">Concierge request — ${fullName || '(unknown)'}</h2>
+        <p style="margin:0 0 12px;">${fullName || 'An attendee'} requested an intro to ${count} ${count === 1 ? 'person' : 'people'}. Please make the ${count === 1 ? 'introduction' : 'introductions'} at the booth.</p>
         <table style="border-collapse:collapse;font-size:14px;">
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Name</td><td>${fullName || ''}</td></tr>
-          <tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''}</td></tr>
+          ${emailRow}
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Company</td><td>${company || ''}</td></tr>
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Role</td><td>${role || ''}</td></tr>
+          ${requesterLi}
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Slug</td><td>${attendeeSlug || ''}</td></tr>
         </table>
-        <p style="margin:18px 0 4px;font-weight:bold;">Their three matches:</p>
+        <p style="margin:18px 0 4px;font-weight:bold;">Requested intro${count === 1 ? '' : 's'} (${count}):</p>
         <ul style="margin:0;padding-left:20px;">${matchLines}</ul>
       </div>
     </body></html>`;

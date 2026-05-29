@@ -10,7 +10,8 @@ export default function ConfirmationPage() {
   const handleReset = () => {
     if (typeof window !== 'undefined') {
       ['selectedAttendeeSlug', 'selectedAttendeeName', 'selectedAttendeeLinkedInUrl',
-        'selectedAttendeeEmail', 'selectedAttendeeCompany', 'selectedAttendeeRole']
+        'selectedAttendeeEmail', 'selectedAttendeeCompany', 'selectedAttendeeRole',
+        'selectedMatches']
         .forEach((k) => window.localStorage.removeItem(k));
     }
     router.push('/select-name');
@@ -23,7 +24,7 @@ export default function ConfirmationPage() {
           <div className="text-5xl mb-6">✨</div>
           <h1 className="text-3xl sm:text-4xl font-bold mb-3">WALLi&apos;s on it.</h1>
           <p className="text-base text-mw-white/80 leading-relaxed">
-            Your three matches are on their way to your inbox.
+            Your intro request is on its way to your inbox.
             <br />
             Drop by the Moving Walls booth and Agent WALLi&apos;s team will make the intro in person.
           </p>
