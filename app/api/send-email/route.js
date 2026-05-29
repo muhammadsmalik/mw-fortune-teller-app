@@ -7,6 +7,29 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 const FROM_EMAIL = process.env.RESEND_FROM_EMAIL || 'onboarding@resend.dev'; // Replace with your verified Resend "from" email or set in .env
 const EMAIL_FOOTER_IMAGE_URL = process.env.EMAIL_FOOTER_URL || 'https://placehold.co/600x100/0B1C3D/FFFFFF/png?text=Your+Company+Logo+Here'; // Replace with your actual public image URL or set in .env
 
+// --- Email test mode (booth testing) ---
+// When EMAIL_TEST_MODE=true, EVERY outbound email is rerouted to the fixed
+// EMAIL_TEST_RECIPIENTS list instead of the real attendee/DRI, so a test run can
+// never hit a real inbox. Server-only (no NEXT_PUBLIC_ prefix) so it can't be
+// toggled from the client. Both env vars live in .env; flip the flag off before
+// the live event.
+const EMAIL_TEST_MODE = process.env.EMAIL_TEST_MODE === 'true';
+const EMAIL_TEST_RECIPIENTS = (process.env.EMAIL_TEST_RECIPIENTS || '')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
+
+// Single chokepoint every send passes through: in test mode it swaps the real
+// recipient for the test list and prefixes the subject with the intended target
+// so you can still see where it WOULD have gone.
+function resolveDelivery(emailTo, subject) {
+  if (EMAIL_TEST_MODE && EMAIL_TEST_RECIPIENTS.length > 0) {
+    console.log(`[send-email] TEST MODE — rerouting ${emailTo} -> ${EMAIL_TEST_RECIPIENTS.join(', ')}`);
+    return { to: EMAIL_TEST_RECIPIENTS, subject: `[TEST→${emailTo}] ${subject}` };
+  }
+  return { to: [emailTo], subject };
+}
+
 // Look up the attendee's precomputed twin from the twinning pipeline state
 // (scripts/twins.json), matched by the name we already have. Returns { twin, reason } or null.
 // The twin is delivered ONLY in the email (not on screen) so a real address is required to receive it.
@@ -102,6 +125,12 @@ function selfScoreSection(selfScore, selfSubScores) {
 }
 
 // ---------- New WOO booth flow templates ----------
+// Shared styled <ul> of talking points, used by both booth templates so the list
+// styling lives in one place. Callers supply their own (context-specific) heading.
+function talkingPointsList(items) {
+  return `<ul style="margin:0;padding-left:18px;">${(items || []).map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>`;
+}
+
 function twinConfirmationHtml({ fullName, matches }) {
   const cards = (matches || []).map((m) => `
     <div style="margin:14px 0;padding:14px 16px;background:#fbfcff;border:1px solid #dde6f5;border-radius:8px;">
@@ -109,7 +138,7 @@ function twinConfirmationHtml({ fullName, matches }) {
       <p style="margin:2px 0 8px;font-size:13px;color:#555;">${[m.role, m.company].filter(Boolean).join(' — ')}</p>
       ${Array.isArray(m.talkingPoints) && m.talkingPoints.length ? `
         <p style="margin:0 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Talking points</p>
-        <ul style="margin:0;padding-left:18px;">${m.talkingPoints.map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>
+        ${talkingPointsList(m.talkingPoints)}
       ` : ''}
     </div>`).join('');
   const count = (matches || []).length;
@@ -126,13 +155,45 @@ function twinConfirmationHtml({ fullName, matches }) {
     </body></html>`;
 }
 
+// Intro email to a matched person: the attendee asked to meet them, with the
+// proposed networking-break slot and the grounded "why you two" talking points.
+// Reply-to is set to the attendee (in the route) so the match can respond directly.
+function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, meetingSlot, matchReason, talkingPoints }) {
+  const requester = [attendeeRole, attendeeCompany].filter(Boolean).join(', ');
+  const slot = meetingSlot ? `
+    <div style="margin:16px 0;padding:12px 16px;background:#f0f6ff;border:1px solid #b9d4f0;border-radius:8px;">
+      <p style="margin:0;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Suggested meeting time</p>
+      <p style="margin:4px 0 0;font-size:16px;font-weight:bold;color:#151E43;">${meetingSlot}</p>
+    </div>` : '';
+  const tp = Array.isArray(talkingPoints) && talkingPoints.length ? `
+    <p style="margin:18px 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">What you two share</p>
+    ${talkingPointsList(talkingPoints)}
+  ` : '';
+  return `
+    <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
+      <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
+        <p style="font-size:1.2em;font-weight:bold;">Hello ${matchName || 'there'},</p>
+        <p>Agent WALLi here — your AI Concierge Wizard at WOO London. <strong>${attendeeName || 'An attendee'}</strong>${requester ? ` (${requester})` : ''} would like to meet you at the event.</p>
+        ${matchReason ? `<p style="font-style:italic;color:#555;">${matchReason}</p>` : ''}
+        ${slot}
+        ${tp}
+        <p style="margin-top:20px;">Just reply to this email to confirm or suggest another time, or drop by the Moving Walls booth and we&apos;ll introduce you in person.</p>
+        <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
+      </div>
+    </body></html>`;
+}
+
 function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company, role, linkedinUrl, attendeeSlug, matches }) {
   const matchLines = (matches || []).map((m) => {
     const meta = [m.role, m.company].filter(Boolean).join(', ');
     const li = m.linkedinUrl
       ? `<a href="${m.linkedinUrl}" style="color:#2554A2;">${m.name || m.linkedinUrl}</a>`
       : (m.name || '');
-    return `<li style="margin:3px 0;">${li}${meta ? ` — ${meta}` : ''}</li>`;
+    // Flag whether WALLi already emailed this match or the DRI must intro manually.
+    const status = m.email
+      ? `<span style="color:#15803d;">(emailed: ${m.email})</span>`
+      : `<span style="color:#b45309;font-weight:bold;">(no email — needs manual intro)</span>`;
+    return `<li style="margin:3px 0;">${li}${meta ? ` — ${meta}` : ''} ${status}</li>`;
   }).join('') || '<li>(no match data attached)</li>';
   const count = (matches || []).length;
   const emailRow = emailOnFile
@@ -158,24 +219,31 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     </body></html>`;
 }
 
+// Booth-flow templates, keyed by the `template` field in the request body.
+const BOOTH_TEMPLATES = {
+  twinConfirmation: twinConfirmationHtml,
+  salesRepNotification: salesRepNotificationHtml,
+  matchIntro: matchIntroHtml,
+};
+
 export async function POST(request) {
   try {
     const body = await request.json();
     const { template, emailTo, subject } = body;
 
     // ----- New booth-flow templates (keyed off `template`) -----
-    if (template === 'twinConfirmation' || template === 'salesRepNotification') {
+    if (BOOTH_TEMPLATES[template]) {
       if (!emailTo || !subject) {
         return NextResponse.json({ message: 'Missing required fields: emailTo or subject' }, { status: 400 });
       }
-      const html = template === 'twinConfirmation'
-        ? twinConfirmationHtml(body)
-        : salesRepNotificationHtml(body);
+      const { to, subject: finalSubject } = resolveDelivery(emailTo, subject);
       const { data, error } = await resend.emails.send({
         from: `Moving Walls <${FROM_EMAIL}>`,
-        to: [emailTo],
-        subject,
-        html,
+        to,
+        subject: finalSubject,
+        html: BOOTH_TEMPLATES[template](body),
+        // matchIntro passes replyTo so the match can respond straight to the attendee.
+        ...(body.replyTo && { replyTo: body.replyTo }),
       });
       if (error) {
         console.error('Resend API Error Details:', JSON.stringify(error, null, 2));
@@ -255,10 +323,11 @@ export async function POST(request) {
       </html>
     `;
 
+    const { to, subject: finalSubject } = resolveDelivery(emailTo, subject);
     const { data, error } = await resend.emails.send({
       from: `Moving Walls Fortune Teller <${FROM_EMAIL}>`,
-      to: [emailTo],
-      subject: subject,
+      to,
+      subject: finalSubject,
       html: htmlContent,
     });
 

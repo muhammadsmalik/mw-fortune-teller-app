@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
+import { ArrowLeft } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
@@ -49,7 +50,7 @@ export default function ConciergePage() {
   // These live in a ref (not localStorage), so they reset on refresh — a duplicate
   // email is harmless. The sheet row is the opposite: a duplicate matters, so it's
   // guarded by a localStorage marker (LEAD_SAVED_KEY) that survives a refresh.
-  const sent = useRef({ attendee: false, dri: false });
+  const sent = useRef({ attendee: false, dri: false, matches: new Set() });
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -159,6 +160,32 @@ export default function ConciergePage() {
           })
         );
       }
+
+      // 3. Invite each selected match that has an email on file. Matches without
+      //    an email are skipped here and flagged in the DRI notification for a
+      //    manual intro. Reply-to is the attendee so the match can respond directly.
+      matches.forEach((m) => {
+        const key = m.slug || m.email;
+        if (!m.email || sent.current.matches.has(key)) return;
+        emailTasks.push(
+          postJson('/api/send-email', {
+            template: 'matchIntro',
+            emailTo: m.email,
+            replyTo: email,
+            subject: `${ctx.name} would like to meet you at WOO London`,
+            matchName: m.name,
+            attendeeName: ctx.name,
+            attendeeRole: ctx.role,
+            attendeeCompany: ctx.company,
+            meetingSlot: m.meetingSlot || '',
+            matchReason: m.matchReason,
+            talkingPoints: m.talkingPoints,
+          }).then(() => {
+            sent.current.matches.add(key);
+          })
+        );
+      });
+
       await Promise.all(emailTasks);
 
       if (typeof window !== 'undefined') {
@@ -179,6 +206,13 @@ export default function ConciergePage() {
       <div aria-hidden className="pointer-events-none absolute left-1/2 top-0 h-96 w-96 -translate-x-1/2 rounded-full bg-mw-blue-electric/15 blur-3xl" />
       <main className="relative flex-grow flex flex-col items-center px-4 pt-12 pb-8">
         <div className="w-full max-w-md">
+          <button
+            type="button"
+            onClick={() => router.push('/reveal')}
+            className="mb-6 inline-flex items-center gap-1.5 text-sm text-white/70 transition-colors hover:text-white"
+          >
+            <ArrowLeft className="h-4 w-4" /> Back
+          </button>
           <div className="flex justify-center mb-4">
             <WalliAvatar pose="presenting" size={72} />
           </div>

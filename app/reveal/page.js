@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowUpRight, Building2, MessageSquareText, Sparkles, Users } from 'lucide-react';
+import { ArrowLeft, ArrowUpRight, Building2, MessageSquareText, Sparkles, Users } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import MatchCard from '@/components/twin-reveal/MatchCard';
 import Avatar from '@/components/twin-reveal/Avatar';
@@ -68,6 +68,13 @@ export default function RevealPage() {
     <div className="relative overflow-hidden min-h-screen bg-gradient-to-br from-mw-navy-void via-mw-navy-deep to-mw-navy-gunmetal text-mw-white">
       <div aria-hidden className="pointer-events-none absolute left-1/3 top-0 h-[28rem] w-[28rem] -translate-x-1/2 rounded-full bg-mw-blue-electric/12 blur-3xl" />
       <main className="relative mx-auto flex w-full max-w-7xl flex-col gap-8 px-4 py-6 sm:px-6 lg:px-8">
+        <button
+          type="button"
+          onClick={() => router.push('/select-name')}
+          className="inline-flex items-center gap-1.5 self-start text-sm text-white/70 transition-colors hover:text-white"
+        >
+          <ArrowLeft className="h-4 w-4" /> Back
+        </button>
         <section className="grid grid-cols-1 gap-6 lg:grid-cols-[0.9fr_1.35fr]">
           {/* ---------- Source profile ---------- */}
           <div className="flex flex-col rounded-lg border border-white/10 bg-[#151E43]/72 p-5 shadow-2xl shadow-black/20 backdrop-blur sm:p-6">
