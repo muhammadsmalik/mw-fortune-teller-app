@@ -1,1 +1,980 @@
-{}
+{
+  "guillermo-de-lella": {
+    "source": {
+      "headshotUrl": "/match-photos/254.jpg"
+    },
+    "matches": [
+      {
+        "slug": "bartanian",
+        "index": 249,
+        "name": "Kevin Bartanian",
+        "role": "Founder + CEO",
+        "company": "KEVANI",
+        "country": "United States of America",
+        "confidence": "High",
+        "matchReason": "US OOH asset development leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/bartanian",
+        "headshotUrl": "/match-photos/249.jpg",
+        "talkingPoints": [
+          "You're both founder/CEO owner-operators building OOH/DOOH assets — Guillermo leading ALOOH across LATAM, Kevin running KEVANI's full-motion digital and premium static inventory in California, New York and Maryland. A natural exchange on how asset development differs market-to-market.",
+          "Guillermo writes about DOOH digitalization, new formats and technology on urban surfaces; Kevin's feed is exactly that — launching landmarks like Nexus, The Trio and Squareview in Times Square. Compare notes on building iconic digital media destinations.",
+          "You both post about AI applied to OOH — Guillermo on technology applied to OOH, Kevin specifically on using AI to localize out-of-home creative at scale. A concrete topic to dig into."
+        ]
+      },
+      {
+        "slug": "efthimios-sotos-a5468722",
+        "index": 250,
+        "name": "Efthimios Sotos",
+        "role": "Chief Operating and Financial Officer",
+        "company": "KEVANI",
+        "country": "United States of America",
+        "confidence": "High",
+        "matchReason": "US DOOH media ownership leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/efthimios-sotos-a5468722",
+        "headshotUrl": "/match-photos/250.jpg",
+        "talkingPoints": [
+          "Efthimios is COO/CFO of KEVANI, a US DOOH media owner, while Guillermo leads the LATAM OOH ecosystem at ALOOH — a complementary pairing of operational/financial leadership with regional industry-building. Good ground to compare what scaling an OOH business looks like in each market.",
+          "You both promote large-format, high-impact iconic media — Guillermo on new OOH formats for LATAM cities, Efthimios posting about KEVANI assets like Melrose Lights West and '12,000 square feet of high-visibility, high-impact digital media'. Easy opener on premium digital inventory.",
+          "Efthimios shares industry data points (an OAAA/Harris Poll, Talon OOH benchmarks); Guillermo writes about measurement and data use in OOH — a shared interest in the numbers behind the medium."
+        ]
+      },
+      {
+        "slug": "markboidman",
+        "index": 339,
+        "name": "Mark Boidman",
+        "role": "Partner, Media & Entertainment Group Head - Investment Banking",
+        "company": "Solomon Partners",
+        "country": "United States of America",
+        "confidence": "High",
+        "matchReason": "US OAAA association leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/markboidman",
+        "headshotUrl": "/match-photos/339.jpg",
+        "talkingPoints": [
+          "Guillermo sits on the World Out of Home Organization board; Mark served on the board of the Digital Signage Federation and is the OOH/DOOH-dedicated investment banker at Solomon Partners. Two industry-body veterans of out-of-home — a strong opener on where the global OOH industry is heading.",
+          "Mark is the author of 'Times Square Everywhere' and posts that 'it's time for DOOH to move beyond the billboard'; Guillermo writes about DOOH evolution and new formats for LATAM. A direct conversation on the next wave of DOOH.",
+          "Mark advises OOH operators globally (Clear Channel, OUTFRONT and others) and runs Solomon's Global Media Summit; Guillermo leads OOH integration across LATAM. Complementary angle: regional industry-building meets cross-border OOH M&A and capital."
+        ]
+      }
+    ]
+  },
+  "declan-carnes-61911b60": {
+    "source": {
+      "headshotUrl": "/match-photos/20.jpg"
+    },
+    "matches": [
+      {
+        "slug": "vincenzo-nacci-b5850622a",
+        "index": 94,
+        "name": "VINCENZO NACCI",
+        "role": "Imprenditore/Imprenditrice",
+        "company": "ERGO ITALIA SRL",
+        "country": "Italy",
+        "confidence": "High",
+        "matchReason": "Global OMA leadership alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/vincenzo-nacci-b5850622a",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "kath-mitchell-a8a9a910",
+        "index": 120,
+        "name": "Kath Mitchell",
+        "role": "Chief Executive Officer",
+        "company": "Out of Home Media Association Aotearoa",
+        "country": "New Zealand",
+        "confidence": "High",
+        "matchReason": "ANZ OOH association leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/kath-mitchell-a8a9a910",
+        "headshotUrl": "/match-photos/120.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "fatiu-a-akiolu-03935638",
+        "index": 121,
+        "name": "Fatiu A. Akiolu",
+        "role": "MD/ CEO",
+        "company": "LAGOS STATE SIGNAGE AND ADVERTISEMENT AGENCY (LASAA)",
+        "country": "Nigeria",
+        "confidence": "High",
+        "matchReason": "Cross-regional OOH association executive peer",
+        "linkedinUrl": "https://www.linkedin.com/in/fatiu-a-akiolu-03935638",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "whitford-adam": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "declan-carnes-61911b60",
+        "index": 20,
+        "name": "Declan Carnes",
+        "role": "Chief Operating Officer",
+        "company": "POA Billboards",
+        "country": "Australia",
+        "confidence": "High",
+        "matchReason": "Australian OOH strategy and association peer",
+        "linkedinUrl": "https://www.linkedin.com/in/declan-carnes-61911b60",
+        "headshotUrl": "/match-photos/20.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "david-watkins-2017",
+        "index": 14,
+        "name": "David Watkins",
+        "role": "Co-Chief Executive Officer",
+        "company": "JCDecaux Australia",
+        "country": "Australia",
+        "confidence": "High",
+        "matchReason": "Australian OOH commercial strategy alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/david-watkins-2017",
+        "headshotUrl": "/match-photos/14.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "richard-albanesi",
+        "index": 353,
+        "name": "Richard Albanesi",
+        "role": "CEO",
+        "company": "THE LED Oficial",
+        "country": "Brazil",
+        "confidence": "High",
+        "matchReason": "OOH partnerships in Australia",
+        "linkedinUrl": "https://www.linkedin.com/in/richard-albanesi",
+        "headshotUrl": "/match-photos/353.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "cook-noel": {
+    "source": {
+      "headshotUrl": "/match-photos/352.jpg"
+    },
+    "matches": [
+      {
+        "slug": "leah-whitford-3b65364",
+        "index": 8,
+        "name": "Leah Whitford",
+        "role": "Head Of Partnerships/Group Sales",
+        "company": "Civic Outdoor",
+        "country": "Australia",
+        "confidence": "High",
+        "matchReason": "Australian DOOH platform leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/leah-whitford-3b65364",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "paul-maher-1913b136",
+        "index": 119,
+        "name": "Paul Maher",
+        "role": "Independent Chair",
+        "company": "Out of Home Media Association Aotearoa",
+        "country": "New Zealand",
+        "confidence": "High",
+        "matchReason": "ANZ programmatic DOOH alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/paul-maher-1913b136",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "antonio-vincenti-86b79323",
+        "index": 449,
+        "name": "Antonio Vincenti",
+        "role": "Chairman & CEO",
+        "company": "Pikasso",
+        "country": "Italy",
+        "confidence": "High",
+        "matchReason": "Australian DOOH advisory and platform peer",
+        "linkedinUrl": "https://www.linkedin.com/in/antonio-vincenti-86b79323",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "tom%c3%a1s-almarza-villaseca-06174939": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "casey-binkley",
+        "index": 48,
+        "name": "Casey Binkley",
+        "role": "Founder & CEO",
+        "company": "Movia",
+        "country": "Canada",
+        "confidence": "High",
+        "matchReason": "Canadian OOH industry leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/casey-binkley",
+        "headshotUrl": "/match-photos/48.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "troy-yang-a2a1075",
+        "index": 362,
+        "name": "Troy Yang",
+        "role": "MD, APAC",
+        "company": "Perion",
+        "country": "Hong Kong",
+        "confidence": "Medium",
+        "matchReason": "Canadian OOH display manufacturing partnerships",
+        "linkedinUrl": "https://www.linkedin.com/in/troy-yang-a2a1075",
+        "headshotUrl": "/match-photos/362.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "henryinnis",
+        "index": 324,
+        "name": "Henry Innis",
+        "role": "Co-Founder",
+        "company": "Mutinex",
+        "country": "United States of America",
+        "confidence": "Medium",
+        "matchReason": "North American OOH marketing strategy",
+        "linkedinUrl": "https://www.linkedin.com/in/henryinnis",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "hana-friedlaenderov%c3%a1-b415248": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "ricardo-echeverri-92201a44",
+        "index": 55,
+        "name": "Ricardo Echeverri",
+        "role": "CEO",
+        "company": "iCo Medios",
+        "country": "Colombia",
+        "confidence": "High",
+        "matchReason": "Colombian DOOH leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/ricardo-echeverri-92201a44",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "fernando-peláez-corominas",
+        "index": 263,
+        "name": "Fernando Peláez Corominas",
+        "role": "Corporate Advertising Manager / Aerodom",
+        "company": "VINCI Airports",
+        "country": "Dominican Republic",
+        "confidence": "High",
+        "matchReason": "Colombian OOH market leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/fernando-peláez-corominas",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "michael-nettlefold-938b05bb",
+        "index": 255,
+        "name": "Michael Nettlefold",
+        "role": "Executive Director",
+        "company": "nettlefold.",
+        "country": "Australia",
+        "confidence": "High",
+        "matchReason": "LatAm OOH industry leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-nettlefold-938b05bb",
+        "headshotUrl": "/match-photos/255.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "yiannis-portokalakis-54688740": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "juliane-stanglmayr-9a4818148",
+        "index": 65,
+        "name": "Juliane Stanglmayr",
+        "role": "Leitung Marketing",
+        "company": "eisbach.media",
+        "country": "Germany",
+        "confidence": "High",
+        "matchReason": "German DOOH agency sales peer",
+        "linkedinUrl": "https://www.linkedin.com/in/juliane-stanglmayr-9a4818148",
+        "headshotUrl": "/match-photos/65.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "stefan-kiesewalter-92b949a6",
+        "index": 69,
+        "name": "Stefan Kiesewalter",
+        "role": "Head of International Media Department",
+        "company": "Weischer.OOH",
+        "country": "Germany",
+        "confidence": "High",
+        "matchReason": "German OOH sales and marketing alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/stefan-kiesewalter-92b949a6",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "martina-jaskowiak-0099686b",
+        "index": 64,
+        "name": "Martina Jaskowiak",
+        "role": "Teamlead Agency Sales ",
+        "company": "eisbach.media",
+        "country": "Germany",
+        "confidence": "Medium",
+        "matchReason": "German OOH sales and marketing peer",
+        "linkedinUrl": "https://www.linkedin.com/in/martina-jaskowiak-0099686b",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "chirag-vasudeva-b599a5174": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "harry-drakes-b6782545",
+        "index": 350,
+        "name": "Harry Drakes",
+        "role": "UK Foods Senior Media Strategy & Planning Manager",
+        "company": "PepsiCo",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "Global OOH industry consultancy alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/harry-drakes-b6782545",
+        "headshotUrl": "/match-photos/350.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "gaurav-verma-323405",
+        "index": 88,
+        "name": "Gaurav Verma",
+        "role": "",
+        "company": "",
+        "country": "India",
+        "confidence": "High",
+        "matchReason": "Indian OOH association leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/gaurav-verma-323405",
+        "headshotUrl": "/match-photos/88.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "sanaya-mehta-vyas-15436a73",
+        "index": 84,
+        "name": "Sanaya Mehta Vyas",
+        "role": "Vice President",
+        "company": "Rugby India",
+        "country": "India",
+        "confidence": "High",
+        "matchReason": "Indian OOH agency network alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/sanaya-mehta-vyas-15436a73",
+        "headshotUrl": "/match-photos/84.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "prashant-verma-23a045aa": {
+    "source": {
+      "headshotUrl": "/match-photos/82.jpg"
+    },
+    "matches": [
+      {
+        "slug": "jahan-mehta-2a394b188",
+        "index": 79,
+        "name": "Jahan Mehta",
+        "role": "Director",
+        "company": "Selvel One Group",
+        "country": "India",
+        "confidence": "High",
+        "matchReason": "Indian OOH media leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/jahan-mehta-2a394b188",
+        "headshotUrl": "/match-photos/79.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "abhijitsenguptaoap",
+        "index": 80,
+        "name": "Abhijit Sengupta",
+        "role": "CEO",
+        "company": "OAP Mediatech",
+        "country": "India",
+        "confidence": "High",
+        "matchReason": "Indian OOH leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/abhijitsenguptaoap",
+        "headshotUrl": "/match-photos/80.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "amannanda",
+        "index": 86,
+        "name": "Aman Nanda",
+        "role": "Chief Strategy Officer (CSO), Chief Human Resources Officer (CHRO) and Head Marketing",
+        "company": "Times Innovative Media Limited - (The Times Group)",
+        "country": "India",
+        "confidence": "Medium",
+        "matchReason": "Indian media group leadership alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/amannanda",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "boaca-dio": {
+    "source": {
+      "headshotUrl": "/match-photos/140.jpg"
+    },
+    "matches": [
+      {
+        "slug": "daewonjameskim",
+        "index": 139,
+        "name": "Daewon Kim",
+        "role": "Chief Executive Officer",
+        "company": "PODO MEDIA",
+        "country": "South Korea",
+        "confidence": "High",
+        "matchReason": "South Korean OOH media representation peer",
+        "linkedinUrl": "https://www.linkedin.com/in/daewonjameskim",
+        "headshotUrl": "/match-photos/139.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "ahmed-albadwi-61b559107",
+        "index": 106,
+        "name": "Ahmed Albadwi",
+        "role": "Client Services, Team Leader",
+        "company": "LIVE BOARD,INC.",
+        "country": "Japan",
+        "confidence": "Medium",
+        "matchReason": "APAC DOOH platform leadership alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/ahmed-albadwi-61b559107",
+        "headshotUrl": "/match-photos/106.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "mehul-mandalia",
+        "index": 421,
+        "name": "Mehul Mandalia",
+        "role": "Co-Founder & Head of Platforms",
+        "company": "Moving Walls",
+        "country": "Malaysia",
+        "confidence": "Medium",
+        "matchReason": "APAC adtech and data platform peer",
+        "linkedinUrl": "https://www.linkedin.com/in/mehul-mandalia",
+        "headshotUrl": "/match-photos/421.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "ursan-bogdan": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "damian-rezner-36309656",
+        "index": 132,
+        "name": "Damian Rezner",
+        "role": "COO / Board Member",
+        "company": "Screen Network",
+        "country": "Poland",
+        "confidence": "Medium",
+        "matchReason": "Eastern European DOOH leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/damian-rezner-36309656",
+        "headshotUrl": "/match-photos/132.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "aleksandra-ilic-aa867246",
+        "index": 143,
+        "name": "Aleksandra Ilic",
+        "role": "Sales Manager",
+        "company": "DPC Networks Member of DPC Group",
+        "country": "Serbia",
+        "confidence": "Medium",
+        "matchReason": "Eastern European OOH operations peer",
+        "linkedinUrl": "https://www.linkedin.com/in/aleksandra-ilic-aa867246",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "marios-gripiotis-a423881a0",
+        "index": 73,
+        "name": "Marios Gripiotis",
+        "role": "Commercial Director",
+        "company": "Politis Group",
+        "country": "Greece",
+        "confidence": "Medium",
+        "matchReason": "European OOH transformation and leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/marios-gripiotis-a423881a0",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "omura-kohei": {
+    "source": {
+      "headshotUrl": "/match-photos/105.jpg"
+    },
+    "matches": [
+      {
+        "slug": "lauralearmouth",
+        "index": 210,
+        "name": "Laura Learmouth",
+        "role": "International Commercial Director",
+        "company": "Evolve OOH",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK international OOH commercial leadership",
+        "linkedinUrl": "https://www.linkedin.com/in/lauralearmouth",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "stephany-villarreal-45a75b3b",
+        "index": 377,
+        "name": "Stephany Villarreal",
+        "role": "Design Engineering Manager",
+        "company": "Dematic",
+        "country": "Mexico",
+        "confidence": "High",
+        "matchReason": "Cross-market Italy/UK media activation",
+        "linkedinUrl": "https://www.linkedin.com/in/stephany-villarreal-45a75b3b",
+        "headshotUrl": "/match-photos/377.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "thibaultleca",
+        "index": 402,
+        "name": "Thibault Leca",
+        "role": "Managing Director",
+        "company": "MEDIAKEYS",
+        "country": "France",
+        "confidence": "High",
+        "matchReason": "UK international OOH media activation peer",
+        "linkedinUrl": "https://www.linkedin.com/in/thibaultleca",
+        "headshotUrl": "/match-photos/402.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "kim-labuschagne-bb9599179": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "mzukisi-deliwe-1041784a",
+        "index": 159,
+        "name": "Mzukisi Deliwe",
+        "role": "Deputy CEO",
+        "company": "Provantage Media Group",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/mzukisi-deliwe-1041784a",
+        "headshotUrl": "/match-photos/159.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "shamendran-naidu-4874a32a",
+        "index": 161,
+        "name": "Shamendran Naidu",
+        "role": "Executive Director",
+        "company": "Provantage Media and Marketing Pty Ltd",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African DOOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/shamendran-naidu-4874a32a",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "sergi-lópez-253576142",
+        "index": 301,
+        "name": "Sergi López",
+        "role": "Director ejecutivo",
+        "company": "Alpha Media Group",
+        "country": "Spain",
+        "confidence": "High",
+        "matchReason": "South African OOH media growth leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/sergi-lópez-253576142",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "du-preez-remi": {
+    "source": {
+      "headshotUrl": "/match-photos/153.jpg"
+    },
+    "matches": [
+      {
+        "slug": "shamendran-naidu-4874a32a",
+        "index": 161,
+        "name": "Shamendran Naidu",
+        "role": "Executive Director",
+        "company": "Provantage Media and Marketing Pty Ltd",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/shamendran-naidu-4874a32a",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "mzukisi-deliwe-1041784a",
+        "index": 159,
+        "name": "Mzukisi Deliwe",
+        "role": "Deputy CEO",
+        "company": "Provantage Media Group",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/mzukisi-deliwe-1041784a",
+        "headshotUrl": "/match-photos/159.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "kim-labuschagne-bb9599179",
+        "index": 147,
+        "name": "Kim Labuschagne",
+        "role": "Head of Operations",
+        "company": "Innovocean",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African DOOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/kim-labuschagne-bb9599179",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "gray-kyle": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "bongumusa-makhathini-a9a96724",
+        "index": 158,
+        "name": "Bongumusa  Makhathini",
+        "role": "Chief Executive Officer of Primedia Out of Home and Primedia Studios",
+        "company": "Primedia Group",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African pDOOH network technology peer",
+        "linkedinUrl": "https://www.linkedin.com/in/bongumusa-makhathini-a9a96724",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "michael-brits-a4025748",
+        "index": 163,
+        "name": "Michael Brits",
+        "role": "Head of Development",
+        "company": "Tractor Outdoor",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH sustainability and data peer",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-brits-a4025748",
+        "headshotUrl": "/match-photos/163.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "sergi-lópez-253576142",
+        "index": 301,
+        "name": "Sergi López",
+        "role": "Director ejecutivo",
+        "company": "Alpha Media Group",
+        "country": "Spain",
+        "confidence": "High",
+        "matchReason": "South African OOH media growth leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/sergi-lópez-253576142",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "mouton-ruchelle": {
+    "source": {
+      "headshotUrl": "/match-photos/145.jpg"
+    },
+    "matches": [
+      {
+        "slug": "mzukisi-deliwe-1041784a",
+        "index": 159,
+        "name": "Mzukisi Deliwe",
+        "role": "Deputy CEO",
+        "company": "Provantage Media Group",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH media group CEO peer",
+        "linkedinUrl": "https://www.linkedin.com/in/mzukisi-deliwe-1041784a",
+        "headshotUrl": "/match-photos/159.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "shamendran-naidu-4874a32a",
+        "index": 161,
+        "name": "Shamendran Naidu",
+        "role": "Executive Director",
+        "company": "Provantage Media and Marketing Pty Ltd",
+        "country": "South Africa",
+        "confidence": "High",
+        "matchReason": "South African OOH media operations peer",
+        "linkedinUrl": "https://www.linkedin.com/in/shamendran-naidu-4874a32a",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "sergi-lópez-253576142",
+        "index": 301,
+        "name": "Sergi López",
+        "role": "Director ejecutivo",
+        "company": "Alpha Media Group",
+        "country": "Spain",
+        "confidence": "High",
+        "matchReason": "South African OOH media growth leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/sergi-lópez-253576142",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "michel-helmes-9aab324": {
+    "source": {
+      "headshotUrl": ""
+    },
+    "matches": [
+      {
+        "slug": "radjenv",
+        "index": 185,
+        "name": "radjen van wilsem",
+        "role": "CEO",
+        "company": "CS Digital Media",
+        "country": "Netherlands",
+        "confidence": "High",
+        "matchReason": "Dutch DOOH data and measurement peer",
+        "linkedinUrl": "https://www.linkedin.com/in/radjenv",
+        "headshotUrl": "/match-photos/185.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "frankvallenga",
+        "index": 389,
+        "name": "Frank Vallenga",
+        "role": "VP of Sales (SaaS)",
+        "company": "Broadsign",
+        "country": "Netherlands",
+        "confidence": "High",
+        "matchReason": "Global programmatic DOOH platform alignment",
+        "linkedinUrl": "https://www.linkedin.com/in/frankvallenga",
+        "headshotUrl": "/match-photos/389.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "sita-bakker-574b947",
+        "index": 271,
+        "name": "Sita Bakker",
+        "role": "Owner",
+        "company": "Sita Bakker Media Consultancy & Coaching",
+        "country": "Netherlands",
+        "confidence": "High",
+        "matchReason": "Dutch DOOH programmatic platform peer",
+        "linkedinUrl": "https://www.linkedin.com/in/sita-bakker-574b947",
+        "headshotUrl": "",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "ball-jamie": {
+    "source": {
+      "headshotUrl": "/match-photos/311.jpg"
+    },
+    "matches": [
+      {
+        "slug": "jerôme-schalkwijk-117b7455",
+        "index": 214,
+        "name": "Jerôme Schalkwijk",
+        "role": "Managing Director and Chief Technology Officer",
+        "company": "Intrasonics, an Ipsos Company",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK OOH audience measurement peer",
+        "linkedinUrl": "https://www.linkedin.com/in/jerôme-schalkwijk-117b7455",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "ian-wyatt-4488a24",
+        "index": 238,
+        "name": "Ian Wyatt",
+        "role": "Chief Information Officer",
+        "company": "Route Research Ltd.",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK OOH audience research peer",
+        "linkedinUrl": "https://www.linkedin.com/in/ian-wyatt-4488a24",
+        "headshotUrl": "/match-photos/238.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "dallas-wiles-319b6228",
+        "index": 334,
+        "name": "Dallas Wiles",
+        "role": "Co-Chief Executive Officer",
+        "company": "JCDecaux UK",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK OOH audience measurement and verification",
+        "linkedinUrl": "https://www.linkedin.com/in/dallas-wiles-319b6228",
+        "headshotUrl": "/match-photos/334.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "dearden-matthew": {
+    "source": {
+      "headshotUrl": "/match-photos/341.jpg"
+    },
+    "matches": [
+      {
+        "slug": "mehul-mandalia",
+        "index": 421,
+        "name": "Mehul Mandalia",
+        "role": "Co-Founder & Head of Platforms",
+        "company": "Moving Walls",
+        "country": "Malaysia",
+        "confidence": "High",
+        "matchReason": "APAC adtech and data platform peer",
+        "linkedinUrl": "https://www.linkedin.com/in/mehul-mandalia",
+        "headshotUrl": "/match-photos/421.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "juliencanipel",
+        "index": 425,
+        "name": "Julien Canipel",
+        "role": "Co-fondateur",
+        "company": "Creavibes",
+        "country": "France",
+        "confidence": "High",
+        "matchReason": "APAC digital marketing and adtech peer",
+        "linkedinUrl": "https://www.linkedin.com/in/juliencanipel",
+        "headshotUrl": "/match-photos/425.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "ahmed-albadwi-61b559107",
+        "index": 106,
+        "name": "Ahmed Albadwi",
+        "role": "Client Services, Team Leader",
+        "company": "LIVE BOARD,INC.",
+        "country": "Japan",
+        "confidence": "High",
+        "matchReason": "APAC DOOH platform leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/ahmed-albadwi-61b559107",
+        "headshotUrl": "/match-photos/106.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "andy-francksen1": {
+    "source": {
+      "headshotUrl": "/match-photos/219.jpg"
+    },
+    "matches": [
+      {
+        "slug": "simon-pitts-006a901",
+        "index": 314,
+        "name": "Simon Pitts",
+        "role": "Group Chief Executive",
+        "company": "Global",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK airport and events media sales peer",
+        "linkedinUrl": "https://www.linkedin.com/in/simon-pitts-006a901",
+        "headshotUrl": "/match-photos/314.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "billy-byam-cook-b5823251",
+        "index": 222,
+        "name": "Billy Byam-Cook",
+        "role": "Group CFO",
+        "company": "Ocean Outdoor",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK OOH media labs and innovation peer",
+        "linkedinUrl": "https://www.linkedin.com/in/billy-byam-cook-b5823251",
+        "headshotUrl": "",
+        "talkingPoints": []
+      },
+      {
+        "slug": "james-rodham-562a7537",
+        "index": 320,
+        "name": "James Rodham",
+        "role": "Chief Commercial Officer UK",
+        "company": "Talon",
+        "country": "United Kingdom",
+        "confidence": "High",
+        "matchReason": "UK OOH commercial direction peer",
+        "linkedinUrl": "https://www.linkedin.com/in/james-rodham-562a7537",
+        "headshotUrl": "/match-photos/320.jpg",
+        "talkingPoints": []
+      }
+    ]
+  },
+  "bartanian-kevin": {
+    "source": {
+      "headshotUrl": "/match-photos/249.jpg"
+    },
+    "matches": [
+      {
+        "slug": "guillermo-de-lella",
+        "index": 254,
+        "name": "Guillermo De Lella",
+        "role": "Director",
+        "company": "Mobees DOOH",
+        "country": "Argentina",
+        "confidence": "High",
+        "matchReason": "US OOH asset development leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/guillermo-de-lella",
+        "headshotUrl": "/match-photos/254.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "efthimios-sotos-a5468722",
+        "index": 250,
+        "name": "Efthimios Sotos",
+        "role": "Chief Operating and Financial Officer",
+        "company": "KEVANI",
+        "country": "United States of America",
+        "confidence": "High",
+        "matchReason": "US DOOH media ownership leadership peer",
+        "linkedinUrl": "https://www.linkedin.com/in/efthimios-sotos-a5468722",
+        "headshotUrl": "/match-photos/250.jpg",
+        "talkingPoints": []
+      },
+      {
+        "slug": "dj-jennings-b854867a",
+        "index": 414,
+        "name": "DJ Jennings",
+        "role": "Chief Executive Officer",
+        "company": "Outdoorlink",
+        "country": "United States of America",
+        "confidence": "High",
+        "matchReason": "US OOH technological solutions peer",
+        "linkedinUrl": "https://www.linkedin.com/in/dj-jennings-b854867a",
+        "headshotUrl": "/match-photos/414.jpg",
+        "talkingPoints": []
+      }
+    ]
+  }
+}
