@@ -32,6 +32,12 @@ briefs the marketing DRI to make the intro at the booth.
 - **Shared components:** `components/twin-reveal/MatchCard.js`, `components/twin-reveal/Avatar.js` (headshot + initials fallback).
 - **`/twin-matches`** — static design showcase (Craig #247, full grounded talking points). Not in the flow; kept as a reference mock.
 
+### Theme / visual (Agent WALLi look — NEW)
+- Booth flow restyled toward the brand sheet: **deep-navy backgrounds** (`#0A0F1C → #1B2740 → #111827`) + an electric-blue glow, **antique-gold** accents (`#D4AF37`, replacing the bright yellow `#FEDA24`).
+- **Scope:** antique gold is **booth-flow only** — the legacy fortune flow keeps the bright `mw-gold` and was left untouched (new `mw-gold-antique*` / `mw-navy*` / `mw-blue-electric` / `mw-parchment` tokens in `tailwind.config.js`).
+- **`components/twin-reveal/WalliAvatar.js`** gives WALLi a face at each step (greeting / presenting / celebrating). Currently renders a **gold-ring "W" placeholder** until art is dropped into `/public/walli/<pose>.png` (auto-replaces, no code change).
+- **Plan + image-gen prompts + remaining steps** (avatar art, mobile pass, footer-wave recolor, favicon): **`MASTER_DOCS/AGENT_WALLI_THEME_REVAMP.md`**.
+
 ### Email + lead capture (wired & configured)
 - `POST /api/send-email` has two booth templates: **`twinConfirmation`** (to the attendee, their matches + talking points) and **`salesRepNotification`** (to the **marketing DRI**, lists requested matches w/ LinkedIn links, flags missing-email cases).
 - `POST /api/submit-lead` appends the request to Google Sheets (reuses existing pipe, `flowSource:'twin-reveal'`).
@@ -42,6 +48,15 @@ briefs the marketing DRI to make the intro at the booth.
 - **453 profiles matched** (3 each) in `MASTER_DOCS/MATCHES/matches.md` — the "matched universe" (who's-attending + RSVP that were scraped/indexed).
 - **`lib/twin_matches.json`** — generated payload the app reads, keyed by attendee slug. Currently **21 of 39** RSVP attendees have matches (the other 18 were never scraped — see §4).
 - Built by **`scripts/build-twin-matches.mjs`** (joins `matches.md` + index-map + rsvp; merges talking points + headshots).
+
+### Live walk-in matching (NEW — done & tested)
+- **Walk-ups not in the precomputed set now match live.** `/select-name` has a "Not on the list? Match with your LinkedIn" path → `POST /api/match`.
+- **`POST /api/match`** (`app/api/match/route.js`): LinkedIn URL → **EnrichLayer** live profile fetch (same service that scraped the 453) → OpenAI embedding → cosine vs the precomputed pool → top-3, returned in the exact `twin_matches` shape so `/reveal` renders them unchanged.
+- **Exclusion rule:** a valid match must differ in **both company and country** (the 2026-05-29 meeting rule) — favours cross-market intros. Graceful relaxation if the strict rule leaves <3.
+- **`lib/match_embeddings.json`** — precomputed pool (452 vectors, `text-embedding-3-small`, 1536-dim), built by **`scripts/build-match-embeddings.mjs`** (`npm run build:match-embeddings`) from the saved scrapes. The walk-in is embedded the **same way** (shared `lib/match-core.mjs`) so the geometry is comparable.
+- **No reasoning-LLM cost:** match = one embed call + an in-memory cosine sweep. Match reason is deterministic (shared professional theme + the match's country). Talking points are `[]` for live matches.
+- **Tested live end-to-end:** Juan Alvarez (LatinAd, Argentina) → 3 cross-country LatAm OOH leaders, HTTP 200 in ~2.0s, exclusion held.
+- **Requires network + `OPENAI_API_KEY` + `ENRICHLAYER_API_KEY` at event time** (all set). Walk-in headshots come from the local `/match-photos` cache (offline-safe); initials fallback for expired/missing.
 
 ### Talking points
 - **`lib/twin_talking_points.json`** — grounded talking-points overrides, keyed `sourceSlug → matchSlug → [points]`, merged by the generator so re-runs never wipe them.
@@ -66,7 +81,7 @@ briefs the marketing DRI to make the intro at the booth.
 ### From the 2026-05-29 meeting (Salman's action items)
 | Item | Status |
 |---|---|
-| Matching logic: exclude same **country** AND company | ⛔ only same-**company** excluded today; same-country rule not applied → needs a re-run |
+| Matching logic: exclude same **country** AND company | ✅ **live walk-in matcher applies it** (`/api/match`). ⚠️ the **batch** precompute (`matches.md`) still only excludes same-company — folds into the paused CRM re-run. _Open Q for Salman: rule is same-**country**; if "international connection" meant cross-**region**, it's a 1-line soft-penalty change (see route TODO)._ |
 | Mobile optimization | ⬜ not done (layout stacks but not tuned) |
 | Missing-email fallback + notify DRI | ✅ done |
 | Email-cost estimate doc (≈400 footfall, ~1,200 emails) | ⬜ not started |
@@ -74,7 +89,7 @@ briefs the marketing DRI to make the intro at the booth.
 | AI-Studio API-key setup guide (for Sukriti) | ⬜ not started |
 
 ### Product gaps (beyond the meeting)
-- **On-the-fly / live matching** for walk-ups not in the precomputed set. Building block exists: `scripts/match-twins.mjs` (embedding-based, no reasoning-LLM cost) — not wired to the app.
+- ~~**On-the-fly / live matching** for walk-ups not in the precomputed set.~~ ✅ **DONE** — wired via `POST /api/match` + `lib/match_embeddings.json` (see §2 "Live walk-in matching").
 - **Talking points for the other 20 mapped attendees** (currently only Guillermo). Costly LLM run — batch with the CRM re-run.
 - **Meeting-slot assignment** from networking breaks (system assigns, manual fallback).
 - **DRI email** in production (`NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` is unset → falls back to hardcoded gmail).
@@ -126,7 +141,8 @@ Adding the CRM list means re-running the **entire** match + talking-points autom
 
 ```bash
 node scripts/download-profile-pics.mjs      # pull any new headshots (idempotent)
-node scripts/build-twin-matches.mjs         # rebuild lib/twin_matches.json
+node scripts/build-twin-matches.mjs         # rebuild lib/twin_matches.json (precomputed flow)
+npm run build:match-embeddings              # rebuild lib/match_embeddings.json (live walk-in pool)
 ```
 Talking points: add a `sourceSlug` block to `lib/twin_talking_points.json`, then re-run the generator.
 
