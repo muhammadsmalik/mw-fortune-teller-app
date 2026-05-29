@@ -30,6 +30,7 @@ briefs the marketing DRI to make the intro at the booth.
 - **`/concierge`** — shows the chosen matches, captures email (pre-filled if on file), sends the request. Routes to `/confirmation`.
 - **`/confirmation`** — thank-you + "start over" (clears localStorage).
 - **Shared components:** `components/twin-reveal/MatchCard.js`, `components/twin-reveal/Avatar.js` (headshot + initials fallback).
+- **Back navigation:** `/reveal` → `/select-name` and `/concierge` → `/reveal` (explicit step routes, lucide `ArrowLeft`; entry + confirmation screens omit it by design).
 - **`/twin-matches`** — static design showcase (Craig #247, full grounded talking points). Not in the flow; kept as a reference mock.
 
 ### Theme / visual (Agent WALLi look — NEW)
@@ -39,10 +40,13 @@ briefs the marketing DRI to make the intro at the booth.
 - **Plan + image-gen prompts + remaining steps** (avatar art, mobile pass, footer-wave recolor, favicon): **`MASTER_DOCS/AGENT_WALLI_THEME_REVAMP.md`**.
 
 ### Email + lead capture (wired & configured)
-- `POST /api/send-email` has two booth templates: **`twinConfirmation`** (to the attendee, their matches + talking points) and **`salesRepNotification`** (to the **marketing DRI**, lists requested matches w/ LinkedIn links, flags missing-email cases).
+- `POST /api/send-email` has **three** booth templates (dispatched via a `BOOTH_TEMPLATES` map): **`twinConfirmation`** (to the attendee, their matches + talking points), **`salesRepNotification`** (to the **marketing DRI**, lists requested matches w/ LinkedIn links, flags missing-email cases + which matches were auto-emailed), and **`matchIntro`** (to each selected match — see below).
+- **Match-intro emails (NEW):** on submit, each **selected** match that has an `email` gets a `matchIntro` — the attendee + role/company, the proposed `meetingSlot` (networking break), and the grounded talking points; **reply-to is the attendee** so the match can respond directly. Matches without an email are skipped and flagged in the DRI notification for a manual intro. `email`/`meetingSlot` are optional fields per match in `twin_matches.json` — real values pending the CRM list + networking schedule (currently **test data only**, see §4).
+- **Idempotent submit (NEW):** the sheet write is guarded by a localStorage marker (keyed by attendee slug, single-sourced in `lib/concierge-storage.js`) so a retry/refresh can't double-write; each email is guarded so a retry re-sends only the one(s) that failed. Failures now surface (HTTP errors throw) instead of silently routing to `/confirmation`.
+- **Email test mode (NEW):** `EMAIL_TEST_MODE=true` + `EMAIL_TEST_RECIPIENTS` reroute **every** outbound email to a fixed test list (subject prefixed `[TEST→<real recipient>]`) via a single server-side `resolveDelivery()` chokepoint — booth tests never hit a real inbox. Server-only var → keep `false` for the live event; restart to apply.
 - `POST /api/submit-lead` appends the request to Google Sheets (reuses existing pipe, `flowSource:'twin-reveal'`).
 - **Config status:** `RESEND_API_KEY` ✅, `RESEND_FROM_EMAIL` ✅, Google Sheets creds ✅. So the flow sends **real** emails + writes a **real** sheet row today.
-- **Missing-email fallback:** if no email on file, the form prompts for it; the DRI notification flags "entered at booth." Matched people are **not** auto-emailed (DRI makes intros manually).
+- **Missing-email fallback:** if no email on file, the form prompts for it; the DRI notification flags "entered at booth."
 
 ### Matching data
 - **453 profiles matched** (3 each) in `MASTER_DOCS/MATCHES/matches.md` — the "matched universe" (who's-attending + RSVP that were scraped/indexed).
@@ -91,10 +95,10 @@ briefs the marketing DRI to make the intro at the booth.
 ### Product gaps (beyond the meeting)
 - ~~**On-the-fly / live matching** for walk-ups not in the precomputed set.~~ ✅ **DONE** — wired via `POST /api/match` + `lib/match_embeddings.json` (see §2 "Live walk-in matching").
 - **Talking points for the other 20 mapped attendees** (currently only Guillermo). Costly LLM run — batch with the CRM re-run.
-- **Meeting-slot assignment** from networking breaks (system assigns, manual fallback).
+- **Meeting-slot assignment** from networking breaks (system assigns, manual fallback). The `matchIntro` email already renders a per-match `meetingSlot` — just needs the real slots populated.
 - **DRI email** in production (`NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` is unset → falls back to hardcoded gmail).
 - **Scorecard end-screen** (deferred).
-- **Direct "X wants to meet you" emails to matches** — not built (DRI handles intros manually; would need match emails, which we don't have — see §4).
+- ~~**Direct "X wants to meet you" emails to matches**~~ ✅ **DONE** — `matchIntro` emails each selected match that has an `email` (meeting slot + talking points, reply-to the attendee). Still gated on **real match emails** (test data only so far — see §4) and the **real meeting slots** for `meetingSlot`.
 
 ---
 
@@ -107,6 +111,7 @@ briefs the marketing DRI to make the intro at the booth.
 |---|---|
 | **Final re-match** (apply same-country rule + fold in new people) + talking-points re-run | **CRM media-owner list** — Deewakshi / Sukriti |
 | **Meeting-slot assignment** | **Networking schedule / local times** — Deewakshi |
+| **Match-intro emails to real recipients** | the matches' **email addresses** (from the CRM list) — code is done; `twin_matches.json` has test emails only |
 | Matches for the **18 unmapped RSVP people** | their LinkedIn data (or live matching) — folds into the re-run |
 | DRI notification going to the right inbox | the **DRI email address** (minor; placeholder works meanwhile) |
 
@@ -133,7 +138,9 @@ Adding the CRM list means re-running the **entire** match + talking-points autom
 | Google Sheets creds | ✅ set | real lead writes |
 | `NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` | ⬜ unset | falls back to `NEXT_PUBLIC_SALES_REP_EMAIL` → hardcoded gmail. **Set before event.** `NEXT_PUBLIC_*` is build-time → rebuild/restart to apply. |
 | `NEXT_PUBLIC_LIVE_FLOW` | default `twin-reveal` | |
-| Resend plan | ⚠️ free = 100 emails/day | event burst will exceed it → upgrade (Pro $20 covers it). See email-cost doc TODO. |
+| `EMAIL_TEST_MODE` | ⚠️ currently `true` | reroutes **all** emails to `EMAIL_TEST_RECIPIENTS`. **Set `false` before the event** (server-only var → restart to apply). |
+| `EMAIL_TEST_RECIPIENTS` | set (test inboxes) | comma-separated reroute targets, used only when test mode is on. |
+| Resend plan | ⚠️ free = 100 emails/day | event burst will exceed it — now **up to ~5 emails/submit** (attendee + DRI + up to 3 match intros) → upgrade (Pro $20 covers it). See email-cost doc TODO. |
 
 ---
 
@@ -146,9 +153,12 @@ npm run build:match-embeddings              # rebuild lib/match_embeddings.json 
 ```
 Talking points: add a `sourceSlug` block to `lib/twin_talking_points.json`, then re-run the generator.
 
+> ⚠️ **Match `email` / `meetingSlot` are not yet produced by `build-twin-matches.mjs`** — they currently live as inline fields in `twin_matches.json` (test data for Guillermo) and would be **overwritten on a rebuild**. When real match emails/slots arrive, either teach the generator to merge them (like talking points) or re-apply them after regen.
+
 ---
 
 ## 7. Testing notes
 - `npm run dev` → `/select-name` → **Guillermo De Lella** → `/reveal` is the fully-populated demo (headshots + talking points for all 3 matches).
-- ⚠️ Completing `/concierge` sends **real** emails and writes a **real** Sheet row — use your own address while testing.
+- ⚠️ Completing `/concierge` sends **real** emails and writes a **real** Sheet row **unless `EMAIL_TEST_MODE=true`** — use test mode (or your own address) while testing.
+- **Safe testing:** set `EMAIL_TEST_MODE=true` + `EMAIL_TEST_RECIPIENTS` and restart `next dev` → every email reroutes to your inboxes (subject `[TEST→<real recipient>]`), so the real flow won't email real people. The Sheet write still happens. To exercise `matchIntro`, the selected matches need an `email` in `twin_matches.json` (seeded as test data for Guillermo).
 - Do **not** run `next build` against a running `next dev` — it corrupts `.next` (delete `.next` and restart dev if you hit `Cannot find module` / favicon 500s).
