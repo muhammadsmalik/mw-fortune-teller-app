@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import BrandFooter from '@/components/ui/BrandFooter';
+import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 import twinMatches from '@/lib/twin_matches.json';
 
 // Concierge requests are handled by a marketing DRI (not general sales).
@@ -136,13 +137,17 @@ export default function ConciergePage() {
   if (!ctx) return null;
 
   return (
-    <div className="flex flex-col min-h-screen bg-gradient-to-r from-[#2554A2] to-[#1B1E2B] text-mw-white">
-      <main className="flex-grow flex flex-col items-center px-4 pt-12 pb-8">
+    <div className="relative overflow-hidden flex flex-col min-h-screen bg-gradient-to-br from-mw-navy-void via-mw-navy-deep to-mw-navy-gunmetal text-mw-white">
+      <div aria-hidden className="pointer-events-none absolute left-1/2 top-0 h-96 w-96 -translate-x-1/2 rounded-full bg-mw-blue-electric/15 blur-3xl" />
+      <main className="relative flex-grow flex flex-col items-center px-4 pt-12 pb-8">
         <div className="w-full max-w-md">
+          <div className="flex justify-center mb-4">
+            <WalliAvatar pose="presenting" size={72} />
+          </div>
           <p className="text-sm uppercase tracking-[0.2em] text-mw-light-blue text-center mb-3">Agent WALLi</p>
-          <h1 className="text-2xl sm:text-3xl font-bold text-center mb-2">Where should WALLi send it?</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold text-center mb-2">Where should I send it?</h1>
           <p className="text-base text-mw-white/70 text-center mb-6">
-            WALLi will email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and brief our concierge to make the intro at the booth.
+            I&apos;ll email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and brief my team at the booth to make the intro.
           </p>
 
           {chosen.length > 0 && (
@@ -188,7 +193,7 @@ export default function ConciergePage() {
               />
               {!emailOnFile && (
                 <p className="mt-1.5 text-xs text-mw-light-blue">
-                  We don&apos;t have your email yet — add it so WALLi can send your intros.
+                  We don&apos;t have your email yet — add it so I can send your intros.
                 </p>
               )}
             </div>
@@ -200,12 +205,16 @@ export default function ConciergePage() {
               disabled={submitting}
               size="lg"
               className="w-full px-10 py-7 text-lg font-bold
-                         bg-gradient-to-r from-[#FEDA24] to-[#FAAE25]
+                         bg-gradient-to-r from-mw-gold-antique to-mw-gold-antique-deep
                          text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg
                          transition-all duration-150 hover:shadow-xl active:scale-95
                          disabled:opacity-60"
             >
-              {submitting ? 'WALLi is working…' : 'Send me the intro'}
+              {submitting
+                ? 'WALLi is working…'
+                : chosen.length === 1
+                  ? 'Send me the intro'
+                  : 'Send me the intros'}
             </Button>
           </form>
         </div>

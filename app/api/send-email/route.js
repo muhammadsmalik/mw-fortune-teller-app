@@ -118,10 +118,10 @@ function twinConfirmationHtml({ fullName, matches }) {
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
       <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
         <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
-        <p>Agent WALLi here — your AI concierge wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
+        <p>Agent WALLi here — your AI Concierge Wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
         ${cards || '<p><em>My team will follow up shortly with your matches.</em></p>'}
         <p style="margin-top:24px;">Drop by the Moving Walls booth and we&apos;ll handle the introductions in person.</p>
-        <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI concierge wizard<br/>Moving Walls</p>
+        <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
       </div>
     </body></html>`;
 }
