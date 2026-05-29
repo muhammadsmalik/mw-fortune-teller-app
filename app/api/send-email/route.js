@@ -101,9 +101,76 @@ function selfScoreSection(selfScore, selfSubScores) {
     </div>`;
 }
 
+// ---------- New WOO booth flow templates ----------
+function twinConfirmationHtml({ fullName, matches }) {
+  const cards = (matches || []).map((m) => `
+    <div style="margin:14px 0;padding:14px 16px;background:#fbfcff;border:1px solid #dde6f5;border-radius:8px;">
+      <p style="margin:0;font-size:16px;font-weight:bold;color:#151E43;">${m.name || ''}</p>
+      <p style="margin:2px 0 8px;font-size:13px;color:#555;">${[m.role, m.company].filter(Boolean).join(' — ')}</p>
+      ${Array.isArray(m.talkingPoints) && m.talkingPoints.length ? `
+        <p style="margin:0 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Talking points</p>
+        <ul style="margin:0;padding-left:18px;">${m.talkingPoints.map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>
+      ` : ''}
+    </div>`).join('');
+  return `
+    <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
+      <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
+        <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
+        <p>Agent WALLi here — your AI concierge wizard at WOO London. I peered into your LinkedIn and picked out the three people you should meet:</p>
+        ${cards || '<p><em>My team will follow up shortly with your three matches.</em></p>'}
+        <p style="margin-top:24px;">Drop by the Moving Walls booth and we&apos;ll handle the introductions in person.</p>
+        <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI concierge wizard<br/>Moving Walls</p>
+      </div>
+    </body></html>`;
+}
+
+function salesRepNotificationHtml({ fullName, email, company, role, attendeeSlug, matches }) {
+  const matchLines = (matches || []).map((m) => `<li>${m.name || ''} — ${m.company || ''}</li>`).join('') || '<li>(no match data attached)</li>';
+  return `
+    <html><body style="font-family:Arial,sans-serif;line-height:1.5;color:#222;">
+      <div style="padding:20px;max-width:640px;margin:auto;">
+        <h2 style="margin:0 0 12px;">Concierge request — ${fullName || '(unknown)'}</h2>
+        <table style="border-collapse:collapse;font-size:14px;">
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Name</td><td>${fullName || ''}</td></tr>
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''}</td></tr>
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Company</td><td>${company || ''}</td></tr>
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Role</td><td>${role || ''}</td></tr>
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Slug</td><td>${attendeeSlug || ''}</td></tr>
+        </table>
+        <p style="margin:18px 0 4px;font-weight:bold;">Their three matches:</p>
+        <ul style="margin:0;padding-left:20px;">${matchLines}</ul>
+      </div>
+    </body></html>`;
+}
+
 export async function POST(request) {
   try {
-    const { emailTo, subject, fortuneText, fullName, blueprintHtml, selfScore, selfSubScores } = await request.json();
+    const body = await request.json();
+    const { template, emailTo, subject } = body;
+
+    // ----- New booth-flow templates (keyed off `template`) -----
+    if (template === 'twinConfirmation' || template === 'salesRepNotification') {
+      if (!emailTo || !subject) {
+        return NextResponse.json({ message: 'Missing required fields: emailTo or subject' }, { status: 400 });
+      }
+      const html = template === 'twinConfirmation'
+        ? twinConfirmationHtml(body)
+        : salesRepNotificationHtml(body);
+      const { data, error } = await resend.emails.send({
+        from: `Moving Walls <${FROM_EMAIL}>`,
+        to: [emailTo],
+        subject,
+        html,
+      });
+      if (error) {
+        console.error('Resend API Error Details:', JSON.stringify(error, null, 2));
+        return NextResponse.json({ message: 'Error sending email', error: error.message }, { status: 500 });
+      }
+      return NextResponse.json({ message: 'Email sent successfully', data }, { status: 200 });
+    }
+
+    // ----- Legacy fortune-teller path (unchanged) -----
+    const { fortuneText, fullName, blueprintHtml, selfScore, selfSubScores } = body;
 
     if (!emailTo || !subject || !fortuneText) {
       return NextResponse.json({ message: 'Missing required fields: emailTo, subject, or fortuneText' }, { status: 400 });

@@ -161,7 +161,7 @@ export default function WelcomeScreen() {
   const handleStart = () => {
     console.log("Navigating to next screen with Moving Walls theme...");
     // alert("Button clicked! Navigation to be implemented.");
-    router.push('/collect-info');
+    router.push('/select-name');
   };
 
   // Handler to play/pause the video on click

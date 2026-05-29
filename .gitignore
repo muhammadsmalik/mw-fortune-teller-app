@@ -59,6 +59,7 @@ combined_linkedin_data.txt
 # local planning docs (kept local, not committed)
 ARCHETYPE_TWINNING_INVESTIGATION.md
 SELF_SERVICE_BACKLOG.md
+croe-flow.md
 
 # twinning pipeline generated state (rebuildable via `node scripts/twin-tracker.mjs init`)
 scripts/twins.json

@@ -41,8 +41,13 @@ export async function POST(req) {
       sessionId: sessionId || '',
     });
 
-    // Basic validation
-    if (!email || !fullName || !industry || !companyName || !fortuneText) {
+    // Basic validation — the new twin-reveal flow only knows name + email,
+    // so it bypasses the fortune-teller-specific required fields.
+    const isTwinReveal = flowSource === 'twin-reveal';
+    if (!email || !fullName) {
+      return NextResponse.json({ message: 'Missing required fields: fullName and email.' }, { status: 400 });
+    }
+    if (!isTwinReveal && (!industry || !companyName || !fortuneText)) {
       return NextResponse.json({ message: 'Missing required fields. Ensure fullName, email, industry, companyName, and fortuneText are provided.' }, { status: 400 });
     }
 
