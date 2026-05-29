@@ -1,0 +1,934 @@
+{
+  "public_identifier": "guy-parker-083ab39",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b702f2e6978dc3340e70dc56043750d7",
+  "background_cover_image_url": null,
+  "first_name": "Guy",
+  "last_name": "Parker",
+  "full_name": "Guy Parker",
+  "follower_count": 2416,
+  "occupation": "President at ICAS Global Think Tank",
+  "headline": "Chief Executive of UK’s Advertising Standards Authority. President of ICAS Global Think Tank. Board member of ICAS, EASA, Fundraising Regulator and CIISA.",
+  "summary": "Experienced, strategic and innovative Chief Executive in regulation, driving organisational transformation, technological transformation and developing strong cultures. Experienced Chair/President and non-exec director.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "ICAS Global Think Tank",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icas-global-think-tank/",
+      "company_facebook_profile_url": null,
+      "title": "President",
+      "description": "ICAS' Global Think Tank tackling the big ad-regulatory questions of today and tomorrow.",
+      "location": "Brussels, Brussels Region, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ddd21fa3085c7ee93ac7181901330b9a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Advertising Standards Authority Ltd",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/advertising-standards-authority/",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive",
+      "description": "Leading an evidence-based regulator that follows the principles of good regulation; delivering strategic, cultural and operational change in a changing societal and, particularly, technological, context; and operating in a complex stakeholder environment, working with consumer groups, industry, politicians, civil society and statutory regulators like Ofcom, with whom the ASA has a co-regulatory relationship.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8785c198c956d1bb51c78e753f3b5dda"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Fundraising Regulator",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fundraising-regulator/",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": "The UK's fundraising regulator.",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3266c4bab2cf486c1e9f248aef732650"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "Fundraising Regulator",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fundraising-regulator/",
+      "company_facebook_profile_url": null,
+      "title": "Standards Committee member",
+      "description": "Committee reponsible for writing the Fundraising Code of Practice.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3266c4bab2cf486c1e9f248aef732650"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "International Council for Advertising Self-Regulation (ICAS)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icasglobal/",
+      "company_facebook_profile_url": null,
+      "title": "ICAS Board member",
+      "description": null,
+      "location": "Brussels, Brussels Region, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f563c75ef8297db6d89103953813d8f4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2025
+      },
+      "company": "International Council for Advertising Self-Regulation (ICAS)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icasglobal/",
+      "company_facebook_profile_url": null,
+      "title": "ICAS President",
+      "description": "Global platform for effective ad self-regulation.",
+      "location": "Brussels, Brussels Region, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f563c75ef8297db6d89103953813d8f4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "International Council for Advertising Self-Regulation (ICAS)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icasglobal/",
+      "company_facebook_profile_url": null,
+      "title": "ICAS Vice-President",
+      "description": null,
+      "location": "Brussels, Brussels Region, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f563c75ef8297db6d89103953813d8f4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2007
+      },
+      "ends_at": null,
+      "company": "European Advertising Standards Alliance (EASA)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/european-advertising-standards-alliance/",
+      "company_facebook_profile_url": null,
+      "title": "Board and Executive Committee Member ",
+      "description": "European voice of effective ad self-regulation.",
+      "location": "Brussels, Brussels Region, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/25461bb102ec5e397256de4c24d53b23"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2016
+      },
+      "company": "European Advertising Standards Alliance (EASA)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/european-advertising-standards-alliance/",
+      "company_facebook_profile_url": null,
+      "title": "Chairman of EASA",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/25461bb102ec5e397256de4c24d53b23"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": null,
+      "degree_name": "Politics and International Relations",
+      "school": "University of Kent, Canterbury",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "2:1 BA Honours",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1989
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Wellington College, Berkshire",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Maths, Economics and Politics A Levels",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rjmorrison",
+      "name": "Robert Morrison",
+      "summary": "Interim Head, Policy and Delivery",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreaopoku",
+      "name": "Andrea Djan-Krofa",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/timmaltin",
+      "name": "Tim Maltin",
+      "summary": "Managing Partner at Maltin PR",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anguswhitedd",
+      "name": "Angus White",
+      "summary": "Direct Distribution targeting audiences, visitors and stakeholders since 1988",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/smartin28",
+      "name": "Stephane Martin",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nnennaonyewuchi",
+      "name": "Nnenna Onyewuchi",
+      "summary": "Executive Director @ Yellow Brick Road | Marketing Communications, Strategy, Creative Direction, Coaching",
+      "location": "Lagos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarahbryars",
+      "name": "Sarah Bryars",
+      "summary": "Strategic communications | Internal comms | External relations | Inclusive leader | Trustee | Former PR agency CEO",
+      "location": "Cheltenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewmorgan1",
+      "name": "Matthew Morgan",
+      "summary": "Chief Executive at Agency Inc, multi-award winning B2B marketing agency",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlestattersall",
+      "name": "Charles Tattersall",
+      "summary": "Executive Chairman - Citypress - PRWeek & Sunday Times Best Place to Work",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-castle-chartpr-fcipr-03b7583",
+      "name": "Donna Castle ChartPR FCIPR",
+      "summary": "Director of Communications at the Advertising Standards Authority",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-maroney-1a2761256",
+      "name": "Louise Maroney",
+      "summary": "Operations Manager at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markthomasngb",
+      "name": "Mark Thomas",
+      "summary": "Marketing | Public Affairs | Business Mentor | Author",
+      "location": "Leicester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivan-moroke",
+      "name": "Ivan Moroke",
+      "summary": "Africa Growth obsessed, DEI passion, Brand expert",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zaid-al-qassab-366a2a",
+      "name": "Zaid Al-Qassab",
+      "summary": "CEO, NED, Trustee - helping organisations through change • Media, Entertainment, Sport, Beauty, Telco and Consumer expert • Chair Marketing Group of GB • Ex P&G, BT, Channel 4, M+C Saatchi • Digital transformation, M&A",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-corcoran-995b303",
+      "name": "Paul Corcoran",
+      "summary": "Value-led leader committed to powerfully good business that works for our people, places & planet 🌏",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-tostevin-27534a6",
+      "name": "Tony Tostevin",
+      "summary": "Chief Executive at TPA Agency",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-hudson-78a44a6",
+      "name": "Nick Hudson",
+      "summary": "Operations Manager - Compliance at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-masters-ba47b08",
+      "name": "Amanda Masters",
+      "summary": "Chief Executive at Experience Guildford",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yaw-nsarkoh-5068a89",
+      "name": "Yaw Nsarkoh",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-hilton",
+      "name": "Claire Hilton",
+      "summary": "Chair | Non Executive Director | Advisor | Coach | Former C-Suite Award Winning Leader | Marketing, Commercial & Brand expert |",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-goddard-19147aa",
+      "name": "James Goddard",
+      "summary": "My hindsight can be your foresight ...",
+      "location": "Oxford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-allinson-2628baa",
+      "name": "Stephen Allinson",
+      "summary": "Marketing Consultant...Lecturer in Marketing",
+      "location": "Kirkheaton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seamus-mcadams-b83546b",
+      "name": "Seamus McAdams",
+      "summary": null,
+      "location": "Belfast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-foy-2b0944b",
+      "name": "Chris Foy",
+      "summary": null,
+      "location": "Aberdeen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenwoodford",
+      "name": "Stephen Woodford",
+      "summary": "CEO Advertising Association; Governor, Ravensbourne University London; Chair, The Debating Group; Honorary Member, History of Advertising Trust; Board member, Squirrelled.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-howe-9b2b8412",
+      "name": "Michael Howe",
+      "summary": "Strategic Board Director and very experienced marketer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-de-trense-79679613",
+      "name": "Max de Trense",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-higgins-30808614",
+      "name": "Michael Higgins",
+      "summary": "CEO Outdoor Services Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miles-lockwood-76a00115",
+      "name": "Miles Lockwood",
+      "summary": "Director of Complaints and Investigations at the Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-davison-a5624815",
+      "name": "Adam Davison",
+      "summary": "Director of Data Science at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-mildon-47ab8322",
+      "name": "David Mildon",
+      "summary": "Independent Legal Services Professional",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lekan-fadolapo-024ba424",
+      "name": "Lekan Fadolapo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-flanagan-26a1b025",
+      "name": "Mark Flanagan",
+      "summary": "Advisor | Board member | Investor I Consultant in strategic communications, geopolitics and public affairs",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-best-32b13626",
+      "name": "James Best",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-edward-clarke-obe-3b036a27",
+      "name": "John Edward Clarke OBE",
+      "summary": null,
+      "location": "Royal Leamington Spa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-babaeko-83396227",
+      "name": "Steve Babaeko",
+      "summary": "CEO / Chief Creative Officer @ X3M Ideas | Marketing CommunicationsI LagosI LusakaI JohannesburgI BrazavilleI NairobiI Dubai. President IAA Nigeria Chapter.🇳🇬",
+      "location": "Ikeja"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rupert-earle-5b718231",
+      "name": "Rupert Earle",
+      "summary": "Partner at Bates Wells",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romy-welch-38876b41",
+      "name": "Romy Welch",
+      "summary": "Legal Counsel at Unilever",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justine-grimley-06947643",
+      "name": "Justine Grimley",
+      "summary": "Operations Manager - Complaints, Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shahriar-coupal-81123644",
+      "name": "Shahriar Coupal",
+      "summary": "Director, Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-bellingham-04620757",
+      "name": "Donna Bellingham",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-wilson-b0a07059",
+      "name": "Matt Wilson",
+      "summary": "Media and Public Affairs Manager at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katy-finnell-741ab463",
+      "name": "Katy Finnell",
+      "summary": "Kathleen Finnell Interior Design",
+      "location": "Greenwich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-gent-29344568",
+      "name": "Emily Gent",
+      "summary": "Senior Copy Advice Executive at Committee of Advertising Practice",
+      "location": "Sutton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helena-gustafsson-388b8469",
+      "name": "Helena Gustafsson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-quartey-owoo-a345a96b",
+      "name": "Lawrence Quartey-owoo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-tye-13574384",
+      "name": "Jessica Tye",
+      "summary": "Regulatory Projects Manager at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncan-hobbs-7332b286",
+      "name": "Duncan Hobbs",
+      "summary": null,
+      "location": "Dartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pooja-tiwari-8bb22096",
+      "name": "Pooja Tiwari",
+      "summary": "Assistant Manager Operations at FROSCH",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-miller-98a0939b",
+      "name": "James Miller",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-hatfield-8b9572b0",
+      "name": "Megan Hatfield",
+      "summary": "Clinical Nurse IV at Duke Medical Center Duke Univ",
+      "location": "Durham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lade-osonuga-460965b1",
+      "name": "Lade Osonuga",
+      "summary": "Training and Events Lead at Advertising Standards Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-mathews-980b0313a",
+      "name": "Helen Mathews",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-redknap-a127b114b",
+      "name": "Ben Redknap",
+      "summary": "--",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-pemberton-635899196",
+      "name": "Michael Pemberton",
+      "summary": "Previously Head of Service Information and Assessment at Phone-paid Services Authority",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/norkor-akua-duah-441773199",
+      "name": "Norkor Akua Duah",
+      "summary": "Mullenlowe Accra•951 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-strover-562751220",
+      "name": "Claire Strover",
+      "summary": "Company Secretary at TransUnion",
+      "location": "Leeds"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Advertising is changing and so are we. Our 2025 ASA Annual Report sets out how we’ve continued our shift towards proactive, preventative ad…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2025-activity-7449799653916565504-9vSV",
+      "activity_status": null
+    },
+    {
+      "title": "I’m delighted we’ve got three such brilliant people joining the ASA Council. Pippa, Carwyn and Dekan bring loads of experience and varied and very…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_im-delighted-weve-got-three-such-brilliant-activity-7447369218083164160-xmI0",
+      "activity_status": null
+    },
+    {
+      "title": "Wednesday's funding-related Asbof event on a 'Fit for the Future' ASA system marked an important coming together of the industry, including the big…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_wednesdays-funding-related-asbof-event-on-activity-7440701870534365185-5ldS",
+      "activity_status": null
+    },
+    {
+      "title": "A really important role - providing a necessary check on our decision-making - and an excellent appointment by Asbof. We very much look forward to…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_a-really-important-role-providing-a-necessary-activity-7421872215920541696-Mnuv",
+      "activity_status": null
+    },
+    {
+      "title": "CIISA's standards are published and its services are being planned and built. It's here to improve standards of behaviour across the creative…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_ciisas-standards-are-published-and-its-services-activity-7386664764413992960-LxcS",
+      "activity_status": null
+    },
+    {
+      "title": "José Domingo Gómez Castallo is an absolute legend of ad self-regulation. No-one could be more deserving of this award.",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_josé-domingo-gómez-castallo-is-an-absolute-activity-7386662362080100352-u9ee",
+      "activity_status": null
+    },
+    {
+      "title": "As Adam says, the interesting thing about our alcohol ad compliance trial was its ‘whole sector / all rules’ approach. The tech helped us spot some…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_harnessing-ai-for-good-world-leading-trial-activity-7383742307730206720-vXY2",
+      "activity_status": null
+    },
+    {
+      "title": "This is shaping up to be an important industry (and more) summit. There's lots to discuss on what we're doing in the ad regulation space, within the…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_this-is-shaping-up-to-be-an-important-industry-activity-7376282988118032384-Gx03",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Konrad Shek for such an insightful Think Piece and conversation. Thanks Sibylle Stanciu-Loeckx for your brilliant leadership of the…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_thank-you-konrad-shek-for-such-an-insightful-activity-7371073180825731072-luf-",
+      "activity_status": null
+    },
+    {
+      "title": "This Advertising Standards Authority UK-wide ad campaign - powered by the brands who’ve kindly donated their famous slogans and the media who’ve done…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_this-advertising-standards-authority-uk-wide-activity-7348311065052475392-MWdV",
+      "activity_status": null
+    },
+    {
+      "title": "Hear hear Sibylle Stanciu-Loeckx!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_hear-hear-sibylle-stanciu-loeckx-activity-7341844570759983104-3en_",
+      "activity_status": null
+    },
+    {
+      "title": "A fabulous week in Cannes representing the International Council for Advertising Self-Regulation (ICAS)'s Global Think Tank and the UK's Advertising…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_the-icas-global-think-tank-live-from-cannes-activity-7342119143036403712-gkEa",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to chatting to Steve about AI and advertising. I know it’s a much discussed topic these days, but this event will get under…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_icas-global-think-tank-session-cannes-2025-activity-7339287144244363264-ckle",
+      "activity_status": null
+    },
+    {
+      "title": "Interesting Advertising Standards Authority research alert...",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_our-new-research-on-the-depiction-of-older-activity-7341435724530864129-_J1D",
+      "activity_status": null
+    },
+    {
+      "title": "I think this is important…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_i-think-this-is-important-activity-7333917911914340352-0a5K",
+      "activity_status": null
+    },
+    {
+      "title": "It's been such an honour, and so much fun, to be President of the International Council for Advertising Self-Regulation (ICAS) these past four years.…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_hilary-souter-elected-president-of-icas-activity-7333415813032415234-Q0pz",
+      "activity_status": null
+    },
+    {
+      "title": "The 2024 ASA and CAP Annual Report is out today. It shows how the ASA’s role as a preventative and proactive regulator plays an integral part in…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2024-activity-7322963024716222466-f7uc",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely fantastic meetings in Mumbai. Unbeilievable organisation from ASCI (no jugaad in sight!). Unbelievable hospitality. Incredible content…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_icas2025-asci-activity-7308413857884954625-t4Qm",
+      "activity_status": null
+    },
+    {
+      "title": "Watch to the end to see the Top 10 most memorable ad slogans, according to the UK public. I reckon if you can get four or five, you're doing very…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-reveals-the-uks-most-memorable-ad-slogans-activity-7288552852036177920-fxH0",
+      "activity_status": null
+    },
+    {
+      "title": "For anyone who missed our (the Advertising Standards Authority's) excellent event on Responsible use of AI in advertising last week, I have good…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_future-proof-advertising-how-will-ai-change-activity-7264667835379892226-ydK4",
+      "activity_status": null
+    },
+    {
+      "title": "Important study this. If you’re a brand or agency advertising brands subject to age-related targeting restrictions (alcohol, gambling, etc), you need…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_online-supply-pathway-of-age-restricted-ads-activity-7273678948885008384-SWGn",
+      "activity_status": null
+    },
+    {
+      "title": "Such a hot topic at the moment, so well worth attending. You'll hear how the ad industry is using gen AI for content creation, how the ASA approaches…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_such-a-hot-topic-at-the-moment-so-well-worth-activity-7259269314510254080-1Woi",
+      "activity_status": null
+    },
+    {
+      "title": "I'm really looking forward to speaking at this Future Food Movement huddle. I'll be stressing how the ASA doesn't want to see greenwashing (obvs),…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_im-really-looking-forward-to-speaking-at-activity-7247174354306838529-ILni",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from a great week in NYC attending BBB National Programs superb NAD conference, chairing the International Council for Advertising…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_just-back-from-a-great-week-in-nyc-attending-activity-7242933446140903425-9kMO",
+      "activity_status": null
+    },
+    {
+      "title": "Important! Compelling, Said Business School-authored study showing that more gender inclusive ads = more income. Hundreds of brand ads assessed for…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_important-compelling-said-business-school-authored-activity-7241843561132888066-_j3x",
+      "activity_status": null
+    },
+    {
+      "title": "It was, indeed, a lovely evening, catching up with old friends and making new ones!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_it-was-indeed-a-lovely-evening-catching-activity-7242114770047242240-9WgV",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we published two rulings about misleading environmental claims. Read about the ASA’s approach to green claims including our research into…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2023-activity-7218573957296263169-vQW3",
+      "activity_status": null
+    },
+    {
+      "title": "Want to learn about the ASA and CAP’s work on body image, youth vaping, environmental claims and how we’re working with social media platforms and ad…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2023-activity-7218574053798805504-I2qi",
+      "activity_status": null
+    },
+    {
+      "title": "Tomorrow I’ll be speaking at \"Future-proof Advertising: How will AI change advertising and regulation\". Join me at the Advertising Standards…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_welcome-you-are-invited-to-join-a-webinar-activity-7262498727624339456-D6fR",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to this!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_really-looking-forward-to-this-activity-7208776322616020992-1Z_S",
+      "activity_status": null
+    },
+    {
+      "title": "I'm really looking forward to discussing ad self-regulation and why it matters with AIA members this week. If you're interested do please come armed…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_im-really-looking-forward-to-discussing-activity-7238817989582606336-EPWU",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to doing this!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_looking-forward-to-doing-this-activity-7240323566678790145-h9bv",
+      "activity_status": null
+    },
+    {
+      "title": "I’m delighted to share the latest ASA ad campaign – now including Aleks the meerkat and coming to you in podcast form. Find out below how awareness…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_im-delighted-to-share-the-latest-asa-ad-activity-7239991601224187904-JfLk",
+      "activity_status": null
+    },
+    {
+      "title": "It was indeed!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_it-was-indeed-activity-7208705943239323648-ye2o",
+      "activity_status": null
+    },
+    {
+      "title": "Hear hear Sibylle Stanciu-Loeckx. Thank you Sara Denby and Unstereotype Alliance for your inspiring leadership on one of the most pressing issues of…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_hear-hear-sibylle-stanciu-loeckx-thank-you-activity-7209468124323086336-yjQ7",
+      "activity_status": null
+    },
+    {
+      "title": "Pleasure David Barron. Really good discussion and great audience engagement too!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_pleasure-david-barron-really-good-discussion-activity-7211720328752807937-lWcB",
+      "activity_status": null
+    },
+    {
+      "title": "Today we banned a vaping ad because it promoted unlicensed nicotine products. If you're interested in reading more on how we’re clamping down on…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2023-activity-7204107550101815296-J9MB",
+      "activity_status": null
+    },
+    {
+      "title": "Our annual report details our work on climate change, body image and youth vaping. It also includes examples of how AI and machine learning…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2023-activity-7204390810811805696-sVoe",
+      "activity_status": null
+    },
+    {
+      "title": "It's great to be here! #NAD24",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_nad24-activity-7241458944131444736-MbRP",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_looking-forward-to-this-activity-7180937953081196544-r0kW",
+      "activity_status": null
+    },
+    {
+      "title": "For a quick update on how we're using AI to capture and scan millions of online ads, have a look at this...",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_for-a-quick-update-on-how-were-using-ai-activity-7184106425969704960-PaHp",
+      "activity_status": null
+    },
+    {
+      "title": "The Advertising Standards Authority has signed up to run on 12 June, and I'll be hobbling round as part of that. Please do join us. There's space for…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_the-advertising-standards-authority-has-signed-activity-7185945397503086592-jjri",
+      "activity_status": null
+    },
+    {
+      "title": "Pleasure to be on the panel!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_pleasure-to-be-on-the-panel-activity-7161357444588187648-ea1w",
+      "activity_status": null
+    },
+    {
+      "title": "Tomorrow, weâll be hosting our Greenspeaking With Confidence and strategy launch event. Weâve got great speakers lined up and several hundred…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_greenspeaking-with-confidence-launching-activity-7134855249319612417-kRz5",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to doing this. Just come off a call with Brinsley Dresden and we have plenty to chat about. He will not be sharing questions…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_sign-up-now-for-our-fireside-chat-with-the-activity-7131308630850596864-DiDJ",
+      "activity_status": null
+    },
+    {
+      "title": "Two weeks to go before our Greenspeaking With Confidence event, brining multiple stakeholders together to see how we regulate green claims in ads,…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_greenspeaking-with-confidence-launching-activity-7130481032323067904-LX0y",
+      "activity_status": null
+    },
+    {
+      "title": "On 28 Nov the ASA will be hosting our Greenspeaking With Confidence event, looking at advertising sustainability and green claims, and announcing the…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_greenspeaking-with-confidence-launching-activity-7128410242022825987-uUy6",
+      "activity_status": null
+    },
+    {
+      "title": "ð¢",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_andrew-brown-a-tribute-activity-7125965627004997633-tpYF",
+      "activity_status": null
+    },
+    {
+      "title": "We're hiring a new ASA Council member. (Must have an advertiser background, e.g. you're responsible for spending your company's ad budget). Please…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_asa-and-cap-annual-report-2022-activity-7064179271551873024-40XJ",
+      "activity_status": null
+    },
+    {
+      "title": "It's a great role and a great organisation (ok I'm biased, but it is!)",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_recruiting-for-the-asa-council-activity-7119671541495140352-ud0M",
+      "activity_status": null
+    },
+    {
+      "title": "Are you an Insight Analyst, or do you know one, who might be interested in joining our growing Data Science team here at the ASA? It's a great…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_vacancies-activity-7069269398116519936--OYO",
+      "activity_status": null
+    },
+    {
+      "title": "This is a great opportunity to join a great team. Do please share with anyone you think might be interested!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_vacancies-activity-7060237083184898048-832o",
+      "activity_status": null
+    },
+    {
+      "title": "I forgot to dress up for this (sorry, not sorry)",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_i-forgot-to-dress-up-for-this-sorry-not-activity-6933014476476604416-5xjJ",
+      "activity_status": null
+    },
+    {
+      "title": "Three thoughts on Kam's excellent (I'm biased, obvs) report: 1. Kids giving false ages is a contributor to them receiving age-inappropriate online…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_100-children-report-activity-7003759988653330432-9GbU",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to this panel discussion",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_really-looking-forward-to-this-panel-discussion-activity-6889567773287051264-ok9K",
+      "activity_status": null
+    },
+    {
+      "title": "Very much looking forward to this!",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_very-much-looking-forward-to-this-activity-6887352447547789312-yuoj",
+      "activity_status": null
+    },
+    {
+      "title": "Really honoured to take on this role. I was privileged to play a part in founding ICAS in 2016 and it's great that we now have 32 fabulous members.…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_really-honoured-to-take-on-this-role-i-activity-6796466406889160704-XIIO",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_advertising-easa-google-activity-6724641100373487616-3y2f",
+      "activity_status": null
+    },
+    {
+      "title": "“Kids, PLEASE don’t give me a normal mohican…”, I said, “…that’s the one I dread”. But they were wise to it. And so my reverse psychology gave rise…",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_kids-please-dont-give-me-a-normal-mohican-activity-6660483344062521344-lHCY",
+      "activity_status": null
+    },
+    {
+      "title": "Five days and counting to join our fantastic ASA Council...",
+      "link": "https://www.linkedin.com/posts/guy-parker-083ab39_council-recruitment-play-your-part-in-making-activity-6604750467962544128-aiz6",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Guy Parker",
+      "link": "https://uk.linkedin.com/in/guy-parker-525572a",
+      "summary": "Managing Director at ParkerSteel Limited",
+      "location": "Canterbury"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://www.linkedin.com/in/guy-parker-0928642a",
+      "summary": "Owner, Parker International",
+      "location": "Poway, CA"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://www.linkedin.com/in/guyaparker",
+      "summary": "Strategy + Creative + Design",
+      "location": "Missouri City, TX"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://uk.linkedin.com/in/guy-parker-95070173",
+      "summary": "Building Surveyor at Southwark Council",
+      "location": "Redhill"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://www.linkedin.com/in/guy-parker-a93b7a15",
+      "summary": "Internet Sales Manager at Eastside Subaru",
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://uk.linkedin.com/in/guy-parker-a5abb029",
+      "summary": "Director, Wychwood Biodiversity Limited",
+      "location": "Kingsbridge"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://www.linkedin.com/in/guy-parker-b701b488",
+      "summary": "Manager, Expense Management at Amherst",
+      "location": "Chandler, AZ"
+    },
+    {
+      "name": "Guy Parker",
+      "link": "https://uk.linkedin.com/in/guy-parker-b672386a",
+      "summary": "Financial Director at European Electronique",
+      "location": "Stone"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-12-31T00:00:00Z"
+  }
+}

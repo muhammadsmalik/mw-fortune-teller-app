@@ -1,0 +1,806 @@
+{
+  "public_identifier": "james-murphy-07872216",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/e660b71ef03e4221a9e483ec3626c688",
+  "background_cover_image_url": null,
+  "first_name": "James",
+  "last_name": "Murphy",
+  "full_name": "James Murphy",
+  "follower_count": 3327,
+  "occupation": "CEO at Ogilvy UK",
+  "headline": "CEO Ogilvy UK / Founder New Commercial Arts.",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Ogilvy UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ogilvyuk",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "James Murphy is CEO of Ogilvy Group UK, which includes both Ogilvy UK and NCA.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/41bf7279a3c16795e85b22cf8ed987aa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "New Commercial Arts.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/new-commercial-arts",
+      "company_facebook_profile_url": null,
+      "title": "Founder, CEO",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4bba60dabfad39939fffa52b08e73f1d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "adam&eve\\TBWA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adam%26evetbwa",
+      "company_facebook_profile_url": null,
+      "title": "Founder, CEO",
+      "description": "Founder of adam&eve.\n5 x Campaign Agency of the Year (2010, 2014, 2015, 2016, 2017)\n2 x Cannes Lions Agency of the Year (2014, 2018)\n3 x IPA Effectiveness Grand Prix (2012, 2014, 2016)\n1 x Gunn Report Most Creative Agency in the World (2017)\n1 x WARC Most Effective Agency in the World (2017)",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4c8bc28a9a5752633d48c3fdebbd3d4b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "company": "Ogilvy & Mather",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Graduate Trainee",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/danseager",
+      "name": "Daniel Seager",
+      "summary": "Executive Creative director / Partner at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saraktate",
+      "name": "Sara Tate",
+      "summary": "Partner / TwentyFirstCenturyBrand, Author / The Rebuilders, Adage / Leading Women, Timewise / Powerlist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monicasabourin",
+      "name": "Monica Sabourin",
+      "summary": "Senior Project Manager, Design, Charlotte Tilbury",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/summer-taylor-1991ct",
+      "name": "Summer Taylor LMSW",
+      "summary": "Strategist at New Commercial Arts.",
+      "location": "Abilene"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierrees",
+      "name": "Xavier Rees",
+      "summary": "UK Group CEO, Havas Creative. Member of IPA Council, Effie UK Council & Creative Equals Board.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/csouthey",
+      "name": "Charles Southey",
+      "summary": "Helping CEOs Maximise Enterprise Value for Exit | Founder & CEO @ Forge | Sales-Led Marketing Driving Growth",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriancaddy",
+      "name": "Adrian Caddy",
+      "summary": "Founder and CEO of Greenspace",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/urbanpawsagency",
+      "name": "Layla Flaherty 🇬🇧🇮🇪🐶🐷🐄🐱🐎",
+      "summary": "Founder & MD at Urban Paws Agency (UK & Ireland), & Urban Paws Influencers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinfreedman",
+      "name": "Kevin Freedman",
+      "summary": "CEO, Freedman International | AI-first global campaign delivery — operating model rebuilt from the ground up | 35 years. 100+ markets.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tylerhendy",
+      "name": "Tyler Hendy",
+      "summary": "Creative Director (CX), New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louisebodily",
+      "name": "Louise Bodily (she/her)",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chasdemain",
+      "name": "Chas Demain",
+      "summary": "Video Marketing | Certified in best practices for Social Media Campaigns",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilyroseross",
+      "name": "Emily Rose Ross",
+      "summary": "Business Director at New Commercial Arts",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willjeffery",
+      "name": "Will Jeffery",
+      "summary": "Video Games Services Expert | Non-Exec Director/Mentor | Exec Producer Trailers | Creative and Marketing Business Leadership | Entrepreneur",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathansmith1",
+      "name": "Jonathan Travers-Smith 乔升",
+      "summary": "Asia Value Creator | Exited Founder | Deep China Execution | APAC Growth",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonhankin",
+      "name": "Simon Hankin",
+      "summary": "CEO & Founder at Trouble Maker",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattcraigieatherton",
+      "name": "Matt Craigie Atherton",
+      "summary": "Founder / Chief Production Officer & Outvertising Mentor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexkingcopy",
+      "name": "Alex King",
+      "summary": "Creative Director at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mickrigby",
+      "name": "Mick Rigby",
+      "summary": "Founder and CEO @ Yodel Mobile | Mobile Marketing Expert",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/williamsonamber",
+      "name": "Amber W.",
+      "summary": "CEO Digital Willow | Digital Marketing Superpowers | Sci-fi, AI, productivity and Crypto enthusiast | Honoured to lead the Digital Willow family and friends in business growth, innovation, and creativity.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bilaljogi",
+      "name": "Bilal Jogi",
+      "summary": "Everyday is a new start",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garethmoss",
+      "name": "Gareth Moss",
+      "summary": "Founder at The Blueprint -                \nInternational Executive Search",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davefromwave",
+      "name": "Dave Jenkins",
+      "summary": "Founder and CEO | Recruitment Technology",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cjefford76",
+      "name": "Chris Jefford",
+      "summary": "Truant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alansilvestri",
+      "name": "Alan Silvestri",
+      "summary": "🔎 Digital PR & Content Promotion @ Powered By Search\n\n🏃🏼♂️Barefoot Runner and Natural Lifestyle Coach\n\n👾 80s, Back to the future fanatic & I daily drive a Delorean",
+      "location": "Winchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirsty-gordon1995",
+      "name": "Kirsty Gordon",
+      "summary": "CX Project Manager at New Commercial Arts.",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simongunning",
+      "name": "Simon Gunning",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-bagnall-166833",
+      "name": "Chris Bagnall",
+      "summary": "CEO & Founder, Transmission",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-bishop-5087542",
+      "name": "Oliver Bishop",
+      "summary": "Founder/CEO at ROAST Group - ROAST | Kitty",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nils-leonard-373b2b3",
+      "name": "Nils Leonard",
+      "summary": "Founder / Uncommon London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-roberts-635ba43",
+      "name": "Tom Roberts",
+      "summary": "Founder & Director MFN Group, Freerange Records, Blueprint Music Publishing",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-graeme-93608b4",
+      "name": "Natalie Graeme",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robertpcampbell",
+      "name": "ROBERT CAMPBELL",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikesaraswat",
+      "name": "Mike Saraswat",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-carroll-409a4a8",
+      "name": "Charlie Carroll",
+      "summary": "Founder at Flat Iron",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-davies-75a13a10",
+      "name": "Amanda Davies",
+      "summary": "Executive/ Senior Producer, fully integrated in all media(freelance)/ AFA affiliated",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-roalfe-83876712",
+      "name": "Mark Roalfe",
+      "summary": "Chairman. Founder. Creative.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bill-scott-2a742613",
+      "name": "Bill Scott",
+      "summary": "CEO Droga5 London & Managing Director, Accenture Song",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-calcraft-b0080a15",
+      "name": "Helen Calcraft",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sylvie-edwards-8a873417",
+      "name": "Sylvie Edwards",
+      "summary": "Creative Ops Director (F/L)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisamortonrdpr",
+      "name": "Lisa Morton",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-hesz-1b433a24",
+      "name": "Alex Hesz",
+      "summary": "Incoming Global Chief Strategy Officer at Dentsu International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauren-nuttall-75192a29",
+      "name": "Lauren Nuttall",
+      "summary": "Head of Account Management at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-blight-1b4a752a",
+      "name": "John Blight",
+      "summary": "Strategist at New Commercial Arts",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-hall-51651431",
+      "name": "Steve Hall",
+      "summary": "Executive Creative Director / Partner at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-palmer-94a60b35",
+      "name": "Jessica Palmer",
+      "summary": "Business Director at New Commercial Arts.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-curran-84776336",
+      "name": "Robert Curran",
+      "summary": "Founder at New Commercial Arts, Chief Experience Officer at Ogilvy Group UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-walters-818b7936",
+      "name": "Matt Walters",
+      "summary": "Chief Strategy Officer at New Commercial Arts.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-warner-24428551",
+      "name": "Charlie Warner",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-prince-33690852",
+      "name": "Charlotte Prince",
+      "summary": "Creative Director/ Partner at New Commercial Arts.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-white-73b58761",
+      "name": "Hannah White",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/octavia-ransom-b9008064",
+      "name": "Octavia Ransom",
+      "summary": "Assistant Producer at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/loriley-sessions-42b9986a",
+      "name": "Loriley Sessions",
+      "summary": "Creative Director / Partner at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-kitcatt-04039984",
+      "name": "Paul Kitcatt",
+      "summary": "Creative Consultant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miriam-goode-0864aa88",
+      "name": "Miriam Goode",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janki-shah-62795ab1",
+      "name": "Janki Shah",
+      "summary": "Business Director @ New Commercial Arts | Ogilvy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/poppy-dickinson-094a38b3",
+      "name": "Poppy Dickinson",
+      "summary": "CX Operations Director at New Commercial Arts.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-heartfield-185650106",
+      "name": "Ian Heartfield",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dl0404",
+      "name": "Dongjin Lee",
+      "summary": "Principal Scientist at Amgen",
+      "location": "Thousand Oaks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/murray-robertson-b579b3163",
+      "name": "Murray Robertson",
+      "summary": "Service Designer at Three UK",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zahra-banday-72a146194",
+      "name": "Zahra Banday",
+      "summary": "Senior Account Manager at New Commercial Arts",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "PG Tips brews a fresh partnership with New Commercial Arts. for its creative account ☕ Find out more 👉 https://lnkd.in/ewrz4Q_N LIPTON Teas and…",
+      "link": "https://www.linkedin.com/posts/wpp_pg-tips-picks-new-commercial-arts-for-creative-activity-7287872292741644289-dLXT",
+      "activity_status": null
+    },
+    {
+      "title": "A brilliant start to 2025. New Commercial Arts. wins PG Tips, one of Britain's foremost fabric-of-the-nation brands with an iconic legacy of…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_a-brilliant-start-to-2025-new-commercial-activity-7287861426734395392-1xbW",
+      "activity_status": null
+    },
+    {
+      "title": "In 2024, we celebrated 10 years of our iconic Kids Voices commercials! Reminiscing on the last decade, HARIBO's Herwig Vennekens and Quiet Storm's…",
+      "link": "https://www.linkedin.com/posts/haribo-international_haribohighlights-activity-7285234306602401792-HZNX",
+      "activity_status": null
+    },
+    {
+      "title": "This is a short, positive post of a very long story.  I'll save the 'journey' for social media! 😬 Seventeen years ago, I had an idea to integrate…",
+      "link": "https://www.linkedin.com/posts/pip-hancock-14469513_toyfairuk-activity-7285630526097424384-7WPu",
+      "activity_status": null
+    },
+    {
+      "title": "This is me and my dad, John. The photo was taken after he got stopped for meditating on the hard shoulder of the motorway (he’s… quirky). The local…",
+      "link": "https://www.linkedin.com/posts/nicky-badenoch-8ab2435_genie-serendipity-workplaceinnovation-activity-7284841799410462720-Pa6U",
+      "activity_status": null
+    },
+    {
+      "title": "New Facebook campaign for my book. Hope he likes it.",
+      "link": "https://www.linkedin.com/posts/andy-nairn-0a03396_new-facebook-campaign-for-my-book-hope-he-activity-7283548174017785856-LzgO",
+      "activity_status": null
+    },
+    {
+      "title": "We are delighted to announce our New Year Honours for 2025, celebrating seven advertising industry greats for their outstanding service and for…",
+      "link": "https://www.linkedin.com/posts/theipa_we-are-delighted-to-announce-our-new-year-activity-7282342747808624641-xmx_",
+      "activity_status": null
+    },
+    {
+      "title": "How do brands win Christmas? The Financial Times went on a mission to find out. Emma Bisley, Head of Campaigns for Sainsbury's, and our colleagues…",
+      "link": "https://www.linkedin.com/posts/ogilvyuk_how-do-brands-win-christmas-the-financial-activity-7275095476704579584-LPt2",
+      "activity_status": null
+    },
+    {
+      "title": "My column in the 'i' newspaper today: My best campaigns of 2024 including ITV Studios easyJet Nationwide Building Society Campaign Against Living…",
+      "link": "https://www.linkedin.com/posts/danny-rogers-507b186_publicrelations-advertising-television-activity-7279804722771816448-b7Tg",
+      "activity_status": null
+    },
+    {
+      "title": "Liked by James Murphy",
+      "link": "https://www.linkedin.com/posts/sarah-golding-b9390b31_the-mad-men-of-barry-island-activity-7279558679505297409-srKJ",
+      "activity_status": null
+    },
+    {
+      "title": "What can marketers learn from the finale of Gavin and Stacey? Industry savant David Golding writes about the ultimate Christmas TV tentpole moment in…",
+      "link": "https://www.linkedin.com/posts/hugoe1_what-can-marketers-learn-from-the-finale-activity-7279805857008087040-gWdT",
+      "activity_status": null
+    },
+    {
+      "title": "Breaking news… we’ve only gone and got ourselves a site to pilot our first venue. 💥 1,833 square feet of glorious blank canvas. Slap-bang in the…",
+      "link": "https://www.linkedin.com/posts/paul-billingsley_irlrevolution-activity-7270219756589223936-Qq4q",
+      "activity_status": null
+    },
+    {
+      "title": "‘Trust is gained in drops but lost in buckets.' Thank you to #LEAD2025 for an enlightening morning of discussion and debate around the issues and hot…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_lead2025-activity-7293690138533003268-TnH8",
+      "activity_status": null
+    },
+    {
+      "title": "The BFG wins BIG. Our Sainsbury's BFG Christmas campaign secures the Google Creative Works Choice Award on the YouTube Christmas Ads Leaderboard…",
+      "link": "https://www.linkedin.com/posts/new-commercial-arts_the-bfg-wins-big-our-sainsburys-bfg-christmas-activity-7292485705723752448-DIvQ",
+      "activity_status": null
+    },
+    {
+      "title": "Things have changed a lot in the past 2.5 years! Since leaving a 10 year career in creative agencies I’ve: 🌎 Lived abroad. 💒 Got married. 💻…",
+      "link": "https://www.linkedin.com/posts/kathryn-gooding-95061162_things-have-changed-a-lot-in-the-past-25-activity-7290638450221850624-9FmC",
+      "activity_status": null
+    },
+    {
+      "title": "The BFG wins BIG. Sainsbury's BFG Christmas campaign secures the Google Creative Works Choice Award on the YouTube Christmas Ads Leaderboard for…",
+      "link": "https://www.linkedin.com/posts/ogilvyuk_the-bfg-wins-big-sainsburys-bfg-christmas-activity-7292225601338298369-8gMv",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news! 🚀 PG Lucky Dips are now available on shelves, marking a significant milestone for our team after a whirlwind of activity. As part of…",
+      "link": "https://www.linkedin.com/posts/eleanorbarker_bestdayever-pgway-teamsuccess-activity-7292213579812864000-fLEw",
+      "activity_status": null
+    },
+    {
+      "title": "I'm heading back to the vineyards, albeit with slightly less hair! My first-ever paycheck - an envelope of French francs - came from picking grapes…",
+      "link": "https://www.linkedin.com/posts/im-heading-back-to-the-vineyards-albeit-activity-7291749961094877184-Y0MN",
+      "activity_status": null
+    },
+    {
+      "title": "Big welcome to Lucy Hutchinson who joins Ogilvy PR as our new Head of Consumer. Really excited to be starting 2025 with such a talented Ogilvy UK PR…",
+      "link": "https://www.linkedin.com/posts/nicola-dodd-communications_big-welcome-to-lucy-hutchinson-who-joins-activity-7291103653216550912-8vFx",
+      "activity_status": null
+    },
+    {
+      "title": "Talk at the Houses of Parliament (in a Committee Room not in one of the Houses) done. With thanks to The Debating Group  and Alliance of…",
+      "link": "https://www.linkedin.com/posts/tina-fegent-fcips-2103573_talk-at-the-houses-of-parliament-in-a-committee-activity-7290247315028590592-xiTF",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting win for Ogilvy UK and New Commercial Arts. Diet Coke is one of those brands everyone wants to work on. We’ll be applying our huge range of…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_exciting-win-for-ogilvy-uk-and-new-commercial-activity-7453417964701261824-s3k_",
+      "activity_status": null
+    },
+    {
+      "title": "A great morning at #LEAD2026 yesterday which discussed trust in advertising. Imogen Coles, Ogilvy’s EMEA Influence lead, our TUI client Hayley…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_lead2026-activity-7425468238177767424-EA4a",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team - what a night indeed……",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_well-done-team-what-a-night-indeed-activity-7402258023559110656-B-1J",
+      "activity_status": null
+    },
+    {
+      "title": "A brilliant result for Ogilvy UK and our clients at the DMA's last night. Golds for EY Foundation, Lloyds Banking Group, Boehringer Ingelheim and…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_a-brilliant-result-for-ogilvy-uk-and-our-activity-7401987531879387136-cRSH",
+      "activity_status": null
+    },
+    {
+      "title": "One of my favourite nights of the year - our Christmas client quiz. We had so much fun testing our clients and their agency teams on all things, from…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_one-of-my-favourite-nights-of-the-year-activity-7401687619610501120-jzbl",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations John Rudaizky, both on making the shortlist for The Marketing Society Inspirational Leaders Award, and then within 24 hours, being…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_congratulations-john-rudaizky-both-on-making-activity-7400206148483641344-4PWD",
+      "activity_status": null
+    },
+    {
+      "title": "A double whammy. Congratulations to Mark Given for winning both Marketing Week's Marketer of the Year, and last night, The Marketing Society's…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_a-double-whammy-congratulations-to-mark-activity-7399787453336735745-LBKk",
+      "activity_status": null
+    },
+    {
+      "title": "I was so lucky to work with Rupert at three different times and count him as a great friend. When you were with him everything felt more fun, more…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_i-was-so-lucky-to-work-with-rupert-at-three-activity-7394415934536593408-MMlx",
+      "activity_status": null
+    },
+    {
+      "title": "Agenda setting, strategic and effective creativity. A great result.",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_agenda-setting-strategic-and-effective-creativity-activity-7387149491617030145-Ts1i",
+      "activity_status": null
+    },
+    {
+      "title": "A brilliant OOH for Sainsbury's by New Commercial Arts. to mark the Lionesses' second UEFA European Women's Championship win last night, in a…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_a-brilliant-ooh-for-sainsburys-by-new-commercial-activity-7355576166092611585-qHBh",
+      "activity_status": null
+    },
+    {
+      "title": "Great result. Thrilled to announce we won Comic Relief.",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_great-result-thrilled-to-announce-we-won-activity-7354052628886028288-QSrm",
+      "activity_status": null
+    },
+    {
+      "title": "Love the energy of our Madrí Excepcional campaign, live this week.",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_love-the-energy-of-our-madrí-excepcional-activity-7351952584657567744-FirU",
+      "activity_status": null
+    },
+    {
+      "title": "Monkeys back! Congratulations to my friends and colleagues at New Commercial Arts. for their first campaign for PG Tips.",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_monkeys-back-congratulations-to-my-friends-activity-7326606640307216384-MruN",
+      "activity_status": null
+    },
+    {
+      "title": "I enjoyed this interview with Lipton UK&I CMO Eleanor Barker and New Commercial Arts. CEO Hannah White in Marketing Week. They talk about the new…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_i-enjoyed-this-interview-with-lipton-uki-activity-7328369222575681538-hT9V",
+      "activity_status": null
+    },
+    {
+      "title": "A bottle so distinct... a brilliant campaign by WPP Open X. A joy to see this work go live throughout Europe. Campaign UK's Ad of the Day and Ad of…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_borderlesscreativity-activity-7321522592484388864-aXlW",
+      "activity_status": null
+    },
+    {
+      "title": "Definitely worth a read...",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_how-to-fall-back-in-love-with-pitching-activity-7306291911747686401-iQof",
+      "activity_status": null
+    },
+    {
+      "title": "WARC’s Creative 100 is the definitive industry benchmark for creative excellence. In a world of countless brands, platforms, devices and content all…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_warcs-creative-100-is-the-definitive-industry-activity-7305547214938918912-S5NY",
+      "activity_status": null
+    },
+    {
+      "title": "An exciting new chapter for all at New Commercial Arts. See link to Campaign UK article in the comments.",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_an-exciting-new-chapter-for-all-at-new-commercial-activity-7306293130163568640-JDd2",
+      "activity_status": null
+    },
+    {
+      "title": "I am happy to announce that Tammy Einav is joining Ogilvy Group UK as our new chief client officer. This reunites the team that helped drive…",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_i-am-happy-to-announce-that-tammy-einav-is-activity-7308417157963370497-4C83",
+      "activity_status": null
+    },
+    {
+      "title": "Sainsbury’s Rickrolling into Christmas…..",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_the-biggest-christmas-question-activity-7126149991953256449-CrHT",
+      "activity_status": null
+    },
+    {
+      "title": "huge team effort - and huge fun to make",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_huge-team-effort-and-huge-fun-to-make-activity-6944615140772204544-ZWNl",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/james-murphy-07872216_alzheimers-society-its-not-called-getting-activity-6931991302976757760-lWMw",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "James Murphy",
+      "link": "https://www.linkedin.com/in/james-murphy-89911171",
+      "summary": "B2B Client Acquisition Systems with an ROI Guarantee. 🎯 We Help You Target & Land 2-5 Ideal Clients/Deals Every Month. [We partner with select b2b consultants, coaches, advisors, loan brokers, and solopreneurs]",
+      "location": "Honolulu Metropolitan Area"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://www.linkedin.com/in/james-murphy-93907930",
+      "summary": "President-ZNDUS, Improving the Temporary Fencing/Barrier Industry Through Innovation, Automation, & World Class Service - MANUFACTURING IN THE USA",
+      "location": "Charlotte Metro"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://www.linkedin.com/in/james-murphy-61660b10",
+      "summary": "Managing Partner at Murphy Armstrong & Felton LLP",
+      "location": "Mercer Island, WA"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://www.linkedin.com/in/james-murphy-8aa75232",
+      "summary": "Pediatrician, Breastfeeding Medicine",
+      "location": "Escondido, CA"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://www.linkedin.com/in/james-murphy-28592614",
+      "summary": "American Center for Law and Justice",
+      "location": "Virginia Beach, VA"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy-599b2b5",
+      "summary": null,
+      "location": "Warrington"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy-8784765b",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy93",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy-448a3073",
+      "summary": null,
+      "location": "Greater London"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/jamesmurphygb",
+      "summary": "🎈 Enterprise Tech & Cybersecurity Executive | Product & Solutions Leader | Field CTO | GTM & Customer Success Strategist | Fractional CxO & Advisor | Startups & Scaleups",
+      "location": "Stratford-Upon-Avon"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/jamesjmurphy1",
+      "summary": null,
+      "location": "London Area, United Kingdom"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy-7194753",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy-73175024",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-murphy45",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/james-m-062",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/jamurphy21",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/jamescharliemurphy",
+      "summary": "Global IT Director",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "James Murphy",
+      "link": "https://uk.linkedin.com/in/jmurphyuk",
+      "summary": null,
+      "location": "Manchester Area, United Kingdom"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-17T00:00:00Z"
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "public_identifier": "jacqui-matthews-411087a",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Jacqui",
+  "last_name": "Matthews",
+  "full_name": "Jacqui Matthews",
+  "follower_count": 562,
+  "occupation": "Managing Director at Rawsuga",
+  "headline": "Managing Director | Out of Home advertising, Customer Relationship Management (CRM), loyalty, CX and UX, research, design",
+  "summary": "I have extensive experience in customer experience, UX, research, loyalty, CRM, marketing automations, email marketing, and digital marketing for both B2C and B2B businesses. As a marketing executive, I understand the importance of creating a seamless customer journey and engaging with customers through various marketing channels. My expertise in these areas has helped me to successfully drive growth and increase customer satisfaction for the businesses I have worked with.",
+  "location_str": "Glenhaven, New South Wales, Australia",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Glenhaven",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": null,
+      "company": "Rawsuga",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Greater Sydney Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "Ruby Joy Fine Foods",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner / Chef",
+      "description": null,
+      "location": "Dural, New South Wales, Australia",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "St Vincent's College, Potts Point",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/stvincentscollegepottspoint",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f005005c898d87e2e7e687f862032c35",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Digital Marketing Transform",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Academy Xi",
+      "url": "https://www.credly.com/badges/a387b76b-a6ad-4b53-bb14-952b7fcb968f?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Customer Experience Elevate",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Academy Xi",
+      "url": "https://www.credly.com/badges/b887fefe-bd0d-4b94-bbf0-34afbad2cebf?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": null,
+      "name": "Commercial Cookery Cert iv",
+      "license_number": null,
+      "display_source": null,
+      "authority": "TAFE NSW",
+      "url": null
+    }
+  ],
+  "connections": 555,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/charliegoldsmith",
+      "name": "Charlie Goldsmith",
+      "summary": "Managing Director - Cassette",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffmazzini",
+      "name": "FDr. Jeffery Mazzini",
+      "summary": "Managing Director @ AAMC Training Group | Global Business Solutions",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerriemcfayden",
+      "name": "Kerrie McFayden",
+      "summary": "Regional Sales Manager at The Banktech Group",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chefsarahfrench",
+      "name": "Sarah French",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/reneejefferys",
+      "name": "Renee Broadway",
+      "summary": "Renovation Project Manager | Property Investor",
+      "location": "Mount Hawthorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregtanna",
+      "name": "Greg Tanna",
+      "summary": "Executive Search - CX Domain",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melindapearce",
+      "name": "Melinda Pearce",
+      "summary": "Managing Director at Elite Society Management",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kenwilliamsexcel",
+      "name": "Ken Williams",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/armstrongalex",
+      "name": "Alex Armstrong",
+      "summary": "Managing Director @ Lead Retail | Headhunter - Recruiter - Retail Expert",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/judysahay",
+      "name": "Judy Sahay",
+      "summary": "CEO & Managing Director of CROWD MEDIA GROUP | Voted Australia's Top 50 Influencer | Top 100 Women in Media | International Keynote Speaker| Forbes Business Council |",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keithharwood",
+      "name": "Keith Harwood",
+      "summary": "Managing Director at Inspire Speakers",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattmcgilton",
+      "name": "Matt McGilton",
+      "summary": "Driving Excellence in Financial Services Talent Acquisition",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seanashby",
+      "name": "Sean Ashby",
+      "summary": "Managing Director @ aussieBum | Start-up success, Australian Exporter",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jakki-ronson-88a0971a0",
+      "name": "Jakki Ronson",
+      "summary": "Business Development Executive at Asahi Beverages",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ansah-nancy-5a76a0292",
+      "name": "Ansah Nancy",
+      "summary": null,
+      "location": "Accra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juwita-rihi",
+      "name": "Juwita Rihi",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-challita-352682248",
+      "name": "Michael Challita",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-rodrigues-",
+      "name": "Tony Rodrigues",
+      "summary": null,
+      "location": "Kiama"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farleyburl",
+      "name": "Farley Burl",
+      "summary": "\"We will be there when our clients plan their futures as well as when they have their first accident or lose a loved one.\"",
+      "location": "Denver metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timothy-collett-55601b6",
+      "name": "Timothy Collett",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabrizio-bonazza-6597506",
+      "name": "Fabrizio Bonazza",
+      "summary": "CEO, Neo Advertising.",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-tresckitta-91176010",
+      "name": "Joe Tresckitta",
+      "summary": "CEO and Director at APS Logistics Group",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-reidy-crofts-1671b11b",
+      "name": "Stuart Reidy-Crofts",
+      "summary": "Managing Director at Pace National",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-hennessy-coffee",
+      "name": "John Hennessy",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garry-brown-b2612922",
+      "name": "Garry Brown",
+      "summary": "Retired",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-english-07760122",
+      "name": "David English",
+      "summary": "Community Engagement Executive",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kurt-ogbewele-6a19232a",
+      "name": "Kurt Ogbewele",
+      "summary": null,
+      "location": "Denver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-pallister-72b24332",
+      "name": "Luke Pallister",
+      "summary": "Managing Director at Pallisters",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garry-goodman-27648132",
+      "name": "Garry Goodman",
+      "summary": null,
+      "location": "Southport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tullio-carboncini-b1517133",
+      "name": "Tullio Carboncini",
+      "summary": null,
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-jones-30258933",
+      "name": "Brad Jones",
+      "summary": "TRANSDEV NSW - Journey Maker",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-watson-03aa2535",
+      "name": "Christopher Watson",
+      "summary": "Operations Excellence Coach | Funlab Pty Ltd",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alana-earl-885a8635",
+      "name": "Alana Earl",
+      "summary": "Managing Director - Crib Creative",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-campbell-44288939",
+      "name": "Paul Campbell",
+      "summary": "Customer Service Manager at The Mosman Club",
+      "location": "Mosman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beryl-griffiths-9271203b",
+      "name": "Beryl Griffiths",
+      "summary": "Owner, campsite",
+      "location": "Llandudno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-eastham-6b72273b",
+      "name": "Andrew Eastham",
+      "summary": "Managing Director @ Adore Management Pty Ltd",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ainslie-allen-6789013b",
+      "name": "Ainslie Allen",
+      "summary": "Rapid Test will eliminate exposure to Arc Flash & Electrocution . RCD compliance testing system that saves Lives & Money",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ken-rowbotham-2b16b343",
+      "name": "Ken Rowbotham",
+      "summary": "Owner/managing director at Shucare Australia Pty Ltd",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stewart-graham-79452547",
+      "name": "Stewart Graham",
+      "summary": "Chief Operating Officer at St Marys Rugby League Club",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tracedfinancial",
+      "name": "Tracey Dickson",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-natsis-0a8a3951",
+      "name": "Alex Natsis",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caryn-luxton-27848652",
+      "name": "Caryn Luxton",
+      "summary": "Studio Manager and Pattern Designer at Caryn Luxton Design",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dale-mcmanus-318a3455",
+      "name": "Dale McManus",
+      "summary": "Retail Experience Manager  at Scentre Group (Owner and Operator of Westfield in Aus and NZ)",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heidi-eagles-accm-3861a256",
+      "name": "Heidi Eagles ACCM",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ross-siragusano-50033057",
+      "name": "Ross Siragusano",
+      "summary": "Analytics | Management | Hospitality | Gaming | Customer Service",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamid-olyayani-850a1357",
+      "name": "Hamid Olyayani",
+      "summary": "Facility manager at Gladesville RSL and community club",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-wright-5315b358",
+      "name": "Chris Wright",
+      "summary": "Owner - Chris Wright Design",
+      "location": "Lane Cove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicky-shum",
+      "name": "Vicky Shum",
+      "summary": "Design Lead | Brand Systems | Visual Communication | UI Design",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karolina-cobanov-23899067",
+      "name": "Karolina Cobanov",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-hodge-1310b471",
+      "name": "Craig Hodge",
+      "summary": "at Richmond Club",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/owen-walker-36604877",
+      "name": "Owen Walker",
+      "summary": null,
+      "location": "Hillvue"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-cook-160a3178",
+      "name": "Michael Cook",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-bragg-694bba78",
+      "name": "Phil Bragg",
+      "summary": "Consultant Registered Club Industry at Phillip Bragg Consulting",
+      "location": "Yallaroi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-jacqui-matthews-jp-5b0a5697",
+      "name": "Dr. Jacqui Matthews, JP",
+      "summary": "Manager Curriculum at Great Potentials NZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henrik-christensen-326b4b10a",
+      "name": "Henrik Christensen",
+      "summary": "SPORT HAS THE POWER TO CHANGE THE WORLD!",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noel-cook-4bb375110",
+      "name": "Noel Cook",
+      "summary": "OOH Expert | Board member | M & A | Capital Raising",
+      "location": "North Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hakan-guler-908a98132",
+      "name": "Hakan Guler",
+      "summary": null,
+      "location": "Prairiewood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manoj-kodithuwakku-433abb138",
+      "name": "Manoj Kodithuwakku",
+      "summary": "WEB DEVELOPER & DIGITAL MARKETING SPECIALIST",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deb-hollier-4b8197147",
+      "name": "Deb Hollier",
+      "summary": "diploma of management",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-munoz-9b172a149",
+      "name": "Christopher Munoz",
+      "summary": "Finance Operations Assistant",
+      "location": "Cheltenham"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Sharing this podcast mini, it gives insight in how Wildstone can help you if you have a roadside commercial property or land that would be a great…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_outdoormediainfrastructure-activity-7454697036123246592-rYge",
+      "activity_status": null
+    },
+    {
+      "title": "Next Sunday, 26th October, I’ll be walking 28 kilometres in the Seven Bridges Walk for the Cancer Council with the Wildstone Australia and good…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_jacqui-walking-for-a-cancer-free-future-activity-7384450616053645312-l6uI",
+      "activity_status": null
+    },
+    {
+      "title": "Love to see this innovation from NZ. Billboards going beyond advertising, charity and community announcements... LUMO’s turning screens across NZ…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_digital-billboards-across-nz-to-deliver-weather-activity-7378304263506219009-s7br",
+      "activity_status": null
+    },
+    {
+      "title": "I’m taking on 28km on 26 October with the Wildstone Australia, Alexander Appointments and rawsuga team, and with every donation made to my 7 Bridges…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_jacqui-walking-for-a-cancer-free-future-activity-7378927080064876544-Kgmk",
+      "activity_status": null
+    },
+    {
+      "title": "Rawsuga sites looking great, thanks Alliance Outdoor Media Group 🩷",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_rawsuga-sites-looking-great-thanks-alliance-activity-7377269295271038976-DIv7",
+      "activity_status": null
+    },
+    {
+      "title": "The numbers don't lie! Love this - Mountain Culture Beer Co results speak for themselves - impressive growth from OOH alone. Big shoutout to oOh! for…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_the-numbers-dont-lie-love-this-mountain-activity-7367106346275565568-b-IM",
+      "activity_status": null
+    },
+    {
+      "title": "A wonderful night supporting such an important charity - thanks Certeq, grateful to share this occasion",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_a-wonderful-night-supporting-such-an-important-activity-7365963576148172800-98Vf",
+      "activity_status": null
+    },
+    {
+      "title": "Love how the simplest ideas land the biggest punch. A clever line, the right pause in traffic — suddenly, it’s more than a billboard, it’s an…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_love-how-the-simplest-ideas-land-the-biggest-activity-7364127698526351363-AoWk",
+      "activity_status": null
+    },
+    {
+      "title": "Fabulous first day at World Out of Home Organization Annual Congress in wonderful Mexico City. Joao Mesquita from Amazon asked the question “Is OOH…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_woo-outdoormediainfrastructure-activity-7336553666314702849-6HUt",
+      "activity_status": null
+    },
+    {
+      "title": "Proud of our team - thanks for everyone who supported us",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_proud-of-our-team-thanks-for-everyone-who-activity-7313471900515454979-4CVw",
+      "activity_status": null
+    },
+    {
+      "title": "Please help us raise money for children with cancer by conquering 86km in March, we have a couple of guest team members including Noel Cook from…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_please-help-us-raise-money-for-children-with-activity-7300677428845195264-imhT",
+      "activity_status": null
+    },
+    {
+      "title": "Rebrand and refresh, excited for the next challenge and opportunities #outofhome #billboards #DOOH",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_outofhome-billboards-dooh-activity-7235545347299622913-A2xR",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_worldoutofhomeorganization-networking-activity-7208310828108775424-l3xI",
+      "activity_status": null
+    },
+    {
+      "title": "Team rawsuga had some special guests join today - thanks to Danijela Negro Daniel Negro Andrew Hill and Lucy Hill for a fun 7.5kms today We have…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_team-rawsuga-had-some-special-guests-join-activity-7174556372519333888-I-TB",
+      "activity_status": null
+    },
+    {
+      "title": "This month, I'm conquering 86km for the 86 kids who are diagnosed with cancer every month. thanks to everyome who has donated to me and teh rawsuga…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_this-month-im-conquering86km-for-the-86-activity-7173794372746956800-6nKI",
+      "activity_status": null
+    },
+    {
+      "title": "In March the rawsuga team will each walk, cycle or jog 86kms and are dedicating our 86k cure for cancer challenge to my beautiful 17 year old cousin…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_in-march-the-rawsuga-team-will-each-walk-activity-7168847057879830530-OlMu",
+      "activity_status": null
+    },
+    {
+      "title": "Membership drives and local area marketing using billboards - the perfect combination. Loving the Tigers strategy to get back to grassroots and grow…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_membership-drives-and-local-area-marketing-activity-7178595110568296448-GN62",
+      "activity_status": null
+    },
+    {
+      "title": "Calling for help from high school student parents, teachers, administrators and students Our UX team is conducting research into Yrs 9 & 10 education…",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_education-excellence-linktree-activity-6998105561443573761-Zm-R",
+      "activity_status": null
+    },
+    {
+      "title": "View my verified achievement from Academy Xi.",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_customer-experience-elevate-was-issued-by-activity-6915461590985183232-7K5w",
+      "activity_status": null
+    },
+    {
+      "title": "Chris Rogers, Noel Cook, Kylie Rogers",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_chris-rogers-noel-cook-kylie-rogers-activity-6916595564356792320-GVzK",
+      "activity_status": null
+    },
+    {
+      "title": "View my verified achievement from Academy Xi.",
+      "link": "https://www.linkedin.com/posts/jacqui-matthews-411087a_graphic-design-elevate-was-issued-by-academy-activity-6924502421972942848-ALQ3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jacqui Maxfield",
+      "link": "https://uk.linkedin.com/in/jacqui-maxfield-4b9985125",
+      "summary": "Head of Art & Photography, Alumni coordinator & Associate Assistant Head teacher at CRISPIN SCHOOL ACADEMY TRUST",
+      "location": "Bath"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://uk.linkedin.com/in/jacqui-matthews-b5776251",
+      "summary": "Board Trustee at Age UK North South and West Dorset",
+      "location": "Dorchester"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://uk.linkedin.com/in/jacquidmatthews",
+      "summary": "Manager at Todmorden Information Centre",
+      "location": "Todmorden"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://nz.linkedin.com/in/jacqui-matthews-7b52b342",
+      "summary": "Finance Manager at n3 - Business Buying Power",
+      "location": "Auckland"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://uk.linkedin.com/in/jacqui-matthews-4aa40b19",
+      "summary": "Product Development at National Grid",
+      "location": "West Midlands"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-a89315218",
+      "summary": "Territory Management, Health and Wellness, Education.",
+      "location": "Frankston South, VIC"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-72352b86",
+      "summary": "Operations Manager at Mt Thompson Crematorium",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-aa8397263",
+      "summary": "Financial Controller at Silver Rock Property Pty Ltd",
+      "location": "Mermaid Beach, QLD"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-6a5a25156",
+      "summary": "ssdf at sdfsdfs",
+      "location": "Victoria, Australia"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-13711b296",
+      "summary": "Academic at The University of Sydney",
+      "location": "Sydney, NSW"
+    },
+    {
+      "name": "Jacqui Matthews",
+      "link": "https://au.linkedin.com/in/jacqui-matthews-994a851b7",
+      "summary": "Student at Swinburne University of Technology",
+      "location": "Clay Wells, SA"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-10T00:00:00Z"
+  }
+}

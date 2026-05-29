@@ -1,0 +1,823 @@
+{
+  "public_identifier": "eddie-foo-921a382b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ef9bd1260bc09d105e7a56acb2dcb102",
+  "background_cover_image_url": null,
+  "first_name": "Eddie",
+  "last_name": "Foo",
+  "full_name": "Eddie Foo",
+  "follower_count": 1156,
+  "occupation": "Executive General Manager - Strategy at JCDecaux Australia",
+  "headline": "Executive Leader | GAICD | Strategy | Corporate Development | Commercial Planning | Contract Pricing | Finance",
+  "summary": "Eddie is a graduate at the Australian Institute of Company Directors and has held senior leadership positions for the last 15+ years across multiple industries including media, construction, travel and industrial services in both ASX listed and private equity environments.<br><br>Eddie has expertise in: contract valuations, strategy development and execution, operational excellence, commercial risk, Board and Executive level advisory, finance and business transformations, M&A and data analytics / insights. <br><br>Notable achievements include:<br><br>BSA (ASX listed technical services company): Established a new contracting governance and risk management framework that was tabled and approved by the Board. The new framework was implemented across the whole of the BSA Group and contributed significantly to the margin growth experienced post implementation (share price grew 36% from June 2018 to September 2019).<br><br>APN Outdoor (previously an ASX listed media company): Successfully listed the business on the ASX with the executive and private equity (Quadrant Private Equity) teams. The IPO was regarded in the industry as one of the most successful IPOs in 2014. Eddie was responsible for the preparation and verification of the Prospectus and all financial and legal due diligence processes and was a key stakeholder to Quadrant and Joint Lead Managers.<br><br>JCDecaux (the world's largest outdoor media company): Partnered with the COO to win / renew 50+ tenders. Key wins include securing the advertising rights for some of Australia's largest outdoor media contracts including Sydney Airport (2024 & 2015) and Sydney Trains (2021 & 2013). Responsible for bid strategy, pricing and financial due diligence. The wins grew market share considerably and set a platform for the business’ digital growth strategy.<br><br>CPB Contractors (formerly Leighton Contractors and a member of the ASX50 CIMIC Group): Established new predictive analytics dashboards that provided forward indicators of project health to the MD & CFO. Projects included WestConnex, Sydney Metro, Victoria’s Level Crossing Removals and other major infrastructure projects in Australia and New Zealand.",
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "JCDecaux Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-australia",
+      "company_facebook_profile_url": null,
+      "title": "Executive General Manager - Strategy",
+      "description": "Partnering with the CEOs and Executive Leadership Team to ensure the successful communication, implementation and execution of JCDecaux's business strategy.  \n\nResponsible for leading the Customer first development strategy in tender responses whilst ensuring submissions are aligned to the businesses' long term strategic and financial goals.\n\nFostering multi-departmental decision making, business planing and strategy implementation, and cascading key strategic information to the wider Senior Leadership Group and business.\n\nExecutive Sponsor for the DEIB Committeee",
+      "location": "Sydney, NSW",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b0569d22d1d9b9ec50317e3be345985"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "JCDecaux Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-australia",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Strategy & Corporate Development",
+      "description": "Promoted to an expanded role that includes my responsibilities as General Manager - Commercial & Operations: Strategy & Analysis, but also overlays responsibility for a new Strategy function. \n\nNew Responsibilities include:\n\n- Reporting to the CEO, creation of a new in-house strategy function overseeing strategy development and execution with the CEO and Executive Team\n\n- Chair of the newly formed Senior Leadership Team comprising 10 senior leaders across each function of the business from Australia & New Zealand\n\n- Backfilling some responsibilities of the COO upon his departure in April 2024. The COO role was not replaced.\n\n- Development and implementation of a new strategy governance regime\n\n- Development and implementation of a new strategy reporting framework, including monthly strategy updates to the CEO & Executive Team\n\n- Lead Focus Area Deep Dive sessions with both Executive & Senior Leaders (~60 representatives)",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b0569d22d1d9b9ec50317e3be345985"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "JCDecaux Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-australia",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Commercial & Operations: Strategy & Analysis",
+      "description": "Promoted to an expanded role that includes my responsibilities as General Manager - Commercial Projects, but also overlays an Operational Strategy remit.\n\nNew responsibilities include:\n\n- Renegotiation of key supplier contracts\n\n- Advisor to COO on Operations restructuring\n\n- Leadership on business critical Operations projects\n\nKey Achievements include:\n\n- Renegotiation of business critical transport contracts that resulted in both positive community outcomes and extensions to key media licenses under favourable commercial terms for JCDecaux\n\n- Renewal of key supplier contracts under favourable commercial terms for JCDecaux",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b0569d22d1d9b9ec50317e3be345985"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2022
+      },
+      "company": "JCDecaux Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-australia",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Commercial Projects",
+      "description": "Reporting to the COO of JCDecaux Australia and NZ. \n\nKey responsibilities include:\n\n- Commercial strategy development \n\n- Valuation of outdoor media contracts across both private and public sectors. Contracts valued range from $1m to $1b\n\n- Advising on the commercial viability and pricing of digital opportunities, major contract tenders and renewals with the Commercial Development Team. Includes the review of all revenue, capital and earnings forecasts\n\n- Project lead on Mergers & Acquisitions\n\n- Project lead on key Operations, Campaign Execution and Commercial objectives including the renewal of major supply contracts and the commissioning / decommissioning of major JCDecaux infrastructure. \n\n- Commercial advisory to C-suite and Executive Team as required \n\n- Lead and develop a team of 3 analysts\n\n- JCDecaux Diversity & Inclusion Committee member, Career and New Parents Mentor\n\nKey achievements include:\n\n- Successfully renewed the Sydney Trains media license, one of Australia's biggest outdoor media contracts, with an expanded asset portfolio. The renewal drove significant digital revenue growth and earnings to JCD.\n\n- Led the contract renegotiation programme to reduce cost from the business during the 'Covid' years. The programme saw '9-figure' cost savings from 2020 - 2023",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b0569d22d1d9b9ec50317e3be345985"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "BSA Limited.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bsa-ltd-",
+      "company_facebook_profile_url": null,
+      "title": "Head of Operational Excellence & Risk",
+      "description": "Promoted to the new role of Head of Operational Excellence and Risk reporting to the Deputy CEO.\n\nOperational Excellence - Responsible for driving operational productivity, cost efficiency, restructuring and innovation.\n\nRisk - Responsible for commercial risk. Includes commercial governance, risk management, contract mobilisation reviews and independent deep dive project reviews.\n\nReason for leaving: Approached by the COO of JCDecaux Australia (APN Outdoor) to join the business in a commercial leadership role.\n\nAchievements include:\n\n- Established a new contracting governance and risk management framework that was tabled and approved by the Board. The new framework was implemented across the whole of the BSA Group and contributed significantly to the margin growth experienced post implementation (share price grew 36% from June 2018 to September 2019).\n\n- Consolidation of BSA’s property portfolio reducing the number of offices from 14 to 8, including consolidating the number of Melbourne offices from 4 to 1. The initiative reduced BSA’s operating cost base and promoted collaboration between business units.\n\n- Overhauled the way BSA funds its fleet capex  (~500 tool of trade vehicles) allowing it to invest in new vehicles to standardise and replace its ageing fleet. The change reduced BSA’s future capex requirements by almost $6m pa, lowered its operating costs and also improved staff engagement and productivity.\n\nReason for leaving: Limited career progression opportunities with BSA and was approached by the COO of JCDecaux to return to the newly merged business with APN Outdoor",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/96c8ddb08532e57692d48a7efbc8986c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "BSA Limited.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bsa-ltd-",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Group Operations",
+      "description": null,
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/96c8ddb08532e57692d48a7efbc8986c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "company": "CPB Contractors",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cpb-contractors",
+      "company_facebook_profile_url": null,
+      "title": "Head of Financial Planning & Analysis",
+      "description": "Reporting to the CFO of Australia's largest construction company, CPB Contractors (previously Leighton Contractors, the largest company in the CIMIC group - ASX top 50)) and leading a small team of analysts.\n\nLeading the development of group wide project insights through data analytics, project benchmarking, dashboarding and optimising BI tools. Tabled insights and recommendations directly with MD, CFO and heads of procurement, project controls, treasury, pre-contracts and CPB business unit management teams.\n\nPartnered with project and business unit commercial and finance managers to optimise project productivity, cost reporting and forecasting.\n\nDeveloped new Predictive Analytics Dashboards and Risk & Opportunity reporting and forecasting and tabled findings direct with MD and CFO.\n\nResponsible for all budgeting and forecasting for the CPB group.\n\nOwnership of the quarter end reforecast and executive results presentations.\n\nReason for leaving: Approached by the Deputy CEO of BSA to join the company in an operational leadership role.",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/570fc45e854bb11ed48fb5d7b7e5ad83"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "company": "Helloworld Travel Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/helloworld-com-au",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Group Finance & Online Retail",
+      "description": "Reporting into the Group CFO of the ASX listed group, Helloworld Limited, and led a full service finance team of 28 staff. Led all corporate finance functions including Group Finance, FP&A, Corporate Accounting, Treasury, Tax, Finance Systems, Payroll and AP / AR.\n\nResponsible for the preparation and review of the Annual Report, Audit Committee Papers (also presented to the Audit Committee) and Investor Presentations.\n\nResponsible for all Group budgets and forecasts and presentation to executive team.\n\nPartnered with the CIO as the finance lead on Project Nexus (development of a new CRM platform for all retail agents).\n\nLed the resurrection and implementation of a new Group wide PCI compliance program (program was critically behind schedule when I assumed responsibility). Successfully reached compliance within budget and financier deadlines.\n\nReason for leaving: Finance function was moving to Melbourne following the merger with AOT Group.",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3a733eb83a28feb78d499ae656cf2aab"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2015
+      },
+      "company": "APN Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apn-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head of Corporate Development",
+      "description": "Approached by the Investment Director of the private equity owner, Quadrant Private Equity, to return to APN Outdoor to drive the sale of the business through IPO or trade sale (successfully listed on the ASX in 2014 and was regarded as one of the fastest and most successful listings that year):\n\n- One of the primary management contacts for all project parties involved including, Quadrant Private Equity, Executive team, Joint Lead Managers / Advisors, Legal advisors and investigating accountant.\n\n- Championed the completion all Financial Information and Management Discussion & Analysis in the Prospectus including full review and Q&A with joint lead managers / advisors and investigating accountant.\n\n- Responsible for the verification of all financial and non-financial statements and figures in the Prospectus from cover-to-cover including full review and Q&A with the legal advisors.\n\n- Led the completion of the IPO legal due diligence with the compliance lawyers including responding to all Q&A.\n\n- Primary contact to the investigating accountant to complete all financial due diligence matters.\n\n- Responding to Q&A from interested trade sale parties and IPO institutional investors.\n\n- Finance lead partnering with the COO on the Sydney Airport tender including being responsible for pricing and modelling (subsequently won by APN Outdoor).\n\n- Advising on the restructure of the finance team.\n\nReason for leaving: Contract successfully completed",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed37864601366035cfc884bf607c7ef9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "Force Corp",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/force-corp-pty-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Group Financial Controller",
+      "description": "Reporting into the CFO of the private equity owned Force Corp and led a full service finance team of 12 staff.\n\nSuccessfully relocated / restructured the entire finance team from Brisbane to Sydney in 3 months.\n\nSuccessfully led working capital improvement and cost reduction programs.\n\nReason for leaving: Approached by Quadrant Private Equity to return to APN Outdoor to lead the IPO.",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3e81ad7bbb51dd56d8ce9920fe8be2c0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "company": "APN Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apn-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Group Financial Controller",
+      "description": "Reporting into the CFO and led a finance team of 11 commercial finance staff including an outsourced shared service finance function of 100+ staff.\n\nFinance lead and partnered with the COO and GM Commercial on all commercial tenders including Sydney Trains, Sydney Buses, Perth Airport (all successfully won). \n\nPartnered with the CFO and COO with the sale of the business to Quadrant Private Equity and was responsible for all acquisition accounting.\n\nPartnered with the COO on 2 acquisitions. Responsible for pricing, due diligence and acquisition accounting.\n\nMember of the steering committee for the roll out of the new inventory, AP and financial reporting systems.\n\nReason for leaving: No career progression opportunities available",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed37864601366035cfc884bf607c7ef9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "APN Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apn-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Finance Manager",
+      "description": "Reporting to the CFO from mid-2009 and led a finance team of 10 commercial finance staff.\n\nLed cost out programs following the GFC.\n\nResponsible for the finance team following the resignation of the Financial Controller (was not replaced).\n\nPromoted to Financial Controller in January 2011.",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed37864601366035cfc884bf607c7ef9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2007
+      },
+      "company": "BDO in Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bdo-in-australia",
+      "company_facebook_profile_url": null,
+      "title": "Audit Manager",
+      "description": "Clients included:\n\n- the multinational supermarket chain ALDI Stores;\n- US Listed media company Global Traffic Network;\n- Sydney Swans Football Club;\n- the multinational advertising group M&C Saatchi;\n- aged care facility RSL Lifecare\n\nSelected by partners to be seconded to Vancouver in 2006.\n\nMember of the 'Partner Ready Program'.\n\nReason for leaving: Pursued a more commercial opportunity in industry.",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/147f68665795323a5785e36db27ffc6c"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "field_of_study": "Strategy",
+      "degree_name": "Strategy in the Age of AI and Digital Disruption",
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": "Strategy in the Age of AI and Digital Disruption provides the strategic tools, concepts and perspectives that will allow you to develop a strategic response to the new digital possibilities and to then align your organisation for effective strategy execution. It will support you in becoming more proactive in the digital domain, help you turn digital threats into opportunities, and allow you to leverage digital to create competitive advantage and enhanced performance.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f11767653a405609bf4c7f8df86b9608",
+      "grade": "Completion",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": null,
+      "degree_name": "Graduate",
+      "school": "Australian Institute of Company Directors",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/australianinstituteofcompanydirectors",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a68c22c922d7e434097193b769ed0a44",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": null,
+      "degree_name": "CA",
+      "school": "Chartered Accountants Australia and New Zealand",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/charteredaccountantsanz",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3bb1b32fcb02dbb5d0754fb2fe2c2e9f",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Accounting & Finance",
+      "degree_name": "BCom",
+      "school": "University of New South Wales",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unsw",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ae0c703805e33c97c632d754b1ae05b1",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Sydney Boys High School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Chartered Accountants Australia and New Zealand",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/charteredaccountantsanz",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3bb1b32fcb02dbb5d0754fb2fe2c2e9f",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1125,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/bettyxiang",
+      "name": "Betty Xiang",
+      "summary": "USYD MBA Career Development & Progression Coach │ Executive & Organisational Coach │ Program Management │ Corporate Relations",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-forte-design",
+      "name": "Claudia Forte",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/filimone-tuilau",
+      "name": "Phil Tuilau",
+      "summary": "SaaS Procurement Manager at Vertice | APAC",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/quangtx-vua-%25C4%2591%25C3%25B3ng-g%25C3%25B3i-420a34289",
+      "name": "QuangTX Vua Đóng Gói",
+      "summary": null,
+      "location": "Hanoi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/essie-wake-gaicd-b5555b25",
+      "name": "Essie Wake, GAICD",
+      "summary": "CMO at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isobelli",
+      "name": "Ming (Isobel) L.",
+      "summary": "Embracing changes with open arms.\nFinance Business Partner || Leadership || Head of Community Operation || Chartered Accountant",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-d-wilson",
+      "name": "Dan Wilson",
+      "summary": "Acting Chief Executive Officer - Crown Sydney",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelly-pyett-8ba68419",
+      "name": "Kelly Pyett",
+      "summary": "Manager, Strategy & Analysis at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cassandra-cameron-2935b223",
+      "name": "Cassandra Cameron",
+      "summary": "Group Director - Strategy at oOh! - Australia's #1 Out-of-Home media company",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-o-connor-08359310",
+      "name": "Steve O'Connor",
+      "summary": "Experienced Media CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kemsley-brennan-96767a11",
+      "name": "Kemsley Brennan",
+      "summary": "Vice President at Chubb Group of Insurance Companies",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/morganschultz",
+      "name": "Morgan Schultz",
+      "summary": "Biomedical Engineering major, Electrical Engineering minor at Union College, Class of 2027 | Women’s Basketball Team",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-watkins-2017",
+      "name": "David Watkins",
+      "summary": "Co-Chief Executive Officer at JCDecaux Australia and New Zealand, Chartered Accountant (FCA)",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kanika-srivastava-b702101a",
+      "name": "Kanika Srivastava",
+      "summary": "Asset Development Manager (NSW/QLD) at JCDecaux Australia",
+      "location": "The Rocks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevenyuaus",
+      "name": "Haocheng (Steven) Yu",
+      "summary": "Father | Career Coach | Change Maker | Awardee of the 2024 Asian Australian Leadership Award",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-hines-58b06626",
+      "name": "Andrew Hines",
+      "summary": "Executive Director at JCDecaux AU & NZ",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chiara-greyling-16807330",
+      "name": "Chiara Greyling",
+      "summary": "Media and Marketing professional",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kiru-kowshikan",
+      "name": "Kiruparatnam Kowshikan",
+      "summary": "Commercial & Operations - Finance Manager at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arno-becker-72b97733",
+      "name": "Arno Becker",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mel-farah-391b253b",
+      "name": "Mel Farah",
+      "summary": "Director of Sales and Trading projects at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/khoi-trinh-6459a540",
+      "name": "Khoi Trinh",
+      "summary": "Finance Leader | Driving Transformation, Governance & Commercial Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clinton-brayne-5ab73445",
+      "name": "Clinton Brayne",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michela-giovenco-b4076446",
+      "name": "Michela Giovenco",
+      "summary": "Sales Systems Analyst at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roger-young-49446748",
+      "name": "Roger Young",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-reid-27a76552",
+      "name": "Andrew Reid",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-lindsay-b2247054",
+      "name": "Brad Lindsay",
+      "summary": "Commercial Director - Telstra/WA/SA",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinah-gould-6605805a",
+      "name": "Dinah Gould",
+      "summary": "-credit specialist",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominik-politano-b5948b60",
+      "name": "Dominik Politano",
+      "summary": "Group Sales Manager at Val Morgan Cinema",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicki-makris-1b2b8372",
+      "name": "Nicki Makris",
+      "summary": "at Woolworths",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-evans-8b8534a1",
+      "name": "Patrick Evans",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xiaodan-zhu-143455b3",
+      "name": "Xiaodan Zhu",
+      "summary": "Senior Manager Analytics in CBA GA&A",
+      "location": "Willoughby East"
+    },
+    {
+      "link": "https://www.linkedin.com/in/howard-nguyen-993934b3",
+      "name": "Howard Nguyen",
+      "summary": "Finance Manager",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lillimonro",
+      "name": "Lilli Monro",
+      "summary": "Account Executive at Klaviyo",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-dohnt-21ba20133",
+      "name": "Christopher Dohnt",
+      "summary": "Electrical Maintaince Officer at oOh!",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alissa-bartlett-30014413b",
+      "name": "Alissa Bartlett",
+      "summary": "Chief People Officer at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerome-sama-7649a2171",
+      "name": "Jerome Sama",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marvin-bayley-602a54186",
+      "name": "Marvin Bayley",
+      "summary": "Project Manager JCDecaux Australia",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marin-tomicic-60b64419b",
+      "name": "Marin Tomicic",
+      "summary": "Application Developer at JCDecaux Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-kirk-70a5181a3",
+      "name": "Catherine Kirk",
+      "summary": "Customer Assistant at Tesco",
+      "location": "South Shields"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hong-phan-a45881210",
+      "name": "Hong Phan",
+      "summary": null,
+      "location": "Sydney"
+    }
+  ],
+  "recommendations": [
+    "Vijaya Schwerdt\n\nEddie had always been a great boss! Very professional, extremely knowledgeable and down to earth at the same time. Would not hesitate to work with Eddie again.",
+    "Laura Worsley\n\nEddie is a great mentor and coach. I enjoyed working with him very much and he has taught me many skills that I still use every day. I would not hesitate to work with Eddie again in the future."
+  ],
+  "activities": [
+    {
+      "title": "Life doesn't stop when the sun goes down... Australia's 24-hour economy is rising, and so too is our vision to connect brands and audiences after…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-australia_connectedafterdark-beseenberemembered-activity-7417664517351976960-jpeN",
+      "activity_status": null
+    },
+    {
+      "title": "Jumping into 2026 like... Happy New Year from 62°57′ S, 60°38′ W. Aka. Deception Island, South Shetland Islands, Antarctica. - Polar plunge. ✅ -…",
+      "link": "https://www.linkedin.com/posts/stevenhui_iflyflat-theflightsclub-activity-7414067161243029504-xKQN",
+      "activity_status": null
+    },
+    {
+      "title": "In Montevideo, even our street furniture have crossed into the Upside Down. 👾​ To launch McDonald's’s special Stranger Things menu, this…",
+      "link": "https://www.linkedin.com/posts/jcdecaux_in-montevideo-even-our-street-furniture-activity-7412749578317484032-WzqQ",
+      "activity_status": null
+    },
+    {
+      "title": "There’s no right way to spend the holidays. Many feel obliged to follow tradition. Just because the Christmas holidays shape trends in consumer…",
+      "link": "https://www.linkedin.com/posts/bradeisenhuth_theres-no-right-way-to-spend-the-holidays-activity-7409340784015138816-kJIV",
+      "activity_status": null
+    },
+    {
+      "title": "Ready for take off! JCDecaux’s airport market leadership continues to grow after securing the out-of-home media rights to Australia’s newest…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecauxaustralia-wsi-activity-7447861992301817856-p4hV",
+      "activity_status": null
+    },
+    {
+      "title": "Another win for JCDecaux, and it’s a big one! Very proud to have been part of the amazing team to renew one of the biggest Out-of-home media…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecauxaustralia-activity-7439126788024274945-MHp-",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful to have celebrated JCDecaux’s cultural diversity with our Diwali celebrations today! It was so uplifting to see each of our offices across…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_wonderful-to-have-celebrated-jcdecauxs-cultural-activity-7386337384612880385-WTYn",
+      "activity_status": null
+    },
+    {
+      "title": "Come and join the team! Great parental leave cover role driving real ESG initiatives across the business",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_come-and-join-the-team-great-parental-leave-activity-7342834117081821186-45IU",
+      "activity_status": null
+    },
+    {
+      "title": "Bored of your current Sales role? Well come and work for JCDecaux, you will not only have the opportunity to work in one of the most collaborative…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_bored-of-your-current-sales-role-well-come-activity-7242040483730898944-FA4F",
+      "activity_status": null
+    },
+    {
+      "title": "Last Friday I had the pleasure of joining a few media peers at the annual Media Diversity Australia Industry Round Table. It was refreshing to see…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_last-friday-i-had-the-pleasure-of-joining-activity-7244096632063979520-vZlZ",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux Australia is on 🔥 ! Following our recent success securing the Sydney Airport & Sydney Buses contracts, we have won yet another key contract…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecaux-australia-is-on-following-activity-7208738852579012610-oWjI",
+      "activity_status": null
+    },
+    {
+      "title": "Finally, 3D out-of-home that’s not a stunt! Well done to JCDecaux’s Creative Solutions team for this excellent execution of #JC3D",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jc3d-sbs-activity-7184112285915754498-Zq9P",
+      "activity_status": null
+    },
+    {
+      "title": "Doesn’t get much better (and bigger) than this! 700sqm of digital beauty! Massive congrats to everyone at JCDecaux for making this a reality…6 years…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_doesnt-get-much-better-and-bigger-than-activity-7194249570384539648-YoJ0",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to everyone at JCDecaux Australia who were involved with this incredible win!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_congratulations-to-everyone-at-jcdecaux-australia-activity-7193057137915277313-14Ev",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’m starting a new position as General Manager - Strategy & Corporate Development at JCDecaux Australia!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_im-happy-to-share-that-im-starting-a-new-activity-7163277030313185281-9hiF",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux Australia going from strength to strength. A massive 3 months ahead!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecaux-australia-going-from-strength-to-activity-7105421891959496704-ng41",
+      "activity_status": null
+    },
+    {
+      "title": "So proud to have been part of the discussion panel at the very first JCDecaux Blue Table Talk last week! Felt priviledged to share my stories and…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecaux-embracing-equity-in-the-workplace-activity-7113396229979443200-RKm0",
+      "activity_status": null
+    },
+    {
+      "title": "An amazing opportunity to join JCDecaux, the global leader in out of home media!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_an-amazing-opportunity-to-join-jcdecaux-activity-7090194929678761984-J6i-",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’ve completed my Graduate at Australian Institute of Company Directors!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_im-happy-to-share-that-ive-completed-my-activity-7067041694982012928-kqo2",
+      "activity_status": null
+    },
+    {
+      "title": "Well done to everyone across the JCDecaux Australia business who has worked tirelessly on this amazing project!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_well-done-to-everyone-across-the-jcdecaux-activity-7070220104952680449-wduM",
+      "activity_status": null
+    },
+    {
+      "title": "Another fantastic win! Big congrats to everyone involved with the tender, JCDecaux is certainly flying high!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_another-fantastic-win-big-congrats-to-everyone-activity-7047005355762987009-vtI6",
+      "activity_status": null
+    },
+    {
+      "title": "A fantastic opportunity awaits if you are up for a career change in 2023!",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_a-fantastic-opportunity-awaits-if-you-are-activity-7011210598436786176-5xby",
+      "activity_status": null
+    },
+    {
+      "title": "Hello LI community! I’m fundraising with JCDecaux to raise much needed funds for the Black Dog Institute to support mental health research. My goal…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_support-my-80km-challenge-for-mental-health-activity-6986522366415699968-tZpS",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud to be part of the amazing team that has secured one of Australia’s largest out-of-home advertising contracts. Well done to all involved! A…",
+      "link": "https://www.linkedin.com/posts/eddie-foo-921a382b_jcdecaux-wins-sydney-trains-contract-from-activity-6846020320416165888-GWiy",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Eddie Foo",
+      "link": "https://sg.linkedin.com/in/eddie-foo-1398014b",
+      "summary": "Director at 3oomph Media",
+      "location": "Singapore"
+    },
+    {
+      "name": "Eddie Foo",
+      "link": "https://sg.linkedin.com/in/eddie-foo-b81a01b0",
+      "summary": "--",
+      "location": "Singapore"
+    },
+    {
+      "name": "Eddie Foo",
+      "link": "https://sg.linkedin.com/in/eddie-foo-83375810",
+      "summary": "Group CFO at CSE Global Limited",
+      "location": "Singapore"
+    },
+    {
+      "name": "Eddie Foo",
+      "link": "https://sg.linkedin.com/in/eddie-foo-b419821b",
+      "summary": "General Manager at Thermal International (S) Pte Ltd",
+      "location": "Singapore"
+    },
+    {
+      "name": "Eddie F.",
+      "link": "https://au.linkedin.com/in/eddiefoo",
+      "summary": "Senior Network Engineer | Cisco routing and switching | Unified communication | Voice over IP | Network implementation and design | Data Centre | Cloud Edge",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Eddie Con Foo",
+      "link": "https://au.linkedin.com/in/eddie-con-foo-1667aa44",
+      "summary": "Team Leader Regulated Projects - Trust, Leadership and Collaboration.",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Eddie Foo",
+      "link": "https://au.linkedin.com/in/eddie-foo-98b31063",
+      "summary": null,
+      "location": "Greater Perth Area"
+    },
+    {
+      "name": "Eddie Foo",
+      "link": "https://au.linkedin.com/in/eddie-foo-784571287",
+      "summary": "--",
+      "location": "Canberra"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-15T00:00:00Z"
+  }
+}

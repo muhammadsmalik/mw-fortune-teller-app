@@ -1,0 +1,948 @@
+{
+  "public_identifier": "adam-garrity-aa62a655",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b51302da7cabdb916c3dacc8067f7e14",
+  "background_cover_image_url": null,
+  "first_name": "Adam",
+  "last_name": "Garrity",
+  "full_name": "Adam Garrity",
+  "follower_count": 1922,
+  "occupation": "Head of Global OOH at dentsu",
+  "headline": null,
+  "summary": "As Head of Global OOH at dentsu, I lead the centralised OOH team and work with the dentsu network to drive strategic initiatives to expand OOH spend and market share. With a deep understanding of OOH’s real-world impact, my role is to champion OOH for its role in delivering measurable business outcomes for clients, as well as helping brands connect with audiences across local, regional, and global markets.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "dentsu",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Head of Global OOH",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "company": "dentsu",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Client & Growth Lead, OOH, Amplifi Global",
+      "description": "As Client & Growth Lead I am responsible for the global OOH team's largest billing agency, key direct clients, as well as focusing on growth and new business across the dentsu network.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "dentsu international",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Business Director, OOH, Amplifi Global",
+      "description": "Part of the global dentsu OOH team. Responsible for key direct clients, new business, and the relationship between the OOH team and Merkle B2B, dentsu's award winning B2B agency.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "company": "dentsu international",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Account Director, OOH, Amplifi Global",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "International Business Development Director ",
+      "description": "Responsible across all major planning and buying agencies as well as client direct. Moved over from the UK to bring in new business, since then I have successfully won new clients and developed new relationships with key stakeholders.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Senior Commercial Manager (Airport)",
+      "description": "Working across Kinetic International, bespoke international agencies and JCDecaux OneWorld offices (London, Paris, Milan, Munich, Shanghai, New York & San Francisco). \n\nActive across key clients, representing over 50% of JCDecaux Airport UK revenue.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Head of Insight (Airport)",
+      "description": "Responsible for the development of insight strategy. My role involves developing and implementing research strategy to support marketing and sales strategy. \n\nOne of my key areas of responsibility is working closely with the sales team to ensure sales pitches are fully and appropriately resourced.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Market Research Assistant/Insight Executive/Senior Insight Executive (Airport)",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv",
+      "company_facebook_profile_url": null,
+      "title": "Work Placement - Group Marketing",
+      "description": "Gained experience in; Research and Planning, Digital Marketing, Social Media and Commercial Marketing.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f2a662e3346f774f143d70885cdd3a33"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": "Marketing/Marketing Management",
+      "degree_name": "M.A (Hons) Management with Marketing",
+      "school": "Heriot-Watt University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/heriot-watt-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a43157e55f521e216c06a089cb341e5e",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Notre Dame 6th Form College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Employee of the Quarter (Q4 2015)",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "description": null
+    },
+    {
+      "title": "Employee of the Quarter (Q2 2014)",
+      "issuer": "JCDecaux Airport",
+      "issued_on": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Advertising Association - Media Business Course",
+      "number": null
+    },
+    {
+      "name": "Media Circle - Introduction to Media",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Data-Driven Planning",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.credly.com/badges/8461cab7-c90e-4786-8441-b62c61125eb2?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Marketing Foundations",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.youracclaim.com/badges/a7bf0afd-be75-4436-bb29-a095f2ed327e?source=linked_in_profile"
+    }
+  ],
+  "connections": 1889,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/vanessa1moore",
+      "name": "Vanessa Moore (she/her/hers)",
+      "summary": "Director of Partnerships and Special Projects, Rockhouse Foundation",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulvitale",
+      "name": "Paul Vitale",
+      "summary": "Connector, Idea Generator, Marketer, and Content Creator with Indie Magazine Expertise & Co-Owner at Goor Studio",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelortizoyola",
+      "name": "Angel Ortiz-Oyola",
+      "summary": "Graphic Design and Production",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelmiguel",
+      "name": "Michael Miguel",
+      "summary": "Senior Director of Marketing & Sales Operations",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benediktjanssen",
+      "name": "Benedikt Janssen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/josehhernandezj",
+      "name": "Jose Hernandez",
+      "summary": "Vice President of International Operations",
+      "location": "Greater Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenosgood",
+      "name": "Jennifer Osgood",
+      "summary": "Director of Corporate Solutions Marketing",
+      "location": "Phoenix"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexfuentes",
+      "name": "Alex Fuentes, MBA",
+      "summary": "EVP & COO @ College Aid Services",
+      "location": "Altamonte Springs"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joannamostyn",
+      "name": "Joanna Mostyn (she / her)",
+      "summary": "Client Partner",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bryce-pierson",
+      "name": "Bryce Pierson",
+      "summary": "Senior Manager, Sales Development and Commercial Sales",
+      "location": "Indianapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tloilier",
+      "name": "Thibaut Loilier",
+      "summary": "Product Builder at X (formerly Google[x]) | ex-Meta, ex-AXA, ex-BNP Paribas | MS in Computer Science",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timothygiles",
+      "name": "Timothy Giles",
+      "summary": "Digital Advertising & Technology (Ad Tech) Sales",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-mccullers",
+      "name": "Vanessa McCullers (she/her/hers)",
+      "summary": "Vice President, Diversity, Equity, Inclusion & Strategy @ BEN | Cultural Transformation",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heidinetzley",
+      "name": "Heidi Netzley Miranda",
+      "summary": "VP, Client Partnerships, Gaming @ MOCEAN | Former ABC/Disney Entertainment (Currently on Maternity Leave)",
+      "location": "Greater Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-cesaratto-813b666",
+      "name": "joseph cesaratto",
+      "summary": "Creative Results Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katstolpa",
+      "name": "Kat S.",
+      "summary": "Helping business leaders transform their talent strategies",
+      "location": "Greater Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taftayers",
+      "name": "Taft Ayers",
+      "summary": "Husband | Dad | Radio Show Host | Director of Business Relations | Public Speaker | Business Coach",
+      "location": "Nashville metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-monham",
+      "name": "Paul Monham",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oohmedia",
+      "name": "Benjamin Milne",
+      "summary": "Chief Executive Officer - APAC at billups | Strategic Leader in Media and Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dillonlindsay",
+      "name": "Lindsay Dillon",
+      "summary": "Business Development at Loft3Di",
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulofarias",
+      "name": "Paulo Farias",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinna-bokungu-83a261236",
+      "name": "Corinna BOKUNGU",
+      "summary": "Ventes et Marketing",
+      "location": "Le Havre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cornelius-holt-952aa1",
+      "name": "Cornelius Holt",
+      "summary": null,
+      "location": "Milwaukee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robyn-adams-6905b04",
+      "name": "Robyn Adams",
+      "summary": "Events & Communications Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gale-domokos-bonnell-1b42818",
+      "name": "Gale Domokos Bonnell",
+      "summary": "Vice President of  Business Development at Adams Outdoor Advertising",
+      "location": "Charlotte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-einspahr-5106b18",
+      "name": "Ben Einspahr",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-bull-7405739",
+      "name": "Helen Bull",
+      "summary": "Head of DOOH & Programmatic",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-sanders-2014",
+      "name": "Terry Sanders",
+      "summary": "VP, Media Sales",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebeccacardonaatl",
+      "name": "Rebecca Cardona",
+      "summary": "Strategic Ad Tech Sales Leader | Programmatic, Curation, CTV",
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessio-ponti-29095028",
+      "name": "Alessio Ponti",
+      "summary": "titolare presso Galleria d'Arte Alessio Ponti",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alanna-solanilla-62521030",
+      "name": "Alanna Solanilla",
+      "summary": "Head of Client at Evolve OOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sibel-yaren-52727430",
+      "name": "Sibel Yaren",
+      "summary": "Client Director, International OOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrizia-figlioli-3b97453a",
+      "name": "Patrizia Figlioli",
+      "summary": "Psicologa",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleonora-galli-9943743b",
+      "name": "Eleonora Galli",
+      "summary": "Global Investment Director - Kering Group",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominique-oatley-3bb7603b",
+      "name": "Dominique Oatley",
+      "summary": "Business Director - Production Lead: Evolve OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marta-maldifassi-59401341",
+      "name": "Marta Maldifassi",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samantha-alsemgeest",
+      "name": "Samantha Alsemgeest",
+      "summary": "*** Junior Full Stack Web Developer ***",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bono-bg-2043944b",
+      "name": "BONO bg",
+      "summary": ".",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-urso-a5528453",
+      "name": "Jason Urso",
+      "summary": "I lead operations, project management, and marketing, creating scalable systems and strategy across real estate and the built environment.",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-blay-23230954",
+      "name": "James Blay",
+      "summary": "Global Business Director - Client & Innovation Lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-chalk-battaglia-89811a61",
+      "name": "Emily Chalk Battaglia",
+      "summary": "Founder and Senior Managing Partner at East of Ellie, an events co. ℠",
+      "location": "Shelton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carole-brandelon-17093569",
+      "name": "Carole Brandelon",
+      "summary": "Plasticienne et formatrice chez Ecoles, association Phosphène, ateliers et cours d'arts plastiques",
+      "location": "Sury-en-Vaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hortense-viry-44164770",
+      "name": "Hortense Viry",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-mclelland-3aa19879",
+      "name": "Chris Mclelland",
+      "summary": "Portfolio Partnership Manager South at Bauer Media Outdoor UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloe-parker-b951b282",
+      "name": "Chloe Parker",
+      "summary": "Account Manager at Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oli-ford-819948a3",
+      "name": "Oli Ford",
+      "summary": "International team leader & OOH enthusiast",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/callum-banville-258ab7a3",
+      "name": "Callum Banville",
+      "summary": "Sales Business Director",
+      "location": "Luton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philippa-kings-722051121",
+      "name": "Philippa Kings",
+      "summary": "Business Delivery Director at JCDecaux",
+      "location": "Redhill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gill-rowe-7506a8187",
+      "name": "Gill Rowe",
+      "summary": "Business Director, Evolve OOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-maynard-28ab86208",
+      "name": "Matt Maynard",
+      "summary": "Trader at Clear Channel Outdoor",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Broadsign’s Gavin Lee explains why automation is 🔑 to scalability in out-of-home advertising. Head to our blog to read more and to find out how…",
+      "link": "https://www.linkedin.com/posts/broadsign_broadsigns-gavin-lee-explains-why-automation-activity-7299823145467703296-AY5D",
+      "activity_status": null
+    },
+    {
+      "title": "WORK | Welcome to the Living Lands of Avowed 🍄 Xbox Game Studios return with their next major first-party title release - visit a mysterious island…",
+      "link": "https://www.linkedin.com/posts/carat-uk_avowed-by-xbox-whitechapel-london-activity-7299817782920007686-qRTY",
+      "activity_status": null
+    },
+    {
+      "title": "Attention is scarce and we are seeing a resurgence in big, bold, beautiful brand work. In an over-saturated world OOH ads are cutting through the…",
+      "link": "https://www.linkedin.com/posts/kate-tovey-60937829_advertising-marketing-ooh-activity-7299731405217906690-sPEW",
+      "activity_status": null
+    },
+    {
+      "title": "billups in Japan! Had an awesome time in Tokyo last week—Japan never fails to impress, and its OOH scene is no different. If you’re ever in the…",
+      "link": "https://www.linkedin.com/posts/sae-kar-ng-6b434134_oohtokyoconference2025-billups-billupsapac-activity-7299611440816996354-3D1s",
+      "activity_status": null
+    },
+    {
+      "title": "The first-ever OOH Tokyo Conference has successfully wrapped up! With 20+ insightful sessions, a fantastic networking dinner, and participation from…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_otc2025-oohtokyoconference-liveboard-activity-7298637018874462208-LnLk",
+      "activity_status": null
+    },
+    {
+      "title": "Adam Garrity makes a compelling case for #automation and #programmatic #DOOH from an agency perspective: Automating static and digital OOH…",
+      "link": "https://www.linkedin.com/posts/franckvidal_the-future-of-ooh-transactions-faster-smarter-activity-7297231499525832704-i_8-",
+      "activity_status": null
+    },
+    {
+      "title": "I know that for many in the agency and ad-tech space, 2025 has already felt like a year's worth of change in one concentrated six-week marathon. If…",
+      "link": "https://www.linkedin.com/posts/ajmcdonagh_i-know-that-for-many-in-the-agency-and-ad-tech-activity-7296574974398464001-UknE",
+      "activity_status": null
+    },
+    {
+      "title": "A good call to action for the OOH industry and tech partners to consolidate, streamline and make it easy for advertisers to plan, buy and measure OOH…",
+      "link": "https://www.linkedin.com/posts/helen-bull-7405739_the-future-of-ooh-transactions-faster-smarter-activity-7296069451823665152-qXUH",
+      "activity_status": null
+    },
+    {
+      "title": "Exploring the Future of DOOH—Exclusive Webinar (Conducted in Japanese) On March 12, 2025, industry leaders from NTT DOCOMO, SS Pharmaceutical, Hit…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_webinar-liveboard-ooh-activity-7296112139306438656-tK8T",
+      "activity_status": null
+    },
+    {
+      "title": "NEWS | Carat UK's Mike McCoy has been invited to judge this year’s 2025 Outdoor Media Awards, run by Clear Channel UK in partnership with Campaign…",
+      "link": "https://www.linkedin.com/posts/carat-uk_caratproud-oma2025-outdoormediaawards-activity-7296094661775949825-sxKx",
+      "activity_status": null
+    },
+    {
+      "title": "来週のOOH東京カンファレンス2025でたくさん の友達に会えるのを楽しみにしています。",
+      "link": "https://jp.linkedin.com/posts/oohmedia_来週のooh東京カンファレンス2025でたくさん-の友達に会えるのを楽しみにしています-activity-7296081046918291456-bqQm",
+      "activity_status": null
+    },
+    {
+      "title": "Can’t wait for this! Thank you to World Out of Home Organization for the opportunity. Really looking forward to the OOH Tokyo Conference and talking…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_cant-wait-for-this-thank-you-to-world-out-activity-7296086820277112833-j3k_",
+      "activity_status": null
+    },
+    {
+      "title": "Adam Garrity, Head of Global OOH at dentsu, and our own Benjamin Milne, CEO APAC, will take the stage at the OOH Tokyo Conference 2025 hosted by the…",
+      "link": "https://www.linkedin.com/posts/billups_dentsu-billups-activity-7295971008736378880-ZrhG",
+      "activity_status": null
+    },
+    {
+      "title": "Well done to everyone in the UK involved in delivering this. Although it should only be the start. There is a such a huge growth potential for this…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_well-done-to-everyone-in-the-uk-involved-activity-7295870967128416257-Gutc",
+      "activity_status": null
+    },
+    {
+      "title": "Out-of-Home reports its best ever year – achieving stellar results on a brand-safe, trusted channel where 50% of revenues go back into the community.…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-uk_results-ooh-dooh-activity-7295857047005200384-GOf9",
+      "activity_status": null
+    },
+    {
+      "title": "Good article on the challenges the OOH industry faces when planning and booking OOH campaigns, big and small --and what we, as an industry, can do…",
+      "link": "https://www.linkedin.com/posts/arthurdegroot_the-future-of-ooh-transactions-faster-smarter-activity-7295796545931653121-YdR2",
+      "activity_status": null
+    },
+    {
+      "title": "We are proud to announce that two outstanding members of our UK team have been named in Campaign UK's A-List for 2025! 🌟 Congratulations to James…",
+      "link": "https://www.linkedin.com/posts/iprospect_iprospectuk-campaignalist-activity-7295737300599123968-Bqlb",
+      "activity_status": null
+    },
+    {
+      "title": "Pregnant Then Screwed has set up a giant shredder destroying 74,000 CVs to represent the number of women whose careers are shredded by pregnancy and…",
+      "link": "https://www.linkedin.com/posts/sinead-hensey_pregnantthenscrewed-careershredder-exposethewaste-activity-7300799555715936256-7BsP",
+      "activity_status": null
+    },
+    {
+      "title": "WOO APAC Forum Seoul 2025 D-12 The big day is almost here. See you all in Seoul! World Out of Home Organization Tom Goddard Anna Maria Pisano Mark…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_podomedianetwork-koreaoohassociation-asiainitiatives-activity-7386631764183568384-tXLj",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for the feature Campaign Middle East",
+      "link": "https://www.linkedin.com/posts/sal-daoud-9ba6876b_mmg-appoints-sal-daoud-as-head-of-international-activity-7384397296261799937-OOZr",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing how 20 years can go in the blink of an eye.  A BIG thank you to everyone who has been a part of the ECN / Media i journey over the past 20…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_amazing-how-20-years-can-go-in-the-blink-activity-7387446154344558592-XUq9",
+      "activity_status": null
+    },
+    {
+      "title": "Easily summarise and refine your notes with built-in AI notebook tools on Kindle Scribe.",
+      "link": "https://www.linkedin.com/posts/kindle-enterprise_amazoncouk-kindle-e-readers-amazon-devices-activity-7387149356035940352-fTts",
+      "activity_status": null
+    },
+    {
+      "title": "The moment we’ve been waiting for… Introducing The Shoreditch Stack. Featuring two large portrait digital screens, a portrait banner, a landscape…",
+      "link": "https://www.linkedin.com/posts/london-lites_the-moment-weve-been-waiting-for-introducing-activity-7387145475650453504--tTN",
+      "activity_status": null
+    },
+    {
+      "title": "So much value and inspiration from my time at The Room Women’s Summit. The conversations that began there with incredible leaders continue to…",
+      "link": "https://www.linkedin.com/posts/jaime-ruby-byrdak-a415ba45_so-much-value-and-inspiration-from-my-time-activity-7387139496804286464-kMRS",
+      "activity_status": null
+    },
+    {
+      "title": "Frankfurt Airport was named among the most impressive 3D locations worldwide ✈️ We’re proud that Media Frankfurt GmbH has been featured by MEEDIA…",
+      "link": "https://www.linkedin.com/posts/media-frankfurt_frankfurt-airport-among-the-worlds-most-activity-7381259590962925568-_ZOh",
+      "activity_status": null
+    },
+    {
+      "title": "Across the globe, the world’s most iconic shopping streets—from New York’s Fifth Avenue to Beijing’s Wangfujing—are undergoing a transformation. As…",
+      "link": "https://www.linkedin.com/posts/oohcapital_across-the-globe-the-worlds-most-iconic-activity-7379238787723345920-PA9y",
+      "activity_status": null
+    },
+    {
+      "title": "Sal Daoud has been appointed Head of International Sales at Multiply Media Group (MMG), marking an exciting chapter in the company’s global growth…",
+      "link": "https://www.linkedin.com/posts/cxolanesuk_leadership-media-outofhome-activity-7385615752663433216-cz-h",
+      "activity_status": null
+    },
+    {
+      "title": "We’re absolutely delighted to be nominated for the The Drum Awards 2025 B2B — in not one, but two categories: 🏆 Integrated Campaign 🏆…",
+      "link": "https://www.linkedin.com/posts/dentsucreative_were-absolutely-delighted-to-be-nominated-activity-7384947751618531328-tUqX",
+      "activity_status": null
+    },
+    {
+      "title": "This was such a fun campaign to be part of and a great demonstration of what can be achieved when we bring an integrated mindset to solving our…",
+      "link": "https://www.linkedin.com/posts/jajturner_this-was-such-a-fun-campaign-to-be-part-of-activity-7384950823723638784-cgrK",
+      "activity_status": null
+    },
+    {
+      "title": "Japan's #OOH industry establishes \"Japan OOH Audience Measurement Association\" (JOAA) as a cross-industry organization comprising advertisers…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_establishment-of-the-japan-ooh-audience-measurement-activity-7384968879317413888-o0Va",
+      "activity_status": null
+    },
+    {
+      "title": "🥊 Introducing Billy Jenner! 🥊 Client Director at Talon Returning to the Media Fight Night ring stronger and more determined than ever. Standing…",
+      "link": "https://www.linkedin.com/posts/mediafightnight_mediafightnight10years-mediafightnight2025-activity-7383929551657263104-JGbn",
+      "activity_status": null
+    },
+    {
+      "title": "Sal Daoud brings together international insight and strong commercial leadership. His appointment is a clear signal of our intent to expand…",
+      "link": "https://www.linkedin.com/posts/campaignme_mmg-appoints-sal-daoud-as-head-of-international-activity-7384172522365325312-QfyM",
+      "activity_status": null
+    },
+    {
+      "title": "B2B Marketeers, we want to make you great! ⏳ The average B2B buying decision takes over a year. That’s 12+ months of nurturing, influencing, and…",
+      "link": "https://www.linkedin.com/posts/dominic-milan_b2bmarketing-demandgeneration-brandtorevenue-activity-7383828492775505920-SxLn",
+      "activity_status": null
+    },
+    {
+      "title": "STONE ISLAND DENIM RESEARCH AUTUMN_WINTER ‘025-’026 After becoming a staple throughout the history of the brand, Stone Island denim is back and to…",
+      "link": "https://www.linkedin.com/posts/chris-twining-73552159_stone-island-denim-research-autumnwinter-activity-7387168063894331392--F7_",
+      "activity_status": null
+    },
+    {
+      "title": "Come join us! We have a really exciting opportunity for a Client Lead role in the Global OOH team at dentsu. You'll get the chance to work on global…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_client-lead-activity-7381331586966798336-GRYj",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to being back in Seoul and speaking at the World Out of Home Organization APAC Forum. Such an exciting city and OOH market -…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_first-three-speakers-for-forum-seoul-activity-7370752086399000576-oscW",
+      "activity_status": null
+    },
+    {
+      "title": "A timely reminder of how cost-effective OOH is . Great insight from Solomon Partners as ever. \"With CPMs that consistently outperform most other…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_why-cpms-matter-and-how-ooh-advertising-is-activity-7348734800985268224-B2nJ",
+      "activity_status": null
+    },
+    {
+      "title": "This was a lot of fun! Thanks to Josh Gurgiel and Sal Daoud for the invitation. Any excuse to chat OOH and I am there. Love what you guys are doing…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_adam-garrity-its-taken-the-world-by-storm-activity-7340728147371319298-ecNh",
+      "activity_status": null
+    },
+    {
+      "title": "Dell Technologies are back on the biggest screen of all! What a fantastic creative execution #ooh #dooh",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_ooh-dooh-activity-7329622448516067328-_zsV",
+      "activity_status": null
+    },
+    {
+      "title": "A great start to a Tuesday with the opportunity to talk about the importance of brand building and the role airports play in this for the world’s…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_a-great-start-to-a-tuesday-with-the-opportunity-activity-7307738135692521474-b353",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH is driving growth in the US with a 7.5% increase. Overall OOH revenue has increased 4.5% to over $9 Billion https://lnkd.in/e8ZZGCrC",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_out-of-home-advertising-revenue-surpasses-activity-7303682133628211200-Kx4r",
+      "activity_status": null
+    },
+    {
+      "title": "The Australian market is leading the way in growth for #OOH #DOOH",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_ooh-industry-sees-8-growth-in-2024-as-digital-activity-7301064951551459330-Q0J_",
+      "activity_status": null
+    },
+    {
+      "title": "We need to make OOH easier to buy so that we can allow the incredibly talented and passionate OOH industry to focus on better outcomes for…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_the-future-of-ooh-transactions-faster-smarter-activity-7295467510651322371-OWVs",
+      "activity_status": null
+    },
+    {
+      "title": "Really enjoyed working on this campaign earlier in the year for Santander. A huge learning experience but very pleased to see the campaign delivering…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_santander-activity-7230162038591819776-WmUU",
+      "activity_status": null
+    },
+    {
+      "title": "The Australian OOH market continues to lead the way for growth and market share in global OOH. \"The big winner is outdoor media with 15.8% growth in…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_a-quirky-advertising-market-waiting-for-that-activity-7259695597794783233-rH_N",
+      "activity_status": null
+    },
+    {
+      "title": "Great news out of the U.K. with OOH having its best ever H1 performance. Further evidence of a channel that is really thriving at the moment!…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_ooh-posts-best-ever-h1-in-ad-revenue-activity-7229392400652128256-D-Jl",
+      "activity_status": null
+    },
+    {
+      "title": "Love seeing this Workday takeover at Bank come to life! Well done to all involved #oohadvertising",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_oohadvertising-activity-7202297982279372801-no4j",
+      "activity_status": null
+    },
+    {
+      "title": "The power of #OOH! No other channel delivers impact like this. Great work from all involved and a brilliant job as always from Global Street Art…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_ooh-thiscampaignsucks-activity-7207788716658966528-CfDU",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from an incredible week in Hong Kong for the World Out of Home Organization Global Congress, a big thanks to all who worked tirelessly to…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_just-back-from-an-incredible-week-in-hong-activity-7205118336228081664-X_AF",
+      "activity_status": null
+    },
+    {
+      "title": "No single media channel is able to reach more than 90% of adults every week, other than out-of-home advertising, according to the IPA’s new…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_ipa-media-landscape-remains-increasingly-activity-7239899942784311296-4FKq",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is definitely the most exciting media channel for 2024! This is a really great article on the power of the medium and how it's progressing! #ooh",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_is-ooh-the-most-exciting-media-channel-for-activity-7153052112791171072-PCQb",
+      "activity_status": null
+    },
+    {
+      "title": "Definitely worth 2 minutes of your time! Plenty of smart thinking in here. None more so than \"Ignore Les Binet at your peril\"",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_the-2-minute-interview-with-les-binet-understanding-activity-7152607693034127360-nkHn",
+      "activity_status": null
+    },
+    {
+      "title": "Such great work. Well done to all involved!",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_such-great-work-well-done-to-all-involved-activity-7140676889756463105-9-So",
+      "activity_status": null
+    },
+    {
+      "title": "It has just dawned on me that today marks 10 years working in OOH! Thanks to Steve Cox and Fraser Hynes for bringing me into the wonderful world of…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_oohadvertising-activity-7046577910844940288-7SQF",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to have landed in Singapore for a week of meetings with colleagues and partners. Looking forward to spending some time in this exciting…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_apac-activity-6987694022022561793-HJA4",
+      "activity_status": null
+    },
+    {
+      "title": "View my verified achievement from The Trade Desk.",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_edge-academy-certified-marketing-foundations-activity-6762580442047623168-FeSS",
+      "activity_status": null
+    },
+    {
+      "title": "Great to see B2B brands returning to the airport environment. VMware are back at the world's current busiest airport DFW and at JFK!…",
+      "link": "https://www.linkedin.com/posts/adam-garrity-aa62a655_vmware-campaign-dfw-and-jfk-jcdecaux-activity-6706564540546588672-x9IB",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Adam G.",
+      "link": "https://www.linkedin.com/in/adam-g-66b55662",
+      "summary": "Democratic Candidate for Colorado's Governor in 2018",
+      "location": "Denver Metropolitan Area"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adam-garrity-43773b162",
+      "summary": "-",
+      "location": "Manassas, VA"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adamgarrity",
+      "summary": "Account Executive at OCO Biomedical",
+      "location": "Albuquerque-Santa Fe Metropolitan Area"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adam-garrity",
+      "summary": "Executive Assistant to Chief Business Officer, NBCU Entertainment & Studios",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adam-garrity-9468979",
+      "summary": "P&D and Linehaul Sales Associate at Capstone Insurance",
+      "location": "Seaside Park, NJ"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adam-garrity-678885246",
+      "summary": "Deputy Campaign Manager",
+      "location": "Minneapolis, MN"
+    },
+    {
+      "name": "Adam Garrity",
+      "link": "https://www.linkedin.com/in/adam-garrity-2139a61",
+      "summary": null,
+      "location": "Glastonbury, CT"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-23T00:00:00Z"
+  }
+}

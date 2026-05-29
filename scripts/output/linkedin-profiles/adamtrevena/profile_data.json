@@ -1,0 +1,750 @@
+{
+  "public_identifier": "adamtrevena",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D5616AQG7eBbpTuGUeQ/profile-displaybackgroundimage-shrink_200_800/B56Zoy9U5aHkAU-/0/1761791529754?e=2147483647&v=beta&t=aUuuPfgrpEFif3KfMWK_pCb60QGrCnULWpETfvdPuSA",
+  "first_name": "Adam",
+  "last_name": "Trevena",
+  "full_name": "Adam Trevena",
+  "follower_count": 963,
+  "occupation": "Director - QMS NZ at QMS",
+  "headline": "Founder and executive leader with 30+ years of international experience in the Out-of-Home and Media sector",
+  "summary": null,
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "QMS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/qms-media/",
+      "company_facebook_profile_url": null,
+      "title": "Director - QMS NZ",
+      "description": "Leading the commercial & development initiative for the QMS Aotearoa business across the Auckland Transport, and wider Out-of-Home landscape.",
+      "location": "Sydney & Auckland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe88381f32e648dda1ae6a1bd588850c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Gekko Outdoor",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder and CEO",
+      "description": null,
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2024
+      },
+      "company": "QMS Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/qms-media/",
+      "company_facebook_profile_url": null,
+      "title": "Chief Commercial Officer",
+      "description": null,
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe88381f32e648dda1ae6a1bd588850c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Lift Advisory",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lift-advisory/",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & Managing Director",
+      "description": "Lift is a boutique consultancy firm that provides advisory services across the Asia-Pacific Region.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b466307d7363e010a77f1aa7037ed2c7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2009
+      },
+      "company": "News Outdoor Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Country Manager - Malaysia  & Director - Regional Strategy - SEA",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2009
+      },
+      "company": "News Outdoor Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/news-outdoor-russia/",
+      "company_facebook_profile_url": null,
+      "title": "Country Manager - Malaysia  & Director - Regional Strategy - SEA",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2006
+      },
+      "company": "PMP Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pmp-limited/",
+      "company_facebook_profile_url": null,
+      "title": "National Sales & Marketing Manager - Publishing",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2002
+      },
+      "company": "St Kilda Football Club",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/st-kilda-football-club/",
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Marketing, Sales & Sponsorship",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2001
+      },
+      "company": "Eye Corp",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Airport Media",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 1998
+      },
+      "company": "Amfac Chemdata",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Regional Manager (VIC, SA, WA, NT & TAS)",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1988
+      },
+      "company": "Trent College, 0-18",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/trent-college/",
+      "company_facebook_profile_url": null,
+      "title": "Rent-an-Aussie",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Business Administration, Marketing, Management,",
+      "degree_name": "MBA (Executive)",
+      "school": "AGSM @ UNSW Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/agsm-unswbusinessschool",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/533f02fd8786e9b540aeb559983d083b",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "field_of_study": "Business Administration",
+      "degree_name": "Certificate IV",
+      "school": "Australian Institute of Management",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/australian-institute-of-management",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/19d46a114b4cb6595172bdea370c92fc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1982
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1987
+      },
+      "field_of_study": null,
+      "degree_name": "HSC",
+      "school": "Canberra Grammar School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1976
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1981
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Boorowa Primary",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "City of Sydney Street Furniture",
+      "description": "Project management on fabrication of 350 bus shelters, kiosks and ad boxes",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/megandelliott",
+      "name": "Megan Elliott",
+      "summary": "Director and Co-Founder GingerCloud Foundation➤ Disability Inclusion Strategist and Innovator ➤ Stakeholder Engagement, Communication and Community Capacity Building Specialist ➤ Disability Community Ally and Advocate",
+      "location": "Wavell Heights"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinspiteri",
+      "name": "Kevin Spiteri",
+      "summary": "Experienced Director @ Advantage Agency | MBA, Marketing | Entrepreneur | Investor",
+      "location": "Central Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyliewarne",
+      "name": "Kylie Warne GAICD",
+      "summary": "Marketing and Communications Strategist | Executive Council, Victorian Chamber of Commerce and Industry | Non-Exec Director, Game Management Authority",
+      "location": "Geelong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maryjuria",
+      "name": "Mary Juria",
+      "summary": "Making startup education, services and network accessible at SpringUp.",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephzhangau",
+      "name": "Joseph Zhang",
+      "summary": "CipherBC•798 followers",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnkugel",
+      "name": "John Kugel",
+      "summary": "Philanthropy at Taronga Conservation Society Australia | Co-founder at Gone Bush Adventures",
+      "location": "Neutral Bay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gilsnir",
+      "name": "Gil Snir",
+      "summary": "CEO at AuditCover | Digitising Insurance for Accountants",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanyaoziel",
+      "name": "Tanya Oziel",
+      "summary": "Group Chief Executive, Trans-Tasman Business Circle, Founder, WomenLeaders by the Circle | Member, CEW | Ambassador, Cricket Australia | passion for connecting people, making a difference and inspiring others to grow",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/belinda-field",
+      "name": "Belinda Field",
+      "summary": "Leadership | Media & Advertising | Business Strategy | Coaching & Mentoring | Partnerships | Marketing | Organisational Development | Project Management | Community Development | Health & Wellness owner @agoga",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominique-dubey-51a4a91bb",
+      "name": "Dominique Dubey",
+      "summary": "Sales Co-Ordinator at Go Media NZ",
+      "location": "Christchurch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuki-randerson-27418950",
+      "name": "Yuki Randerson",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dawn-rushton",
+      "name": "Dawn Rushton",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-levett",
+      "name": "Dave Levett",
+      "summary": "Murmur | Media Agency | Marketing Mix Modelling",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-rowswell-a8641525",
+      "name": "Mark Rowswell",
+      "summary": "Chief Development Officer at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgegelavis",
+      "name": "George Gelavis",
+      "summary": "Executive Chair",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-blamey",
+      "name": "Tony Blamey",
+      "summary": "CEO - Fotocasa Group S.L.U.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/su-reardon-b34a941",
+      "name": "Su Reardon",
+      "summary": "B2B Sales, Marketing and Communications.",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-seymour-66b5952",
+      "name": "Mark Seymour",
+      "summary": "Managing Director Seymour Strategists and \nChief Executive Officer/Co-Founder at AIRXPC",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonia-walker-5406143",
+      "name": "Sonia Walker",
+      "summary": "at Bao&Co",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristanfahey",
+      "name": "Tristan Fahey",
+      "summary": "Unlocking human potential. Insight & Growth Specialist. Wellness Coach.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-clarke-6684b812",
+      "name": "Peter Clarke",
+      "summary": "Managing Director at Proton Promotional",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-zavecz-a6768019",
+      "name": "Christian Zavecz",
+      "summary": "Chief Strategy Officer at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malcolm-pearce-2bb9321b",
+      "name": "Malcolm Pearce",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-colquhoun-5b518228",
+      "name": "David Colquhoun",
+      "summary": "Director at Mediterranean Markets",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-macdonald-05035135",
+      "name": "Graham Macdonald",
+      "summary": "Owner at The Leather and Vinyl Doctor Logan City & Coffs Harbour",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-fairhurst-58150259",
+      "name": "Mark Fairhurst",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartbrownfgm",
+      "name": "Stuart B.",
+      "summary": null,
+      "location": "Narre Warren"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-wood-6106b575",
+      "name": "Chris Wood",
+      "summary": "General Manager - Commercial at QMS Media",
+      "location": "Noosaville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aegean-zhang-400b519a",
+      "name": "Aegean Zhang",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-o-neill-3a0056a1",
+      "name": "John O'Neill",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cody-walker-a844a5a2",
+      "name": "Cody Walker",
+      "summary": "Director of Revenue Performance at Urban Rest",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-milton-5556b8a8",
+      "name": "Andrew Milton",
+      "summary": "Engineering best practice sealing and bonding solutions for the Australian market.",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-cross-2581a0bb",
+      "name": "Dan Cross",
+      "summary": null,
+      "location": "Pullenvale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-shen-b37399108",
+      "name": "Jane Shen",
+      "summary": null,
+      "location": "Sunshine Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-braszell-053a80115",
+      "name": "John Braszell",
+      "summary": "Category Manager - ICS at Fire Rescue Victoria",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saher-barnett",
+      "name": "Saher Barnett",
+      "summary": "Campaign Delivery Executive at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barclay-nettlefold",
+      "name": "Barclay Nettlefold",
+      "summary": "Chairman QMS Media, Chairman Mediaworks NZ, Chairman RACE, Chairman Supercars",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tennille-burt-28b10034",
+      "name": "Tennille Burt",
+      "summary": "Chief Marketing Officer, QMS Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-edmonds-a3a083164",
+      "name": "David Edmonds",
+      "summary": "Executive Director at QMS Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-lappage-a41a483",
+      "name": "Sara Lappage",
+      "summary": "Chief Operating Officer at QMS Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-crowe-86410b1b",
+      "name": "Nick Crowe",
+      "summary": "Victorian Sales Director - Independent & Direct",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-roxborough-9ba815102",
+      "name": "Catherine Roxborough",
+      "summary": "Contract Manager - Strategic Partnerships at MediaWorks",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-purcell-6939925",
+      "name": "John Purcell",
+      "summary": "Chief Technology Officer at QMS",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-gotch-425aba96",
+      "name": "Olivia Gotch",
+      "summary": "General Manager - City of Sydney",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonsoulsby",
+      "name": "Simon Soulsby",
+      "summary": "OOH Media Strategy & Commercial Partnerships Leader | Delivering Transformational Outcomes Across Transport, Council & Civic Portfolios",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-murphy-8bbaa29",
+      "name": "Tim Murphy",
+      "summary": "Chief Sales Officer- QMS",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/priyal-sutaria",
+      "name": "Priyal Sutaria",
+      "summary": "Data & Insights Executive at QMS ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charliemulcahy",
+      "name": "Charlie Mulcahy",
+      "summary": "Group Finance and Commercial Manager - QMS Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-nettlefold-422360b7",
+      "name": "James Nettlefold",
+      "summary": "National Data & Insights Manager at QMS Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandita-jacobs-161a7241",
+      "name": "Mandita Jacobs",
+      "summary": "Strategic Sales Manager, DOOH specialist, Coach & Mentor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrbradmorgan",
+      "name": "Brad Morgan",
+      "summary": "Chief Operating Officer Outdoor at MediaWorks NZ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikeasbridge",
+      "name": "Mike Asbridge",
+      "summary": "CFO @ MediaWorks",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ateesh-chand-3920b91b",
+      "name": "Ateesh Chand",
+      "summary": "Head of Finance Outdoor at MediaWorks NZ",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Bruce Peters\n\nI worked with Adam early in his sales management career. Adam always impressed me with his industry knowledge and sales focus. Importantly, he got the value proposition of the product and was able to articulate this to our customers. Adam was consistently achieving target and bringing high margin business to the organisation. Any organisation would benefit from his services - highly recommended.",
+    "Matt Pearce\n\nAdam was a joy to work with. His positive attitude was always refreshing, even if business wasn't so good. Adam has a real skill in building relationships with key prospects whilst in business development and once won, he really ensured that our clients felt like partners. Adam is structured, disciplined and strategic in his approach to business. We worked together for a couple of years and he acted with integrity and honesty throughout, becoming a trusted colleague and lieutenant."
+  ],
+  "activities": [
+    {
+      "title": "We’re proud to share this massive collaborative campaign for Steinlager’s (Lion) support of the Auckland Marathon from Sunday. Runners, walkers and…",
+      "link": "https://www.linkedin.com/posts/phd-aotearoa_were-proud-to-share-this-massive-collaborative-activity-7390962031341789184-CWuP",
+      "activity_status": null
+    },
+    {
+      "title": "What a glow up! The Waterside Hotel lives again ✨ 🍻 First opening in 1853 and infamously dubbed the ‘dirtiest pub in Melbourne’ by The Age, it's…",
+      "link": "https://www.linkedin.com/posts/nickreecemelbourne_what-a-glow-up-the-waterside-hotel-lives-activity-7396678694565699584-Sa8o",
+      "activity_status": null
+    },
+    {
+      "title": "A wonderful night celebrating this ISS team, who selflessly stepped in to protect the travelling public and other airport workers during a recent…",
+      "link": "https://www.linkedin.com/posts/stuart-rose-a407466_peoplemakeplaces-activity-7397156365955186688-CpQc",
+      "activity_status": null
+    },
+    {
+      "title": "Our pleasure to be able to announce the appointment of Adam McGregor to the role of Executive General Manager, Business Development at Wilson Parking…",
+      "link": "https://www.linkedin.com/posts/sandriwalsh-limited_our-pleasure-to-be-able-to-announce-the-appointment-activity-7397093370873069568-0LMX",
+      "activity_status": null
+    },
+    {
+      "title": "Capital Property Group is pleased to announce that JLL has committed to leasing 900sqm within Vernon, Constitution Place. JLL is set to join Clayton…",
+      "link": "https://www.linkedin.com/posts/richard-snow_canberra-constitutionplace-vernon-activity-7397148292557750272-_Yku",
+      "activity_status": null
+    },
+    {
+      "title": "When innovation meets impact 💥 Another standout collaboration with PHD Aotearoa NZ and Spark New Zealand as we turn Auckland into a citywide brand…",
+      "link": "https://www.linkedin.com/posts/charlotte-bowerman-927474229_when-innovation-meets-impact-another-standout-activity-7389092788832886784-Swny",
+      "activity_status": null
+    },
+    {
+      "title": "Photo of the week — too good not to share again! A bunch of Government officials have been posting this progress shot of the City Rail Link…",
+      "link": "https://www.linkedin.com/posts/matt-gray-781872159_photo-of-the-week-too-good-not-to-share-activity-7390571355504820224-Sswv",
+      "activity_status": null
+    },
+    {
+      "title": "Steinlager is all about celebrating New Zealand’s Finest, and last weekend that was proven again as the brand celebrated every ‘Steinlegend’ who…",
+      "link": "https://www.linkedin.com/posts/lion-co_steinlager-is-all-about-celebrating-new-zealand-activity-7391628578154582017-NbpG",
+      "activity_status": null
+    },
+    {
+      "title": "Whit, CJ and Team Queensland - you are truly #OutoftheOrdinary. 🙌 🏆Congratulations to Whitney Portwine and Courtney Johnson for taking out the…",
+      "link": "https://www.linkedin.com/posts/qms-media_outoftheordinary-qms-outoftheordinary-activity-7394308992874958848-ODVG",
+      "activity_status": null
+    },
+    {
+      "title": "If your leads aren’t getting a call within a minute, you’re already losing them. They’re not waiting around. They’re talking to another…",
+      "link": "https://www.linkedin.com/posts/matthewnjoyce_if-your-leads-arent-getting-a-call-within-activity-7394200759686508544-ka4v",
+      "activity_status": null
+    },
+    {
+      "title": "'The WLG' is a wonderful addition to our quality offering at Wellington Airport. It's big, bold and beautiful for premium brands 🛫",
+      "link": "https://www.linkedin.com/posts/adamtrevena_the-wlg-is-a-wonderful-addition-to-our-activity-7419905695946493953-ELT3",
+      "activity_status": null
+    },
+    {
+      "title": "Great start. But I am very excited about delivering on our future plans ….",
+      "link": "https://www.linkedin.com/posts/adamtrevena_great-start-but-i-am-very-excited-about-activity-7385794840824856576-1h85",
+      "activity_status": null
+    },
+    {
+      "title": "Great win for MediaWorks NZ who move to #1 Out-of-Home operator in Aotearoa by market share. Proud of leading the MediaWorks bid and working with a…",
+      "link": "https://www.linkedin.com/posts/adamtrevena_great-win-for-mediaworks-nz-who-move-to-1-activity-7350701077173841920-vG28",
+      "activity_status": null
+    },
+    {
+      "title": "An amazing win for QMS Media. Incredibly proud to lead our pitch to secure the highly coveted City of Sydney Street Furniture contract. Our people…",
+      "link": "https://www.linkedin.com/posts/adamtrevena_city-of-sydney-gives-outdoor-contract-to-activity-6683588534768676864-JdB9",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic to see QMS Media bring up the ton this week with our 100th Australian Landmark Digital now switched on. Nice to mark the milestone - but…",
+      "link": "https://www.linkedin.com/posts/adamtrevena_qms-hits-100-with-homebush-activity-6475558857094590464-IXaQ",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Adam Trevena",
+      "link": "https://ca.linkedin.com/in/adam-trevena-a70170b7",
+      "summary": "Inventory Manager at YSS Corp",
+      "location": "Canada"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-05T00:00:00Z"
+  }
+}

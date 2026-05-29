@@ -1,0 +1,625 @@
+{
+  "public_identifier": "gaurav-verma-323405",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/bc71f7988e790e81ae29c84d0469d758",
+  "background_cover_image_url": null,
+  "first_name": "Gaurav",
+  "last_name": "Verma",
+  "full_name": "Gaurav Verma",
+  "follower_count": 1982,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "location_str": "South Delhi, Delhi, India",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "South Delhi",
+  "state": null,
+  "experiences": [],
+  "education": [],
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Punjabi",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "title": "PAT (Pilot Aptitude Test)",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Fundamentals of Digital Marketing",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Google",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/romeybhat",
+      "name": "Romeyy Wanchu",
+      "summary": "CRO | Driving Profitable Growth | B2B | GTM Strategy | Sales, Marketing & Client Success",
+      "location": "South Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaifakbar",
+      "name": "Kaif Akbar",
+      "summary": null,
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/navneetkasana",
+      "name": "Navneet Kasana",
+      "summary": "Senior Advocate Delhi High Court",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahulbhatia",
+      "name": "Rahul Bhatia",
+      "summary": "Group Head - Sales | Media Sales Professional (Radio / TV / DOOH) | Ex BIG FM | Ex Zee News | Ex Dainik Bhaskar Group (MY FM)",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shwetaaroradelhi",
+      "name": "Shweta Arora",
+      "summary": "Head - International Sales at Bennett Coleman and Co. Ltd. (Times of India Group)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahulgupta1305",
+      "name": "Rahul Gupta",
+      "summary": "Commercial Partnerships in SaaS | Mobile Attribution | AdTech | Business Development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/naveen-kumar-2715215b",
+      "name": "Naveen Kumar",
+      "summary": "Chief Operating Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hrishikesh-jayant-dhande-25a3956",
+      "name": "Hrishikesh Jayant Dhande",
+      "summary": "Former Region Head - Academic Alliances Group - TCS | Founder - Mentor Mitra | Academic Board Member | Strategic Advisor - NWORX.AI",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaikh-farhan",
+      "name": "Farhan Shaikh",
+      "summary": "Senior Manager at Repro India Limited",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajesh040572",
+      "name": "Rajesh Singh",
+      "summary": "Business Operations Expert,  Industrial Automation, Interconnecting Education Ecosystem and also into Corporate Trainings, Recruitments and IT Services.",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/poornima-vinod-3a71a417",
+      "name": "Poornima Vinod",
+      "summary": "Helping brands tell their stories through music & content | Music Licensing | Live music | Brand Solutions | Content Production & Strategy | Artist & Influencer management l White label content production & execution",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahulwest",
+      "name": "Rahul West",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/damanjitkaurh",
+      "name": "Damanjit Kaurh",
+      "summary": "Business Development and Account Management - International Sales",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhitayal",
+      "name": "Abhishek Tayal",
+      "summary": "Product and Business Head @ Bookscape",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nitin-mistry-1591134",
+      "name": "Nitin Mistry",
+      "summary": "Over 3 decades experience | Entrepreneur | Solutions architect | Ex-CTO | Technical team management, mentoring & training | Operations | Delivery",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jay-pandya-2753a04",
+      "name": "Jay Pandya",
+      "summary": "Founder - BlankSlate Films Pvt Ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-lopez-ba60645",
+      "name": "Elena Lopez",
+      "summary": "Affiliates Controller at dentsu international",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ram-ganesh-92a33b5",
+      "name": "Ram Ganesh",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nitin-dadoo",
+      "name": "Nitin Dadoo",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paritosh-chowdary-3369788",
+      "name": "Paritosh Chowdary",
+      "summary": "Business Development Executive at Gatweway Solutions, Inc.",
+      "location": "Ashburn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-chadha-7b37249",
+      "name": "Amit Chadha",
+      "summary": null,
+      "location": "Faridabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/umang-thakore-4297809",
+      "name": "Umang Thakore",
+      "summary": "COO-Chairman's Office @ Universal Group | Ex-COO at Repro Books Ltd. | Ex-TSMG | Ex-Accenture Strategy | Angel Investor",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/imran-hashmi-a80532a",
+      "name": "Imran Hashmi",
+      "summary": "Process & Deployment Manager at NOKIA",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mayank-nigam-a6062610",
+      "name": "Mayank Nigam",
+      "summary": "Pen Music Pvt Ltd•2K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-klaus-fiehler-89a64114",
+      "name": "Dr. Klaus Fiehler",
+      "summary": null,
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/namrata-sharma-3707a614",
+      "name": "Namrata Sharma",
+      "summary": "Assistant General Manager , International Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hrishikesh-kharalkar-a324ba15",
+      "name": "Hrishikesh Kharalkar",
+      "summary": "Head of Operations and Fleet Management @Everest Fleet Ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/devika-khare-a6b54217",
+      "name": "Devika Khare",
+      "summary": "Business Head - SEA (South East Asia) driving global revenue growth",
+      "location": "Thane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romi-vohra-a50aa317",
+      "name": "Romi Vohra",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vijay-preethi-s-90840b18",
+      "name": "Vijay Preethi,S",
+      "summary": null,
+      "location": "Chinthamani Madurai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjay-bhaumick-280a1b1a",
+      "name": "Sanjay Bhaumick",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sachin-malhotra-80aa341b",
+      "name": "Sachin Malhotra",
+      "summary": null,
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diwakar-bhardwaj-16530123",
+      "name": "Diwakar Bhardwaj",
+      "summary": "State Head- Operations at DB Corp Ltd.",
+      "location": "Patna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiteshwadhwaniindia",
+      "name": "Hitesh Wadhwani",
+      "summary": null,
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/uttam-kumar-b7346627",
+      "name": "Uttam Kumar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/madhavi-irani-38480727",
+      "name": "Madhavi Irani",
+      "summary": "Experienced Digital Content And Media Strategist",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kewal-sahni-6b916a29",
+      "name": "Kewal Sahni",
+      "summary": "Media Sales Maverick |Revenue Driver | Benchmark Setter 🚀\nState Head -DB Corp Ltd",
+      "location": "Chandigarh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/afroz-shaikh-85b4122a",
+      "name": "Afroz Shaikh",
+      "summary": "Sales Lead - Truecaller Ads",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saurabh-yadav-b194152a",
+      "name": "Saurabh Yadav",
+      "summary": "Television Ad sales and Brand Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/varun-pasaladi-995bbb2b",
+      "name": "Varun Pasaladi",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sumit-beniwal-70887a33",
+      "name": "sumit beniwal",
+      "summary": "Transmission Planning and Implementation 3G/2G at Idea Cellular Ltd",
+      "location": "Chandigarh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajay-dhiman-31081739",
+      "name": "Ajay Dhiman",
+      "summary": "TIMES INNOVATIVE MEDIA LIMITED•950 followers",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kunal-vohra-97017a3a",
+      "name": "Kunal Vohra",
+      "summary": "Repro India Limited",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jawed-siddiqui-00941343",
+      "name": "Jawed Siddiqui",
+      "summary": null,
+      "location": "Lucknow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pundarik-thakkar-b1165b45",
+      "name": "Pundarik Thakkar",
+      "summary": "Group State Head-Distribution Sales at Sony Pictures Networks India",
+      "location": "Ahmedabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayant-banerjee-99236846",
+      "name": "Jayant Banerjee",
+      "summary": "Vice President at Repro India Limited",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonam-khurana-b4154547",
+      "name": "Sonam Khurana",
+      "summary": "13 Years of Ecommerce Experience | Ex- Flipkart | Snapdeal | E-Commerce Growth Strategist and Consultant",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-velikalom-2b113454",
+      "name": "Anil Velikalom",
+      "summary": null,
+      "location": "West Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhaskar-t-m-4022175a",
+      "name": "Bhaskar T M",
+      "summary": "Seasoned Sales Professional | Expert in Global Academic Publishing | Over 27 Years of Experience with Leading Publishers | South India & Sri Lanka Territory Specialist",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravalnathjoshi",
+      "name": "Ravalnath Joshi",
+      "summary": "Senior Media Business Leader | 25+ Years in Sales, Revenue Growth & Business Management | Driving Profit & Market Expansion",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shreya-mishra-92041370",
+      "name": "Shreya Mishra",
+      "summary": "Assistant General Manager E-commerce at Repro India Limited | Ex-Me N Moms | Ex-Ajmal Perfumes India | Ex-DIESL | Ex-Snapdeal",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhishek-mishra-275b9672",
+      "name": "Abhishek Mishra",
+      "summary": "PRANAB NAMAN MINERALS PRIVATE LIMITED",
+      "location": "Ranchi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-keen",
+      "name": "Nicholas Keen",
+      "summary": "Brand Experience Sales Manager - UK & Europe at Unibail-Rodamco-Westfield",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anupam-bisht-41466b74",
+      "name": "Anupam Bisht",
+      "summary": "HOTELIER at RJ CORPS-DIL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pushpa-bachali-139b117b",
+      "name": "Pushpa Bachali",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/spandana-ravindran-9406648b",
+      "name": "Spandana Ravindran",
+      "summary": "Senior Director - Entertainment Ad Sales",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-partridge-ba399099",
+      "name": "Gary Partridge",
+      "summary": null,
+      "location": "Rochester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vineet-batra-061074a3",
+      "name": "Vineet Batra",
+      "summary": "Senior Manager @ Times Internet | MBA in Marketing and Finance",
+      "location": "Chandigarh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahesh-deva-388152a3",
+      "name": "Mahesh Deva",
+      "summary": "production manager at shaurya advertising",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarvesh-sonawane-99b613b4",
+      "name": "Sarvesh Sonawane",
+      "summary": null,
+      "location": "Chandigarh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gogi-kapur-b14250131",
+      "name": "gogi Kapur",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-goh-23778815b",
+      "name": "Adrian Goh",
+      "summary": "Out of Home Advertising",
+      "location": "Puchong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/atmaram-bharkade-5aa992165",
+      "name": "Atmaram Bharkade",
+      "summary": "Production Engineer",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chinedu-odurukwe-718586191",
+      "name": "Chinedu Odurukwe",
+      "summary": "My objective is to provide primary Psychiatric Care to individuals or families at risk for, or currently experiencing psychiatric disorders using evidence-based practices.",
+      "location": "Anoka"
+    },
+    {
+      "link": "https://www.linkedin.com/in/purva-jain-8bb856192",
+      "name": "Purva Jain",
+      "summary": "Senior Executive at Repro India Ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pip-fazakerley-39b3a01b3",
+      "name": "Pip Fazakerley",
+      "summary": "Senior Technical Artist at AIS - Unreal Engine Technical Artist and Generalist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samruddhi-vartak-4159181b9",
+      "name": "Samruddhi Vartak",
+      "summary": "Social Media Manager at Repro India Limited | Ex Pinkvilla",
+      "location": "Mumbai"
+    }
+  ],
+  "recommendations": [
+    "Karan Arora\n\n\"One of the best\" is the phrase that comes to mind when I think about Gaurav. Ive had the pleasure of knowing Gaurav for about 2 years, during which he was handling our company as a client . Above all, I was impressed with his ability to be a solution provider and always had a proactive approach.",
+    "Sameer Wahie\n\nGaurav has been and continues to be a great mentor to me. He is a 'Sales Ninja and a great People Manager with a very sharp business acumen. What separates him from others is his ability to push the team beyond their potential and in the process discover their true potential. He is a great example of 'Optimistic leadership with a zeal so strong that he charges the whole ecosystem with it. Would be a privilege to work with him again.Thanks for mentoring me always..!!"
+  ],
+  "activities": [
+    {
+      "title": "The core rule of business has always been kind of straightforward: stay ahead of the curve. And the next curve? There’s no real surprises there it’s…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_coc-activity-7462024406144307200-JQLh",
+      "activity_status": null
+    },
+    {
+      "title": "Happy to share that I’ve completed the “Billboard Operators Guide to Digital & Programmatic” certification by DOOH Academy. The course provided clear…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_dooh-digitaloutofhome-programmaticdooh-activity-7403467075211689985-_m_e",
+      "activity_status": null
+    },
+    {
+      "title": "Proud of the work our international business team is doing — building, expanding, and creating value across markets. This post captures just a part…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_teamwork-timesooh-internationalbusiness-activity-7397643394812080128-kRoB",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to be part of a culture where we don’t just execute — we think bigger, challenge harder and create impact together. When trust, ownership and…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_leadershipculture-buildingimpact-timesooh-activity-7390299707996192768-NqUS",
+      "activity_status": null
+    },
+    {
+      "title": "Just returned from the World Out of Home Organization Global Congress in Mexico City, and what an electrifying experience it was! As an OOH…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_ooh-globalooh-marketingleadership-activity-7338331862311804928-37g4",
+      "activity_status": null
+    },
+    {
+      "title": "We are 'officially' now a Great Place To Work! #GreatPlacetoWork #EmployeeEngagement #CompanyCulture",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_greatplacetowork-employeeengagement-companyculture-activity-7267169178501939200-X95X",
+      "activity_status": null
+    },
+    {
+      "title": "You had to be there to feel it .... :)",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_trf-launch-highlight-activity-7285563674298068992-tCVZ",
+      "activity_status": null
+    },
+    {
+      "title": "I've always wondered why a dedicated community for sales professionals didn't exist. Then, one day, over a cup of coffee Sameer Wahie just happened…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_therevfolks-sales-revenuecommunity-activity-7271789826452926464-Nqne",
+      "activity_status": null
+    },
+    {
+      "title": "Just finished the course “Programmatic Advertising Foundations” by Matt Bailey! Check it out: https://lnkd.in/dX8z39SG #programmaticmediabuying.",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_certificate-of-completion-activity-7196778255612305410-uNdV",
+      "activity_status": null
+    },
+    {
+      "title": "Sales is an outcome, not a goal. Itâs a function of doing numerous things right, starting from the moment you target a potential prospect until you…",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_salesadvice-salesenablement-activity-7034195078927560704-TCNO",
+      "activity_status": null
+    },
+    {
+      "title": "New partnership announcement! Repro India Limited",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_new-partnership-announcement-repro-india-activity-6970628893577752576-pm9e",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/gaurav-verma-323405_cowrks-memberspeak-cowrkscommunity-activity-6942829675983306752-s65H",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gv-verma",
+      "summary": "-",
+      "location": "Gurgaon"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gaurav-verma-a019a1b5",
+      "summary": "Corporate Sales Manager at shri kia",
+      "location": "Indore"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gaurav-verma-6653b3a6",
+      "summary": "Area Manager at Bandhan Bank",
+      "location": "Raipur"
+    },
+    {
+      "name": "GAURAV VERMA",
+      "link": "https://in.linkedin.com/in/gaurav-verma-64b70330",
+      "summary": "Area Manager at Licious",
+      "location": "Hyderabad"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gaurav-verma-9567a4100",
+      "summary": "Senior HR Generalist at TRB Group- India",
+      "location": "Ludhiana"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gauravinvest",
+      "summary": "Venture Investor - Consumer & Consumer-Tech",
+      "location": "Delhi, India"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gauravverma76",
+      "summary": "Group Chief Executive Officer | Building Startups | Strategy & Operations | Execution with Speed | Business Ops | Building Organizations | People, Culture | Team Builder | Data Science- Analytics | Sales and Distribution",
+      "location": "Pune"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gv-bb776314a",
+      "summary": "Healthcare Consulting Senior Manager l CSM® I US Healthcare l Payer domain & Provider Management I Pharma/Life sciences I Scrum Master",
+      "location": "Delhi, India"
+    },
+    {
+      "name": "Gaurav verma",
+      "link": "https://in.linkedin.com/in/gaurav-verma-3aa53a2b",
+      "summary": "Head Underwriting and Policy at Mahindra Finance",
+      "location": "Mumbai"
+    },
+    {
+      "name": "Gaurav Verma",
+      "link": "https://in.linkedin.com/in/gaurav-verma-1b28571b8",
+      "summary": "Talent Acquisition Partner",
+      "location": "Chandigarh"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-11-17T00:00:00Z"
+  }
+}

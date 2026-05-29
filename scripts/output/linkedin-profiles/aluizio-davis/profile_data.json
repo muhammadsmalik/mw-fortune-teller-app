@@ -1,0 +1,361 @@
+{
+  "public_identifier": "aluizio-davis",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Aluizio",
+  "last_name": "A. Davis",
+  "full_name": "Aluizio A. Davis",
+  "follower_count": 1993,
+  "occupation": "Presidente do conselho administrativo at OOH Brasil",
+  "headline": "Sócio e Presidente Conselho Adm OOH BRASIL",
+  "summary": null,
+  "location_str": "Belo Horizonte, Minas Gerais, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Belo Horizonte",
+  "state": "Minas Gerais",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "OOH Brasil",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-brasil",
+      "company_facebook_profile_url": null,
+      "title": "Presidente do conselho administrativo",
+      "description": null,
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/269dabe61f7fc04117b83f50e861b036"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2026
+      },
+      "company": "OOH Brasil",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-brasil",
+      "company_facebook_profile_url": null,
+      "title": "Membro do conselho",
+      "description": null,
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/269dabe61f7fc04117b83f50e861b036"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "OOH Brasil",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-brasil",
+      "company_facebook_profile_url": null,
+      "title": "COO",
+      "description": null,
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/269dabe61f7fc04117b83f50e861b036"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "OOH Brasil",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-brasil",
+      "company_facebook_profile_url": null,
+      "title": "Diretor operacional",
+      "description": null,
+      "location": "Belo Horizonte, Minas Gerais, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/269dabe61f7fc04117b83f50e861b036"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "SR. LUPA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Cofundador & CEO",
+      "description": null,
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Fundação Dom Cabral",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/funda-o-dom-cabral",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/aaabd7b9665906874902707e0a6fd680",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "G4",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/g4businessbr",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/58f3a583ec99c6b37827a724547174a5",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Acelerador Empresarial - Marcus Marques",
+      "number": null
+    },
+    {
+      "name": "Empreededorismo Criativo  ( Empreededorismo - Perestroika )",
+      "number": null
+    },
+    {
+      "name": "Friends of Tomorrow ( Futurismo - Perestroika )",
+      "number": null
+    },
+    {
+      "name": "Giants - Programa de Desenvolvimento Empresarial",
+      "number": "2022"
+    },
+    {
+      "name": "Refresh ( Gestão e Liderança - Perestroika )",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/leonardotostes",
+      "name": "Leonardo Tostes",
+      "summary": "Emprendedor Independente na Liberdade Digital",
+      "location": "Juiz de Fora"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariano-do-ch%25C3%25A1-70a08099",
+      "name": "Mariano do Chá",
+      "summary": "Professor de História",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariano-baruk-70a08099",
+      "name": "Mariano Baruk",
+      "summary": "Energia Solar I Marketing Digital \nVendas I Comunicação I Oratória",
+      "location": "Manaus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emidio-cruz-80467551",
+      "name": "Emidio Cruz",
+      "summary": "CEO na Agência M9",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malu-tompson",
+      "name": "Maria Lúcia N S Tompson",
+      "summary": "Especialista em Marketing Digital I Branding I Redes Sociais I Conteúdo & Tráfego Pago I  Transformando Marcas em Líderes Digitais",
+      "location": "Natal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-le%25C3%25A3o-b6564151",
+      "name": "Daniel Leão",
+      "summary": "CEO na SHOPPINGCLASS",
+      "location": "Cruzeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/spartacopucciafilho",
+      "name": "Spartaco Puccia Filho",
+      "summary": null,
+      "location": "Londrina"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandototi",
+      "name": "Fernando Toti",
+      "summary": "CEO na UpSampa",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-albertoni0",
+      "name": "Rafael Albertoni",
+      "summary": "Marketing digital, Copywriting Consultant\nConhecido como 1º Copywriter do Brasil",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-guerra-95b6382b",
+      "name": "Sarah Guerra",
+      "summary": null,
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristiano-tassinari-alves-19574a34",
+      "name": "Cristiano Tassinari Alves",
+      "summary": "THE LED Oficial•4K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yarlen-soares-56913536",
+      "name": "Yarlen Soares",
+      "summary": "CEO Mettos Comunicação e Marketing",
+      "location": "São Luís"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edson-rocha-5b317036",
+      "name": "Edson Rocha",
+      "summary": "CEO na Tribbo",
+      "location": "Ribeirão Preto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/talis-zanzi-2679aa46",
+      "name": "Talis Zanzi",
+      "summary": "Chief Operating Officer na FLUENFLIX",
+      "location": "Florianópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emidio-neto-80467551",
+      "name": "Emidio Neto",
+      "summary": "CEO na Agência Mídia9",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavonegrini",
+      "name": "Gustavo Negrini",
+      "summary": "CEO na E4 Agência",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edson-mariano-70a08099",
+      "name": "Edson Mariano",
+      "summary": "Professor de História",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-muniz-jose-3875019b",
+      "name": "Renato Muniz jose",
+      "summary": "CEO na Multlinks Mídia Digital Ltda",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-vicente-539179a9",
+      "name": "Marcelo Vicente",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jefferson-rufino-631a77b0",
+      "name": "Jefferson Rufino",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/iara-puello-yago-685271110",
+      "name": "Iara Puello Yago",
+      "summary": null,
+      "location": "Resende"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabelle-carolyne-809a6a135",
+      "name": "Isabelle Carolyne",
+      "summary": "Empreendedora no mercado de bazares, feiras e moda circular.",
+      "location": "Cascavel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipe-louly-1a790a158",
+      "name": "Felipe Louly",
+      "summary": "Consultor em Gestão de Negócios | Processos, Dados e Inteligência Artificial aplicados à tomada de decisão",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Que ORGULHO deste estudo inédito da OOH Brasil junto com Forebrain através de uma tecnologia proprietária que combina inteligência artificial e…",
+      "link": "https://www.linkedin.com/posts/aluizio-davis_que-orgulho-deste-estudo-inédito-da-ooh-brasil-activity-7386023038678384640-MQLT",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Na OOH Brasil Pensar grande sempre foi o nosso norte — e agora fomos reconhecidos por isso. Fomos indicados entre as 60 melhores empresas de…",
+      "link": "https://www.linkedin.com/posts/aluizio-davis_oohbrasil-propmark-melhoresdopropmark-activity-7386035770320400384-PCeL",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Aluízio DAVIS",
+      "link": "https://br.linkedin.com/in/aluízio-davis-0b268217a",
+      "summary": "Sócio - Consultor institucional LegislativoFederal na ACS Comunicação Institucional",
+      "location": "Distrito Federal, Brasil"
+    },
+    {
+      "name": "Aluízio Davis Neto",
+      "link": "https://br.linkedin.com/in/aluízio-davis-neto-4488a414b",
+      "summary": "--",
+      "location": "Brasil"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-25T00:00:00Z"
+  }
+}

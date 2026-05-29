@@ -1,0 +1,690 @@
+{
+  "public_identifier": "fabiencouasnon",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ec48994c85ad888cc2415e9377d3112c",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C4D16AQFLjddAl5ZZoQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516512140811?e=2147483647&v=beta&t=BSenyvswqXr6XCVfH77KjNrbHbdkjQzqAVfEPvlNlLo",
+  "first_name": "Fabien",
+  "last_name": "Couasnon",
+  "full_name": "Fabien Couasnon",
+  "follower_count": 4758,
+  "occupation": "VP Supply at Displayce",
+  "headline": "VP Strategic Partnerships & Supply",
+  "summary": "Taboola helps people find relevant content online, matching them with news stories, articles, blogs, videos, apps, products and other content they’re likely to want to explore.\nHow do we know what they’ll like? Using machine-learning algorithms, our technology analyzes hundreds of signals to capture exactly what kind of content is most likely to engage each individual. We do that more than 450 billion times a month for more than one billion unique users. \n\nSince we opened our doors in 2006, we have grown to become the leading discovery platform on the open web, serving a combination of the world’s best brands and the most respected global publishers.\n\nTaboola is headquartered in New York City with local offices in Los Angeles, London, Tel Aviv, New Delhi, Bangkok, São Paulo, Beijing, Shanghai, Istanbul, Seoul, Sydney and Tokyo.",
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Displayce",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/displayce",
+      "company_facebook_profile_url": null,
+      "title": "VP Supply",
+      "description": null,
+      "location": "Londres et périphérie, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/88b44ad66180e3cecfb37fca1fd33158"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2025
+      },
+      "company": "Taboola",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taboola",
+      "company_facebook_profile_url": null,
+      "title": "Director of Agency Development, EMEA",
+      "description": null,
+      "location": "Londres et périphérie, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7ec6f9ac639e55e1e227a3cbac3a6129"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2025
+      },
+      "company": "Taboola",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taboola",
+      "company_facebook_profile_url": null,
+      "title": "Director, Global Programmatic Partnerships SSP & DSP",
+      "description": null,
+      "location": "Londres, Angleterre, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7ec6f9ac639e55e1e227a3cbac3a6129"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2020
+      },
+      "company": "Taboola",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taboola",
+      "company_facebook_profile_url": null,
+      "title": "Programmatic Partnerships - EMEA",
+      "description": null,
+      "location": "London, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7ec6f9ac639e55e1e227a3cbac3a6129"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "Mozoo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mozoogroup",
+      "company_facebook_profile_url": null,
+      "title": "Head of Programmatic",
+      "description": null,
+      "location": "London, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3c502ccf7407bb807855f4a37b293061"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Mozoo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mozoogroup",
+      "company_facebook_profile_url": null,
+      "title": "Senior Manager - Audience, Demand and Programmatic at Mozoo",
+      "description": null,
+      "location": "London, Royaume-Uni",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3c502ccf7407bb807855f4a37b293061"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2015
+      },
+      "company": "ZBO Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/zbomedia",
+      "company_facebook_profile_url": null,
+      "title": "Senior Business Development Manager",
+      "description": null,
+      "location": "Région de Paris, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac972cb7bc15b8b64b5a10d68e28382d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "company": "Le Monde",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/le-monde",
+      "company_facebook_profile_url": null,
+      "title": "Agencies Sales Manager",
+      "description": null,
+      "location": "Région de Paris, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/baf76aced6e8e9995aac25543eca1407"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "Révolution Mobile Agency",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "relevanC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/relevanc",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b6d3eb40ecd3a3638b0cd0c3228dde5e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2010
+      },
+      "company": "SPORTBASE SAS",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Conversant",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/conversantinc",
+      "company_facebook_profile_url": null,
+      "title": "Publisher Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a9526a8dd55b58df8109b1f62167fc76"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2008
+      },
+      "company": "Airbus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/airbusgroup",
+      "company_facebook_profile_url": null,
+      "title": "Junior Pricing Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/40b2e2456f1b18d95cde3c436b33855f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "EDHEC Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/edhec-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/60228b1b301426fd46fbff03fac6aa51",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 4761,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/sophiepesenti",
+      "name": "Sophie Pesenti",
+      "summary": null,
+      "location": "Lyon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristan-mangel",
+      "name": "Tristan M.",
+      "summary": "Native Ads pro scaler - Ex Oracle",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/burd3n",
+      "name": "■ B.",
+      "summary": "Human Designer ■ Public Creative Director ■ Minimalist & Timeless Approach I CEO @Burd3n @Tit4n | chainzoku.com | Immobilier 3.0 | Blockchain",
+      "location": "Reims"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kahina-belaid-eng-865b5055",
+      "name": "Kahina Belaid, Eng.",
+      "summary": "Executive Director & Life Sciences Strategist | Development Strategy | BD & Strategic Partnerships | Global Market Entry | Go-to-Market Strategies | EU, UK, US, MENA & Asia Pacific | Pharmacology & Biotech Engineer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinchauvet",
+      "name": "Kevin Chauvet",
+      "summary": null,
+      "location": "Pau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/goutteratel",
+      "name": "Vincent GOUTTERATEL",
+      "summary": "Food Service Sales Director at Pomona Export",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thaismontjean",
+      "name": "Thaïs Montjean",
+      "summary": "Head of Strategy at BORN Group | Luxury Brand Specialist | Expert in Digital & Behavioral Strategy | Formerly at Cartier, LVMH, L'Oréal",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marctunguz",
+      "name": "Marc Tunguz",
+      "summary": "Senior Project Manager | Freelance Photographer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabrice-fardeau-felix-96b34229",
+      "name": "Fabrice Fardeau Felix",
+      "summary": null,
+      "location": "Reims"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-marcais",
+      "name": "Lisa Marçais",
+      "summary": "C-to-C Director @eBay",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-lapointe-05559911",
+      "name": "Sophie Lapointe",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cyril-bourdarot-572b8a18",
+      "name": "Cyril Bourdarot",
+      "summary": "Partner at The Carlyle Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edouard-loeb-45905a21",
+      "name": "Edouard Loeb",
+      "summary": "Co Fondateur Jurifiable.com",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/st%25C3%25A9phanie-bonnet-72201530",
+      "name": "Stéphanie Bonnet",
+      "summary": "Business development / Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-botvinik-a0900631",
+      "name": "David Botvinik",
+      "summary": "Entrepreneur and Investor, DashBook, Chronotruck, FIA-NET Cofounder",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-ladreyt-4a212b31",
+      "name": "Thomas Ladreyt",
+      "summary": "Senior Director - Supply at Agoda",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierbarnay",
+      "name": "Xavier Barnay",
+      "summary": "Sales & Operations Leader | Entrepreneur",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristan-mangel-a8121249",
+      "name": "Tristan Mangel",
+      "summary": "Digital advertising expert with over 12 years experience - Ex Oracle",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kahina-belaid-865b5055",
+      "name": "Kahina Belaid",
+      "summary": "Life Sciences Innovation & Business Development Strategist | Pharmacology & Biotech Engineer | Executive Director at Deep Science Advisor | Driving Strategic Partnerships in Healthcare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margaux-martinage-a724b066",
+      "name": "Margaux Martinage",
+      "summary": null,
+      "location": "Marseille"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lancelotsalavert",
+      "name": "Lancelot Salavert",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luc-ganot-90089285",
+      "name": "Luc Ganot",
+      "summary": "Account Director, Media Solutions at POLITICO Europe",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerome-zelty-2991b0116",
+      "name": "jerome zelty",
+      "summary": "Directeur chez Strandlink",
+      "location": "London"
+    }
+  ],
+  "recommendations": [
+    "Séverine Gauthier\n\nFabien was my direct manager and also the Head of Programmatic of our business unit at Mozoo.\n\nHe hired me when I had no programmatic knowledge and offered to teach me everything he knows about it.\nTrust me, he knows a lot about programmatic!\n\nHe was clearly interested in helping me grow as an employee and also as a person.\nI’ve learnt so much thanks to Fabien, from programmatic to being a good Account Manager, as well as sales tips, industry best practice and I learnt even a lot from a personal point of view!\n\nHe also offered to arrange a meeting with some of the key members from different teams at Mozoo (Ad Ops, Yield Optimisation, Sales) so I could get more of an insight into their structure and goals.\n\nHis passion for the industry and market-related reading helped me too to improve my knowledge, through long Friday afternoon conversations where we discussed particular businesses or where I asked my continuing questions about the market or how to improve my skills.\nWhenever I have questions or concerns, Fabien responds right away—and even follows up later in the week or month to make sure my issues have been resolved. His patience and willingness to help have motivated me to do the best job I can.\n\nIt was great to be part of Fabien’s team for almost 2 years. \n\nThank you for all your help and for your incredible management!",
+    "David Agostinho\n\nTout le monde parle de RTB, beaucoup le pratiquent, mais rares sont ceux qui le maîtrisent : Fabien fait partie de cette catégorie.\r\n\r\nFabien concentre dans son discours, d'une transparence rare, la maîtrise de l'éco-systhème technique du RTB, et l'expérience pragmatique de celui-ci.\r\n\r\nAvec lui, pas de promesses en l'air, mais un discours simple. On n'a jamais de mauvaises surprises avec Fabien, mais que des bonnes. Car on constate toujours que le discours tenu se concrétise.\r\n\r\nJe vous le recommande chaudement, et suis pleinement satisfait d'avoir fait appel à Fabien et à ZEBESTOF.",
+    "Séverine Gauthier\n\nFabien was my direct manager and also the Head of Programmatic of our business unit at Mozoo.He hired me when I had no programmatic knowledge and offered to teach me everything he knows about it.Trust me, he knows a lot about programmatic!He was clearly interested in helping me grow as an employee and also as a person.Ive learnt so much thanks to Fabien, from programmatic to being a good Account Manager, as well as sales tips, industry best practice and I learnt even a lot from a personal point of view!He also offered to arrange a meeting with some of the key members from different teams at Mozoo (Ad Ops, Yield Optimisation, Sales) so I could get more of an insight into their structure and goals.His passion for the industry and market-related reading helped me too to improve my knowledge, through long Friday afternoon conversations where we discussed particular businesses or where I asked my continuing questions about the market or how to improve my skills.Whenever I have questions or concerns, Fabien responds right away—and even follows up later in the week or month to make sure my issues have been resolved. His patience and willingness to help have motivated me to do the best job I can.It was great to be part of Fabiens team for almost 2 years. Thank you for all your help and for your incredible management!"
+  ],
+  "activities": [
+    {
+      "title": "Une année riche et intense récompensée. Dédicace à l'équipe Adtech Factory, en clin d'oeil, le jour d'une migration de nos infras  : Adel…",
+      "link": "https://fr.linkedin.com/posts/mathieuribadeau_une-année-riche-et-intense-récompensée-dédicace-activity-7289920978581610498-45gN",
+      "activity_status": null
+    },
+    {
+      "title": "Et si 2025 était l'année de... l'open web ? 💥 Les deux dernières années ont été pénibles pour les acteurs de l'open web. Pertes de parts de marché,…",
+      "link": "https://fr.linkedin.com/posts/paul-ripart-2086056b_et-si-2025-était-lannée-de-lopen-web-activity-7290281270108987393-hWQ5",
+      "activity_status": null
+    },
+    {
+      "title": "After 4 years of an intense and inspiring entrepreneurial journey, I am thrilled to announce a key milestone: the business transfer of edisound to…",
+      "link": "https://www.linkedin.com/posts/julienmosse_after-4-years-of-an-intense-and-inspiring-activity-7290254919536635906-tzUM",
+      "activity_status": null
+    },
+    {
+      "title": "THIS IS IT ! �� GroupM France remporte le Grand Prix Agence Média de l'Année 2025 ! The Media Leader FR Best team, bravo à toutes et à tous !…",
+      "link": "https://fr.linkedin.com/posts/adrienlepage_pam2025-activity-7290021365158432768-Ng_M",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Today is my last day at Equativ ✨ After 10 exciting years, I’m taking the leap into entrepreneurship! I started in 2014 when Equativ (formerly…",
+      "link": "https://www.linkedin.com/posts/kevin-taulera-16465747_today-is-my-last-day-at-equativ-after-activity-7287423106720096257-TGXz",
+      "activity_status": null
+    },
+    {
+      "title": "What better way to kick off PGC London with a DoF VIP dinner! Thanks for building such a nice community Michail Katkoff, and for sponsoring Adam…",
+      "link": "https://www.linkedin.com/posts/tessierv_mobilegaming-useracquisition-activity-7286889424712314880-idXm",
+      "activity_status": null
+    },
+    {
+      "title": "I’m Roi, and I wasn’t at CES... but I will be at IAB ALM 🌴along with Jason Matthew March. Looking forward to reconnecting with old friends, making…",
+      "link": "https://www.linkedin.com/posts/roi-fainstein_iabalm2025-streaming-digitaladvertising-activity-7285598032778186753-3hke",
+      "activity_status": null
+    },
+    {
+      "title": "Dyy 2 at #CES looking forward to meeting good friends today #Taboola #Programmatic #partnerships",
+      "link": "https://www.linkedin.com/posts/vincentmeyer_ces-taboola-programmatic-activity-7282794118710231041-epMV",
+      "activity_status": null
+    },
+    {
+      "title": "Les arguments avancés par Mark Zuckerberg ... ubuesques : \"plus c'est gros plus ça passe\" si vous me permettez cette expression triviale...",
+      "link": "https://fr.linkedin.com/posts/jean-baptiste-rouet-643247_le-virage-trumpiste-et-muskien-de-mark-zuckerberg-activity-7282661374244126720-xOZI",
+      "activity_status": null
+    },
+    {
+      "title": "🍾 Nouvelle année, nouveau projet ! ⭐ Domoko a été retenue pour gérer la rénovation de l'école Marcel Callo de Nantes. https://lnkd.in/eB4zDpkd…",
+      "link": "https://fr.linkedin.com/posts/domoko_domoko-linkedin-activity-7281943202222227456-28P6",
+      "activity_status": null
+    },
+    {
+      "title": "🎰 Las Vegas, here we come! I will attend #CES from January 7th to 10th together with Jules Minvielle, CEO Olyzon. 🏁 We’re ready to dive into the…",
+      "link": "https://www.linkedin.com/posts/ingrid-couasnon-682b3b2_ces-ctv-advertising-activity-7275188220697427969-BgU-",
+      "activity_status": null
+    },
+    {
+      "title": "L’entrepreneuriat : une aventure humaine avant tout. 🫶 Un énorme merci à l’équipe Speeral, qui a passé ces derniers mois, semaines, jours et heures…",
+      "link": "https://fr.linkedin.com/posts/julien-chevalier-speeral_lentrepreneuriat-une-aventure-humaine-activity-7275086897578741760-o3yT",
+      "activity_status": null
+    },
+    {
+      "title": "Our team isn't just talking about growth—we’re delivering it. And with Realize, we're going to keep changing the game. In 2024, we’ve seen: 📊 more…",
+      "link": "https://www.linkedin.com/posts/nadavp_realizeforadvertisers-performancemarketing-activity-7303870812594274304-BfNq",
+      "activity_status": null
+    },
+    {
+      "title": "Seeing Displayce’s new identity lighting up London’s streets is a pretty special moment. Our rebrand isn’t just about a new look—it’s about…",
+      "link": "https://www.linkedin.com/posts/gordon-bonifacio-746b88_dooh-programmatic-ooh-activity-7303037049962418177-HIl7",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from an amazing first edition of Mad//UpNorth in Manchester this week!  It was great connecting with so many brilliant minds and being back…",
+      "link": "https://www.linkedin.com/posts/audrey-boisumeau-5646bb29_programmatic-activity-7301188173655691264-CsWu",
+      "activity_status": null
+    },
+    {
+      "title": "É uma honra e um privilégio ter representado a Displayce no evento IAB Brasil AdTech & Branding. Foi uma oportunidade incrível de falar sobre pDOOH…",
+      "link": "https://pt.linkedin.com/posts/kauemagrini_é-uma-honra-e-um-privilégio-ter-representado-activity-7371642711390535680-uoml",
+      "activity_status": null
+    },
+    {
+      "title": "WeAreDOOHers Summit Speaker Reveal #4 🇳🇱 🎙️ Alexis COULIBALY, Director of Programmatic Operations EMEA at Broadsign will be on stage at…",
+      "link": "https://www.linkedin.com/posts/displayce_wearedoohers-dooh-programmatic-activity-7371075418256326656-Fc1r",
+      "activity_status": null
+    },
+    {
+      "title": "Grâce à France Travail et au modèle d’allocation français, nous réalisons +30 % de croissance cette année. Derrière ce hook un peu forcé (j’en…",
+      "link": "https://fr.linkedin.com/posts/louis-terme-243b9856_grâce-à-france-travail-et-au-modèle-dallocation-activity-7369758294740992002-dYfQ",
+      "activity_status": null
+    },
+    {
+      "title": "We’re hiring! Join Displayce’s tech team and help shape the future of programmatic DOOH. 🤗 We’re currently looking for two key profiles: 👨‍💻 VP…",
+      "link": "https://www.linkedin.com/posts/displayce_programmatic-dooh-hiring-activity-7367090026133864448-Qc2r",
+      "activity_status": null
+    },
+    {
+      "title": "🔗 SSP ↔ DSP communication: the missing link in traffic shaping From fat pipes → to shopping lists 👉 How DSPs and SSPs can finally speak the…",
+      "link": "https://www.linkedin.com/posts/kevin-taulera-16465747_ssp-dsp-communication-the-missing-link-activity-7366813054967132161-m_bu",
+      "activity_status": null
+    },
+    {
+      "title": "When I joined Taboola 8+ years ago, one of the products under my wing was generating around $80K/day. It was promising, but a long way from its true…",
+      "link": "https://www.linkedin.com/posts/jordan-dar_when-i-joined-taboola-8-years-ago-one-of-activity-7403415437616537602-5viZ",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to attending the Adwanted Events Future of TV event next week. And a huge thank you to Steven Scaffardi and the team for making some…",
+      "link": "https://www.linkedin.com/posts/gavinstirrat_looking-forward-to-attending-the-adwanted-activity-7402010866956800000-dIDs",
+      "activity_status": null
+    },
+    {
+      "title": "Life is Good! One of the best slogan in my book, Glad I can use it to announce our new partnership with LG Ad Solutions bringing TV performance to…",
+      "link": "https://www.linkedin.com/posts/vincentmeyer_life-is-good-one-of-the-best-slogan-in-my-activity-7401990804086349824-osPl",
+      "activity_status": null
+    },
+    {
+      "title": "Après 2 années intenses et passionnantes chez Taboola France, il est temps pour moi de partir vers de nouvelles ( 👀 ) aventures ! Un immense merci à…",
+      "link": "https://fr.linkedin.com/posts/felixrollet_après-2-années-intenses-et-passionnantes-activity-7401185613498179584-YSq2",
+      "activity_status": null
+    },
+    {
+      "title": "London calling! Excited to be back at #FTVA again! If you’re attending and want to chat about the future of TV advertising, feel free to reach out…",
+      "link": "https://www.linkedin.com/posts/ingrid-couasnon-682b3b2_ftva-activity-7399814208877645824-0oFu",
+      "activity_status": null
+    },
+    {
+      "title": "At a time when every economic headline seems to scream doom, last night was the reminder I needed: the UK IS still building, and FunnelFuel is right…",
+      "link": "https://www.linkedin.com/posts/miketharty_at-a-time-when-every-economic-headline-seems-activity-7399796248842489856-OegC",
+      "activity_status": null
+    },
+    {
+      "title": "Bright day for Broadsign with a very strong move in market and the acquisition of Place Exchange !!!",
+      "link": "https://www.linkedin.com/posts/alexiscoulibaly_broadsign-announces-acquisition-of-place-activity-7399120606413365249-JvU5",
+      "activity_status": null
+    },
+    {
+      "title": "Last Friday, I had the pleasure of joining the Campaign Middle East Breakfast Briefing: Out Of Home 2026, and the conversations were incredibly…",
+      "link": "https://www.linkedin.com/posts/melissacecilie-desfontaines_last-friday-i-had-the-pleasure-of-joining-activity-7399037346798620672-mOV3",
+      "activity_status": null
+    },
+    {
+      "title": "With the imminent changes in Less Healthy Food legislation and a post watershed ban on many channels from 5th January, I'll be discussing the…",
+      "link": "https://www.linkedin.com/posts/hallidaym_with-the-imminent-changes-in-less-healthy-activity-7396442040345153537-DVxy",
+      "activity_status": null
+    },
+    {
+      "title": "J’ai le plaisir de vous annoncer que j’occupe désormais le poste de DIRECTEUR CONTENT/EVENT/DIVERSIFICATION chez mieux.",
+      "link": "https://fr.linkedin.com/posts/philippe-raer-2458661a_jai-le-plaisir-de-vous-annoncer-que-joccupe-activity-7396868498498494464-tQBo",
+      "activity_status": null
+    },
+    {
+      "title": "Take some time out to have a listen….. Tune in to the latest episode of the Digital Changemakers Podcast featuring Diageo’s Mike Cheetham, Head of…",
+      "link": "https://www.linkedin.com/posts/dallas-wiles-319b6228_marketingstrategy-consumerengagement-outofhome-activity-7394352889583915008-bUo5",
+      "activity_status": null
+    },
+    {
+      "title": "🇮🇹 What amazing days in Milan! From the WeAreDOOHers European Tour stop on Tuesday to two inspiring days at Intersections, these past three days…",
+      "link": "https://www.linkedin.com/posts/displayce_dooh-digitaloutofhome-intersections-activity-7392215853246599169-1y7b",
+      "activity_status": null
+    },
+    {
+      "title": "🇮🇹 Grazie mille to the Italian advertising industry for being so dynamic and welcoming! It’s inspiring to see such energy and innovation driving…",
+      "link": "https://www.linkedin.com/posts/remiboudard_dooh-programmatic-italy-activity-7391874443201093633-J6i_",
+      "activity_status": null
+    },
+    {
+      "title": "Wine Paris, here we go ! Retrouvez-nous sur le stand H7.1 B092, avec les BIOS de Bordeaux. 🍇 Vous pourrez déguster les nouveautés et petites…",
+      "link": "https://fr.linkedin.com/posts/sacha-sokoloff-5112272_wine-paris-here-we-go-retrouvez-nous-activity-7425543974167154688-1lEG",
+      "activity_status": null
+    },
+    {
+      "title": "Two days away from our screens, up in the mountains, to kick off the year together. Panels, workshops, team moments and plenty of discussions around…",
+      "link": "https://www.linkedin.com/posts/displayce_two-days-away-from-our-screens-up-in-the-activity-7425088989310722048-oG9b",
+      "activity_status": null
+    },
+    {
+      "title": "2026 is officially in motion, and the energy is high. 🚀 We’ve brought the team together in the mountains for our annual kickoff seminar. Beyond…",
+      "link": "https://www.linkedin.com/posts/displayce_2026-is-officially-in-motion-and-the-energy-activity-7422937593983676416-A-gy",
+      "activity_status": null
+    },
+    {
+      "title": "What a journey! ☀️ After 8 years at Adsquare, I’m closing an incredible chapter tomorrow. An intense and unforgettable adventure, both…",
+      "link": "https://www.linkedin.com/posts/kévan-abdoli-ab7a9990_what-a-journey-after-8-years-at-adsquare-activity-7422621115044433921-qn4u",
+      "activity_status": null
+    },
+    {
+      "title": "After a magical four years at TikTok filled with meaningful challenges, personal growth, and the gift of working alongside inspiring colleagues…",
+      "link": "https://www.linkedin.com/posts/robinshore_after-a-magical-four-years-at-tiktok-filled-activity-7420586198731218944-gWYf",
+      "activity_status": null
+    },
+    {
+      "title": "Great pleasure to catchup with a DSP 'OG', Jordi de los Pinos founder & CEO of one of the first Mobile DSP in the market, and still there, growing…",
+      "link": "https://www.linkedin.com/posts/tessierv_mobilegaming-useracquisition-mobileprogrammatic-activity-7419887778328653824-5Hgb",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing work! Really excited to collaborate on the development of this partnership across Europe. Tiktok’s Out of Phone is such a nice mix of…",
+      "link": "https://www.linkedin.com/posts/pablo-damian-fugazza-83b120127_tiktok-tiktokoutofphone-displayce-activity-7419385957898178560-aCOZ",
+      "activity_status": null
+    },
+    {
+      "title": "Today, I close an important chapter of my professional journey at Displayce. I leave feeling both sad and incredibly proud. Proud of the journey we…",
+      "link": "https://www.linkedin.com/posts/remiboudard_today-i-close-an-important-chapter-of-my-activity-7417894649580834818-rtFQ",
+      "activity_status": null
+    },
+    {
+      "title": "New year, new role! 🎉 I'm back from Maternity Leave and starting a new role within VIOOH - Global Commercial Enablement Director.  Excited to be…",
+      "link": "https://www.linkedin.com/posts/kerry-willis-89905664_new-year-new-role-im-back-from-maternity-activity-7417516360391454720-vhcW",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Nouveau chapitre professionnel Heureux de rejoindre Concentrix en tant que IX Suite Lead France & Partnerships, pour accompagner la région France…",
+      "link": "https://fr.linkedin.com/posts/amaurydelloye_concentrix-ixsuite-ai-activity-7414923893351694337-3bMy",
+      "activity_status": null
+    },
+    {
+      "title": "Happy New Year to all my contacts firstly! My first post of the year and I'm really pleased to announce a new role for me as Commercial Trading…",
+      "link": "https://www.linkedin.com/posts/danginns_happy-new-year-to-all-my-contacts-firstly-activity-7414664379939360768-4onb",
+      "activity_status": null
+    },
+    {
+      "title": "A busy London week ahead! I’ll be attending Programmatic Pioneers Summit on June 2, followed by the World Out of Home Organization Annual Congress…",
+      "link": "https://www.linkedin.com/posts/fabiencouasnon_a-busy-london-week-ahead-ill-be-attending-activity-7463260238926770176-b8qz",
+      "activity_status": null
+    },
+    {
+      "title": "Displayce accélère et recrute 🚀 Pour accompagner notre croissance et renforcer notre présence internationale, nous ouvrons quatre postes…",
+      "link": "https://www.linkedin.com/posts/fabiencouasnon_displayce-accélère-et-recrute-pour-accompagner-activity-7429198218552377344-K7FK",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-07T00:00:00Z"
+  }
+}

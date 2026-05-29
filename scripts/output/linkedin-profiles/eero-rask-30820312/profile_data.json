@@ -1,0 +1,932 @@
+{
+  "public_identifier": "eero-rask-30820312",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/600bd64be4af0ebf7d38e6300efc9b09",
+  "background_cover_image_url": null,
+  "first_name": "Eero",
+  "last_name": "Rask",
+  "full_name": "Eero Rask",
+  "follower_count": 1233,
+  "occupation": "Experienced International Executive - Sales, Business Development, Partnerships at Freelance",
+  "headline": "Experienced International Executive - Sales, Business Development, Partnerships",
+  "summary": "I am an enthusiastic business developer with a love for sales and a good knowledge of technology.<br>",
+  "location_str": "Spain",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Freelance",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Experienced International Executive - Sales, Business Development, Partnerships",
+      "description": null,
+      "location": "Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2025
+      },
+      "company": "MVC Videra",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mvcvidera",
+      "company_facebook_profile_url": null,
+      "title": "Director New Business Development",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/48805dc316e2af734032af91e5d1e579"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2020
+      },
+      "company": "LG Electronics",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "European Manager, B2B vertical Sales & Marketing",
+      "description": "responsible for DOOH, stadium and shopping mall segments at LG business solutions.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "Elisa Videra",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mvcvidera",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director, Digital Signage",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/48805dc316e2af734032af91e5d1e579"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "company": "Elisa Videra",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mvcvidera",
+      "company_facebook_profile_url": null,
+      "title": "Business Area Director",
+      "description": "I started the digital signage business at Elisa Videra. I am continuing to build our company to be the largest Digital Signage service provider in the world.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/48805dc316e2af734032af91e5d1e579"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2010
+      },
+      "company": "Symbicon Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/symbicon-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": "Head of sales for Southern Europe, Middle East and APAC",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8dc05a6c871311fd743f8b301a2f8097"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "company": "Marketing Agency Expression Oy",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Team Leader",
+      "description": "Running a team of 20 people in middle Finland.",
+      "location": "Jyväskylä",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "company": "Herajärvi Car Center Oy",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": "Importing custom sports cars from Central Europe. Purchasing and Selling.",
+      "location": "Helsinki",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2005
+      },
+      "company": "Telia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/teliacompany",
+      "company_facebook_profile_url": null,
+      "title": "Solution Seller",
+      "description": "Selling all Consumer products in the portfolio.",
+      "location": "Jyväskylä",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0209c693370e7f3fcb4bf8e97d808318"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2004
+      },
+      "company": "Markantalo",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Representative",
+      "description": "Selling mobile and broadband subscriptions and network connected devices. Phones, laptops etc.",
+      "location": "Jyväskylä",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Economics, Jyväskylä School of Economics, Marketing",
+      "degree_name": "M.Sc.",
+      "school": "University of Jyväskylä",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/uniofjyvaskyla",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fb8588ae94832beb93e9272816494a01",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Swedish",
+    "Finnish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Swedish",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Finnish",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Elisa Shopit",
+      "publisher": "NRF",
+      "published_on": {
+        "day": 15,
+        "month": 4,
+        "year": 2013
+      },
+      "description": null,
+      "url": "http://www.nrf.com/modules.php?name=News&op=viewlive&sp_id=1687"
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Digital Brussels",
+      "description": "Full service project and operations for Clear Channel Belgium.",
+      "url": "https://www.youtube.com/watch?v=8wOsbdk9UtY"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "title": "Digital Malls Poland -Clear Channel Play",
+      "description": "Building a digital mall network in Poland for Clear Channel",
+      "url": "https://www.youtube.com/watch?v=3MweZgF2y3w"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Dixons Carphone store digitalisation project UK and Ireland",
+      "description": "Digitazing all Carphone warehouse and most of Dixons stores in UK and Ireland.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Mobistar store digitalisation Belgium",
+      "description": "Digitasing Mobistars shops across Belgium",
+      "url": "https://www.youtube.com/watch?v=Q1EhSaBaNMQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Sanoma building Digital Signage",
+      "description": "Concept sales, content strategy & customer account management.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": null,
+      "title": "CBS outdoor Italy. Digital malls",
+      "description": "We build nationwide advertising network for CBS outdoor Italy, now known as Exterion media. This network was later sold to Clear Channel Italy By Exterion.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2011
+      },
+      "ends_at": null,
+      "title": "Europe's most digital store -Elisa Shopit",
+      "description": "4 months after starting digital signage operations at Videra I planned and larger team from our company deployed what is still considered the most digital store in Europe. From Concept to shop opening in 8 weeks. The whole chain was decided to be renewed and digitalized after positive results of the first stores.",
+      "url": "http://www.youtube.com/watch?v=75l1sjqJHYQ"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": null,
+      "title": "First digital mall network in Lebanon",
+      "description": "A digital advertising network consisting of 70\" single and double sided standalone kiosks",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2008
+      },
+      "ends_at": null,
+      "title": "Dubai Global Village. Digital Network",
+      "description": "First outdoor Digital advertising network in UAE.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "title": "Metro Barcelona",
+      "description": "Full service project for Global Spain for the digital network in Barcelona metro.",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Digital Signage Out Of Home Projects (OOH) and retail",
+      "description": "Delivering OOH Digital Signage solutions for Advertising companies in different countries in Europe, as well as Retails DS solutions for a customer also in Europe.",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Sanoma-building Digital Signage",
+      "description": "Concept sales, content strategy & customer account management.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2002
+      },
+      "title": "chairman",
+      "cause": "Educación",
+      "company": "Student body of the jaeger brigade underofficer school",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2000
+      },
+      "title": "chairman",
+      "cause": "Educación",
+      "company": "Lyseonpuiston lukio Oppilaskunta",
+      "company_linkedin_profile_url": null,
+      "description": "I was the chairman of my school's student body at high school level. School has around 700 students.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jordigarasa",
+      "name": "Jordi Garasa",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedrocodina",
+      "name": "Pedro Rodríguez Codina",
+      "summary": "Co-Founder @ Bravo Studio | Sales & Partnerships",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/owekman",
+      "name": "Owe Ekman",
+      "summary": "Vice President Global Portfolio & Solutions at Elisa Videra",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelbarrio",
+      "name": "Ángel Barrio Vilar",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dccoconsulting",
+      "name": "David Carr  (MBCS CITP)",
+      "summary": "Digital Strategy | Team Development | Leadership | Consultancy | IP Development | Service Management | Data Modelling | Analysis | Digital Signage | AV & IT | SaaS | DOOH | Entertainment | Venues",
+      "location": "Fleet"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ernesortega",
+      "name": "Ernesto Ortega Alvarez",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrearenna",
+      "name": "Andrea Renna",
+      "summary": null,
+      "location": "Lecce"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jjgarridonieto",
+      "name": "Juan José Garrido",
+      "summary": "Experienced Sales & Marketing Executive, COO at Software Greenhouse, S.A.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlosruiz",
+      "name": "Carlos Ruiz Gomez",
+      "summary": "Senior Director Strategy Development EMEA | Leading Innovation, Market Expansion, New Routes to Market, and Organisational Enablement in Global Telecommunications and Cloud Computing",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rubencruells",
+      "name": "RUBEN CRUELLS",
+      "summary": null,
+      "location": "Sabadell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samir-abbassi",
+      "name": "Samir Abbassi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorgemartospardo",
+      "name": "JORGE MARTOS PARDO",
+      "summary": "Responsable de Desarrollo de Negocio IA - Práctica Data & IA",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomi-mannikainen",
+      "name": "Tomi Mannikainen",
+      "summary": "Client Technical Sales, IT-Architect, MBA @ Lenovo ISG",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattrosesales",
+      "name": "Matt R.",
+      "summary": null,
+      "location": "Basingstoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enkiaudiovisual",
+      "name": "Carlos Ruiz Monasterio",
+      "summary": "Director de Contenidos Audiovisuales y Creador de Contenido para Redes Sociales en Guapurú Soluciones Creativas",
+      "location": "Santa Cruz de la Sierra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannemattinen",
+      "name": "Hanne Mattinen",
+      "summary": null,
+      "location": "Oulu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malpaert",
+      "name": "Mattijs Alpaert",
+      "summary": "Senior Proposition Manager at Costa Coffee",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bnellermoe",
+      "name": "Bryant Nellermoe",
+      "summary": "Sales at Tightrope Media Systems I K-12 I Global",
+      "location": "Minneapolis–Saint Paul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rtoma",
+      "name": "Ricardo Toma Freitag",
+      "summary": "| Strategy | Digital Transformation | Innovation | Technology | Cloud | Architecture & Software",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aferreiro",
+      "name": "Alfredo Ferreiro",
+      "summary": "Global Account Director at SAP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/enriquegutierrezcasado",
+      "name": "Enrique G.",
+      "summary": "Mid-Market @ HubSpot | MBA (ongoing) | ex-Salesforce | ex-Oracle",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristianpi",
+      "name": "Cristian Pi Martin",
+      "summary": "B2B Partners & Channel Management Strategist- Speaker, Trainer, Coach and Evangelist",
+      "location": "Matadepera"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rgarciapomar",
+      "name": "Rafa Garcia Pomar",
+      "summary": "Cyber Security Business Development Team Lead Iberia at Exclusive Networks Spain",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anni-pekkanen-157654278",
+      "name": "Anni Pekkanen",
+      "summary": "Management Support I Occupational Therapist (MSc) I Master’s student in Project Management",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ant%25C3%25B3nio-moreira-lopes",
+      "name": "António Moreira Lopes",
+      "summary": "Business Development Manager at ATS Spain | MES / MOM | Digital Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahedoperez",
+      "name": "Abel Hedo Pérez",
+      "summary": "ADMINISTRACIÓN Y FINANZAS, MARKETING Y PUBLICIDAD DIGITAL",
+      "location": "Belmonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carles-f%25C3%25A1bregas-619966b",
+      "name": "Carles Fábregas",
+      "summary": "Business Development Manager New Technologies at Grupo Diusframi",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carsten-mertsch-9718ba18a",
+      "name": "Carsten Mertsch",
+      "summary": "Dipl. Oec.",
+      "location": "Didderse"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomminybergfinland",
+      "name": "Tommi Nyberg",
+      "summary": "Business Development | Data & Analytics | Leadership",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/netvision-it-managed-services-audio-visual-solutions",
+      "name": "NetVision-IT LLC",
+      "summary": "IT Company at NetVision-IT LLC",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommiraitio",
+      "name": "Tommi Raitio",
+      "summary": "AI Training Consultant | Middle East & Europe | Making AI training actually useful for organizations",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pasi-mielonen-8102a51",
+      "name": "Pasi Mielonen",
+      "summary": null,
+      "location": "Copenhagen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nordstrom-reeta-2272254",
+      "name": "Nordstrom Reeta",
+      "summary": "Content & Digital Marketing, Communications and Competence Development",
+      "location": "Espoo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-cler-hernandez-1810415",
+      "name": "Alberto Cler Hernandez",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juha-valtavaara-1a25495",
+      "name": "Juha Valtavaara",
+      "summary": "Director of Technology, Esko Systems Oy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordi-pascual-mut-031a316",
+      "name": "Jordi Pascual-Mut",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pasi-karppanen-1965aa7",
+      "name": "Pasi Karppanen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mika-pirinen-b8a8647",
+      "name": "Mika Pirinen",
+      "summary": null,
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tammiecoles",
+      "name": "Tammie Coles",
+      "summary": "EMEA & APAC Sales Director @ CData Software |  Helping your AI Initiative become reality.",
+      "location": "Cenes de la Vega"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-young-0a7a5810",
+      "name": "Matthew Young",
+      "summary": "Morgans Consult•1K followers",
+      "location": "Newbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-whittaker-a4432b33",
+      "name": "Ian Whittaker",
+      "summary": "Accountant / Analyst.\nCurrently adding value on a project.\nAvailable April 2026",
+      "location": "Kippax"
+    },
+    {
+      "link": "https://www.linkedin.com/in/teemu-kaasinen",
+      "name": "Teemu Kaasinen",
+      "summary": "Project Manager | Digital Workplace at Atea Finland",
+      "location": "Oulu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-packham-879b7453",
+      "name": "Simon Packham",
+      "summary": "Proprietor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-metwaly-aa182654",
+      "name": "Ahmed Metwaly",
+      "summary": "--",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ismo-lauanne-aa021861",
+      "name": "Ismo Lauanne",
+      "summary": "System Manager at MVC Videra",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lassi-hienonen-55409470",
+      "name": "Lassi Hienonen",
+      "summary": "Aluevalmentaja",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-moschner-2075487b",
+      "name": "Robert Moschner",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-morera-a8320385",
+      "name": "Carlos Morera",
+      "summary": "Jubilado",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-arasanz-avila-53448bb1",
+      "name": "Marc Arasanz Avila",
+      "summary": null,
+      "location": "Andorra la Vella"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeroen-dielisse-7588a9b2",
+      "name": "Jeroen Dielisse",
+      "summary": "Senior Maintenance Contract Specialist - Honeywell BUILDING SOLUTIONS",
+      "location": "’s-Hertogenbosch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-codling-9b0822b3",
+      "name": "Dan Codling",
+      "summary": "Operations Director at Media Group",
+      "location": "Telford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-inglis-168468b4",
+      "name": "David Inglis",
+      "summary": null,
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raakel-alimran-37a519100",
+      "name": "Raakel Alimran",
+      "summary": "Lawyer",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/veera-malmi-073742100",
+      "name": "Veera Malmi",
+      "summary": "Chief Legal Counsel at Danske Bank | Family & Inheritance Law",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomi-l%25C3%25A4ms%25C3%25A4-701571108",
+      "name": "Tomi Lämsä",
+      "summary": "Consultant at Gofore",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noemi-lopez-vallejo",
+      "name": "Noemi Lopez",
+      "summary": "Purchase and Logistic specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mari-p%25C3%25B6yt%25C3%25A4kangas-1a0545111",
+      "name": "Mari Saari",
+      "summary": null,
+      "location": "Jyväskylä"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katariina-haimi-5870b6118",
+      "name": "Katariina Haimi",
+      "summary": "Store Service Manager at Musti Group",
+      "location": "Turku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suvi-haanp%25C3%25A4%25C3%25A4-678998149",
+      "name": "Suvi Haanpää",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carys-ball-4b421614a",
+      "name": "Carys Ball",
+      "summary": "HR Professional (CIPD Level 7)",
+      "location": "Whitley Bay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kati-kyckling-40488a156",
+      "name": "Kati Kyckling",
+      "summary": "Partner, Legal at Vestra Private Oy",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allison-ives-119a5b18a",
+      "name": "Allison Ives",
+      "summary": "Customer Success & Operations Leader | Driving Adoption, Retention & Growth at Startup Scale",
+      "location": "Asheville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rose-hollingbery-4732161a1",
+      "name": "Rose Hollingbery",
+      "summary": "Freelance Creative | Immediate Availability | BA Italian and Spanish Graduate with First Class Honours from University of Leeds",
+      "location": "London"
+    }
+  ],
+  "recommendations": [
+    "Dan Maddox\n\nEero is extraordinarily driven to achieve business goals and is willing to go the extra mile to ensure success. Eero initially recruited me to Elisa Videra when he was heading up the UK start up. Since that day I had the pleasure to work with him on a number of large bids/projects. With each and every project, Eero was the key to success, always willing to help and ensure both the customers and Videras expectations were all met. I would not hesitate to recommend him for any position.",
+    "Dan Maddox\n\nEero is extraordinarily driven to achieve business goals and is willing to go the extra mile to ensure success. Eero initially recruited me to Elisa Videra when he was heading up the UK start up. Since that day I had the pleasure to work with him on a number of large bids/projects. With each and every project, Eero was the key to success, always willing to help and ensure both the customers and Videra’s expectations were all met. I would not hesitate to recommend him for any position."
+  ],
+  "activities": [
+    {
+      "title": "BMW made a statement with Absen LED!",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_bmw-made-a-statement-with-absen-led-activity-7454495454198829057-46Sa",
+      "activity_status": null
+    },
+    {
+      "title": "Wow.. what a week. A lot of customer meetings, cool tech and couple of awards for Absen.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_wow-what-a-week-a-lot-of-customer-meetings-activity-7425603197722877952-vVDq",
+      "activity_status": null
+    },
+    {
+      "title": "Nice copy on an Absen screen in Oslo airport.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_nice-copy-on-an-absen-screen-in-oslo-airport-activity-7402832378810847232-Zqky",
+      "activity_status": null
+    },
+    {
+      "title": "Our A series LEDs are suitable for many types of outdoor installations. Flat, curved or angled we’ve got you covered. If you are in Manchester go see…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_our-a-series-leds-are-suitable-for-many-types-activity-7379443025569103873-HJ7p",
+      "activity_status": null
+    },
+    {
+      "title": "Impressive installations using our A25 series.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_impressive-installations-using-our-a25-series-activity-7373960811465179136-Kd9-",
+      "activity_status": null
+    },
+    {
+      "title": "This summer marked the end to my second stint at Elisa Videra. Now looking forward to some summer fun and travel with the family. I will start a new…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_this-summer-marked-the-end-to-my-second-stint-activity-7350838259456835584-5uC2",
+      "activity_status": null
+    },
+    {
+      "title": "Act fast in order to get Ville on your team. He won’t be in the market for long.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_act-fast-in-order-to-get-ville-on-your-team-activity-7350792439873314818-Ls3y",
+      "activity_status": null
+    },
+    {
+      "title": "Very happy to see customer projects come to life. Great effort from the team involved. And thanks to Global Spain for trusting us with this project.…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_very-happy-to-see-customer-projects-come-activity-7285996877781622784-03yE",
+      "activity_status": null
+    },
+    {
+      "title": "Always great to see customer projects come to life. Especially this Puerto Banus installation of LEDs and touchscreen wayfinding kiosks as it is…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_always-great-to-see-customer-projects-come-activity-7144008346113671168-CNfV",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_on-demand-event-series-with-expert-interviews-activity-6878314639445282816-sEhF",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_procountor-ecommerce-visma-activity-6884162681750740993-8Ljk",
+      "activity_status": null
+    },
+    {
+      "title": "Come join the ranks in Texas!!",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_open-position-sales-manager-dallas-tx-activity-6892080692826886144-5LgY",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_hiring-activity-6915313471827906561-z1-w",
+      "activity_status": null
+    },
+    {
+      "title": "Join us for a interesting session!",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_free-online-event-5th-may-2022-optimising-activity-6919893860793921536-fc4A",
+      "activity_status": null
+    },
+    {
+      "title": "Tästä viestännän osaajalle hyvä paikka. Siskoni kanssa on mukava työkennellä.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_t%C3%A4st%C3%A4-viest%C3%A4nn%C3%A4n-osaajalle-hyv%C3%A4-paikka-siskoni-activity-6920312048719405056-GmnV",
+      "activity_status": null
+    },
+    {
+      "title": "Hear hear all friends in the UK!!! Now it’s time to upgrade your G&T game to best in classs finnish gin and tonic. Order your sweet nectar from Miika…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_kyr%C3%B6-bottle-shop-activity-6899515219979448320-ANEZ",
+      "activity_status": null
+    },
+    {
+      "title": "A great project for a large arena in Finland. Elisa provides the connectivity services and we the monitoring with our hummingbird monitoring tool to…",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_a-great-project-for-a-large-arena-in-finland-activity-6803364227684802560-nnPO",
+      "activity_status": null
+    },
+    {
+      "title": "Ikonin päivityksen toteuttaa Elisa Videra. Olemme ylpeitä saadessamme toimittaa ja ylläpitää tämän LED toteutuksen.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_ikonin-p%C3%A4ivityksen-toteuttaa-elisa-videra-activity-6732591815708459008-ndqH",
+      "activity_status": null
+    },
+    {
+      "title": "It is up and running. P6 LED looks amazing on a 100+ sqm screen! Big thanks to the customer, our team and partners.",
+      "link": "https://www.linkedin.com/posts/eero-rask-30820312_it-is-up-and-running-p6-led-looks-amazing-activity-6734795325891977217-E_Cv",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-02T00:00:00Z"
+  }
+}

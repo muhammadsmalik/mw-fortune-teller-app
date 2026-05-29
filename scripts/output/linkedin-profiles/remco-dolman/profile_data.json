@@ -1,0 +1,718 @@
+{
+  "public_identifier": "remco-dolman",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/30b6e74a44d0349389f50c27c4d01ec4",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C5616AQEYEoBVzaacwA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1642515065063?e=2147483647&v=beta&t=aN-YrDC5Gy4bEKb9V0Be6NGKLNUw8vCRwT5YEWetQus",
+  "first_name": "Remco",
+  "last_name": "Dolman",
+  "full_name": "Remco Dolman",
+  "follower_count": 1374,
+  "occupation": "CEO and Founder at Spotzi",
+  "headline": "CEO at Spotzi",
+  "summary": "We empower Out-Of-Home and Retail with data-driven planning and measurement solutions. For OOH, we provide near real-time measurement and attribution tools to prove campaign effectiveness. For Retail, we help brands find the perfect store location and track performance—both their own and their competitors’.",
+  "location_str": "Tholen, Zeeland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Tholen",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "Spotzi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/spotzi",
+      "company_facebook_profile_url": null,
+      "title": "CEO and Founder",
+      "description": "My main focus is managing the team and establish partner relationships. I take pride in helping our customers to be successfull with the help of our GeoMarketing solution.",
+      "location": "Canada and the Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b9d8ce2d05bb99cc7a5499a0132e857e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": null,
+      "company": "Dolman BV",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Owner",
+      "description": "Holding company of Spotzi",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "company": "Holland House Canada",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hollandhousecanada",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": "Toronto, Ontario, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bd84539faace29ad203c0aa7363f8c8a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "CLARC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": "During my time at CLARC I managed a team of 5 Risk Consultants. In 2006 I decided to start my own Risk Consultancy company because I am an entrepreneur by heart.",
+      "location": "Rotterdam",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2000
+      },
+      "company": "Boskalis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/boskalis",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": "I had a great time working at Infrastructural Projects in the Netherlands, Germany, Ivory Coast and Malaysia. I learned to be fully self supportive which makes me successful now.",
+      "location": "Rotterdam, Ivory Coast, Malaysia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/98b6a311f9190046015b485856baca3f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": "Business/Managerial Economics",
+      "degree_name": "Bachelor's degree",
+      "school": "Hogeschool Rotterdam",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-rotterdam",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Civil Engineering",
+      "degree_name": "Bachelor",
+      "school": "Hogeschool Rotterdam",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-rotterdam",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/D560BAQHG3FXfXj0mAg/company-logo_100_100/company-logo_100_100/0/1719257742154/hogeschool_rotterdam_logo?e=2147483647&v=beta&t=_Ya8AS0xlrozTHc6O2ruV_xzqVISLbpO2zNy4vhrTCk",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Bachelor",
+      "degree_name": null,
+      "school": "Hogeschool Rotterdam",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/D560BAQHG3FXfXj0mAg/company-logo_100_100/company-logo_100_100/0/1719257742154/hogeschool_rotterdam_logo?e=2147483647&v=beta&t=_Ya8AS0xlrozTHc6O2ruV_xzqVISLbpO2zNy4vhrTCk",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": "Business/Managerial Economics",
+      "degree_name": "Bachelor's degree",
+      "school": "Rotterdam University of Applied Sciences",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-rotterdam/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Civil Engineering",
+      "degree_name": "Bachelor",
+      "school": "Rotterdam University of Applied Sciences",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-rotterdam/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "German",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Dutch",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1392,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/stephanesavoure",
+      "name": "Stéphane Savouré",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dougpelton",
+      "name": "Doug Pelton",
+      "summary": "Priologic Software - Canadian Software Developers",
+      "location": "Victoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petersandiford",
+      "name": "Peter Sandiford",
+      "summary": "Co-Founder at ZeroTek",
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yaronbazaz",
+      "name": "Yaron Bazaz",
+      "summary": "Tech Entrepreneur",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alsomji",
+      "name": "Al Karim Somji",
+      "summary": "Board Member, Zafin",
+      "location": "West Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasoncottrell",
+      "name": "Jason Cottrell",
+      "summary": "CEO @ Orium | Composable.com | Composable Commerce",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/remygendron",
+      "name": "Remy Gendron",
+      "summary": "Founder and Board Director at INGENO",
+      "location": "Québec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nkassam",
+      "name": "Nadeem Kassam",
+      "summary": "Dental Technology Entrepreneur. Founder & CEO of Connect the Doc. Helping Dentists and Orthodontist 10x Growth w/ Minimum Staff Effort.",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nabeilalazzam",
+      "name": "Nabeil Alazzam",
+      "summary": "CEO at Forma.ai | Revolutionizing sales compensation",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trentjohnsen",
+      "name": "Trent Johnsen",
+      "summary": "“I'd rather be a pirate than join the navy” - Steve Jobs",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dsouzajoseph",
+      "name": "Joseph D'Souza",
+      "summary": "CEO & Founder at ProNavigator | Insurance Knowledge Platform",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clydebeattie",
+      "name": "Clyde Beattie",
+      "summary": "Entrepreneur, Director & CEO | Strategy, Leadership",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dougmackay01",
+      "name": "Doug MacKay",
+      "summary": "Senior Leader, IT, Digital",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/visweswaran",
+      "name": "Visweswaran Vish R",
+      "summary": "CEO & Co-Founder @FirstQFM AB Sweden. \nFounder CEO at CogniFrame and Logistrics.",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonsuriano",
+      "name": "Jason Suriano",
+      "summary": null,
+      "location": "Edmonton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pasavoie",
+      "name": "Paul-André Savoie",
+      "summary": null,
+      "location": "Laval"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidbrabrook",
+      "name": "David Brabrook",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/devankoshal",
+      "name": "Devan Koshal",
+      "summary": "Working on something new",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dmitrygritsenko",
+      "name": "Dmytro Hrytsenko",
+      "summary": "Founder and CEO of Master of Code Global – Premium partner for web, mobile, and conversational experiences empowered by AI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/turgaybirand",
+      "name": "Turgay Birand",
+      "summary": null,
+      "location": "Vancouver"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Leaving New York City with a full heart. Behind me is Pier 60 — the spot of an incredible DPAA #VideoEverywhereSummit. Huge thanks to Vistar Media…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_videoeverywheresummit-activity-7384297469917990913-d8Qh",
+      "activity_status": null
+    },
+    {
+      "title": "I missed the first 17 years, but the last 8 years have been momentous!",
+      "link": "https://www.linkedin.com/posts/matthijs-kooijman-44314b38_i-missed-the-first-17-years-but-the-last-activity-7379192632536735744-yPmA",
+      "activity_status": null
+    },
+    {
+      "title": "Touched down in Atlanta! A chat a few years ago with Chris Cowlbeck (who supports 300 independent billboard operators in the US) turned into a…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_touched-down-in-atlanta-a-chat-a-few-years-activity-7381360030723440640-8F_3",
+      "activity_status": null
+    },
+    {
+      "title": "Freedom Mobile didn’t just show up for the iPhone 17 Pro launch. They owned the moment. With a full digital takeover at Yonge and Dundas, they put…",
+      "link": "https://www.linkedin.com/posts/alisatchu_freedommobile-iphone17pro-brandedcities-activity-7379280644767481857-fpDa",
+      "activity_status": null
+    },
+    {
+      "title": "FANCAP enters the football industry We’re excited to announce FANCAP’s official entry into the international football industry as an M&A advisor, as…",
+      "link": "https://www.linkedin.com/posts/fancap-inc_press-release-fancap-activity-7371125826542686208-51KK",
+      "activity_status": null
+    },
+    {
+      "title": "Upon boarding the aircraft, I found this lovely card on my seat. Thank you KLM Royal Dutch Airlines!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_upon-boarding-the-aircraft-i-found-this-activity-7377434115970863104-dBQO",
+      "activity_status": null
+    },
+    {
+      "title": "Just spent 4 days in my second home: Toronto. 10 years ago my wife and I moved to Canada. Little did we know that was actually the start of our…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_just-spent-4-days-in-my-second-home-toronto-activity-7377180891078467584-StE4",
+      "activity_status": null
+    },
+    {
+      "title": "I started my career in OOH in March 1993. Industry colleague and friend Ann McDonagh had joined Urban Outdoor Trans Ad as their Research Manager.…",
+      "link": "https://www.linkedin.com/posts/bob-leroux-b792b29_i-started-my-career-in-ooh-in-march-1993-activity-7370602012754808832--oLO",
+      "activity_status": null
+    },
+    {
+      "title": "Not your average workday at COMMB… we celebrated Bring a Stick to Work Day! From hockey sticks to wooden sticks, everyone joined in on the fun. But…",
+      "link": "https://www.linkedin.com/posts/commb_workculture-fun-activity-7376313188629450752-4s3I",
+      "activity_status": null
+    },
+    {
+      "title": "Next month, I’ll wrap up my interim role as CCO at Tellet. Over the past six months, we’ve tripled monthly revenue, tightened up sales operations…",
+      "link": "https://www.linkedin.com/posts/djdokman_next-month-ill-wrap-up-my-interim-role-activity-7375888413046018048-3n7Z",
+      "activity_status": null
+    },
+    {
+      "title": "First stop this fall: Cologne in Germany @DMEXCO - Digital Marketing Expo & Conference. Great to meet up with our global customers.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_first-stop-this-fall-cologne-in-germany-activity-7374031488352440320-Koga",
+      "activity_status": null
+    },
+    {
+      "title": "We threw away our old platform! In the middle of our scale-up phase, that decision scared the hell out of me. But it had to be done. If Spotzi was…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_spotzi-geomarketing-locationintelligence-activity-7361414278517579776-FvRM",
+      "activity_status": null
+    },
+    {
+      "title": "Now loading: Nintendo Switch 2. Union Station just became a hotspot for Canada’s gaming fans, with Nintendo making a bold splash across one of the…",
+      "link": "https://www.linkedin.com/posts/alisatchu_brandedcities-nintendoswitch2-oohmarketing-activity-7346592641788035072-qzXg",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting Milestone! I’m proud to share that I have officially completed my Master’s in Supply Chain Management at Breda University of Applied…",
+      "link": "https://nl.linkedin.com/posts/luuk-bun-8211a41a7_exciting-milestone-im-proud-to-share-that-activity-7346527818278723584-_mls",
+      "activity_status": null
+    },
+    {
+      "title": "Halftime Update 🚀 Thrilled to lead this incredible delegation with AHK Kanada of 6 German Cybersecurity companies exploring the Canadian…",
+      "link": "https://www.linkedin.com/posts/patricia-trinkaus_toronto-cybersecurity-cyberrange-activity-7336182188654092289-Fr_E",
+      "activity_status": null
+    },
+    {
+      "title": "Just arrived in Mexico City for the annual World Out of Home Congress! 🇲🇽 Last year in Hong Kong, I left inspired—and that spark led to building…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_woomexicocity-ooh-outofhome-activity-7336113098858156034-egDm",
+      "activity_status": null
+    },
+    {
+      "title": "Still Buzzing from the COMMB Awards 2025! Proud to have accepted these awards on behalf of our incredible partners and clients—including two…",
+      "link": "https://www.linkedin.com/posts/alisatchu_commbawards-oohexcellence-digitalooh-activity-7331374053259186176-ofyC",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news from DPAA Global members Vistar Media and Spotzi! The two companies have announced a strategic global data partnership that will…",
+      "link": "https://www.linkedin.com/posts/dpaa_vistar-media-announces-new-global-data-partnership-activity-7331338024670167040-j-kJ",
+      "activity_status": null
+    },
+    {
+      "title": "The DPAA organized an extremely insightful event in London, UK today. When brands use OOH it increases there overall sales by 25%. That’s what we see…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_the-dpaa-organized-an-extremely-insightful-activity-7396555789584277504-53se",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 More Big News! UB Media Acquires Bell Media’s Lifestyle Network 💥 We’re thrilled to announce that UB Media has acquired Bell Media’s Lifestyle…",
+      "link": "https://www.linkedin.com/posts/ubmediainc_ubmedia-ubtv-acquisition-activity-7393696763758653441-VKkL",
+      "activity_status": null
+    },
+    {
+      "title": "Before leaving Seoul, I visited the Demilitarized Zone between North and South Korea. Hearing the stories and realizing the two countries are…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_before-leaving-seoul-i-visited-the-demilitarized-activity-7392954461343674368-IaDp",
+      "activity_status": null
+    },
+    {
+      "title": "Another adventure awaits. This time I landed in Seoul, South Korea. Together with Mobilytics (also Canadian) we are promoting powerful audience…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_woo-ooh-adtech-activity-7391648554617839616-W5C-",
+      "activity_status": null
+    },
+    {
+      "title": "Clients sometimes turn into good friends. That’s what I love most of my travels. I was very fortunate to visit Chris Cowlbeck’s (IBO - Independent…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_clients-sometimes-turn-into-good-friends-activity-7459255552112721921-smoy",
+      "activity_status": null
+    },
+    {
+      "title": "Just landed in Toronto and getting ready to present at the Vividata conference tomorrow at the Omni King Edward Hotel. Looking forward to joining…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_just-landed-in-toronto-and-getting-ready-activity-7457443272227962880-NYLD",
+      "activity_status": null
+    },
+    {
+      "title": "Touchdown: New Orleans for the IBO - Independent Billboard Operators conference. This conference is not only about Billboards but also about meeting…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ibousa-ooh-activity-7449587418300710913-wQzx",
+      "activity_status": null
+    },
+    {
+      "title": "🇬🇧 What a special experience! Together with DigitalAudience, I have the privilege of presenting to clients at the Dutch Embassy in London. An…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_spotzi-digitalaudience-london-activity-7447610636546691072-LzFn",
+      "activity_status": null
+    },
+    {
+      "title": "Your next customers aren’t just “online audiences”. They’re on the move. At Spotzi, we spend a lot of time thinking about how the physical world…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ooh-programmaticdooh-audiencetargeting-activity-7439936154621276160-0ENj",
+      "activity_status": null
+    },
+    {
+      "title": "During all my flights last year, I watched thousands of people passing by. It hit me: where people are often says more about their mindset than any…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_the-real-world-meets-the-digital-world-with-activity-7436366878173835266--fFW",
+      "activity_status": null
+    },
+    {
+      "title": "I am proud and excited to announce Spotzi's global data partnership with Vistar Media, part of T-Mobile Advertising Solutions. Together, we’re making…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_vistar-media-announces-new-global-data-partnership-activity-7330570793510129664-7bQX",
+      "activity_status": null
+    },
+    {
+      "title": "Great to be back in Toronto for the COMMB Awards — the premier celebration of the best in Canadian Out-of-Home advertising! Proud to be part of an…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_great-to-be-back-in-toronto-for-the-commb-activity-7328867615236321282-tj2e",
+      "activity_status": null
+    },
+    {
+      "title": "Hi Boston! We kicked off @YourOAAA’s 2025 OOH Media Conference about Measurement in OOH. Great turn out and great to see everybody! #OOH2025…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ooh2025-geomarketing-activity-7325242118770225152-F2tA",
+      "activity_status": null
+    },
+    {
+      "title": "Next stop: Boston! I’m honored to be a featured speaker at the OAAA’s first-ever Independents Summit, kicking off on May 5th. Proud to be part of…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ooh2025-geomarketing-activity-7315623351916392449-rQAF",
+      "activity_status": null
+    },
+    {
+      "title": "I travel a lot, and while I love it, I’m also aware of its impact on my CO2 footprint. That’s why I try to be mindful of my energy use — like…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_i-travel-a-lot-and-while-i-love-it-im-activity-7310948857050288129-7smg",
+      "activity_status": null
+    },
+    {
+      "title": "Goodbye Rio! Goodbye friends: Chris Cowlbeck, Mike Donaldson, Hussein Khader, Casey Binkley. Thank you Central de Outdoor, Guilherme Meyer, Fabi…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_goodbye-rio-goodbye-friends-chris-cowlbeck-activity-7309357877629014018-nLXl",
+      "activity_status": null
+    },
+    {
+      "title": "I travel a lot for work and meet great people all the time. But I'm having the best time of my life right now, traveling with my daughter! #ski…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ski-verbier-activity-7302354718498967552-K_7v",
+      "activity_status": null
+    },
+    {
+      "title": "Landed in Rio de Janeiro this time! Great to meet new people and learn more about the Outdoor Advertising industry in Brazil during the 34th…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ooh-geomarketing-activity-7308088428217192448-wL4G",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be at Rampup 2025 in San Francisco to catch up with clients and learn more about the data driven marketing world we live in today!…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_datadriven-ai-liveramp-activity-7300545596560470019-B3pE",
+      "activity_status": null
+    },
+    {
+      "title": "Hi All-- I'll be at RampUp 2025 this month. Please DM me if you would like to meet! #rampup2025 #geomarketing",
+      "link": "https://www.linkedin.com/posts/remco-dolman_rampup2025-geomarketing-activity-7298468473880346624-Hfl9",
+      "activity_status": null
+    },
+    {
+      "title": "Our GeoMarketing tool is built on thousands of data points, empowering our customers to make the most informed decisions. But sometimes, it’s…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_gemeenten-breiden-betaald-parkeren-in-hoog-activity-7282384260353671168-iy3k",
+      "activity_status": null
+    },
+    {
+      "title": "Great to be at the DPAA in New York! Looking forward to meet all the Out-Of-Home professionals at the DPAA Global Summit.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_great-to-be-at-the-dpaa-in-new-york-looking-activity-7251905834543190017-IUwo",
+      "activity_status": null
+    },
+    {
+      "title": "On my way to Dallas - Forth Worth. I am excited to be speaking at the IBO Fall Conference in Fort Worth, TX, on October 10th! It’s a great…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_iboconference-outofhome-geomarketing-activity-7249425965213216772-ujUP",
+      "activity_status": null
+    },
+    {
+      "title": "Had a fantastic time at the event and gained valuable insights into the UK OOH market. DPAA events never disappoint!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_had-a-fantastic-time-at-the-event-and-gained-activity-7242447584982667267-zbLA",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to unveil our completely redesigned GeoMarketing platform at #ADAI2024 in Toronto! Now powered by AI, making it easier than ever to discover…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_adai2024-activity-7244428985168707585-rkGs",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome Hong Kong. Ready for the World Out Of Home congress!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_welcome-hong-kong-ready-for-the-world-out-activity-7204070667741249536-90ie",
+      "activity_status": null
+    },
+    {
+      "title": "Spotzi is proud to anounce a partnership with OOH Info LLC. Together we launched an integrated mapping solution for IBO USA members. This means…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_spotzi-metricooh-activity-7178482340963225601-atiL",
+      "activity_status": null
+    },
+    {
+      "title": "Experiencing great moments at the OAAA media conference in San Diego.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_experiencing-great-moments-at-the-oaaa-media-activity-7191103991789834241-jh5t",
+      "activity_status": null
+    },
+    {
+      "title": "GfK - An NIQ Company data in Spotzi helps you target the right audience.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_gfk-an-niq-company-data-in-spotzi-helps-activity-7184132993970511872-mRMG",
+      "activity_status": null
+    },
+    {
+      "title": "Sad to already leave New York. Thank you DPAA for the great event yesterday. Always learning new things about the Out-Of-Home industry through your…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_sad-to-already-leave-new-york-thank-you-activity-7174066529263603715-tP3W",
+      "activity_status": null
+    },
+    {
+      "title": "Impressed by the quality of the IBO Spring Conference. Great to be part of this!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_impressed-by-the-quality-of-the-ibo-spring-activity-7181719547471646720-cFPA",
+      "activity_status": null
+    },
+    {
+      "title": "On my way to Louisville, Kentucky to present at the IBO Spring Conference. Looking forward to it!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_on-my-way-to-louisville-kentucky-to-present-activity-7180867682882211841-Oo1K",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Holidays!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_happy-holidays-activity-7143905281649893376-vWvW",
+      "activity_status": null
+    },
+    {
+      "title": "As a board member of Holland House I was proud to see how almost 120 business and non business professionals from all over the world connected last…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_as-a-board-member-of-holland-house-i-was-activity-7132057706219102208-m0Yo",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you network for sharing our Sales Rep vacancy. The response was amazing. Posting another job. Thank you network again!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_thank-you-network-for-sharing-our-sales-rep-activity-7129650100250791936-Rsja",
+      "activity_status": null
+    },
+    {
+      "title": "We are looking for a sales rep that likes data and lives in or around Toronto.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_we-are-looking-for-a-sales-rep-that-likes-activity-7129139642645262336-LnGz",
+      "activity_status": null
+    },
+    {
+      "title": "Register for this inspiring event! Spotzi will talk about the importance of connecting AI derived data to planning tools.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_register-for-this-inspiring-event-spotzi-activity-7123042528949391360-FtEg",
+      "activity_status": null
+    },
+    {
+      "title": "Ready for the DPAA summit at Pier 60 in New York tomorrow. Many thanks for the team of DPAA for this great spot!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ready-for-the-dpaa-summit-at-pier-60-in-new-activity-7117282855595974656-S6Eh",
+      "activity_status": null
+    },
+    {
+      "title": "We are thrilled to announce our sponsorship of the DPAA Global Summit in New York, the premier event for the digital out-of-home advertising…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_we-are-thrilled-to-announce-our-sponsorship-activity-7112719063050502144-Xm8a",
+      "activity_status": null
+    },
+    {
+      "title": "Working on the last details of our new office. Ready to move September 4th. We are looking forward to more space to grow.",
+      "link": "https://www.linkedin.com/posts/remco-dolman_working-on-the-last-details-of-our-new-office-activity-7102278123227856896-sSU1",
+      "activity_status": null
+    },
+    {
+      "title": "Great company. Awesome client to work for. So apply!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_ready-for-the-world-out-of-home-event-that-activity-6935262418222641152-I6EZ",
+      "activity_status": null
+    },
+    {
+      "title": "This night I turned 50 at 30,000 feet. The flightcrew really did their best to make it special. Thank you KLM Royal Dutch Airlines !!",
+      "link": "https://www.linkedin.com/posts/remco-dolman_this-night-i-turned-50-at-30000-feet-the-activity-7068071663816343552-RXgq",
+      "activity_status": null
+    },
+    {
+      "title": "We proudly kicked off this new year with a fresh new start! Check out our brand new website: spotzi.com and our innovative geomarketing tools which…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_datadrivenmarketing-activity-6890017196563681280-0Ybj",
+      "activity_status": null
+    },
+    {
+      "title": "We hebben weer ruimte voor 2 nieuwe collega's. Een system engineer die de groei van Spotzi kan faciliteren en een front-end developer die onze…",
+      "link": "https://www.linkedin.com/posts/remco-dolman_vacatures-activity-6491604738709213184-JJEO",
+      "activity_status": null
+    },
+    {
+      "title": "Wij zijn voor ons kantoor in Nederland op zoek naar Data-Analisten. Kom werken voor een sterk groeiend internationaal bedrijf! https://lnkd.in/enujt7j",
+      "link": "https://www.linkedin.com/posts/remco-dolman_vacatures-activity-6529298293757927424-iYsJ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/remco-dolman_live-geospatial-world-forum-2019-remco-activity-6519220734139600896-z0XH",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [
+    {
+      "title": "Is open data really that open?",
+      "link": "https://www.linkedin.com/pulse/open-data-really-remco-dolman",
+      "published_date": null,
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQGKuzUp6DjDng/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520179809751?e=2147483647&v=beta&t=o7Bfr4w0YXB4TgQQRSp_OIz82ms0CfJRJVVGEHdvF2o"
+    },
+    {
+      "title": "Mapping for Dummies.",
+      "link": "https://www.linkedin.com/pulse/big-data-solutions-dummies-remco-dolman",
+      "published_date": null,
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQGNNCwbWlATaA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520131933792?e=2147483647&v=beta&t=rGZ1xISj_bL1Gtj6m-sTJ6kCan-VDYpRRvjpliCLkdA"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-19T00:00:00Z"
+  }
+}

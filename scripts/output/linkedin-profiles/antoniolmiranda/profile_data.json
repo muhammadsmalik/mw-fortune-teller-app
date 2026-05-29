@@ -1,0 +1,270 @@
+{
+  "public_identifier": "antoniolmiranda",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/7aac072465e0b4653dafbbfea5c3d71a",
+  "background_cover_image_url": null,
+  "first_name": "Antonio",
+  "last_name": "Miranda",
+  "full_name": "Antonio Miranda",
+  "follower_count": 18,
+  "occupation": "Marketing Assistant at Grupo Mundo Perú",
+  "headline": "Digital Marketing Strategy | Content Strategy & Brand Communication | Growth & Brand Positioning",
+  "summary": "Marketing and communications professional focused on digital marketing, content strategy,…",
+  "location_str": "Peru",
+  "country": "PE",
+  "country_full_name": "Peru",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Grupo Mundo Perú",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupomundope",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Assistant",
+      "description": null,
+      "location": "Peru",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3012167da691f72f55b189cd8ab6c504"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "World Vision Perú",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/worldvisionperu",
+      "company_facebook_profile_url": null,
+      "title": "Area Operator",
+      "description": null,
+      "location": "Trujillo, Departamento de la Libertad, Perú",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c78d3f83c5c8e378e89838f79e100d52"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "field_of_study": "Digital Marketing",
+      "degree_name": "Master's degree",
+      "school": "EUDE Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/eude-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eaa0b3ff4671a41781a9088246fe21c4",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Comunicación y publicidad",
+      "degree_name": "Bachelor",
+      "school": "Universidad Privada del Norte",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-privada-del-norte",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4189d2cd127dddaa75089ce82ab41b32",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "title": "Voluntario",
+      "cause": "Derechos civiles y acción social",
+      "company": "World Vision Perú",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 19,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/s71412808",
+      "name": "Long Christopher Stive V.",
+      "summary": "FullStack Developer| .Net, .Net Core & Java | TSQL & PSQL | API REST, Microservicios & WebServices",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/suemiasto",
+      "name": "Suemi Asto Cornejo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielretamozo",
+      "name": "Daniel Renee Retamozo Ramos",
+      "summary": "Mechatronics Engineering",
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monicapizarro",
+      "name": "Mónica Pizarro Diaz",
+      "summary": "Abogada laboralista - Socia de Echecopar | Derecho Laboral | Migraciones | Sindicatos | Diversidad e Inclusión",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sylviavitormathey",
+      "name": "Sylvia Vitor Mathey",
+      "summary": "Egresada en Ciencias de la Comunicación y Publicidad | Conocimiento en análisis de campañas publicitarias | Gestión en redes sociales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nuria-garzon-52381120b",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25c3%25a9-luis-calderon-gonzales-361719119",
+      "name": "José Luis Calderon Gonzales",
+      "summary": "Filmmaker / Editor/Postproductor / 3D Maker",
+      "location": "San Martin De Porres"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-andrea-montoya-alcalde-8903a3125",
+      "name": "Camila Andrea Montoya Alcalde",
+      "summary": "Estudiante en Universidad Privada de Norte",
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jhonny-vergara-galarza-295b59138",
+      "name": "jhonny Vergara Galarza",
+      "summary": "ADMINISTRADOR",
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hilari-xiomara-mari%25c3%25b1o-lopez-783a90170",
+      "name": "Hilari Xiomara Mariño Lopez",
+      "summary": "Estudiante en Universidad Privada del Norte",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-sebastian-soplin-morey-ba2b75180",
+      "name": "Johan Sebastian Soplin Morey",
+      "summary": "Br. Periodismo l Creador de contenidos l Gestor de Redes Sociales l Redactor digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cecilia-acosta-249129181",
+      "name": "Cecilia Acosta",
+      "summary": null,
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-aar%25C3%25B3n-c%25C3%25B3rdova-p%25C3%25A9rez-3170441a5",
+      "name": "José Aarón Córdova Pérez",
+      "summary": "Comunicador Audiovisual",
+      "location": "Trujillo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/milagros-matos-paira",
+      "name": "Milagros Matos Paira",
+      "summary": "Estudiante en Universidad Privada del Norte",
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-obregon-8335801ab",
+      "name": "frank Obregon",
+      "summary": "Fue a Universidad Privada del Norte",
+      "location": "Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juancuritomay",
+      "name": "Juan Carlos Curitomay Cueva",
+      "summary": "Ingeniero Civil || Gestión de Proyectos || BIM Designer || PMO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-mitsuo-romero-yamasato-717306200",
+      "name": "Michael Mitsuo Romero Yamasato",
+      "summary": "Estudiante en Universidad Privada del Norte",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arian-tolentino-063bb220a",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-carbajal-856a93217",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/greeys-suarez-435009219",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiola-ilave-sarasi-b467bb221",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-23T00:00:00Z"
+  }
+}

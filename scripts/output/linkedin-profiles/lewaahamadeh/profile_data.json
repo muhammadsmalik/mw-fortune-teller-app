@@ -1,0 +1,725 @@
+{
+  "public_identifier": "lewaahamadeh",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Lewaa",
+  "last_name": "Hamadeh",
+  "full_name": "Lewaa Hamadeh",
+  "follower_count": 1167,
+  "occupation": "Product Lead - OOH Audience Measurement - MENA at Ipsos",
+  "headline": "Product Lead - OOH Audience Measurement - IPSOS MENA | CTO & Co-Founder - Seventh Decimal",
+  "summary": null,
+  "location_str": "United Arab Emirates",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Product Lead - OOH Audience Measurement - MENA",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Seventh Decimal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/seventh-decimal",
+      "company_facebook_profile_url": null,
+      "title": "CTO & Co-Founder",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a547159e54e06a733de5e0601a876495"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2020
+      },
+      "company": "Maddict",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/maddict",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Technology",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8d726dc215e82c7af37e8e11c18fca"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2018
+      },
+      "company": "Maddict",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/maddict",
+      "company_facebook_profile_url": null,
+      "title": "Technology Solutions Manager",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8d726dc215e82c7af37e8e11c18fca"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2017
+      },
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
+      "company_facebook_profile_url": null,
+      "title": "Senior Network Engineer",
+      "description": "Participated in, led and delivered several remote and on-site customer projects and solutions related to GSM and LTE RAN Design and Optimization that included long-term network optimization and initial tuning services, short-term add-on sales projects, feature introduction services (pre-sales), network audits and LTE network design.\nUtilized a consultative sales approach to attend to customer needs and provide features, equipment and bundled solutions while delivering on projects.",
+      "location": "Lebanon",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5ae69b8b5c6eba2889e6dc50b09886e3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2011
+      },
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
+      "company_facebook_profile_url": null,
+      "title": "2G/ 3G Performance Monitoring Consultant",
+      "description": "Operated within Etisalat Egypt NOC as a front office performance monitoring engineer. Monitored GSM, WCDMA, and Core network KPIs and produced and analyzed reports for both management and engineering entities.",
+      "location": "Cairo, Egypt",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5ae69b8b5c6eba2889e6dc50b09886e3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "Orascom Telecom",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/orascom-telecom",
+      "company_facebook_profile_url": null,
+      "title": "RAN Quality of Service Engineer",
+      "description": "Radio Access Network Quality of Service Engineer with hands on experience with Ericsson BSS/ NSS and Nokia Siemens Networks BSS nodes. Lead and delivered several projects aimed at optimizing the performance of both voice and data services, and troubleshooting key reoccurring events on the network.",
+      "location": "Beirut, Lebanon",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/26ceb0f96ce1dde165a8e8c4b8eca9f9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "Alfa",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Trainee Engineer in the Radio Engineering Department",
+      "description": "Performed mapping of KPI formulas between NSN’s KPIs and Ericsson’s KPIs as part of the 2G swap project in Beirut area.",
+      "location": "Beirut, Lebanon",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2007
+      },
+      "company": "Cable One",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Trainee Engineer",
+      "description": "Installed and configured ADSL equipment (BRAS, DSLAM, Routers) in different central offices in Lebanon as part of the ADSL implementation project. \nAcquired a technical knowledge in configuring and troubleshooting Cisco and Huawei routers and switches.",
+      "location": "Beirut, Lebanon",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2024
+      },
+      "field_of_study": null,
+      "degree_name": "Professional Certificate Program in Product Management",
+      "school": "MIT Professional Education",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/mit-professional-education",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/839024628ec27461e0b7d9c61619bce5",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Computer and Communications Engineering- CCE",
+      "degree_name": "BE",
+      "school": "Notre Dame University - Louaize (NDU)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/notre-dame-university---louaize-ndu-",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/85d877a1192716046d1a3e6ae3fee50f",
+      "grade": "Graduated with High Distinction",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    },
+    {
+      "name": "Arabic",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Top Achiever Recognition Award",
+      "issuer": "Ericsson",
+      "issued_on": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Consulting Campus",
+      "number": null
+    },
+    {
+      "name": "GSM BSS G11 BSC EVO Controller 8100 operation and Configuration",
+      "number": null
+    },
+    {
+      "name": "GSM RAN Signaling",
+      "number": null
+    },
+    {
+      "name": "GSM Radio Network Features",
+      "number": null
+    },
+    {
+      "name": "Harvard Business Publishing: Quantitative Methods: An Introductory Online Course (CL_v2)",
+      "number": null
+    },
+    {
+      "name": "LTE L13 Initial Tuning",
+      "number": null
+    },
+    {
+      "name": "LTE L13 Protocols and Procedures",
+      "number": null
+    },
+    {
+      "name": "LTE L13 Radio Network Design",
+      "number": null
+    },
+    {
+      "name": "LTE L13 Radio Network Functionalities",
+      "number": null
+    },
+    {
+      "name": "Leadership for Professionals (LFP)",
+      "number": null
+    },
+    {
+      "name": "MIMO in WCDMA and LTE",
+      "number": null
+    },
+    {
+      "name": "VoLTE e2e Realization and RAN Functionality",
+      "number": null
+    },
+    {
+      "name": "WCDMA RAN W13 Functionality",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Asiacell- Network Modernization Project",
+      "description": "•GSM Technical Team Lead: Lead a team of 25 delivering RAN swap and optimization activities for Asiacell, Iraq. •Setup process for drive test teams for performing SSV tests and Cluster drive tests for acceptance. Reduced the time needed to finalize an SSV from 4 days to 1 day. •Negotiated and finalized the acceptance criteria with the customer. •Negotiated and finalized KPI formulas and optimization targets with the customer. •Optimized the interface with the remote team delivering from India to enhance the quality of the output and reduce the time to customer. •Setup processes for the local team to follow-up on the swapped sites and minimize the issues that might delay the acceptance. •Provided centralized monitoring reports on the different network levels to be used by the local team and the customer to keep track of triggering events requiring actions. •Tuned the organization of the local and remote teams to have a balanced distribution of activities.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2013
+      },
+      "title": "Alfa- 2G RAN Optimization Project",
+      "description": "•2G Optimization Technical Team Lead: Lead a team of 5 engineers to deliver RAN optimization services to Alfa- Lebanon. •Ensured team delivery against agreed service description and meeting of project closing targets. •Performed a high level network audit and introduced a list of quick-wins and tuning activities to improve the network and enhance customer satisfaction. •Identified and introduced new features targeting the Paging and Handover performance in the network that lead for added sales opportunities. •Initiated several activities to target and resolve high SDCCH Drop Rate and poor Paging Success Rate issues that were considered major blocking points for the customer in the network. •Increased the team’s productivity by introducing dedicated network monitoring engineers to handle routine activities thus giving more time for optimization engineers to handle more challenging tasks.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2013
+      },
+      "title": "Tishknet Internet Services- TDD LTE RAN Design",
+      "description": "•Prepared a detailed radio solution for TDD LTE deployment for Tishknet, an ISP in Iraq moving to LTE. •Provided simulated RSRP and Downlink Data Bitrate plots based on an optimized and well-tuned traffic and propagation models. •Provided an optimized solution in terms of site distribution, antenna and site equipment and needed radio features to achieve continuous coverage and acceptable Cell-Edge bitrates. •Performed control channel dimensioning and set cell design data parameters baseline.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2013
+      },
+      "title": "Mobily- VAMOS Trial- Jeddah, KSA",
+      "description": "•Performed a trial for VAMOS, Ericsson’s implementation of 3GPP Rel. 9 VAMOS aimed at increasing the number of speech channels that can be served by one TRX. •Activated Packet Abis over TDM as a pre-requisite for introducing VAMOS. •Proposed and delivered the VAMOS Successful Feature Introduction (SFI) service to obtain a maximum capacity gain. •Proposed, sold and implemented the TAC Blacklisting feature based on the customer’s need.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "title": "STC- Optimization Taskforce- Riyadh, KSA",
+      "description": "• Performed a detailed network audit as part of the “Tiger” team supporting the Managed Services Optimization team in Riyadh. • Analyzed DCR logs, identified detailed drop reasons on the GSM network and provided quick-win solutions. • Activated, tuned and recommended several features aimed at improving the subscriber- perceived quality of the network. • Reviewed CDD logs, identified key inconsistencies and recommended baseline settings for the different parameters. • Recommended and introduced Intelligent Power Management for RBS6000 sites of the network.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "title": "Mobily- 1800 Spectrum Refarming for LTE Deployment- Jeddah, KSA",
+      "description": "• Provided a full spectrum refarming solution of the 1800 band to allow the existing GSM network to operate at a tighter spectrum without jeopardizing the performance, quality and capacity of the network. - Performed an initial network audit along with a full review of the active and recommended BSS features aimed at improving the RF footprint before the refarming activity. - Performed a detailed cell-level utilization study and identified HR settings and needed expansions accordingly. - Identified the recommended spectrum strategy and laid out the plan for spectrum migration and TRX reduction. - Monitored the impact of the spectrum reduction and fine-tuned necessary BSS feature parameters.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "title": "Alfa- Network Optimization Project 2012- Beirut, Lebanon",
+      "description": "• Performed optimization activities for the 2G Ericsson part of the network including: - Fine tuning of 2G RF parameters and performing consistency checks. - Suggesting new features, performing trials and tuning the existing ones. - Paging and location update optimization for 2G. - Coverage review and improvements suggestions. - Handover optimization and neighbor audit. - Traffic balancing between 900 and 1800 for both Multi-Band and Dual BCCH. - Throughput improvement on 2G. - In building Sites (IBS) optimization. - Benchmarking for 2G (voice and data) between MIC1 and MIC2. - Worst Cell improvement. • Lead an activity aimed to reduce the number of TCH drops on the network by 20000 drops within a window of 10 days. Managed to reduce the TCH drops by more than 28% (30000 drops).",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2012
+      },
+      "title": "MTN Sudan- Radio Network Optimization Service - Khartoum, Sudan",
+      "description": "• Performed optimization activities for the 2G Ericsson part of the network for MTN Sudan- 12 BSCs- 900 sites including: - 2G parameter tuning. - Neighbor optimization, HO algorithm parameters tuning, and HO timers and penalties tuning. - Power control algorithm tuning. - 1800-900 traffic balancing and Multi band cell parameters tuning. - Periodic drive test analysis of major roads and VIP areas. - BSS Feature tuning and parameter recommendations (DYMA/ DHA, SCLD, HCS, CLS). - Worst Cell List optimization. • Initiated trials for the features Fast Return to WCDMA after Call End, Enhanced Handover Success Rate and Handover Power Boost. • Performed a full paging audit and recommended parameter changes and LAC splits to enhance the overall paging success rate. • Performed a full GPRS/EDGE audit, identified bottle necks and worst cells and tuned related parameters to enhance the throughput. • Utilized Optimi xAFP, xACP to derive key changes in terms of frequency retunes, neighbor audits and capacity planning.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "title": "Orange France- 2G/3G Swap and Optimization Project",
+      "description": "•Participated in remote delivery of a network optimization service following a large-scale network swap project for Orange France. •Performed consistency check activities (initial site tuning, per-relation parameters tuning and 2G-2G/ 2G-3G neighbor optimization). •Optimized the performance of several clusters of cells to meet set KPI targets within a limited time frame. •Structured detailed step-by-step methods to improve specific KPIs on the network (Average Number of HO per Call, Call Setup Success Rate, 1800 Traffic Distribution). •Performed detailed investigations to identify and propose possible solutions to global problems on the network related to specific KPIs and presented the results to the customer. •Developed detailed troubleshooting reports using BO- Desktop Intelligence that are still being utilized by the team.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2011
+      },
+      "title": "MTN Sudan- BSS Feature Trials - Khartoum, Sudan",
+      "description": "•Performed a trial of the following GSM BSS features for MTN Sudan (BSS SW G08B) over a 1 month period: •Interference Rejection Combining (IRC) •Enhanced AMR Coverage •Enhanced Handover Success Rate •Handover Power Boost •Dynamic FR/HR Adaptation •BTS Power Savings •Edge Performance Package •Performed an initial network audit, activating, tuning, and result benchmarking per feature. •Performed both active and passive testing for the Edge Performance Package feature and tuned the necessary parameters to achieve the maximum gain in terms of throughput and latency. •Benchmarked the KPIs prior and post to activating each feature and summarized the results in detailed presentations to the customer.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "title": "MTN Sudan- 2G Network Audit",
+      "description": "•Performed a high-level network audit on MTN Sudan’s network in order to project possible KPI values to be met by an NPI project. •Analyzed BSC dumps and several QoS counters to identify key improvement areas.",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Orange France 2G/3G Swap and Optimization Project",
+      "description": "•Participated in remote delivery of a network optimization service following a large-scale network swap project for Orange France. •Performed consistency check activities (initial site tuning, per-relation parameters tuning and 2G-2G/ 2G-3G neighbor optimization). •Optimized the performance of several clusters of cells to meet set KPI targets within a limited time frame. •Structured detailed step-by-step methods to improve specific KPIs on the network (Average Number of HO per Call, Call Setup Success Rate, 1800 Traffic Distribution). •Performed detailed investigations to identify and propose possible solutions to global problems on the network related to specific KPIs and presented the results to the customer. •Developed detailed troubleshooting reports using BO- Desktop Intelligence that are still being utilized by the team.",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "MTN Sudan 2G Network Audit",
+      "description": "•Performed a high-level network audit on MTN Sudan’s network in order to project possible KPI values to be met by an NPI project. •Analyzed BSC dumps and several QoS counters to identify key improvement areas.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/muathbarakat",
+      "name": "Muath Barakat",
+      "summary": "Founder & CEO, MORFION | AI-Powered 3D Infrastructure for Immersive Commerce",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/imsats",
+      "name": "Sathish Jeyakumar",
+      "summary": "Founder & CEO at VeehiveLabs.com",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yallacouponapp",
+      "name": "Yalla Coupon",
+      "summary": "Co-Founder at Yalla Coupon",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajaychandel",
+      "name": "Ajay Chandel",
+      "summary": null,
+      "location": "Sahibzada Ajit Singh Nagar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aya-assaf-79084a13",
+      "name": "Aya Assaf",
+      "summary": "Co-Founder at Koala Picks",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmadyaman",
+      "name": "Ahmad Abdel Yaman",
+      "summary": "Technology Strategist | Co-Founder & CITO, Deloitte Fast 50 Company | Enabling Growth Through SaaS & Digital Innovation",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maud-moawad-26362420",
+      "name": "Maud Moawad",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willing-feng-02230325",
+      "name": "Willing Feng",
+      "summary": "Yalla.live - Co-founder",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florien-stuyling-de-lange-bb663a2a",
+      "name": "Florien Stuyling de Lange",
+      "summary": "Founder at Adam Bike - Dutch Style Bicycles",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramzi-moujaes-8b460030",
+      "name": "Ramzi Moujaes",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalidashmawy",
+      "name": "Khalid Ashmawy",
+      "summary": "Founder at Munify (YC S25) | Co-founder, Shareholder and ex-CTO at Huspy (backed by Sequoia, Founders Fund and Fifth Wall) | ex-Uber | ex-Microsoft | Forbes List",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/darylcecilmascarenhas",
+      "name": "Daryl Mascarenhas",
+      "summary": "CEO at New Launch Properties | Real Estate Strategist | Helping Buyers, Investors & Agents Navigate Dubai’s Property Market with Clarity and Confidence",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nizar-fakih-57546740",
+      "name": "Nizar Fakih",
+      "summary": "Digital Media, Events Management, Sports, Entertainment, Technology, Entrepreneurship",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabella-d-82015b49",
+      "name": "Isabella D.",
+      "summary": "Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/navin-rajasekharan",
+      "name": "Navin Rajasekharan",
+      "summary": "Cofounder - Dreambox | IIM Bangalore | Ex H&M",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/basem-qarout-98a64096",
+      "name": "Basem Qarout",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-hanna-103b96101",
+      "name": "Christopher Hanna",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/umesh-kumar-5b3910103",
+      "name": "Umesh Kumar",
+      "summary": "Sr. UI/UX Designer, Digital Art Direction & Animator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/prachisaraf25",
+      "name": "Prachi Saraf",
+      "summary": null,
+      "location": "Abu Dhabi"
+    }
+  ],
+  "recommendations": [
+    "Aso Jumaa\n\nI have pleasure of knowing Leewa during Asiacell Optimization project ,Impressed with his ability on running the optimization activities in a very professional ways.Would be of course a true asset with my heart feel recommendation.",
+    "Dr. Rabee Fares\n\nI have known Lewaa for more than a year, and it has been my great pleasure to work with him.Lewaa contributed a great deal to the success of Asiacell Network Modernization project (>200M USD), in Radio Optimization and team leadership. On top of his outstanding technical competence, Lewass is a very friendly person, sharp, smart, his deliverables are always reliable and show great value. Lewaa's communication skills internally and with the customer always appreciated and lead to clear improvement. Lewaa is very much respected by his colleagues and by the customer; I admire  the peace that he shows when you meet him, which reflects how mucch organized he is and how much he understands his targets. I highly recommend him."
+  ],
+  "activities": [
+    {
+      "title": "Today we join the Ipsos family. It is an emotional day to say the least. It is also a very very proud day! A proud day to see Seventh Decimal…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_today-we-join-the-ipsos-family-it-is-an-activity-7422207563699523584-jsiD",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from the World Out of Home Organization APAC Forum in Seoul! Always great to reconnect with the OOH community and catch up with friends and…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_just-back-from-the-world-out-of-home-organization-activity-7393578649846710272-KXqH",
+      "activity_status": null
+    },
+    {
+      "title": "A few days ago I got a notification on my phone that said “Human Detected” generated from my AI-enabled backyard camera. Urgency and curiosity kicked…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_a-few-days-ago-i-got-a-notification-on-my-activity-7373269882244599808-fzKK",
+      "activity_status": null
+    },
+    {
+      "title": "¡Hola, Ciudad de México! We are here for the World Out of Home Organization’s Annual Congress in this beautiful, culturally vibrant city. Give me a…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_hola-ciudad-de-méxico-we-are-here-for-activity-7335740926666891264-EogH",
+      "activity_status": null
+    },
+    {
+      "title": "And that’s a wrap for Day 1 of the WOO Annual Congress – Mexico 2025. A day full of insight, inspiration, and big conversations about the future of…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_wooglobalcongress-activity-7336546063920644096-QM3P",
+      "activity_status": null
+    },
+    {
+      "title": "Great panel on attention where we discussed recent developments on TV, possible applications to OOH, and the view from the client/buy side. Was…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_gccoohsummit-activity-7295790180752355328-ew8I",
+      "activity_status": null
+    },
+    {
+      "title": "Happy to share that I've successfully completed the 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗥𝗼𝗮𝗱𝗺𝗮𝗽𝗽𝗶𝗻𝗴 𝗮𝗻𝗱…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_professional-certificate-program-in-product-activity-7289557726685257728-z35p",
+      "activity_status": null
+    },
+    {
+      "title": "One week to go for the GCC OOH Summit! We have a great lineup of speakers set to take stage to share insights and case studies around OOH buying,…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_gccoohsummit-streach-ooh-activity-7293213456848084993-4dT4",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from an incredible week in Milan, where we attended the World Out of Home Organization Europe Regional Forum. It was a pleasure…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_woo-ooh-dooh-activity-7261623105268146177-BK1D",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you BackLite Media media for featuring me in this year’s issue and for shedding a #SpotLite on our journey with Streach! Kudos to James…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_spotlite-streach-ooh-activity-7257324792964415488-iXxw",
+      "activity_status": null
+    },
+    {
+      "title": "Ciao Milan! We are here at the World Out of Home Organization Europe Regional Forum. Looking forward to catching up with the WOO community these…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_woo-ooh-dooh-activity-7259218247995039746-zlIA",
+      "activity_status": null
+    },
+    {
+      "title": "A must read. We have discussions on a daily basis around proving that Out-of-Home works, and we are truly glad that we are contributing to this at…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_the-burden-of-proof-why-out-of-home-needs-activity-7132640498137055232-Dxq1",
+      "activity_status": null
+    },
+    {
+      "title": "Every time Iâm in London I make sure to visit this beauty at Piccadilly Circus. Itâs just perfection. A true reflection of this mediumâs…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_every-time-im-in-london-i-make-sure-to-visit-activity-7097193761717284864-Ikbw",
+      "activity_status": null
+    },
+    {
+      "title": "Starting soon, Campaign Breakfast Briefing: Out of Home 2023 #CampaignBreakdastBriefing",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_campaignbreakdastbriefing-activity-6994151308232396800-dHeS",
+      "activity_status": null
+    },
+    {
+      "title": "Mobility is at its highest in Dubai since pre-COVID years and this is mainly being driven by EXPO2020. We are able to keep track of shifting mobility…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_ooh-dooh-streach-activity-6867161276439642112-NoCu",
+      "activity_status": null
+    },
+    {
+      "title": "Check out our recent article on OOH measurability and market readiness in Campaign's 2021 OOH Guide below. #OOH #OOHAdvertising #DOOH #OOHMedia",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_ooh-oohadvertising-dooh-activity-6866743098051973120-D_kR",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to have been selected by Alarabia OOH as the exclusive platform to bring OOH measurement and planning to its inventory across the major cities…",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_proud-to-have-been-selected-by-alarabia-ooh-activity-6669581059904081920-xWHq",
+      "activity_status": null
+    },
+    {
+      "title": "It’s that time of the year again! #mwc2019 here I come. The buildup has been exciting and we’re finally here. #mwcbarcelona",
+      "link": "https://www.linkedin.com/posts/lewaahamadeh_mwc2019-mwcbarcelona-activity-6505399765356900352-6FKs",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Lewaa Hamadeh",
+      "link": "https://lb.linkedin.com/in/lewaa-hamadeh-b615b52a7",
+      "summary": "Currently studying Hotel and Hospitality management",
+      "location": "Mount Lebanon Governorate, Lebanon"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-05T00:00:00Z"
+  }
+}

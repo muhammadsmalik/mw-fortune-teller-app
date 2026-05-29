@@ -1,0 +1,122 @@
+{
+  "public_identifier": "jón-ásgeir-gestsson-1b776bb0",
+  "profile_pic_url": "https://media.mixrank.com/profilepic/6888abb6933a765f676e5c551fbbb82b",
+  "background_cover_image_url": null,
+  "first_name": "Jón Ásgeir",
+  "last_name": "Gestsson",
+  "full_name": "Jón Ásgeir Gestsson",
+  "follower_count": 124,
+  "occupation": "Sales Manager at Billboard ehf at Billboard ehf",
+  "headline": "--",
+  "summary": null,
+  "location_str": "Iceland",
+  "country": "IS",
+  "country_full_name": "Iceland",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Billboard ehf",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager at Billboard ehf",
+      "description": null,
+      "location": "Reykjavík, Capital Region, Iceland",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "field_of_study": null,
+      "degree_name": "MPM",
+      "school": "Reykjavik University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/reykjavik-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "field_of_study": null,
+      "degree_name": "HRM, Diploma",
+      "school": "Reykjavik University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/reykjavik-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Kennaraháskóli Íslands",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 123,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-07-14T00:00:00Z"
+  }
+}

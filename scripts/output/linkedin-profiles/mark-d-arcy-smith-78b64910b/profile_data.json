@@ -1,0 +1,726 @@
+{
+  "public_identifier": "mark-d-arcy-smith-78b64910b",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Mark",
+  "last_name": "D'Arcy-Smith",
+  "full_name": "Mark D'Arcy-Smith",
+  "follower_count": 738,
+  "occupation": "Research & Insights Manager at Bauer Media Outdoor UK",
+  "headline": "Research & Insights Manager at Bauer Media Outdoor UK",
+  "summary": "I am a curious individual who's passionate about finding the why behind consumer behaviour. inclusive planning is something I am keen to implement in my day to day work as brands and media continue seeking innovative ways to reach consumers.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Bauer Media Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Research & Insights Manager",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2025
+      },
+      "company": "OMD UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/omd-uk",
+      "company_facebook_profile_url": null,
+      "title": "Analyst",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/01efc209296e326732051b63917855c5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "OMD UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/omd-uk",
+      "company_facebook_profile_url": null,
+      "title": "Junior Analyst",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/01efc209296e326732051b63917855c5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2021
+      },
+      "company": "Mindshare",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mindshare",
+      "company_facebook_profile_url": null,
+      "title": "Audiences Executive",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/507f571f1b3754ad9b8973e3e765b793"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2018
+      },
+      "company": "Mindshare",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mindshare",
+      "company_facebook_profile_url": null,
+      "title": "Business Planning Intern",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/507f571f1b3754ad9b8973e3e765b793"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2018
+      },
+      "company": "SureCare Bromley",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Interim Marketing Assistant",
+      "description": "•\tAssist in developing business plan with responsibility for preparing market research of the domiciliary care sector locally and nationally and local competitor analysis. •\tSetting up and running social media campaigns. •\tAssist in preparing for networking events and local business fairs and supporting the business development initiatives. •\tProviding general business admin support to the management team.",
+      "location": "Bromley, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Next",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Assistant",
+      "description": "•\tHelp customers find the perfect products for them. •\tGive fast and friendly service at all times. •\tKeep shop floor tidy and organised.",
+      "location": "Bromley, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "St Paul's Crofton",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": "Youth and Children´s work: My main role was to assist young people and children in their personal growth as they journey through school life, as well as keeping them entertained on a weekly basis. This involved running a club night on a Friday evening and engaging with teenagers during their bible study on Tuesday evenings and Sunday mornings. I would also attend meetings which involved planning events/ managing accounts and attend youth-work networking events.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Sommelier's Choice Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sommelier's-choice-limited",
+      "company_facebook_profile_url": null,
+      "title": "Intern",
+      "description": "•\tMeeting with suppliers to check on stock. •\tDealt with incoming and outgoing orders. •\tUpdated accounts on a daily basis. •\tSent various emails out to regular clients and suppliers. •\tRegularly shadowing the Managing Director to gain insight in   what goes into running a business.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bfff9a9bbd0c7b7958558a1d7e9f02dc"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Bachelor of Science (BSc)",
+      "school": "Canterbury Christ Church University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Second year modules include: Accounting & Finance/Business in Society/Entrpreneurship/Consumer Behaviour/Leadership and Management/E-Marketing First year modules include: Economics/People in Organisations/Accounting/Marketing/Developing Graduate Skills/Management Science",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: President of WWE Appreciation Society. Member of Student Union committee."
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Fortnite 101",
+      "publisher": null,
+      "published_on": {
+        "day": 1,
+        "month": 2,
+        "year": 2019
+      },
+      "description": "Fortnite was the biggest game of 2018. This cultural phenomenon can not only give us an indication about how gaming media is becoming more and more mainstream, how it's core audience interacts with said media and the rise of eSports.",
+      "url": null
+    },
+    {
+      "name": "Why you should care about Love Island",
+      "publisher": null,
+      "published_on": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "description": "The hit series \"Love Island\" can teach us a lot about teenagers (Gen Z) such as how they consume TV media and the issues that are important to them",
+      "url": null
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Business Management",
+      "number": "N200"
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": null,
+      "title": "Musician",
+      "cause": "Children",
+      "company": "New Wine Summer Conference",
+      "company_linkedin_profile_url": null,
+      "description": "Entertaining 8-9 year olds and helping them develop in their Christian faith :)",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": null,
+      "title": "Student Helper",
+      "cause": "Education",
+      "company": "Canterbury Christ Church University",
+      "company_linkedin_profile_url": null,
+      "description": "Volunteered as part of the university's \"welcome crew\" helping new students move into their accomodation, giving them sound advice and being a friendly face.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "title": "Student Leader",
+      "cause": "Children",
+      "company": "St Paul's Crofton",
+      "company_linkedin_profile_url": null,
+      "description": "Entertained young people between the ages of 11-18 on a weekly basis whilst also being a role model to them.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "WPP x MHaW Mental Health Allies",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Mental Health at Work",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/volkanyazici",
+      "name": "Volkan Yazici",
+      "summary": "Business Director, BI Developer at Mindshare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisha-victoria-temminck",
+      "name": "Elisha Victoria Temminck",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shelleybishton",
+      "name": "Shelley Bishton",
+      "summary": "Head of Diversity, Equity and Inclusion at News UK | Winner of Head of Diversity 2024 | MEFA DEI Champion Winner 2024 | Media Representation…",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tobiasare",
+      "name": "Tobi Asare",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-callender",
+      "name": "Alice Callender",
+      "summary": "English Tutor and Confidence Coach | Teacher | Marketing",
+      "location": "Remeteszőlős"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydiaamoah",
+      "name": "Lydia Amoah FRSA",
+      "summary": "Entrepreneur of the Year 2026 & Business for Good Winner | CEO @Backlight | Author, The Black Pound Report | My Data is the New Oil – Cultural Insights Drive Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauracarolinerowe",
+      "name": "Laura Rowe",
+      "summary": "Managing Partner, Head of Decisions Science @ OMD UK | Co-Chair of OMD Better Access | Research, Insights and Analytics",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannahrai",
+      "name": "Hannah Rai",
+      "summary": null,
+      "location": "Hertford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sallykr",
+      "name": "Sally Comfort",
+      "summary": "Senior Creative",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linneasjoqvist",
+      "name": "Linnea Sjöqvist",
+      "summary": "Connecting business and IT",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannahshelley1",
+      "name": "Hannah Shelley",
+      "summary": "Marketing Specialist at Gallagher",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leahjk",
+      "name": "Leah Jones Kirwin",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aisako",
+      "name": "Aristote Isako",
+      "summary": "IT & Cybersecurity Specialist (SOC Focus) | Log Analysis • Active Directory • Incident Response • Network Diagnostics | MSc Cybersecurity (In Progress)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-de-robillard",
+      "name": "Amy De Robillard",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefancod",
+      "name": "Stefan Codreanu",
+      "summary": "Paid Search - Senior Associate Director at EssenceMediaCom",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophiaolorenshaw",
+      "name": "Sophia Olorenshaw",
+      "summary": "Account Management @ MiQ ANZ",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuellaibrahim",
+      "name": "Emmanuella Ibrahim",
+      "summary": "Senior Account Manager at PURPLE PR | Lifestyle",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannahkelly1001",
+      "name": "Hannah Kelly",
+      "summary": "Brand & Sponsorship Marketing Specialist | Partnerships | Branding | Events | Content |",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferne-lacon",
+      "name": "Ferne Lacon",
+      "summary": "Paid Social Account Director at Kinesso",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jade-loren-olanrewaju-3a6a95b3",
+      "name": "Jade Loren Olanrewaju",
+      "summary": "🎯🎵 Global Talent Acquisition Manager @ Songtradr | Music Tech | Passionate about inclusive hiring 🚀 | BRN Member ✌🏾",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-hitchborn-13a398124",
+      "name": "Jessica Hitchborn",
+      "summary": "Business Director at OMD",
+      "location": "Market Deeping"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shivi-jalota",
+      "name": "Shivi Jalota",
+      "summary": "I talk marketing for work and emotions for life.\nIf it’s honest, human, or hard to say - I write about it.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alisonshakspeare1",
+      "name": "Alison Shakspeare",
+      "summary": "Shakspeare Editorial•446 followers",
+      "location": "Exeter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tolu-adekanmbi-acca-43b51682",
+      "name": "Tolu Adekanmbi ACCA",
+      "summary": "Management Accountant at MG OMD",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alina-ullah",
+      "name": "Alina Ullah",
+      "summary": "Marketing & Brand Manager at Sodexo | CIM Level 6 Qualified",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicky-jiang-707009194",
+      "name": "Vicky Jiang",
+      "summary": "Data Science Consultant/Marketing Analytics",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-phillips-mipa-168179b",
+      "name": "Paul Phillips MIPA",
+      "summary": "OMD UK•4K followers",
+      "location": "Whitstable"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noel-goode-191140230",
+      "name": "Noel Goode",
+      "summary": "Managing project and people to deliver quality. Always",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-sales-893352236",
+      "name": "Will Sales",
+      "summary": "Assistant Product Developer at Rapha",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamish-patel-b75aa35",
+      "name": "Hamish Patel",
+      "summary": "Global Pricing Operations Manager Ricoh Global Services",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominic-carter-ab67b5b",
+      "name": "Dominic Carter",
+      "summary": "EVP, Publisher - The Sun",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harmeena-nijhar-6a24b911",
+      "name": "Harmeena Nijhar",
+      "summary": "AV Business Director at Mindshare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanya-tzacos-02100630",
+      "name": "Tanya Tzacos",
+      "summary": "Trying a New Direction, with Boundless Possibilities",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzy-ryder-371ab938",
+      "name": "Suzy Ryder",
+      "summary": "CEO at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaimal-patel-b8347b47",
+      "name": "Jaimal Patel",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-hergert-29246450",
+      "name": "Robin Hergert",
+      "summary": "robin_hergert@yahoo.com",
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bethan-moore-68315a55",
+      "name": "Bethan Moore",
+      "summary": "Photography Studio Manager at Rapha",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncan-willett-24b6a266",
+      "name": "Duncan Willett",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-foti-8b237071",
+      "name": "Laura Foti",
+      "summary": "Integrated Communication & Media Strategy Lead | Specialized in Paid Media Strategy | Passionate about Marketing Science and Brand Growth",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anisah-sundus-khokhar",
+      "name": "Anisah Sundus Khokhar",
+      "summary": "Property & Retail Executive | Digital Content Creator",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-griffiths-0059b97b",
+      "name": "Olivia Griffiths",
+      "summary": "Managing Consultant - Data Science",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-hartley-a9aa877b",
+      "name": "Thomas Hartley",
+      "summary": "Data Solutions Architect, ATOM @ OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alisterheywood",
+      "name": "Alister Heywood",
+      "summary": "New Business and Marketing Manager at Propeller Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emile-capps-2b58568a",
+      "name": "Emile Capps",
+      "summary": "Media Manager at Co-Op",
+      "location": "Lymm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ellie-england-54439394",
+      "name": "Ellie England",
+      "summary": "B2B Sales Executive at Here We Flo",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paige-leah-mcgowan-966080ab",
+      "name": "Paige Leah McGowan",
+      "summary": "Head of Marketing and Communications at Future Humber",
+      "location": "Hull"
+    },
+    {
+      "link": "https://www.linkedin.com/in/surjit-blas-73b626bb",
+      "name": "Surjit Blas",
+      "summary": "Junior Analyst",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-dodd-360836106",
+      "name": "Laura Dodd",
+      "summary": "Senior Account Manager - XBOX Media Solutions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melina-horst-675a71136",
+      "name": "Melina Horst",
+      "summary": null,
+      "location": "Byron Bay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lau-kung-380b66138",
+      "name": "Lau Kung",
+      "summary": "Trading/Investment Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aimina-fitzsimons-82abb313a",
+      "name": "Aimina Fitzsimons",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-darcy-smith-800b8b140",
+      "name": "Jennifer Darcy-smith",
+      "summary": "Teacher at Kings Education",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasmine-allam-40ab85145",
+      "name": "Jasmine Allam",
+      "summary": "Paid Search Account Manager at Mindshare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jake-hopkins-253420150",
+      "name": "Jake Hopkins",
+      "summary": "Marketing Science Consultant at OMD UK | Project Lead | Econometrics | MMM | Marketing Measurement | Data Analytics | Data Science",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carly-greenfield-255440154",
+      "name": "Carly Greenfield",
+      "summary": "Principal Consultant at Omnicom Media Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-solly-0a9113159",
+      "name": "Jamie Solly",
+      "summary": "Econometric consultant / marketing analyst on a career break",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shona-drummond-a0123515b",
+      "name": "Shona Drummond",
+      "summary": "Global Senior Lifecycle Marketing Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanamoralesprofile",
+      "name": "Juana Morales",
+      "summary": "Market Researcher | Behavioural Economist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/geetika-obhrai-aa4889168",
+      "name": "Geetika Obhrai",
+      "summary": "Automation Lead at Dentsu",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-brittain-86aa46171",
+      "name": "David Brittain",
+      "summary": "Software Engineer | Experience in AI, AR, Data Visualisation | C#, Unity, AWS | Keen Problem-Solver and Game Developer | Computer Science BSc",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-campbell-292109175",
+      "name": "Sophie Campbell",
+      "summary": "Marketing Manager at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-johnson-12461017b",
+      "name": "Alex Johnson",
+      "summary": "Facade Engineer at Arup",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harry-darlington-71b503191",
+      "name": "Harry Darlington",
+      "summary": "Group Strategy Director at Medialab Group",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "This particular volume of The Real Britain Series, focused on the African & Caribbean diaspora, is one that's been mad close to my heart, so being…",
+      "link": "https://www.linkedin.com/posts/mark-d-arcy-smith-78b64910b_this-particular-volume-of-the-real-britain-activity-7136065074879721473-VjaR",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-11T00:00:00Z"
+  }
+}

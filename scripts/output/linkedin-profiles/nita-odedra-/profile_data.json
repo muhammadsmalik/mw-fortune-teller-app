@@ -1,0 +1,1254 @@
+{
+  "public_identifier": "nita-odedra-",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5714ff39ea0956f556de2f90d8d7aec2",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/ba5843a4e0f8e1a01e303ae2bff87852",
+  "first_name": "Nita",
+  "last_name": "Odedra",
+  "full_name": "Nita Odedra",
+  "follower_count": 5427,
+  "occupation": "Strategy Director at Blue Rhine Industries",
+  "headline": "Director Strategy @ Blue Rhine Industries | SDG-Aligned Digital Transformation Leader | Keynote Speaker | Advocate for Green Signage, Professional AV & Wayfinding Solutions",
+  "summary": "With a distinguished career shaped by my expertise in digital business innovation, I have a proven track record of working with global tech giants. Hailing from the UK, my professional journey steered me to the dynamic landscape of the UAE in 2015.<br><br>As the Strategy Director at Blue Rhine, I play an instrumental role in aligning strategic vision with creative expression, ensuring that business goals seamlessly translate into cohesive brand execution. In the realm of phygital convergence, consumer marketing and demand generation are my forte, all thanks to my multicultural background. I help clients with systematic restructuring approaches for customer experience management. <br><br>I view digital transformation as the launchpad, not the destination. To propel a company into digital acceleration, it's crucial to seize the latest trends and technologies as strategic tools, not fleeting fads. This philosophy forms the bedrock of my strategic support for clients dedicated to long-term success.<br><br>Beyond the boardroom, I serve as a keynote speaker at various regional and global forums. I regularly contribute, shaping well-rounded narratives on sustainable and innovative business practices within the signage and wayfinding industry.",
+  "location_str": "Dubai, United Arab Emirates",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Dubai",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Blue Rhine Industries",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blue-rhine-industries",
+      "company_facebook_profile_url": null,
+      "title": "Strategy Director",
+      "description": null,
+      "location": "Dubai, Riyadh & London",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68fd929f541095dd123263ae01a8ccab"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Waai Tek",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/waaitek",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/425f18311b491548fafe90bec1b18464"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2023
+      },
+      "company": "Waai Tek",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/waaitek",
+      "company_facebook_profile_url": null,
+      "title": "Director - Sales & Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/425f18311b491548fafe90bec1b18464"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "Blue Rhine Industries",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blue-rhine-industries",
+      "company_facebook_profile_url": null,
+      "title": "General Manager Sales and Marketing",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68fd929f541095dd123263ae01a8ccab"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "Blue Rhine Industries",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blue-rhine-industries",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68fd929f541095dd123263ae01a8ccab"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "Terrapinn",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/terrapinn",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": null,
+      "location": "Dubai, UAE",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/59d056350b26a081dad2112cf7ae26b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Fast Lane North America",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fast-lane",
+      "company_facebook_profile_url": null,
+      "title": "Enterprise Account Manager",
+      "description": null,
+      "location": "Windsor",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/73d6ca5805609a525822a3a9b07a636a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Gartner",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gartner",
+      "company_facebook_profile_url": null,
+      "title": "Global Account Manager",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d9a1821ac862355348b4810332c55c5e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "SuperOffice",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/superoffice-as",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d3b7513f02905f930e0f4a4725994788"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "Sony Mobile Communications",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sony-mobile-communications",
+      "company_facebook_profile_url": null,
+      "title": "Market Development Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/30098b5e4b218b0fc350ae241159a0b3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2007
+      },
+      "company": "O2 (Telefónica UK)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/telef-nica-uk",
+      "company_facebook_profile_url": null,
+      "title": "Sales Assistant & Assistant Branch Manager",
+      "description": null,
+      "location": "Windsor & Slough",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9beeb014d6f76d2acac47a6643fb62c2"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Applied Print & History of Art",
+      "degree_name": "BA Hons",
+      "school": "Middlesex University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/middlesex-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ba19b14e7753e05bf14b840e9d8231d6",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/zidanelamrani",
+      "name": "Zidane Lamrani",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shameembacker",
+      "name": "Shameem BACKER",
+      "summary": null,
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitnvn",
+      "name": "Mithun Mohan",
+      "summary": "Division Head: Branding & Signage",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anupfrancy",
+      "name": "Anup Francy",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raedghoussainy",
+      "name": "Raed Ghoussainy",
+      "summary": "Manager of Business Development & Marketing at Mandarin Gourmet UAE",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kunal-chaudhhary-6562778",
+      "name": "Kunal Chaudhhary",
+      "summary": "Founder and Sales Director at YKC HEIGHTS ADVERTISING",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaikumartolani",
+      "name": "Jai Tolani",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/njoudmajali",
+      "name": "نجود مجالي",
+      "summary": "Certified Transformational Coach | Employee Engagement & Corporate Wellness",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monahaddad",
+      "name": "Mouna Haddad",
+      "summary": "Insurance Specialist | Entrepreneur | Ex-Microsoft",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salman-faris-866296252",
+      "name": "Salman Faris",
+      "summary": "Production Manager and Estimator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-heike-lieb-wilson",
+      "name": "Dr. Heike Lieb-Wilson",
+      "summary": "Empowering Global Brands to Succeed in GCC | MENA Market Entry Strategist Delivering Sustainable Growth",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/navin-rajasekharan",
+      "name": "Navin Rajasekharan",
+      "summary": "Cofounder - Dreambox | IIM Bangalore | Ex H&M",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gulbanu-m-994b21186",
+      "name": "Gulbanu M.",
+      "summary": "Executive Assistant| Executive Admin Assistant| Office Manager| Client Relations Manager",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamedshawer",
+      "name": "Mohamed Shawer",
+      "summary": "Blue Rhine Industries Egypt / Professional Signs - General Manager",
+      "location": "Cairo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boneyissac",
+      "name": "Boney Issac",
+      "summary": "Head of Business Development at Blue Rhine Industries",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kamran-aziz08",
+      "name": "Kamran Aziz",
+      "summary": "General Manager | Expert in HR, Payroll, Accounts & Software Project Management | Driving Operational Excellence at Tryonnix & Karwan-e-Sana",
+      "location": "Lahore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/minu-pius-b91894219",
+      "name": "Minu Pius",
+      "summary": "Civil Engineer, 2years UAE experience in construction industry as Estimator",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kunal-chaudhary-6562778",
+      "name": "Kunal Chaudhary",
+      "summary": "Founder and Sales Director at YKC HEIGHTS ADVERTISING",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/niraj-vyas-221241b",
+      "name": "Niraj Vyas",
+      "summary": "Director - Technology at Blue Rhine Industries",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/imzein",
+      "name": "Ibrahim El Zein",
+      "summary": "Co-Founder and Managing Director at Graphics Tree Shutterstock ENTERPRISE/OFFSET Platinum Partner in the MENA Region",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/manikandan-veloor-1739a818",
+      "name": "Manikandan Veloor",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hishamlahouasnia",
+      "name": "Hisham Lahouasnia",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashin-john-47a28125",
+      "name": "Ashin John",
+      "summary": "Digital Operations Director, Multiply Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pegah-gol",
+      "name": "Pegah Gol - Best Selling Author ✍️",
+      "summary": "8x No1 best selling author | keynote speaker | Forbes Council Member/Contributor | Job-hunting & Recruitment Expert  | Board Member | Investor | Executive Branding Advisor",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandeep-ayilliath",
+      "name": "Sandeep Ayilliath",
+      "summary": "Founder & CEO | Entrepreneur | Lighting Professional",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-mariam-mohamed-fatima-matar-md-phd-19a80727",
+      "name": "Dr. Mariam Mohamed Fatima Matar MD Phd",
+      "summary": "Physician |Geneticist | Founder & Chairperson UAE Genetic Diseases Association&4 NGO| 1st♀ undersecretary MOH,1♀️ DG DXB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-borden-729a0229",
+      "name": "Terry Borden",
+      "summary": "Managing Director at Mood Media GCC",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-al-amine-36512b2a",
+      "name": "Ali Al Amine",
+      "summary": "G42",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jinu-samuel-210a9930",
+      "name": "Jinu Samuel",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fady-farah-11018833",
+      "name": "Fady Farah",
+      "summary": "Manager at 4maat  production and marketing services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvaro-ramos-ab026133",
+      "name": "ALVARO R.",
+      "summary": "DEO - Director de Ejecución de Obra en VALGREEN E-Coviviendas",
+      "location": "Montgat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bill-fordyce-94606136",
+      "name": "Bill Fordyce",
+      "summary": null,
+      "location": "Doha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darylcecilmascarenhas",
+      "name": "Daryl Mascarenhas",
+      "summary": "CEO at New Launch Properties | Real Estate Strategist | Helping Buyers, Investors & Agents Navigate Dubai’s Property Market with Clarity and Confidence",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harish-kunju-2304a03a",
+      "name": "Harish Kunju",
+      "summary": "Project Manager",
+      "location": "Kochi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhishek-yadav-36921458",
+      "name": "Abhishek Yadav",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalil-ajouz-86aabb69",
+      "name": "Khalil Ajouz",
+      "summary": "KSA Business Director at Unilumin Saudi Arabia! AV Consultancy - Digital Transformation - Artificial Intelligence - Virtual Reality - AR",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/zina-al-kafadji-271b2272",
+      "name": "Zina Al Kafadji",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prashanth-nagarajan-5899a376",
+      "name": "PRASHANTH NAGARAJAN",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/faiazmohamed",
+      "name": "Faiaz Mohamed",
+      "summary": "Co-Founder & Director of Sales and Marketing at Creative Percept",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-thomas-aab3a288",
+      "name": "Thomas Thomas",
+      "summary": "Co-founder & MD at FutureIK Technologies | Expert in Digital Signage & System Integration | Driving Business Growth, Sales, & Global Expansion",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-de-peretti-anashi-studio",
+      "name": "Marie de Peretti",
+      "summary": "Co-fondatrice & directrice de la création chez Anashi Studio | Spécialiste stratégie de marque & branding | Graphic + Web design",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florence-thomas-648657a3",
+      "name": "Florence Thomas",
+      "summary": "Business Development Manager at Blue Rhine Industries",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charmaine-vallienta-4a50aaa6",
+      "name": "Charmaine Vallienta",
+      "summary": "Client Service Executive",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/prabhu-kasi-cts-644841a9",
+      "name": "Prabhu Kasi, CTS",
+      "summary": "AV Design Engineer",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/siddharth-joshi-3833b2b1",
+      "name": "Siddharth Joshi",
+      "summary": "Assistant Manager AI Technology",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammed-aslam-m-0722b9b5",
+      "name": "MUHAMMED ASLAM",
+      "summary": "Digital Engineer at Prosigns global",
+      "location": "Doha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sajeesh-fernandez-731a22b9",
+      "name": "SAJEESH FERNANDEZ",
+      "summary": "Sales Manager Retail - GCC at Blue Rhine Industries",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ritamvar-prodhan-05b310100",
+      "name": "Ritamvar Prodhan",
+      "summary": "Student at International Management Institute, Kolkata",
+      "location": "Kolkata metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saji-kannath",
+      "name": "Saji Kannath",
+      "summary": "Investor | Digital Entrepreneur | Marketer | Strategist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-akawi-0684b2118",
+      "name": "Adam Akawi",
+      "summary": "Co-Founder at Kaynouna",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/neetha-narayan-56401311a",
+      "name": "Neetha Narayan",
+      "summary": "Project Manager | PMP®",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/veloor-manikandan-594a4612b",
+      "name": "Veloor Manikandan",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugene-michael-cortez-9b5803132",
+      "name": "Eugene Michael Cortez",
+      "summary": "Senior Digital Operations Executive at ELAN Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ranjith-mettammal-134364137",
+      "name": "RANJITH METTAMMAL",
+      "summary": "Projects Planning | Design Engineering | Projects Management",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nimmi-devadath-a39547137",
+      "name": "Nimmi Devadath",
+      "summary": "Project Coordinator at Blue Rhine Industries",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mudassir-khan-0a006013b",
+      "name": "Mudassir Khan",
+      "summary": "Senior Business Consultant - Retails | Branding | Pop Up | Fit-Out | Exhibition | 3D Printing | Large Format Printing | Activation",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nithu-rengin-36b4b4149",
+      "name": "Nithu Rengin",
+      "summary": "Director Of Sales Marketing at Adorizon Creative Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dhanya-arun",
+      "name": "Dhanya Arun",
+      "summary": "Visual Identity Designer | Event Branding & Collateral Expert | Proposal Design & Key Visuals",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sithara-sukumaran-338735178",
+      "name": "Sithara Sukumaran",
+      "summary": "Head of  Coordination - Retail Sales at Blue Rhine Industries (GCC)",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leah-wairimu-773139198",
+      "name": "Leah Wairimu",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jithin-thiruthiyil-6a318b1b0",
+      "name": "Jithin Thiruthiyil",
+      "summary": "Videographer | Content Creator | Photographer | AI Specialist | Video Editor",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/puja-yadav-ba96921b9",
+      "name": "Puja Yadav",
+      "summary": "Marketing and Operations Executive at Dharmi Kreation",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maja-antolovic-98b964209",
+      "name": "Maja Antolovic",
+      "summary": "Director of Pavilion of the Republic of Serbia at Expo Osaka 2025\n\nDirector of Representative office in Dubai, UAE  - Serbian Chamber of Commerce and Industry",
+      "location": "Osaka"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alyanna-marie-ilagan-369234211",
+      "name": "Alyanna Marie Ilagan",
+      "summary": "Sales Coordinator",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kmadhavan7697985",
+      "name": "K. Madhavan",
+      "summary": "Managing Director, LPFLEX - MENA & India; MAAS + ROOS Signage - Germany -Global Network",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/renji-mathew",
+      "name": "Renji Mathew",
+      "summary": "Visionary Leader in Digital Transformation | CEO & Co-Founder at NIXA | Pioneer in Smart Visual and Acoustic Design",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rijo-raphael-a712861b",
+      "name": "Rijo Raphael",
+      "summary": "Director - Strategy & Marketing at Falcon Group of Companies",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/signhouse-tv-774a191b5",
+      "name": "SIGNHOUSE TV",
+      "summary": "Marketing Specialist at Blue Rhine",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shahid-usman-2a6900119",
+      "name": "Shahid Usman",
+      "summary": "Director-Sales and Marketing at Jas Advertising",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-v-joseph",
+      "name": "John V. Joseph",
+      "summary": "Director at Blue Rhine Industries & Professional Signs | Leading GCC Signage and Wayfinding solutions",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/praveen-vijaykumar-27a21730",
+      "name": "Praveen Vijaykumar",
+      "summary": "Key Account Manager at LPFLEX INTERNATIONAL",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dipesh-sainkar-b49a61241",
+      "name": "Dipesh Sainkar",
+      "summary": "Signage at Blue Rhine",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/faizan-ahmad-29a261a1",
+      "name": "Faizan Ahmad",
+      "summary": "Sales Director at ABC Imaging",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Steve Ashdown\n\nNita was extremely helpful with my uptake of new knewledge at SuperOffice and is a naturally gifted speaker, both with presentations and also in general discussions. A true pro who will generate success wherever her attention is focused!",
+    "Damon Evans\n\nI have worked closely with Nita for over a year now, on several large Gartner events, and it has been a pleasure to do so. As our account manager, the level of service she has provided, and her dedication to helping us, has been exemplary (despite numerous challenges emanating from our side). Gartner are most fortunate to have her as part of their team."
+  ],
+  "activities": [
+    {
+      "title": "Sphere coming to Abu Dhabi is one of the biggest signals yet that the region is onto big things!!!! A 20,000-capacity immersive venue.16K wraparound…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_sphere-abudhabi-immersiveexperience-activity-7460710569864646657-5LRY",
+      "activity_status": null
+    },
+    {
+      "title": "The Middle East is building some of the world’s most ambitious digital experiences. Not just bigger screens... it's smarter spaces, immersive…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_digitalsignage-experientialtech-av-activity-7459904847157280768-Njod",
+      "activity_status": null
+    },
+    {
+      "title": "Relevance is everything. Data only matters if it drives real-time, meaningful engagement. Digital signage is where that happens......turning insight…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_from-footfall-to-familiarity-uae-resident-activity-7453341109902032896-naT-",
+      "activity_status": null
+    },
+    {
+      "title": "Appreciated the opportunity to share this Blue Rhine Industries case study at ISE Barcelona. A project that pushed every boundary, from no-drill…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_the-longest-led-wall-in-middle-east-activity-7451964755726045184-JFhn",
+      "activity_status": null
+    },
+    {
+      "title": "Was literally having a conversation yesterday about the lack of diversity in AV across our region with my Boss and stumbled on this. This is exactly…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_women-in-av-tech-startup-prize-15000-activity-7447629173776662528-_UCe",
+      "activity_status": null
+    },
+    {
+      "title": "Really enjoyed speaking at Exchange TechCon by Construction Week Middle East yesterday. It was great to discuss a topic that I love, operational…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_really-enjoyed-speaking-at-exchange-techcon-activity-7445010833262206976-cPFq",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday, Primark opened its first UAE store at Dubai Mall. This was a project with rigorous audits, strict vendor standards, and close…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_bluerhineindustries-bri-primark-activity-7443194716743057408-lR8D",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to joining the conversation at Tech Con 2026. The future of the built environment is smarter, more connected, and far more…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_looking-forward-to-joining-the-conversation-activity-7442687464626049024--bCi",
+      "activity_status": null
+    },
+    {
+      "title": "I'm at Passenger Terminal Expo this week at ExCeL London. If you’re in the passenger experience, wayfinding, AV or digital signage space, let’s…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_im-at-passenger-terminal-expo-this-week-activity-7440005246493540352-yVyR",
+      "activity_status": null
+    },
+    {
+      "title": "Anyone wondering my thoughts on how I feel about the current situation in the GCC.. here you go. The GCC and specifially UAE, knows how to navigate…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_anyone-wondering-my-thoughts-on-how-i-feel-activity-7437360864162275329-Y5x-",
+      "activity_status": null
+    },
+    {
+      "title": "We’re currently recruiting an AV Sales Manager to join Blue Rhine Industries. Despite regional uncertainty, the UAE continues to demonstrate the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_were-currently-recruiting-an-av-sales-manager-activity-7436711280897474561-xqDu",
+      "activity_status": null
+    },
+    {
+      "title": "Wayfinding isn’t just about getting from A to B anymore. I sat down with two industry experts, Fariz Ahmad from Endpoint. and Farah Bourdkani from…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_smartwayfinding-smartcities-digitalwayfinding-activity-7429086073504428033-Aqy_",
+      "activity_status": null
+    },
+    {
+      "title": "When luxury houses invest in storytelling at this level/scale, the canvas matters as much as the creative. What Cartier demonstrates here, and what…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_when-luxury-houses-invest-in-storytelling-activity-7426884185094590464-pHL2",
+      "activity_status": null
+    },
+    {
+      "title": "Barcelona bound 🇪🇸. On my way to Integrated Systems Europe (ISE) 2026 I’ll be speaking across three sessions with Blue Rhine Industries 1) Global…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_barcelona-bound-on-my-way-to-integrated-activity-7424007145702043648-XYIb",
+      "activity_status": null
+    },
+    {
+      "title": "Day 1 at Shoptalk Luxe made it clear that luxury retail has firmly shifted from product-led to experience led. Immersive environments, interactive AV…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_day-1-at-shoptalk-luxe-made-it-clear-that-activity-7422157538688815104-r0nw",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to join Integrated Systems Europe (ISE) 2026 x invidis consulting GmbH to talk about the future of digital signage and immersive experiences…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_honoured-to-join-integrated-systems-europe-activity-7422922777948483584--Nf7",
+      "activity_status": null
+    },
+    {
+      "title": "For Campaign’s audience, this conversation matters....the future of OOH isn’t about more screens, but about smarter, spatially aware environments…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_how-spatial-storytelling-is-replacing-static-activity-7419635559117225985-5JqL",
+      "activity_status": null
+    },
+    {
+      "title": "Data proves it!...Instore AV is a real revenue driver for modern retail! Learn more about Blue Rhine Industries in store digital signage and…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_retail-study-offers-empirical-evidence-that-activity-7419255701082001408-Db9M",
+      "activity_status": null
+    },
+    {
+      "title": "What an awesome night. A great chance to catch up before year-end, hear insights from invidis consulting GmbH, and openly discuss the region’s…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_what-an-awesome-night-a-great-chance-to-activity-7406292776155529217-hWB8",
+      "activity_status": null
+    },
+    {
+      "title": "Great to be part of the FESPA Middle East 2026 speaker line-up. Looking forward to sharing how Blue Rhine Industries is driving the digital shift",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_great-to-be-part-of-the-fespa-middle-east-activity-7407481729374117888-zT0O",
+      "activity_status": null
+    },
+    {
+      "title": "My boss John V. Joseph has been appointed to the AVIXA Board! This isn’t just a personal milestone, it’s recognition of the way he leads our company…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_my-boss-john-v-joseph-has-been-appointed-activity-7394969500208513024-8YoY",
+      "activity_status": null
+    },
+    {
+      "title": "Didn’t take home the trophy this time, but still a great feeling to be on the shortlist. Always a solid night....good energy, good people, and the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_didnt-take-home-the-trophy-this-time-but-activity-7394367083897090048-02vm",
+      "activity_status": null
+    },
+    {
+      "title": "Turning static spaces into intelligent, connected experiences.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_how-architecture-is-becoming-retails-most-activity-7389944558945734657-Rmki",
+      "activity_status": null
+    },
+    {
+      "title": "Every minute a patient spends lost in a hospital is a cost to care, efficiency, and trust. Navigation isn’t signage, it’s strategy!!! Here’s why it…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_the-economics-of-being-lost-why-navigation-activity-7391395534915207168-n_OM",
+      "activity_status": null
+    },
+    {
+      "title": "Reimagining Architecture: PortMiami, glass is no longer a static barrier. it’s a dynamic canvas!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_reimagining-architecture-portmiami-glass-activity-7383715707685007360-X5kT",
+      "activity_status": null
+    },
+    {
+      "title": "Great few days in San Diego, topped by winning a Dizzie.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_great-few-days-in-san-diego-topped-by-winning-activity-7386677666130591745-gxbv",
+      "activity_status": null
+    },
+    {
+      "title": "A pleasure spending the evening with Paul Griffiths, CEO of Dubai International Airport, discussing how technology continues to elevate the passenger…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_a-pleasure-spending-the-evening-with-paul-activity-7384468893647405056-3OKa",
+      "activity_status": null
+    },
+    {
+      "title": "Where movement meets intelligence. Our queue management keeps journeys effortless at Dubai Airport with Emirates. Great concept by DXB! VIA GUIDE",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_where-movement-meets-intelligence-our-queue-activity-7381256664638734336-8Obr",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Media4Growth for the feature. Always great to share how we’re pushing digital signage beyond just scale, toward intelligence,…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_thank-you-media4growth-for-the-feature-always-activity-7382115467210952704-K6oC",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to joining the incredible speaker lineup at #DSE2025 in San Diego in less than 2 weeks! I’ll be speaking about the Middle East’s…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_dse2025-dse2025-proav-activity-7380901155679199232-Tdtm",
+      "activity_status": null
+    },
+    {
+      "title": "Architectural digital surfaces aren’t about screens, they’re about experiences. As Brad Koerner notes, when art and architecture merge with…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_art-artists-and-architectural-digital-surfaces-activity-7378784081423093760-l7qo",
+      "activity_status": null
+    },
+    {
+      "title": "If you missed it, you missed out!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_if-you-missed-it-you-missed-out-activity-7379769858881679361-L68L",
+      "activity_status": null
+    },
+    {
+      "title": "This morning I was at Construction Week's Leaders in Construction. Keynote discussion wasnt't glass towers and facades, but how we're redefining…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_constructionweeklymiddleeast-construction-activity-7374391665194774528-Ehl_",
+      "activity_status": null
+    },
+    {
+      "title": "Love joining Florian Rotberg for his sessions!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_love-joining-florian-rotberg-for-his-sessions-activity-7373994359190552576-5zIK",
+      "activity_status": null
+    },
+    {
+      "title": "Dubai Future Labs and Majid Al Futtaim have launched a pilot with humanoid information robots at City Centre Mirdif and MoE.. The aim is to support…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_retailtech-customerexperience-ai-activity-7375877690874208256-Eubs",
+      "activity_status": null
+    },
+    {
+      "title": "Not one of ours, but I love this concept! We need more creativity like this. Get in touch if you had a part in this creativity. We thrive helping…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_not-one-of-ours-but-i-love-this-concept-activity-7374330472434196480-D0a_",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you, Khalid, for attending our AV Integration Discovery Day and for the kind words. Glad you found it valuable. Niraj Vyas Blue Rhine Industries",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_thank-you-khalid-for-attending-our-av-integration-activity-7379869177194553344-ILWF",
+      "activity_status": null
+    },
+    {
+      "title": "Fingers crossed. Who's going to San Diego? See you there",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_fingers-crossed-whos-going-to-san-diego-activity-7374354381930053632-V908",
+      "activity_status": null
+    },
+    {
+      "title": "First time at InfoComm India in Mumbai this week with Blue Rhine Industries … already impressed. Excited to catch up with partners, meet new ones and…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_first-time-at-infocomm-india-in-mumbai-this-activity-7371087455791378432-ti9a",
+      "activity_status": null
+    },
+    {
+      "title": "You may have seen the awesome ad Abu Dhabi's Department of Culture and Tourism ran on the Sphere Vegas this week for Team Lab Phenomena, here is a…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_you-may-have-seen-the-awesome-ad-abu-dhabis-activity-7366432738402299906-WVFR",
+      "activity_status": null
+    },
+    {
+      "title": "Second year running!!! Blue Rhine Industries is shortlisted at the AV Awards 2025. Great to see our work at the Dubai Fountains recognised on the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_second-year-running-blue-rhine-industries-activity-7363819127917920259-aIjC",
+      "activity_status": null
+    },
+    {
+      "title": "Emaar totally intune with visitor experience. What a brilliant digital hoarding!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_emaar-totally-intune-with-visitor-experience-activity-7341453028396298240-Wcpl",
+      "activity_status": null
+    },
+    {
+      "title": "THE NEXT CHAPTER! From fabricators to full AV integrators Discovery Day marked a turning point. We’ve built the capabilities, proven the delivery,…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_the-next-chapter-from-fabricators-to-activity-7343574165980917760-qRyf",
+      "activity_status": null
+    },
+    {
+      "title": "PRECISION!! Projects like this show what’s possible with the right team. Always proud to see our work contribute to Miral’s bold vision for cultural…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_precision-projects-like-this-show-what-activity-7343918208472551424-w6O5",
+      "activity_status": null
+    },
+    {
+      "title": "We're growing the team!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_were-growing-the-team-activity-7345390038328705024-TzsL",
+      "activity_status": null
+    },
+    {
+      "title": "Was great to reflect on an awesome AV retail project.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_was-great-to-reflect-on-an-awesome-av-retail-activity-7345735041131393027-UQiD",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing like a room full of passionate minds pushing boundaries in digital signage. Will be leaving with fresh ideas, renewed energy, and a few ‘we…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_nothing-like-a-room-full-of-passionate-minds-activity-7331568868986900480-zaqM",
+      "activity_status": null
+    },
+    {
+      "title": "Dave Haynes hanging up his Sixteen:Nine hat feels surreal. You’ve been a guide, a voice of reason, and a brilliant storyteller in this ever-evolving…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_legend-activity-7331689832907169793-KYXo",
+      "activity_status": null
+    },
+    {
+      "title": "Survey says.....EVEN smoother check in!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_survey-sayseven-smoother-check-in-activity-7328304344393576448-9x08",
+      "activity_status": null
+    },
+    {
+      "title": "I'm at World Stadiums and Arenas Summit in Riyadh this week. As a Pro AV system integrator with full in-house structural fabrication capabilities, we…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_im-at-world-stadiums-and-arenas-summit-in-activity-7322866176802324480-iWp0",
+      "activity_status": null
+    },
+    {
+      "title": "Excited we get to deliver another EPIC screen in Dubai, and this time almost THE LONGEST in the world. Now.. does anyone know how I can get a drone…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_emaar-reveals-new-attraction-while-dubai-activity-7321424840505090048-fkfo",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to Passenger Terminal EXPO & CONFERENCE ✈️ tomorrow. Come visit the Via Guide stand to learn more on Queue Management and Dynamic…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_looking-forward-to-passenger-terminal-expo-activity-7314910526889779200-lEH8",
+      "activity_status": null
+    },
+    {
+      "title": "It has been such a joy to watch our workforce diversify! We are committed more than ever to creating more opportunities and career progression for…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_it-has-been-such-a-joy-to-watch-our-workforce-activity-7304064350326054912-zHBR",
+      "activity_status": null
+    },
+    {
+      "title": "Great morning with some very interesting data and insights. Very engaging and dynamic digital campaigns that we could definitely do more of in the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_great-morning-with-some-very-interesting-activity-7295738125505470465-dKhZ",
+      "activity_status": null
+    },
+    {
+      "title": "I'm often asked… do you work for Blue Rhine Industries or Professional Signs? The answer: BOTH! Same company, just different names for different…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_im-often-asked-do-you-work-for-blue-rhine-activity-7290660560797331457-tZG2",
+      "activity_status": null
+    },
+    {
+      "title": "We are so excited to be finalists in two categories for the DIZZIE Awards in Vegas on 9th December! This is a team achievement, to be recognised by…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_we-are-so-excited-to-be-finalists-in-two-activity-7255101714565857280-sysU",
+      "activity_status": null
+    },
+    {
+      "title": "2024... it's a wrap!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_2024-its-a-wrap-activity-7279796583494275072-eoz2",
+      "activity_status": null
+    },
+    {
+      "title": "Switching off the LED screen at Euston is a classic case of addressing symptoms, not causes. Euston handles over 44 million passengers annually, and…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_switching-off-the-led-screen-at-euston-is-activity-7282627822811013120-oEeu",
+      "activity_status": null
+    },
+    {
+      "title": "Dave Haynes delivers yet another compelling report in 'Future Displays 2025.' Known for his candid and concise insights, Dave cuts through the noise…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_dave-haynes-delivers-yet-another-compelling-activity-7285916353645998081-DZz1",
+      "activity_status": null
+    },
+    {
+      "title": "If you're a developer in the GCC and want to enhance how you showcase your properties in a more engaging, memorable and meaningful way, come visit…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_if-youre-a-developer-in-the-gcc-and-want-activity-7275751151650713600-cL8T",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news...the second Sphere venue will be here in the UAE! Expect lots more interesting screens and structure in the region.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_exciting-newsthe-second-sphere-venue-will-activity-7252308841877360640-jo-s",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Mark, for taking the time to highlight the unique challenges and opportunities in the Middle East's digital signage landscape. It was a…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_digitalsignage-middleeastinnovation-collaboration-activity-7265590363120128000-OaCq",
+      "activity_status": null
+    },
+    {
+      "title": "Friends and former colleagues in the South West London and surrounding area, I wanted to share the awesome community Shoba Gayathri Nahappan FRSA and…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_friends-and-former-colleagues-in-the-south-activity-7249653539055013888-prUl",
+      "activity_status": null
+    },
+    {
+      "title": "We've not only been fabricating wayfinding for public spaces with digital elements for dynamic content, but also providing custom software with…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_weve-not-only-been-fabricating-wayfinding-activity-7247843284427886593-QK-B",
+      "activity_status": null
+    },
+    {
+      "title": "A wonderful night in London to celebrate together with industry friends.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_a-wonderful-night-in-london-to-celebrate-activity-7264164513409552384-i9zO",
+      "activity_status": null
+    },
+    {
+      "title": "We'll be exhibiting at Cityscape Riyadh next week. Swing by our booth to learn more on our wayfinding solutions.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_well-be-exhibiting-at-cityscape-riyadh-next-activity-7260553501892640768-dBOM",
+      "activity_status": null
+    },
+    {
+      "title": "We had a great start to our partnership with Via Guide by kicking off at the bussiest airport in the world for international passengers. Keep your…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_we-had-a-great-start-to-our-partnership-with-activity-7265262332279185408-YhuU",
+      "activity_status": null
+    },
+    {
+      "title": "If you're looking for a glazing fabricator in the UK please reach out to Kunaal Odedra. They're doing some incredible work. Kunaal Odedra we need to…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_if-youre-looking-for-a-glazing-fabricator-activity-7262820589885644803-9_AH",
+      "activity_status": null
+    },
+    {
+      "title": "Did you know BRI can manage your digital signage network! We provide content management and creation services across all verticals. Get in touch if…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_did-you-know-bri-can-manage-your-digital-activity-7262821107190165505-HXAa",
+      "activity_status": null
+    },
+    {
+      "title": "Day 3! Join us on our stand to learn more on the projects we are working on across KSA and how we can work together.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_day-3-join-us-on-our-stand-to-learn-more-activity-7262399871612018688-KUXc",
+      "activity_status": null
+    },
+    {
+      "title": "Fingers crossed for Sunday night in Vegas.. while I will be missing out on the fun this year, John V. Joseph will be a DSE if anyone wants to connect.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_fingers-crossed-for-sunday-night-in-vegas-activity-7270727932166230016-N8Ro",
+      "activity_status": null
+    },
+    {
+      "title": "Really enjoyed chatting with industry veteran, Dave Haynes, about MENA signage industry. Thanks for inviting me to share my insights/thoughts. Want…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_nita-odedra-on-how-blue-rhine-industries-activity-7227228214698364932-gmRe",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Amit Patel and AV Magazine for including me on your Round table in London yesterday. It's always great to connect with our peers and gain…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_thank-you-amit-patel-and-av-magazine-for-activity-7218907695318220802-S8vL",
+      "activity_status": null
+    },
+    {
+      "title": "Look forward to seeing more solutions like this on our screens in 2024.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_look-forward-to-seeing-more-solutions-like-activity-7147849909138882561-Ud6P",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to share our first project together very soon! Keep your eyes pealed 👀",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_excited-to-share-our-first-project-together-activity-7201245941838888960-jXVU",
+      "activity_status": null
+    },
+    {
+      "title": "Why you should be at DSE!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_how-does-dss-europe-stand-out-activity-7194610396631121924-rhgN",
+      "activity_status": null
+    },
+    {
+      "title": "Literally sitting at Heathrow T2 (not an old terminal) right now and thinking ... 'you can do better with a little automation'. They have people…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_literally-sitting-at-heathrow-t2-not-an-activity-7198726493814849536-kaXS",
+      "activity_status": null
+    },
+    {
+      "title": "I'm not into watching sports, but this looks like something i might go for when it opens. I like this alternative concept for the score board.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_new-lv-mlb-stadium-would-have-18000-sq-activity-7175461573933547522-r2MO",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you invidis consulting GmbH for having me on this panel to share the Digital Signage landscape in the Middle East. I was privileged to share…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_north-america-middle-east-the-digital-activity-7173234876001804288-sz4y",
+      "activity_status": null
+    },
+    {
+      "title": "It's been up a couple of weeks now, and every time I walk past it, I'm impressed. Here are some more details on the screen and installation. No. I am…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_dubai-malls-newest-attraction-activity-7166374534261030913--7WN",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing to see physical and digital realities come together!!!",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_amazing-to-see-physical-and-digital-realities-activity-7161330863144640512-xLQo",
+      "activity_status": null
+    },
+    {
+      "title": "In the face of mounting environmental urgency and rapid tech evolution, companies need a rock-solid energy strategy. Seeking direction for your…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_energy-strategy-for-the-c-suite-activity-7156712216124129280-0dS4",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to Eng. Maitha Alblooshi for sharing her inspiring journey! Maitha is undeniably one of the most charismatic and driven women I've met in…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_inspiration-womeninleadership-beyoubook2024-activity-7138791607373389824-bHfX",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you David for sharing this project. It was met with challenges, as installation began at the height of covid19 in the UAE (although the airport…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_double-curved-led-store-facade-winding-led-activity-7148676838511345664-yXxC",
+      "activity_status": null
+    },
+    {
+      "title": "Proudly crafted by Blue Rhine Industries, this spectacle at The Dubai Mall is a must-see.",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_one-of-the-citys-largest-led-screens-megatron-activity-7157700631254773761-OrtA",
+      "activity_status": null
+    },
+    {
+      "title": "From leading a team of 150.. What makes a strong Scrum Master in Eng. Maitha Alblooshi's opinion. At Blue Rhine Industries we recognised the value of…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_from-leading-a-team-of-150-what-makes-a-activity-7153378775529857024-B-qc",
+      "activity_status": null
+    },
+    {
+      "title": "Peter and I had a great chat when he was over in Dubai about the future of digital navigation for personal devices and Kiosks. Our conversation…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_digitalnavigation-navigation-wayfinding-activity-7132655534826004480-zePg",
+      "activity_status": null
+    },
+    {
+      "title": "This LED floor screen offers the option to incorporate player tracking into the video floor. This enables real-time display of statistics and…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_playertracking-livestatsdisplay-athleticachievements-activity-7089524011218419714-QaDF",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to finally share the news about our partnership with Living Map! Our interactive digital screens will help navigate indoor and outdoor spaces…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_press-release-enhancing-middle-east-digital-activity-7130178207965720576-y-Y_",
+      "activity_status": null
+    },
+    {
+      "title": "Finally, Abu Dhabi International Airport Terminal A (we knew it as MTB for the last 5 years) is open!! We partnered with duty-free operator…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_abu-dhabi-international-airports-new-terminal-activity-7127535934257922048-FK2g",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to The National News and Cody Sigel Combs for recognising the power of digital signage, hyper-personalisation and the role ot holds in the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_how-personalised-adverts-and-transparent-activity-7145416825130983427-BpH_",
+      "activity_status": null
+    },
+    {
+      "title": "I will be joining Dave and Florian Rotberg at the Invidis Annual Outlook at #ise2024 in Bercelona. Hope to see those of you attending the event at…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_ise2024-activity-7151107860658106368-ex9Q",
+      "activity_status": null
+    },
+    {
+      "title": "Empowered by this morning's panel discussion hosted by the Dubai Business Women Council (DBWC) at DubaiChamber OfCommerce I gained valuable insights…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_dbwc-businesswomen-empowerment-activity-7122899632975675392-YC0a",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks to our fantastic moderator and panelists for an insightful discussion on AI in architecture and interior design. Look forward to moving the…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_luxverse-2023-activity-7122504288844546049-ZRz8",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to the Future Innovation Summit team and Adnan Al Noorani for having me on the panel with these exceptional ladies, Eng. Maitha Alblooshi…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_future-innovation-summit-2023-activity-7117858868864425985-39kU",
+      "activity_status": null
+    },
+    {
+      "title": "ENOC holds a special place in my heart.. The Internet City gas station was my first ever project with Blue Rhine Industries in 2017. Thank you to…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_unveiling-journey-of-enocs-smart-station-activity-7121089585056526337-8Tyk",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_how-computer-vision-works-with-waai-tek-activity-6743850111249461248-4Pbz",
+      "activity_status": null
+    },
+    {
+      "title": "\"IT leaders need to create value for AI by establishing business benefits such as cost reductions and operations improvement by providing practical…",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_ai-machinelearning-artificialintelligence-activity-6736525691304718336-N8Aw",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_retail-ecommerce-future-activity-6737412578516971521-Uaaw",
+      "activity_status": null
+    },
+    {
+      "title": "We have AI solutions specifically for retailers. Get in touch to learn more. #AI #retailsolutions #retail #retailinnovation https://lnkd.in/dvHy7YK",
+      "link": "https://www.linkedin.com/posts/nita-odedra-_3-new-ways-artificial-intelligence-is-powering-activity-6693191953338642432-SBh3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Nita Odedra",
+      "link": "https://uk.linkedin.com/in/nitaodedra",
+      "summary": null,
+      "location": "Leicester"
+    },
+    {
+      "name": "Nita Odedra",
+      "link": "https://uk.linkedin.com/in/nita-odedra-1a16362a",
+      "summary": "Advanced Ophthalmic Practitioner at UHL NHS Trust",
+      "location": "Greater Leicester Area"
+    },
+    {
+      "name": "Nita Odedra",
+      "link": "https://uk.linkedin.com/in/nita-odedra",
+      "summary": "Technical co ordinator at Triconnex",
+      "location": "Leicester"
+    },
+    {
+      "name": "Nita Odedra",
+      "link": "https://uk.linkedin.com/in/nita-odedra-839021138",
+      "summary": "Solicitor",
+      "location": "United Kingdom"
+    }
+  ],
+  "articles": [
+    {
+      "title": "ISE Outlook 2024 (Day 2): LED Colossus, Kinetic Art & Beyond",
+      "link": "https://www.linkedin.com/pulse/ise-outlook-2024-day-2-led-colossus-kinetic-art-beyond-nita-odedra-f4t7f",
+      "published_date": {
+        "day": 2,
+        "month": 2,
+        "year": 2024
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D4D12AQHDWRpjCZRSyw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1706881923710?e=2147483647&v=beta&t=e4pCcyOi-2aHtl3UqUbnephuvJWL9v30suo_a1Whwj0"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:51:36Z"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "public_identifier": "irvan-f-33767080",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/93c8e32f9ed5163a00aabad8c9279f06",
+  "background_cover_image_url": null,
+  "first_name": "Irvan",
+  "last_name": "F.",
+  "full_name": "Irvan F.",
+  "follower_count": 450,
+  "occupation": "Head of Marketing Strategic at Alternative Media Group",
+  "headline": "Head of Strategic at AMG, PT Alternative Media Group",
+  "summary": "I am a seasoned Business & Marketing Strategist with expertise in crafting innovative strategies across various industries.<br><br>With a strong background in marketing, Out-of-Home advertising, and Programmatic DOOH, I’ve successfully led high-impact projects, including C-level events, government presentations, and multimedia productions.<br><br>My experience spans roles such as Business Manager, Marketing Strategist, and Event Producer, showcasing my ability to deliver results and drive success.",
+  "location_str": "Tangerang Selatan, Banten, Indonesia",
+  "country": "ID",
+  "country_full_name": "Indonesia",
+  "city": "South Tangerang City",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Alternative Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amg-pt-alternative-media-group",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing Strategic",
+      "description": null,
+      "location": "Jakarta, Indonesia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ea0bb2b9fba1b3ec1e468367a0dc57a4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2022
+      },
+      "company": "AMG, PT Alternative Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amg-pt-alternative-media-group",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales Marketing Support",
+      "description": null,
+      "location": "Greater Jakarta Area, Indonesia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ea0bb2b9fba1b3ec1e468367a0dc57a4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "K1 brand experience",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2015
+      },
+      "company": "PT. MIRAJ VARDHANA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pt-miraj-vardhana",
+      "company_facebook_profile_url": null,
+      "title": "Business Manager",
+      "description": null,
+      "location": "Indonesia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e4447cc71b2efa35ee03867c7d5e6507"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "company": "Siprama",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Unit Manager",
+      "description": null,
+      "location": "Jakarta",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2012
+      },
+      "company": "AMG, PT Alternative Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amg-pt-alternative-media-group",
+      "company_facebook_profile_url": null,
+      "title": "Strategic Marketing Associate Manager",
+      "description": null,
+      "location": "jakarta",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ea0bb2b9fba1b3ec1e468367a0dc57a4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2010
+      },
+      "company": "Siprama",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Executive",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "company": "HighEnd and HighEnd Teen Magazine (MNC Group)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Communications",
+      "description": null,
+      "location": "Jakarta",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": null,
+      "field_of_study": "Industrial Engineering",
+      "degree_name": null,
+      "school": "Universitas Trisakti",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 449,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rischaputriaqyuni",
+      "name": "Rischa Putri Aqyuni",
+      "summary": "Strategic Planning Marketing at Kompas Gramedia Group of Magazine",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adeliskavirwanni",
+      "name": "Adeliska Virwanni",
+      "summary": "Sales & Marketing Person",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmadkautsar91",
+      "name": "Ahmad Kautsar",
+      "summary": null,
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinageronimo4708",
+      "name": "Vina Geronimo",
+      "summary": null,
+      "location": "Ho Chi Minh City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-raditya",
+      "name": "Muhammad Raditya",
+      "summary": "Media Traffic Officer at AMG",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-vidi-rosen-1399831a",
+      "name": "Dr. Vidi Rosen",
+      "summary": "Act CHRO at Kamadjaja Logistics",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramadani-putra-4132a2a5",
+      "name": "Ramadani Putra",
+      "summary": "Head of Business at DIGIMAXads.id",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoanavebrie",
+      "name": "Yoana Vebrie (Vebie)",
+      "summary": "General Manager | Marketing Communications Expert",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fannychiaa",
+      "name": "Fanny Chia",
+      "summary": "Marketing Business Development Manager at ASRI ( a subsidiary of Agung Sedayu Group)",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irfangian",
+      "name": "Irfan Gian",
+      "summary": "Branch Manager at AMG, PT Alternative Media Group",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-ricardo-simanungkalit-32aa20212",
+      "name": "Christian Ricardo Simanungkalit",
+      "summary": "Procurement at Se'Indonesia",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irzalisa-irsjafri-6729aa9",
+      "name": "Irzalisa Irsjafri",
+      "summary": "Marketing Enthusiast & DOOH Advertising Professional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/royferdinandhandoko",
+      "name": "Roy Ferdinand Handoko",
+      "summary": "GM Sales Serenity Central City & Central Tiban at Central Group",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danar-bagus-ariaqadar-27243a20",
+      "name": "Danar Bagus Ariaqadar",
+      "summary": "Ad Sales and PR. Combine the best of two world.",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/levy-a-s-maengkom-53595022",
+      "name": "Levy A S Maengkom",
+      "summary": "Consultant Independent",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dwiangga-satrya-109b8822",
+      "name": "Dwiangga Satrya",
+      "summary": "a father who is in the world of marketing and communication",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agung-prihambodo-94b48a25",
+      "name": "Agung Prihambodo",
+      "summary": "connecting the dots",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/parulian-lummy-sitorus-33751425",
+      "name": "Parulian Lummy Sitorus",
+      "summary": "GM Advertising Sales at Telkomsel Digital Advertising",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamad-awaludin-syafri-a5bbb132",
+      "name": "Mohamad Awaludin Syafri",
+      "summary": "whats new?",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sitorus-zubel-461a7940",
+      "name": "Sitorus Zubel",
+      "summary": "GM Marketing",
+      "location": "Kecamatan Medan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelva-gultom-443ab947",
+      "name": "Nelva Gultom",
+      "summary": "| AE | Personal Assistant to Sales Director  | Sales Admin. With experience as Account Executive (AE), Personal Assistant, and Sales Admin. I am skilled in administration, scheduling, reporting, and client communication.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luvy-mayanda-620a9955",
+      "name": "Luvy Mayanda",
+      "summary": "Sales and Purchase Steel Material PT. Toyota Tsusho Indonesia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marsela-renata-654b5055",
+      "name": "Marsela Renata",
+      "summary": "Brand Marketing",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonia-niken-40b9565b",
+      "name": "Antonia Niken",
+      "summary": "Creative Marketing Professional | Brand Strategist | Product Innovation & Business Development | SME Enthusiast",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-chan-aa553960",
+      "name": "Thomas Chan",
+      "summary": "CEO at PT Target Media Nusantara",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramdim",
+      "name": "Rama Dimas Yudhistira",
+      "summary": "12+ Years Driving Growth, Strategy & Partnerships in Print / Publishers / OTT.",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadya-halim-79987467",
+      "name": "Nadya Halim",
+      "summary": "Shipping Associate Manager at Kanmo Group",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoga-r-adianto-3704756a",
+      "name": "Yoga R. Adianto",
+      "summary": "Sales Manager at PT.Alternative Media Group (AMG)",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ria-yulianti-b3a64078",
+      "name": "Ria Yulianti",
+      "summary": "Wisdom Crowd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/farit-surya-53900497",
+      "name": "Farit Surya",
+      "summary": "Co-Founder & COO of The Block training camp",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clara-insaniputri-85a61a9b",
+      "name": "Clara Insaniputri",
+      "summary": "Strategic Marketing at PT Cosmax Indonesia",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andri-kurniawan-03a050a0",
+      "name": "Andri Kurniawan",
+      "summary": "Technical, Operation and IT",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/irfan-dzulfikar-399951a1",
+      "name": "Irfan Dzulfikar",
+      "summary": "Data Analytics | Targeted Research | Data-driven Marketing",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcianus-kenny-andy-026986ab",
+      "name": "Marcianus Kenny Andy",
+      "summary": "Sales Group Head at AMG, PT Alternative Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amelia-oktiana-9a5308b0",
+      "name": "amelia oktiana",
+      "summary": "Group Head Sales at PT. Alternative Media group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-faiz-nugroho-57a719b2",
+      "name": "Muhammad Faiz Nugroho",
+      "summary": "Creative",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/putri-azhardianti-686b78b2",
+      "name": "Putri Azhardianti",
+      "summary": "KOL Specialist | Social Media Marketing",
+      "location": "Tangerang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/inda-marlinda-8275b8b7",
+      "name": "Inda Marlinda",
+      "summary": "Sales Group Manager specifically handling Government Brands",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/husen-tuasamu-2907a6108",
+      "name": "Husen Tuasamu",
+      "summary": "Sales Media | Consultant Out Of Home Media",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhamad-farhan-4346a5123",
+      "name": "Muhamad Farhan",
+      "summary": "Sales Group Head",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/haris-noviandi-00558212a",
+      "name": "Haris Noviandi",
+      "summary": "Corporate Brand Management at PT Wahana Nusantara Rucika",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wisnu-dharma-420a80131",
+      "name": "Wisnu Dharma",
+      "summary": "Offline Activation | Partnership | Media Relation",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davy-makimian-169108155",
+      "name": "Davy Makimian",
+      "summary": "CEO at AMG, PT Alternative Media Group",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rina-wiji-kartika-a16205160",
+      "name": "Rina Wiji Kartika",
+      "summary": "Event & Promotion Supervisor | Marketing Communication",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicko-lauw-895341161",
+      "name": "Nicko Lauw",
+      "summary": "Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ranti-yunia-sari-8998bb164",
+      "name": "Ranti Yunia Sari",
+      "summary": "Deputy GM Sales & Marketing Support at AMG, PT Alternative Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/melvin-wijaya-leonardy",
+      "name": "Melvin Wijaya Leonardy",
+      "summary": "Bridging People and Business | Talent Acquisition Professional and Sales Lead",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/febro-handoyo-0b209216a",
+      "name": "Febro Handoyo",
+      "summary": "Associate at ANG Law Firm",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/a-idham-syefuddin-374133173",
+      "name": "A. Idham Syefuddin",
+      "summary": "Account Manager Retail at  AMG",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-jovotjandra-12330717a",
+      "name": "Michael Jovotjandra",
+      "summary": "Human Resources Generalist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/avira-utami-7065831a7",
+      "name": "Avira Utami",
+      "summary": "Work hard | Networking | Achieved",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alishia-4254201b7",
+      "name": "Alishia -",
+      "summary": "Account Executive | Marketing | Project Officer | Coorporate Account Manager | Client Relations",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eneng-yanti-prihatini-8911731b8",
+      "name": "Eneng Yanti Prihatini",
+      "summary": "Account Manager di AMG, PT Alternative Media Group",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aisha-pratiwi-a610a9200",
+      "name": "Aisha Hazelia Pratiwi",
+      "summary": "Sr Account Executive at Infinith Ads | OOH Media Specialist",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-berlianty-5a1094207",
+      "name": "Maria Berlianty",
+      "summary": "Account payable at Capitol Group Indonesia",
+      "location": "Tangerang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carollina-christina-251615210",
+      "name": "Carollina Christina",
+      "summary": "Senior Account Manager - Alternative Media Group",
+      "location": "Jakarta"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Congratulations to AMG and Mahaka! for the launch of \"Sarinah Cubetron\"",
+      "link": "https://www.linkedin.com/posts/irvan-f-33767080_congratulations-to-amg-and-mahaka-for-the-activity-6911994654578143232-d1L5",
+      "activity_status": null
+    },
+    {
+      "title": "#doohadvertising #dooh #advertising #videotron",
+      "link": "https://www.linkedin.com/posts/irvan-f-33767080_doohadvertising-dooh-advertising-activity-6948529399738576896-BHWc",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Irvan f",
+      "link": "https://id.linkedin.com/in/irvan-f-a213631a7",
+      "summary": "Business Intermediary di Altharizzi property",
+      "location": "Jakarta Metropolitan Area"
+    },
+    {
+      "name": "Irvan F",
+      "link": "https://id.linkedin.com/in/irvan-f-3721501ab",
+      "summary": "--",
+      "location": "Banjarnegara"
+    },
+    {
+      "name": "Irvan F Satria",
+      "link": "https://id.linkedin.com/in/irvanfsatria",
+      "summary": "PT Kereta Api Indonesia (Persero)",
+      "location": "Central Java, Indonesia"
+    },
+    {
+      "name": "Irvan F",
+      "link": "https://id.linkedin.com/in/irvan-f-b43546212",
+      "summary": "Staff Admin | Document Control Quality Management System | Quality Control | Quality Assurance | Quality Painting",
+      "location": "Karawang"
+    },
+    {
+      "name": "Irvan F",
+      "link": "https://id.linkedin.com/in/irvan-f-40914a1ab",
+      "summary": "--",
+      "location": "Banjarnegara"
+    },
+    {
+      "name": "Irvan F",
+      "link": "https://id.linkedin.com/in/irvan-f-b61537291",
+      "summary": "--",
+      "location": "Surabaya"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-12-20T00:00:00Z"
+  }
+}

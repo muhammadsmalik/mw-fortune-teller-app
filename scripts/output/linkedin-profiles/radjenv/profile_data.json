@@ -1,0 +1,719 @@
+{
+  "public_identifier": "radjenv",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ee222b7ecffa4c5fbe168379e6ca5895",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQEcSHhIQ1J1KQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1691581056141?e=2147483647&v=beta&t=-RIUxhfQCaZ9wCsL8s7usxKQ-1-yrs97d05p62xm5og",
+  "first_name": "radjen",
+  "last_name": "van wilsem",
+  "full_name": "radjen van wilsem",
+  "follower_count": 2614,
+  "occupation": "Group CEO at Librium Holding",
+  "headline": "CEO at CS Digital Media",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Librium Holding",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group CEO",
+      "description": null,
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "CS Digital Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cs-digital-media",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b9292091cf569f0c9c341d3bb0226d01"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "company": "MyAdbooker",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/myadbooker",
+      "company_facebook_profile_url": null,
+      "title": "Chief executive officer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/348d243fdc1058492cdfd6d64e3a288c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Central Station NL",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": "Central Station NL heet vanaf nu CS Digital Media",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Tasty Kitchen",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director & Co-Founder",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      },
+      "company": "BST-Brands",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bst-brands",
+      "company_facebook_profile_url": null,
+      "title": "CTO",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "KPN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kpn",
+      "company_facebook_profile_url": null,
+      "title": "COO QYN",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5579a8fb2dbeea584da1402e5f01c051"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      },
+      "company": "Media Librium",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-librium",
+      "company_facebook_profile_url": null,
+      "title": "Director Operations",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2003
+      },
+      "company": "Raf Consumer Electronics",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director Business markets",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Spearpoint Dublin",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "VP Marketing & Sales",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2001
+      },
+      "company": "KPN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kpn",
+      "company_facebook_profile_url": null,
+      "title": "Manager E-Commerce Station 12",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5579a8fb2dbeea584da1402e5f01c051"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2000
+      },
+      "company": "CMG",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Associate Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "KPN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kpn",
+      "company_facebook_profile_url": null,
+      "title": "Manager Implementation Businessline 0800/0900",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5579a8fb2dbeea584da1402e5f01c051"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "CMG",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "IT Consultant",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 1995
+      },
+      "company": "Raf Consumer Electronics",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1992
+      },
+      "company": "Shell",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/shell",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager Factory Shutdown",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/83afe9850125452b038e9c1c6c6b0739"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c95a37393dfac1eecc5183ad726a249c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Amsterdam University of Applied Sciences",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-van-amsterdam",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b761e9e04c17953ef9f42a28732a2bc3",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "IMD (International Institute for Management Development) - Business Programs",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/imd-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c9a18b89409689eb6b01bed30a40e8f",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/victorhoynckvanpapendrecht",
+      "name": "Victor Hoynck van Papendrecht",
+      "summary": "Regain business perspective and healthy growth",
+      "location": "Renkum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/6277",
+      "name": "Nasr E.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pimvangeest",
+      "name": "Pim van Geest",
+      "summary": null,
+      "location": "Amersfoort"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijn-bergkamp",
+      "name": "Martijn Bergkamp",
+      "summary": "Working on the future...",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lieshoutfrank",
+      "name": "Frank Lieshout",
+      "summary": "Unicorn bv•857 followers",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joostvanderplas",
+      "name": "Joost van der Plas",
+      "summary": "Managing & General Partner Maven 11",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/viktormirovic",
+      "name": "Viktor Mirovic",
+      "summary": "Advancing human wellbeing by developing new ways to understand, measure, communicate and respond to emotions",
+      "location": "Rotterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peterbancroft",
+      "name": "Peter Bancroft",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelvaneverdingen",
+      "name": "Michael van Everdingen",
+      "summary": "CEO at StoreINC",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katirook",
+      "name": "Kati Rook",
+      "summary": "EMEA Sales Transformation Program Manager at Lenovo",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arnoud-kamerbeek-1b9146",
+      "name": "Arnoud Kamerbeek",
+      "summary": "CEO at Jungle",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefaan-vansteenkiste-a01580",
+      "name": "Stefaan Vansteenkiste",
+      "summary": "Retired",
+      "location": "Arnhem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelvankesteren",
+      "name": "Marcel van Kesteren",
+      "summary": "CEO ZND Group",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felix-de-wit-40b6073",
+      "name": "Felix de Wit",
+      "summary": "Chief Executive Officer at Schalkshof Management & Consultancy",
+      "location": "Nijmegen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/n-h-j-a996518",
+      "name": "N H J",
+      "summary": "Chief Executive Officer at Loits Beheer B.V.",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-kersten-52030414",
+      "name": "Eric Kersten",
+      "summary": "Owner of Team TOC and Founder European Para Championships",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miltiadis-g-6b009616",
+      "name": "Miltiadis G.",
+      "summary": "Chief Executive Officer at: HVA International B.V./ Handelsvereniging Amsterdam (Est. 1879), H. G. Th. Crone (Est. 1790) and Council Member at the World Agriculture Forum.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/twan-mooring-6272b733",
+      "name": "Twan Mooring",
+      "summary": "Chief Executive Officer at TM Capital N.V.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brigit-van-dijk-van-de-reijt-aa429388",
+      "name": "Brigit van Dijk - van de Reijt",
+      "summary": "CEO Brabantse Ontwikkelings Maatschappij",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-verheij-623999134",
+      "name": "richard verheij",
+      "summary": "Chief Executive Officer at I-Finance",
+      "location": "The Hague"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Vriendschap, ondernemen en volle bak energie 🚀 Afgelopen week heb ik een geweldige tijd gehad in Gerlos met goede vrienden – stuk voor stuk…",
+      "link": "https://nl.linkedin.com/posts/florian-lem_ondernemen-vrijheid-balans-activity-7297231010100891648-qRo9",
+      "activity_status": null
+    },
+    {
+      "title": "Terug op het oude nest! 🏡✨ Na een fantastisch jaar bij Ocean Outdoor Nederland, waar ik met veel plezier heb gewerkt, kon ik deze kans niet laten…",
+      "link": "https://nl.linkedin.com/posts/noëlla-klein-ikkink_terug-op-het-oude-nest-na-een-fantastisch-activity-7292429221434413056-g015",
+      "activity_status": null
+    },
+    {
+      "title": "It was a pleasure representing MyAdbooker at Integrated Systems Europe (ISE) Barcelona this week. Great to meet so many industry professionals and…",
+      "link": "https://www.linkedin.com/posts/jalalelmoussaoui_ise2025-samsung-myadbooker-activity-7293383172552093696-xXC0",
+      "activity_status": null
+    },
+    {
+      "title": "For a whole year, Srna Kunovska has been the guardian of quality at Scopisto Advanced Technology, ensuring every feature is flawless and every…",
+      "link": "https://www.linkedin.com/posts/scopisto-advanced-technology_employeeworkversary-activity-7292150070639054848-OlCb",
+      "activity_status": null
+    },
+    {
+      "title": "Met trots zal ik dit jaar plaatsnemen in de AMMA Jury in de categorie ‘Beste gebruik van data en technologie’! Heb jij een toffe case die hier…",
+      "link": "https://nl.linkedin.com/posts/lisa-goris-35006a181_met-trots-zal-ik-dit-jaar-plaatsnemen-in-activity-7287490086844203009-swLq",
+      "activity_status": null
+    },
+    {
+      "title": "🔥Zo hebben wij het eind van het jaar afgesloten bij Megawatt 🔥 Afgelopen december was Squid Game niet te missen in Amsterdam. Duizenden fans…",
+      "link": "https://nl.linkedin.com/posts/charlotte-dumartin-88725710_zo-hebben-wij-het-eind-van-het-jaar-afgesloten-activity-7287777130908663809-vmxi",
+      "activity_status": null
+    },
+    {
+      "title": "2025 begint goed! ✨ Na 18 mooie jaren bij Kinetic en GroupM, waar ik veel heb mogen leren en samenwerken met de beste collega’s en partners, is het…",
+      "link": "https://nl.linkedin.com/posts/robert-van-der-starre-08435719_ooh-nieuweuitdaging-leiderschap-activity-7280275079232405504-t2li",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 𝐄𝐞𝐧 𝐛𝐢𝐣𝐳𝐨𝐧𝐝𝐞𝐫 𝐭𝐫𝐨𝐭𝐬 𝐦𝐨𝐦𝐞𝐧𝐭 𝐯𝐨𝐨𝐫 ShowHeroes 𝐍𝐞𝐝𝐞𝐫𝐥𝐚𝐧𝐝! 🌟 Ik ben ontzettend blij en trots om te delen dat…",
+      "link": "https://nl.linkedin.com/posts/timsamsom_showheroes-adformatie-nummer1-activity-7275504656275898372-YFCb",
+      "activity_status": null
+    },
+    {
+      "title": "A great recognition from advertisers and agencies for Ocean Outdoor. We are the Number 1 media company of the Netherlands 2024 ! How incredibly…",
+      "link": "https://www.linkedin.com/posts/xavier001_a-great-recognition-from-advertisers-and-activity-7275482304418844673-VjbH",
+      "activity_status": null
+    },
+    {
+      "title": "Met Frank…ja van padel. Vraagje, zou jij ons binnenkort op ons feest willen trouwen? Da’s verrassend Frank, zo goed kennen we elkaar niet toch? Maar…",
+      "link": "https://nl.linkedin.com/posts/dickvanderlecq_met-frankja-van-padel-vraagje-zou-jij-activity-7274669095592071168-7zUk",
+      "activity_status": null
+    },
+    {
+      "title": "Proud of my new role as Managing Director Media at Publicis Groupe NL Inspired by Publicis' advancements in data and technology, along with the…",
+      "link": "https://www.linkedin.com/posts/eva-holtkamp-9618175_eva-holtkamp-managing-director-media-publicis-activity-7262404013453725696-D-JV",
+      "activity_status": null
+    },
+    {
+      "title": "Was weer een tof Megawatt padel toernooi met klanten én samen met onze partners Amp.Amsterdam // The Sonic Branding Company en Ocean Outdoor…",
+      "link": "https://nl.linkedin.com/posts/charlotte-dumartin-88725710_was-weer-een-tof-megawatt-padel-toernooi-activity-7267861677230940160-ytye",
+      "activity_status": null
+    },
+    {
+      "title": "This #InternationalWomensDay, we celebrate the incredible women who innovate, inspire, and Code with Purpose. You drive progress, and we’re proud to…",
+      "link": "https://www.linkedin.com/posts/scopisto-advanced-technology_internationalwomensday-scopistoappreciates-activity-7304063452048719873-SUIL",
+      "activity_status": null
+    },
+    {
+      "title": "Raif Al-Harthy Raif Al Harthy is an Omani entrepreneur known for his significant contributions to the technology and advertising sectors in Oman…",
+      "link": "https://www.linkedin.com/posts/abdullah-alhinai-489044100_entrepreneur-omani-cassette-activity-7298279609890971648-RFBz",
+      "activity_status": null
+    },
+    {
+      "title": "𝘞𝘢𝘵 𝘭𝘪𝘦𝘧 𝘷𝘢𝘯 𝘥𝘦 𝘙𝘌𝘛 ❤️ Op Valentijnsdag lanceerde de RET op het drukste metrostation van Rotterdam iets wat reizigers niet van ons…",
+      "link": "https://nl.linkedin.com/posts/maarten-timmer-79804583_𝘞𝘢𝘵-𝘭𝘪𝘦𝘧-𝘷𝘢𝘯-𝘥𝘦-𝘙𝘌𝘛-op-activity-7298007112498962434-YR2v",
+      "activity_status": null
+    },
+    {
+      "title": "If you needed convincing that the DOOH world is growing, look no further. CS Digital Media went all out—renting an entire metro, complete with a DJ,…",
+      "link": "https://www.linkedin.com/posts/caroline-zoet-4953431b1_if-you-needed-convincing-that-the-dooh-world-activity-7301187775368704001-SBk9",
+      "activity_status": null
+    },
+    {
+      "title": "We are very happy to welcome Kick Zandbergen to our LiveRamp team Kick joins us as Head of LiveRamp Netherlands 🇳🇱 , based in Amsterdam, and brings…",
+      "link": "https://www.linkedin.com/posts/kevinkielbaey_liveramp-retailmedia-datacollaboration-activity-7436654409352183808-DqTv",
+      "activity_status": null
+    },
+    {
+      "title": "Vandaag is de dag dat mannen massaal ontdekken dat Valentijn niet ergens in februari valt. Geen cadeau. Geen reservering. Geen bloemen. Alleen…",
+      "link": "https://nl.linkedin.com/posts/florian-lem_vandaag-is-de-dag-dat-mannen-massaal-ontdekken-activity-7428377992311046144-Z8oB",
+      "activity_status": null
+    },
+    {
+      "title": "Tijd voor een nieuwe aftrap! ⚽️ Na vijfenhalf jaar bij Match My Brand te hebben gewerkt in hartje Amsterdam, heb ik onlangs de overstap gemaakt…",
+      "link": "https://nl.linkedin.com/posts/nicole-bijdevaate-68910a13b_tijd-voor-een-nieuwe-aftrap-na-vijfenhalf-activity-7422235079432646656-nqrf",
+      "activity_status": null
+    },
+    {
+      "title": "Rust zacht lief nichie❣️",
+      "link": "https://de.linkedin.com/posts/natasja-elmont-2005564a_rust-zacht-lief-nichie-activity-7419714259502338048-cOh8",
+      "activity_status": null
+    },
+    {
+      "title": "✅ Stage afgerond! De afgelopen 5 maanden stonden voor mij in het teken van groei, nieuwe inzichten en een hoop werkplezier bij CS Digital Media…",
+      "link": "https://nl.linkedin.com/posts/merlijn-van-dun-6617251ba_stage-csdigitalmedia-bedrijfskunde-activity-7420393797978746880-iuEQ",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to have contributed to the LNG2026 media campaign for QatarEnergy and to see months of teamwork now live across OOH in Qatar. Great…",
+      "link": "https://www.linkedin.com/posts/charlotte-dumartin-88725710_proud-to-have-contributed-to-the-lng2026-activity-7421133163600502784-g7yU",
+      "activity_status": null
+    },
+    {
+      "title": "Een logische volgende stap: analoog en digitaal nu echt landelijk samengebracht. Met deze volledige overname bouwen we verder aan transparant…",
+      "link": "https://nl.linkedin.com/posts/robert-van-der-starre-08435719_een-logische-volgende-stap-analoog-en-digitaal-activity-7408823859170131968-hpTm",
+      "activity_status": null
+    },
+    {
+      "title": "Ik start dit (werk) jaar gewoon met een dankbaarheidspost over mijn partner in crime Eefke Zoetmulder Ik kan namelijk niet wachten om komend jaar…",
+      "link": "https://nl.linkedin.com/posts/jorine-zoetmulder-47082aa_ik-start-dit-werk-jaar-gewoon-met-een-dankbaarheidspost-activity-7413935153808457729-0lXT",
+      "activity_status": null
+    },
+    {
+      "title": "What a great experience attending the World Out of Home Organization National Associations Meeting in Seoul, South Korea as part of WOOH APAC…",
+      "link": "https://www.linkedin.com/posts/ahsan-sheikh-791530113_what-a-great-experience-attending-the-world-activity-7392097794863411200-UkzR",
+      "activity_status": null
+    },
+    {
+      "title": "Ik dacht dat ik inmiddels wel op de meeste locaties had gestaan voor een evenement! Maar niets bleek minder waar. Afgelopen weekend stond ik…",
+      "link": "https://nl.linkedin.com/posts/jorine-zoetmulder-47082aa_ik-dacht-dat-ik-inmiddels-wel-op-de-meeste-activity-7392203427130331136-Jvv_",
+      "activity_status": null
+    },
+    {
+      "title": "Vandaag exact tien jaar geleden ging bij mij het licht uit en werd het even heel stil. Ik kreeg een hersenbloeding. Daarna volgde een lastige…",
+      "link": "https://nl.linkedin.com/posts/oskarhendriksen_vandaag-exact-tien-jaar-geleden-ging-bij-activity-7387368996339355648-aVU0",
+      "activity_status": null
+    },
+    {
+      "title": "4,5 jaar geleden kreeg ik de kans bij Tapfin om deel uit te maken van het Elia-team. Een moedige beslissing van Sylvie Borremans en Ellen Saeys! Zo'n…",
+      "link": "https://nl.linkedin.com/posts/hilde-ketels-0a63036_45-jaar-geleden-kreeg-ik-de-kans-bij-tapfin-activity-7380554805385142272-zHam",
+      "activity_status": null
+    },
+    {
+      "title": "𝗖𝗦𝗗𝗠 𝘅 𝗙𝗼𝗿𝗺𝘂𝗹𝗮 𝟭 𝗗𝘂𝘁𝗰𝗵 𝗚𝗿𝗮𝗻𝗱 𝗣𝗿𝗶𝘅 – 𝗘𝗲𝗻 𝗼𝗻𝘃𝗲𝗿𝗴𝗲𝘁𝗲𝗹𝗶𝗷𝗸 𝘄𝗲𝗲𝗸𝗲𝗻𝗱🔥 𝗩𝗮𝗻 𝟮𝟵 𝘁/𝗺 𝟯𝟭…",
+      "link": "https://nl.linkedin.com/posts/cs-digital-media_csdm-formula1-dutchgrandprix-activity-7371537672189820928-3p9P",
+      "activity_status": null
+    },
+    {
+      "title": "Today we concluded three days of F1 spectacle at Zandvoort with our friends in business. We experienced the privilege to be at the founders lounge…",
+      "link": "https://www.linkedin.com/posts/activity-7368010533725212675-eXJJ",
+      "activity_status": null
+    },
+    {
+      "title": "Even meedoen met de pride, liep bij CS DIGITAL MEDIA uit op een hele grote banner op centraal station in Amsterdam. Met dank aan Y-pos, Mark Veenman,…",
+      "link": "https://www.linkedin.com/posts/radjenv_even-meedoen-met-de-pride-liep-bij-cs-digital-activity-7223011185523134464-wcb3",
+      "activity_status": null
+    },
+    {
+      "title": "A warm welcome to our newly added Software Tech Facility in the group of brands. Located in the lovely city of Skopje, MacedoniÃ«. In close…",
+      "link": "https://www.linkedin.com/posts/radjenv_advertisingtechnology-activity-6996732087638597633-DdFM",
+      "activity_status": null
+    },
+    {
+      "title": "Amma media award nomination in categorie \"Best Media Innovation\" has been received with co nominees Ziggo Vodafone, Ster and Wavemaker. May the best…",
+      "link": "https://www.linkedin.com/posts/radjenv_csdm-viert-amma-nominatie-activity-6815346691789598721-FlVO",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/radjenv_digitalmedia-magazine-dooh-activity-6744997340823785473-FDL1",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/radjenv_projectmanager-shell-development-activity-6663881126890745857-aOcf",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/radjenv_dooh-stuwt-omzet-nederlandse-out-of-homebranche-activity-6630971095249895424-7aqI",
+      "activity_status": null
+    },
+    {
+      "title": "Its begins to make you aware. In Digital out of Home is bekend dat je 9x geconfronteerd moet worden met een boodschap om een brein positie te…",
+      "link": "https://www.linkedin.com/posts/radjenv_its-begins-to-make-you-aware-in-digital-activity-6662316728917209088-dLJp",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/radjenv_amsterdam-dooh-weesperplein-activity-6474170281253490688-PS6z",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-17T00:00:00Z"
+  }
+}

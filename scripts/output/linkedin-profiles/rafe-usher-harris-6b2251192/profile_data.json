@@ -1,0 +1,946 @@
+{
+  "public_identifier": "rafe-usher-harris-6b2251192",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5e69ff7a2314dd4dbc16fa049cf3a47c",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Rafe",
+  "last_name": "Usher-Harris",
+  "full_name": "Rafe Usher-Harris",
+  "follower_count": 3810,
+  "occupation": "Commercial Manager (EMEA) at AllUnite",
+  "headline": "Cross-cultural connector | Experienced sales expert who goes the extra mile",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "AllUnite",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/allunite-com",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Manager (EMEA)",
+      "description": "AllUnite is a global advertising technology platform that enables advertising companies and media agencies to effectively measure, forecast, and target audiences in real-time.\n\nAllUnite is a turn-key adtech solution for audience measurement out-of-home (OOH): in stores, cinemas, airports, shopping centres, railway stations, or many more.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/725387520fdb577af1378d235bca6e45"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Summerstowe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/summerstowe",
+      "company_facebook_profile_url": null,
+      "title": "Freelance",
+      "description": "Sales and cross-cultural expert. Committed to holistic engagement and empowering start-ups and SMB businesses.",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2724b44d242c04943d5abf11ef0abc07"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Rodeo Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/getrodeosoftware",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager (UK Market)",
+      "description": "Key Responsibilities: \n- Leading UK Market and Managing Team\n- Client Success and Management\n- Market Research and Analysis\n-  Recruitment\n- Team Coaching",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/63d215a32a6bb57ee1b53937a3430584"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Rodeo Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/getrodeosoftware",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Executive",
+      "description": "Key Responsibilities:\n- Launched UK Market \n- Market Research\n- Client Acquisition\n- Customer Success\n-Market Development\n- 1-on-1 and team training\n- Market KPI's",
+      "location": "Amsterdam Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/63d215a32a6bb57ee1b53937a3430584"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2021
+      },
+      "company": "Rodeo Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/getrodeosoftware",
+      "company_facebook_profile_url": null,
+      "title": "Sales Development Representative",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/63d215a32a6bb57ee1b53937a3430584"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2019
+      },
+      "company": "SalesLabs",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sales-labs",
+      "company_facebook_profile_url": null,
+      "title": "Venture Developer (Internship)",
+      "description": "Jobs: \n-Direct Sales \n-Outbound Lead Generation\n-Administrative Work",
+      "location": "Berlin Area, Germany",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6bc3291b66fde60772d6a4b6f6ef6d34"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Maker&Son",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/makerandson",
+      "company_facebook_profile_url": null,
+      "title": "Team Assistant",
+      "description": null,
+      "location": "Balcombe, West Sussex, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9e4d1504957d5bbc4058bcc3b985414f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Political Science- International Relations,  Security and Global Order",
+      "degree_name": "Master's degree",
+      "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c95a37393dfac1eecc5183ad726a249c",
+      "grade": "7.6/ 10 GPA",
+      "activities_and_societies": "Activiteiten en verenigingen:Applying Core Debates (8.0)\nCore Debates in Political Science (8.5)\nSelected Issues: Global Political Economy and Geopolitics (7.5)\nPolitical and Policy Research: Philosophy and Design (7.5)\nSelected Issues: International Security (8.0)\nApplying Qualitative and Quantitative Methods in Political Science (8.0)\nWorkshop in International Relations, Security and Global Order (9.0)\n\nThesis on minority attitudes towards the state of Israel and wider society"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": "International Programme in Politics and Economics",
+      "degree_name": "Bachelor's degree",
+      "school": "University West",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/h-gskolan-v-st-university-west-",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b3fc620ea968917265eea34aef78475f",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Swedish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "German",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Dutch",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Swedish",
+      "proficiency": "LIMITED_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "Taalniveau B1 (Nederlands)",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Sagènn",
+      "url": null
+    }
+  ],
+  "connections": 3802,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/fvdberg1",
+      "name": "Frank van den Berg",
+      "summary": "Runnr.ai | For the ultimate Guest Experience",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michiel-de-vor",
+      "name": "Michiel de Vor",
+      "summary": "Co-founder & CEO - Runnr.ai",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliverhbaker",
+      "name": "Oliver Baker",
+      "summary": null,
+      "location": "Shrewsbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cabreracabrera",
+      "name": "Daniel Cabrera Cabrera",
+      "summary": "Head of Marketing at Runnr.ai",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/myron-akse",
+      "name": "Myron Akse",
+      "summary": "Delight your customers on their favorite channels",
+      "location": "Lopik"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshrgross",
+      "name": "Joshua Gross",
+      "summary": null,
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesthomasuk",
+      "name": "James Thomas",
+      "summary": "WordPress Support | Website Management | WordPress Migrations",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steveegglestonakatheeggman",
+      "name": "Steve Eggleston",
+      "summary": "Founder/CEO at The Eggman Global Universe",
+      "location": "Pilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petarmitrov",
+      "name": "Petar Mitrov",
+      "summary": "$2M+ client revenue generated for B2B companies through LinkedIn outreach that works | CEO @ LeadMakers | leadmakers.io",
+      "location": "Gevgelija"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-aziz",
+      "name": "Dan Aziz",
+      "summary": "Film Producer | Ad Photographer | Investor",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marciano-johns",
+      "name": "Marciano Johns",
+      "summary": "MSc Political Science | BSc International Business & Languages Graduate",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aukjecroqu%25C3%25A9",
+      "name": "Aukje Croqué",
+      "summary": null,
+      "location": "Lelystad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartenfugers",
+      "name": "Maarten Fugers",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benpalmby",
+      "name": "Ben Palmby",
+      "summary": "Barcoding Solutions",
+      "location": "Lincoln"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilleallegrini",
+      "name": "Camille A.",
+      "summary": "We're hiring! | Data observability",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandermungkorn",
+      "name": "Alexander Mungkorn",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankvandekoppel",
+      "name": "Frank van de Koppel",
+      "summary": "Available 🙌 – Freelance Strategist / Creative | Social Media / Content Marketing / Communications / Digital Marketing",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasileios-triantafyllidis",
+      "name": "Vasilis Triantafyllidis",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rayhaanmoughal",
+      "name": "Rayhaan Moughal ACA",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hasan-rasoul",
+      "name": "Hasan Rasoul",
+      "summary": "Political Scientist - Researcher of Postcolonialism",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/feliciawickbom",
+      "name": "Felicia Wickbom",
+      "summary": "Sales Consultant at DNV GL",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/augusthjorth",
+      "name": "August Hjorth",
+      "summary": "Building a better internet @ Cloudflare",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-tallon",
+      "name": "Matthew Tallon",
+      "summary": "University Student @ Vrije Universiteit Amsterdam",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martjandevries",
+      "name": "Mart-Jan de Vries",
+      "summary": "Regional Partner Manager Northern Europe @ Vectra AI | Driving cybersecurity partnerships | Passionate about stopping cybercrime | People, partnerships & technology",
+      "location": "Groningen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-bartasek-5a9a4123",
+      "name": "Lisa Bartasek",
+      "summary": "Project Manager",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ctgilbert",
+      "name": "Charles Gilbert",
+      "summary": "Customer Success Manager",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jalopezescala",
+      "name": "Jose Lopez",
+      "summary": "Helping MSP's protect their critical data.",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielcbrra",
+      "name": "Daniel Cabrera Cabrera",
+      "summary": "Head of Marketing at Runnr.ai",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexhoeksma",
+      "name": "Alex Hoeksma",
+      "summary": "Experienced IT Entrepreneur. Founder, Co-owner and Managing Director of InnSpire Software Engineering and angel investor.",
+      "location": "Lopik"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glorialazzaro",
+      "name": "Gloria Lazzaro",
+      "summary": "Customer Success Manager - Team Lead",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-schuuring-896027290",
+      "name": "Maxime Schuuring",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karendieleman",
+      "name": "Karen Dieleman",
+      "summary": null,
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-imber-aa8806232",
+      "name": "Rafael Imber",
+      "summary": "Accounts Assistant at SIAN Wholesale LTD",
+      "location": "Dorking"
+    },
+    {
+      "link": "https://www.linkedin.com/in/afvanhaag",
+      "name": "Alessandro V.",
+      "summary": "Student MSc. International Relations | Secretaris Jonge Socialisten in de PvdA | Redacteur Seneca Burgerschap",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandervergouwen",
+      "name": "Sander Vergouwen",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alextallon",
+      "name": "Alex Tallon",
+      "summary": null,
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-gor%25C3%25A9e-01772171",
+      "name": "Thomas Gorée",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-tkachenko-b2068619",
+      "name": "Mike Tkachenko",
+      "summary": "Business Development Director at Abris Design Group",
+      "location": "Romford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daansmit95",
+      "name": "Daan Smit",
+      "summary": "Customer Success Manager @ Camunda | Driving Customer Success",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-reid-54806422a",
+      "name": "Stephen Reid",
+      "summary": "Parliamentary Assistant",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lina-rixius",
+      "name": "Lina Rixius",
+      "summary": "Sustainability Analyst; Research Candidate at EIPRHR; Project Management; Master in Political Science - Global Environmental Governance; Psychology",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-fogelberg-%25E2%259C%2594-0a925812a",
+      "name": "Kim Fogelberg ✔",
+      "summary": "Account Executive - Nordics @ HiBob",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasha-dovhal-291331134",
+      "name": "Sasha Dovhal",
+      "summary": "Apple Device Management    Helping your organisation succeed with Apple in the MEA region",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alec-scicchitano",
+      "name": "Alec Scicchitano",
+      "summary": "Legislative Aide at the Massachusetts House of Representatives. Passionate about our planet and the life on it.",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gijs-dankers-309a4a5",
+      "name": "Gijs Dankers",
+      "summary": "Enjoying life (retired)",
+      "location": "Apeldoorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-castree-6a17a718",
+      "name": "Stephen Castree",
+      "summary": "Founder and Director at Climate Wise",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karolina-chmielarska-2056421b",
+      "name": "Karolina Chmielarska",
+      "summary": "Strategic B2B Marketing | Demand Generation | Analytical & Customer Centric",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-hatch-261aa525",
+      "name": "Sophie Hatch",
+      "summary": "Brand and Business Development Consultant, Mentor and Investor with a passion for start up and small businesses.",
+      "location": "Balcombe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melvon-williams-839a7626",
+      "name": "Melvon Williams",
+      "summary": "Senior Account Executive | Driving Sales Growth | Relationship Building | Sales Strategy | Key Account Management | Revenue Generation",
+      "location": "Metro Detroit"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bibianne-mulder",
+      "name": "Bibianne Mulder",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-hendrik-bouw-2930813b",
+      "name": "Jan Hendrik Bouw",
+      "summary": "Administratief Medewerker Zorg",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-kiel-1129373b",
+      "name": "Tom Kiel",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giles-hannah-84b5b54b",
+      "name": "Giles Hannah",
+      "summary": "Founder/CEO at FI Capital Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-bode-content-producer",
+      "name": "Laura Bode",
+      "summary": "Marketing- en communicatieadviseur | Producer | Tekstschrijver",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsey-boyes-28877b55",
+      "name": "Lindsey Boyes",
+      "summary": "Commercial Manager for Nettl UK | Nettl helps creative businesses with growth & scalability",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthijshamers",
+      "name": "Matthijs Hamers",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/irene-vuur-bruin-88a4a772",
+      "name": "Irene Vuur - Bruin",
+      "summary": "Account Executive at Amstour",
+      "location": "Purmerend"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohan-sanghvi",
+      "name": "Rohan Sanghvi",
+      "summary": "Business Development @ Smartsheet | Ex-Amplitude, Ex-Uber | University of Michigan, Ross Business School",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijn-de-groot-89986081",
+      "name": "Martijn De Groot",
+      "summary": null,
+      "location": "Flushing"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gillesnez",
+      "name": "Gilles Nez",
+      "summary": "Account Director - Financial Services at Salesforce",
+      "location": "Maastricht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-cobden-ramsay-99b1a1a9",
+      "name": "Sarah Cobden-Ramsay",
+      "summary": "Founder of Rhino Tears Jewellery",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-sheppard-736443b9",
+      "name": "James Sheppard",
+      "summary": "International Flying Angel",
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barend-brikkenaar-van-dijk-688314105",
+      "name": "Barend Brikkenaar van Dijk",
+      "summary": "Senior Account Executive | Trusted Shops",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joey-berkhoff-a2b4b9108",
+      "name": "Joey Berkhoff",
+      "summary": "Territory Account Executive ☁️",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolaslorenzi92",
+      "name": "Nicolas Lorenzi",
+      "summary": "GTM - Hunter Account Executive @ Stripe",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bilyana-tsvetkova-3009b6121",
+      "name": "Bilyana Tsvetkova",
+      "summary": "Control Testing Analyst at Experian",
+      "location": "Sofia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tess-castelijn-ab960b124",
+      "name": "Tess Castelijn",
+      "summary": "Secretaris CTER/IM",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-fogelberg-0a925812a",
+      "name": "Kim Fogelberg",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sachaconvens",
+      "name": "Sacha Convens",
+      "summary": "Manager, Enterprise Corporate Sales @ OneTrust",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/spike-s",
+      "name": "Spike Scheepbouwer",
+      "summary": "Client Sales @ Mews",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rutva-shah",
+      "name": "Rutva Shah",
+      "summary": "Fully Managed, 100% White Label Facebook Ads for Agencies | Supporting 30+ agencies across the UK",
+      "location": "Gloucester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luka-mofardin-b85874167",
+      "name": "Luka Mofardin",
+      "summary": "Expert at Focus, Association for Sustainable Development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leo-tarring-72546616a",
+      "name": "Leo Tarring",
+      "summary": "Peabody•457 followers",
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carson-chapman-19456516a",
+      "name": "Carson Chapman",
+      "summary": "--Helping Technology Service Providers Become Best-In-Class 📈",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-iverson-370a8a17a",
+      "name": "Hannah Iverson",
+      "summary": "Business Development Specialist",
+      "location": "Faygate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesoreilly123",
+      "name": "James O’Reilly",
+      "summary": "Account Executive SMB @Salesforce",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-diercks-37039318b",
+      "name": "Marcel Diercks",
+      "summary": "Deel - Helps businesses hire anyone, anywhere. A global payroll for employees and contractors from around the world.",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-stankova-0672a4192",
+      "name": "Martina Stankova",
+      "summary": "PhD Candidate at Vrije Universiteit Amsterdam",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fleur-fisscher-871376195",
+      "name": "Fleur Fisscher",
+      "summary": null,
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janna-h%25C3%25A3%25C2%25BCttebr%25C3%25A3%25C2%25A4ucker-494b7519b",
+      "name": "Janna Hüttebräucker",
+      "summary": "Kulturmanagement & Kulturelle Bildung",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maisie-barker-0679641b3",
+      "name": "Maisie Barker",
+      "summary": "Head of Product Development at DataArt",
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Alex Tallon\n\nI had the pleasure of working alongside Rafe when I joined Rodeo as a Sales Development Representative. As the Account Executive for the UK team, Rafe was an invaluable resource for me, providing great advice and support as I got started.Over time, I saw Rafe's dedication and hard work pay off as he was promoted to UK Sales Manager. In this role, he has continued to impress, demonstrating his exceptional leadership skills and his ability to bring out the best in his team.Rafe is a true team player, and he always makes an effort to support and encourage his colleagues. He is an excellent communicator and is always willing to listen and provide guidance when needed.On a personal level, Rafe is a pleasure to know. He is a social and outgoing individual who is always up for a good conversation. His positive attitude and friendly demeanour make him a valuable asset to any team.Overall, I would highly recommend Rafe for any role related to sales or team leadership. He is a dedicated, hardworking, and personable individual who consistently goes above and beyond to achieve success.",
+    "Nathan Vissers\n\nRafe is an exceptional leader who has made a significant impact on our sales team and our overall business.Throughout our time working together, I have been impressed with Rafe's ability to motivate and support our sales team to achieve exceptional results. Rafe has a natural talent for identifying each team member's strengths and leveraging them to maximize their potential. His coaching and guidance have been instrumental in helping our team surpass our sales goals quarter after quarter.Rafe is an excellent communicator who fosters open dialogue and collaboration within the team. He has a unique ability to lead by example and has always been willing to lend a hand to any team member who needs it. Rafe's positive attitude and dedication to his work have had a significant impact on our team's morale and overall performance.In addition to Rafe's leadership skills, he also possesses a deep understanding of our industry and our clients' needs. His insights and strategic thinking have been instrumental in developing new business opportunities and growing our existing accounts."
+  ],
+  "activities": [
+    {
+      "title": "Sun, Sand, and a Slice of Lime The Corona activation at the V&A Waterfront spread its energy across digital screens and waterfront experiences…",
+      "link": "https://www.linkedin.com/posts/innovocean-sa_thisisliving-vandawaterfront-corona-activity-7284951170060619776-qPNZ",
+      "activity_status": null
+    },
+    {
+      "title": "Kansainvälistymisen kasvomme Englannissa Heikki Pennanen ja Jenny Saranen. Ja eilen oltiin Kasper Tanninen kanssa palaverissa Ruotsalaisen toimiston…",
+      "link": "https://www.linkedin.com/posts/aapokoro_kansainvälistymisen-kasvomme-englannissa-activity-7290706615014510592-ADyz",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group is represented on the IAB MENA Board, with the appointment of Henrietta Shakespeare, Chief of Staff, as a Board Member. This…",
+      "link": "https://www.linkedin.com/posts/mmg-global_multiplymediagroup-exponentialpotential-activity-7424412540039917568-cNuL",
+      "activity_status": null
+    },
+    {
+      "title": "When Seoul showed new DOOH possibilities for Asia Seoul did not host the future of DOOH, it shared a model Asia can build on, says Daewon Kim, CEO…",
+      "link": "https://www.linkedin.com/posts/media4growth_dooh-ooh-oohcampaigm-activity-7422886547525632000-Dbli",
+      "activity_status": null
+    },
+    {
+      "title": "In case you missed it, check out our latest episode with Dexter Fox from Wayout Media SA. 📺 on YouTube: https://lnkd.in/gasN8zuu 🎧 on…",
+      "link": "https://www.linkedin.com/posts/beyond-the-billboard_in-case-you-missed-it-check-out-our-latest-activity-7420359664992673792-KAeG",
+      "activity_status": null
+    },
+    {
+      "title": "You’re standing in front of a screen, looking at an ad. At first glance, it feels simple: a billboard, a cartop, a digital screen on a busy street.…",
+      "link": "https://www.linkedin.com/posts/allunite-com_allunite-dooh-audiencemeasurement-activity-7420370278158999552-QRPb",
+      "activity_status": null
+    },
+    {
+      "title": "The billboard is stalking you .... but politely. :)",
+      "link": "https://www.linkedin.com/posts/yvette-m-798608a7_the-billboard-is-stalking-you-but-politely-activity-7420097066925768704-NQpF",
+      "activity_status": null
+    },
+    {
+      "title": "Een NAVO missie naar Groenland? Bij Dit is de Dag op Radio1 was ik hier vanavond over in gesprek en heb ik betoogd dat het Trumps annexatieplannen…",
+      "link": "https://nl.linkedin.com/posts/e-bastiaan-van-apeldoorn-91b91411_moet-nederland-een-rol-spelen-bij-een-eventuele-activity-7417294994996170753-N9UW",
+      "activity_status": null
+    },
+    {
+      "title": "London Lites is now BackLite UK. This marks an important step in our UK strategy, bringing a premium digital Out-of-Home portfolio fully under the…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_london-lites-is-now-backlite-uk-this-marks-activity-7416806810281582592-oN1Z",
+      "activity_status": null
+    },
+    {
+      "title": "It was a great pleasure to speak at London Business School's Sumit Series about the #ImpactRevolution. As I set out in the updated edition of my…",
+      "link": "https://www.linkedin.com/posts/sir-ronnie-cohen-437a481b3_summit-series-with-sir-ronald-cohen-father-activity-7444045176836349953-ZuHi",
+      "activity_status": null
+    },
+    {
+      "title": "Passa på att anmäla dig till en immersiv upplevelse om dagens ekonomiska system  och få konkreta insikter om nödvändiga systemskiften!",
+      "link": "https://se.linkedin.com/posts/zeinab-hassano-896308ab_passa-på-att-anmäla-dig-till-en-immersiv-activity-7443408516930752512-Ronv",
+      "activity_status": null
+    },
+    {
+      "title": "🇬🇧 A great week in #London. Over the past few days, Shintaro Takayama and Pantip Rueangaphirak (Jurn) from our global team had the pleasure of…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_london-london-partnerroadshow-activity-7435594864513187840-ihjR",
+      "activity_status": null
+    },
+    {
+      "title": "It was such an honor to meet Roberta Metsola and be part of this session at the European Parliament.",
+      "link": "https://www.linkedin.com/posts/eliska-eleonora-meszarosova-318012237_it-was-such-an-honor-to-meet-roberta-metsola-activity-7440301740819783680-N4C-",
+      "activity_status": null
+    },
+    {
+      "title": "97 years young Shin In-seop Professor. Last Friday, we held the first meeting to begin compiling the history of Out-of-Home advertising in Korea…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_97-years-young-shin-in-seop-professor-activity-7438841175433768960-JS-Q",
+      "activity_status": null
+    },
+    {
+      "title": "This image is full of Super Turkish Quality! And also a proud moment where my colleague Ozlem Terzi and I got our Senior Teaching Qualification…",
+      "link": "https://www.linkedin.com/posts/yarin-eski-🟥-08949321_this-image-is-full-of-super-turkish-quality-activity-7437897703910469632-Z_sL",
+      "activity_status": null
+    },
+    {
+      "title": "I have officially started my journey at the European Commission at Frontex. It’s a goal I have been working toward for the past eight years, and the…",
+      "link": "https://www.linkedin.com/posts/eliska-eleonora-meszarosova-318012237_frontex-eu-activity-7437205745139367936-lTQH",
+      "activity_status": null
+    },
+    {
+      "title": "Discipline remains at the core of everything we do. Over the past week, our teams have moved swiftly and in full alignment to activate contingency…",
+      "link": "https://www.linkedin.com/posts/mmg-global_multiplymediagroup-exponentialpotential-activity-7436817319349129216-QwMJ",
+      "activity_status": null
+    },
+    {
+      "title": "One line from #Pulseconference2026 last week has stuck with me: Today is as normal as the world is ever going to get. Exciting? Yes. Slightly…",
+      "link": "https://www.linkedin.com/posts/bernice-joubert-5b694379_pulseconference2026-activity-7435651708866928640-rnOs",
+      "activity_status": null
+    },
+    {
+      "title": "Back in Europe after four amazing whirlwind days in Seoul 🇰🇷✈️ The World Out of Home Organization APAC Regional Forum was a real fever dream -…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_wooapac2025-ooh-allunite-activity-7393603598594551808-a4ys",
+      "activity_status": null
+    },
+    {
+      "title": "The doors have just closed on the OAAA's OOH Media Conference 2025 in Boston, and I’m feeling incredibly grateful - and just a little bit tired in…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_ooh2025-allunite-futureofooh-activity-7325968321932058624-2qxn",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud to share this personal milestone- almost five years to the day since I arrived in the Netherlands 🇳🇱 I have achieved my B1 Diploma in…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_very-proud-to-share-this-personal-milestone-activity-7321478925044379648-29th",
+      "activity_status": null
+    },
+    {
+      "title": "✈️ Just touched back down in Amsterdam after an incredible non-stop four-day trip to Johannesburg with Esben Elmøe representing AllUnite—what an…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_allunite-joburgtrip-ooh-activity-7301209579730681856-7HLP",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 About to take off from Milan after an incredible few days at the World Out of Home Organization Forum! 🇮🇹 It was great to be representing…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_allunite-woomilan-audiencemeasurement-activity-7260249188964143104-2XUK",
+      "activity_status": null
+    },
+    {
+      "title": "Incredibly excited to be attending the WOO forum here in Milan, alongside our CEO at AllUnite Esben Elmøe and our CCO Kristina Rudoman! 🇮🇹 Very…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_woomilan-allunite-audiencemeasurement-activity-7259565212276609024-sVO2",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic to be attending the 2024 OAAA Media Conference in San Diego, alongside AllUnite’s CEO Esben Elmøe and our commercial manager for LATAM…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_oaaa-allunite-sandiego-activity-7191090813651550209-gU2p",
+      "activity_status": null
+    },
+    {
+      "title": "ð Today, I am super proud to announce that I am officially launching my first business Summerstowe! ð Taking this massive step and leaving…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_launchday-entrepreneur-culturalconsultancy-activity-7115243122040680448-KIkJ",
+      "activity_status": null
+    },
+    {
+      "title": "\"It's going to be a fast learning curve\". Perhaps that was an understatement! ðâï¸ In the middle of my second week as a freelancer, I am…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_motivation-startuplife-freelancingtips-activity-7117802142584705024-IP1t",
+      "activity_status": null
+    },
+    {
+      "title": "With the launch of Summerstowe I am happy to announce I will be publishing a bi-weekly journal about the highs and lows of starting a business in…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_time-for-take-off-summerstowe-activity-7115670391699709952-Ap48",
+      "activity_status": null
+    },
+    {
+      "title": "Consistency. Daily repetition. The biggest secrets to reaching your goals â½ Unfortunately, daily repetition and the necessary grit are not always…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_gettingthingsdone-motivation-activity-7100102974273662977-pJXb",
+      "activity_status": null
+    },
+    {
+      "title": "Iâm excited to announce that I've been promoted to a new position at Rodeo Software as UK Sales Manager. Thank you to my wider team and looking…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_im-excited-to-announce-that-ive-been-promoted-activity-7016312442586570752-ehRa",
+      "activity_status": null
+    },
+    {
+      "title": "Today I am joining Movember with my colleagues here at Rodeo Software. It is to make a stand and build awareness on both suicide and the mental…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_mentalhealth-movember-activity-6993240363637301249-ImN9",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday, I officially received my Master's degree in Political Science from Vrije Universiteit Amsterdam (VU Amsterdam), with a GPA of 7.6 (2:1-…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_yesterday-i-officially-received-my-masters-activity-6971035625009377280-hOl1",
+      "activity_status": null
+    },
+    {
+      "title": "I believe having good people as colleagues is necessary in creating a positive work environment. It makes you want to come to work, and it shoulders…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_dreamteam-activity-6933338837821632512-_Ghb",
+      "activity_status": null
+    },
+    {
+      "title": "I believe healthy self-esteem is essential for both an individual's happiness and success. This is an important conversation to have in the middle of…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_mentalhealth-engagement-activity-6950021799862534144-s8Lp",
+      "activity_status": null
+    },
+    {
+      "title": "In both my work and life, I aim to live by the \"golden rule\". For me, the simplicity of treating others how you would want to be treated has served…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_people-culture-activity-6978642690775126017-dIoV",
+      "activity_status": null
+    },
+    {
+      "title": "IÂ have an issue with classifying people by their demographic cohort.Â Whether it is millennial, generation Z or baby boomer.Â This is not to say…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_people-society-activity-6982997182857539585-2C45",
+      "activity_status": null
+    },
+    {
+      "title": "Sometimes I fall short of my goals. Is it something I stress about? No. Working part-time on one side, and studying on the other requires balance.…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_personaldevelopment-motivation-activity-6908004065637453825-_i9E",
+      "activity_status": null
+    },
+    {
+      "title": "Rodeo Software is a hybrid team. We are based on both sides of the Atlantic. With two hubs, one in Amsterdam and one in the Big Apple. It is key for…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_5-challenges-of-hybrid-work-and-how-to-activity-6905512851864449024-h88Z",
+      "activity_status": null
+    },
+    {
+      "title": "I want to start my post by thanking 2020. As a twenty-four year old, it would be easy to be disheartened about the global pandemic and the…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_grateful-motivation-mindset-activity-6742827252544786432-zLuP",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:56:22Z"
+  }
+}

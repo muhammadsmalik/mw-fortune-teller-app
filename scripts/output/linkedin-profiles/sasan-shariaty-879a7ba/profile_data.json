@@ -1,0 +1,626 @@
+{
+  "public_identifier": "sasan-shariaty-879a7ba",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Sasan",
+  "last_name": "Shariaty",
+  "full_name": "Sasan Shariaty",
+  "follower_count": 341,
+  "occupation": "CMO at BillboardPlanet",
+  "headline": null,
+  "summary": null,
+  "location_str": "Minneapolis, Minnesota, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2000
+      },
+      "ends_at": null,
+      "company": "BillboardPlanet",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/billboardplanet",
+      "company_facebook_profile_url": null,
+      "title": "CMO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e046183f3ea6b3efbf785a8006380bde"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1989
+      },
+      "field_of_study": "Civil Engineering",
+      "degree_name": null,
+      "school": "Concordia University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/concordia-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed7925ecbc6ab541ed2925860938097b",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 322,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/stevenguild",
+      "name": "Steve Guild",
+      "summary": "Account Executive at Triad Business Journal",
+      "location": "Greensboro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/opensourcejoel",
+      "name": "Joel S.",
+      "summary": "Psych Major | Self-Educating in Data Science, Statistics, Science Communication, Product and Project Management | Aspiring Researcher",
+      "location": "Regina"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffperkins1",
+      "name": "Jeff Perkins",
+      "summary": "CMO at Virtuous | Former CEO/CMO at ParkMobile | Executive Leader | Marketing Geek | Builder | Eternal Optimist | Author of How Not to Suck at Marketing | Peloton Rider (Leaderboard Name: BaldGuy) | All-Around Nice Guy",
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/surajrajshrestha",
+      "name": "Suraj Raj Shrestha",
+      "summary": "---",
+      "location": "Kathmandu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jmulholland3re",
+      "name": "John Mulholland",
+      "summary": "Sales Agent at Keller Williams Chatahoochie North   Johnny Outdoor:  Anything to do with Billboards",
+      "location": "Suwanee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edgarcaudillo",
+      "name": "Edgar Caudillo Rojo",
+      "summary": "Consultor de negocio y desarrollo de sistemas / Autónomo",
+      "location": "Tlalpan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cassandracon",
+      "name": "Cassandra Connor",
+      "summary": "Project/Product Manager",
+      "location": "Chicago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcusbuggs",
+      "name": "Marcus Buggs",
+      "summary": "Director of Implementation Services",
+      "location": "Minneapolis–Saint Paul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/awaley",
+      "name": "Arjun Awaley",
+      "summary": "CTO at BillboardPlanet, LLC; Director of IT at Percoid IT Solutions",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marnie-buchsbaum",
+      "name": "Marnie Buchsbaum",
+      "summary": "Marketing Director at Nathan Benderson Park",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophgold",
+      "name": "Christoph Gold",
+      "summary": "Company Owner at internetguides",
+      "location": "Putzbrunn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikep",
+      "name": "Mike Puterbaugh",
+      "summary": "B2B GTM Leader | SVP, Product Marketing @BeyondTrust",
+      "location": "San Diego"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krystina-holquin",
+      "name": "Krystina Holquin",
+      "summary": "Client Success and Knowledge Base Manager | Managed Client Relationships",
+      "location": "Edinburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafafferreira",
+      "name": "Rafael Ferreira",
+      "summary": "Chief Executive Officer at Labdoor",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jinmyung",
+      "name": "Jinhae Myung",
+      "summary": "DGR Manager at Amazon Web Services (AWS)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexcamino",
+      "name": "Alejandro Camino",
+      "summary": "CMO",
+      "location": "Hoboken"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hunter-miller-b94698264",
+      "name": "Hunter Miller",
+      "summary": null,
+      "location": "Eagle Mountain"
+    },
+    {
+      "link": "https://www.linkedin.com/in/subekshakya",
+      "name": "Subek Shakya",
+      "summary": "CEO & Founder | Building Next-Gen AI Scalable Solutions | Project Execution Expert | Resource Augmentation Partner | Open to Global Partnerships",
+      "location": "Kathmandu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-drachman",
+      "name": "Max Drachman",
+      "summary": "Chief Executive Officer at Drachman M&A Co.",
+      "location": "Tucson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathryn-oertel-peters-491990a",
+      "name": "Kathryn Oertel Peters",
+      "summary": null,
+      "location": "Lakeland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25A9ssica-camacho-zald%25C3%25ADvar-056b1b15a",
+      "name": "Jéssica Camacho Zaldívar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-mahabadi-73110b223",
+      "name": "Ryan Mahabadi",
+      "summary": "Student at The University of Minnesota - Carlson School of Management",
+      "location": "Minneapolis–Saint Paul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-mccune-a1913b235",
+      "name": "Patrick McCune",
+      "summary": null,
+      "location": "Tulsa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terrihintz",
+      "name": "Terri Hintz",
+      "summary": "Customer-Obsessed Sales Leader, Professional Coach and Mentor, Empowering People to Succeed, Relationship Builder and Influencer",
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paymon-vasseghi-a863ab4",
+      "name": "Paymon Vasseghi",
+      "summary": "COO Nexus Digital Marketing",
+      "location": "Chanhassen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-hyde-8028a64",
+      "name": "Richard Hyde",
+      "summary": "Collectible Asset Valuations + Sales Brokerage",
+      "location": "North Saanich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-gambill-97b3715",
+      "name": "Mark Gambill",
+      "summary": "CMO at CDW Corporation",
+      "location": "Vernon Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-allen-9a33bba",
+      "name": "Nick Allen",
+      "summary": "CMO at Blue Robin Inc.",
+      "location": "Newburyport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hal-edwards-838444b",
+      "name": "Hal Edwards",
+      "summary": "CMO at ConnectWise",
+      "location": "Tampa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ginalinstratford",
+      "name": "Gina Lin Stratford",
+      "summary": "VP of Sales @NextGrad & #OOHomie",
+      "location": "Ogden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brent-porlier-a3653810",
+      "name": "Brent Porlier",
+      "summary": "Vice President at Porlier Outdoor Advertising Company",
+      "location": "Foristell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-butta-467b3410",
+      "name": "Tom Butta",
+      "summary": "CMO at NICE Systems",
+      "location": "Chapel Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharon-daniels-a4023111",
+      "name": "Sharon Daniels",
+      "summary": "CMO at Diligent Board Member Services",
+      "location": "Montville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dafna-sarnoff-abb46811",
+      "name": "Dafna Sarnoff",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ha-truong-04468912",
+      "name": "Ha Truong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-uberoi-0737a112",
+      "name": "Anil Uberoi",
+      "summary": null,
+      "location": "San Mateo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mick-mahabadi-30084612",
+      "name": "Mick Mahabadi",
+      "summary": "CEO at BillboardPlanet",
+      "location": "Minneapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-meier-07ab0712",
+      "name": "Matt Meier",
+      "summary": null,
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alf-goebel-0a978920",
+      "name": "Alf Goebel",
+      "summary": null,
+      "location": "Pleasanton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-lee-31b51421",
+      "name": "John Lee",
+      "summary": null,
+      "location": "Santa Clara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-pepe-diaz",
+      "name": "Jose I. Diaz Centeno",
+      "summary": "Project Manager - Sales, Support & Implementation en BillboardPlanet",
+      "location": "Mérida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-davis-b4961b26",
+      "name": "Jack Davis",
+      "summary": null,
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-adams-5828b827",
+      "name": "Chris Adams",
+      "summary": "Product Manager | Outdoor Hardware at Formetco",
+      "location": "Duluth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-garibay-m-22575b28",
+      "name": "Gabriel Garibay M",
+      "summary": "Supervisor de obra proyecto de hotelería",
+      "location": "Guadalajara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmine-paggi-8b53b832",
+      "name": "Yasmine Paggi",
+      "summary": "President at Paggi Learn",
+      "location": "Sumter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-briggs-19952132",
+      "name": "Jeff Briggs",
+      "summary": "Actor/Voice Talent",
+      "location": "Clayton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joel-silverthorn-93464437",
+      "name": "Joel Silverthorn",
+      "summary": "Account Executive at Lamar Advertising Company",
+      "location": "Fort Myers"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-hoover-56338b38",
+      "name": "Lee Hoover",
+      "summary": "Regional Sales Manager at Peerless-AV",
+      "location": "Edmonds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donald-tedder-5233963a",
+      "name": "Donald Tedder",
+      "summary": "Tedder Media Management, LLC",
+      "location": "Wilmington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-xu-ab364243",
+      "name": "Jack Xu",
+      "summary": "General Manager of Sunny Optical Technology USA Inc.",
+      "location": "San Jose"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-palacio-646a7445",
+      "name": "Fabio Palacio",
+      "summary": "Sr. Account Executive at Carter Outdoor",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-oostlander-a0544a46",
+      "name": "Jane Oostlander",
+      "summary": null,
+      "location": "Chilliwack"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-herran-a75a7b51",
+      "name": "Daniel Herran",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ron-rice-332b7952",
+      "name": "Ron Rice",
+      "summary": null,
+      "location": "Clemmons"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-cooper-085b0060",
+      "name": "Neil Cooper",
+      "summary": "Independent Insurance Broker",
+      "location": "Draper"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrel-couzens-87ab4a69",
+      "name": "Darrel Couzens",
+      "summary": null,
+      "location": "Sidney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-stevens-76778674",
+      "name": "Nick Stevens",
+      "summary": "CRO",
+      "location": "Loveland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackieadams5",
+      "name": "Jackie Adams",
+      "summary": null,
+      "location": "Charlotte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christine-kochis",
+      "name": "Christine Kochis",
+      "summary": "Director, OOH Media | Strategy • Team Leadership • High-Impact Brand Campaigns",
+      "location": "Minneapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-michael-acosta-93b4129a",
+      "name": "Dr. Michael Acosta",
+      "summary": "Screenwriter, Producer, Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoff-bickel-7a9343b9",
+      "name": "Geoff Bickel",
+      "summary": "DOOH Programmatic Advertising",
+      "location": "Las Vegas Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margaret-avira-269ba9108",
+      "name": "Margaret Avira",
+      "summary": "CMO at CompetenSys Solutions",
+      "location": "Edison"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-grove-13814b115",
+      "name": "Greg Grove",
+      "summary": null,
+      "location": "Brentwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bryan-scott-8211aa11a",
+      "name": "Bryan Scott",
+      "summary": "OOH Leasing & Development Advisor",
+      "location": "Reno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulina-quiroz-7252b7138",
+      "name": "Paulina Quiroz",
+      "summary": "Sales Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-phillips-7a2b1913b",
+      "name": "Stephen Phillips",
+      "summary": "Actor, Martial Arts Instructor, Police Officer, Veteran",
+      "location": "Myrtle Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/no-name-241226141",
+      "name": "No name",
+      "summary": "none",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyler-stern-0b815414b",
+      "name": "Tyler Stern",
+      "summary": "Managing Partner at iluvmygeek.com",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/becky-smith-4bb945162",
+      "name": "Becky Smith",
+      "summary": "Helping Independent OOH Operators Manage the Business Behind the Boards | Founder, Behind the Board",
+      "location": "Ardmore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wolfgang-rudolf-611190183",
+      "name": "Wolfgang Rudolf",
+      "summary": "CSCS",
+      "location": "Portland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-galeana-35ba47185",
+      "name": "Eduardo Galeana",
+      "summary": "IT Project Manager",
+      "location": "Mérida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danny-casper-a59025187",
+      "name": "Danny Casper",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harrison-fletcher-7a3971191",
+      "name": "Harrison Fletcher",
+      "summary": null,
+      "location": "Nashville metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-m%25C3%25B3nica-rabad%25C3%25A1n-carrillo-683a1a195",
+      "name": "Claudia Mónica Rabadán Carrillo",
+      "summary": "Systems Business Analyst en Swiss Re",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Talusag is excited to announce that Omid Kassiri has joined us as our new CEO, International, leading our global commercial business and operations…",
+      "link": "https://www.linkedin.com/posts/talusag_talusag-is-excited-to-announce-that-omid-activity-7417244823327334400-g_Ne",
+      "activity_status": null
+    },
+    {
+      "title": "Ross Reilly Appointed President of Outdoor Division Ross is the right leader for our largest operating division, Lamar chief executive officer Sean…",
+      "link": "https://www.linkedin.com/posts/billboardoohtoday_ross-reilly-appointed-president-of-outdoor-activity-7409149311122608129-UhpN",
+      "activity_status": null
+    },
+    {
+      "title": "𝗪𝗵𝗮𝘁 𝗮𝗻 𝗶𝗻𝗰𝗿𝗲𝗱𝗶𝗯𝗹𝗲 𝘄𝗲𝗲𝗸 𝗮𝘁 𝗞𝘂𝗯𝗲𝗖𝗼𝗻 + 𝗖𝗹𝗼𝘂𝗱𝗡𝗮𝘁𝗶𝘃𝗲𝗖𝗼𝗻 ❤️ I’m proud to share that Exostellar is already…",
+      "link": "https://www.linkedin.com/posts/tony-shakib-43a0482_kubecon-cloudnativecon-gpu-activity-7395100900249407488-txHb",
+      "activity_status": null
+    },
+    {
+      "title": "📣 El Poder del 1%: La Clave Oculta para Revolucionar Operaciones en OOH Mike Donaldson 🇺🇸, Director General de Outdoorlink, se presentó en el…",
+      "link": "https://es.linkedin.com/posts/alooh-org_capítuloii-foroaloohlatam2025-alooh-activity-7391956572354203648-mTyW",
+      "activity_status": null
+    },
+    {
+      "title": "Outdoorlink at ALOOH Latam Chapter II – Antigua, Guatemala 🇬🇹 Another incredible ALOOH event bringing together the top Out-of-Home leaders from…",
+      "link": "https://www.linkedin.com/posts/outdoorlink_outdoorlink-alooh-ooh-activity-7394407373370466306-t05_",
+      "activity_status": null
+    },
+    {
+      "title": "The ALOOH Latam Conference continues this week in beautiful Antigua, Guatemala! After a fantastic first show in Paraguay last month, we’re excited…",
+      "link": "https://www.linkedin.com/posts/outdoorlink_aloohlatam-outdoorlink-ooh-activity-7391836947536564224-aHdf",
+      "activity_status": null
+    },
+    {
+      "title": "So happy to welcome Michael to the team at a personal and professional level. As Michael joins us, we are building the OOH Network to continue…",
+      "link": "https://www.linkedin.com/posts/cedric-bernard-6a84081_so-happy-to-welcome-michael-to-the-team-at-activity-7384675671014395904-STm7",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Halloween weekend to all my friends in the #ooh community! Last night was filled with joy as I went trick-or-treating with my favorite little…",
+      "link": "https://www.linkedin.com/posts/martywwilliamson_ooh-activity-7390390146073849856-kM5r",
+      "activity_status": null
+    },
+    {
+      "title": "Just back from a truly energizing AFSF in Dakar. Wonderful country and people with such a sense of African pride. Thought to share on the 2 things…",
+      "link": "https://www.linkedin.com/posts/omid-kassiri-78a60619_just-back-from-a-truly-energizing-afsf-in-activity-7369732220963442691-Hdd1",
+      "activity_status": null
+    },
+    {
+      "title": "I didn’t set out to write a book. I wrote one word on a piece of paper: GRIT. Then I asked myself, What does it really mean to have it? That one…",
+      "link": "https://www.linkedin.com/posts/jodi-lanning-38758762_i-didnt-set-out-to-write-a-book-i-wrote-activity-7346201512001388544-mkHb",
+      "activity_status": null
+    },
+    {
+      "title": "It’s hard to believe it’s been nearly a month since the World Out of Home Organization Congress, but the conversations we had there are still shaping…",
+      "link": "https://www.linkedin.com/posts/outdoorlink_woo2025-ooh-smartcontrol-activity-7343670805769150465-bCTd",
+      "activity_status": null
+    },
+    {
+      "title": "As my family vacation is coming to an end, I am sitting at the gate waiting to board my Delta Air Lines  flight that will take me home. Boarding was…",
+      "link": "https://www.linkedin.com/posts/cedric-bernard-6a84081_travel-delta-activity-7351251613283418113-S9SX",
+      "activity_status": null
+    },
+    {
+      "title": "Still relying on photocells to run your lights? They're reactive. They're outdated. And more often than not, they’re wasting energy and costing your…",
+      "link": "https://www.linkedin.com/posts/outdoorlink_smartlighting-lightingcontrol-energyefficiency-activity-7350887270083715073-8Fhj",
+      "activity_status": null
+    },
+    {
+      "title": "𝗪𝗵𝗮𝘁 𝗮𝗻 𝘂𝗻𝗳𝗼𝗿𝗴𝗲𝘁𝘁𝗮𝗯𝗹𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 #𝗔𝗪𝗦𝗦𝘂𝗺𝗺𝗶𝘁 𝗡𝗬𝗖—𝗮𝗻𝗱 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝘀𝗽𝗲𝗰𝗶𝗮𝗹…",
+      "link": "https://www.linkedin.com/posts/tony-shakib-43a0482_awssummit-awssummit-cloudcomputing-activity-7351637693346336768-8pq-",
+      "activity_status": null
+    },
+    {
+      "title": "No, Duolingo didn't become a social media phenomenon overnight. Yes, they're going to share success frameworks you can use to generate more value…",
+      "link": "https://www.linkedin.com/posts/sprout-social-inc-_from-viral-to-valuable-a-masterclass-with-activity-7336841212605202432-cQhx",
+      "activity_status": null
+    },
+    {
+      "title": "This year I had to make one of the most difficult decisions I've ever made as I announce I am leaving my position from Verde Outdoor Advertising.…",
+      "link": "https://www.linkedin.com/posts/bob-klausmeier-a480a616_this-year-i-had-to-make-one-of-the-most-difficult-activity-7283168569670991873-upa2",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

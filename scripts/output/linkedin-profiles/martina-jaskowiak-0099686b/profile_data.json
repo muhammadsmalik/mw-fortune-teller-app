@@ -1,0 +1,454 @@
+{
+  "public_identifier": "martina-jaskowiak-0099686b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5464ca54d06472bb3cea555e7ab5366d",
+  "background_cover_image_url": null,
+  "first_name": "Martina",
+  "last_name": "Jaskowiak",
+  "full_name": "Martina Jaskowiak",
+  "follower_count": 454,
+  "occupation": "Teamlead Agency Sales DOOH at Goldbach Germany GmbH",
+  "headline": "Teamlead Agency Sales DOOH bei eisbach.media GmbH",
+  "summary": null,
+  "location_str": "Germany",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "company": "Goldbach Germany GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goldvertise-media/",
+      "company_facebook_profile_url": null,
+      "title": "Teamlead Agency Sales DOOH",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e0cf4cb3dbe60a1fa8051babd007ea3b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2023
+      },
+      "company": "Goldbach Germany GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goldvertise-media/",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Manager DOOH",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e0cf4cb3dbe60a1fa8051babd007ea3b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "Goldbach Germany GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goldvertise-media/",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager DOOH",
+      "description": null,
+      "location": "München und Umgebung, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e0cf4cb3dbe60a1fa8051babd007ea3b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2016
+      },
+      "company": "Merced Sun-Star",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Strategic Media Consultant",
+      "description": "Digital - Direct Marketing - Print",
+      "location": "Merced und Umgebung, Kalifornien",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Ströer Infoscreen GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": "Sales and Marketing\nDigital Outdoor Advertising",
+      "location": "München und Umgebung, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "eisbach.media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eisbach-media/",
+      "company_facebook_profile_url": null,
+      "title": "Teamlead Agency Sales ",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": "Medienwissenschaften",
+      "degree_name": "Magister ",
+      "school": "Technische Universität Braunschweig",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tu-braunschweig/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Film Studies",
+      "degree_name": null,
+      "school": "Indiana University Bloomington",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/indiana-university-bloomington/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [
+    {
+      "name": "Deutsch",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Englisch",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 446,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/haiman-benyamin",
+      "name": "Haiman Benyamin",
+      "summary": "E-MAIL-MARKETING EXPERTE",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-fe%25C3%259Fke-0aa550104",
+      "name": "Frank Feßke",
+      "summary": "Performance Marketing Expert @ KWANKO Deutschland GmbH - (kwanko.com) - International Performance Marketing Network  - belongs to verticalAds Group GmbH (RetailAds - CommunicationAds - FinanceAds).",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jfdmarketingsales",
+      "name": "Jutta Friedrichsen-Devakar",
+      "summary": "Gebr. Heinemann•4K followers",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabellemaier",
+      "name": "Isabelle Maier",
+      "summary": "Sales Manager bei Ad Alliance | RTL Deutschland",
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliane-stanglmayr-9a4818148",
+      "name": "Juliane Stanglmayr",
+      "summary": "Marketing DOOH - Bewegtbild",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-lorenz-23662542",
+      "name": "Sven Lorenz",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcus-schlosser-02102719",
+      "name": "Marcus Schlosser",
+      "summary": null,
+      "location": "Pfedelbach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-jamin-13733b4a",
+      "name": "Stephanie Jamin",
+      "summary": "Senior Sales Account Manager bei AIVARO | Beste KI-Sichtbarkeit für Ihr Unternehmen in 90 Tagen",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vivian-reifschneider-57124950",
+      "name": "Vivian Reifschneider",
+      "summary": "Head of Marketing & Sales @MMT",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hammad-abbasi-01668184",
+      "name": "Hammad Abbasi",
+      "summary": "Programmatic Sales Lead Criteo GmbH",
+      "location": "Landsberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tara-tanita-woeckner-937b76a0",
+      "name": "Tara-Tanita Woeckner",
+      "summary": "HR Sales & Relationship Manager bei OEDIV Oetker Daten- und Informationsverarbeitung KG",
+      "location": "Osnabrück"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-grigorev-825735b2",
+      "name": "Michael Grigorev",
+      "summary": "Master of Ad-Tech Shenanigans: Transforming Impressions and Clicks into Client Smiles for more then a Decade!",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-glade-8a27bbb3",
+      "name": "Jessica Glade",
+      "summary": "Group Head Media Sales bei TV-Wartezimmer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-katzmann-a30b3611a",
+      "name": "Dirk Katzmann",
+      "summary": "Senior Manager Demand Partnerships",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-grimm-793274124",
+      "name": "Florian Grimm",
+      "summary": "QA-Manager bei WaveLight",
+      "location": "Nuremberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maximilian-wolf-92b08a130",
+      "name": "Maximilian Wolf",
+      "summary": "Talent Acquisition & Employer Branding Manager bei InfraServ",
+      "location": "Mainz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franziska-heinritzi-08a26b142",
+      "name": "Franziska Heinritzi",
+      "summary": "Area Sales Managerin Bon Ton Toys",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-dirr-853006150",
+      "name": "Sandra Dirr",
+      "summary": "Senior Sales Manager bei WildBrain CPLG",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-thomassen-95076617a",
+      "name": "Christopher Thomassen",
+      "summary": "Ströer Media Deutschland GmbH•911 followers",
+      "location": "Münster"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tina-znagovan-756440187",
+      "name": "Tina Znagovan",
+      "summary": "Senior Sales Manager",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-jawurek-376511228",
+      "name": "Dirk Jawurek",
+      "summary": "Director Sales DOOH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-zigulla-509a26168",
+      "name": "Marc Zigulla",
+      "summary": "Group Head Sales I DOOH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-wiedau-41271576",
+      "name": "Dirk Wiedau",
+      "summary": "If you want to go fast go alone, if you want to go far go together.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-becker-b44828292",
+      "name": "Sarah Becker",
+      "summary": "Head of programmatic DOOH bei eisbach.media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-hofer-689402167",
+      "name": "Sandra Hofer",
+      "summary": "Senior Campaign Managerin",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennis-b-53b5b0210",
+      "name": "Dennis B.",
+      "summary": "Junior Sales Manager DOOH bei eisbach.media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-zeng-lcddisplay",
+      "name": "Winnie Hu",
+      "summary": "LCD digital signage— Outdoor/Indoor displays, Window-facing displays, Freestanding Kiosks, Transparent OLED, we have’em all!\nLet’s connect for the greater business",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-niemann-7291aa264",
+      "name": "Laura Niemann",
+      "summary": "Mediaplanerin bei It Works Group",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/bianca-rahm-468548283",
+      "name": "Bianca Rahm",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-br%C3%A4chtken-5b4b9288",
+      "name": "Andreas Brächtken",
+      "summary": "Key-Account-Manager, Senior Sales Manager, Sales Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/pavlinche-markoska",
+      "name": "Pavlinche Markoska",
+      "summary": "Mediaplanerin und Mediaeinkäuferin DooH & Online",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/thorsten-sterz-5351a4118",
+      "name": "Thorsten Sterz",
+      "summary": "Key Account Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ibrahim-han-441b8514",
+      "name": "Ibrahim Han",
+      "summary": "Der beste Weg, die Zukunft vorherzusagen, ist, sie zu gestalten",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carola-konz-6926b0151",
+      "name": "Carola  Konz",
+      "summary": "Junior Consultant bei w&p Wilde & Partner Public Relations GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisaimprota",
+      "name": "Luisa Improta Freitas de Almeida",
+      "summary": "Expert Lead/Director Paid Search bei WPP Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxiboeckmann",
+      "name": "Maximilian Böckmann",
+      "summary": "Mehr Reichweite bei schwer erreichbaren Zielgruppen. Ich unterstütze Marken dabei, durch KI-gestütztes kontextuelles Targeting ihre Marketingziele zu übertreffen. | C Wire",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elina-alyautdinova-212247a5",
+      "name": "Elina Alyautdinova",
+      "summary": "Head of Client Management TV bei Goldvertise",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankjanssen8",
+      "name": "Frank Janßen",
+      "summary": "Senior Ad-Server & Quality Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-lena-b-8793a2161",
+      "name": "Anna-Lena B.",
+      "summary": "Marketing Manager GSA at PLAION",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathrin-r%C3%B6sler-117ba623b",
+      "name": "Kathrin Rösler",
+      "summary": "Group Head Print/Audio bei Publicis Media",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-12-31T00:00:00Z"
+  }
+}

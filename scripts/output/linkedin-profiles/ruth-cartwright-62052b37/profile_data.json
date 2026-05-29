@@ -1,0 +1,765 @@
+{
+  "public_identifier": "ruth-cartwright-62052b37",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6ca6d7796bc1b1241d54a0e7c334a970",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQHyUb5avnUZBA/profile-displaybackgroundimage-shrink_200_800/B4EZ4bcB72HUAU-/0/1778576793954?e=2147483647&v=beta&t=TlxlsAJBCDanifXiuSERDVjwZRgrT7qLej5wBU5Viow",
+  "first_name": "Ruth",
+  "last_name": "Cartwright",
+  "full_name": "Ruth Cartwright",
+  "follower_count": 2117,
+  "occupation": "UK Managing Director at Active International",
+  "headline": null,
+  "summary": null,
+  "location_str": "Greater London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Active International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/active-international",
+      "company_facebook_profile_url": null,
+      "title": "UK Managing Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2f206450abe5b86478c5fd3e7914d618"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2025
+      },
+      "company": "Sky",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sky",
+      "company_facebook_profile_url": null,
+      "title": "Investment Director, Sky Media",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a76cc2d39fe24d66d843777afd0d464c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2021
+      },
+      "company": "dentsu",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Managing Partner - Delivery",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2021
+      },
+      "company": "Dentsu Aegis Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Head of AV",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "company": "Maxus Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/maxus",
+      "company_facebook_profile_url": null,
+      "title": "Broadcast Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fedb1847df859bdbbff244da73d8eb9d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "Maxus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/maxus",
+      "company_facebook_profile_url": null,
+      "title": "Broadcast Account Director / Head of VoD",
+      "description": "TV Account Director / Head of VoD working across all Maxus brands.",
+      "location": "Theobalds Road Holborn",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fedb1847df859bdbbff244da73d8eb9d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2010
+      },
+      "company": "Starcom / Mediavest",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "AV Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2007
+      },
+      "company": "Mediacom",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "TV Planner / Buyer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2004
+      },
+      "company": "Channel 4",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-4",
+      "company_facebook_profile_url": null,
+      "title": "Sales",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/229146b97c5f00169016c42e19c4365d"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "French, Spanish, Politics & History",
+      "degree_name": "European Studies",
+      "school": "University of Portsmouth",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-portsmouth",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ab3962b8d2836dd747ea239fd2564148",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2063,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tomas-stone",
+      "name": "Tomas Stone",
+      "summary": "Media Marketing Professional | Marketing Effectiveness | GB Media @ Suntory",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lukebogdanowicz",
+      "name": "Luke Bogdanowicz",
+      "summary": "Senior Client Partner, Amazon Ads",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulinekho",
+      "name": "Pauline Kho",
+      "summary": "Media & Communication | Global | Positive mindset",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewbreen2",
+      "name": "Matthew Breen",
+      "summary": "VP Content and Innovation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daveeaston",
+      "name": "David Easton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinoboyle",
+      "name": "Martin O'Boyle",
+      "summary": "Industry Leading Buy Side Expert / Senior Strategic Advisor / Founder at MGO Consulting Ltd / Mentor at Bloom UK / Media, Data, AdTech, Client Leadership, Trading",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/devsangani",
+      "name": "Dev Sangani",
+      "summary": "Director, New Business Sales, UKI & Central Europe",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabel-woodcock-71794a12",
+      "name": "Isabel Woodcock",
+      "summary": "Publishing & Audio Lead for Sky",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisforrester",
+      "name": "Chris Forrester",
+      "summary": "Commercial Leader / Qualified Coach / Mentor /  Board Trustee",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-cox-a87a3036",
+      "name": "Laura Cox",
+      "summary": null,
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kstacey",
+      "name": "Karen Stacey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-cockram-88b22b3",
+      "name": "David Cockram",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelly-williams-07436b5",
+      "name": "Kelly Williams",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-pearson-a637105",
+      "name": "Tim Pearson",
+      "summary": "Chief Revenue Officer  at LADbible Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-ffitch-399b875",
+      "name": "Robert Ffitch",
+      "summary": "Media Planner, Commercial Strategist & CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/justin-stephenson-80404a9",
+      "name": "Justin Stephenson",
+      "summary": "Commercial Director, FanParks International",
+      "location": "Royal Tunbridge Wells"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-pearce-a692059",
+      "name": "Tim Pearce",
+      "summary": "SeeViews CEO and Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graeme-hutcheson-831170b",
+      "name": "Graeme Hutcheson",
+      "summary": "Commercial & Digital Advertising Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-leach-4130a410",
+      "name": "Martin Leach",
+      "summary": null,
+      "location": "Bromley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-appleby-nee-sangster-ab735414",
+      "name": "Victoria Appleby (nee Sangster)",
+      "summary": "WPP Media President",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-duncan-082b8114",
+      "name": "Ed Duncan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-buckingham-013b1117",
+      "name": "Terry Buckingham",
+      "summary": "AV Senior Associate Director at EssenceMediacom UK | Advertising, Media Planning/Buying",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauren-gore-1542871a",
+      "name": "Lauren Gore",
+      "summary": "Trading & Investment Lead at WPP OpenDoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerry-howard-lad-6328971a",
+      "name": "Kerry Howard Lad",
+      "summary": "TV Media Strategy and Insights Professional",
+      "location": "Chelmsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-packer-33505b22",
+      "name": "Sam Packer",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-baring-16636123",
+      "name": "Lee Baring",
+      "summary": null,
+      "location": "Aylesford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidwinstone",
+      "name": "David Winstone",
+      "summary": "Commercial Leader | Media Trading | Consultative Sales | Programmatic Expert",
+      "location": "Sevenoaks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christina-georgopoulou-4b029825",
+      "name": "Christina Georgopoulou",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-clear-50791925",
+      "name": "Caroline Clear",
+      "summary": "Client Strategy Controller at ITV",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-godsmark-33236026",
+      "name": "Matthew Godsmark",
+      "summary": "Head of Propositions at Sky",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-appleton-98467926",
+      "name": "Chris Appleton",
+      "summary": "Head of Programmatic at PHD",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-rowe-9138a726",
+      "name": "Richard Rowe",
+      "summary": "Results-driven sales account executive : B2B and SaaS sales : Revenue growth and client acquisition",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-prindiville-01261127",
+      "name": "Simon Prindiville",
+      "summary": "Head of AV Buying at Dentsu Aegis Network",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-tookey-37932830",
+      "name": "Neil Tookey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-ralph-76393830",
+      "name": "Jessica Ralph",
+      "summary": "Snr Partnerships Manager @ Warner Bros. Discovery",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sameer-amin-",
+      "name": "Sameer Amin",
+      "summary": "Vice President Data Driven Marketing & Media at Reckitt, integrating the capabilities of IT and Marketing to create a cleaner and healthier world",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-leech-99268433",
+      "name": "Jonathan Leech",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-greene-15b1aa34",
+      "name": "Tim Greene",
+      "summary": "Commercial Strategy & Trading Lead at Amazon Ads",
+      "location": "Reigate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-appleby-07864236",
+      "name": "Jonathan Appleby",
+      "summary": "Commercial Strategy & Trading at Amazon Ads",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-robinson-98668842",
+      "name": "Dan Robinson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-louis-83099250",
+      "name": "Ben Louis",
+      "summary": "Head of Sales at Sky Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katerina-daskalou-9b79a150",
+      "name": "Katerina Daskalou",
+      "summary": "Head of Group Media & Investment, UK & Europe",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-bristowe-a3b48b6a",
+      "name": "Lucy Bristowe",
+      "summary": "CEO, UK and Western Europe at Kantar Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-hunt-ba90b671",
+      "name": "Emma Hunt",
+      "summary": "National Head of Campaign Strategy at Nova Entertainment",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncan-wynn-0508b193",
+      "name": "Duncan Wynn",
+      "summary": "Director of Sales at Sky",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-highcock-1707b0a1",
+      "name": "Rebecca Highcock",
+      "summary": "Head of Group Strategy at Sky",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-putley-9468a011a",
+      "name": "Jane Putley",
+      "summary": "Commercial Partnerships Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-maclaren-9523ba13b",
+      "name": "Ben MacLaren",
+      "summary": "Head of Media Planning at Sky UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-turner-420b1a154",
+      "name": "Jason Turner",
+      "summary": "Head Of Investment at Sky",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niyam-patel-376847169",
+      "name": "Niyam Patel",
+      "summary": "Driving Strategic Brand Growth | Specialising in Dubai Property Acquisitions, Mortgages, and Management",
+      "location": "Dubai"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I’ve been really touched by all the reactions to this - it means a lot. So I thought I’d add some Oscar-style thank yous: - Jay Flitter, my…",
+      "link": "https://www.linkedin.com/posts/samtomlinson-mediasense_at-50-i-just-finished-as-first-brit-at-activity-7452410194401271808-Djzj",
+      "activity_status": null
+    },
+    {
+      "title": "What a cracking day at the Creds | Media Marathon yesterday. Massive kudos to James Bottomley and the team at Suicide&Co for bringing the industry…",
+      "link": "https://www.linkedin.com/posts/joe-evea-5743684_ctv-media-mediamarathon-activity-7461065635020808192-MwSd",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to support the inaugural Media Marathon with Suicide&Co and Creds | Media during Mental Health Awareness Week alongside so many industry…",
+      "link": "https://www.linkedin.com/posts/active-international-uk_mentalhealthawarenessweek-mediamarathon-activity-7461115492880195584-ZjUt",
+      "activity_status": null
+    },
+    {
+      "title": "James Bottomley and team, you created something today. A special day, yes, but you have made so much more than that. You have done so much good. So…",
+      "link": "https://www.linkedin.com/posts/gemma-major-1a4b17209_james-bottomley-and-team-you-created-something-activity-7460762980159373312-izN7",
+      "activity_status": null
+    },
+    {
+      "title": "Goodbye iPro UK 💚 Though I am not going far at all it's been five years since we launched a new type of media agency, then the joy of watching our…",
+      "link": "https://www.linkedin.com/posts/james-bailey-0116923_goodbye-ipro-uk-though-i-am-not-going-activity-7460964567280553984-DYVj",
+      "activity_status": null
+    },
+    {
+      "title": "Hello iPro UK 💚 So excited to be back with Annette Male James Bailey Jessica Tamsedge Mike McCoy Flora Kong Toby Benjamin Chris Daines Mark Hughes…",
+      "link": "https://www.linkedin.com/posts/amy-watt-a470674_iprospect-appoints-uk-president-activity-7460698460300734466-XArq",
+      "activity_status": null
+    },
+    {
+      "title": "As we approach the start line of the Creds Media Marathon: Supporting Suicide&Co, we wanted to take a moment to say a massive thank you to all the…",
+      "link": "https://www.linkedin.com/posts/creds-technologies_as-we-approach-the-start-line-of-the-creds-activity-7460044884305997824-YiSx",
+      "activity_status": null
+    },
+    {
+      "title": "We work with many of the biggest names in the business to find them senior talent that thrive. Here are some of them to help explain our unique data…",
+      "link": "https://www.linkedin.com/posts/daren-rubins-4630382_whenitreallymatters-conkerwithus-conker360-activity-7452982159184756736-bqoW",
+      "activity_status": null
+    },
+    {
+      "title": "In 25 years of global communications, I’ve seen the landscape transform entirely. The platforms have shifted from print to digital to fragmented…",
+      "link": "https://www.linkedin.com/posts/tavyc_tavy-cussinel-launches-global-fractional-activity-7457694719024914433-IQ4_",
+      "activity_status": null
+    },
+    {
+      "title": "Earlier this month, after 16 incredible years I left WPP to embark on the next, exciting chapter in my career. Want to thank all the friends…",
+      "link": "https://www.linkedin.com/posts/matt-hamilton18_earlier-this-month-after-16-incredible-years-activity-7452728643124006912-CmM3",
+      "activity_status": null
+    },
+    {
+      "title": "Last month, I had the opportunity to attend the Make-A-Wish Hudson Valley #WishBall in support of an organization that continues to make an…",
+      "link": "https://www.linkedin.com/posts/wishball-activity-7457161047641337856-3-2B",
+      "activity_status": null
+    },
+    {
+      "title": "This will go down as a core Crafty memory. I am utterly delighted to be able to reward Yewande Ogunkoya by becoming Craft Media London  Managing…",
+      "link": "https://www.linkedin.com/posts/jenny-jones-91b0011_craft-media-london-appoints-first-md-activity-7458464092266180608-McnP",
+      "activity_status": null
+    },
+    {
+      "title": "Take a proper break. Go for a walk. Touch some grass. Smell some flowers. Step away from the screen for a bit! May feels like a good time to check…",
+      "link": "https://www.linkedin.com/posts/active-international-uk_mentalhealthawareness-wellbeing-mentalhealthatwork-activity-7455941607079702528-VgQ9",
+      "activity_status": null
+    },
+    {
+      "title": "Active International UK is partnering with the Sky Media Travel Leaders’ Summit 2026 in Malta this September, and I’ll be speaking at the event. A…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_first-wave-of-speakers-announced-activity-7459549304332914689-ODh5",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be attending Cannes with the Active UK team - reach out if you're there!",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_excited-to-be-attending-cannes-with-the-active-activity-7452663591553515520-88-0",
+      "activity_status": null
+    },
+    {
+      "title": "Great to elevate the conversation around corporate trade and commercial strategy for 2026.",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_will-corporate-trade-be-a-big-opportunity-activity-7450138211382755328-RF_b",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks to The Media Leader UK, and to all the brilliant women I have had the good fortune to work with and alongside throughout my career. Freddie…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_international-womens-day-a-moment-for-the-activity-7436766853630283776-w5qC",
+      "activity_status": null
+    },
+    {
+      "title": "Great to see the Active team in Manchester this week - enjoy MAD//North!!",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_great-to-see-the-active-team-in-manchester-activity-7432373391048749056-xq29",
+      "activity_status": null
+    },
+    {
+      "title": "I was delighted to talk to Ellie Hammonds earlier this month to discuss my first 100 days as Active International's UK MD. What is clear is that in a…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_ruth-cartwright-on-her-new-role-the-gender-activity-7430286793750687744-mmRb",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic to be part of such an inspiring day!",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_fantastic-to-be-part-of-such-an-inspiring-activity-7420429029935325184-vlAg",
+      "activity_status": null
+    },
+    {
+      "title": "Great insight into the latest Bellwether report David Carpenter",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_ipa-bellwether-q4-2025-industry-reactions-activity-7419055212067340288-ZxTn",
+      "activity_status": null
+    },
+    {
+      "title": "Last week I joined a panel at the Future of Media London event. Really enjoyed some healthy debate with fantastic panelists about a global vs local…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_last-week-i-joined-a-panel-at-the-future-activity-7394295052958593025-JhMF",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to join the ‘Future of Media London’ panel event on November 5th to discuss ‘scaling media strategies in an increasingly diverse and…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_foml-achievemore-activity-7384513947468742656-8ltj",
+      "activity_status": null
+    },
+    {
+      "title": "❤️ love this",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_love-this-activity-7382331574496808960-GMLD",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing achievement for Active - very proud to be part of the business. Well done team!",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_amazing-achievement-for-active-very-proud-activity-7376197160381607936-q3ep",
+      "activity_status": null
+    },
+    {
+      "title": "I’m not usually one to post personal linkedin messages BUT I have been overwhelmed with everyone’s lovely messages and wanted to say a big thank you.…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_achievemore-activity-7371845575509581824-iu1m",
+      "activity_status": null
+    },
+    {
+      "title": "I’m thrilled to be judging the Thinkbox TV Planning Awards this week, you can find the shortlist announcement here https://lnkd.in/e3KqeFaK. Looking…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_im-thrilled-to-be-judging-the-thinkbox-tv-activity-7330177922806276096-MreF",
+      "activity_status": null
+    },
+    {
+      "title": "I’m delighted to have been asked to judge this years Media Week Awards. I’m looking forward to reading all the entries, it’s a brilliant insight into…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_im-delighted-to-have-been-asked-to-judge-activity-7228773740036198409-YyEQ",
+      "activity_status": null
+    },
+    {
+      "title": "Happy New Year all! I’m delighted to have been asked to join the judging panel for Campaign Media Awards 2025. It’s always such an honour to see…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_cxmediaawards-campaignuk-activity-7282354005916221441-Lq_F",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to have been included on Campaign UK #TheLists of top 10 commercial chiefs. It is always unexpected but very much appreciated to receive…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_thelists-activity-7275128342813585408-oX4B",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to discussing the global and local impact of advertising at New Video Frontiers on Wednesday. Town Hall: Is TV Heading for Global…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_looking-forward-to-discussing-the-global-activity-7175891084034592769-A5AW",
+      "activity_status": null
+    },
+    {
+      "title": "Secondly, this is a perfect opportunity to call out the brilliant Sky Media sales team, who deserve as much (if not more) recognition - talented,…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_secondly-this-is-a-perfect-opportunity-to-activity-7172920108816801793-AoXp",
+      "activity_status": null
+    },
+    {
+      "title": "I wanted to also thank Mindshare UK as I’ve also been lucky enough to be recognised twice by the Mindshare team for IWD. Firstly, the below video is…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_i-wanted-to-also-thank-mindshare-uk-as-i-activity-7172919837323681794-WTZl",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to a good debate on Tuesday 12th @ 14.40-15.25 in Hall 1. I’ll be discussing ‘replacing lost broadcast audiences for advertisers’…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_looking-forward-to-a-good-debate-on-tuesday-activity-7171526080946761729-cptD",
+      "activity_status": null
+    },
+    {
+      "title": "I’m late to the IWD party, however I wanted to say a big thank you to Shauna Lewis and Campaign for the recognition they have given me, in last…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_im-late-to-the-iwd-party-however-i-wanted-activity-7172887949062184960-8QIv",
+      "activity_status": null
+    },
+    {
+      "title": "Pleased to say that I’ll be joining the line-up of judges for the 2024 Campaign UK Media Awards. The Campaign Media Awards celebrates the amazing…",
+      "link": "https://www.linkedin.com/posts/ruth-cartwright-62052b37_pleased-to-say-that-ill-be-joining-the-line-up-activity-7160596763655962624-ecHn",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Ruth Cartwright",
+      "link": "https://ca.linkedin.com/in/ruth-cartwright-394536156",
+      "summary": "Nursing Program Manager at Spectrum Health Care",
+      "location": "Greater Toronto Area, Canada"
+    },
+    {
+      "name": "Ruth Cartwright",
+      "link": "https://uk.linkedin.com/in/ruth-cartwright-77476217",
+      "summary": "Group Company Secretarial Manager at Micro Focus",
+      "location": "Newbury"
+    },
+    {
+      "name": "ruth cartwright",
+      "link": "https://ca.linkedin.com/in/ruth-cartwright-6a616416",
+      "summary": "Program Manager at spectrum health care",
+      "location": "Toronto, ON"
+    },
+    {
+      "name": "Ruth Cartwright",
+      "link": "https://uk.linkedin.com/in/craftcartwright",
+      "summary": "Lifestyle blogger, illustrator, High school teacher. Full time tea drinker.",
+      "location": "Hereford"
+    },
+    {
+      "name": "Ruth Cartwright",
+      "link": "https://www.linkedin.com/in/ruth-cartwright-552349252",
+      "summary": "Senior student at LeTourneau University, Clinical Teacher at Tatum Middle School",
+      "location": "Beaumont-Port Arthur Area"
+    },
+    {
+      "name": "Ruth Mindel",
+      "link": "https://uk.linkedin.com/in/ruth-mindel-8306542",
+      "summary": null,
+      "location": "Greater Southampton Area"
+    },
+    {
+      "name": "Ruth Cartwright",
+      "link": "https://uk.linkedin.com/in/ruth-cartwright-3bb19145",
+      "summary": "Priest in Charge at Church of England",
+      "location": "United Kingdom"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:51:41Z"
+  }
+}

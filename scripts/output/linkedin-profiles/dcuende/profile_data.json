@@ -1,0 +1,803 @@
+{
+  "public_identifier": "dcuende",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/aec3ee971e4092b74e27ae34604d1352",
+  "background_cover_image_url": null,
+  "first_name": "Daniel",
+  "last_name": "Cuende",
+  "full_name": "Daniel Cuende",
+  "follower_count": 1795,
+  "occupation": "Director at CUENDE",
+  "headline": "METRICOOH Manager",
+  "summary": "Especialidades:<br> Market Research<br>iOS Development.<br>Data Mining & IA.<br>.Net development",
+  "location_str": "Greater Madrid Metropolitan Area",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": null,
+      "company": "CUENDE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cuende-infometrics",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Diseño y desarrollo de producto.\nDesarrollo de herramientas de medicion globales para OoH\nConsultoria Internacional en OoH\nConsultoria en Internet",
+      "location": "Madrid Area, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/160fa529ab9179271c1cd054eb6cd538"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Esomar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/esomar",
+      "company_facebook_profile_url": null,
+      "title": "ESOMAR Disciplinary Committee.",
+      "description": "Effective self-regulation is fundamental to maintain the highest standards of performance, quality and ethics. The ESOMAR Council, in line with the ESOMAR Disciplinary Procedures appoints members of the Disciplinary Committee (DC) by the recognition of professional achievements and aptitude for this important assignment\n \nESOMAR’s Disciplinary Committees are authorised to sanction a member if a complaint is upheld (sanctions include a reprimand, suspension, expulsion, notification to authorities and any other measures that are authorised by the Council",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f60bcb7b203839aebf5297c16e2235fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "ESOMAR",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/esomar",
+      "company_facebook_profile_url": null,
+      "title": "Spain Representantive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f60bcb7b203839aebf5297c16e2235fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "MRC USA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "DOOH Measurement Standards Working Committee",
+      "description": "El MRC (Media Rating Council) ha elegido a Daniel Cuende, director de innovación de CUENDE Infometrics, para incorporarse al DOOH Measurement Standards Working Committee. El objetivo del MRC es definir las directrices para la medición de audiencia de la Publicidad Exterior Digital en Estados Unidos. Otros miembros seleccionados son Clear Channel Outdoor, PosterScope, DPAA (Digital Place-based Advertising Association) y Nielsen On-Location, entre otros. La iniciativa de MRC tienen una clara vocación internacional, ya que este ambicioso proyecto es la primera iniciativa mundial que engloba tanto las vallas y marquesinas digitales como los nuevos soportes ubicados en interiores, como centros comerciales y redes de transporte.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": null,
+      "company": "IE Business School",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ie-business-school",
+      "company_facebook_profile_url": null,
+      "title": "Profesor",
+      "description": "Teaching \"MARKET RESEARCH LANDSCAPE AND CAREERS\" in the Master in \"Market Research & Consumer Behavior\"",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/72e669529b7dfa72cf3561f862798d3b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": null,
+      "company": "Save Meeting",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Thinker",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Asociacion de Agencias de Medios",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Profesor Master  Curso de Experto en Medios",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Asociacion Cientifica de Economia y Direccion de la Empresa",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Ponente Workshop \"Docencia en Mk y Mk en la Practica\"",
+      "description": null,
+      "location": "Fundacion Universidad Rey Juan Carlos",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": null,
+      "degree_name": "Ingenieria Industrial",
+      "school": "Universidad Alfonso X El Sabio",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-alfonso-x-el-sabio",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/732c881b6ee84af19d0503242c243930",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Data Web",
+      "school": "IIR",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Curso",
+      "degree_name": "Mineria de Datos: tecnicas y aplicaciones, Curso",
+      "school": "Universidad Carlos III de Madrid",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3c53bdaaaf0e6611895da8999f88bb10",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Big Nerd Ranch",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Ingles"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Ingles",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Winner of the First Hackathon of BigData and Market Reseach from Microsoft and ESOMAR",
+      "issuer": "ESOMAR & Microsoft",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "description": "https://rwconnect.esomar.org/microsoft-and-esomar-hackathon-challenge/?utm_source=cc&utm_medium=email&utm_content=members-november-2017&utm_campaign=monthly-update A variety of experienced international professionals at several career stages in the Market Research Industry accepted the challenge. Over the two-day hackathon, multiple teams effectively analyzed data across brand tracking, product experience and social data.  The hackathon culminated with 20-minute insights presentations to a jury of top research executives of the Microsoft, Unilever and Heineken companies. Ultimately, Daniel Cuende, Innovation manager of CUENDE Infometrics, who had partnered with college student Youssef Medhat Kassem, achieved the winning strategy."
+    },
+    {
+      "title": "FEPE Innovation Award for OoH Audience measurement",
+      "issuer": "FEPE International",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2017
+      },
+      "description": "http://www.metricooh.com/?p=234 The award recognises CUENDE’s revolutionary audiences measuring system for the contribution it has made to the outdoor (Out-of-Home, or OOH) advertising industry. The system combines analysis of big data and the detection of vehicles in hi-res satellite images with data obtained from interconnected cars and smartphone apps in GPS traffic flows. Once collected, the information is integrated with travel habits surveys, thus allowing OOH companies, advertisers and media agencies to obtain audience measurements on both panels and networks. The information also includes socio-demographic and lifestyle profiling, which provides the OOH industry with audience data comparable with the geo-planning metrics available to other advertising media."
+    }
+  ],
+  "accomplishment_patents": [
+    {
+      "title": "SISTEMA PARA LOCALIZAR AUTOMáTICAMENTE ZONAS DE VISIBILIDAD",
+      "issuer": null,
+      "issued_on": {
+        "day": 2,
+        "month": 2,
+        "year": 2003
+      },
+      "description": null,
+      "application_number": null,
+      "patent_number": "ES P-200101819-ES",
+      "url": null
+    },
+    {
+      "title": "APPLICATION AND METHODS TO KNOW WHO ARE THE BEST DRIVERS",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "US 1-20100335-US",
+      "url": null
+    },
+    {
+      "title": "METODO Y SISTEMA DE REGISTRO, GESTION Y DISTRIBUCION CONFIDENCIAL DE REUNIONES MEDIANTE MULTIPLES DISPOSITIVOS ELECTRONICOS CON CONEXION A SERVIDOR REMOTO",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "US 1-20100128-US - 12/725,454",
+      "url": null
+    },
+    {
+      "title": "SISTEMA AUTOMATIZADO Y PROCEDIMIENTO DE PLANIFICACIóN Y CREACIóN DE CIRCUITOS OPTIMIZADOS DE SOPORTES PUBLICITARIOS EN UN MEDIO EXTERIOR.",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "ES P-200401269-ES",
+      "url": null
+    },
+    {
+      "title": "SISTEMA AUTOMáTICO DE INFERENCIA DE DATOS RELATIVOS A ELEMENTOS DE INFORMACIóN QUE ESTáN VISIBLES EN PANTALLAS DE NAVEGACIóN ACCEDIDAS DESDE TERMINALES DE COMUNICACIóN.",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "ES P-200102516-ES",
+      "url": null
+    },
+    {
+      "title": "SISTEMA DE LOCALIZAR AUTOMATICAMENTE SISTEMAS DE VISIBILIDAD",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "US P-200101819-ES",
+      "url": null
+    },
+    {
+      "title": "SISTEMA PUBLICITARIO POR CONTENIDOS DE INTERUS ANóNIMOS DE USUARIOS DE REDES DE ACCESO A FICHEROS INFORMáTICOS.",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "ES P-200202671-ES",
+      "url": null
+    },
+    {
+      "title": "UN SISTEMA ELECTRONICO PARA RECOPILAR INFORMACIONES SOBRE CA RACTERISTICAS DE LECTURA DE MEDIOS DE COMUNICACION IMPRESOS Y UNIDAD PORTATIL DE LECTURA PARA EL SISTEMA",
+      "issuer": null,
+      "issued_on": null,
+      "description": null,
+      "application_number": null,
+      "patent_number": "ES P-200500626-ES",
+      "url": null
+    }
+  ],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mariosgeorgakopoulos",
+      "name": "Marios Georgakopoulos",
+      "summary": "New Business & Transformation Manager at Politis Group | Intrapreneur by habit",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gonzaloortiz",
+      "name": "Gonzalo Ortiz",
+      "summary": "Haciendo crecer a MetricOOH, el sistema de medición de eficacia de la Publicidad Exterior mediante Inteligencia Artificial en Big Data de imágenes de satélite de alta resolución.",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/borjalopezgomez",
+      "name": "Borja López-Gómez",
+      "summary": "Head of Social | e-Commerce | DIBEXer | Strategy | Marketing",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierfolguerabarcelona",
+      "name": "Xavier Folguera Obiol",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonio-morales-escudero",
+      "name": "Antonio Morales Escudero",
+      "summary": "Director de Aeropuertos en Promedios",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisremirezdeesparza",
+      "name": "Luis Remírez de Esparza Lezana",
+      "summary": "Director de Narrativa y Contenidos de marca | Relevancia cultural, atención y crecimiento sostenido a través del entretenimiento, la inspiración y la utilidad",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joaqu%25C3%25ADn-de-aguilera",
+      "name": "Joaquín Aguilera",
+      "summary": "Co-Director del Customer Analytics Farm IE HST. Co-Durector del Master in Digital Management",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidpueyo",
+      "name": "David Pueyo",
+      "summary": "Head of Havas Play Spain",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaiserpp",
+      "name": "Rubén Plaza",
+      "summary": "Programmer at Cuende Infometrics",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-eugenia-mu%25C3%25A3%25C2%25B1oz-barrera",
+      "name": "Maria Eugenia Muñoz Barrera",
+      "summary": "Managing Director Havas +",
+      "location": "Naucalpan de Juárez"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sararequero",
+      "name": "Sara Requero Cedena",
+      "summary": "Responsable de comunicación online en Film Madrid en Comunidad de Madrid",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/teresa-monje-vigon",
+      "name": "Teresa Monje Vigón",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandodimatteo",
+      "name": "Fernando Jose Di Matteo Orrico",
+      "summary": "Consultor SEO y Desarrollador Web",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oscarbilbao",
+      "name": "Oscar Bilbao",
+      "summary": "Uno de los Herederos de Rowan",
+      "location": "San Sebastián"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvarogomezcorcuera",
+      "name": "Álvaro Gómez Corcuera",
+      "summary": "SEO / SEM / Marketing Digital / Marketing de Contenidos / SCRUM / RRSS / RRPP",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-huerta-lopez",
+      "name": "Hugo Huerta",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luispardopardo",
+      "name": "Luis Pardo, Ph.D",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramoniglesias",
+      "name": "Ramon Iglesias Tovar",
+      "summary": "Socio Director en EmicThinking",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javiermanzaneque",
+      "name": "Javier Manzaneque Crespo",
+      "summary": "🔴 Jefe Técnico / MCR / IP Transmisión / Producción Técnica y Remota / Youtube / Streaming",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raulabad",
+      "name": "Raul Abad",
+      "summary": "Marketing Automation & CRM | Email Marketing, Automation, MarTech and AI Geek",
+      "location": "Alcoy"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dlahoz",
+      "name": "David Lahoz Martín",
+      "summary": "Digital marketing expert with a deep understanding of the latest trends like AI, Privacy, Data and Programmatic, sustainability and advertising.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rubenbaston",
+      "name": "Rubén Bastón Meira",
+      "summary": "Director de Marketing4eCommerce",
+      "location": "Vigo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enriquecarrion",
+      "name": "Enrique Carrión",
+      "summary": "#Business Developer | #Ventas & Marketing B2B | #Alianzas Estratégicas | #Sales Manager | #Product Manager | #Desarrollo Negocio",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-francor",
+      "name": "Andrea Franco",
+      "summary": "Marketing & Publicidad",
+      "location": "Alajuela"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcosgpineiro",
+      "name": "Marcos Gómez Piñeiro",
+      "summary": "Lead Social Media Data Analysis at RTVE | Digital Analytics Professor at IED and EOI | Ph.D. candidate in Information Sciences at UCM",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielcreativity",
+      "name": "Daniel González",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-diez",
+      "name": "Mario Diez",
+      "summary": "Digital Director at NewCom Horizons",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-guill%25C3%25A9n-03b7b926",
+      "name": "Ana Guillén",
+      "summary": "Directora",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexrodriguezperez",
+      "name": "Alex Rodríguez Pérez",
+      "summary": "Marketing Digital y Social Media --> Desde el siglo pasado trabajando con pasión en el mundo online",
+      "location": "Majadahonda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferranburriel",
+      "name": "Ferran Burriel",
+      "summary": "Inbound Marketing | Inbound Sales | CRM & Automation | Ventas híbridas",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/santiago-del-hierro-lapuente-486596b",
+      "name": "Santiago del Hierro Lapuente",
+      "summary": "Socio Fundador en DHM - Grupo Pacífico",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rehanah-mohammed-ba792b16",
+      "name": "Rehanah Mohammed",
+      "summary": "Regional General Manager| Marketing & Business Development Expert | Podcast Host",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-llano-ab52b717",
+      "name": "Daniel Llano",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-de-lella",
+      "name": "Guillermo De Lella",
+      "summary": "CEO of ALOOH | Specialist in Out-of-Home Advertising (OOH) in Latin America | Industry Development, Regional Integration, and New Formats",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariano-oreguy-60265a23",
+      "name": "Mariano Oreguy",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anabel-d%25C3%25ADaz-a4970626",
+      "name": "Anabel Díaz",
+      "summary": "Anabel Díaz Morillo en CON 5 SENTIDOS PRODUCCIONES AUDIOVISUALES",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-eduardo-lopez-uribe-0353a027",
+      "name": "CARLOS EDUARDO LOPEZ URIBE",
+      "summary": "Managing Director BPN Colombia en BPN",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-fabry-816a902a",
+      "name": "Andrea Fabry",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-lastra-martin-grande-b9b41731",
+      "name": "Mario Lastra Martin-Grande",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/teresagarc%25C3%25ADap%25C3%25A9rez",
+      "name": "Teresa García Pérez",
+      "summary": "Especialista en Gestión de proyectos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-jos%25C3%25A9-mart%25C3%25ADnez-arrogante-89428344",
+      "name": "Juan José Martínez Arrogante",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susana-quintanilla-madero-44aa9646",
+      "name": "Susana Quintanilla Madero",
+      "summary": "Socio en NewStar Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-xiao-126b1151",
+      "name": "Jessica Xiao",
+      "summary": "Shenzhen Absen Optoelectronic Co., Ltd",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marta-jimenez-marcos-60894359",
+      "name": "MARTA JIMENEZ MARCOS",
+      "summary": "back office en CLINICA BAVIERA",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-smith-1307555a",
+      "name": "Peter Smith",
+      "summary": "Managing Director at PreScript Communications Limited",
+      "location": "Letchworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ismael-corbo-bb5a205a",
+      "name": "Ismael Corbo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/renzo-rava-perdomo-68a17264",
+      "name": "Renzo Rava Perdomo",
+      "summary": "Subgerente de Logística | +13 años en Supply Chain, Liderazgo de Equipos y Optimización de Procesos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-gutierrez-lafuente-15aa3b6b",
+      "name": "Mario Gutierrez Lafuente",
+      "summary": "Head of Product",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-cumia-88242275",
+      "name": "Jorge Cumia",
+      "summary": "Director",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lidice-benatar-56936288",
+      "name": "Lidice Benatar",
+      "summary": "La suerte tiene lugar cuando la preparación se encuentra con la oportunidad...",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ignacio-pe%25c3%25b1a-ab8205a3",
+      "name": "Ignacio Peña",
+      "summary": "Asistente en Seguridad de la información en UniónCapital AFAP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-castillo-astuy-152438a4",
+      "name": "Miguel Castillo Astuy",
+      "summary": "Periodista deportivo",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-bergua-sanchez-3a7b30b9",
+      "name": "Maria Bergua Sanchez",
+      "summary": "Amazon",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-gilardoni-359484bb",
+      "name": "Patricia Gilardoni",
+      "summary": "Analista Sr de Medios en Telecom Argentina",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edmundo-jose-urdaneta-otaiza-4270a515a",
+      "name": "Edmundo Jose Urdaneta Otaiza",
+      "summary": "PERIODSITA, CONTENT MANAGER, FOTOGRAFO",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-i-mendiburu-aizpuru-a30a70166",
+      "name": "Juan I. Mendiburu Aizpuru",
+      "summary": "Gerente en ROTUGRAFIK. Rotulos * Errotuloak",
+      "location": "Etxarri-Aranatz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marios-gripiotis-a423881a0",
+      "name": "Marios Gripiotis",
+      "summary": "Commercial Director at Politis Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mamadu-mamadu-a312161a8",
+      "name": "Mamadu Mamadu",
+      "summary": "Manager at PepsiCo",
+      "location": "Camden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-ford-9102a01b2",
+      "name": "Oliver Ford",
+      "summary": "MA European Studies, BA International Relations",
+      "location": "Leuven"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_la-cobertura-como-el-valor-supremo-del-activity-7438177155408117760-bbSF",
+      "activity_status": null
+    },
+    {
+      "title": "Nos vemos el 5..... con alguna sorpresa que otra.",
+      "link": "https://www.linkedin.com/posts/dcuende_nos-vemos-el-5-con-alguna-sorpresa-que-activity-7433113263464296448-jCvO",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_spotzi-provides-ibo-speedway-ooh-info-metricooh-activity-7180951763775066112-cGtf",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_no-te-pierdas-el-webinar-que-hemos-organizado-activity-6905167734083002368-kkVR",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_publicidad-bigdata-publicidadexterior-activity-6909927825407926273-TeAF",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_cuende-llega-a-sus-30-a%C3%B1os-siendo-l%C3%ADder-absoluto-activity-6884083893650149376-aI3o",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_entrevista-con-los-fundadores-de-cuende-activity-6909064742590406656-4kZT",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_big-data-en-la-medici%C3%B3n-de-audiencias-de-activity-6628927597176856576-EQyq",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_speakeralooh-activity-6569951576369311744-Prmv",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/dcuende_youtube-activity-6468959567421280256-ODaG",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/dqhPpmF",
+      "link": "https://www.linkedin.com/posts/dcuende_big-data-para-medir-la-audiencia-de-publicidad-activity-6554742071024988160-TE36",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Daniel Cuende-Carrera",
+      "link": "https://ie.linkedin.com/in/daniel-cuende-carrera-503ba5135",
+      "summary": "Project Manager at Activision Blizzard",
+      "location": "Irlanda"
+    },
+    {
+      "name": "Daniel Cuende",
+      "link": "https://es.linkedin.com/in/daniel-cuende-8567b7",
+      "summary": "-",
+      "location": "Madrid y alrededores"
+    },
+    {
+      "name": "Danny Cuende Cirillo",
+      "link": "https://es.linkedin.com/in/danny-cuende-cirillo-a47519229",
+      "summary": "--",
+      "location": "Pozuelo de Alarcón"
+    },
+    {
+      "name": "Mariano Daniel Cuende",
+      "link": "https://ar.linkedin.com/in/mariano-daniel-cuende-bab49a255",
+      "summary": "--",
+      "location": "Basavilbaso"
+    },
+    {
+      "name": "Daniel Cuende-Carrera",
+      "link": "https://uk.linkedin.com/in/danielcuende-carrera",
+      "summary": "Senior Producer",
+      "location": "Manchester"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-07T00:00:00Z"
+  }
+}

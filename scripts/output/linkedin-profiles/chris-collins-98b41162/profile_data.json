@@ -1,0 +1,584 @@
+{
+  "public_identifier": "chris-collins-98b41162",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5e3c39da7db7b399d7cdd7d3968f3683",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Chris",
+  "last_name": "Collins",
+  "full_name": "Chris Collins",
+  "follower_count": 559,
+  "occupation": "Commercial Manager at JCDecaux",
+  "headline": null,
+  "summary": null,
+  "location_str": "Ireland",
+  "country": "IE",
+  "country_full_name": "Ireland",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Manager",
+      "description": null,
+      "location": "Dublin, Ireland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "County Dublin, Ireland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Clear Channel",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "ILTB - The Stock Market Training Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/iltb---the-stock-market-training-company",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Stock market training company.",
+      "location": "Dublin",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "West Wood Health Club",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": null,
+      "location": "Leopardstown",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 558,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rossjackson1705",
+      "name": "Ross Jackson",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmaldaly",
+      "name": "Emma Daly",
+      "summary": "Business Director at Starcom Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joeclifford",
+      "name": "Joe Clifford",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markgrehandublin",
+      "name": "Mark Grehan",
+      "summary": "Head of Brand and Marketing, Uisce Éireann",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/seamus-d-79386121a",
+      "name": "Seamus D.",
+      "summary": "Director of JMD Illumination",
+      "location": "Limerick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/milltown-golf-club-833803263",
+      "name": "Milltown Golf Club",
+      "summary": "Golf Professional at Golf Club",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-oates-b88552196",
+      "name": "Thomas Oates",
+      "summary": "Assistant Golf Professional at Newport Country Club\n\nBag Room Staff and Caddie at Gulf Stream Golf Club\n\nPGA PGM Level 2 Associate\n\n2025 RIPGA Assistant Golf Professional of the Year",
+      "location": "Newport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxine-hands-8329641",
+      "name": "Maxine Hands",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pat-mannion-43215b4",
+      "name": "Pat Mannion",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-murtagh-206a1810",
+      "name": "Colin Murtagh",
+      "summary": "Director at Stephen Murtagh & Sons",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/s%25c3%25adne-niland-lambert-83713511",
+      "name": "Síne Niland (Lambert)",
+      "summary": "Senior Marketing Manager, Homes EBS at AIB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ailish-o-connor",
+      "name": "Ailish O'Connor",
+      "summary": "Managing Director at Olas (part of the Assima Group)",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-bucknell-1ba63113",
+      "name": "Mark Bucknell",
+      "summary": "Chief Commercial Officer at JCDecaux UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-france-34035515",
+      "name": "Julie France",
+      "summary": "MD at JCDecaux",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-o-flanagan-14848123",
+      "name": "Tony O'Flanagan",
+      "summary": "Marketing Director at JCDecaux Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliet-gethin-02275129",
+      "name": "Juliet Gethin",
+      "summary": "Land and Property Sales Executive / \nChartered Surveyor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/conor-farrell-2ab8392a",
+      "name": "Conor Farrell",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloe-guildea-51814232",
+      "name": "Chloe Guildea",
+      "summary": "Account Director at Mindshare Ireland | Female Futures Fund 2023",
+      "location": "Ashbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-philpot-74a07133",
+      "name": "Sara Philpot",
+      "summary": "Brave.•2K followers",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damien-donnellan-76418042",
+      "name": "Damien Donnellan",
+      "summary": "Commercial Manager at Jabes Interiors Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-mckenna-42a03447",
+      "name": "Rob McKenna",
+      "summary": "IT Manager at Talon Ireland",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shane-fortune-24b59350",
+      "name": "Shane Fortune",
+      "summary": "Senior Marketing Executive at JCDecaux Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gareth-hardy-98b69853",
+      "name": "Gareth Hardy",
+      "summary": "Managing Director, Hardy Distribution",
+      "location": "Ballymena"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niamh-dunne-3421065a",
+      "name": "Niamh Dunne",
+      "summary": "CitiService CCB Europe and UK Group Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-reynolds-aca-1032735a",
+      "name": "Sarah Reynolds ACA",
+      "summary": "Snr EMEA Accountant at NextRoll",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/naoufel-kademi-4865215a",
+      "name": "Naoufel Kademi",
+      "summary": "Projet/Program Mgmt Advisor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-shewbridge-allan-80513260",
+      "name": "Amy Shewbridge-Allan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valerie-smyth-17313783",
+      "name": "Valerie Smyth",
+      "summary": "PA at JCDecaux",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/papin-armelle-4a976587",
+      "name": "Papin Armelle",
+      "summary": "Assistante commerciale grands comptes chez JCDecaux",
+      "location": "Nantes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonia-totten-ab87b48b",
+      "name": "Sonia Totten",
+      "summary": null,
+      "location": "Belfast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelaantoniou",
+      "name": "Angela Antoniou",
+      "summary": "Business Operations Lead",
+      "location": "Kells"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lecomte-fran%25C3%25A7oise-1aa96997",
+      "name": "Lecomte Françoise",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tj-carroll-3910a9a6",
+      "name": "Tj Carroll",
+      "summary": "Digital Lead At Virgin Media Television | Rising Star Finalist 2025",
+      "location": "Newbridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/quentin-rothureau-569505101",
+      "name": "Quentin Rothureau",
+      "summary": "Real Estate Professional 🏡 | Nantes & South Loire 📍\nBuying, selling or renting made simple & stress-free 🌿\n😊 Friendly, reliable & client-focused — I take care of everything for you.",
+      "location": "Nantes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-patten-a0a956105",
+      "name": "Sean Patten",
+      "summary": "Brand Manager - Lucozade Sport, Celsius Energy & Suntory Global Spirits at Suntory Beverage & Food Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-foran-124120114",
+      "name": "Sean Foran",
+      "summary": "Senior Client manager at Talon Ireland | OOH Advertising | Driving Campaign Performance & Client Growth",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-gannon-772b72128",
+      "name": "Danielle Gannon",
+      "summary": null,
+      "location": "Carlow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niamh-fitzgerald-406695136",
+      "name": "Niamh Fitzgerald",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-donnelly-acca-62a765194",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Timely campaign from Life Style Sports and Zenith, part of Core ⚪ 🔴 Congratulations to all Gunners fans 🏆",
+      "link": "https://www.linkedin.com/posts/pml-group_timely-campaign-from-life-style-sports-and-activity-7462796887625134080-poaM",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Blue Lights stars Siân Brooke, Nathan Braniff and Katherine Devlin ‘took a beat’ from filming the fourth series of the hit police drama in Belfast…",
+      "link": "https://www.linkedin.com/posts/bbc-northern-ireland_blue-lights-stars-siân-brooke-nathan-activity-7455975510297280512-mxwN",
+      "activity_status": null
+    },
+    {
+      "title": "Gusto Snacks x JCDecaux UK Seeing our brand across some of London’s busiest stations felt unreal. But we quickly realised something: Just…",
+      "link": "https://www.linkedin.com/posts/giuseppe-baidoo-0b781b112_gusto-snacks-x-jcdecaux-uk-seeing-our-activity-7460590937971265536--9-0",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday’s inaugural Big Screen Social in London was a massive success! As Regional Partnership Director for UK, I am incredibly proud to champion…",
+      "link": "https://www.linkedin.com/posts/sophiecrosstaylor_pdooh-viooh-activity-7460999980405780480-BPnJ",
+      "activity_status": null
+    },
+    {
+      "title": "HBO Max has won our April 2026 ‘Campaign of the Month’ with their latest out of home campaign! The campaign was booked by media agency OMD Ireland…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-ireland_ooh-outdooradvertising-advertisingireland-activity-7460710905677316096-wjYw",
+      "activity_status": null
+    },
+    {
+      "title": "A brush-up here – maybe a small trim there. Keeping ads up to standard requires a stylist’s touch. Here’s some more work hot off the press for the…",
+      "link": "https://www.linkedin.com/posts/kick-communications_onic-chooseradio-advertisingireland-activity-7460652059420315648-N24f",
+      "activity_status": null
+    },
+    {
+      "title": "4 years ago today, I was diagnosed with breast cancer. It changed how I see everything…work, life, time. What I’ve learned: - If you want to do…",
+      "link": "https://www.linkedin.com/posts/breastcancer-activity-7460373489762353152-GDjF",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 10 golds, 9 silvers, 7 bronzes, and a Grand Prix - the best of Programmatic DOOH all in one night. Brilliant to be joined by so many clients…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-uk_pdooh2026-programmatic-activity-7460273435122839552-iMYn",
+      "activity_status": null
+    },
+    {
+      "title": "We’re seeing stars…on Out of Home! ⭐️ A fantastic morning was had yesterday with PHD and Talon Ireland , learning all about JCDecaux and OOH…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-ireland_aditl-ooh-advertising-activity-7460332081139761152-0iIt",
+      "activity_status": null
+    },
+    {
+      "title": "📢 New client news 📢 : We’re delighted to have won the pitch for the Advertising Standards Authority account, and to have created their first…",
+      "link": "https://www.linkedin.com/posts/kick-communications_onic-chooseradio-advertisingireland-activity-7460275122281701376-JRrC",
+      "activity_status": null
+    },
+    {
+      "title": "We are in the midst of the 2026 awards season, and hot on the heels of last night's epic JCDecaux UK's Programmatic Awards, I've been thinking about…",
+      "link": "https://www.linkedin.com/posts/kate-tovey-60937829_programmatic-award-advertising-activity-7460258348177723392-mruB",
+      "activity_status": null
+    },
+    {
+      "title": "Atlas is officially making headlines 👇 Delighted to see Marketing.ie cover the launch of our new enhanced programmatic OOH platform. Bringing…",
+      "link": "https://www.linkedin.com/posts/talon-ireland_talon-puts-atlas-on-irelands-ooh-map-marketingie-activity-7459958875106996225-Ti1U",
+      "activity_status": null
+    },
+    {
+      "title": "Tomorrow is Bike to Work Day – and to celebrate, RedClick dublinbikes and Dublin City Council are offering free 1 Day Tickets! Find out how to sign…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-ireland_bikeweek2026-biketoworkday-redclickdublinbikes-activity-7459961787904446464-CLG5",
+      "activity_status": null
+    },
+    {
+      "title": "What an exciting campaign to be a part of! ♥️",
+      "link": "https://www.linkedin.com/posts/sayalikhartadkar_what-an-exciting-campaign-to-be-a-part-of-activity-7454204712871936001-U8U6",
+      "activity_status": null
+    },
+    {
+      "title": "Day 2 of DMWF - come and have a chat at Stand 144! And be sure to check out our speaker sessions today: 10.30am - Omnichannel Marketing, CX &…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-uk_jcduk-dmwf-digitalmarketing-activity-7458062646018215936-iVz_",
+      "activity_status": null
+    },
+    {
+      "title": "A Diet Coke, please. That’s all. Diet Coke’s collaboration with The Devil Wears Prada 2 played out across roadside, transport and retail…",
+      "link": "https://www.linkedin.com/posts/talon-ireland_a-diet-coke-please-thats-all-diet-coke-activity-7459546614383394817-RBgF",
+      "activity_status": null
+    },
+    {
+      "title": "Great day at the Pedal Power event yesterday at Eamonn Ceannt Park with RedClick dublinbikes. Met lots of lovely people and so good to see such…",
+      "link": "https://www.linkedin.com/posts/laurahagan1_great-day-at-the-pedal-power-event-yesterday-activity-7459507971245457408-zjDZ",
+      "activity_status": null
+    },
+    {
+      "title": "We’ve done it again 🏆 Gold for Best Use of Cross Platform OOH for the second year running, at the Media Awards. A fantastic win for Unilever Sure,…",
+      "link": "https://www.linkedin.com/posts/talon-ireland_weve-done-it-again-gold-for-best-use-activity-7458472425937313792-SGJk",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-44863b6",
+      "summary": "Owner, Chris Collins",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-2258ab1a",
+      "summary": "Owner, Southwind Custom Builders",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-a-collins",
+      "summary": "Director of Customer Success at Bloomerang",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-68200531",
+      "summary": null,
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-70bb67b",
+      "summary": "director at chris collins dance studio",
+      "location": "New Alexandria, VA"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://uk.linkedin.com/in/chris-collins-0a107831",
+      "summary": "Commercial Manager at Robertson Construction Limited",
+      "location": "Gateshead"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-3792b56",
+      "summary": "Managing Partner at First Atlantic Capital, LLC",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://ca.linkedin.com/in/chris-collins-861b818b",
+      "summary": "Superintendent at BA Blacktop Ltd. Group of Companies",
+      "location": "Chilliwack, BC"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://ie.linkedin.com/in/jchriscollins",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://ie.linkedin.com/in/chris-collins-4b8a957a",
+      "summary": null,
+      "location": "Ireland"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://ie.linkedin.com/in/chriscollinscitco",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://ie.linkedin.com/in/chris-collins-ba5b2118",
+      "summary": null,
+      "location": "Ireland"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-0a8268155",
+      "summary": null,
+      "location": "Las Vegas, NV"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://uk.linkedin.com/in/chris-collins-1aa73911",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://www.linkedin.com/in/chris-collins-17796a3",
+      "summary": null,
+      "location": "Minneapolis, MN"
+    },
+    {
+      "name": "Chris Collins",
+      "link": "https://uk.linkedin.com/in/christopherdcollins",
+      "summary": null,
+      "location": "High Wycombe"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-29T04:54:03Z"
+  }
+}

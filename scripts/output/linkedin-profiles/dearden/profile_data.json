@@ -1,0 +1,585 @@
+{
+  "public_identifier": "dearden",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/0a84a1b5755c750a0e2851533bcf08cf",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQFaTAmZio_Tsg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675170952281?e=2147483647&v=beta&t=1f3fDeP0b7YdZOjnsT8jcY3INvrKQY7sN4wLPubd-es",
+  "first_name": "Matthew",
+  "last_name": "Dearden",
+  "full_name": "Matthew Dearden",
+  "follower_count": 2217,
+  "occupation": "CEO and co-founder at Alight Media",
+  "headline": "CEO, entrepreneur, and adviser",
+  "summary": "An accomplished leader who inspires people to achieve lasting change and transform results. Clear strategic vision founded in customer understanding. Strong management disciplines and intellectual rigour, paired with vision, insight, empathy and passion drive outstanding execution. Proven track record of success in both public and private equity businesses, across TMT and in FMCG; repeatedly promoted by every employer. Particularly relishes tough challenges and turn-arounds.\n\nSpecialties: Setting and delivering strategy, implementing change programmes and providing strong leadership for people and teams by ensuring clear direction and inspiring greater achievement. Leadership qualities are: passion, determination, energy, vision, strategy and fairness.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Alight Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/alightbrandmedia",
+      "company_facebook_profile_url": null,
+      "title": "CEO and co-founder",
+      "description": "A new media owner applying positive digital attitudes to offline media. Building a challenger brand in out-of-home.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/99931567b0258fb31cf131f25e857fa4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Illuminate",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Consultant, adviser and coach",
+      "description": "Enabling clients to give leadership and clarity by bringing industry-leading experience and expertise. This gives our clients deep understanding and insight, enabling smarter decisions and accelerating delivery. Most of our work relates to marketing, advertising, media, programmatic media and ad tech. We bring particular experience and expertise in leadership and change, creating constructive disruption including digitisation, high growth and turn-around situations.",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "President, Europe",
+      "description": "Responsible for Clear Channel’s business in 18 European countries, part of a global private equity-owned group. Includes both mature and higher growth (emerging) markets; some businesses in turn-around, others stable and successful. Continuing responsibility for UK, promoted from CEO to Chair; and all International HQ operating functions incl. Sales, Marketing, IT and HR.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Bauer Media Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive",
+      "description": "Chief Executive at leading out-of-home media owner Clear Channel UK and member of Clear Channel International's Executive Committee. Responsible for the company's vision, strategy and plans for growth; managing more than 650 employees in the UK across Sales, Marketing, Operations, Finance, IT, HR, Legal and Development.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2010
+      },
+      "company": "BT Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Director",
+      "description": "Marketing Director for BT's Consumer business responsible for acquiring, keeping and in-life marketing to over 10m customers. This involved overseeing overall marketing strategy, agency relationships, campaign development and through-the-line execution, media buying and responsibility for a nine-figure marketing budget.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2008
+      },
+      "company": "BT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Director of Voice Services & Devices",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2007
+      },
+      "company": "BT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive, BT Directories",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2005
+      },
+      "company": "BT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "General Manager: Directory Enquiries, Operator & Emergency Services",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Telewest Broadband",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director of Telephony",
+      "description": "Held several roles in digital TV and telephony at Telewest Broadband including Director of Telephony and Change Management. Responsible for overseeing the launch of the first enhanced TV service on digital cable.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Procter & Gamble",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/procter-and-gamble",
+      "company_facebook_profile_url": null,
+      "title": "Brand Manager and Assistant Brand Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b8b7b649bbb4744ebf7afd70f8de28f3"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "field_of_study": "(studied Astrophysics)",
+      "degree_name": "BSc",
+      "school": "University of Edinburgh",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-edinburgh",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bd08919573e08c5662e11b62a2b3fbc8",
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Vice-President Edinburgh University Students' Association (elected sabbatical position)\nEditor Student newspaper"
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2039,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/bryanblakekelley",
+      "name": "Blake Kelley",
+      "summary": "Marketing | OOH Advertising",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gracevalentinestanton",
+      "name": "Grace Valentine Stanton",
+      "summary": "Commercial Operations Director | Bloom Mentor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-brownsdon",
+      "name": "William Brownsdon",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/markcoiaooh",
+      "name": "Mark Coia",
+      "summary": "Head of Strategy & Data",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jcconti",
+      "name": "Jean-Christophe Conti",
+      "summary": "CEO @ VIOOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoeljones",
+      "name": "Zoe Jones",
+      "summary": "The Zoder Collective - Marketing, Branding, Communications /\nFractional CMO / FCMO / Fractional Marketing Director / ESG / Impact consultant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-mckay-042b06224",
+      "name": "Darren Mckay",
+      "summary": "Commercial Director, Alight Media",
+      "location": "Thame"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kstacey",
+      "name": "Karen Stacey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-dixon-it",
+      "name": "Alexander Dixon",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oohmedia",
+      "name": "Benjamin Milne",
+      "summary": "Chief Executive Officer - APAC at billups | Strategic Leader in Media and Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jon-kemp-32932243",
+      "name": "Jon Kemp",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/barryfrey1",
+      "name": "Barry Frey",
+      "summary": "President and CEO @ DPAA | Industry Digital Leadership",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-parker-8383467",
+      "name": "Nick Parker",
+      "summary": "Founder Go2OOH Consultancy Ltd. NED, Chair VIOOH, Global President Veridooh, Former Global COO Kinetic Worldwide - Global OOH Advocate",
+      "location": "Esher"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-cutter-9a71928",
+      "name": "Lee Cutter",
+      "summary": "Vice President, Sales - UK, Nordics and MENA",
+      "location": "South Hanningfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-durling-2045bb9",
+      "name": "Dan Durling",
+      "summary": "Chief Operating Officer at Alight Media | ex Yahoo | ex Global Media & Entertainment | on a mission to grow OOH and beyond",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graeme-hughes-567b7914",
+      "name": "Graeme Hughes",
+      "summary": "Out of Home Development/Sales",
+      "location": "Warrington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pitchwithjames",
+      "name": "James Appleby",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-smith-36067416",
+      "name": "Rob Smith",
+      "summary": "Development Director - Alight Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-bren-foster-68569316",
+      "name": "Andrew Bren Foster",
+      "summary": "Wildstone•3K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/derek-cousin-80264932",
+      "name": "Derek Cousin",
+      "summary": "Building and  leading high perfomance sales teams",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-lonsdale-33508151",
+      "name": "Nicole Lonsdale",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-waldron-00090757",
+      "name": "Tim Waldron",
+      "summary": "Executive Director, EMEA, DPAA - The Global Out of Home Association",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-oldland-71589978",
+      "name": "Kevin Oldland",
+      "summary": "Retired out of home advertising Development Manager",
+      "location": "Wincanton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacqui-carreau-92132379",
+      "name": "Jacqui Carreau",
+      "summary": "Head of Direct Sales at Alight Media",
+      "location": "Taunton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesbaker5",
+      "name": "James Baker",
+      "summary": null,
+      "location": "Chertsey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gareth-tuxworth-5ba168152",
+      "name": "Gareth Tuxworth",
+      "summary": "Operations Director at Alight Media \n\n#Future100 Club 2024",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-shelton-agar-811026153",
+      "name": "Alice Shelton-Agar",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-huckerby-4b368115b",
+      "name": "Dave Huckerby",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicki-glen-56a568168",
+      "name": "Vicki Glen",
+      "summary": "C-suite Executive Support and Administration operations",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "'It's time for my call with the astronaut' are not words I say every day. But I did have a call with the brilliant Helen Sharman, Britain's first…",
+      "link": "https://www.linkedin.com/posts/martin-firrell-76bb57a7_its-time-for-my-call-with-the-astronaut-activity-7173325298040578050-MfoM",
+      "activity_status": null
+    },
+    {
+      "title": "It's been a real career highlight to work on this project with the amazing Martin Firrell, Matthew Dearden and Alice Shelton-Agar. We partnered with…",
+      "link": "https://www.linkedin.com/posts/zoeljones_britains-first-astronaut-brought-to-light-activity-7171907596780584961-4fMl",
+      "activity_status": null
+    },
+    {
+      "title": "It was a privilege and pleasure to meet the smart, engaging, humane, humble and inspiring Helen Sharman this week. She has such an articulate passion…",
+      "link": "https://www.linkedin.com/posts/dearden_britains-first-astronaut-brought-to-light-activity-7171923918851674112-TMJ4",
+      "activity_status": null
+    },
+    {
+      "title": "We have been shortlisted for the ALF Awards 2024! Proud to feature in the Company Culture category alongside Open Media UK , BBJ&K LTD, Ketchum UK…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_shortlist-alf-awards-activity-7167922851331702784-J-OZ",
+      "activity_status": null
+    },
+    {
+      "title": "Last night was the Alight Media Christmas party. It was lovely getting together, seeing everybody and celebrating a fantastic year as a buisness. I…",
+      "link": "https://www.linkedin.com/posts/cassie-elliott-86495b23a_last-night-was-the-alight-media-christmas-activity-7138558592625872898-E71Z",
+      "activity_status": null
+    },
+    {
+      "title": "The Drum sat down with Alight Media's Matthew Dearden and HSBC's Sarah Mayall to talk about the principles behind their support of The Awards for Out…",
+      "link": "https://www.linkedin.com/posts/thedrum_the-drum-sat-down-with-alight-medias-matthew-activity-7138868566568624129-lQbk",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to be creating a new digital retail media business at Alight Media, with a #PositivelyDifferent experience for consumers, brands, agencies…",
+      "link": "https://www.linkedin.com/posts/dearden_alight-media-launches-digital-retail-division-activity-7136728227875573760-bOVQ",
+      "activity_status": null
+    },
+    {
+      "title": "We're delighted to announce that Alight has been ranked in the top 120 best mid-sized companies to work for in the UK, and we've also secured a spot…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_bestcompanies2023-top100uk-activity-7130120046541987840-K5Kz",
+      "activity_status": null
+    },
+    {
+      "title": "We have launched a new digital retail media division, expanding our offering for advertisers looking to connect with communities in this high growth…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_alight-launches-new-digital-retail-media-activity-7136007843073187840-bLJz",
+      "activity_status": null
+    },
+    {
+      "title": "A quick break from our panel discussion for some breaking news…watch this space!! 👀👀 Matthew Dearden #DOOH #OOH #programmatic DPAA @Christopher…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_dooh-ooh-programmatic-activity-7135576678600204288-JSSa",
+      "activity_status": null
+    },
+    {
+      "title": "I'm pumped to announce the big news teased by Matthew Dearden at yesterday's DPAA UK Breakfast With Ad Leaders: Alight Media is launching a new…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_alight-media-launches-digital-retail-division-activity-7136116607709282304-fPA_",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you so much Fraser Stewart for spending time with me, Darren Mckay and Stewart Carden and our cricket loving clients Nicci Loudon, Shenney…",
+      "link": "https://www.linkedin.com/posts/dan-durling-2045bb9_thank-you-so-much-fraser-stewart-for-spending-activity-7133024207617036288-jSxU",
+      "activity_status": null
+    },
+    {
+      "title": "Intrigued and excited to be attending the Great British Entrepreneur Awards tonight, apparently the \"Grammys of Entrepreneurship\". I'm proud to have…",
+      "link": "https://www.linkedin.com/posts/dearden_2023-shortlist-activity-7132398992037965824-nWek",
+      "activity_status": null
+    },
+    {
+      "title": "I was delighted last year when we were recognised as one of Britain's Best Companies to work for on our first time entering. We've grown a lot since…",
+      "link": "https://www.linkedin.com/posts/dearden_i-was-delighted-last-year-when-we-were-recognised-activity-7130989155878084608-M99S",
+      "activity_status": null
+    },
+    {
+      "title": "Last weekend myself and Hannah Cobb represented Alight Media alongside Talon and fellow media owners Ocean Outdoor Clear Channel UK ECN JCDecaux UK…",
+      "link": "https://www.linkedin.com/posts/jon-kemp-32932243_last-weekend-myself-and-hannah-cobb-represented-activity-7122965926978703360-fzvQ",
+      "activity_status": null
+    },
+    {
+      "title": "4 years ago we were a start up with 2 people and a great idea. Last night we were a headline MediaWeek sponsor, 2 of our team were shortlisted for…",
+      "link": "https://www.linkedin.com/posts/dan-durling-2045bb9_positivelydifferent-mediaweek-dooh-activity-7121146674009231363-4IH6",
+      "activity_status": null
+    },
+    {
+      "title": "We are delighted to share the news that our CEO, Matthew Dearden, has been awarded 'Media Leader of the Year' at the Media Week Awards! 🎉 We're…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_mediaweekawards2023-activity-7121117650524463104-NQLt",
+      "activity_status": null
+    },
+    {
+      "title": "I am dead chuffed and so proud of this, thank you Campaign Magazine UK. Leadership is a team sport, I am so grateful to the fabulous people at Alight…",
+      "link": "https://www.linkedin.com/posts/dearden_mediaweekawards2023-activity-7121161101295112192-2kzR",
+      "activity_status": null
+    },
+    {
+      "title": "One of my goals this year was to share my photography and adventures across Yorkshire and beyond. To see more of my photography please follow me at…",
+      "link": "https://www.linkedin.com/posts/jayne-burdon-10549a68_one-of-my-goals-this-year-was-to-share-my-activity-7165975702465425408-7XrT",
+      "activity_status": null
+    },
+    {
+      "title": "Shocking and such sad news. Nick was overflowing with energy, ideas, enthusiasm and confidence; but more importantly, generosity and affection -…",
+      "link": "https://www.linkedin.com/posts/dearden_shocking-and-such-sad-news-nick-was-overflowing-activity-7407131694945759232-gZBn",
+      "activity_status": null
+    },
+    {
+      "title": "I am proud to be shortlisted for Campaign's MediaWeek Media Leader of the Year award, thank you. An honour to be part of such an illustrious short…",
+      "link": "https://www.linkedin.com/posts/dearden_media-week-awards-media-leader-of-the-year-activity-6970697725499580416-VuUZ",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/matthew-dearden-94356283",
+      "summary": "M&A Associate at KPMG UK",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://www.linkedin.com/in/matthew-dearden-b59b2238",
+      "summary": "Director of Admissions at Cedarville University",
+      "location": "Dayton Metropolitan Area"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/mdearden",
+      "summary": "Owner, CORE Action Sports. @coreuk",
+      "location": "Greater Liverpool Area"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://www.linkedin.com/in/matthew-dearden-89a81895",
+      "summary": "Association Media Consultant at Naylor Association Solutions (Naylor, LLC)",
+      "location": "Gainesville, FL"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/matthew-dearden-22b784172",
+      "summary": null,
+      "location": "Bradford"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/matthew-dearden-804154227",
+      "summary": "Head of the Transaction Management Group, Loan Capital Markets EMEA at BNP Paribas",
+      "location": "Buckingham"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/matthew-dearden-86408868",
+      "summary": "Director QCC & FSQA EMENA",
+      "location": "Washington"
+    },
+    {
+      "name": "Matthew Dearden",
+      "link": "https://uk.linkedin.com/in/matthew-dearden-83a8b645",
+      "summary": "PGA Fellow Professional",
+      "location": "Greater Cardiff Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-13T00:00:00Z"
+  }
+}

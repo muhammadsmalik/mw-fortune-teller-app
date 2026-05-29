@@ -1,0 +1,202 @@
+{
+  "public_identifier": "aron-bjarki-jósepsson-239778105",
+  "profile_pic_url": "https://media.mixrank.com/profilepic/67722cb601c732c5138cb1a9d9545aad",
+  "background_cover_image_url": null,
+  "first_name": "Aron Bjarki",
+  "last_name": "Jósepsson",
+  "full_name": "Aron Bjarki Jósepsson",
+  "follower_count": 730,
+  "occupation": "Sales Manager at Billboard / Buzz umhverfismiðlar",
+  "headline": "Sales Manager at Billboard & Buzz",
+  "summary": "Sales Manager at Billboard/Buzz",
+  "location_str": "Iceland",
+  "country": "IS",
+  "country_full_name": "Iceland",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Billboard / Buzz umhverfismiðlar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/billboard-buzz-umhverfismiðlar",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "Reykjavík, Capital Region, Iceland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "company": "Billboard / Buzz umhverfismiðlar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/billboard-buzz-umhverfismiðlar",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Reykjavík, Capital Region, Iceland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "company": "KR Reykjavik FC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Football Player",
+      "description": null,
+      "location": "Reykjavik",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "KR Reykjavik FC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Youth Coach - Football",
+      "description": null,
+      "location": "Reykjavik",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "Sportvörur",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Employee",
+      "description": null,
+      "location": "Kópavogur, Iceland",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "field_of_study": "Business/ Marketing & International Business",
+      "degree_name": "Bachelor of Science - BS",
+      "school": "Háskóli Íslands",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/háskóli-íslands",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "field_of_study": "Biology, General",
+      "degree_name": "Bachelor of Science - BS",
+      "school": "Háskóli Íslands",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/háskóli-íslands",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Danish",
+    "Icelandic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Danish",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Icelandic",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 730,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-23T00:00:00Z"
+  }
+}

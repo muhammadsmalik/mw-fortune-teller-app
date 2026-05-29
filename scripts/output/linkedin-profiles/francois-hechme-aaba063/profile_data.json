@@ -1,0 +1,490 @@
+{
+  "public_identifier": "francois-hechme-aaba063",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/29619ad37469a555ce688b9bde51a9bc",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Francois",
+  "last_name": "Hechme",
+  "full_name": "Francois Hechme",
+  "follower_count": 1809,
+  "occupation": "Vice President, Products at Broadsign",
+  "headline": "Leading Products at BroadSign",
+  "summary": "Versatile Senior IT Professional offers cross-functional strengths in systems analysis, sales engineering, and software lifecycle management  amassed through over 15 years of experience.",
+  "location_str": "Toronto, Ontario, Canada",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Toronto",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Vice President, Products",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Four Winds Interactive",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Director of Product Management",
+      "description": null,
+      "location": "Toronto, Canada Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Starmount",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Director, Product Management",
+      "description": "Starmount develops software solutions that bring the richness of the web and the power of mobile into the store, where retailers can create more personalized, relevant, and dynamic interactions with customers. From mobile selling to interactive kiosks, our retail solutions transform the store environment to a more connected, engaging shopping experience.",
+      "location": "Austin, Texas & Toronto, Ontario",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "BroadSign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Director of Solutions",
+      "description": "BroadSign International Inc. is the worldwide provider of on-demand software solutions for managing Digital Signage/Digital Out-of-Home Networks. Media Networks use our Software as a Service (SaaS) solution to manage their Digital Signage/Digital Out-of-Home Networks sales inventory, scheduling and reporting across unlimited number of locations.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Executive Product Leadership Program",
+      "degree_name": null,
+      "school": "CPO Accelerator",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cpo-accelerator",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/869f412d3a85196e4239612e2ddbfe19",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "McGill University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/mcgill-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0cd9dc6852214fc7e25ca8ac5ebb3cc7",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Computer Engineering",
+      "school": "Concordia University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/concordia-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed7925ecbc6ab541ed2925860938097b",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1785,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/leifmontin",
+      "name": "Leif Montin",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/piravien-sunt",
+      "name": "Piravien Sunt",
+      "summary": null,
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timgarton",
+      "name": "Tim Garton",
+      "summary": "Technical Product Manager at Geopath",
+      "location": "Bowling Green"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankvallenga",
+      "name": "Frank Vallenga",
+      "summary": null,
+      "location": "Rosmalen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markjamensky",
+      "name": "Mark Jamensky",
+      "summary": "Entrepreneur | Investor | Product Leader | Advisor | Fractional COO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopheramcphee",
+      "name": "Chris McPhee",
+      "summary": "Helping Calgary founders & leadership teams (10–250 employees) improve alignment, accountability & execution | Former President who scaled & exited | Certified EOS Implementer®",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amyjfyuan",
+      "name": "Amy Yuan",
+      "summary": "Driving up sales & operational efficiencies for OOH networks 📈 | Account Manager @ Broadsign | #DEI Advocate",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stanrichter",
+      "name": "Stan Richter",
+      "summary": "CEO at signageOS / The Best Digital Signage Platform",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joecotugno",
+      "name": "Giuseppe Cotugno",
+      "summary": "SVP, International Operations at Broadsign",
+      "location": "Starnberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brookschris",
+      "name": "Chris Brooks",
+      "summary": null,
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edkevbrin",
+      "name": "Ed Kevbrin",
+      "summary": "Partner, co-founder at startup-studio",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bryanmongeau",
+      "name": "Bryan Mongeau",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liseanne-gillham",
+      "name": "Liseanne Gillham",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/torontostevegarrett",
+      "name": "Steve Garrett",
+      "summary": "Senior Product Manager",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiffany-english-6ab8b827",
+      "name": "Tiffany English",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hubertsirois",
+      "name": "Hubert Sirois",
+      "summary": "Chief Operating Officer at Showcare",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kotowski1",
+      "name": "John Kotowski",
+      "summary": "Building PricingSaaS - a community for SaaS operators to get better at pricing.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carsonwong-",
+      "name": "Carson Wong",
+      "summary": "SVP Product Management | Driving Product Innovation & Growth | 18+ Years of Leadership in Enterprise Platform, E-commerce & Technology | Passionate About Customer-Centric Digital Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shammeeraalles",
+      "name": "Shammeera Alles",
+      "summary": "Product Management leader for high-growth B2B2C SaaS companies",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steveseguin",
+      "name": "Steve Seguin",
+      "summary": "Vice President, Products at LBMX | Supporting Independent Businesses and their Purchasing Groups",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robphartley",
+      "name": "Rob Hartley",
+      "summary": "Retired",
+      "location": "Port Moody"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinishiguro",
+      "name": "Kevin Ishiguro",
+      "summary": "Vice President Products at Copperleaf Technologies",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helenlching",
+      "name": "Helen Ching, P Eng, MBA",
+      "summary": "#ProductManagement #CustomerExperience #Business #Tech #Innovation #Agile #Lean #Transformation",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielparisien",
+      "name": "Daniel Parisien",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedrofsanz",
+      "name": "Pedro Fernández Sanz",
+      "summary": "Director Marketing y Producto en Clear Channel",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonbrown828",
+      "name": "Jason Brown",
+      "summary": "Vice President, Sherweb IP Services (C2 ITSM & Purely HR)",
+      "location": "Magog"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brucekmcmahon",
+      "name": "Bruce McMahon",
+      "summary": "Chief Product Officer at CallMiner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonstrashek",
+      "name": "Jason Strashek",
+      "summary": "COO at Colony Networks",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesmanson",
+      "name": "James Manson",
+      "summary": null,
+      "location": "Sarasota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-dalgliesh",
+      "name": "Jeff Dalgliesh",
+      "summary": "Founder and Chief Research Officer at Data² | Building Intelligent Engineering Assistants",
+      "location": "Duncan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmylim888",
+      "name": "Jimmy Lim",
+      "summary": "Senior Business & Sales Director; Market Development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/myriam-bordeleau-a309359",
+      "name": "Myriam Bordeleau",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nishit-shukla-65908aa",
+      "name": "Nishit Shukla",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/burr-smith-b7161010",
+      "name": "Burr Smith",
+      "summary": "Chairman of the Board, President and CEO at Broadsign",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edith-gagne",
+      "name": "Edith Gagne",
+      "summary": "Programmatic DOOH, Change Management and Sales Operations Leader",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-kumar-trivedi-aba85017",
+      "name": "Amit Kumar Trivedi",
+      "summary": "VMware Engineer at uCertify.com",
+      "location": "Kanpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-chouinard-7b991b20",
+      "name": "Maxime Chouinard",
+      "summary": "Broadsign Ads - Senior Product Manager",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiffany-english-terrier-6ab8b827",
+      "name": "Tiffany English (Terrier)",
+      "summary": "Vice President, Products at NexJ Health",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dino-vilardo-39319130",
+      "name": "Dino Vilardo",
+      "summary": "PAD Site Officer at Toronto EMS",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/debora-calla-bevilacqua-60826231",
+      "name": "Debora Calla (Bevilacqua)",
+      "summary": "Customer Care Representative at Rogers Communications",
+      "location": "Caledon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-frackowiak-8375b735",
+      "name": "Sven Frackowiak",
+      "summary": "🚀 DIGITALISIERUNG in Perfektion.",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-suppa-12183349",
+      "name": "Frank Suppa",
+      "summary": "Trusted Financial Advisor and Risk Manager at Experior Financial Group.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giorgio-amorini-4780aa56",
+      "name": "Giorgio Amorini",
+      "summary": "National Sales Manager",
+      "location": "Beeton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arad-masoumabady-5b412956",
+      "name": "Arad Masoumabady",
+      "summary": "Software Developer III at Broadsign",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-mercuri-73b98062",
+      "name": "Matthew Mercuri",
+      "summary": "Director, Business Development at Samsung Electronics",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rene-venter-1817296b",
+      "name": "Rene Venter",
+      "summary": "GM - Digital Media at ProVantage",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-feldstein-66ab2470",
+      "name": "Allan Feldstein",
+      "summary": null,
+      "location": "King City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stanley-ma-9ba4367a",
+      "name": "Stanley Ma",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-trineer-90660192",
+      "name": "Neil Trineer",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-bicks-5865b0a0",
+      "name": "Alex Bicks",
+      "summary": "Senior Director, Digital Ad Operations at Intersection Co.",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatiana-abondano",
+      "name": "Tatiana Abondano",
+      "summary": null,
+      "location": "Etobicoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/premendra-shekhar-kashyap-1873a6106",
+      "name": "PREMENDRA SHEKHAR KASHYAP",
+      "summary": "Student at NIT AGARTALA",
+      "location": "Allahabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anand-g-n-13a931165",
+      "name": "Anand G. N.",
+      "summary": null,
+      "location": "Pune"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-06T00:00:00Z"
+  }
+}

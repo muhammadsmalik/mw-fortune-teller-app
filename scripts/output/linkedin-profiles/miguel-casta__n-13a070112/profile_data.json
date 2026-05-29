@@ -1,0 +1,244 @@
+{
+  "public_identifier": "miguel-castañón-13a070112",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/13ac813c368658cf03ef70f4d80ae33e",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/607ff341bc3f75d1353ae3754751476d",
+  "first_name": "Miguel",
+  "last_name": "Castañón",
+  "full_name": "Miguel Castañón",
+  "follower_count": 10275,
+  "occupation": "Senior Sales Director – EMEA at Broadsign",
+  "headline": "Evolving (D)OOH to drive sales growth & operational efficiency || Business Development EMEA at Broadsign",
+  "summary": null,
+  "location_str": "Madrid, Community of Madrid, Spain",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Director – EMEA",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2026
+      },
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director – EMEA",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Ayuda Media Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ayuda-broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Director – EMEA",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Ayuda Media Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ayuda-broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director – Spain",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Accenture",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+      "company_facebook_profile_url": null,
+      "title": "Business Management Consultant",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2005
+      },
+      "company": "Valeo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/valeo",
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2004
+      },
+      "company": "Bosch",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bosch",
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2005
+      },
+      "field_of_study": "Industrial Engineering",
+      "degree_name": "Industrial Engineering Master Degree - Specialization in Business Management.",
+      "school": "Universidad Nebrija",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-nebrija",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": "Diploma Programme",
+      "school": "Bachillerato Internacional",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ibo",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": "EGB, BUP, COU, IGCSE & IB",
+      "school": "British Council School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 10265,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

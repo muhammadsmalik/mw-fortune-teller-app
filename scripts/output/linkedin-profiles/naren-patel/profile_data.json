@@ -1,0 +1,535 @@
+{
+  "public_identifier": "naren-patel",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/160a0e66713a69b0708fe3afaaefe4a6",
+  "first_name": "Naren",
+  "last_name": "Patel",
+  "full_name": "Naren Patel",
+  "follower_count": 4025,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "improve-adlands-woeful-diversity-record-building-workplace",
+      "publisher": "Campaign",
+      "published_on": {
+        "day": 9,
+        "month": 6,
+        "year": 2020
+      },
+      "description": null,
+      "url": "https://www.campaignlive.co.uk/article/improve-adlands-woeful-diversity-record-building-workplace/1685656"
+    },
+    {
+      "name": "100 Ethnic Minority Executive",
+      "publisher": "Financial Times",
+      "published_on": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "description": null,
+      "url": "https://www.out-standing.org/empower/2018-top-100-ethnic-minority-executives/"
+    },
+    {
+      "name": "BBC Interview",
+      "publisher": "BBC",
+      "published_on": {
+        "day": 3,
+        "month": 1,
+        "year": 2017
+      },
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Pm9AxTxlh_o"
+    },
+    {
+      "name": "Media week",
+      "publisher": "Haymarket",
+      "published_on": {
+        "day": 24,
+        "month": 6,
+        "year": 2015
+      },
+      "description": null,
+      "url": "http://www.campaignlive.co.uk/article/1353160/media-week-naren-patel"
+    },
+    {
+      "name": "Measurement and interactivity help out of home keep pace with digital",
+      "publisher": "Guardian",
+      "published_on": null,
+      "description": null,
+      "url": "http://www.theguardian.com/media-network/media-network-blog/2013/sep/06/out-of-home-outdoor-digital"
+    },
+    {
+      "name": "Which party will use outdoor effectively to lead the 2015 election agenda?",
+      "publisher": null,
+      "published_on": null,
+      "description": null,
+      "url": "http://www.mediaweek.co.uk/article/1323806/party-will-use-outdoor-effectively-lead-2015-election-agenda"
+    },
+    {
+      "name": "Why Private Equity has a bigger role in the media Spare",
+      "publisher": null,
+      "published_on": null,
+      "description": "http://realbusiness.co.uk/article/29706-why-private-equity-has-a-bigger-role-in-the-media-space-and-what-its-impact-on-companies-is",
+      "url": null
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ianjonestas",
+      "name": "Ian Jones",
+      "summary": "Save Cash Buy Media & Sustainability with Surplus Stock or Downtime",
+      "location": "Hurley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidshiell",
+      "name": "David Shiell BAcc GAICD",
+      "summary": "AI Transformation Advisor & Interim Executive | Generative AI Strategy, Governance & Adoption | Board & CEO Partner",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissarobertson29",
+      "name": "Melissa Robertson",
+      "summary": "CEO, Dark Horses; Trustee, Women's Sport Trust; Director, Menopause Mandate; WACL member; IPA iList 2022",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremyknight",
+      "name": "Jeremy Knight",
+      "summary": "Driving Growth for Contract Manufacturers | Founder & MD at Equinet Media",
+      "location": "Bedford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimbanks",
+      "name": "Jim Banks",
+      "summary": "I help business owners scale their lead generation and pay per call campaigns. Media buyer, podcast host, agency owner.",
+      "location": "Salisbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-m-holmes-b11858",
+      "name": "Richard M Holmes",
+      "summary": "Location-based, personal and real-time customer-brand relationships",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garyjacobs1",
+      "name": "Gary Jacobs",
+      "summary": "Self-employed•4K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-evans-1b7b394",
+      "name": "Mark Evans",
+      "summary": "WEF Davos Expert, Media Strategic Partnerships, Event Sponsorship Consultant",
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/asher-moses-3970856",
+      "name": "Asher Moses",
+      "summary": "Founder & CEO of SHERBET | Building urban mobility infrastructure for electric taxi fleets, mobile media networks and future autonomous vehicles | Great British Entrepreneur Awards Winner",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fireworx",
+      "name": "Daniel Smith",
+      "summary": "CEO and Founder at Fireworx | Driving Growth with disruptive marketing",
+      "location": "Bournemouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-s-b221b79",
+      "name": "Catherine S.",
+      "summary": "Owner, Savvy Marketing",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-bryant-873a6911",
+      "name": "Nick Bryant",
+      "summary": "Royal Tunbridge Wells…•6K followers",
+      "location": "Royal Tunbridge Wells"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rizwanc",
+      "name": "Rizwan Chaudhrey",
+      "summary": "💊𝗕𝗹𝗼𝗴𝗴𝗲𝗿 #ConnectingInforming #DrugDiscoverytoDrugDelivery 💻𝗩𝗶𝗱𝗲𝗼 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 YouTube: RSK Life Science Media 📈𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗮𝗻𝘁-LinkedIn/Marketing/Media/Events, Brand Champion",
+      "location": "Sutton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-hawkey-smith-a4725013",
+      "name": "Graham Hawkey-Smith",
+      "summary": "Chief Strategy Officer at The Delta Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoffdmorris",
+      "name": "Geoff Morris",
+      "summary": null,
+      "location": "Merthyr Tydfil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dannylacey",
+      "name": "Danny Lacey",
+      "summary": "CEO at WOWVI Group | Video Production, Design & Print, Commercial Interior Design & Build and much more.",
+      "location": "Wakefield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mcgowanbill",
+      "name": "Bill McGowan",
+      "summary": "Mostly retired, still helping businesses, non-profits, and people to do things better. \nMarketing I Innovation I Campaigning.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolaray",
+      "name": "Nicola Ray",
+      "summary": "B2B Agency Leader | Marketing Strategist.  Scaling and transforming marketing for innovative global businesses.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-bownes-0235722a",
+      "name": "David Bownes",
+      "summary": "Global Airport Advertising, Promotional Activity & Activations",
+      "location": "Dublin"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I’ve been reflecting over the past few days, and I feel compelled to say something personally. Recent attacks and acts of intimidation against Jewish…",
+      "link": "https://www.linkedin.com/posts/naren-patel_solidarity-inclusion-antisemitism-activity-7455569023477563392-ohfl",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Vaisakhi from MEFA 🌾Media For All [MEFA] Vaisakhi is one of the most important festivals in the Sikh calendar. It marks the creation of the…",
+      "link": "https://www.linkedin.com/posts/naren-patel_happy-vaisakhi-from-mefa-media-for-all-activity-7449775423288197120-fZ9G",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Easter",
+      "link": "https://www.linkedin.com/posts/naren-patel_happy-easter-activity-7445918562826911744-xMwC",
+      "activity_status": null
+    },
+    {
+      "title": "I was listening to Professor Mona Siddiqui on BBC Radio 4’s Thought for the Day this morning, reflecting on friendship and loyalty. A simple but…",
+      "link": "https://www.linkedin.com/posts/naren-patel_thought-for-the-day-mona-siddiqui-bbc-activity-7440375910832160768-QW1S",
+      "activity_status": null
+    },
+    {
+      "title": "I recently came across the #TheMissing campaign highlighting a troubling statistic. Between 2021–2025, around 118 boys were born for every 100 girls…",
+      "link": "https://www.linkedin.com/posts/naren-patel_themissing-internationalwomensday-activity-7437419566886092800-H_r-",
+      "activity_status": null
+    },
+    {
+      "title": "Want to help shape the future of our industry? Applications are now open for the first-ever @NABS Next Gen Board - and I'd love to see fresh voices…",
+      "link": "https://www.linkedin.com/posts/naren-patel_want-to-help-shape-the-future-of-our-industry-activity-7434906884085538816-2oja",
+      "activity_status": null
+    },
+    {
+      "title": "LinkedIn likes are nice — but they don’t fund support. To CEOs across our industry: NABS exists to support people at their most vulnerable moments —…",
+      "link": "https://www.linkedin.com/posts/naren-patel_lets-resolve-to-support-each-other-through-activity-7422886200702566401-L4uY",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to working with the Team Ozone | The Audience Connection Platform Dipti PatelBryan ScottDamon Reeve",
+      "link": "https://www.linkedin.com/posts/naren-patel_really-looking-forward-to-working-with-the-activity-7419800521647038464-NR7z",
+      "activity_status": null
+    },
+    {
+      "title": "🌱 MEFA Mentoring Programme | Starting April 🌱 One of the most impactful things we do at Media For All (MEFA) is our mentoring programme — and every…",
+      "link": "https://www.linkedin.com/posts/naren-patel_ethnic-minority-representation-in-the-media-activity-7416509444970352641-RgVO",
+      "activity_status": null
+    },
+    {
+      "title": "As we head into the New Year, we want to say a heartfelt thank you to everyone who is part of the Media for All community 💛 2025 was a challenging…",
+      "link": "https://www.linkedin.com/posts/naren-patel_as-we-head-into-the-new-year-we-want-to-activity-7412254286539038720-KSdJ",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to all our sponsors and a big thanks to the MEFA team for making these awards such a success - congratulations to all the winner and…",
+      "link": "https://www.linkedin.com/posts/naren-patel_thank-you-to-all-our-sponsors-and-a-big-thanks-activity-7401278599506546688-SawC",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to share that Out of Home Capital has advised London Lites, Founder Sam Dayeh, and the wider management team on the successful sale of the…",
+      "link": "https://www.linkedin.com/posts/naren-patel_delighted-to-share-that-out-of-home-capital-activity-7399743273336205312-9eoF",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday brought some very sad news. A number of my former PRIMESIGHT LIMITED colleagues were informed by email that they were being asked to return…",
+      "link": "https://www.linkedin.com/posts/naren-patel_yesterday-brought-some-very-sad-news-a-number-activity-7397226074939604992-36I-",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to the awards next week",
+      "link": "https://www.linkedin.com/posts/naren-patel_looking-forward-to-the-awards-next-week-activity-7394743494327762944-Dnk_",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting News from Media For All (MEFA)! Campaign UK has introduced a new category for the 2025 Media Week Awards - Inclusive Media Strategy, in…",
+      "link": "https://www.linkedin.com/posts/naren-patel_exciting-news-from-media-for-all-mefa-activity-7386339871268773888-RsV-",
+      "activity_status": null
+    },
+    {
+      "title": "How do I become more English? I was born here. My mother was from Luton. She passed away a few years ago, but despite her white skin and my brown…",
+      "link": "https://www.linkedin.com/posts/naren-patel_how-do-i-become-more-english-i-was-born-activity-7373819377533632512-D6xy",
+      "activity_status": null
+    },
+    {
+      "title": "MEFA Diversity & Inclusion Award 2025 — Lets Go!!!!!",
+      "link": "https://www.linkedin.com/posts/naren-patel_mefa-diversity-inclusion-award-2025-lets-activity-7371872325220331520-9bC0",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this......",
+      "link": "https://www.linkedin.com/posts/naren-patel_looking-forward-to-this-activity-7364011939645063170-F70y",
+      "activity_status": null
+    },
+    {
+      "title": "Good to read.....",
+      "link": "https://www.linkedin.com/posts/naren-patel_good-to-read-activity-7361818534798102528-bu8o",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday, Media For All [MEFA] collaborated with Global for an inspiring event. It reinforced the core mission behind MEFA and the crucial support…",
+      "link": "https://www.linkedin.com/posts/naren-patel_diversityandinclusion-supportingyoungtalent-activity-7354049117158809600-D3ct",
+      "activity_status": null
+    },
+    {
+      "title": "Read my thoughts on the last 5 years post the murder of George Floyd",
+      "link": "https://www.linkedin.com/posts/naren-patel_reflecting-on-five-years-since-george-floyd-activity-7333053720764497922-6WLV",
+      "activity_status": null
+    },
+    {
+      "title": "Interesting read from Carlos Viladevall Passola on verfication and transparency",
+      "link": "https://www.linkedin.com/posts/naren-patel_interesting-read-from-carlos-viladevall-passola-activity-7317535398933463041-9o9T",
+      "activity_status": null
+    },
+    {
+      "title": "Always a fun evening with the Media For All [MEFA] crew and thank to the the7stars for the awesome hospitality",
+      "link": "https://www.linkedin.com/posts/naren-patel_always-a-fun-evening-with-the-media-for-all-activity-7328149432993026048-p9az",
+      "activity_status": null
+    },
+    {
+      "title": "A really interesting move from T Mobile, which follows the announcement of Vistar Media . Interesting to see where this goes next. A really positive…",
+      "link": "https://www.linkedin.com/posts/naren-patel_blis-t-mobile-enhances-marketing-capabilities-activity-7303433149399670785-yboP",
+      "activity_status": null
+    },
+    {
+      "title": "It is with great sadness that I share the news of Martin's passing. He was an incredible supporter of myself and the team at PRIMESIGHT LIMITED…",
+      "link": "https://www.linkedin.com/posts/naren-patel_it-is-with-great-sadness-that-i-share-the-activity-7293365042790486017-UMMj",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this",
+      "link": "https://www.linkedin.com/posts/naren-patel_looking-forward-to-this-activity-7264245842860027904-8Ixz",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to working with the team OOH Capital",
+      "link": "https://www.linkedin.com/posts/naren-patel_naren-patel-former-md-primesight-joins-activity-7254021490226917378-jCOX",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited ......",
+      "link": "https://www.linkedin.com/posts/naren-patel_super-excited-activity-7284310024959537152-xmWd",
+      "activity_status": null
+    },
+    {
+      "title": "This is one of the best bits of career advice I have come across- it is so simple but is simply what every leader is looking for",
+      "link": "https://www.linkedin.com/posts/naren-patel_president-barack-obama-just-learn-how-to-activity-7280283926722482178-3ueU",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Ally Lang and Neev Spencer that was a fun session , and look forward to hearing the finished product.A big thanks to Liam Mullins and the…",
+      "link": "https://www.linkedin.com/posts/naren-patel_thank-you-ally-lang-and-neev-spencer-that-activity-7262805279421919233-su6Q",
+      "activity_status": null
+    },
+    {
+      "title": "Have you ever wondered about the Indian diaspora in Fiji, Guyana, South Africa, Mauritius, and Trinidad and Tobago? The British resettled over a…",
+      "link": "https://www.linkedin.com/posts/naren-patel_indiandiaspora-indenturedlaborers-globalhistory-activity-7175413025137426432-3pft",
+      "activity_status": null
+    },
+    {
+      "title": "Buy a table and help NABS the charity for our industry. Experience the best evening on the media events calendar",
+      "link": "https://www.linkedin.com/posts/naren-patel_buy-a-table-and-help-nabs-the-charity-for-activity-7168916413825417218-nwjq",
+      "activity_status": null
+    },
+    {
+      "title": "I am delighted to announce I will be speaking at Bloomfest 2024! Bloomfest is a one-day festival of talks, panels, and networking, bringing together…",
+      "link": "https://www.linkedin.com/posts/naren-patel_bloomfest2024-thelift-activity-7160278333618876416-bYTV",
+      "activity_status": null
+    },
+    {
+      "title": "Always a tough subject - NABS can help",
+      "link": "https://www.linkedin.com/posts/naren-patel_always-a-tough-subject-nabs-can-help-activity-7156272438060662784-bwlk",
+      "activity_status": null
+    },
+    {
+      "title": "Super thrilled to see my old Primesight work mates sucessfully exit their first business venture- congratulation team and the team 75Media are super…",
+      "link": "https://www.linkedin.com/posts/naren-patel_super-thrilled-to-see-my-old-primesight-work-activity-7154060048321642497-4mZh",
+      "activity_status": null
+    },
+    {
+      "title": "Some really poor and irresponsible reporting by the BBC - which is not surprising given that they are not adfunded. A lack of understanding on the…",
+      "link": "https://www.linkedin.com/posts/naren-patel_should-billboard-advertising-be-banned-activity-6973606160100638720-QJA1",
+      "activity_status": null
+    },
+    {
+      "title": "Starting some challenging New Year’s resolutions- have a read ….",
+      "link": "https://www.linkedin.com/posts/naren-patel_100-ways-to-slightly-improve-your-life-without-activity-6883333951197368320-uctg",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to be working with Josh Bunce at the team at inurface media https://lnkd.in/d_NgyDS",
+      "link": "https://www.linkedin.com/posts/naren-patel_super-excited-to-be-working-with-josh-bunce-activity-6785496303875956736-RN7R",
+      "activity_status": null
+    },
+    {
+      "title": "If you work in the media industry and are looking for a mentor get in touch with https://lnkd.in/eZrwWdc We are just a group of media executives…",
+      "link": "https://www.linkedin.com/posts/naren-patel_ethnic-minority-representation-in-the-media-activity-6663007331569197056-t_QT",
+      "activity_status": null
+    },
+    {
+      "title": "After 29 years in Outdoor advertising at Primesight and Global, I said goodbye to a wonderful group of friends and colleagues today - care, bias to…",
+      "link": "https://www.linkedin.com/posts/naren-patel_after-29-years-in-outdoor-advertising-at-activity-6661693766837026817-Ao7X",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/naren-patel_this-has-to-be-one-of-the-best-ooh-campaigns-activity-6411994668241862656-cK8t",
+      "activity_status": null
+    },
+    {
+      "title": "Looks great",
+      "link": "https://www.linkedin.com/posts/naren-patel_call-of-duty-old-street-domination-with-activity-6462566282884632576-qTP2",
+      "activity_status": null
+    },
+    {
+      "title": "There is a great quote, often used in crisis management situations, that success leaves clues. When you are facing problems, start by looking at the…",
+      "link": "https://www.linkedin.com/posts/naren-patel_there-is-a-great-quote-often-used-in-crisis-activity-6453205937741189121-utiG",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/naren-patel_well-done-to-team-primesight-so-proud-to-activity-6390467417570627584-4og_",
+      "activity_status": null
+    },
+    {
+      "title": "Primesight pitch team for Campaign commercial sales team of the year. Tough competition from Guardian ,C4, DCM, Evening Standard and Clear Channel-…",
+      "link": "https://www.linkedin.com/posts/naren-patel_primesight-pitch-team-for-campaign-commercial-activity-6380713395171262464-FDCr",
+      "activity_status": null
+    },
+    {
+      "title": "02 proving that that clever thinking is powerful on Out of home - well done Posterscope and Adcity and I hope the calls to our 24 hour customer care…",
+      "link": "https://www.linkedin.com/posts/naren-patel_02-proving-that-that-clever-thinking-is-powerful-activity-6309316117496102913-svuN",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Naren Patel",
+      "link": "https://uk.linkedin.com/in/naren-patel-a9699035",
+      "summary": "Owner, Naren & Co",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "NAREN PATEL",
+      "link": "https://in.linkedin.com/in/naren-patel-83764986",
+      "summary": "Director at Flow Line Valve",
+      "location": "Ahmedabad"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://www.linkedin.com/in/naren-patel-467b4811",
+      "summary": "Owner, Icon Construction Inc.",
+      "location": "Dayton, OH"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://ke.linkedin.com/in/naren-patel-69468b35",
+      "summary": "Owner, Subati Flowers Limited",
+      "location": "Kenya"
+    },
+    {
+      "name": "Naren patel",
+      "link": "https://ca.linkedin.com/in/naren-patel-575bb027",
+      "summary": "Owner, auto sai",
+      "location": "Montreal, QC"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://uk.linkedin.com/in/patelnaren",
+      "summary": "Author, Passionate about helping firms strategically accelerate pipeline and generate net new revenue.",
+      "location": "Cheshunt"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://www.linkedin.com/in/drnarenpatel",
+      "summary": "Chief Executive Officer at Global Business Consulting Company",
+      "location": "New York City Metropolitan Area"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://www.linkedin.com/in/naren-patel-b4704a5",
+      "summary": "president & ceo, MEDSTAR LABORATORY,INC.",
+      "location": "Schaumburg, IL"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://www.linkedin.com/in/naren-patel-4254b212",
+      "summary": "Technical Program Manager at Alcatel-Lucent",
+      "location": "Haverhill, MA"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://uk.linkedin.com/in/naren-patel-092857",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://uk.linkedin.com/in/naren-patel-2a652028",
+      "summary": null,
+      "location": "Greater Manchester"
+    },
+    {
+      "name": "Naren Patel",
+      "link": "https://uk.linkedin.com/in/narenkpatel",
+      "summary": null,
+      "location": "London"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-29T04:52:18Z"
+  }
+}

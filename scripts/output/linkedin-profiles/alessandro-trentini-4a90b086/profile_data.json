@@ -1,0 +1,549 @@
+{
+  "public_identifier": "alessandro-trentini-4a90b086",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/73e9306dd9cafd4490c5db499835dd93",
+  "background_cover_image_url": null,
+  "first_name": "Alessandro",
+  "last_name": "Trentini",
+  "full_name": "Alessandro Trentini",
+  "follower_count": 1620,
+  "occupation": "Amministratore delegato at Noistudio The Media Company",
+  "headline": null,
+  "summary": null,
+  "location_str": "Greater Bolzano Metropolitan Area",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Bolzano",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Noistudio The Media Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Amministratore delegato",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Noistudio",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [
+    "Inglese",
+    "Spagnolo",
+    "Tedesco",
+    "Russo"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglese",
+      "proficiency": null
+    },
+    {
+      "name": "Spagnolo",
+      "proficiency": null
+    },
+    {
+      "name": "Tedesco",
+      "proficiency": null
+    },
+    {
+      "name": "Russo",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mimmogrieco",
+      "name": "Domenico Grieco 2 🇮🇹",
+      "summary": "Tourist Entrepreneur presso PlanetManagementGroup",
+      "location": "Sorrento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liberale-francesco-de-rosa",
+      "name": "Liberale De Rosa",
+      "summary": "Business Development at Bosch",
+      "location": "Turin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anteoborin",
+      "name": "Anteo Borin",
+      "summary": "Business Development Manager presso RINA",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joachim-leiter",
+      "name": "Joachim Leiter",
+      "summary": null,
+      "location": "Lana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcomarfella",
+      "name": "Marco Marfella",
+      "summary": "Content Creator/ Giornalista/ Autore/ Blogger/ Copywriter/ Social media manager/ Talent Manager/ Qualunque cosa tu vuoi che io sia",
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuelacortese",
+      "name": "Manuela Cortese",
+      "summary": "MM GROUP Cofounder | M&M Research Partner | Head Hunter | Formazione | Consulenza HR | Progetti di Mistery Client",
+      "location": "Gallarate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christiankoehler1976",
+      "name": "Christian Köhler",
+      "summary": "International erfahrene Fach- und Führungskraft der gehobenen Hotelerie und Gastronomie",
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcobrigato",
+      "name": "Marco Brigato",
+      "summary": "Grafico - Video Editor",
+      "location": "Venice"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerry-liu-fanterco",
+      "name": "Jerry Liu",
+      "summary": "Fashion & Lifestyle Manufacture Solution Service Provider based in Taiwan, focusing on #sustainabilityfashion #ecolifestyle #fairtrade",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuseppelascala",
+      "name": "Giuseppe La Scala",
+      "summary": "Senior Partner presso LA SCALA - Studio Legale",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucadegaetano",
+      "name": "Luca De Gaetano",
+      "summary": "Fondatore e Presidente Plastic Free Onlus",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcosantagostinoconsulenzaaziendale",
+      "name": "Marco Santagostino",
+      "summary": "Partner S.A. Studio Santagostino: Consulenza Direzionale Sviluppo Risorse Umane: pianificazione e controllo, marketing, formazione manageriale e finanziata, head hunter, coaching, assessment e analisi clima aziendale",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvisenicolussipaolaz",
+      "name": "Alvise Nicolussi Paolaz",
+      "summary": "Architekt",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreacavallaro",
+      "name": "Andrea Cavallaro",
+      "summary": "Project Manager",
+      "location": "Catania"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danilo-fink",
+      "name": "Danilo Fink",
+      "summary": "Management @ PRO DATA: building software for your success\nCo-Founder @ Kibun: figuring out how you in HR work and helping you out!",
+      "location": "Appiano sulla strada del vino"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannes-g%25C3%25B6tsch-13953177",
+      "name": "Hannes Götsch",
+      "summary": "Placeshaker, transformer, CVO BASIS Vinschgau Venosta",
+      "location": "Schlanders"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvia-marchini-7b0786266",
+      "name": "Silvia Marchini",
+      "summary": "Media planner presso PHD",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/skin-it-post-fusion-fashion-b5b165264",
+      "name": "SKiN iT - Post Fusion Fashion",
+      "summary": "Conceptual, award-winning, slow & ethical",
+      "location": "Zografos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-klammsteiner",
+      "name": "Oliver Klammsteiner",
+      "summary": "Mediterraner Flair und nördliche Gründlichkeit seit über 130 Jahren - Athesia",
+      "location": "Bressanone"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-acerbi",
+      "name": "Alessandro Acerbi",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niklas-portmann-30a31a22b",
+      "name": "Niklas Portmann",
+      "summary": "Online Marketing Manager bei nobilia | Event Manager bei Friedas Tanztee",
+      "location": "Rietberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcofarina2026",
+      "name": "Marco Farina",
+      "summary": "Senior Producer. Organizzo e realizzo la creatività altrui, tra video, eventi e progetti di comunicazione.. e con meno CO2 possibile!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/reinhold-pape-97515913",
+      "name": "Reinhold Pape",
+      "summary": "Selbstständige Fachkraft im Bereich Hotel- und Gaststättengewerbe",
+      "location": "Bremerhaven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlo-ziller-73107021",
+      "name": "Carlo Ziller",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberto-agnello-8aa84921",
+      "name": "Roberto Agnello",
+      "summary": "Docente universitario a contratto",
+      "location": "Palermo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corrado-de-luca-29077824",
+      "name": "Corrado de Luca",
+      "summary": "Aiuto le aziende a comunicare per raggiungere i loro obiettivi di business",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-gutzmer-0258172a",
+      "name": "Stefan Gutzmer",
+      "summary": "CEO presso GUTZMER + PARTNER",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabrina-botti-a717432b",
+      "name": "Sabrina Botti",
+      "summary": "CEO Omnia Luxury Trade S.r.l.",
+      "location": "Pavia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonello-castagnetti-0bb14a30",
+      "name": "Leonello Castagnetti",
+      "summary": "Partner presso StudioBase Consulenza & Formazione & Selezione",
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dario-baldoli-1145a733",
+      "name": "Dario Baldoli",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/headsolutions-8b529135",
+      "name": "Roberta Spreafico",
+      "summary": null,
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giandomenico-santomarco-8ba9a536",
+      "name": "Giandomenico Santomarco",
+      "summary": "Media Director Manager at Media Service ADV",
+      "location": "Turin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackie-queit-a9877837",
+      "name": "Jackie Queit",
+      "summary": "Graphic Designer",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-peter-jung-220b513b",
+      "name": "frank-peter jung",
+      "summary": "Selbstständige Fachkraft im Bereich Hotel- und Gaststättengewerbe",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-crippa-0089ba49",
+      "name": "Jessica Crippa",
+      "summary": "...",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/judith-baur-63124951",
+      "name": "Judith Baur",
+      "summary": "Bachelor of Science of University Innsbruck",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amalia-capasso-07594953",
+      "name": "Amalia Capasso",
+      "summary": "Alperia Group•392 followers",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentina-vecchietti-b4782858",
+      "name": "Valentina Vecchietti",
+      "summary": "OOH Specialist presso Posterscope",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/massimo-valente-32ba735b",
+      "name": "Massimo Valente",
+      "summary": "Partner presso Studio MMVN & associati",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-leitgeb-06853565",
+      "name": "Martin Leitgeb",
+      "summary": "Software Developer at Abuscom",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-reverberi-4985b26a",
+      "name": "Luca Reverberi",
+      "summary": "Freelance•43K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-steinhauser-921a7279",
+      "name": "Alexander Steinhauser",
+      "summary": "CEO and TEC. DIRECTOR @ ELPO\nProject developer\nNetworker > 5000\nConstruction Management",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuseppe-marino-62abaa85",
+      "name": "Giuseppe Marino",
+      "summary": null,
+      "location": "Tremestieri Etneo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-franceschilli-5a9b868a",
+      "name": "maria franceschilli",
+      "summary": "Collaboratrice in produzione presso Mediaset",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roeland-slagter-7b900296",
+      "name": "Roeland Slagter",
+      "summary": "Consigliere Economico - Consolato Generale del Regno dei Paesi Bassi a Milano",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferdinand-brunner-33627299",
+      "name": "Ferdinand Brunner",
+      "summary": null,
+      "location": "Baden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-crippa-a3a033a4",
+      "name": "Jessica Crippa",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simone-bonazzi-204028a5",
+      "name": "Simone Bonazzi",
+      "summary": "Designer 1980 Voguish menswear",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlo-formaggio-8bb15ba9",
+      "name": "Carlo Formaggio",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-nguyen-10b57bab",
+      "name": "Carla Houston",
+      "summary": "Lovely :)",
+      "location": "Philadelphia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-cropelli-19aaa5b0",
+      "name": "Elena Cropelli",
+      "summary": "Cropelli s.r.l.•6K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberto-cenci-a533b4b2",
+      "name": "Roberto Cenci",
+      "summary": "Partner senior presso QTM Quality Team Managers",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteo-schiffmann-45772a105",
+      "name": "Matteo Schiffmann",
+      "summary": "Servizi generali presso Gruppo Cimbali SpA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julia-p-092b35113",
+      "name": "Julia P.",
+      "summary": "CEO & Social Media Manager bei kayaminds",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corrado-vannozzi-577168114",
+      "name": "Corrado Vannozzi",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gianluca-federiconi-192a98115",
+      "name": "Gianluca Federiconi",
+      "summary": "Infermiere presso AUSL Bologna",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kurt-bacher-1bba2311b",
+      "name": "Kurt Bacher",
+      "summary": "Baumanager bei Kurt Bacher",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriele-de-luca-7460b616b",
+      "name": "Gabriele De Luca",
+      "summary": "FUNZIONARIO presso MINISTERO ECONOMIA E FINANZE",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriano-conci-a64581176",
+      "name": "Adriano Conci",
+      "summary": "Architetto presso Provincia Autonoma di Trento",
+      "location": "Trento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-brigato-406016189",
+      "name": "Marco Brigato",
+      "summary": "Newser presso Everyeye.it, Eurogamer.net.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/simone-giovanelli-24551a189",
+      "name": "Simone Giovanelli",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincenzo-barbiero-66a0a4201",
+      "name": "Vincenzo Barbiero",
+      "summary": null,
+      "location": "Afragola"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelica-pelagalli-73065420b",
+      "name": "Angelica Pelagalli",
+      "summary": "Assistente sociale iscritta all’Albo B Emilia Romagna  | Studentessa universitaria presso Università di Bologna, Laurea Magistrale Sociologia e Servizio Sociale",
+      "location": "Camugnano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannes-vieider-4b193b224",
+      "name": "Hannes Vieider",
+      "summary": "FUBAS Product- und Projektmanagement",
+      "location": "Bolzano"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "!ONORE A RICCARDO PARIGI! Un gigante in un mondo di nani! Sei stato un uomo Coraggioso in mezzo ai pavidi e agli infami. non ho piu lacrime per…",
+      "link": "https://www.linkedin.com/posts/alessandro-trentini-4a90b086_onore-a-riccardo-parigi-un-gigante-in-activity-7424116563449929728-vn2G",
+      "activity_status": null
+    },
+    {
+      "title": "to the moon... 🚀🚀",
+      "link": "https://www.linkedin.com/posts/alessandro-trentini-4a90b086_to-the-moon-activity-7348441324716441600-bM9B",
+      "activity_status": null
+    },
+    {
+      "title": "In 30 secondi ti spieghiamo chi siamo, cosa facciamo e perché sempre più brand si affidano a Noi Studio The Media Company. Che tu voglia far crescere…",
+      "link": "https://www.linkedin.com/posts/alessandro-trentini-4a90b086_mediaagency-brandvisibility-oohadv-activity-7321152669849468928-8NXK",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-14912415b",
+      "summary": "Geometra presso Edilizia 2000 srl",
+      "location": "Perugia"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini",
+      "summary": "Imprenditore e sviluppatore di idee, progetti e soluzioni innovative nel recupero delle materie plastiche",
+      "location": "Milano"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandrotrentini",
+      "summary": "Studente di Semiotica - teorie della comunicazione",
+      "location": "Verona"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-437692108",
+      "summary": "Consigliere",
+      "location": "Rovigo"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-158a1067",
+      "summary": "Servizi di consulenza nel settore vinicolo / Wine trader presso Accordo S.r.l.",
+      "location": "Trento"
+    },
+    {
+      "name": "alessandro trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-34483975",
+      "summary": "imprenditore presso Plast Idea srl",
+      "location": "Milan"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-b74b1243",
+      "summary": "--",
+      "location": "Italy"
+    },
+    {
+      "name": "Alessandro Trentini",
+      "link": "https://it.linkedin.com/in/alessandro-trentini-accordo",
+      "summary": "Servizi di consulenza nel settore vinicolo / Wine trader presso Accordo S.r.l.",
+      "location": "Trento"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-01T00:00:00Z"
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "public_identifier": "sunny-xu-21a95485",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Sunny",
+  "last_name": "Xu",
+  "full_name": "Sunny Xu",
+  "follower_count": 346,
+  "occupation": "Sales Manager at Shenzhen Liantronics Co., Ltd.",
+  "headline": null,
+  "summary": "I am working at LED video wall market since 2013 and focused on UK market, <br>I know…",
+  "location_str": "中国 广东省 深圳",
+  "country": "CN",
+  "country_full_name": "People's Republic of China",
+  "city": "Shenzhen",
+  "state": "Guangdong",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Shenzhen Liantronics Co., Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/shenzhen-liantronics-co-ltd-",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": "focused on UK/Ireland more than 10 years.",
+      "location": "Shenzhen",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/46ae332420af6b0148b8108b073fecbd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Professional Outdoor TV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outdoor-tv-china",
+      "company_facebook_profile_url": null,
+      "title": "sales manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c00c8911aeb25d454653416a86dc8681"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "联建光电",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "sales manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor's degree",
+      "school": "Xi'an International Studies University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/%E8%A5%BF%E5%AE%89%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5ead8ae6d32b77a3e7779ba960ae7e6e",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 330,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/%25E7%25AB%258B%25E5%25AE%2587-%25E5%2591%25A8-a25b18222",
+      "name": "周立宇",
+      "summary": "--",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%25A0%259A%25E4%25BC%259A-%25E9%2599%2588-02574a118",
+      "name": "陈砚会",
+      "summary": "深圳市若璇五金有限公司 - CEO",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%259C%25A8-%25E9%2599%2588-47363b125",
+      "name": "陈木",
+      "summary": "--",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%258F%25B7-%25E8%25B4%25A6-5795161b4",
+      "name": "账号",
+      "summary": "东莞市达瑞电子股份有限公司 — 采购代表",
+      "location": "Dongguan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ishimwe-eddy-249894265",
+      "name": "Ishimwe Eddy",
+      "summary": "Co-founder Inkingi Academy/Inkingi Trading Zone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/harvill-cheng-239974269",
+      "name": "Harvill Cheng",
+      "summary": "--",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerry-zhou-8906ab13b",
+      "name": "Kerry Zhou",
+      "summary": "CEO at LIKELED / LED display/Producing high-end led display screens for large foreign customers/24-hour team service",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-abarientos-iii-5b492a269",
+      "name": "Jose Abarientos III",
+      "summary": "IT Led Admin Support Officer",
+      "location": "Quezon City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joy-wang-411778148",
+      "name": "Joy Wang",
+      "summary": "YES TECH-International project manager & Sales Engineer",
+      "location": "Changsha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zento-yang-28472a220",
+      "name": "Zento Yang",
+      "summary": "Regional Manager at Han's Laser Technology Industry Group Co., Ltd",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cathy-tan-a6812023b",
+      "name": "Cathy Tan",
+      "summary": "Oversea Sales Supervisor",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%259C%25A3%25E5%25BD%25AA-%25E8%2589%25BE-942320145",
+      "name": "艾圣彪",
+      "summary": "副课长 - 东莞市达瑞电子股份有限公司",
+      "location": "Dongguan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pukka-liu-0463612b",
+      "name": "Pukka Liu",
+      "summary": "WENZHOU ONLYLOVE EYEWEAR",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-zuo-%25E5%25B7%25A6%25E6%25B6%259B-020276155",
+      "name": "左涛John Zuo",
+      "summary": "英威腾 - 行业拓展&销售总监 INVT",
+      "location": "Suzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2599%2593%25E9%259D%2596-%25E5%25BB%2596-607573174",
+      "name": "廖晓靖",
+      "summary": "广州海鸥住宅工业股份有限公司 - 成本管理主管",
+      "location": "Guangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chadmiltenberger",
+      "name": "Chad Miltenberger",
+      "summary": "Sign Installer",
+      "location": "Pendleton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joaquin-sousa-09b1a739",
+      "name": "Joaquin Sousa",
+      "summary": "Audio Visual Technician and installer, team coordinator",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alistair-pettefer-50b70153",
+      "name": "Alistair Pettefer",
+      "summary": "Operations Director at WHB Logistics Ltd",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaron-ho-6445905b",
+      "name": "Aaron Ho",
+      "summary": "TP FAE Manager at Lens",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wendy-wu-2240aa62",
+      "name": "Wendy Wu",
+      "summary": "International Sales Manager at Shenzhen Eastar Electronic., Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-hutchins-94aa3364",
+      "name": "Craig Hutchins",
+      "summary": "Director",
+      "location": "Flinders Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bob-nie-4b96b874",
+      "name": "Bob Nie",
+      "summary": "Sales Manager in North-America at Shenzhen Eastar Electronic Co., Ltd",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boustegue-lahcen-55000ba1",
+      "name": "Boustegue lahcen",
+      "summary": null,
+      "location": "Marrakesh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mindy-led-display-120547a1",
+      "name": "Mindy led display",
+      "summary": "Sales Engineer - Shenzhen CLT LED Technology Co.,Ltd",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%25AB%258B%25E5%25AE%2587-%25E5%2591%25A8-215540b1",
+      "name": "周立宇",
+      "summary": null,
+      "location": "Changzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gheorghe-nicolae-a68770102",
+      "name": "Gheorghe Nicolae",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%2588%25A9-%25E5%2588%2598-94424a105",
+      "name": "刘利",
+      "summary": null,
+      "location": "Dongguan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shi-maggie-990027110",
+      "name": "Shi Maggie",
+      "summary": "Shenzhen Koncare Technology Co.,Ltd - Salers manager",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erika-chen-71948713b",
+      "name": "Erika Chen",
+      "summary": "Shenzhen EASTAR Electronic Co.,Ltd.",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E4%25BC%25A0%25E5%25BF%2597-%25E6%259C%25B1-aa7a4613b",
+      "name": "朱传志",
+      "summary": null,
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnson-huang-82a1a2143",
+      "name": "Johnson Huang",
+      "summary": null,
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25A5%25C2%25B0%25C2%258F%25C3%25A9%25C2%25B9%25C2%258F%25C3%25AF%25C2%25BC%25C2%2588bruce%25C3%25AF%25C2%25BC%25C2%2589-%25C3%25A6%25C2%259D%25C2%258E-621366148",
+      "name": "李小鹏（Bruce）",
+      "summary": "联建光电 - sales engineer",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carrie-guo-18a4a6148",
+      "name": "Carrie Guo",
+      "summary": "Marking Director",
+      "location": "Beijing"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25BF%258D-%25E4%25BA%258E-655a73149",
+      "name": "于忍",
+      "summary": null,
+      "location": "Dongguan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nancy-nie-a42a00151",
+      "name": "Nancy Nie",
+      "summary": "Vistech Technology•256 followers",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%259D%25BF%25E9%259C%2596-%25E9%2599%2588-03a083153",
+      "name": "陈睿霖",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%2593%25B6%25E5%2585%25B5-%25E5%25BC%25A0-722957177",
+      "name": "张银兵",
+      "summary": "中山联合光电科技股份有限公司 - 采购课长",
+      "location": "Zhuhai"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "P1.2 Miniled from Esdlumen!",
+      "link": "https://www.linkedin.com/posts/sunny-xu-21a95485_p12-miniled-from-esdlumen-activity-6544849391709184000-2YQ5",
+      "activity_status": null
+    },
+    {
+      "title": "You will see the edge technology in IBC. Contact : sunny.xu@esdled.com [sunny.xu@esdled.com?trk=public_post-text] Tel:+86 18676128525 #esdlumen…",
+      "link": "https://www.linkedin.com/posts/sunny-xu-21a95485_esdlumen-miniled-broadcast-activity-6577869211220180992-0VY2",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Sunny XU",
+      "link": "https://cn.linkedin.com/in/sunny-xu-549655ab",
+      "summary": "华为 - Senior User Experience Designer",
+      "location": "深圳"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-768b9b80",
+      "summary": "Shenzhen Hipower Optronics Co.,Ltd - Sales executive",
+      "location": "深圳"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-252026b5",
+      "summary": "HRBP",
+      "location": "徐汇区"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-a339bab4",
+      "summary": "Sales Manager at Zhengzhou Weisheng Abrasives Co.,LTD",
+      "location": "郑州"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-41aa6428",
+      "summary": "Sales Manager at Shenzhen Must Solar Power Co.ltd",
+      "location": "深圳"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-5155b6a4",
+      "summary": "--",
+      "location": "温州"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-74a3227a",
+      "summary": "Senior Manager of SOCMA Group",
+      "location": "厦门"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/zswinnercable",
+      "summary": "WINNER-Marketing Director — Leading EV Charger Cable Manufacturer&Exporter Since 2004| Audio&Video Cables| Smartphone USB Cables| HDMI| USB Type C| VGA| RCA| Mono Guitar| XLR|★OEM&ODM Solution Provider",
+      "location": "Zhuhai"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-5578b190",
+      "summary": "Financial Director at Zhaopin Ltd.",
+      "location": "Chaoyang District"
+    },
+    {
+      "name": "Sunny Xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-73978738",
+      "summary": "Senior Brand Manager at Beingmate",
+      "location": "China"
+    },
+    {
+      "name": "sunny xu",
+      "link": "https://cn.linkedin.com/in/sunny-xu-799872114",
+      "summary": "东莞市中芯防静电科技有限公司 - 总经理",
+      "location": "Dongguan"
+    }
+  ],
+  "articles": [
+    {
+      "title": "WHY MINILED is the best solution for fine pitch rental market?",
+      "link": "https://www.linkedin.com/pulse/why-miniled-best-solution-fine-pitch-rental-market-sunny-xu",
+      "published_date": null,
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "P3 indoor fixed installation screen in EU stock, ready for shipping.",
+      "link": "https://www.linkedin.com/pulse/p3-indoor-fixed-installation-screen-eu-stock-ready-shipping-sunny-xu",
+      "published_date": null,
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "492M perimeter panel P12.5 finished production",
+      "link": "https://www.linkedin.com/pulse/492m-perimeter-panel-p125-finished-production-sunny-xu",
+      "published_date": null,
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-15T00:00:00Z"
+  }
+}

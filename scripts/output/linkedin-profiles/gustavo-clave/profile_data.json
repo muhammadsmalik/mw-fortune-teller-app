@@ -1,0 +1,477 @@
+{
+  "public_identifier": "gustavo-clave",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/2ff483a1598db84f3663f4da0e656ee2",
+  "background_cover_image_url": null,
+  "first_name": "Gustavo",
+  "last_name": "C.",
+  "full_name": "Gustavo C.",
+  "follower_count": 1909,
+  "occupation": "Account Director at MOP",
+  "headline": "Account Director",
+  "summary": null,
+  "location_str": "Lisbon, Portugal",
+  "country": "PT",
+  "country_full_name": "Portugal",
+  "city": "Lisbon",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "MOP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mop---multimedia-outdoors-portugal",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/db3103e906413eeff23040fd1b8b774f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2025
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "OOH Thinker and Sales Executive Lisboa",
+      "description": "- Sales executive \n    -Main customers:\n        - Google\n        - MEO\n        - Burger king\n        - Ikea\n        - Vodafone \n        - Heineken / Sagres\n        - GALP\n- International Account Executive (One World)\n- Leadership Local team \n- OOH media planner\n- Key user CRM - Salesforce\n- Sales programmatic media executive",
+      "location": "Lisboa, Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Sales Manager",
+      "description": "- Strengthen relationships with key customers.\n  - Samsung\n  - Bradesco\n  - Smart fit\n  - SERASA\n  - BOHEMIA\n  - tinder\n  - Supermercado Extra",
+      "location": "São Paulo, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Sales Hunter @JCDecaux",
+      "description": "- Business Prospector\n- Account Manager: \n       - Calçados Beira Rio\n       - Barra Shoppping Sul\n       - kildare shoes\n       - Dakota calçados",
+      "location": "Porto Alegre, Rio Grande do Sul, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "company": "H Mídia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/h-m-dia-exterior",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Account Executive",
+      "description": null,
+      "location": "Porto Alegre e Região, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1340559868baeb6016281a50619b1125"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2017
+      },
+      "company": "Relicário Pub Gastro Lounge",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sócio",
+      "description": null,
+      "location": "Porto Alegre, Rio Grande do Sul, Brasil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2015
+      },
+      "company": "Serasa Experian",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/serasaexperian",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Porto Alegre e Região, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bdb9ea710419f1d6cd61a6753c6f00a8"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "Universidade Anhembi Morumbi",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidade-anhembi-morumbi",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5360291f5bbdfdcff92aa1d58ee504b8",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": null,
+      "degree_name": "Bacharel em Administração com ênfase em Marketing",
+      "school": "Estácio",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/estacio",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/65010fbfed155479973e91b93b97f4c7",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Comschool.",
+      "license_number": "Nº da credencial Avançado de Mídia Programática",
+      "display_source": null,
+      "authority": "ComSchool",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Web Analytics e B.I",
+      "license_number": null,
+      "display_source": null,
+      "authority": "LEMONADE SCHOOL - Escola de Marketing",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "INBOUND MARKETING DE A a Z",
+      "license_number": null,
+      "display_source": null,
+      "authority": "ESPM Escola Superior de Propaganda e Marketing",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Mídia Programática",
+      "license_number": null,
+      "display_source": null,
+      "authority": "ComSchool",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/vanessasouzasantos",
+      "name": "Vanessa S.",
+      "summary": "Gerente de Negócios I Parcerias Comerciais na Ticket",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anaisabrito",
+      "name": "Anaisa Brito",
+      "summary": "Senior Marketing, Communication & New Business Leader | Digital Innovation, Digital Strategy | Project Manager | Government Accounts",
+      "location": "Brasília"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulobuzzo",
+      "name": "Paulo Buzzo",
+      "summary": "Gerente Comercial Sênior | Organizo operações de vendas, estruturo CRM e uso IA para o time performar",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianalawlima",
+      "name": "Mariana Lima",
+      "summary": "Estimulando a indústria de ingredientes alimentícios através da FISA-Food Ingredients South America | Comercial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniella-galdames-04853521",
+      "name": "Daniella Galdames",
+      "summary": "CPA10",
+      "location": "Taubaté"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiagofrota",
+      "name": "Thiago Frota",
+      "summary": "Adlook•4K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruno-marinho-07729025",
+      "name": "Bruno Marinho",
+      "summary": "Estratégia Comercial | Gerencia Comercial |  Contas Nacionais e Franquias | Distribuição e Top Clientes",
+      "location": "João Pessoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciano-barbosa",
+      "name": "Luciano Barbosa",
+      "summary": "Senior Solution Sales Executive - Workiva",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-scavone-0229512b",
+      "name": "Pedro Scavone",
+      "summary": "Sales Executive Reclame Aqui ADS | DOOH & OOH Thinker | Mídia Programática & Mobile",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renan-sousa-ecommerce",
+      "name": "Renan Sousa",
+      "summary": "Sales Director - B2C & Partner (SIs) Brazil na VTEX",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliananonato",
+      "name": "Juliana Nonato",
+      "summary": "Sales Manager Top Account",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristianebilange",
+      "name": "Cristiane Bilange",
+      "summary": "Executivo de Soluções de Negócios Sênior",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandro-moraes-388a5542",
+      "name": "Leandro Moraes",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-krummenauer",
+      "name": "Paula Krummenauer",
+      "summary": "Key Account Manager",
+      "location": "Rio Grande"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irisprado",
+      "name": "Iris Prado",
+      "summary": "Conector de Oportunidades | MICE Turismo - Brasil, Europa e América Latina",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardsemente",
+      "name": "Richard Semente",
+      "summary": "Co-Founder na Laminis Solar",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernando-augusto-oliveira-859a7b101",
+      "name": "Fernando Augusto Oliveira",
+      "summary": "Sales | Growth | Customer Sucess | Marketing | Data | Retail Media | Project Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matheus-mac-ginity-986a64113",
+      "name": "Matheus Mac Ginity",
+      "summary": "Diretor Comercial na ABV - Associação Brasileira do Varejo",
+      "location": "São Leopoldo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edson-lustosa-40b0a9116",
+      "name": "Edson Lustosa",
+      "summary": "Account Manager | Valecard",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joziane-silva",
+      "name": "Joziane Silva",
+      "summary": "Sales Executive| Analista de Crédito | Gerente Comercial | Especialista Financeira | Graduanda em Direito PUC Minas",
+      "location": "Belo Horizonte"
+    }
+  ],
+  "recommendations": [
+    "André Lazzeri Schropfer\n\nRecomendo o trabalho de Gustavo, profissional responsável, competente, pontual e atencioso.",
+    "Adriano Lazzeri Schröpfer\n\nRecomendo Gustavo, pois tive a oportunidade de trabalhar com o mesmo, profissional responsável, dedicado, organizado, atencioso, pontual e ótimo relacionamento interpessoal. Gustavo é um excelente profissional."
+  ],
+  "activities": [
+    {
+      "title": "Depois de 8 anos, chegou o momento de me despedir da JCDecaux — e não é fácil encontrar palavras que resumam tudo o que vivi por aqui. Foram anos…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_crm-vooh-viooh-activity-7316457739331756033-QX_1",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje tive a oportunidade de assistir mais uma edição da PROGRAMMATIC PORTUGAL , uma experiência muito agregado, é sempre bom escutar as tendências do…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_programmatic-pdooh-activity-7311138633690849280-o3Df",
+      "activity_status": null
+    },
+    {
+      "title": "Um dos grandes diferenciais da JCDecaux Portugal é a diversidade de produtos! Com este novo contrato teremos mais uma solução de mídia para os…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_ooh-dooh-outofhome-activity-7212217991944425472-RNRp",
+      "activity_status": null
+    },
+    {
+      "title": "O começo de uma nova história do #OOH ou melhor do #DOOH em Lisboa! Feliz por presenciar essa transformação digital!",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_ooh-dooh-activity-7153751990546673665-Y4dZ",
+      "activity_status": null
+    },
+    {
+      "title": "Aqui um excelente artigo da JCDecaux Portugal explicando de forma simple e didática o poder do Out-of-home na jornada diária do consumidor! Além de…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_ooh-o-que-é-e-quais-as-vantagens-da-publicidade-activity-7200828634985598978-hADP",
+      "activity_status": null
+    },
+    {
+      "title": "25 de abril sempre!",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_50-anos-do-25-de-abril-activity-7189270675709194240-aRNu",
+      "activity_status": null
+    },
+    {
+      "title": "Essa semana tivemos a oportunidade de nos reunirmos com o objetivo de compartilhar conhecimentos e experiências entre os membros da equipe, e foi uma…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_crecimento-soluções-motivação-activity-7176956365985177600-a7sA",
+      "activity_status": null
+    },
+    {
+      "title": "A nova coleção “Ame Sua Energia” da @kolosh, do grupo @dakota, estreou nas ruas em parceria com a JCDecaux. Com a proximidade que o OOH traz entre…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_oohthinkers-jcdecauxbrasil-ooh-activity-6801295786635218944-630D",
+      "activity_status": null
+    },
+    {
+      "title": "A JCDecaux Portugal desenvolvendo mais um projeto de #OOH mostrando mais uma vez a importância das campanhas de consideração, com o foco em maximizar…",
+      "link": "https://www.linkedin.com/posts/gustavo-clave_ooh-jcdecaux-criativos-activity-6870993171048890368-xwsw",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Gustavo Freitas C.",
+      "link": "https://pt.linkedin.com/in/gustavofreitasc",
+      "summary": "Mestrado em Arquitetura | Universidade do Minho",
+      "location": "Porto"
+    },
+    {
+      "name": "Gustavo Philipe C. R. Gomes",
+      "link": "https://pt.linkedin.com/in/gustavo-philipe-c-r-gomes-4896b4196",
+      "summary": "Back End C# Developer | Back End | .NET | VISUAL STUDIO | SQL",
+      "location": "Loures"
+    },
+    {
+      "name": "Gil Gustavo C",
+      "link": "https://pt.linkedin.com/in/gil-gustavo-c-361755323",
+      "summary": "Desempregado na Nenhuma",
+      "location": "Porto Metropolitan Area"
+    },
+    {
+      "name": "Gustavo C. Morais",
+      "link": "https://pt.linkedin.com/in/gustavo-c-morais-99996429a",
+      "summary": "Clima na Piclima",
+      "location": "Coimbra, Portugal"
+    },
+    {
+      "name": "Gustavo C. V. Castro",
+      "link": "https://pt.linkedin.com/in/gustavo-c-v-castro-63a53b361",
+      "summary": "--",
+      "location": "Porto, Portugal"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-12-14T00:00:00Z"
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "public_identifier": "charlie-haigh-monk-409b1779",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/1c92a5d42d51be34741ed709244d2615",
+  "background_cover_image_url": null,
+  "first_name": "Charlie",
+  "last_name": "Haigh-Monk",
+  "full_name": "Charlie Haigh-Monk",
+  "follower_count": 1203,
+  "occupation": "UK Sales Director at Executive Channel Network (ECN)",
+  "headline": "UK Sales Director at Executive Channel Network (ECN)",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "UK Sales Director",
+      "description": null,
+      "location": "London Area, United Kingdom · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "UK Head of Programmatic",
+      "description": null,
+      "location": "London, England, United Kingdom · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "Agency & Programmatic Lead",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2019
+      },
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": "ECN is the UK's only Workplace DOOH network, connecting over 150 buildings across London and engaging with a desirable ABC1, executive audience. I managed a range of clients from B2B tech to alcohol and motors across a wide agency patch including PHD, Vizeum, Mediacom, OMD and across the specialists Talon, Kinetic, Evolve and Posterscope.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Trading Account Manager",
+      "description": "Account Manager on the JCDecaux Trading team and worked with a number of OOH Specialist buying teams (Posterscope, Kinetic & Talon) and key Agencies, provided cross format solutions and optimised the vast JCDecaux network of formats in order to satisfy the client's aims.\n\nProvided the market with short term deals, making the most of JCDecaux's digital formats and negotiated with the buying teams throughout client's the planning process.\n\nEnsured that relationships with planners and buyers throughout the market place are strong thus ensuring a business flow.\n\n",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Retail Account Manager",
+      "description": "Managed an Agency patch at JCDecaux and specialised in sales of Shopping Mall and POS (Point of Sale) advertising. Was a key member of the sales team in charge of the innovative SmartScreens @ Tesco POS solution, selling by audience with an optimised display, a first for DOOH.\n\nWorked across a number of advertising agencies and clients including Starcom (P&G, Heineken, Samsung), UM (H&M, Yoplait, General Mills, Fullers) and Initiative (Tesco, Amazon, Travelodge).\n\nAlongside this, pitched for business and created relationships with OOH Specialists; Rapport & Kinetic.\n\n",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2014
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Retail Account Planner",
+      "description": "Was part of the Retail Team at JCDecaux in an admin role, working in OOH sales throughout UK Shopping Malls and Supermarket Point of Sale. \n\nWas involved with a wide number of Agency/Specialist teams, both internally and externally and mastered the internal systems as well as Power Point, Excel and the OOH audience measurement tool, Route.\n\nProvided me an informative introduction into sales and advertising as whole.\n\n",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "HR Owen PLC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hrowen",
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": "Worked with the marketing director of the company, accompanying him in both HR Owen team meetings and with the companies they work with i.e. Bentely. \nSpent time in the top showrooms in London including Bentley, Rolls Royce, Ferrari and Maserati working with the sales and marketing teams.\nSet a research project investigating the private schools in the Bath area and presented the information to the marketing team before their event at a school.",
+      "location": "London",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3cb960e4127770dbb4b0084ade6f1da7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "Moss",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moss-uk",
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": "•\tWorked in the head office in London and was part of the buying and merchandising team for suits.\nLearned how to use their core system to raise SKUs (stock keeping unit) and manage the POs (purchase orders) of different makes of suits.\nAssisted on many areas of the Moss Bespoke section, selecting/sourcing fabrics and developing cloths and trims right through production. \nWas part of many fitting sessions including the new products for the Autumn/Winter 2013 range.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/28857022fa5ec54a458ca74a5ef5855d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2012
+      },
+      "company": "EJ Harris",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Internship",
+      "description": "Worked in the office, managing the information of all contacts that had expressed interest in any of the properties. Travelled round many of the properties, taking photos and checking that the keys were kept in the right places. Was later assigned a specific property where I had to manage and create viewings for and was able to rent it out.",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "field_of_study": "Spanish Language and Literature",
+      "degree_name": "Hispanic Studies",
+      "school": "University of Birmingham",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "2:1",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "field_of_study": "Spanish and Iberian Studies, History, Psychology",
+      "degree_name": "GCSEs & A levels",
+      "school": "Oundle School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "BBC",
+      "activities_and_societies": "Activities and Societies: Sergent in the CCF (Combined Cadet Force), Range of sport activities."
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1199,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/adamwrightengine",
+      "name": "Adam Wright",
+      "summary": "Associate Director at 160over90",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-cottrell-london",
+      "name": "Sophie Cottrell",
+      "summary": "Communications and PR Specialist",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sulimanahmed",
+      "name": "Suliman Ahmed",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mcewenrachel",
+      "name": "Rachel McEwen",
+      "summary": "Head of Uber Asia at Special",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katzajac",
+      "name": "Kat Zajac",
+      "summary": "Channel Project Manager – HEINEKEN UK",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agata-gajek",
+      "name": "Agata Gajek",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicopavlou",
+      "name": "Nico Pavlou",
+      "summary": "Senior Manager, Inventory at StackAdapt",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joannamostyn",
+      "name": "Joanna Mostyn (she / her)",
+      "summary": "Client Partner",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-parkes-64993386",
+      "name": "Rachel Parkes",
+      "summary": "Group Head of PR at Nyetimber",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harryortmans",
+      "name": "Harry Ortmans",
+      "summary": "Assistant Architect at Studio RHE",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samanthaletang",
+      "name": "Samantha L'Etang",
+      "summary": "Group Account Director at We Are Social",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farhafurniturewalla",
+      "name": "Farha Furniturewalla",
+      "summary": "Senior Strategist at LogicLogicMagic®",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjaminselby",
+      "name": "Ben Selby",
+      "summary": "Client Partner | Tech advocate",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickfriend",
+      "name": "Nick Friend",
+      "summary": null,
+      "location": "Rickmansworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardmsutton",
+      "name": "Richard Sutton",
+      "summary": "Assisting automotive dealer groups in retaining existing customers and attracting conquest business through compelling marketing campaigns, interactive events, and websites that use the latest cutting-edge technology.",
+      "location": "Harrogate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrslaurarobinson",
+      "name": "Laura Robinson",
+      "summary": "Gilroy•4K followers",
+      "location": "Hursley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tania-harding-ba6106238",
+      "name": "Tania Harding",
+      "summary": null,
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brucefinkecn",
+      "name": "Bruce Fink",
+      "summary": "Co Founder at Executive Channel Network (ECN)",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oohmedia",
+      "name": "Benjamin Milne",
+      "summary": "Chief Executive Officer - APAC at billups | Strategic Leader in Media and Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sami-hilal",
+      "name": "Sami Hilal",
+      "summary": "Intern",
+      "location": "Hackney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ralph-ahern-1384b8",
+      "name": "Ralph Ahern",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-parry-okeden-110b9b3",
+      "name": "Charles Parry-Okeden",
+      "summary": "Founder & Global CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergeyvkornev",
+      "name": "Sergey Kornev",
+      "summary": "Helping businesses fulfil marketing objectives. 📱Creative services💻. 📹Content management📸. 🚀Technology acceleration📡 Speaker 🗣️ Mentor🤝 Traveller🗺️",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamiecurtis1985",
+      "name": "Jamie Curtis",
+      "summary": "Head of Marketing & Growth @ Beryl | ex-TIER, Ogilvy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-burton-168ba914",
+      "name": "Mark Burton",
+      "summary": "Sales and Strategic Partnership at Skyrise",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eilidh-macdonald-03366417",
+      "name": "Eilidh MacDonald",
+      "summary": "Head of Client Services at Zut Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-monaghan-29861719",
+      "name": "Laura Monaghan",
+      "summary": "Managing Director at eyeCandy Model & Promotions Agency - Brand ambassadors, promo models and event staff",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-haddock-57533722",
+      "name": "simon haddock",
+      "summary": "partner at Allen & Overy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-little-282ba822",
+      "name": "Matthew Little",
+      "summary": "VP Customer Success",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilla-gallagher-06886923",
+      "name": "Camilla Gallagher",
+      "summary": "Customer Success Director - EMEA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-willis-kbh",
+      "name": "Sam Willis",
+      "summary": "Head of Marketing at KBH︱The Media Leader's Future 100 Club - Class of 2024",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keith-procter-08a33026",
+      "name": "Keith Procter",
+      "summary": "Operations Director at Berry Bros. & Rudd Ltd",
+      "location": "Basingstoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-stala-9a464a26",
+      "name": "Emily Stala",
+      "summary": "UK Head of Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jade-walton-b8b9042a",
+      "name": "Jade Walton",
+      "summary": "TikTok Director of Business Development, ex Agency Sales Lead  - Media Week 30 under 30 2019 Winner - Media Week Rising Star 2019 Finalist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katy-james-70a4402b",
+      "name": "Katy James",
+      "summary": "Head of Publisher Development at SuperAwesome",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-spilman-32367131",
+      "name": "Linda Spilman",
+      "summary": "Account Manager at LocaliQ providing magazine and digital advertising solutions",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-mouskoundi-ba626434",
+      "name": "Anthony Mouskoundi",
+      "summary": "Global Group Agency Director - Audio,DAX and Outdoor",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marvin-green-27a40b45",
+      "name": "Marvin Green",
+      "summary": "Senior Account Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-williams-49249249",
+      "name": "David Williams",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/callum-brown-b0665653",
+      "name": "Callum Brown",
+      "summary": "Associate Town Planner at WSP",
+      "location": "Winchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/callum-brown-64007a55",
+      "name": "Callum Brown",
+      "summary": "Founder of Be More Me: education and career consultancy",
+      "location": "Edmonton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henry-melville-taylor-86921255",
+      "name": "Henry Melville Taylor",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-cafferkey-95587a57",
+      "name": "Melissa Cafferkey",
+      "summary": "Agency Partner at Bauer Media Outdoor UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-irvine-b679335a",
+      "name": "Sam Irvine",
+      "summary": "Co-Founder / Director at Black Taxi Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/meg-ledger-9701286b",
+      "name": "Meg Ledger",
+      "summary": "Head of Specialists, ABODE Media Bloom Mentor 2023/24 Female Frontier Rising to the Top Finalist 2023 Media Week Rising Star Finalist 2022 Drum OOH Awards Judge 2022",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/harry-weston-23158371",
+      "name": "Harry Weston",
+      "summary": "Media Investment Director at Maxx Media Limited",
+      "location": "Southampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalia-sajdak-335b5877",
+      "name": "Natalia Sajdak",
+      "summary": "Head of Client (International) at Evolve OOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-gray-01351382",
+      "name": "Will Gray",
+      "summary": "Attorney at Pakis, Giotes, Burleson & Deaconson, P.C.",
+      "location": "Waco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/owain-cowx-41839a83",
+      "name": "Owain Cowx",
+      "summary": "Business Director at McCann Worldgroup",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daran-akintola",
+      "name": "Daran Akintola",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shanti-franchina-8540b084",
+      "name": "Shanti Franchina",
+      "summary": "Director, Transforming Programmatic into Global Brand Results",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-giles-833a5585",
+      "name": "Mark Giles",
+      "summary": "Account Manager Retail at JC Decaux",
+      "location": "Tutshill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-watt-64993386",
+      "name": "Rachel Watt",
+      "summary": "Group Head of PR at Nyetimber",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-durant-nee-ward-11a26890",
+      "name": "Anna Durant (nee Ward)",
+      "summary": "People, Community & Operations | Strategy & Marketing | Building Connection | Women’s Health",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/al-monk-096444100",
+      "name": "Al Monk",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fidelma-fox-464106103",
+      "name": "Fidelma Fox",
+      "summary": "Client Lead | MIPA",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/troianne-campbell-91146010b",
+      "name": "Troianne Campbell",
+      "summary": "Account Director at ECN  | MEFA Mentee at Media For All [MEFA]",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tania-harding-8029a4122",
+      "name": "Tania Harding",
+      "summary": "The only thing we must do is simply be kind.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruby-juchau-487510133",
+      "name": "Ruby Juchau",
+      "summary": "Delivery Assistant at Posterscope",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/callum-shepherd-900138143",
+      "name": "Callum Shepherd",
+      "summary": "Client Executive at Evolve OOH",
+      "location": "Romford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-smith-290327149",
+      "name": "Sam Smith",
+      "summary": "EMEA Adtech Partnerships @ Netflix Ads",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonardo-veshta-4061b4188",
+      "name": "Leonardo Veshta",
+      "summary": "OOH | Investment Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-tapp-bb32211a0",
+      "name": "Claudia Tapp",
+      "summary": "Account Manager at QMS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/izzy-burns-b827b7206",
+      "name": "Izzy Burns",
+      "summary": "Student at Colorado Mesa University. Pursuing a Degree in Music with Elective Studies in Business. Active independent artist. Ready to bring my passion for bringing people together and making music to the industry.",
+      "location": "Orting"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abe-sugarman-9095ab218",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "After putting it to the back of my mind for too long, the Hackney Half is fast approaching! To say I'm dreading it is an understatement, but the…",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_charlies-giving-page-activity-7459901847559069696-ehL_",
+      "activity_status": null
+    },
+    {
+      "title": "Cracking day at Ascot on Friday with some of our programmatic partners. Thanks for coming and well done for not listening to any of my useless tips!…",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_cracking-day-at-ascot-on-friday-with-some-activity-7350486170729889794-Ctol",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks Hivestack by Perion for a great morning! Lee Cutter and a host of panelists shared their thoughts on a number of topics, covering cross-border…",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_thanks-hivestack-by-perion-for-a-great-morning-activity-7247206323757424640-rq-8",
+      "activity_status": null
+    },
+    {
+      "title": "Still riding the Zen wave. Namaste!",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_still-riding-the-zen-wave-namaste-activity-7166044201615355904-Kteh",
+      "activity_status": null
+    },
+    {
+      "title": "Cracking site tour with MiQ this afternoon! Great to get you guys out to see some of our screens in action. Executive Channel Network (ECN) MiQ",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_cracking-site-tour-with-miq-this-afternoon-activity-7171558380925362176-c260",
+      "activity_status": null
+    },
+    {
+      "title": "Iâm happy to share that Iâm starting a new position as UK Head of Programmatic at Executive Channel Network (ECN)!",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_im-happy-to-share-that-im-starting-a-new-activity-7081596336592023552-xaDm",
+      "activity_status": null
+    },
+    {
+      "title": "A big thanks to Talon for hosting us this morning for our exciting announcement! Happy to say that Executive Channel Network (ECN) will be offsetting…",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_a-big-thanks-to-talon-for-hosting-us-this-activity-7067448955139158016-dF90",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks so much Hivestack for putting up with the wind, rain and my terrible facts about London! A great site tour around the City of London seeing…",
+      "link": "https://www.linkedin.com/posts/charlie-haigh-monk-409b1779_thanks-so-much-hivestack-for-putting-up-with-activity-7057383520721088513-enx0",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-05T00:00:00Z"
+  }
+}

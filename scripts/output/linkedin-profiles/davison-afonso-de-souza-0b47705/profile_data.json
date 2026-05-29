@@ -1,0 +1,299 @@
+{
+  "public_identifier": "davison-afonso-de-souza-0b47705",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Davison",
+  "last_name": "Afonso de Souza",
+  "full_name": "Davison Afonso de Souza",
+  "follower_count": 730,
+  "occupation": "Diretor de operações at Videoporto Midia | Experiência",
+  "headline": "Executive Director, VIDEOPORTO",
+  "summary": "Estou no mercado de trabalho a 41 anos, aos 19 anos tive meu primeiro negócio, uma pequena lanchonete, pouco depois os caminhos me levaram a ser empregado numa multinacional (Grupo Microlite) lá fiquei por 10 anos, passei por vários departamentos, galguei algumas posições e aprendi na prática a importância do compromisso com aquilo que se quer entregar. Durante esse jornada fiz um curso de tecnologia Têxtil e outro de Tecnologia em TI (NIC) na UNICAP. Cursei também administração na FCAP e conclui na Escola Superior de Propaganda e Marketing. em 1995 comecei no mundo comercial, na érea de tecnologia (ZETAX) onde percebi que ali era o meu lugar, relacionamento com pessoas no processo de entende-las, e assim oferecer o melhor serviço / produto. Em 1997 recebi um convite para um novo desafio comercial numa grande loja de TI (COMPUTER ONE), um ano depois eu tinha certeza que já poderia enfrentar o mundo corporativo, dessa vez vestindo a camisa da minha empresa. Assim nasceu a Solutione, um a empresa de muito sucesso, que me ensinou o verdadeiro significado de resiliência, visão estratégica e capacidade de inovação, um verdadeiro MBA. <br>Depois veio a Videoporto, um novo negócio, num mercado que une tecnologia, mídia e inovação. Fazemos o melhor do DOOH, procuramos entregar sempre mais, gostamos de desafios e de levar novas experiencias aos nossos clientes.",
+  "location_str": "Recife, Pernambuco, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Recife",
+  "state": "Pernambuco",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Videoporto Midia | Experiência",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/videoporto-digital-signage",
+      "company_facebook_profile_url": null,
+      "title": "Diretor de operações",
+      "description": "A Videoporto é uma empresa especializada em soluções de Digital Out-of-Home (DOOH), oferecendo serviços que vão desde a instalação e gestão de painéis digitais até a criação de conteúdo dinâmico para campanhas publicitárias. Com uma forte presença no mercado, a Videoporto utiliza tecnologia de ponta para ajudar marcas a alcançar e engajar audiências em espaços públicos estratégicos, como rodovias, aeroportos e shopping centers.\n\nReconhecida por sua inovação e expertise, a Videoporto se destaca por oferecer soluções personalizadas que maximizam a visibilidade e o impacto das campanhas de seus clientes. Além disso, a empresa mantém um compromisso com a sustentabilidade e a responsabilidade social, integrando práticas que minimizam o impacto ambiental em suas operações.",
+      "location": "Recife e Região",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/231f43cccfcff5511f7f091a29289d88"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 1999
+      },
+      "ends_at": null,
+      "company": "Solutione",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Diretor de Operações",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Solutione",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Direto de Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": null,
+      "degree_name": "Bacharel em Administração e Marketing",
+      "school": "Escola Superior de Propaganda e Marketing de Recife",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Bacharel em Marketing",
+      "school": "Escola Superior de Propaganda e Marketing",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escola-superior-de-propaganda-e-marketing",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04682df27211ed0533fdbd8d55c67140",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Bacharel em Marketing",
+      "school": "ESPM Escola Superior de Propaganda e Marketing",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escola-superior-de-propaganda-e-marketing/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Inglês"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglês",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 722,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/alessandro-camara",
+      "name": "Alessandro Chagas Câmara",
+      "summary": null,
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipeguimap",
+      "name": "Felipe Guimarães",
+      "summary": "Diretor de Operações na Tecsys Soluções em Energia",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandoambrosio",
+      "name": "Fernando Ambrosio, MBA",
+      "summary": "Empreendedor / Projetos / Negócios",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeanpaes",
+      "name": "Jean Paes ∴",
+      "summary": "Diretor de Operações",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrielcmacedo",
+      "name": "Gabriel Macedo",
+      "summary": "Operação | Governança de Serviços e TI | Delivery | Transformação Digital | Produto",
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cleberpicarro",
+      "name": "Cleber Piçarro",
+      "summary": null,
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/satomauro",
+      "name": "Mauro Sato",
+      "summary": "Diretor de Operações at DiferenTI",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edvaldoinacio",
+      "name": "Edvaldo Inácio",
+      "summary": "Diretor de Operações na EIPRO Tecnologia",
+      "location": "São José dos Campos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joaocarlosalfonso",
+      "name": "Joao Carlos Alfonso",
+      "summary": "CEO na J&S Assessoria Empresarial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiago-morais-tech",
+      "name": "Tiago Morais, PMP",
+      "summary": "Gerente de produtos | ERP, Varejo, SaaS | Supermercados | P&D | Liderança estratégica | Venda Digital | Agilidade | Gestor de mudanças | Crescimento e Escala | Orçamento e gestão de P&L | Parcerias | Operação crítica",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/reynaldoajauskas",
+      "name": "Reynaldo Ajauskas",
+      "summary": "Diretor de Operações na DBACorp - Bancos de Dados, Computação em Nuvem e Infraestrutura",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pcamolesi",
+      "name": "Paulo Sergio Camolesi",
+      "summary": "Diretor de marketing na Safras & Mercado / CMA",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivaldogomes",
+      "name": "Ivaldo Gomes",
+      "summary": null,
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lu%25C3%25ADs-fernando-goulart-rodrigues-4a12b311",
+      "name": "Luís Fernando Goulart Rodrigues",
+      "summary": "Diretor Executivo | Diretor de Operações | Diretor de Projetos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marlonlas",
+      "name": "Marlon Luis do Amaral Santos",
+      "summary": "CFO | Head de Finanças & Controladoria | Controller | Governança Corporativa & Operações | Tecnologia | Indústria | Importação e Distribuição",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodinaldo-escocard-de-souza-06598213",
+      "name": "Rodinaldo Escocard de Souza",
+      "summary": "Diretor de Operações da Importinvest Importação e Comércio Ltda.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-iroza-465a7213",
+      "name": "Thiago Iroza",
+      "summary": "Diretor de Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcus-vinicius-moraes-pereira-52912615",
+      "name": "Marcus Vinicius Moraes Pereira",
+      "summary": "Especialista em Processos de Negócios, Estratégias de Marketing, Desenvolvimento de Produtos e Negócios Digitais",
+      "location": "Contagem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anderson-dal-bo",
+      "name": "Anderson Dal'Bó",
+      "summary": "Diretor de Produtos e Serviços",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alcides-junior-a25150128",
+      "name": "Alcides Junior",
+      "summary": "PEOPLE LEAD | TECH LEAD | Coordenador de TI | GPP | Coordenador de Projetos | Coordenação de Equipes | SCRUM MASTER | Projetos de TI | MGM 3.0 | Especialista TOTVS RM | PROTHEUS | Fluig | DBA SQL SERVER",
+      "location": "Cuiabá"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/davison-afonso-de-souza-0b47705_la-startup-española-que-ha-reducido-un-25-activity-6836643094033641472-W7EB",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/davison-afonso-de-souza-0b47705_retail-qsr-wfm-activity-6836647570157133824-_XgO",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-12T00:00:00Z"
+  }
+}

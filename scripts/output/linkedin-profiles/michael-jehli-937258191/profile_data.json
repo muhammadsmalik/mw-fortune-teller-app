@@ -1,0 +1,465 @@
+{
+  "public_identifier": "michael-jehli-937258191",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Michael",
+  "last_name": "Jehli",
+  "full_name": "Michael Jehli",
+  "follower_count": 514,
+  "occupation": "Head of Marketing at Livesystems",
+  "headline": null,
+  "summary": null,
+  "location_str": "Schlieren, Zurich, Switzerland",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Schlieren",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Livesystems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/livesystemsag",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing",
+      "description": null,
+      "location": "Schlieren, Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c111b96baba7254b962e3784e587161e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Publicis Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/publicismedia",
+      "company_facebook_profile_url": null,
+      "title": "Head of Investment, Planning & Buying",
+      "description": null,
+      "location": "Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0bb4ba94f0e138ab17e108c67a13b3ee"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "IPG Mediabrands",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipgmediabrands",
+      "company_facebook_profile_url": null,
+      "title": "Director Media Buying & Planning",
+      "description": null,
+      "location": "Zürich, Kanton Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/29354c3150cca85e050d9afac24a87c8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "IPG Mediabrands",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipgmediabrands",
+      "company_facebook_profile_url": null,
+      "title": "Head of Electronic Media",
+      "description": null,
+      "location": "Zürich, Kanton Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/29354c3150cca85e050d9afac24a87c8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2018
+      },
+      "company": "Havas Media Switzerland",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Stv. Head of TV / Strategy, Analytics, Research",
+      "description": null,
+      "location": "Schlieren, Kanton Zürich, Schweiz",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Havas Media Switzerland",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior TV Manager",
+      "description": null,
+      "location": "Schlieren, Kanton Zürich, Schweiz",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2016
+      },
+      "company": "Havas Media Switzerland",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "TV Planung & Einkauf",
+      "description": null,
+      "location": "Zürich und Umgebung, Schweiz",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2013
+      },
+      "company": "Standort Promotion in Obwalden",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/standort-promotion-in-obwalden",
+      "company_facebook_profile_url": null,
+      "title": "Assistent",
+      "description": null,
+      "location": "Sarnen, Kanton Obwalden, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d260cda3102068c745e51d53fca378a0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2012
+      },
+      "company": "Einwohnergemeinde Sarnen",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Kaufmännische Berufslehre",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/saraarzi",
+      "name": "Sara Arzi",
+      "summary": "Executive Manager at Keren L'bodedot",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marlene-weseslindtner",
+      "name": "Marlene Brommer",
+      "summary": "Senior Account Management bei Publicis Media",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elsamaurer",
+      "name": "Elsa Maurer",
+      "summary": "Beraterin und Coach / Psychologin MSc.",
+      "location": "Kreuzlingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/viola-schn%25C3%25BCriger-6b43a546",
+      "name": "Viola Schnüriger",
+      "summary": "Reach your audience",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elvira-suter-a84567260",
+      "name": "Elvira Suter",
+      "summary": "--",
+      "location": "Emmen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lara-jelinski",
+      "name": "Lara Jelinski",
+      "summary": "CEO dentsu Österreich & Media Schweiz",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-s-a63667265",
+      "name": "Robin S",
+      "summary": "Organic Growth | Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gokul-vasu-773544253",
+      "name": "gokul vasu",
+      "summary": "Software Engineer at tcs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayr-angel-alvizo-10140737",
+      "name": "Jayr Angel Alvizo",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-matthias-vollbracht-7983235a",
+      "name": "Dr. Matthias Vollbracht",
+      "summary": "Head of Corporate Analysis / Research bei Media Tenor International AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-wilbrand-brunner-666271115",
+      "name": "Karen Wilbrand - Brunner",
+      "summary": "Head of Sales & Services bei JobCloud AG | jobup.ch - jobs.ch",
+      "location": "Affoltern am Albis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-hentschel-710776243",
+      "name": "Mario Hentschel",
+      "summary": "Account-Manager bei CERATIZIT Deutschland",
+      "location": "Brunswick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-r%25C3%25BCegg-a307b651",
+      "name": "Stefan Rüegg",
+      "summary": "Head of Sales Promotions / Management Strategic Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadja-n%25C3%25A4pflin-1a6915155",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9-heller-0867a611b",
+      "name": "André Heller",
+      "summary": "Senior Consultant Media / Strategie über Planung bis Umsetzung von Werbekampagnen in allen Mediengattungen",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-w%25C3%25B6hr-23b0b7b0",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eveline-kneub%25C3%25BChl-870365138",
+      "name": "Eveline Kneubühl",
+      "summary": "Director of Operations / Member of the executive board",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-hentschel-67579722b",
+      "name": "Mario Hentschel",
+      "summary": "Weil die Zukunft dir gehört.",
+      "location": "Recklinghausen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evelin-wachter-4a148617",
+      "name": "Evelin Wachter",
+      "summary": "COO at Publicis Media",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-manuel-barrio-monte-6a432a26",
+      "name": "Juan Manuel Barrio Monte",
+      "summary": "Streaming Solutions Software Engineer at Bank Julius Baer & Co. Ltd.",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thilo-boullion-386b442b",
+      "name": "Thilo Boullion",
+      "summary": "Head of Planning bei McCann Erickson",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliette-ferdinand-7b716b4a",
+      "name": "Juliette Ferdinand",
+      "summary": "Simplicity is key",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-heinrich-loves-personalgrowth",
+      "name": "Natalie Heinrich",
+      "summary": "Purpose-driven Brand Consultant | Mentor",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petra-merino",
+      "name": "Petra Merino",
+      "summary": "🚀 Executive MBA | Building Customer-Centric Growth with Marketing, Data & AI",
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-blume",
+      "name": "Gabriel Blume",
+      "summary": "Sales Director · TV / CTV / Digital / Audio · DACH | CHF 300M P&L | Media & Ad-Tech Transformation | DE / EN / FR",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabrina-iseli-17ba3399",
+      "name": "Sabrina Iseli",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/minh-vuong-433106121",
+      "name": "Minh Vuong",
+      "summary": "Head of Marketing & Brand | GONSER.CH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinelli-michele-7b621213b",
+      "name": "Martinelli Michele",
+      "summary": "Account Manager",
+      "location": "Frauenfeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-abramo-406a33141",
+      "name": "Alexandre Abramo",
+      "summary": null,
+      "location": "Sierre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-kopf-798805144",
+      "name": "paul kopf",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jehli-michael-510253146",
+      "name": "Jehli Michael",
+      "summary": null,
+      "location": "Thusis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-jr-tarce-51a864156",
+      "name": "Rafael JR Tarce",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-rinaldi-0b76b8158",
+      "name": "Gabriela Rinaldi",
+      "summary": "Welcome Desk / Assistant to Management bei Havas Media AG",
+      "location": "Schlieren"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yves-meier-985429159",
+      "name": "Yves Meier",
+      "summary": "Head of Key Account Management Goldbach Media AG | Co-Founder",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-plattner-182b3515b",
+      "name": "Thomas Plattner",
+      "summary": "Director Ad Consulting & Performance / MBA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-nyfeler-956296165",
+      "name": "Alexander Nyfeler",
+      "summary": "Head of Data & Analytics bei Goldbach Group AG",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/qendrim-xheladini-86a933166",
+      "name": "Qendrim Xheladini",
+      "summary": "Director TV Buying bei Omnicom Media Group Schweiz",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yvonne-koranda-1b0764184",
+      "name": "Yvonne Koranda",
+      "summary": "Senior Digital Planning bei MediaCom",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonia-pospischil-534ab319a",
+      "name": "Antonia Pospischil",
+      "summary": "Electronic Account Director bei Publicis Media",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-spycher-2254411a5",
+      "name": "Melissa Spycher",
+      "summary": "Chief Operating Officer bei Mediaschneider Bern AG",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzana-kovacevic-1b78541b2",
+      "name": "Suzana Kovacevic",
+      "summary": "Head of Agency Producing at Wirz Group",
+      "location": "Zurich"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-01-30T00:00:00Z"
+  }
+}

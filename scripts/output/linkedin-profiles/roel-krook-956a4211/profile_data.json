@@ -1,0 +1,459 @@
+{
+  "public_identifier": "roel-krook-956a4211",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Roel",
+  "last_name": "Krook",
+  "full_name": "Roel Krook",
+  "follower_count": 117,
+  "occupation": "Founder & CFO at DooH Solutions & Services BV",
+  "headline": "Owner, 2R Event Data Services",
+  "summary": null,
+  "location_str": "The Randstad, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Randstad",
+  "state": "South Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "DooH Solutions & Services BV",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder & CFO",
+      "description": null,
+      "location": "Noord Holland, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": null,
+      "company": "2R Event Data Services",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "sjef",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1981
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1988
+      },
+      "field_of_study": "Avionics",
+      "degree_name": "ir",
+      "school": "TU Delft",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 111,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/richard-goedhart",
+      "name": "Richard Goedhart",
+      "summary": null,
+      "location": "Wijk bij Duurstede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartenbressers",
+      "name": "Maarten Bressers",
+      "summary": "Managing Partner Dynapps Nederland BV Tilburg | Experts in Odoo",
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-van-westendorp",
+      "name": "Peter van Westendorp",
+      "summary": null,
+      "location": "Maarssen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guidovervelde",
+      "name": "Guido Vervelde",
+      "summary": null,
+      "location": "Bussum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/schepersfrank",
+      "name": "Frank Schepers",
+      "summary": "Transforming concepts to (digital) products and viable affairs",
+      "location": "Zutphen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arjandekleuver",
+      "name": "Arjan de Kleuver",
+      "summary": "Administratief Expert bij Provincie Gelderland",
+      "location": "Veenendaal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roycolet",
+      "name": "Roy Colet",
+      "summary": "Eigenaar van en Diagnosetechnicus bij AutoCure",
+      "location": "Maarssenbroek"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frisostoffer",
+      "name": "Friso Stoffer",
+      "summary": "Finance and Business analysis | Startup development | SaaS company founder",
+      "location": "Apeldoorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanja-tueffers",
+      "name": "Tanja Tüffers",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erikahermans",
+      "name": "Erika Hermans",
+      "summary": "Teamassistent",
+      "location": "Nieuwegein"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannekequeens",
+      "name": "Hanneke Queens",
+      "summary": "design, photography & digital communications",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hanshoogbergen",
+      "name": "Hans Hoogbergen",
+      "summary": "Owner at Footprint ESP",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobprince1",
+      "name": "Bob Prince",
+      "summary": "Retired",
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattijsdellemijn",
+      "name": "Mattijs Dellemijn",
+      "summary": "Co-founder @ Skigh & InCredible Ventures",
+      "location": "Oudewater"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linkedinpeterprins",
+      "name": "Peter Prins",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dariahuszar",
+      "name": "Daria Huszar",
+      "summary": "CFOTech Startup Founder | BI & AI Consultant |  Microsoft & Databricks | WEConnect certified |",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arjanleenen",
+      "name": "Arjan Leenen",
+      "summary": "Finance IT Transformation Manager a.i. @ Sunweb",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariskalam",
+      "name": "Mariska Lam",
+      "summary": null,
+      "location": "IJsselstein"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcovandersteen",
+      "name": "Marco van der Steen",
+      "summary": "Conciërge ROCMN",
+      "location": "Maarssen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-koster-van-der-marel-b46001273",
+      "name": "Melissa Koster- van der Marel",
+      "summary": "Onderwijsassistent/ leerkracht ondersteuner bij Innoord",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanem-sara-melikoglu",
+      "name": "Sanem Sara Melikoglu",
+      "summary": "Recruiter @JET/ Lieferando 🧡",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boysoochit",
+      "name": "Boy Soochit",
+      "summary": "Founder at TriMaya BV | SE | SCB | RAMS | Safety | Security | IA |",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/han-pieck-filho-7078371b8",
+      "name": "Han Pieck Filho",
+      "summary": "Because your VANMOOF deserves the best.",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petr-leja-99227577",
+      "name": "Petr Leja",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roybuis",
+      "name": "Roy Buis",
+      "summary": "Heerlijk rentenieren!",
+      "location": "Meppel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-m-simon-627673b0",
+      "name": "Daniel M. Simon",
+      "summary": "--",
+      "location": "Nieuwkoop"
+    },
+    {
+      "link": "https://www.linkedin.com/in/no%25C3%25ABlla-das-955512192",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25ABlle-smidt-b3a984136",
+      "name": "Joëlle Smidt",
+      "summary": "Contentmaker, schrijver, dichter",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-mor%25C3%25B3n-793040151",
+      "name": "Rachel Morón",
+      "summary": "Image editor / Beeldredacteur at NRC",
+      "location": "Rotterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arnoldjehee",
+      "name": "Arnold Jehee",
+      "summary": null,
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wiebecnossen",
+      "name": "Wiebe Cnossen",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-schildkamp-9383424",
+      "name": "Robert Schildkamp",
+      "summary": null,
+      "location": "Apeldoorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-koornneef-2b119a6",
+      "name": "Jan Koornneef",
+      "summary": "founder at infostrait bv",
+      "location": "Robertson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rogier-van-veenendaal-8321987",
+      "name": "Rogier van Veenendaal",
+      "summary": null,
+      "location": "Almere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolien-van-der-werf-63b81b14",
+      "name": "Carolien van der Werf",
+      "summary": "Lid RvB DSW en Stad Holland",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-bakker-39462015",
+      "name": "Marcel Bakker",
+      "summary": "Ondernemer en levensgenieter",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lotte-edelkoort-74216219",
+      "name": "Lotte Edelkoort",
+      "summary": "zij-instromer in het basisonderwijs | leerkracht van groep 3",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-klemenc-9a42561b",
+      "name": "Peter Klemenc",
+      "summary": "Founder at Senses Organics B.V.",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lokman-hossain-63aa211b",
+      "name": "Lokman Hossain",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-klijnsma-ba264821",
+      "name": "Hans Klijnsma",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/larry-roosen-61414022",
+      "name": "Larry Roosen",
+      "summary": "CFO at Yoga Tzoe Jan",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-van-der-mijl-39b88523",
+      "name": "Patrick van der Mijl",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marleen-maritz-02249546",
+      "name": "Marleen Maritz",
+      "summary": "Office Manager at Industrial Pumps & Engines",
+      "location": "Ba-Phalaborwa Local Municipality"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marleen-maritz-75840047",
+      "name": "Marleen Maritz",
+      "summary": "Office Manager at Industrial Pumps & Engines",
+      "location": "Ba-Phalaborwa Local Municipality"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marlene-maritz-75a54047",
+      "name": "Marlene Maritz",
+      "summary": "Malas Drive Style Centre•636 followers",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marleen-marit-20225348",
+      "name": "Marleen Marit",
+      "summary": "manager - owner - entrepreneur",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-flatland-1866b25b",
+      "name": "Jeff Flatland",
+      "summary": "Founder and Investor.  Most recently Tasman Global (acq 2020 by Nordic Global).",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rolf-c-34886b61",
+      "name": "Rolf C.",
+      "summary": "IT Sjef",
+      "location": "Drammen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petya-van-vliet-9a510762",
+      "name": "Petya van Vliet",
+      "summary": null,
+      "location": "Vught"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wouter-epema-59264787",
+      "name": "Wouter Epema",
+      "summary": "Mensen zien mij als een actief, creatief en oplossingsgericht persoon. Verder ben ik secuur, netjes, kan zelfstandig werken en/of samenwerken en zoek uitdaging in mijn werkzaamheden.",
+      "location": "Woerden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pmn-mukundan-7a738592",
+      "name": "pmn mukundan",
+      "summary": "COMPOSITOR at  Double Negative",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-smulders-4321659a",
+      "name": "Marcel Smulders",
+      "summary": "Muziek professional",
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marek-daute-4593bba6",
+      "name": "Marek Daute",
+      "summary": "Bikes to the People",
+      "location": "Cleves"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allard-jacobsen-730968b5",
+      "name": "Allard Jacobsen",
+      "summary": null,
+      "location": "Amersfoort"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yao-parris-56313a145",
+      "name": "Yao Parris",
+      "summary": "Chef, Horeca Manager, Event Manager",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolien-kamminga-999152186",
+      "name": "Carolien Kamminga",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wade-allen-3595b0193",
+      "name": "Wade Allen",
+      "summary": null,
+      "location": "Bryan–College Station"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-smith-b50009218",
+      "name": "Samuel Smith",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Roel Krook",
+      "link": "https://nl.linkedin.com/in/roel-krook-79665440",
+      "summary": "kickboks/muay thai/groeps- en personal trainer bij deliveroel.",
+      "location": "Randstad"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-08-19T00:00:00Z"
+  }
+}

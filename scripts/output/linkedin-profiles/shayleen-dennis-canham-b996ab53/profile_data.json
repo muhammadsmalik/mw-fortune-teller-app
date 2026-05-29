@@ -1,0 +1,641 @@
+{
+  "public_identifier": "shayleen-dennis-canham-b996ab53",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/aeaca17e4b421a9781e7d04062344d96",
+  "background_cover_image_url": null,
+  "first_name": "Shayleen",
+  "last_name": "Dennis (Canham)",
+  "full_name": "Shayleen Dennis (Canham)",
+  "follower_count": 831,
+  "occupation": "Chief Revenue Officer (CRO) at Primedia Out Of Home",
+  "headline": "Chief Revenue Officer (CRO) | MBA (GIBS)",
+  "summary": null,
+  "location_str": "City of Johannesburg, Gauteng, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Johannesburg",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Primedia Out Of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Chief Revenue Officer (CRO)",
+      "description": null,
+      "location": "South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "Primedia Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Sales and Product Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2013
+      },
+      "company": "Primedia Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "GIBS Business School (Gordon Institute of Business Science)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/gibssa",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c32e039104dbec2b40b321d8e0ee9178",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": null,
+      "degree_name": "Post Graduate Diploma",
+      "school": "GIBS Business School (Gordon Institute of Business Science)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/gibssa",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c32e039104dbec2b40b321d8e0ee9178",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": null,
+      "school": "GIBS Business School (Gordon Institute of Business Science)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/gibssa",
+      "school_facebook_profile_url": null,
+      "description": "Programme for Management Development (PMD)",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c32e039104dbec2b40b321d8e0ee9178",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "AAA School of Advertising",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/aaa-school-of-advertising",
+      "school_facebook_profile_url": null,
+      "description": "Copywriting",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fa7bb5b4fbab229008c1cee5c94052ab",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Northlands Girls' High",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/markkeatingsalesguru",
+      "name": "Mark Keating",
+      "summary": "CEO SalesGuru, Sales Training, SalesGuru Live Events & Keynote Sales & Motivational Speaker",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantaljordaansmith",
+      "name": "Chantal Jordaan Smith",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaydennis",
+      "name": "Shaylin Dennis",
+      "summary": null,
+      "location": "Evansville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bcarneson",
+      "name": "Busisiwe Carneson",
+      "summary": "Captivating Mobile Solutions - Attention on Demand",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caraleighwoods",
+      "name": "Cara Woods",
+      "summary": "Senior Sales Executive - Bringing your strategic campaigns to life through the use of Out of Home advertising.",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-albertini",
+      "name": "Ricardo Albertini",
+      "summary": "Founder, Tomorrows Compass | The behavioural assessment that tells you if you’re ready for the future of work",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitri-kapelianis",
+      "name": "Dimitri Kapelianis",
+      "summary": "Associate Professor @ University of New Mexico | PhD in Marketing",
+      "location": "Albuquerque"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasha-krul-4670a4130",
+      "name": "Sasha Krul",
+      "summary": "Sales Manager at BrandsUp",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevieve-louise-coward-04a0b765",
+      "name": "Genevieve Louise Coward",
+      "summary": "COO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marksalesguru",
+      "name": "Mark Keating",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trustmasarirambi",
+      "name": "Trust Masarirambi",
+      "summary": "Head of Mall Sales - Primedia Malls",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roselyne-mokoena-3152916a",
+      "name": "Roselyne Mokoena",
+      "summary": "Sales Manager | Key Accounts manager|",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamsyn-ingle-84781a37",
+      "name": "Tamsyn Ingle",
+      "summary": "Media Buyer",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-botha-cfp%25C2%25AE-4a716155",
+      "name": "Mike Botha - CFP®",
+      "summary": "Building and reviewing investment porfolios",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-dziebel-b0837445",
+      "name": "Robin Dziebel",
+      "summary": "Director of Product Management at Cloudbreak Health",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pebetse-mokgele-5175a910",
+      "name": "Pebetse Mokgele",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorja-wilkins-mphil-mpsa-54b50330",
+      "name": "Jorja Wilkins - MPhil, MPSA",
+      "summary": "GM Future Media & Sustainability | Programmatic, Digital Transformation & ESG Strategy | Doctoral Candidate (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hendrick-selowa-1b2739215",
+      "name": "Hendrick Selowa",
+      "summary": "Transport Manager at Ledimo \ntransport services",
+      "location": "Diepsloot"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartclerk",
+      "name": "Stuart Hill",
+      "summary": "Business Liaison",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-lindstrom-0361094",
+      "name": "Peter Lindstrom",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carmel-hellig-48b02811",
+      "name": "Carmel Hellig",
+      "summary": "Senior Business Development Representative",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shandu-mikosi-454a5a20",
+      "name": "Shandu Mikosi",
+      "summary": "Product Manager: Product Manager | Growth, Revenue & Data Analytics | Postgraduate Degree",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suraya-abdulla-91694022",
+      "name": "Suraya Abdulla",
+      "summary": "Key Account Manager: Primedia Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-wagenaar-0519a825",
+      "name": "Alice Wagenaar",
+      "summary": "Strategy & Intelligence Head",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kagisho-pooe-663a5225",
+      "name": "Kagisho Pooe",
+      "summary": "General Manager: Primedia Outdoor (Rest of Africa)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantelle-swart-08668129",
+      "name": "Chantelle Swart",
+      "summary": "Retail Sales Manager at JCDecaux",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benji-tselana-84340732",
+      "name": "Benji Tselana",
+      "summary": "Director at Lovelight Media",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-martin",
+      "name": "Tyron Martin",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/buyi-dube-3332a239",
+      "name": "Buyi Dube",
+      "summary": "Development Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thatohatsi-mosia-60b31040",
+      "name": "Thatohatsi Mosia",
+      "summary": "Account Manager at Primedia Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kishore-ramchandar-99127441",
+      "name": "Kishore Ramchandar",
+      "summary": "Account Manager at PMG",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diana-correia-3432b541",
+      "name": "Diana Correia",
+      "summary": "Marketing Manager CX @ Ignition CX",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/itumeleng-legotlho-75480142",
+      "name": "Itumeleng Legotlho",
+      "summary": "Sales Lead | Technology Solutions | Business Development| Leading Digital Transformation\\ Sustainability - Africa",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carl-du-plessis-3b70955a",
+      "name": "Carl du Plessis",
+      "summary": "Managing Distribution Executive at BrightRockZA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaneel-singh-324b5460",
+      "name": "Shaneel Singh",
+      "summary": "Managing Director & Co-Owner",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noel-padi-b5570961",
+      "name": "Noel Padi",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevieve-louise-coward-hazelton-04a0b765",
+      "name": "Genevieve Louise Coward (Hazelton)",
+      "summary": "Product & Revenue Generation Manager | OOH | DOOH | pDOOH| INSIGHTS | STRATEGY| DATA | POSITIONING",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharleen-canham-a9627b69",
+      "name": "sharleen canham",
+      "summary": "--",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zainoedien-abrahams-780a5369",
+      "name": "Zainoedien Abrahams",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muzi-masina-a679886a",
+      "name": "Muzi Masina",
+      "summary": "Managing Director at DemDem Music (Pty) Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yousuf-cajee-57419571",
+      "name": "Yousuf Cajee",
+      "summary": "Director at SILVER SOLUTIONS MEDIA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-dickenson-82b15778",
+      "name": "Melissa Dickenson",
+      "summary": "Head of Finance at Cars.co.za",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tasneem-harris-58819582",
+      "name": "Tasneem Harris",
+      "summary": "Digital .. The New Tomorrow",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kagiso-mooka-08590884",
+      "name": "Kagiso Mooka",
+      "summary": "Bookkeeper at Primedia Outdoor",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatiso-xavier-ntsetselane-88827187",
+      "name": "Tatiso Xavier Ntsetselane",
+      "summary": "Information Technology Specialist at Department of Health Free State",
+      "location": "Matjhabeng Local Municipality"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deliwe-selepe-6a67098b",
+      "name": "Deliwe Selepe",
+      "summary": "Account Manager: \n\nNando’s \nChanel \nUnilever \nUber \nBill and Melinda Gates Foundation\nFlySafair",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bongane-zwane-69454695",
+      "name": "Bongane Zwane",
+      "summary": "--",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janiveve-smith-3a029297",
+      "name": "Janiveve Smith",
+      "summary": "PA to Executive: Rights & Legal Department at Primedia Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ntokozo-mthethwa-8b598997",
+      "name": "Ntokozo Mthethwa",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natanya-van-den-heever-a224539a",
+      "name": "Natanya Van Den Heever",
+      "summary": "Account Manager at Autotrader S.A",
+      "location": "George"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jolanda-williams-532665aa",
+      "name": "JOLANDA WILLIAMS",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stewart-parsonson-038093ab",
+      "name": "Stewart Parsonson",
+      "summary": "National Sales Manager at Primedia instore",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/doctor-ngema-a40b35b2",
+      "name": "Doctor Ngema",
+      "summary": "--",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sizwe-batwa-43a571b8",
+      "name": "Sizwe Batwa",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vani-nagiah-b16568101",
+      "name": "Vani Nagiah",
+      "summary": "Sales Service and Enablement Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dean-naude-66b560104",
+      "name": "Dean Naude",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dudu-nkabinde-b335a7109",
+      "name": "Dudu Nkabinde",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-watkins-06427a110",
+      "name": "Michelle Watkins",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terrick-stock-091710114",
+      "name": "Terrick Stock",
+      "summary": "Direct and Retail Sales Manager at JCDecaux Africa",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malebo-caroline-choshane-59b807118",
+      "name": "Malebo Caroline Choshane",
+      "summary": "Media and Brand Enthusiast | Media Strategist | Media Planner | Media Buyer | OOH - pDOOH | Brand Management",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-petersen-472a58119",
+      "name": "Nicola Petersen",
+      "summary": "🎯 Marketing Channel Specialist blending digital strategy with in-store execution — creative, data-driven, and always focused on impact. From clicks to carts, I make every touchpoint count. 🛒✨",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/busiswa-mlandu-67a5bb132",
+      "name": "Busiswa Mlandu",
+      "summary": "Communication Specialist at National Home Builders Registration Council",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevieve-borman-17916a138",
+      "name": "Genevieve Borman",
+      "summary": "Post Graduate Diploma in Business Administration",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ezna-burgers-647565168",
+      "name": "Ezna Burgers",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sindisa-smith-3b4ab6168",
+      "name": "Sindisa Smith",
+      "summary": "Finance Administration Lead",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nonkululeko-ngobese-9160b8176",
+      "name": "Nonkululeko Ngobese",
+      "summary": "Portfolio Manager at Primedia Malls",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bronwyn-dee-lombard-74583a189",
+      "name": "Bronwyn Dee Lombard",
+      "summary": "Chief Executive Officer @ Roar Media | Digital product development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/heike-vd-westhuizen-728709213",
+      "name": "Heike Vd Westhuizen",
+      "summary": "Quintessence•995 followers",
+      "location": "Johannesburg"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I showed my 7-year-old daughter this video of a gymnast celebrating a teammate who held her handstand the longest. When I said, “You should always be…",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_jasonderulotv-sweet-moment-betwen-two-activity-7326899128297254912-R4E4",
+      "activity_status": null
+    },
+    {
+      "title": "Tackling negativity and toxicity head on empowers your workplace to thrive. Whether you’re a leader shaping culture or an employee fostering daily…",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_tackling-negativity-and-toxicity-head-on-activity-7323656165358256128--xCy",
+      "activity_status": null
+    },
+    {
+      "title": "“Leadership and learning are indispensable to each other.” — John F. Kennedy Spending a Sunday afternoon in a Gibs classroom is a privilege. This…",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_leadership-and-learning-are-indispensable-activity-7216138718963769344-yuUi",
+      "activity_status": null
+    },
+    {
+      "title": "What a great event ⭐️",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_what-a-great-event-activity-7184258417379688448-4enR",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_hiring-vacancies-recruitment-activity-7108062860806606851-KTjm",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’m starting a new position as Executive of Sales at Primedia Outdoor!",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_im-happy-to-share-that-im-starting-a-new-activity-7097461922551263233-u1Yj",
+      "activity_status": null
+    },
+    {
+      "title": "I second this. Definitely a great way to start the weekend…sharing and learning! Thank you Dimitri Kapelianis for the wonderful opportunity and…",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_i-second-this-definitely-a-great-way-to-activity-7084190095058051072-xQCw",
+      "activity_status": null
+    },
+    {
+      "title": "It is our responsibility to “build better tables!”👇",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_it-is-our-responsibility-to-build-better-activity-7084939595657695233-HDz-",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/shayleen-dennis-canham-b996ab53_a-new-way-of-thinking-about-business-activity-6744614440248872962-9OuI",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-11T00:00:00Z"
+  }
+}

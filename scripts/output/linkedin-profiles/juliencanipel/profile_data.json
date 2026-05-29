@@ -1,0 +1,493 @@
+{
+  "public_identifier": "juliencanipel",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/2788383b047c36f8268d715dbac4b90e",
+  "background_cover_image_url": null,
+  "first_name": "Julien",
+  "last_name": "Canipel",
+  "full_name": "Julien Canipel",
+  "follower_count": 1577,
+  "occupation": "Co-fondateur at Creavibes",
+  "headline": "Business Development | Publishers Manager | Media & Adtech Specialist",
+  "summary": null,
+  "location_str": "Greater Paris Metropolitan Region",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Paris",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Creavibes",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/creavibes",
+      "company_facebook_profile_url": null,
+      "title": "Co-fondateur",
+      "description": "Nous aidons les marques à simplifier leurs processus créatifs et à transformer leurs publicités en ligne en vecteur de créativité, de contenu et de performance. Notre Créative Management Platform qui s’appuie sur la technologie d’Adzymic permet de créer, de personnaliser et d’automatiser vos créations publicitaires originales en ligne et de les diffuser extrêmement facilement en Adserving ou Programmatique.",
+      "location": "Paris et périphérie",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80ee7d56e75d2e4a8223b58bef86f069"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "FAMILY AFFAIRE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/family-affaire",
+      "company_facebook_profile_url": null,
+      "title": "Directeur technique",
+      "description": "Family Affaire : site et boutique parisienne de seconde main et déstockage de marques premium pour enfant. Accompagnement dans la stratégie digitale, refonte et optimisation du site sous Shopify. Mise en place d'outils et de process nécessaires à l'ouverture d'un point de vente physique ( système de caisse, code barre, gestion des stocks)",
+      "location": "Paris",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a05ee7c534f58847a59a77a44352dea3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2022
+      },
+      "company": "Azerion",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/azerion",
+      "company_facebook_profile_url": null,
+      "title": "Head of Publishers France",
+      "description": null,
+      "location": "Paris et périphérie",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/73f8c96793d7d30e65829c8b6fe010b5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "Sublime",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Global Publisher Director - Partner",
+      "description": "Sublime is a leading ad tech company specialising in the distribution and optimisation of skin-based advertising. It is the first platform of its kind to provide skin-based advertising, working with advertisers, publishers, media agencies, trading desks, and ad networks to drive efficient campaigns at scale. Sublime provides actionable statistics and transparent insights in real time, allowing brands to capitalise on the most impactful format with the greatest coverage across multiple websites. Sublime Skinz works with a clear objective to maximise revenues and optimise return on ad investments.",
+      "location": "Paris",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Sublime",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Head of Publisher EMEA",
+      "description": null,
+      "location": "Région de Paris, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2017
+      },
+      "company": "Sublime",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Head of Publisher FR",
+      "description": null,
+      "location": "Paris",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2015
+      },
+      "company": "Mensquare",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Directeur de la Publicité",
+      "description": "Gestion opérationnelle de la régie avec le management d’une équipe de 8 personnes. • Développement Commercial : -  Equipe de 4 commerciaux avec la gestion des agences Média ( Havas, GroupM, OMD, Performics, Vivaki, Aegis, Amplify….). -Élaboration d’Opérations Spéciales Web & Cross-média : accompagnement des marques dans leur stratégie de contenu - Veille concurrentielle - Création d'outils de suivi commercial, facturation.... • Gestion du réseau éditeurs : - Développement et optimisation du réseau Mensquare ( 1er réseau masculin en France) - Optimisation des partenariats avec les éditeurs : Topito, LeGorafi, Tuxboard, Comme un Camion, Buzzly, Golem13 et plus de 60 sites en régie exclusive. • Revenu Management/ trafficking : - Display : Mise en place de l’adserving (Smartadserver) de la régie, collaboration avec les différents prestataires RTB du marché (Rubicon, RTB+, Adikteev, Piximedia, Sublime Skinz) - Mobile : Implémentation des solutions webmobiles (Mobvious, Mobvalue, Numbate) avec nos sites partenaires. - Vidéo : Implémentation (Advideum, Teads, E-buzzing) et suivis des campagnes instream et outstream sur l’ensemble du réseau.",
+      "location": "Paris Area, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "Teeshirtmotors",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co-fondateur Associé",
+      "description": "Société éditrice de textile en relation avec le monde automobile. •\tcréation d’une marque grand public distribuée via un site de e-commerce et un réseau national de distributeurs ; •\tcréation d’une agence-conseil auprès des constructeurs, des écuries et des clubs dans le cadre de leur communication textile. Compétences acquises : Création d’entreprise, e-commerce, définition de stratégies commerciales.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2008
+      },
+      "company": "Yahoo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yahoo",
+      "company_facebook_profile_url": null,
+      "title": "Team Manager",
+      "description": "Création d’un service constitué de 3 chefs de publicité  assurant la gestion mutualisée d’un portefeuille de 550 clients en « Search Marketing ». Identification des clients à fort potentiel et proposition de nouveaux objectifs de croissance leur permettant un fort retour sur investissement. Compétences acquises : Management, formation, mise en place de processus organisationnels, relation service client.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d35790fd8dab56d3949319a3d3e793d2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2005
+      },
+      "company": "Yahoo! Search Marketing",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yahoo",
+      "company_facebook_profile_url": null,
+      "title": "Directeur de  Publicité",
+      "description": "Responsabilité au niveau national d’un portefeuille d’agences de « e-marketing » (SEO/SEM). Développement du concept « Yahoo ! Search Marketing » dans un objectif d’optimisation de leurs campagnes promotionnelles. Compétences  acquises : Relation grands comptes, gestion de campagnes de « Search Marketing ».",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d35790fd8dab56d3949319a3d3e793d2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2004
+      },
+      "company": "Overture (Yahoo! Search Marketing)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yahoo",
+      "company_facebook_profile_url": null,
+      "title": "Responsable du service Télévente",
+      "description": "Management de 4 personnes ayant un objectif d’acquisition de 80 nouveaux clients internet par semaine lors du lancement d’Overture en France, spécialiste du lien sponsorisé et du paiement à la performance. Compétences  acquises : Recrutement, mise en place d’incentives et d’argumentaires de vente.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d35790fd8dab56d3949319a3d3e793d2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Orange",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/orange",
+      "company_facebook_profile_url": null,
+      "title": "Chef de Publicité",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c9b736bb0de1ec24b3a7e1563cd58be0"
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1583,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/remiribes",
+      "name": "Remi RIBES",
+      "summary": "Entrepreneur",
+      "location": "Nice"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barthmonnier",
+      "name": "Barth Monnier",
+      "summary": "Product Owner",
+      "location": "Arbois"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julienvottero",
+      "name": "Julien Vottero",
+      "summary": "Directeur général @ TimeOne, DGA @ Isoskele",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thierryhilaire",
+      "name": "Thierry Hilaire",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aurelienbernard",
+      "name": "Aurélien Bernard",
+      "summary": "Newsweed•2K followers",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francoissutter",
+      "name": "Francois SUTTER",
+      "summary": "Directeur Conseil Transformation Digitale chez Softeam Consulting (Groupe DOCAPOSTE)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlottesofia",
+      "name": "Charlotte S.",
+      "summary": "Experte CRO | Beau, c’est bien. Beau & rentable, c’est mieux.",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/b%25C3%25A9rang%25C3%25A8re-vuillemin-3156a810",
+      "name": "Bérangère Vuillemin",
+      "summary": "Head Of Publisher Development chez Ogury Ltd",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gchichery",
+      "name": "Gwenael Chichery",
+      "summary": "CEO & Co-founder @ Unio — L’app de rencontre sans photos · 50K+ membres · Slow dating",
+      "location": "Boulogne-Billancourt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurentmoreau",
+      "name": "Laurent Moreau",
+      "summary": "Co-Founder at Topito & OALD Productions, Auteur, Co-créateur du Podcast “Le revers de ma médaille”",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/etienne-giraud-02a52a3",
+      "name": "Etienne Giraud",
+      "summary": "Founder Traffic To Business - Expert SEO & SEM",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/agnesfougeres",
+      "name": "Agnès Fougères",
+      "summary": "AdTech & Video expert in Strategic Partnerships / ex-Seedtag / ex-Dailymotion",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomaslancelot",
+      "name": "Thomas L.",
+      "summary": "💎 Digital Marketing - Traffic management - Data - AI - Analytics",
+      "location": "Annecy"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philippecabrera",
+      "name": "Philippe Cabrera",
+      "summary": "Président de BLACKBEE",
+      "location": "Marseille"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierre-antoine-coudert",
+      "name": "Pierre-Antoine Coudert",
+      "summary": "Founder & Director chez You Are Stories, Creative Director, Storyteller",
+      "location": "Neuilly-sur-Seine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-cortes-76072331",
+      "name": "Laura Cortes",
+      "summary": "Team Lead Account Manager",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-henry-43709836",
+      "name": "Olivia Henry",
+      "summary": "Principal, Enterprise Account Executive Amazon Ads Tech Solutions @ Amazon",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiphaine-canat-richardson-bba47236",
+      "name": "Tiphaine Canat-Richardson",
+      "summary": "Publisher Director  France & Belgique",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliafrene",
+      "name": "Julia Frêne",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franck-fievet-editeur-fondateur-speakyplanet",
+      "name": "Franck Fievet",
+      "summary": "Éditeur-fondateur de SpeakyPlanet.com",
+      "location": "Angers"
+    }
+  ],
+  "recommendations": [
+    "Arnaud Gallet\n\nJulien a fortement contribué au développement du small business au sein d'Overture France (Yahoo! Search Marketing). Sa tenacité, sa rigueur, son implication, son esprit d'équipe, d'entreprendre et ses qualités manageriales ont beaucoup contribué à cette réussite. Sans parler de ses qualités humaines qui font de Julien une personne avec qui on a énormément de plaisir à travailler."
+  ],
+  "activities": [
+    {
+      "title": "Trois décennies de révolutions technologiques. 📍 Un podcast à écouter si vous vous posez des questions sur les débuts industriels du digital…",
+      "link": "https://fr.linkedin.com/posts/slevaillant_1-christophe-parcot-de-babson-à-yahoo-activity-7404182312885755904-ebLd",
+      "activity_status": null
+    },
+    {
+      "title": "Meet the new board 💃 Après deux ans d’existence, The Women In Programmatic Network France a élu son nouveau board composé de femmes motivées à…",
+      "link": "https://fr.linkedin.com/posts/the-women-in-programmatic-network-france_womeninprogrammatic-womenintech-adtech-activity-7394633911332442112-O_E2",
+      "activity_status": null
+    },
+    {
+      "title": "Merci Seconde Media - Média Seconde Main pour ce bel article. Il y aurait tant à dire, tant de conseils à donner dans ce secteur passionnant mais…",
+      "link": "https://fr.linkedin.com/posts/agathe-fontaine-3797555a_merci-seconde-media-média-seconde-main-activity-7375541050557509632-V-Cy",
+      "activity_status": null
+    },
+    {
+      "title": "So happy to see Supply Finder now live with Index Exchange! 🚀 Their innovative tools make traders’ lives so much easier, turning briefs into…",
+      "link": "https://www.linkedin.com/posts/charles-emeriau_programmatic-ctv-marketplaces-activity-7371558662584217600-C4Gx",
+      "activity_status": null
+    },
+    {
+      "title": "Vous utilisez Shopify POS ou vous y intéressé mais aimeriez étendre ses fonctionnalités en matière de livraison ? 📦🚚 Shippingbo lance son…",
+      "link": "https://fr.linkedin.com/posts/romainparent_shopify-pos-shopifypos-activity-7350813256275410944-ePtj",
+      "activity_status": null
+    },
+    {
+      "title": "Hier, chez Vestiaire Collective, nous étions réunis avec les plateformes françaises de seconde main pour porter une voix commune : 👉 Une seconde…",
+      "link": "https://fr.linkedin.com/posts/maximebrousse_hier-chez-vestiaire-collective-nous-étions-activity-7341009046348443648-nUG7",
+      "activity_status": null
+    },
+    {
+      "title": "Bravo Ilfynn Lagarde de porter notre collectif avec brio!!! You rock. Il est encore temps de vous inscrire pour assister mercredi soir à une table…",
+      "link": "https://fr.linkedin.com/posts/agathe-fontaine-3797555a_bravo-ilfynn-lagarde-de-porter-notre-collectif-activity-7339932163955408896-JYL-",
+      "activity_status": null
+    },
+    {
+      "title": "Directrice Marketing de DK, Estelle Reale était l’invitée d’un « Smart Morning » organisé par Orange Advertising, et consacré au développement…",
+      "link": "https://fr.linkedin.com/posts/orangeaddata_sustainability-développementdurable-activity-7335560967851827200-O1cA",
+      "activity_status": null
+    },
+    {
+      "title": "Family Affaire en quelques chiffres, c'est 18000 articles qui sont repartis pour une nouvelle vie en 2024. C'est une croissance de 40%, c'est une…",
+      "link": "https://fr.linkedin.com/posts/agathe-fontaine-3797555a_family-affaire-en-quelques-chiffres-cest-activity-7334123447121272832-dl9R",
+      "activity_status": null
+    },
+    {
+      "title": "📖✨ New Chapter Alert! ✨📖 I’m thrilled to share that I’ve joined Sparteo, as EMEA Strategic Publisher Development Manager! 🤔 But what’s Sparteo…",
+      "link": "https://www.linkedin.com/posts/hortense-maul_adtech-digitalpublishing-ssp-activity-7330618577277947904-7v1u",
+      "activity_status": null
+    },
+    {
+      "title": "🎥 Retour en vidéo sur notre dernière soirée The Women in Programmatic Network - France ! Un grand merci à toutes et tous pour votre présence 🌟 Et…",
+      "link": "https://fr.linkedin.com/posts/estellereale_thewomeninprogrammatic-iainclusive-publicspeaking-activity-7318179171711574016-WJ46",
+      "activity_status": null
+    },
+    {
+      "title": "Alors que l’intelligence artificielle bouleverse les métiers de la vente, du marketing et des RH, une certitude émerge : 👉 Le développement de…",
+      "link": "https://fr.linkedin.com/posts/fbalaye_leadership-salestransformation-ia-activity-7317524805405028352-XvHx",
+      "activity_status": null
+    },
+    {
+      "title": "8ème jour de la mission Sésame - Stratégie d'entreprise à TBS Education avec FAMILY AFFAIRE. Du sucre rapide pour l'après midi avec HARIBO France et…",
+      "link": "https://fr.linkedin.com/posts/cedricmoretau_8ème-jour-de-la-mission-sésame-stratégie-activity-7315703791322894337-Aq6i",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 We are excited to announce our partnership with Index Exchange! 🤝 ✨ Now that our integration is officially live, Lucead and Index Exchange are…",
+      "link": "https://www.linkedin.com/posts/lucead_lucead-indexexchange-privacysandbox-activity-7313825185143357440-wHpv",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Smile Wanted steps up a gear! We're delighted to welcome Alexandre Canu to the Smile Wanted adventure! His expertise and vision are going to be…",
+      "link": "https://www.linkedin.com/posts/smile-wanted_welcome-adtech-programmatics-activity-7313425037393354752-SR9K",
+      "activity_status": null
+    },
+    {
+      "title": "Créer des formats, c’est pas compliqué, si ? 🙃 Lorsqu’on devient développeur.euse, on s’attend à créer des sites, des applications, des SaaS, etc.,…",
+      "link": "https://fr.linkedin.com/posts/yelena-chaiboubi_créer-des-formats-cest-pas-compliqué-si-activity-7305857417882320896-3YnO",
+      "activity_status": null
+    },
+    {
+      "title": "Félicitations! Une belle reconnaissance du travail accompli depuis tant d’années.",
+      "link": "https://www.linkedin.com/posts/juliencanipel_félicitations-une-belle-reconnaissance-du-activity-7190774275417473024-Kvvq",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Julien Canipel",
+      "link": "https://fr.linkedin.com/in/julien-canipel-b2800630",
+      "summary": "Consultant indépendant chez Alternative ERP",
+      "location": "Lyon"
+    },
+    {
+      "name": "Julien Canipel",
+      "link": "https://fr.linkedin.com/in/julien-canipel-58a05542",
+      "summary": "Responsable Pôle Digital chez Mairie de Garges",
+      "location": "Paris et périphérie"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-22T00:00:00Z"
+  }
+}

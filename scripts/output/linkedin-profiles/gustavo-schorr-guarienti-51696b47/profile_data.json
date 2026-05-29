@@ -1,0 +1,660 @@
+{
+  "public_identifier": "gustavo-schorr-guarienti-51696b47",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/8e7875cb835b5751cf66ff33cf29d584",
+  "background_cover_image_url": null,
+  "first_name": "Gustavo",
+  "last_name": "Schorr Guarienti",
+  "full_name": "Gustavo Schorr Guarienti",
+  "follower_count": 635,
+  "occupation": "CEO at Grupo Inteli",
+  "headline": "Sócio Proprietário GRUPO INTELI",
+  "summary": "Curioso, Motivado, Desbravador. CEO do Grupo Inteli, especialista em mídia OOH e comunicação visual. Focado em inovação, gestão de marcas e soluções estratégicas para conectar empresas ao mercado nacional e internacioal.",
+  "location_str": "Blumenau, Santa Catarina, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Blumenau",
+  "state": "Santa Catarina",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2005
+      },
+      "ends_at": null,
+      "company": "Grupo Inteli",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-inteli",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "O Grupo Inteli, fundado em 2005 em Santa Catarina, começou com o objetivo de transformar o mercado de mídia externa. Em 2014, consolidou sua presença em Santa Catarina e expandiu para o Rio Grande do Sul e Paraná. Em 2017, avançou para as regiões Centro-Oeste e Sudeste, e em 2018, para o Nordeste e Norte do Brasil. Em 2021, alcançou presença em todos os estados brasileiros e, a partir de 2022, iniciou sua expansão internacional. O Grupo se destaca por criar um ecossistema inovador para mídias externas (OOH e DOOH), conectando fornecedores e clientes, e otimizando resultados de marcas. Oferece um modelo de negócios ágil e personalizado que facilita a gestão e compra de mídia, solidificando sua posição de liderança no setor.",
+      "location": "Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4af80f3b59759587a2505bcd01014706"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2025
+      },
+      "company": "Intelicom Comunicação e Marketing",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sócio proprietário",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2025
+      },
+      "company": "SC OUTDOOR",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sócio Proprietário",
+      "description": null,
+      "location": "Blumenau e Região, Brasil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "Renault Liberté",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Gerente de Vendas",
+      "description": "Gerente de Vendas Veículos Novos. Matriz Blumenau/SC",
+      "location": "Blumenau e Região, Brasil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      },
+      "company": "Renault Liberté",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Coordenador de Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "Inteli Comunicação e Marketing",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sócio Diretor",
+      "description": null,
+      "location": "Blumenau e Região, Brasil",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "MBA Marketing - Relacionamento com Clientes",
+      "school": "Fundação Getulio Vargas  / FGV",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Publicidade e Propaganda",
+      "degree_name": "Comunicação e Marketing",
+      "school": "FURB - Faculdade Regional de Blumenau",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Imersão & Mentoria",
+      "license_number": "Nº da credencial f4b790b7-97a3-4792-a005-d86ef223c66d Ver credencial",
+      "display_source": null,
+      "authority": "G4 Educação",
+      "url": "https://gestaoquatropontozero.engaged.com.br/certificados/id/f4b790b7-97a3-4792-a005-d86ef223c66d"
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/marcosdelroy",
+      "name": "Marcos Del Roy",
+      "summary": "Diretor do Conteúdo Empreendedor - IPE | Consultor de Gestão | Especialista em Empreendedorismo | Professor de MBA",
+      "location": "Jundiaí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/econotrans",
+      "name": "Júlio César Miranda",
+      "summary": "Sócio-proprietário na STEP UP SOLUÇÕES",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandorromanelli",
+      "name": "SANDOR ROMANELLI",
+      "summary": "Head Comercial",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatianasimundi",
+      "name": "Tatiana Simundi",
+      "summary": "Analista de Planejamento & Mídia Sênior na Eletromidia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-schardosim-scherer-ale1986",
+      "name": "Alexandre Schardosim Scherer",
+      "summary": "Comercial - GRUPO PREMIER TECH - parceiro Diamante ALGAR TELECOM presente nos Estados do RIO GRANDE DO SUL, SANTA CATARINA e SÃO PAULO",
+      "location": "São José"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiagocribeiro",
+      "name": "Tiago Ribeiro",
+      "summary": "CSO na Carandá Digital | Ajudo empresas do  🚜 Agro 🏠 Construtoras e Incorporadoras a se posicionarem e vender mais. 🚀",
+      "location": "João Pessoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonardomachadomm",
+      "name": "Leonardo Machado",
+      "summary": "Empreendedor, Gestor e Investidor",
+      "location": "Florianópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/murilomoreno",
+      "name": "Murilo Moreno",
+      "summary": "LinkedIn Top Voice. TEDx Speaker. Autor dos livros Inquietos por Natureza e Fora do Automático. Apresentador do Conversa de Marketing, canal Markket. Colunista Automotive Business. Professor ESPM.  Consultor de empresas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-soares-oficial",
+      "name": "Jonathan Sousa",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonio-lopes-executivofinanceiro",
+      "name": "Antonio Lopes",
+      "summary": "Diretor Geral | Diretor Financeiro | Gerente Financeiro | Controller | Gerente Geral",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrielarocha1",
+      "name": "Gabriela Rocha",
+      "summary": "Trade Marketing | Shopper Experience | indirect e-commerce l Retail Media",
+      "location": "Canoas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulomentone",
+      "name": "Paulo Mentone",
+      "summary": "Vice Presidente / Chief Operating Officer ( COO ) / Diretor Geral / Diretor Comercial / Diretor Executivo/ Expansão / Multipropriedades / Entretenimento / CMO/  Diagnósticos de Negócios  e Planejamento /",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cl%25C3%25A1udio-augusto-pinto-32bb0278",
+      "name": "Cláudio Augusto Pinto",
+      "summary": "Especialista em Agronegócio - USP",
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/augusto-puga-244719249",
+      "name": "Augusto Puga",
+      "summary": "Co-Fundador na RAXAKUKA | MBA em ESG - 8N CONSULTORIA -  Pesquisador - Generalista",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vox-motors-1b8812a6",
+      "name": "Vox Motors",
+      "summary": "Assistente de Marketing na Vox Veículos",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-alexandre-de-moura",
+      "name": "Marcio Alexandre de Moura",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliane-biazon",
+      "name": "Juliane Biazon",
+      "summary": "Operations & Project Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bragamarcos",
+      "name": "Marcos Braga",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/s%25C3%25B4nia-rodrigues-555a1a14",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-andr%25C3%25A9-gigante-5b359a55",
+      "name": "Paulo André Gigante",
+      "summary": "Territorial Mercados em Desenvolvimento PR/SC",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lu%25C3%25ADs-andr%25C3%25A9-schultz-coelho-074a1665",
+      "name": "Luís André Schultz Coelho.'.",
+      "summary": "Diretor Comercial / Diretor / Gerente Nacional de Vendas",
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geagro-gest%25C3%25A3o-do-agroneg%25C3%25B3cio-32bb0278",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/c%25C3%25A9lio-oliveira-8b6355138",
+      "name": "Célio Oliveira",
+      "summary": "Diretor de publicidade na Transmídia - Propaganda em Ônibus",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/silene-cristina-da-silva-2435749",
+      "name": "Silene Cristina da Silva",
+      "summary": "CEO, Empreendedora, Produtora e Gestora Cultural",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/diasjuliana",
+      "name": "Juliana Dias",
+      "summary": "Head of Latam Corporate Access, SVP at Jefferies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cirlene-rabecchini-8a308622",
+      "name": "Cirlene Rabecchini",
+      "summary": "Diretora na ELETROVISION DOOH",
+      "location": "Santo André"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anderson-tadeu-57287824",
+      "name": "Anderson Tadeu",
+      "summary": "Sócio proprietário na GMA3 Gestão de Negócios",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisiane-nicolow-83633826",
+      "name": "Lisiane Nicolow",
+      "summary": null,
+      "location": "Balneário Camboriú"
+    },
+    {
+      "link": "https://www.linkedin.com/in/higor-da-silva-santos-4481112a",
+      "name": "Higor da Silva Santos",
+      "summary": "Imoveis extraordinários para um estilo de vida único",
+      "location": "Capão da Canoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gessy-pereira-048b8130",
+      "name": "gessy pereira",
+      "summary": "Proprietário(a), PEREIRA NETO E NASCIMENTO ADOVOGADOS ASSOCIADOS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabricio-zonatti-dias-70b19933",
+      "name": "Fabricio Zonatti Dias",
+      "summary": "Proprietário na Reobote - Equipamentos de Limpeza LTDA",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-guarilha-de-almeida-2755b233",
+      "name": "Renato Guarilha de Almeida",
+      "summary": "Owner na New Signs Comunicação Visual",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cleber-de-paula-barbosa",
+      "name": "Cleber De Paula",
+      "summary": "✔️ Advogado ✔️ Gestor ✔️ Especialista em Direito Imobiliário e Registral ✔️ Incorporação Imobiliária ✔️OAB ✔️ CRECI ✔️ CA300-HIS",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luiz-luiz-9b172838",
+      "name": "Luiz Luiz",
+      "summary": null,
+      "location": "Betim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciano-de-toledo-4b965941",
+      "name": "Luciano de Toledo",
+      "summary": null,
+      "location": "Americana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donizetti-baldon-308a4b42",
+      "name": "Donizetti Baldon",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/diogo-silva-64748344",
+      "name": "Diogo Silva",
+      "summary": "Diretor Executivo/Comercial",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adauto-alves-8b2a0144",
+      "name": "Adauto Alves",
+      "summary": "Mike Luz Comunicação 360",
+      "location": "Guarulhos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosiler-dos-santos-71716b51",
+      "name": "ROSILER DOS SANTOS",
+      "summary": "Sócio na INOVARA ENGENHARIA AVALIAÇÕES E PERICIAS LTDA",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerardo-molina-04641756",
+      "name": "Gerardo Molina",
+      "summary": "Dir. Pres. da Idéia Fabril Plan/Gest.                Pres. do IDEIA (Instituto p/ Desenv. de Estratégias Inteligentes em Adm.)",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natascha-blume-0b45045b",
+      "name": "Natascha Blume",
+      "summary": "Virtu Financial @ Managing Partner",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruno-seemann-697b935b",
+      "name": "Bruno Seemann",
+      "summary": "Hunting personalizado para empresas | +2.000 contratados | +60 empresas parceiras | Candidatos em 7 dias",
+      "location": "Florianópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisangela-petzold-4a294260",
+      "name": "Elisangela Petzold",
+      "summary": "Sócio e fundador do Grupo Intelicom",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diogo-henrique-vogel-93aa9062",
+      "name": "Diogo Henrique Vogel",
+      "summary": "SP OUTDOOR COMUNICAÇÃO E MARKETING LTDA | GRUPO INTELI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovani-moutinho-4690b367",
+      "name": "Giovani Moutinho",
+      "summary": "🏡 Ajudo pessoas a realizarem o sonho do imóvel ideal em São Paulo, com transparência, dedicação e cuidado. | CRECI 310511",
+      "location": "Barueri"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iury-bugmann-ramos-55ba4a67",
+      "name": "Iury Bugmann Ramos",
+      "summary": null,
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/norma-volpato-4253976a",
+      "name": "Norma Volpato",
+      "summary": "socia gerente na nova era velas e aromas",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diogo-ricardo-da-silva-b919906b",
+      "name": "diogo ricardo da silva",
+      "summary": "Profissional de Logística e cadeia de suprimentos",
+      "location": "Ferraz de Vasconcelos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rose-beims-26160672",
+      "name": "Rose Beims",
+      "summary": "Socio Gerente na Ponto 360",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-schorr-593aab73",
+      "name": "Alan Schorr",
+      "summary": "Diretor Comercial at RG OUTDOOR",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julian-karasinski-3b140076",
+      "name": "Julian Karasinski",
+      "summary": "Sócio proprietário Rekatex",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-ribeiro-a1941676",
+      "name": "Marcelo Ribeiro",
+      "summary": "Sócio Proprietário na BETEL Consultoria em Segurança do Trabalho e Treinamentos",
+      "location": "Santo André"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-monetti-0bb29980",
+      "name": "MARCELO MONETTI",
+      "summary": "CEO & Founder",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-moreira-de-souza-05627b82",
+      "name": "William Moreira De Souza",
+      "summary": "Profissional de Saúde, bem-estar e educação física",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-alberto-correa-198b9292",
+      "name": "Carlos Alberto Correa",
+      "summary": "--",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-moreira-da-silva-a5841094",
+      "name": "William Moreira da Silva",
+      "summary": "Técnico em Logística",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-lima23",
+      "name": "Marcelo Lima",
+      "summary": null,
+      "location": "Taubaté"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3%25C2%25A3o-alexandre-popoaski-9b26379b",
+      "name": "João Alexandre Popoaski",
+      "summary": "Sócio Gerente na Correvale Adm e Corretagem de Seguros",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-julianelli-4251a4a2",
+      "name": "Eduardo Julianelli",
+      "summary": "Comercial e Publicidade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernanda-schorr-71bb04a4",
+      "name": "Fernanda Schorr",
+      "summary": "Empresária, Publicitária, Branding e Comunicação Estratégica",
+      "location": "Santo Antônio de Jesus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharon-diniz-511634106",
+      "name": "Sharon Diniz",
+      "summary": "Administração",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugenio-brigo-ab8ab4113",
+      "name": "Eugenio Brigo",
+      "summary": "Gerente de Planejamento na Metalúrgica Edarp Ltda.",
+      "location": "Guarulhos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-ayres-b8b407129",
+      "name": "Marcio Ayres",
+      "summary": "Formato Mídia•435 followers",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrianebnascimento",
+      "name": "Adriane Nascimento",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergio-rizo-b337bb145",
+      "name": "Sergio Rizo",
+      "summary": "Diretor RS Projetos | Dr. Geografia Humana | Pesquisador em Geografia Urbana | Prof. Univ. FMU |  Consultor Técnico SEPEX-SP | Vice-Pres. APROGEO-SP 2018-2020 | Comunicador",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thaianegjardim-1b802615a",
+      "name": "Thaiane Gonçalves Jardim",
+      "summary": "Corretora de imóveis de alto padrão no litoral norte SC. Dedicação e\r\npaixão no atendimento ao cliente, são meus diferenciais.",
+      "location": "Balneário Piçarras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wendy-ghannam-da-veiga-5a833615b",
+      "name": "Wendy (Ghannam) da Veiga",
+      "summary": "Executiva de Contas | Analista de Marketing | Atendimento e Planejamento Publicitário | Digital",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victor-alexandre-kuhnen-1a3555163",
+      "name": "Victor Alexandre Kuhnen",
+      "summary": "Publicitário | Marketing | Stark Drogaria & Drugstore 24h",
+      "location": "Indaial"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-adriano-moreira-a2425b1b5",
+      "name": "Marcio Adriano Moreira",
+      "summary": "Empreendedor | Mídia OOH e DOOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-tayse-garcia-600328220",
+      "name": "Sara Tayse Garcia",
+      "summary": "Sócio-gerente geral na Gift+",
+      "location": "Blumenau"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Seu board está pedindo inovação, mas você não sabe por onde começar no OOH? 🤯 Comece pelos seus DADOS! Eles são o mapa. 🗺️ Vamos inovar com…",
+      "link": "https://www.linkedin.com/posts/gustavo-schorr-guarienti-51696b47_inovacaoemmarketing-oohtech-marketingstrategist-activity-7459981336175419392-34iA",
+      "activity_status": null
+    },
+    {
+      "title": "Essa é, sem dúvida, a pergunta que eu mais escuto de CMOs e Diretores de Marketing. “Gustavo, outdoor é incrível para awareness… mas como eu provo…",
+      "link": "https://www.linkedin.com/posts/gustavo-schorr-guarienti-51696b47_essa-é-sem-dúvida-a-pergunta-que-eu-mais-activity-7458169254647963648-nGY0",
+      "activity_status": null
+    },
+    {
+      "title": "Tem uma coisa que só a escala ensina. No início, muito do que sabíamos sobre mídia exterior era baseado em feeling. Quando você escala para operação…",
+      "link": "https://www.linkedin.com/posts/gustavo-schorr-guarienti-51696b47_ooh-mídiaexterior-marketingestratégico-activity-7455632775061200898-guiH",
+      "activity_status": null
+    },
+    {
+      "title": "Projeto, fabricação e montagem Front Light Vetter Empreendimentos #BalneárioPiçarras",
+      "link": "https://www.linkedin.com/posts/gustavo-schorr-guarienti-51696b47_balneáriopiçarras-activity-6802305319780265984-KSxR",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-08T00:00:00Z"
+  }
+}

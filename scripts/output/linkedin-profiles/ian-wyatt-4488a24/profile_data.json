@@ -1,0 +1,505 @@
+{
+  "public_identifier": "ian-wyatt-4488a24",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b8fc403ee8079a1087edaebf98429fb2",
+  "background_cover_image_url": null,
+  "first_name": "Ian",
+  "last_name": "Wyatt",
+  "full_name": "Ian Wyatt",
+  "follower_count": 76,
+  "occupation": "Chief Information Officer at Route Research Ltd.",
+  "headline": "Chief Information Officer at Route Research Ltd.",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Route Research Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/route-research",
+      "company_facebook_profile_url": null,
+      "title": "Chief Information Officer",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b6ce4d6a8ce660e8ee5b6c9209e2026c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "Route Research Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Information Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2013
+      },
+      "company": "POSTAR Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Information Manager and Analyst",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Alliance Manchester Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/alliancembs",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9a85680c79d4453f25ff0667b7fa5ce5",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": null,
+      "degree_name": "Mathematics",
+      "school": "The University of Manchester",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-manchester",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8623fb0dbde3d889c4ccd665299bdcb1",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Python for Data Science",
+      "license_number": null,
+      "display_source": null,
+      "authority": "JELLYFISH TRAINING LIMITED",
+      "url": null
+    }
+  ],
+  "connections": 68,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/robertcameron1",
+      "name": "Robert Cameron",
+      "summary": "Associate Director at PwC UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vered-kleinberger-veredesigns",
+      "name": "Vered K.",
+      "summary": null,
+      "location": "Atlanta metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karwan-al-doskee",
+      "name": "کاروان الدوسکي",
+      "summary": "Ph.D. in Information Systems; Faculty Member.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pyarasani459b7723",
+      "name": "Hemachander Pyarasani",
+      "summary": "Software Developer",
+      "location": "Ilford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherinejpage",
+      "name": "Katherine Page",
+      "summary": "Client Director at eg+ worldwide",
+      "location": "Witley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timlumb",
+      "name": "Tim Lumb",
+      "summary": "I lead Outsmart, the UK’s Out of Home Advertising Trade Association.",
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanma-ss",
+      "name": "Juan Maria Sanchez",
+      "summary": "CTO at Esprit Digital Interactive",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisdoughty15",
+      "name": "Chris Doughty",
+      "summary": "Consultant at The Berkeley Partnership",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karwan-al-dosakee",
+      "name": "کاروان الدوسکي",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anushimoore",
+      "name": "Anushi Moore",
+      "summary": "Consulting | Innovation | Transformation",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewrobertsmith",
+      "name": "Matt Smith",
+      "summary": "Scaling high-performing, people-centric organisations",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-sherman-180ab332",
+      "name": "Matt Sherman",
+      "summary": "Work Health & Safety Professional",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanne-grant-cdir-fiod-a643221a",
+      "name": "Joanne Grant CDir FIoD",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/crystal-g-2b092876",
+      "name": "Crystal G.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eoin-f",
+      "name": "Eoin Fennessy",
+      "summary": null,
+      "location": "Waterford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-%25C3%25B6g%25C3%25BCt-72408b108",
+      "name": "Ali Ögüt",
+      "summary": "Project Manager bei BRG Building Solutions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-brown-894376220",
+      "name": "John Brown",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulheimann",
+      "name": "Paul Heimann",
+      "summary": "Product Management | Process Improvement | UI/UX",
+      "location": "Fort Wayne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-smith-0936189",
+      "name": "Catherine Smith",
+      "summary": "Information Manager at RTC North",
+      "location": "Sunderland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anju-hirani-66165221",
+      "name": "Anju Hirani",
+      "summary": "Principal Program Manager- Cloud Operations & Innovation",
+      "location": "Redmond"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-neve-44870922",
+      "name": "Jessica Neve",
+      "summary": "COO at Snugbums",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasuharu-okamoto-16687123",
+      "name": "Yasuharu Okamoto",
+      "summary": "Founder and CEO at Directus Inc.",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/srikumar-ramanathan-a161b824",
+      "name": "Srikumar Ramanathan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-edwards-1a224626",
+      "name": "Ben Edwards",
+      "summary": "Creative Designer at Kinetic Worldwide",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-chong-00215927",
+      "name": "Allan Chong",
+      "summary": "Global AI Lead | Data & Analytics | GenAI SME | Consultant | Leader",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nylundjan",
+      "name": "Jan Nylund",
+      "summary": "Data Monetization I Heavyweight Analytics I Commercial Excellence",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/keith-roberts-bb071931",
+      "name": "Keith Roberts",
+      "summary": "Director at St Austell Bell Foundry",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joy-wang-b2030736",
+      "name": "Joy Wang",
+      "summary": "Transformation Leadership | Change Enablement",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-cheung-23883240",
+      "name": "Jason Cheung",
+      "summary": "Information Manager at NHS Brighton and Hove Clinical Commissioning Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-bennett-07876444",
+      "name": "Alice Bennett",
+      "summary": "Senior Manager at Deloitte",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shane-fortune-24b59350",
+      "name": "Shane Fortune",
+      "summary": "Senior Marketing Executive at JCDecaux Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/keith-roberts-a0a88350",
+      "name": "Keith Roberts",
+      "summary": "Owner - Two Columbia Road",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roderick-dewar-b55ab354",
+      "name": "Roderick Dewar",
+      "summary": "Developer at Squiz",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathryn-renshaw-b8aa9a5a",
+      "name": "Kathryn Renshaw",
+      "summary": "Director - Major Programmes at Deloitte",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-dau-40951565",
+      "name": "Jennifer Dau",
+      "summary": "In Karenz",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-williams-6a440775",
+      "name": "Colin Williams",
+      "summary": "Empowering organisations in delivering business outcomes with the latest in AI & Data technology | Baringa AI & Data",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vince-major-08963883",
+      "name": "Vince Major",
+      "summary": null,
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-garrard-1437b789",
+      "name": "Katie Garrard",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-illingworth-264abb92",
+      "name": "James Illingworth",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinne-browne-marke-38b485a6",
+      "name": "Corinne Browne-Marke",
+      "summary": "Management Consultant at The Berkeley Partnership",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-wadsworth-069b08b0",
+      "name": "James Wadsworth",
+      "summary": "Commercial Design Manager at Global",
+      "location": "Watford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-jolliffe-779071105",
+      "name": "Sean Jolliffe",
+      "summary": "Experience Design, Donor Engagement Strategy & Marketing Analytics",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-bayer-b4819914a",
+      "name": "Sandra Bayer",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-carter-957592159",
+      "name": "Sam Carter",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-minnesota-261151169",
+      "name": "Stephen Minnesota",
+      "summary": "Business Development Executive Research & Reviews in Cardiology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-adamson-8401b11b2",
+      "name": "Peter Adamson",
+      "summary": "Senior Residential Support Worker at New Horizons North West",
+      "location": "Banks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wioleta-lapinska-4a829220b",
+      "name": "Wioleta Lapinska",
+      "summary": "Team Supervisor at Insights by Kantar",
+      "location": "Bilston"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Ian Wyatt",
+      "link": "https://ca.linkedin.com/in/ian-wyatt-b363",
+      "summary": null,
+      "location": "Ottawa, ON"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://www.linkedin.com/in/ianwyatt",
+      "summary": "President & Publisher at Wyatt Investment Research",
+      "location": "Richmond, VT"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-05656910",
+      "summary": "Specification Team at Taylor Maxwell",
+      "location": "Leatherhead"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://www.linkedin.com/in/ian-wyatt",
+      "summary": "Director Enterprise Solutions at FieldCore",
+      "location": "Atlanta Metropolitan Area"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://www.linkedin.com/in/ian-wyatt-a6792b12",
+      "summary": "Vice President/Economist--Commercial Portfolio Strategy and Analytics",
+      "location": "Charlotte, NC"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-88473830",
+      "summary": "Senior Associate at Goldman Sachs",
+      "location": "London"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-4474526b",
+      "summary": "Subject Matter Expert - Dynamic Process Simulation",
+      "location": "Headley"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-4680b216",
+      "summary": "Finance Director, Business Change Consultant, Advisor & Non Exec Director",
+      "location": "London"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-753913160",
+      "summary": "Operations & Logistics Manager at WX Brands",
+      "location": "London"
+    },
+    {
+      "name": "Ian Wyatt",
+      "link": "https://uk.linkedin.com/in/ian-wyatt-31001254",
+      "summary": "Director of Business Customer Services at Dŵr Cymru Welsh Water",
+      "location": "Greater Cardiff Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-27T00:00:00Z"
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "public_identifier": "henrietta-shakespeare",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4D16AQF0EPsHKP9NBw/profile-displaybackgroundimage-shrink_200_800/B4DZwkrRiWJ0AU-/0/1770141852874?e=2147483647&v=beta&t=mmwvr-582RcjWe_gieP3LSIJwP-V4hGcsh-DEnHYGd0",
+  "first_name": "Henrietta",
+  "last_name": "Shakespeare",
+  "full_name": "Henrietta Shakespeare",
+  "follower_count": 3369,
+  "occupation": "Chief of Staff at Multiply Media Group",
+  "headline": "Chief Of Staff",
+  "summary": "My focus is on driving strategic growth and operational excellence, leveraging over two decades of experience in business development and outdoor advertising. My expertise in project management and commercial planning has been instrumental in launching profitable full-service consultancy practices and with a steadfast commitment to change management, I am dedicated to delivering sustainable value and transformative results.",
+  "location_str": "Abu Dhabi Emirate, United Arab Emirates",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Abu Dhabi",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Multiply Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mmg-global",
+      "company_facebook_profile_url": null,
+      "title": "Chief of Staff",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f9708b5f540b8eb43e33ffa3eee01a5b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "IAB MENA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/iabmena",
+      "company_facebook_profile_url": null,
+      "title": "IAB MENA Board Member",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6e27c1da7823bf779aab387f8049bd95"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2024
+      },
+      "company": "Viola Communications",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viola-communications",
+      "company_facebook_profile_url": null,
+      "title": "Executive Growth & Operations Director",
+      "description": null,
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a6d9885dd9a939a95b9a92b9680ebb01"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2024
+      },
+      "company": "Viola Communications",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viola-communications",
+      "company_facebook_profile_url": null,
+      "title": "Executive Growth Director",
+      "description": null,
+      "location": "Abu Dhabi, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a6d9885dd9a939a95b9a92b9680ebb01"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "SQREEM Technologies",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sqreem-technologies",
+      "company_facebook_profile_url": null,
+      "title": "Global VP Sales",
+      "description": null,
+      "location": "Singapore",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/779ec74fa38a689cdd15eca7954d6ff2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "Clear Channel Europe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clearchanneleurope",
+      "company_facebook_profile_url": null,
+      "title": "Head of MENA & Asia Partnerships",
+      "description": "Managing direct relationships with key stakeholders in the OOH planning & buying chain, with principal focus on most important global brands and advertisers within the MENA and Asia regions.",
+      "location": "Singapore",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/37056c97af1ad0d3b823635c5acb6aa4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Bauer Media Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Head of MENA",
+      "description": "Providing turn-key consultancy services to clients in the MENA region, including existing OOH entities and local government/municipalities. Management of P&L, tender and team coordination. Main projects in; UAE, KSA, Bahrain, Jordan, Qatar, Oman, Syria, Egypt, Morocco, Algeria, Tunisia.",
+      "location": "London, England Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "Atkins",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/atkins",
+      "company_facebook_profile_url": null,
+      "title": "Marketing & Communications Manager",
+      "description": "From regional HQ Dubai, responsible for the management of local MarComms team, servicing the branch offices in Abu Dhabi, Bahrain, Doha, Kuwait and Oman.",
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7c08b012d19b8a108929bf7ea9b25e59"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Client Services Manager",
+      "description": "Responsible for the Financial Services, Luxury & Fashion and Telecoms accounts.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Impact Média",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/impact-m%C3%A9dia",
+      "company_facebook_profile_url": null,
+      "title": "Project and Feature Coordinator",
+      "description": "Full-time assignments in Greece, Mauritania, Ivory Coast, Tanzania, Ghana, Lithuania, Estonia, Slovenia, Poland and Barbados, International advertising sales/editorial development for ‘The Times’ and the ‘Washington Post’.  Face to face presentations/negotiations with Royalty, Presidents, PMs, Ministers, Ambassadors and bank/industry CEO’s.",
+      "location": "Overseas",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7769845f592d8d3aa9f8a5d31f35b217"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": null,
+      "school": "Stanford University Graduate School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/stanford-graduate-school-of-business",
+      "school_facebook_profile_url": null,
+      "description": "Scale Up Executive Programme",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a75c54235c006c0218fbe8feb1867d90",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Biochemistry",
+      "degree_name": "Bachelor of Science (B.Sc.)",
+      "school": "University of Bristol",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-bristol",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e5578cf38fe997a98b5574397ee867fb",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": null,
+      "degree_name": "A Levels",
+      "school": "Benenden School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/benenden-school",
+      "school_facebook_profile_url": null,
+      "description": "Primary Education Scotland, USA, Mexico ",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/64df4a4d1d4f05a9f7179eae337a43ea",
+      "grade": "Awarded Academic Scholarship",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "French",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "org_name": "ARLA",
+      "title": null,
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Academic Scholarship",
+      "issuer": "Benenden School",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 1995
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "DOOH 101",
+      "number": null
+    },
+    {
+      "name": "The Landmark Forum",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "ACE team",
+      "cause": "Health",
+      "company": "Breast Cancer Foundation",
+      "company_linkedin_profile_url": "https://sg.linkedin.com/company/breast-cancer-foundation",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C4D0BAQGTOcyhUQ6a_A/company-logo_100_100/company-logo_100_100/0/1631329299575?e=2147483647&v=beta&t=257091LLtMsYcSZeHr3dM-xATmB2Vu_4u0i9l6SFTv4"
+    }
+  ],
+  "certifications": [],
+  "connections": 3332,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/richardnotmanwatt",
+      "name": "Richard Notman-watt",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bvine",
+      "name": "Ben Vine",
+      "summary": "Vice President Sales APAC and Africa at SES Satellites",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesekfowler",
+      "name": "James Fowler",
+      "summary": "Regional Product Lead, APAC at Google",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joannachua",
+      "name": "Joanna Chua",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michellebei",
+      "name": "Michelle Bei",
+      "summary": "Enterprise Account Executive at HubSpot",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kjlim19",
+      "name": "Ke Jin Lim",
+      "summary": "Director, JAPAC Business Development, HubSpot",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/azreenasuleiman",
+      "name": "Azreena Suleiman",
+      "summary": "Sr. Account Director | Counsellor (M. Couns.)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabrina-tan-56167332",
+      "name": "Sabrina Tan .",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephine-tan-8815a45",
+      "name": "Josephine Tan",
+      "summary": "As long as it works :)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-campbell-206b166",
+      "name": "Caroline Campbell",
+      "summary": "Founder at Campbell Pacific Media & Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-wong-826ab17",
+      "name": "Jack Wong",
+      "summary": "VP, Media Sales at EVVO Labs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/srbarnett",
+      "name": "Simon Barnett",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-bay-6554719",
+      "name": "Jane Bay",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivan-wong-35115b14",
+      "name": "Ivan Wong",
+      "summary": "Business and Commercial Leader | Investing for Impact | Serving the Community",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lesleyannchai",
+      "name": "Lesley Ann Chai",
+      "summary": "Charter Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/glenda-long-997b1316",
+      "name": "Glenda Long",
+      "summary": "Results-driven Sales Leader | Marketing Professional | APAC |  Driving Business Growth Through Strategic Partnerships",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydia-lee-65singapore",
+      "name": "Lydia Lee",
+      "summary": "JCDecaux |  Leader in (D)OOH Advertising, Programmatic DOOH, Data & Solutions.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohit-potphode",
+      "name": "Rohit Potphode",
+      "summary": "Managing Partner - Sports, Gaming, Esports & Live Experiences, Dentsu | Ex-IMG, Ex-Disney, Ex-Viacom, Ex-Star, Ex-Times",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katiemarsden",
+      "name": "Katie Marsden",
+      "summary": "Marketing Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alson-teo-3a55a450",
+      "name": "Alson Teo",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "ADNOC Distribution has announced its financial results for 2024, achieving its highest-ever Earnings Before Interest, Taxes, Depreciation, and…",
+      "link": "https://www.linkedin.com/posts/adnoc-distribution-has-announced-its-financial-activity-7295003899118166016-35hm",
+      "activity_status": null
+    },
+    {
+      "title": "Glad to be back with actual data about the Dooh growth worldwide and to see the World Out of Home Organization president Tom Goddard. Thank you Anna…",
+      "link": "https://www.linkedin.com/posts/samar-abou-farah-95348926_glad-to-be-back-with-actual-data-about-the-activity-7296792051617075200-2ccm",
+      "activity_status": null
+    },
+    {
+      "title": "Ten years at Elevision—what an achievement! A huge congratulations to @Muhammed shafeek on reaching this incredible milestone. As our IT Network…",
+      "link": "https://www.linkedin.com/posts/niall-sallam_digitaloutofhome-10years-teamelevision-activity-7296783367021150208-B54g",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to tomorrows session at the GCC OOH summit, with a great panel to discuss DOOH & Retail Media. With Retail Media Network…",
+      "link": "https://www.linkedin.com/posts/charlotte-davis-20528344_retailmedia-precisionmedia-customerfirst-activity-7295518134738862082-n824",
+      "activity_status": null
+    },
+    {
+      "title": "ADNOC Distribution's record-breaking performance in 2024, with an EBITDA of $1.05 billion, is testament to our commitment to innovation that allows…",
+      "link": "https://www.linkedin.com/posts/saeed-al-ahbabi-2b7535190_adnocdistribution-digitaltransformation-activity-7295042395388174336-aX22",
+      "activity_status": null
+    },
+    {
+      "title": "What an enlightening journey at the GCC OOH Summit 2025! As a Gold Sponsor, Hills Advertising was honored to partake in shaping the future of outdoor…",
+      "link": "https://www.linkedin.com/posts/hillsadvertisingllc_hillsadvertising-gccoohsummit2025-oohsuccess-activity-7296470718425255936-Xtl4",
+      "activity_status": null
+    },
+    {
+      "title": "▰ Hermès & 𝗧𝗛𝗘 𝗣𝗢𝗪𝗘𝗥 𝗢𝗙 WINDOW 𝗗𝗜𝗦𝗣𝗟𝗔𝗬𝗦!!! Happy Valentines 💝 Where He-Art Meets Retail 🎨✨ A Hermès storefront always…",
+      "link": "https://www.linkedin.com/posts/amar-a-2560352_digitaltransform-hermes-storytelling-activity-7296197262592929794-5ayd",
+      "activity_status": null
+    },
+    {
+      "title": "Crunchy, yummy, unmissable. 🍬 Piccadilly Lights just got seriously sweet. Nerds latest DeepScreen® campaign - brought to life by our Ocean Studio…",
+      "link": "https://www.linkedin.com/posts/ocean-outdoor_theartofoutdoor-nerds-activity-7293283301308452866-YBRL",
+      "activity_status": null
+    },
+    {
+      "title": "ADNOC Distribution's operational excellence has been a key driver of our record-breaking performance in 2024, where we achieved an EBITDA of $1.05…",
+      "link": "https://www.linkedin.com/posts/adnoc-distribution_adnocdistribution-operationalexcellence-activity-7296165299710521345-glmr",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks the UK launch of Uber's 'When You've Done Enough' new brand platform! With placements live across all channels, it's a fantastic and…",
+      "link": "https://www.linkedin.com/posts/eloicasali_today-marks-the-uk-launch-of-ubers-when-activity-7292288014225924096-E1c5",
+      "activity_status": null
+    },
+    {
+      "title": "Final day at Integrated Systems Europe (ISE)! It’s been an incredible few days at Hall 4 K330, showcasing how Quividi’s AI & Computer Vision bring…",
+      "link": "https://www.linkedin.com/posts/quividi_digitalsignage-retailmedia-dooh-activity-7293559428287492096-IRiX",
+      "activity_status": null
+    },
+    {
+      "title": "We are happy to welcome Moe as our new Commercial Director at Playdooh! With 18 years of experience in media, he brings a deep understanding of…",
+      "link": "https://www.linkedin.com/posts/sufyan-siddiqui-79454119_digitaloutofhome-dooh-advertising-activity-7296172054964297728-UIwb",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Married at First Site! 🌟 Love is in the air this #ValentinesDay here at Clear Channel, with lots of couples and families making up our…",
+      "link": "https://www.linkedin.com/posts/clear-channel-uk_valentinesday-peoplebehindtheposters-marriedatfirstsight-activity-7296094611465228288-xfsK",
+      "activity_status": null
+    },
+    {
+      "title": "Rasha Rteil, Dr.Hoda Daou, PhD  and Elie Bachaalani  took the stage at the GCC OOH Summit yesterday , sharing valuable insights on the future of…",
+      "link": "https://www.linkedin.com/posts/omnicom_media_group_gccoohsummit-oohstrategy-businessimpact-activity-7296132992521924609-f7iP",
+      "activity_status": null
+    },
+    {
+      "title": "Big news! Our MD, Richard Bon is on Campaign UK's A List for 2025! 🎉 This exclusive list celebrates the brightest leaders in adland - a must-read…",
+      "link": "https://www.linkedin.com/posts/clear-channel-uk_industryleaders-advertising-platformforbrands-activity-7296152744153759744-Eq_X",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to our Surf Ambassador for Nusa Caña Rum, Rio Waida, for advancing to the Round of 16 at the WSL Championship Tour in Abu Dhabi!…",
+      "link": "https://www.linkedin.com/posts/marc-rodrigues-8495b7139_congratulations-to-our-surf-ambassador-for-activity-7296160323600867329-5KD1",
+      "activity_status": null
+    },
+    {
+      "title": "In this episode of the Multipliers Podcast, we explore the shifting landscape of global power in 2025, as nations navigate de-risking, trade wars…",
+      "link": "https://www.linkedin.com/posts/multiplygroupae_multiplygroup-multipliers-geoeconomics-activity-7296141984497336320-T6jw",
+      "activity_status": null
+    },
+    {
+      "title": "What a day at the GCC OOH Summit! 🚀 A packed room, industry leaders, and some serious insights flying around! Our COO Eamon Sallam took the stage…",
+      "link": "https://www.linkedin.com/posts/elevision-media_what-a-day-at-the-gcc-ooh-summit-a-packed-activity-7296109799815983105-WLSp",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Mother's Day for all ❤️ #mothersday #blessings #family Lucid Dreams 🌟✨",
+      "link": "https://www.linkedin.com/posts/ramitawil_mothersday-blessings-family-activity-7308809533097701377-hDVS",
+      "activity_status": null
+    },
+    {
+      "title": "As we launched Precision Media, the retail media network powered by Majid Al Futtaim, we partnered with Arla to leverage our rich customer database…",
+      "link": "https://www.linkedin.com/posts/charlotte-davis-20528344_datadrivenmarketing-retailmedia-liveramp-activity-7308775759806980098-la-7",
+      "activity_status": null
+    },
+    {
+      "title": "This Mother’s Day, we asked mothers a meaningful question: What is the most rewarding part of motherhood? Their thoughtful responses highlight the…",
+      "link": "https://www.linkedin.com/posts/viola-communications_violacommunications-mothersday-uae-activity-7308755563956346880-lwVG",
+      "activity_status": null
+    },
+    {
+      "title": "What makes a company exceptional? For us, it’s not just our prime locations or data-driven innovations—it’s the people behind it all. Every success…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_backlitemedia-violamedia-dooh-activity-7308754444869865473-XTp9",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating 20 Years of Making Brands Stand Out 🎉 For two decades, Media 247 has been shaping the skyline of Dubai, turning brands into landmarks…",
+      "link": "https://www.linkedin.com/posts/media247ae_media247-20yearsofvisibility-anniversary-activity-7308541709573877761-VcQa",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Podcast Alert! 🚨 Our very own Lindsay Rapacchi, Research & Insight Director, and Colin Horan, Strategic Partner, FMCG, recently sat down with…",
+      "link": "https://www.linkedin.com/posts/clear-channel-uk_ooh-ooh-fmcg-activity-7308494825513713664-uiAG",
+      "activity_status": null
+    },
+    {
+      "title": "When our EYFS teacher, Ms. Rebecca, volunteered with a charity supporting refugee children in Indonesia, she met Maneli, a young artist with a…",
+      "link": "https://www.linkedin.com/posts/nord-anglia-international-school-abu-dhabi_arefugecalledhome-educationforall-nasabudhabi-activity-7308148025330225153-ntR9",
+      "activity_status": null
+    },
+    {
+      "title": "In his annual shareholder letter, our Chairman, Syed Basar Shueb, highlights Multiply Group’s continued momentum, with revenues surpassing AED 2…",
+      "link": "https://www.linkedin.com/posts/multiplygroupae_multiplygroup-annualreport-investorupdate-activity-7308414515610566657-R6yW",
+      "activity_status": null
+    },
+    {
+      "title": "Enjoying a beautiful Ramadan evening;  the Ramadan Diplomatic Majlis, hosted by one of my favorite clients, Anwar Gargash Diplomatic Academy (AGDA)…",
+      "link": "https://www.linkedin.com/posts/talaat_ramadanmajlis-uae-abudhabi-activity-7308179206440382465-cKLD",
+      "activity_status": null
+    },
+    {
+      "title": "Retail Media: Gold mine or Hype? At Mumbrella's Retail Marketing Summit this week, Cat McGinn led a dynamic discussion on \"pitfalls & power moves of…",
+      "link": "https://www.linkedin.com/posts/rroques_retailmedia-advertising-marketinginnovation-activity-7308369685308157952-VrUY",
+      "activity_status": null
+    },
+    {
+      "title": "Amanda Dorenberg, CEO of ArtsHouse Media Group, highlights the transformative impact of technology on digital out-of-home (DOOH) advertising…",
+      "link": "https://www.linkedin.com/posts/digiscoop-news_stopmindlessscrolling-just2minsondigiscoop-activity-7307377737558552576-R_7z",
+      "activity_status": null
+    },
+    {
+      "title": "Hand painted advertising in Paris… we got this",
+      "link": "https://www.linkedin.com/posts/sam-berry-97917489_hand-painted-advertising-in-paris-we-got-activity-7308036191264665601-e5Ca",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I cried on a call Not because of a tough investor conversation But because someone was genuinely kind to me After months of relentless…",
+      "link": "https://www.linkedin.com/posts/jasschembri_last-week-i-cried-on-a-call-not-because-activity-7307740118436499457-XNiD",
+      "activity_status": null
+    },
+    {
+      "title": "International Women’s Day 2025: Accelerate Action in Corporate Culture. In partnership with Gowling WLG and HBS Club of the GCC . Thank you to…",
+      "link": "https://www.linkedin.com/posts/capitalclubdubai_international-womens-day-2025-accelerate-activity-7307809788556406784-9bPT",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization London is going to be spectacular, and I’m really looking forward to seeing lots of familiar faces from across the…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_mmg-multiplymediagroup-activity-7463259856087482368-BBrS",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to connecting at Make It In The Emirates 2026! 🇦🇪 Join us May 4-7 at ADNEC Centre, Hall 5, IHC Pavilion to explore how Multiply…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_makeitintheemirates-miite2026-activity-7456267046310309888-_kOE",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to contributing to the IAB MENA Growth Series webinar tomorrow, joining a panel to discuss the state of the pDOOH ecosystem across…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_looking-forward-to-contributing-to-the-iab-activity-7449439757316542464-gj5B",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to contributing to the conversation on integrating pDOOH into the omnichannel media ecosystem as a real performance driver at the…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_looking-forward-to-contributing-to-the-conversation-activity-7444985482196840448-U95-",
+      "activity_status": null
+    },
+    {
+      "title": "Pleased to have completed IAB Europe’s Retail Media Certification - a key step in strengthening our ambitions and empowering our Group in the RMN…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_pleased-to-have-completed-iab-europes-retail-activity-7442517312253087745-V5vK",
+      "activity_status": null
+    },
+    {
+      "title": "Great experience today at a packed Saudi Media Forum 2026 – “Media in a Shaping World”. The tech and AI providers at FOMEX were a highlight, with…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_great-experience-today-at-a-packed-saudi-activity-7424129146135441409-YNKT",
+      "activity_status": null
+    },
+    {
+      "title": "A milestone moment for MMG's continued growth and ambition on the global stage. Very proud to support this expansion and strengthen our international…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_backliteuk-multiplymediagroup-desirablebytomorrow-activity-7399466609632903168-UnZ7",
+      "activity_status": null
+    },
+    {
+      "title": "Just returned from DPAA NYC - what a gathering of such interesting catch ups and friendly faces. Thank you Barry Frey for the brilliant organization…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_just-returned-from-dpaa-nyc-what-a-gathering-activity-7384879580538384384-k3Lz",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to representing Multiply Media Group at the World Out of Home Organization Forum in Seoul and connecting with industry peers to…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_mmg-exponentialpotential-retailmedia-activity-7389955063370354688-47St",
+      "activity_status": null
+    },
+    {
+      "title": "Great to have attended IBO - Independent Billboard Operators Atlanta - an insightful few days with meaningful discussions and connections, thank you…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_great-to-have-attended-ibo-independent-activity-7386631507047755776-QJrf",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to a couple of days with the US OOH community. #multiplymediagroup",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_multiplymediagroup-activity-7381659044958060544-taEH",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to be speaking at the IBO Fall Conference, taking place October 7–10 in Atlanta, GA. I’ll be sharing global insights on the role of…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_ibofall25-outofhome-oohmedia-activity-7373261253462437888-LDay",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to have been the editor of Spotlite 3.0 — the third chapter of the series and my first contribution. A particularly special edition, marking…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_honoured-to-have-been-the-editor-of-spotlite-activity-7348411587344400384-ecel",
+      "activity_status": null
+    },
+    {
+      "title": "Retail Media is gaining serious traction in MENA. Today’s IAB MENA regroup highlighted that our region now ranks 5th globally in digital ad spend -…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_retailmedia-iabmena-activity-7338852118319001600-WhwK",
+      "activity_status": null
+    },
+    {
+      "title": "MMG’s launch reflects what’s possible when vision, strategy, and innovation come together. Very proud of the team behind this moment, and excited for…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_mmgglobal-multiplymediagroup-exponentialpotential-activity-7336457331934740480-uUpw",
+      "activity_status": null
+    },
+    {
+      "title": "After the second major AI event in almost as many months, it feels clear that the UAE is putting AI at the core of its national agenda, with a push…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_after-the-second-major-ai-event-in-almost-activity-7321212333370818561-2a6K",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to the BackLite Media team on this incredible achievement. The Oryx really does represent a new era in DOOH, setting the highest…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_congratulations-to-the-backlite-media-team-activity-7304768156198166528-JPG9",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news on the horizon. Stay tuned for the upcoming reveal...",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_exciting-news-on-the-horizon-stay-tuned-activity-7300064540791087104-qra1",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to attending AI Everything Global, as we continue to scale our AI-powered initiatives across the group, this event is a great…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_aieverythingglobal-activity-7289543072911151105-zU_G",
+      "activity_status": null
+    },
+    {
+      "title": "Love to see Abu Dhabi mentioned here - huge potential for exponential growth!",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_love-to-see-abu-dhabi-mentioned-here-huge-activity-7283044267088896000-DyDk",
+      "activity_status": null
+    },
+    {
+      "title": "Spanning the Emirates with our Skylight Bridge Banner Network #UAEOOH",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_viola-outdoor-announces-first-pan-emirate-activity-7188403502920957953-Uk99",
+      "activity_status": null
+    },
+    {
+      "title": "It was a huge pleasure to be back in APAC to take part in such a hard-worked, planned and focused congress, that gave us all so much to take-away and…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_it-was-a-huge-pleasure-to-be-back-in-apac-activity-7204804034568818688-t6J5",
+      "activity_status": null
+    },
+    {
+      "title": "Exploring how programmatic technology is driving efficiency in OOH @WOO2024, ready to integrate these cutting-edge solutions into our campaigns.…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_programmaticefficiency-ooh2024-activity-7204393571620208641-Y-zM",
+      "activity_status": null
+    },
+    {
+      "title": "An exciting new development for Viola Outdoor!",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_an-exciting-new-development-for-viola-outdoor-activity-7188133668060598273-y3u3",
+      "activity_status": null
+    },
+    {
+      "title": "I am excited by the announcement of this long-term alliance, which gives us the opportunity to invest in the very latest tech innovations and…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_i-am-excited-by-the-announcement-of-this-activity-7171038458881277952-Im_x",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing all our friends and partners a very happy end to the year and much success and growth for the year ahead.",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_wishing-all-our-friends-and-partners-a-very-activity-7146532530882600960-s-oX",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Henrietta Shakespeare",
+      "link": "https://ae.linkedin.com/in/henrietta-shakespeare-8953a6355",
+      "summary": "Chief of Staff at BackLite Media",
+      "location": "Abu Dhabi"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The OOH Digital Revolution",
+      "link": "https://www.linkedin.com/pulse/digital-ooh-revolution-henrietta-shakespeare",
+      "published_date": {
+        "day": 5,
+        "month": 10,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:55:26Z"
+  }
+}

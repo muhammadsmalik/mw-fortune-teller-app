@@ -1,0 +1,799 @@
+{
+  "public_identifier": "jani-lepisto",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c6829431bbde4406c5db3712806fdb05",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4D16AQHBtnjUUwAtPg/profile-displaybackgroundimage-shrink_200_800/B4DZeDVjgSGsAY-/0/1750255158290?e=2147483647&v=beta&t=r4_7ARmXcq07b84RbsYhNMncXw7_Z4x-Yac-uNSAXh0",
+  "first_name": "Jani",
+  "last_name": "Lepistö",
+  "full_name": "Jani Lepistö",
+  "follower_count": 1802,
+  "occupation": "CEO at Outshine",
+  "headline": "CEO at Outshine",
+  "summary": "I’m the founder and CEO of Outshine, one of Finland’s fastest-growing digital out-of-home (DOOH) companies. What started as a one-person venture in my kitchen has grown into a nationwide network of premium digital screens and a scalable tech-driven business model. In 2024, our revenue grew by 56% to nearly €5 million, with strong profitability to match.\n\nAt Outshine, we combine cutting-edge media inventory with proprietary self-service tools that make launching a DOOH campaign as easy as a few clicks. We believe in digital innovation, simplicity, and helping brands shine in the physical world—visibly and effectively.\n\nWith over 10 years of experience in DOOH and leadership, I’m a hands-on entrepreneur who enjoys building from the ground up. I lead with curiosity, ambition, and the belief that great things happen when you stay humble, act fast, and never stop learning.",
+  "location_str": "Helsinki, Uusimaa, Finland",
+  "country": "FI",
+  "country_full_name": "Finland",
+  "city": "Helsinki",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Outshine",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outshineadvertising",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Helsinki Area, Finland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ccdafc535a8d3cebd33568c268cde9f7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "ViWell Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viwell",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9b135822f5ae7e23c9b7899250229cb2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "ViWell",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viwell",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director & Partner",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9b135822f5ae7e23c9b7899250229cb2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "ViWell",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viwell",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager & Partner",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9b135822f5ae7e23c9b7899250229cb2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "company": "ViWell",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viwell",
+      "company_facebook_profile_url": null,
+      "title": "Sales Representative",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9b135822f5ae7e23c9b7899250229cb2"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2027
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Henley Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/henley-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7fac0f920fb595dc68818341a9cf286e",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    },
+    {
+      "name": "Finnish",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/vitlin",
+      "name": "Vitali Lindstedt",
+      "summary": "Client Success Manager and Partner at Outshine",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/santeri-taavitsainen",
+      "name": "Santeri Taavitsainen",
+      "summary": "Accounting specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aapokoro",
+      "name": "Aapo Koro",
+      "summary": "Chief Development Officer and Partner at Outshine",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaspertanninen",
+      "name": "Kasper Tanninen",
+      "summary": "Key Account Manager and Partner at Outshine",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annihakala",
+      "name": "Anni Hakala",
+      "summary": "Promotions Planner at Oda Finland",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miiasaarinen",
+      "name": "Miia Saarinen",
+      "summary": "Senior Digital Planner at Dagmar",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timohakkarainen",
+      "name": "Timo Hakkarainen",
+      "summary": "Co-Founder @ BOLT.works | Member of the board EK | Chair @ HELA (Henkilöstöala)",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taneli-hulkko",
+      "name": "Taneli Hulkko",
+      "summary": "Founder & CEO @ Rahoo | Connecting banks and customers with seamless embedded finance solutions",
+      "location": "Turku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikatreuthardt",
+      "name": "Mika Treuthardt",
+      "summary": "Vakuutusedustaja, Pohjantähti ▪️ Yrittäjä ▪️Kestävyys- ja seikkailu-urheilija ▪️ Lappi-opas ▪️ +358 44 240 1700 ▪️ mika.treuthardt@pohjantahti.fi ▪️ “Not all who wander are lost” ▪️ #excelsior #k29 🪂",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/toni-marttila",
+      "name": "Toni Marttila",
+      "summary": "Director of Business Development, Digital Health Services",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauriharju",
+      "name": "Lauri Harju",
+      "summary": "Director | Customer Solutions | Digital, Data & AI @Loihde",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tuomasrf",
+      "name": "Tuomas Rinta-Filppula",
+      "summary": "Store Manager at COS",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heikki-pennanen11",
+      "name": "Heikki Pennanen",
+      "summary": "Sales Director and Partner at Outshine",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ikonenharri",
+      "name": "Harri Ikonen",
+      "summary": "Account Executive at Databricks",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juhojylha",
+      "name": "Juho Jylhä",
+      "summary": "Client Partner at Sanoma Media Finland /\nProfessionial in marketing and sales focused in customer success. / Helping companies to evaluate their marketing strategies and execute them in media.",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennysaranen",
+      "name": "Jenny Saranen",
+      "summary": "Chief Client Officer | Partner",
+      "location": "Espoo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juhokoro",
+      "name": "Juho Koro",
+      "summary": "BI Developer / Data Manager at JCDecaux",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikko-nyk%25C3%25A3%25C2%25A4nen-47014a14",
+      "name": "Mikko Nykänen",
+      "summary": "Sales Director/Partner at Saarsalo Oy",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ilya-grigoriev-1161592",
+      "name": "Ilya Grigoriev",
+      "summary": null,
+      "location": "Novosibirsk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juhanah%25C3%25A4kkinen",
+      "name": "Juhana Häkkinen",
+      "summary": "Consulting (Sales/Brand/Media/Communication)",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anttitukia",
+      "name": "Antti Tukia",
+      "summary": "Käännejohtaja | CCO | Boosting everyday well-being 🏃‍♂️‍➡️",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ollilehtisalo",
+      "name": "Olli Lehtisalo",
+      "summary": "Sales Director, Nordics @ Leadoo Marketing Technologies // Sydän sykkii myynnille, markkinoinnille ja asiakaskokemuksen kehittämiselle. Ja runoille.",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marko-heikkil%25C3%25A4-6561336",
+      "name": "Marko Heikkilä",
+      "summary": "Sales and marketing Studio Seppä Oy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pasi-nissinen-a3bab29",
+      "name": "Pasi Nissinen",
+      "summary": "Chairman of the Board, CEO, Main owner, ViWell Ltd.",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikko-ala-huikku-b9619b10",
+      "name": "Mikko Ala-Huikku",
+      "summary": "Divisional director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mika-tampio-b4781711",
+      "name": "Mika Tampio",
+      "summary": null,
+      "location": "Tallinn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kari-j-eskelinen",
+      "name": "Kari Eskelinen",
+      "summary": "Sales Director at SATEL Oy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikko-nyk%25C3%25A4nen-47014a14",
+      "name": "Mikko Nykänen",
+      "summary": "Sales Director/Partner at Saarsalo Oy",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-vikman-aa035921",
+      "name": "Paul Vikman",
+      "summary": "Sales Director at Geronimo Events",
+      "location": "Vantaa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarkko-laine-51544426",
+      "name": "Jarkko Laine",
+      "summary": "consultant  director at Eezy Personnel Oy",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anssi-kuivalainen-b9793429",
+      "name": "Anssi Kuivalainen",
+      "summary": "Art Director - UI designer -Motion Graphics designer",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikko-jokela-9583902b",
+      "name": "Mikko Jokela",
+      "summary": null,
+      "location": "Nurmijärvi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lassi-tolonen-74811b30",
+      "name": "Lassi Tolonen",
+      "summary": "CDO Bauer Media Outdoor (ex Clear Channel) Finland & Regional Director East",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramon-vadell-3b6b0039",
+      "name": "Ramon Vadell",
+      "summary": "Media Account Director - Aktiivimedia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/olli-pekka-puputti-08151145",
+      "name": "Olli-Pekka Puputti",
+      "summary": "Sales Director at IDÉ House of Brands Finland",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pasi-kuja-kanto-19771448",
+      "name": "Pasi Kuja-Kanto",
+      "summary": "Brand Manager | Art Director | Freelancer | B2B Sales | Industrial & Graphic Design | Security & Intelligent Camera Surveillance Services",
+      "location": "Turku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juha-tepsa-ab800756",
+      "name": "Juha Tepsa",
+      "summary": "CEO at Proacon Oy",
+      "location": "Rovaniemi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joni-joonas-honkanen-98120657",
+      "name": "Joni-Joonas Honkanen",
+      "summary": null,
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-lindroos-0845a65a",
+      "name": "Tom Lindroos",
+      "summary": "Partner, Managing Director at Suomen Kotikonttori Oy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saaravehoniemi",
+      "name": "Saara Vehoniemi",
+      "summary": "Partner & CEO ﹫Kram: Avaamme ostoikkunoita markkinoinnin keinoin BtoB-asiakkaillemme ‖ host #Yritys ja Erehdys-podcast ‖ Co-Producer #Keikkabussipodi #TyhmäTyöPodi",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jani-hanhikangas-59737383",
+      "name": "Jani Hanhikangas",
+      "summary": "Myyntijohtaja, perustaja Westport Finland oy",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ida-kristine-r%25C3%25B8ed-b5655686",
+      "name": "Ida Kristine Røed",
+      "summary": "Office Assistance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ossi-koponen-27068b86",
+      "name": "Ossi Koponen",
+      "summary": "Finance Specialist at K-Tilipalvelu Oy",
+      "location": "Vantaa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antti-kontiola-75147593",
+      "name": "Antti Kontiola",
+      "summary": "CEO at Photono Oy",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sampsa-s",
+      "name": "Sampsa Suomalainen",
+      "summary": "Country Manager at ShowHeroes Group",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sami-salonen-6a3a3393",
+      "name": "Sami Salonen",
+      "summary": null,
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niklas-ahrnberg-284591b0",
+      "name": "Niklas Ahrnberg",
+      "summary": "Sales Team Manager @ JCDecaux Finland",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarkko-vanamo-b943a9b6",
+      "name": "Jarkko Vanamo",
+      "summary": "Sales Team Leader at Outshine",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mika-liedes-28b24710b",
+      "name": "Mika Liedes",
+      "summary": "Auktorisoitu Isännöitsijä, IAT, HHJ",
+      "location": "Lahti"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nea-savolainen-72b6b4113",
+      "name": "Nea Savolainen",
+      "summary": "Marketing Planner at Restel Oy",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sini-m%25C3%25A4kinen-7528a5130",
+      "name": "Sini Mäkinen",
+      "summary": "Event Manager at Alma Media",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markku-selander-864987131",
+      "name": "Markku Selander",
+      "summary": "Senior Consultant at Precedo Consulting Oy",
+      "location": "Espoo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikko-virtanen-056172134",
+      "name": "Mikko Virtanen",
+      "summary": null,
+      "location": "Kouvola"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joona-valjakka-8720a4136",
+      "name": "Joona Valjakka",
+      "summary": "Controller",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antti-kinnunen-444398143",
+      "name": "Antti Kinnunen",
+      "summary": "Business Director of Digital Signage & Technology at Mediateko Oy",
+      "location": "Kuopio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandro-riccio-704ba7150",
+      "name": "Sandro Riccio",
+      "summary": "O",
+      "location": "Vantaa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eevi-n%25C3%25A4s%25C3%25A4nen-778320159",
+      "name": "Eevi Näsänen",
+      "summary": "Communications Manager | M.Soc.Sc. in Politics and Communication",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arja-vilhu-a1595515b",
+      "name": "Arja Vilhu",
+      "summary": "Talous ja asunnot at Assi Group Oy",
+      "location": "Lappeenranta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cao-hoang-498242161",
+      "name": "Cao Hoang",
+      "summary": "EHFA Certified Personal Trainer",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jari-m%25C3%25A4kinen-ba9710166",
+      "name": "Jari Mäkinen",
+      "summary": "Business Director at Editor Helsinki",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sakari-kuosmanen-608b03170",
+      "name": "sakari Kuosmanen",
+      "summary": "Sales Specialist at KuPS",
+      "location": "Kuopio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leri-leskinen-1b5335172",
+      "name": "Leri Leskinen",
+      "summary": "--",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenny-bod%25C3%25B6-83947a175",
+      "name": "Jenny Bodö",
+      "summary": "Audio Video Senior Specialist WPP Media Finland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jyrki-kokkola-1773ba178",
+      "name": "Jyrki Kokkola",
+      "summary": "Fullstack Developer at Reaktor",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joonas-vuorela-943599188",
+      "name": "Joonas Vuorela",
+      "summary": "Valokuvaus & GFX",
+      "location": "Tampere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joachim-berner-45b320193",
+      "name": "Joachim Berner",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-m%25C3%25A4kynen-97b6a019a",
+      "name": "Kim Mäkynen",
+      "summary": "Mainostoimistomies McYnen | Autodiagnostiikkamies McYnen",
+      "location": "Vaasa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/otto-kanerva-b8a4361b4",
+      "name": "Otto Kanerva",
+      "summary": "Executive Director at Onnellinen mies Oy",
+      "location": "Hämeenlinna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rami-kahlos-58a2571b8",
+      "name": "Rami Kahlos",
+      "summary": "Retail Field Manager at Fresh Sallad & Deli Oy",
+      "location": "Seinäjoki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/razia-afsana-5284b6202",
+      "name": "Razia Afsana",
+      "summary": null,
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-kivel%25C3%25A4-68969a221",
+      "name": "Elena Kivelä",
+      "summary": "Digital Marketing Specialist at Luhta Sportswear company",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "💎 Outshine x Volvo Car Finland case-video kiteyttää onnistuneen yhteistyön upeasti. ✨ Odotettu Volvo EX60- uutuus lanseerattiin näyttävästi…",
+      "link": "https://www.linkedin.com/posts/tommifaldt_outshine-volvo-volvocarfinland-activity-7425457023259111426-oErB",
+      "activity_status": null
+    },
+    {
+      "title": "Volvo EX60 - suoraan kaduilta Outshinen digipinnoille Innovatiivinen brändi vaatii dynaamiset pinnat! Volvo EX60 -sähkökatumaasturi lanseerattiin…",
+      "link": "https://www.linkedin.com/posts/outshineadvertising_volvocarfinland-mediabrandsfinland-initiativefinland-activity-7425425906569121792-0dFw",
+      "activity_status": null
+    },
+    {
+      "title": "Outshinen asiakastyytyväisyys on vahvalla pohjalla Nöyrä kiitos kaikille asiakkaillemme! Syksyllä teettämämme asiakastyytyväisyystutkimuksen mukaan…",
+      "link": "https://www.linkedin.com/posts/outshineadvertising_outshinen-asiakastyytyväisyys-on-vahvalla-activity-7424748849564655616-PZqo",
+      "activity_status": null
+    },
+    {
+      "title": "Kantar Median Mainosvuosi 2025 tapahtuma tarjosi jälleen hyvän näkymän edellisen vuoden mainosmarkkinasta Ulkomainonta voi hyvin, siitä huolimatta…",
+      "link": "https://www.linkedin.com/posts/aapokoro_kantar-median-mainosvuosi-2025-tapahtuma-activity-7423070040478072832-8_vQ",
+      "activity_status": null
+    },
+    {
+      "title": "🎓 A new perspective on leadership and what it takes to lead with purpose across borders and cultures. ✈️ Our Executive MBA students from around the…",
+      "link": "https://www.linkedin.com/posts/henley-business-school_globalmba-henleymba-leadershipdevelopment-activity-7420508729390927872-kfS1",
+      "activity_status": null
+    },
+    {
+      "title": "🤝 One of the most powerful parts of the Executive MBA is the community that forms along the way. Multinational teams, shared challenges and moments…",
+      "link": "https://www.linkedin.com/posts/henley-business-school-nordic_henleybusinessschool-globalmba-mbacommunity-activity-7420459696118984705-JIK3",
+      "activity_status": null
+    },
+    {
+      "title": "Tervetuloa mukaan tekemään kulttuuri-ilmastonmuutosta Outshine 🔥 Ihana saada teidät mukaan jengiin Jani Lepistö ja co. Tehdään tästä mahtava vuosi…",
+      "link": "https://www.linkedin.com/posts/matleena-aarikallio-5221b3b0_tervetuloa-mukaan-tekemään-kulttuuri-ilmastonmuutosta-activity-7420366991569342465-sqRD",
+      "activity_status": null
+    },
+    {
+      "title": "Outshine liittyy #Oulu2026 virallisten yhteistyökumppanien verkostoon ja auttaa tuomaan kulttuurin näkyväksi osaksi kaupunkilaisten jokapäiväistä…",
+      "link": "https://www.linkedin.com/posts/ninataipaleenmaki_oulu2026-activity-7420352263883440129-1jJ_",
+      "activity_status": null
+    },
+    {
+      "title": "💎 Oulussa tapahtuu! ⁉️ Tiesitkö, että Oulu on Euroopan kulttuuripääkaupunki 2026? Outshine on Oulu2026 - European Capital of Culture 2026 kumppani…",
+      "link": "https://www.linkedin.com/posts/tommifaldt_outshine-oulu-oulu2026-activity-7420053679132753920-aD5d",
+      "activity_status": null
+    },
+    {
+      "title": "Outshine on valittu Oulu2026 - European Capital of Culture 2026-kulttuuripääkaupunkivuoden viralliseksi yhteistyökumppaniksi. Yhteistyön myötä…",
+      "link": "https://www.linkedin.com/posts/outshineadvertising_outshine-on-valittu-oulu2026-european-capital-activity-7420039892984004620-_Rgg",
+      "activity_status": null
+    },
+    {
+      "title": "Euroopan kulttuuripääkaupunkivuosi on alkanut ✨✨ Viime viikolla juhlimme vuoden vaihtumista yrityskumppaneiden kanssa hilpeissä tunnelmissa Vuosi…",
+      "link": "https://www.linkedin.com/posts/matleena-aarikallio-5221b3b0_euroopankulttuuripääkaupunki-oulu2026-activity-7415704461936943104-L6X6",
+      "activity_status": null
+    },
+    {
+      "title": "Meillä on synttärit ja sen kunniaksi tuplaamme kampanjasi 🫵💪",
+      "link": "https://www.linkedin.com/posts/sami-ahmavuo-1508783_meillä-on-synttärit-ja-sen-kunniaksi-tuplaamme-activity-7416769261848715265-RQVQ",
+      "activity_status": null
+    },
+    {
+      "title": "Kiitos Outshine-tiimi! Olemme viettäneet tällä viikolla kickoffia Marbellassa, Espanjassa koko firman kanssa. Kiitos koko porukalle heittäytymisestä,…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_kiitos-outshine-tiimi-olemme-viettäneet-activity-7436011755304030208-vLCQ",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Liikevaihto 8,5 M€ (+75 %) Vuonna 2025 Outshine kasvoi kannattavasti Suomen kolmanneksi suurimmaksi ulkomainosyhtiöksi: EBITDA 36 %…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_liikevaihto-85-m-75-vuonna-2025-activity-7436751137451499520-vJ7Z",
+      "activity_status": null
+    },
+    {
+      "title": "Another milestone for Outshine We’ve now secured long-term concessions in Finland’s largest cities: ✅ Helsinki 10+5 years ✅ Oulu 15 years ✅ Espoo 10…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_another-milestone-for-outshine-weve-now-activity-7429440566225948673-WXtp",
+      "activity_status": null
+    },
+    {
+      "title": "Very soon 🚨",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_very-soon-activity-7427411500182425600-6LEz",
+      "activity_status": null
+    },
+    {
+      "title": "2,4 M€ Black Week -myyntiä, iso kiitos kaikille! Outshinen liikevaihto kasvaa tänä vuonna yli 70 %, kannattavasti. Black Week antaa vahvan signaalin…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_24-m-black-week-myyntiä-iso-kiitos-kaikille-activity-7406595365698936832-aRjf",
+      "activity_status": null
+    },
+    {
+      "title": "Creativity & chocolate 💙",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_creativity-chocolate-activity-7397266934758703104-DP95",
+      "activity_status": null
+    },
+    {
+      "title": "October was a beauty🍁 ✅8M€ in revenue surpassed for the first time ever ✅Espoo signed, street-level DOOH dominance in 3/5 big cities ✅Time to DOOH:…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_october-was-a-beauty-8m-in-revenue-activity-7393644468022710272-njs9",
+      "activity_status": null
+    },
+    {
+      "title": "Back to school! 🎓 Last week marked the start of my Executive MBA journey at Henley Business School, with the first workshop held at the wonderful…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_back-to-school-last-week-marked-the-activity-7380960714888396801-Y15v",
+      "activity_status": null
+    },
+    {
+      "title": "🎾✨ Outshine Center on täällä! Outshinen yhteistyö Kulosaaren Tennishallien kanssa käynnistyi virallisesti tänään 15.8., ja sen kunniaksi uusi…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_outshine-center-on-täällä-outshinen-activity-7362069824060948481-paPb",
+      "activity_status": null
+    },
+    {
+      "title": "📍 Outshine is taking over Oulu’s bus shelter network - building the city’s most comprehensive out-of-home media infrastructure. This expansion marks…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_outshine-is-taking-over-oulus-bus-shelter-activity-7343958262859325441-11gI",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news for Outshine! We’re welcoming Markus Grannenfelt to the team as our new EVP, Strategy and Marketing. Markus joins us from OMD Finland,…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_exciting-news-for-outshine-were-welcoming-activity-7340324961191890944-zCy3",
+      "activity_status": null
+    },
+    {
+      "title": "What a week in Mexico City. A big thank you to the World Out of Home Organization for an outstanding Annual Congress: full of insight, inspiration,…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_what-a-week-in-mexico-city-a-big-thank-activity-7337833808806735872-fnWz",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Mikä alkuvuosi! Vuosi 2024 oli Outshinelle kaikkien aikojen paras: liikevaihto 4,84 M€ (+56 %) ja käyttökate 1,7 M€. Vuosi 2025 on kuitenkin…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_mikä-alkuvuosi-vuosi-2024-oli-outshinelle-activity-7333481301762543617-u39F",
+      "activity_status": null
+    },
+    {
+      "title": "Off to Mexico City! ✈️ I’m proud to represent Outshine at the World Out of Home Organization Annual Congress 4.-6.6.2025, together with our CDO Aapo…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_off-to-mexico-city-im-proud-to-represent-activity-7335307916809285634-aYVD",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Vuosi 2024 jää mieleen monella tapaa – meille se oli kasvun, onnistumisten ja myös oppimisen vuosi. Kun aloitin Outshinen keittiönpöydän äärestä,…",
+      "link": "https://www.linkedin.com/posts/jani-lepisto_digitaalista-ulkomainontaa-tarjoavan-outshinen-activity-7327577067619766272-wCyf",
+      "activity_status": null
+    },
+    {
+      "title": "Upeita uutisia Suomalaiselle ulkomainonnalle! 💙 Onnittelut PunaMusta Oy & Arttu Sallinen HSL:n ulkomainonnan kilpailutuksen voitosta! 👏 On hienoa…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_upeita-uutisia-suomalaiselle-ulkomainonnalle-activity-7315996865445949440-z3CP",
+      "activity_status": null
+    },
+    {
+      "title": "Ensimmäiset askeleet otettiin keittiössä - kirjaimellisesti. Seitsemässä vuodessa ollaan kasvettu paljon, mutta Outshinen tarina on vasta alussa.…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_ensimmäiset-askeleet-otettiin-keittiössä-activity-7284614211916222467-5f4z",
+      "activity_status": null
+    },
+    {
+      "title": "Kiitos Suomen Pelastusarmeijan Säätiö sr & hyvää joulua 🎅",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_kiitos-suomen-pelastusarmeijan-säätiö-sr-activity-7276924115343540224-7wbN",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization Milan conference did not disappoint. Excited to hear top-notch presentations from the industries leading companies…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_world-out-of-home-organization-milan-conference-activity-7259633950791204864-HHjZ",
+      "activity_status": null
+    },
+    {
+      "title": "Tehtiin Black Weekin aikana seitsemännumeroinen määrä kauppaa. Nöyrä kiitos asiakkaille ja meidän huipputiimille! 🚀",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_tehtiin-black-weekin-aikana-seitsemännumeroinen-activity-7275096417428254720-Cgo8",
+      "activity_status": null
+    },
+    {
+      "title": "Kasvua näkyvyyteen – Outshine johtaa muutosta! 🎉 Helsingin ja Oulun kilpailutuksien voitot ovat mullistaneet ulkomainosmarkkinan. Nyt on aika…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_kasvua-näkyvyyteen-outshine-johtaa-muutosta-activity-7252568481055866882-p_-u",
+      "activity_status": null
+    },
+    {
+      "title": "Yli vuosi sitten kuulimme kilpailutuksen voitosta. Valitukset on käsitelty ja vihdoin pääsemme rakentamaan uutta. Mahtavaa aloittaa yhteistyö…",
+      "link": "https://www.linkedin.com/posts/jani-lepistö-53807a4b_yli-vuosi-sitten-kuulimme-kilpailutuksen-activity-7194028858877083649-b4vX",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jani Lepistö",
+      "link": "https://fi.linkedin.com/in/jani-lepistö-65780144",
+      "summary": null,
+      "location": "Finland"
+    },
+    {
+      "name": "Jani Lepistö",
+      "link": "https://fi.linkedin.com/in/jani-lepistö-992a4b27",
+      "summary": null,
+      "location": "Helsinki"
+    },
+    {
+      "name": "Jani Lepistö",
+      "link": "https://fi.linkedin.com/in/jani-lepistö-952519138",
+      "summary": null,
+      "location": "Vaasa"
+    },
+    {
+      "name": "Jani Lepistö",
+      "link": "https://fi.linkedin.com/in/jani-lepistö-21902a318",
+      "summary": null,
+      "location": "Kuopio"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-10T00:00:00Z"
+  }
+}

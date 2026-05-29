@@ -1,0 +1,1407 @@
+{
+  "public_identifier": "richard-bon-8490a744",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/aaa99dfa6397269f15dcde1b6ab8072c",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/e3812e563b244054e12f030429598b35",
+  "first_name": "Richard",
+  "last_name": "Bon",
+  "full_name": "Richard Bon",
+  "follower_count": 11417,
+  "occupation": "UK MD & Europe Commercial Lead at Bauer Media Outdoor UK",
+  "headline": "UK MD & Europe Commercial Lead",
+  "summary": "Hi, my name is Richard and I am UK Managing Director & Europe Commercial Lead for Bauer Media Outdoor (previously Clear Channel UK & Europe).\n\nI joined Clear Channel, as an intern, back in 2000 and progressed through various roles in the marketing, planning, trading & commercial departments. I now sits on both the European ExCo Board & UK ComCo.\n\nI am passionate about media, advertising & out of  home. I believe that media, and especially ooh, can be both a platform for brands & a platform for good! Because with great powers comes great responsibility (where did I get that from?!?)\n\nLove my fam: Kate, my wife, and our three beautiful kids, Charlotte, Henry & William. I am a proud Frenchman (& Londoner). Keen cyclist & basketballer to balance the good life ;-)",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Bauer Media Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "UK MD & Europe Commercial Lead",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "Bauer Media Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "UK Managing Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Chief Revenue Officer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Group Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "National Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Acting Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Trading Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2008
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bauer-media-outdoor-uk",
+      "company_facebook_profile_url": null,
+      "title": "Intern to Marketing to Planning",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35932cb0af2a2ad48b765817105d47a8"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Business & Commerce",
+      "degree_name": "Masters",
+      "school": "Toulouse Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tbseducation",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": "Leadership & Change",
+      "degree_name": "CCI Talent 200",
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Business & Management",
+      "degree_name": "Bachelor",
+      "school": "University of the West of England",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-the-west-of-england",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Business & Commerce",
+      "degree_name": "Masters",
+      "school": "TBS Education",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tbseducation/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "French",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 10791,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nurulatikoh",
+      "name": "Nurul Atikoh",
+      "summary": "Facilitator, Head of Promotion and Cooperation Working Team",
+      "location": "Pancoran Mas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinosaw",
+      "name": "Dino Myers-Lamptey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evadvorak",
+      "name": "Eva Dvorak",
+      "summary": "Head of PR & Communications | Social Impact | Sustainability",
+      "location": "Chigwell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulpolman",
+      "name": "Paul Polman",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roshsinghuk",
+      "name": "Rosh Singh",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemmagreaves",
+      "name": "Gemma Greaves",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alanjope",
+      "name": "Alan Jope",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cephasw",
+      "name": "Cephas Williams",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bskrprice",
+      "name": "Ben Price",
+      "summary": "UK Sales Operations Director & Europe Sales Transformation Lead at Clear Channel",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taniaallenmcipd",
+      "name": "Tania Allen MCIPD",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deborahbwilliams",
+      "name": "Deborah B. Williams",
+      "summary": "Founder & CEO @The Women’s Association | Speaker | Mum of 3 | Building the Ecosystem Women & Girls Need to Make Their Dreams a Reality | Dreamer 💭",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gedwestonmedia",
+      "name": "Ged Weston",
+      "summary": "Managing Director at Maximus",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsayrapacchi",
+      "name": "Lindsay Rapacchi",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonsugar",
+      "name": "Simon Sugar",
+      "summary": "CEO at Amscreen",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathleensaxton",
+      "name": "Kathleen Saxton",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliedoleman",
+      "name": "Julie Doleman",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoniross",
+      "name": "Yoni Ross",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nishmapatelrobb",
+      "name": "Nishma Patel Robb ⚡️",
+      "summary": "Invisible→Unmissable→Financial Freedom | Brand & AI strategy for founders, leaders & brands | Help 1m women be visible + AI fluent | Founder Unmissable +  Glittersphere | Co-founder 🎙️ Hera | ex-Google brand lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisforrester",
+      "name": "Chris Forrester",
+      "summary": "Commercial Leader / Qualified Coach / Mentor /  Board Trustee",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-hollands-56a0431b3",
+      "name": "Natalie Hollands",
+      "summary": "Client Partner at Bauer Media Outdoor UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colinhoran",
+      "name": "Colin Horan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-stubbings-she-her-18720413",
+      "name": "Louise Stubbings (she / her)",
+      "summary": "Partnerships & Creative Director at Bauer Media Outdoor UK.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/k-tuvesson",
+      "name": "Kate Tuvesson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-marjoram-5551349",
+      "name": "Christopher Marjoram",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-nairn-0a03396",
+      "name": "Andy Nairn",
+      "summary": "Founder of Lucky Generals | Author | Speaker",
+      "location": "Marlow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-cutter-9a71928",
+      "name": "Lee Cutter",
+      "summary": "Vice President, Sales - UK, Nordics and MENA",
+      "location": "South Hanningfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-fleming-1116b18",
+      "name": "Steve Fleming",
+      "summary": null,
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-poulton-a168a99",
+      "name": "Tim Poulton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-plunkett-a9258811",
+      "name": "Rachel Plunkett",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-ramage-23626313",
+      "name": "Will Ramage",
+      "summary": "UK Managing Director & Europe Portfolio Lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-webb-321b2213",
+      "name": "Mark Webb",
+      "summary": "Retired",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-martin-08107715",
+      "name": "Katie Martin",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-calcraft-b0080a15",
+      "name": "Helen Calcraft",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ged-glover-a0b60a18",
+      "name": "Ged Glover",
+      "summary": "Chief Client Officer (CCO) at Alight Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-mead-a2317b19",
+      "name": "Lee Mead",
+      "summary": "UK Director of Direct Sales at Bauer Media Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/russell-levin-89031522",
+      "name": "Russell Levin",
+      "summary": "Head of Sales, Media Agencies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gill-reid-45082a24",
+      "name": "Gill Reid",
+      "summary": "Former head of Out of Home at essencemediacom.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liza-dunbar-5a2b7a25",
+      "name": "Liza Dunbar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelly-moore-42a0312b",
+      "name": "Kelly Moore",
+      "summary": "National Sales Operations Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/derek-cousin-80264932",
+      "name": "Derek Cousin",
+      "summary": "Building and  leading high perfomance sales teams",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-mortlock-252a8038",
+      "name": "Marc Mortlock",
+      "summary": "Direct National Sales Manager  at Bauer Media Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-bedwell-64690239",
+      "name": "Steven Bedwell",
+      "summary": "Head of Sales - Media Agencies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-mason-85664b42",
+      "name": "Jamie Mason",
+      "summary": "Agency Account Director at Bauer Media Outdoor",
+      "location": "Rainham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-withers-44aa8650",
+      "name": "James Withers",
+      "summary": "Head of Agency Sales at Abode",
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aimee-mckay-26614957",
+      "name": "Aimee McKay",
+      "summary": "Client Partnership Director & Europe Lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordan-lillie-23b59460",
+      "name": "Jordan Lillie",
+      "summary": null,
+      "location": "Chelmsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-potter-95ba0378",
+      "name": "Emma Potter",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-stowell-a89228102",
+      "name": "Sophie Stowell",
+      "summary": "Agency Account Manager at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ida-skalnes-b10433111",
+      "name": "Ida Skalnes",
+      "summary": "Statsforvalteren i Rogaland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/magnus-djaba-0a5018116",
+      "name": "Magnus Djaba",
+      "summary": "Chief Client Officer, Publicis Groupe",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/isaac-kizza-988691147",
+      "name": "Isaac Kizza",
+      "summary": "Driving Growth for Multi-Location Brands | Reviews, Listings & Social - Powered by AI @ Birdeye",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachael-bailey-845487208",
+      "name": "Rachael Bailey",
+      "summary": "Agency Account Manager at Clear Channel Outdoor",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-smith-19765b51",
+      "name": "Mark Smith",
+      "summary": "UK Sales Director at Bauer Media Outdoor. Talks about #Advertising #Media #OOH #DOOH #Neurodiversity #Inclusion #MentalHealth #Sustainability. Mental Heath Ally",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/martincorke",
+      "name": "Martin Corke",
+      "summary": "Chief Marketing Officer at Bauer Media Outdoor UK - Europe Marketing Lead",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackie-broadhurst-49473414",
+      "name": "Jackie Broadhurst",
+      "summary": "Head of Specialist at Bauer Media Outdoor UK",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-hillier-4487897b",
+      "name": "Lucy Hillier",
+      "summary": "Senior Trader at Bauer Media Outdoor UK",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-bickle-95b69a14",
+      "name": "Victoria Bickle",
+      "summary": "UK Managing Director | WACL Exco - Chair Partnerships | Campaign’s A-List 2024 ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-forbes-362a7924",
+      "name": "Caroline Forbes",
+      "summary": "Head of Sales, Out of Home Agencies | Mediatel Class of 2022, Future 100 Club | Advisory Board Member BFS | MEFA Member | Pitch Fanzine Top 100, 2020",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickshaw1",
+      "name": "Nick Shaw",
+      "summary": "Chief Commercial Officer at Ocean Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-bucknell-1ba63113",
+      "name": "Mark Bucknell",
+      "summary": "Chief Commercial Officer at JCDecaux UK",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaron-martin-41570759",
+      "name": "Aaron Martin",
+      "summary": "Commercial Data Director at Bauer Media Outdoor UK",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sallyhenley",
+      "name": "Sally Henley",
+      "summary": "Head of Marcomms at Bauer Media Outdoor UK | Mentor l Mental Health Ally at Work | exChair of school PTA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruth-cartwright-62052b37",
+      "name": "Ruth Cartwright",
+      "summary": "UK Managing Director, Active International",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-manns-09271828",
+      "name": "George Manns",
+      "summary": "Portfolio Strategy Director at Bauer Media Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruth-twort-88384212",
+      "name": "Ruth Twort",
+      "summary": "Senior Producer",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Ben Price\n\nI had the privilege of working closely with Richard during my time as Sales Operations Director, and I can confidently say hes one of the most adaptable leaders Ive had the pleasure of working for. During our time working together, we collaborated on several major transformation initiatives, and Richard was a true champion for change throughout. His leadership ensured these initiatives not only delivered impactful results but also engaged the teams involved, making the process smoother and more inclusive for everyone.As well as knowing the OOH market inside-out, he excels at balancing business objectives with genuine care for the people around him, he's always looking for the best possible outcomes for both the company and the #peoplebehindtheposters.Having held roles at many levels within the business, this enables him to foster an inclusive environment where every individual, regardless of their role or background, feels valued and empowered to contribute. His leadership style ensures that everyone has a voice and the opportunity to succeed. Hes built an exceptionally effective leadership team, fostering a culture where people feel valued, engaged, and motivated to perform at their best.Above all, Richard is just a great person to work with – approachable, considerate, and always driven to make a positive impact. If he ever leaves Clear Channel, he'd be a massive asset to any organisation!",
+    "Lee Malcolm\n\nRichard is a man with great knowledge and experience in the OOH industry, not only that he seems to be able to apply that business intelligence in very strategical way, always looking to put one foot forward.Richard draws people to him , with his great charm and warm personality and I will always consider that it was a great privilege to have worked with him.",
+    "Ben Price\n\nI had the privilege of working closely with Richard during my time as Sales Operations Director, and I can confidently say he’s one of the most adaptable leaders I’ve had the pleasure of working for. During our time working together, we collaborated on several major transformation initiatives, and Richard was a true champion for change throughout. His leadership ensured these initiatives not only delivered impactful results but also engaged the teams involved, making the process smoother and more inclusive for everyone. As well as knowing the OOH market inside-out, he excels at balancing business objectives with genuine care for the people around him, he's always looking for the best possible outcomes for both the company and the #peoplebehindtheposters. Having held roles at many levels within the business, this enables him to foster an inclusive environment where every individual, regardless of their role or background, feels valued and empowered to contribute. His leadership style ensures that everyone has a voice and the opportunity to succeed. He’s built an exceptionally effective leadership team, fostering a culture where people feel valued, engaged, and motivated to perform at their best. Above all, Richard is just a great person to work with – approachable, considerate, and always driven to make a positive impact. If he ever leaves Clear Channel, he'd be a massive asset to any organisation!"
+  ],
+  "activities": [
+    {
+      "title": "We’re excited to welcome James Mackenzie as the new Chief Investment Officer at Havas Media Network UK! In his new role, James will lead our…",
+      "link": "https://www.linkedin.com/posts/havas-media-network_appointments-havasfamily-activity-7380936556720848896-NFWH",
+      "activity_status": null
+    },
+    {
+      "title": "Made of Liverpool. Seen in Liverpool. We love seeing the BBC’s ‘Made of Liverpool' campaign on our screens across the city! 💡 With hundreds of…",
+      "link": "https://www.linkedin.com/posts/bauer-media-outdoor-uk_ooh-lifebeyondlondon-liverpool-activity-7380952853407870977-Ap77",
+      "activity_status": null
+    },
+    {
+      "title": "We're delighted to announce Paul Hutchison 'Hutch' as our new global CEO, joining us later this month. Hutch brings serious credentials - previously…",
+      "link": "https://www.linkedin.com/posts/walkinmedia_were-delighted-to-announce-paul-hutchison-activity-7380932560031211520-vnSc",
+      "activity_status": null
+    },
+    {
+      "title": "Good news! The deadline for the MEFA Diversity & Inclusion Awards 2025 has been extended 🎉 You now have a little extra time to recognise and…",
+      "link": "https://www.linkedin.com/posts/media-for-all-uk1_mefa-diversityandinclusion-awards-activity-7380883999256236033-aGYa",
+      "activity_status": null
+    },
+    {
+      "title": "Spoon now? or spoon later? Superb dynamic campaign for Crunchy Nut by our lovely client Kellogg Company. Nationwide on D6's and D48's with Bauer…",
+      "link": "https://www.linkedin.com/posts/posterscope_ooh-oohmedia-beseen-activity-7380902074835963906--Mkk",
+      "activity_status": null
+    },
+    {
+      "title": "This morning we started our leadership trajectory with over 20 of our people managers at Bauer Media Outdoor Belgium . Our ambition is to develop the…",
+      "link": "https://www.linkedin.com/posts/jandemoor_transformers-activity-7380909302309470208-GvAi",
+      "activity_status": null
+    },
+    {
+      "title": "What if you could see exactly how your OOH campaign was delivered - every single play, verified and transparent?🤔 The latest report from Outsmart…",
+      "link": "https://www.linkedin.com/posts/travis-hartman-683a23206_ooh-ooh-dooh-activity-7380872998322606080-elNf",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I had the honour of travelling to A Coruña, Spain to represent StackAdapt at the Ecosystems 2030 conference ... an event led by NASA GSFC…",
+      "link": "https://www.linkedin.com/posts/jessica-de-bellis-90193380_last-week-i-had-the-honour-of-travelling-activity-7380889771717533696-g9Xa",
+      "activity_status": null
+    },
+    {
+      "title": "The Media For All [MEFA] Diversity & Inclusion Awards are back for the third year and entries are open until 17th October! If you work with…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-media-for-all-mefa-diversity-inclusion-activity-7380902536855052288-x2N7",
+      "activity_status": null
+    },
+    {
+      "title": "Bringing Center Parcs UK & Ireland Bubbles to the heart of London .... 🌲 🌟 🌳 Partnering with Center Parcs, Neverland Creative and Global, we…",
+      "link": "https://www.linkedin.com/posts/iprospect_iprospectuk-outofhome-centreparcs-activity-7432037359296180224-0kpS",
+      "activity_status": null
+    },
+    {
+      "title": "You have until the Friday 27th February to submit your entries for the 2026 Outdoor Media Awards! 🔥 Don’t miss the opportunity to: - Get your…",
+      "link": "https://www.linkedin.com/posts/ben-hope_the-final-countdown-activity-7432005055937114112-KhuN",
+      "activity_status": null
+    },
+    {
+      "title": "For marketers who aren’t modellers, marketing mix models (MMM) can feel… a little intimidating, like mysterious black boxes performing magic behind…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_for-marketers-who-arent-modellers-marketing-activity-7431634755227521024-wc9c",
+      "activity_status": null
+    },
+    {
+      "title": "Own the Moment at Avinor Airports with Bauer Media Norway. We’ve just elevated airport advertising across Avinor with a new generation of high-impact…",
+      "link": "https://www.linkedin.com/posts/dennis-højland-nyegaard-171a522_own-the-moment-at-avinor-airports-with-bauer-activity-7432016213221945344-U_Zi",
+      "activity_status": null
+    },
+    {
+      "title": "Bauer Media Outdoor Finland supported and celebrated Team Finland at the Milano-Cortina 2026 Olympic Games.🏅 🇫🇮 They collaborated with Kamppi…",
+      "link": "https://www.linkedin.com/posts/bauer-media-outdoor-europe_dooh-olympics2026-finland-activity-7431976988640268288-x0xf",
+      "activity_status": null
+    },
+    {
+      "title": "In case you wondered why your local Boots was swamped with disappointed middle-aged men, the answer is below. The 'thousands of men storming…",
+      "link": "https://www.linkedin.com/posts/nick-manning-21076a10_in-case-you-wondered-why-your-local-boots-activity-7431944201409572864-JWvc",
+      "activity_status": null
+    },
+    {
+      "title": "You have until Friday 27th February to submit your entries for the 2026 Outdoor Media Awards! 🔥 Don’t miss the opportunity to: - Get your hands on…",
+      "link": "https://www.linkedin.com/posts/bauer-media-outdoor-uk_the-final-countdown-activity-7431624829797109760-EF8l",
+      "activity_status": null
+    },
+    {
+      "title": "Radio isn’t just background noise... It’s part of the journey. 📻 We are supporting our Audio colleagues as they join broadcasters across Europe to…",
+      "link": "https://www.linkedin.com/posts/evadvorak_connectedjourneys-activity-7431714069209837568-gxBT",
+      "activity_status": null
+    },
+    {
+      "title": "This year at at MAD//North I'm hosting a senior panel exploring how marketing leaders are redefining creativity, media investment and agency value in…",
+      "link": "https://www.linkedin.com/posts/gill-huber-95993814_connectingthemarketingworld-activity-7431630025428287488-ZbGk",
+      "activity_status": null
+    },
+    {
+      "title": "Radio isn’t just background noise... It’s part of the journey. 📻 Great to be able to support our Audio colleagues, Bauer Media Group as they join…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_strongertogether-connectedjourneys-activity-7431634493188354048-iorh",
+      "activity_status": null
+    },
+    {
+      "title": "From Ooh La La to Seize The Day, Cheeky Peach to Elephant’s Breath, there are thousands of paint shades with odd & interesting names (and yes, those…",
+      "link": "https://www.linkedin.com/posts/jas-and-geo-creatives_from-ooh-la-la-to-seize-the-day-cheeky-peach-activity-7445388914804088832-5NbP",
+      "activity_status": null
+    },
+    {
+      "title": "B&Q’s collection of paint is something to be studied… So that’s exactly what we did, meticulously sifting through thousands of paint names to create…",
+      "link": "https://www.linkedin.com/posts/zoedaviescreative_bqs-collection-of-paint-is-something-to-activity-7445410893980450816-xgQ4",
+      "activity_status": null
+    },
+    {
+      "title": "Glad påsk från oss! 🌷🐣",
+      "link": "https://se.linkedin.com/posts/bauer-media-sverige_glad-påsk-från-oss-activity-7445398489297039360-ZV5I",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing we love more than when the person meets the paint! Scott McTominay checked out his famous bicycle kick in a big social moment. We at…",
+      "link": "https://www.linkedin.com/posts/lee-bofkin_nothing-we-love-more-than-when-the-person-activity-7445384240730394624-Vsh3",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating one year as Bauer Media Outdoor and being part of Bauer Media Group!🥳 It's been an incredible first year - full of collaboration, big…",
+      "link": "https://www.linkedin.com/posts/kelly-moore-42a0312b_platformforbrands-platformforgood-activity-7445403056265015297-o9hm",
+      "activity_status": null
+    },
+    {
+      "title": "Easter is fast approaching, and brands are cracking it with OOH advertising. 🐣 From roadside to retail environments, OOH is driving visibility and…",
+      "link": "https://www.linkedin.com/posts/kelly-moore-42a0312b_ooh-easter-platformforbrands-activity-7445403167468511232-XG-g",
+      "activity_status": null
+    },
+    {
+      "title": "And they’re off!🏇 With Grand National weekend just a month away, all eyes turn to Liverpool as the city hosts the world’s greatest steeplechase…",
+      "link": "https://www.linkedin.com/posts/bauer-media-outdoor-uk_ooh-lifebeyondlondon-activity-7439614339940134913-4-c3",
+      "activity_status": null
+    },
+    {
+      "title": "This is a great initiative from Outsmart OOH. I can't think of a better channel to promote Outdoor advertising (and its superpowers) than the medium…",
+      "link": "https://www.linkedin.com/posts/ukpaulmccormack_ooh-dooh-outdooradvertising-activity-7437061005060464640-TBHh",
+      "activity_status": null
+    },
+    {
+      "title": "A great Oystercatchers Club evening on the topic of Re-engineering Relevance: What to Lose and What to Hold On To. Covering everything from 18-30…",
+      "link": "https://www.linkedin.com/posts/cwgough_a-great-oystercatchers-club-evening-on-the-activity-7435652613825740801-xvli",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating one year as Bauer Media Outdoor and being part of Bauer Media Group!🥳 It's been an incredible first year - full of collaboration, big…",
+      "link": "https://www.linkedin.com/posts/patsy-mwanza-20495479_platformforbrands-platformforgood-activity-7445404015070261248-TRnv",
+      "activity_status": null
+    },
+    {
+      "title": "Programmatic OOH is moving fast. Are you keeping up!?! Not always easy, so we've launched our Programmatic Picture: a monthly newsletter helping you…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_programmaticooh-prooh-programmaticnewsletter-activity-7463109606366560259-1jRL",
+      "activity_status": null
+    },
+    {
+      "title": "Attention & Intention - right where it matters most 👀 Grocery shopping is part of everyday behaviour. With 88% of grocery spend happening in-store,…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_attention-intention-right-where-it-matters-activity-7462815676639064064-4CEf",
+      "activity_status": null
+    },
+    {
+      "title": "KAT & DAB KitKat Chocolatory’s strong reminder of the power of Distinctive Brand Assets! Great examples of standout #OOH creativity & when you get a…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-powerfulposters-creativity-activity-7462021049321357312-II5W",
+      "activity_status": null
+    },
+    {
+      "title": "Out of this world🚀The galaxy's most wanted snacks! PepsiCo joined forces with The Mandalorian & Grogu for a special build OOH installation across…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_out-of-this-worldthe-galaxys-most-wanted-activity-7461044035806396416-6aWV",
+      "activity_status": null
+    },
+    {
+      "title": "Location, location, location Love this by Tesco, doubling its \"Free Fruit & Veg for Schools\" programme from September, with the aim to double again…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_location-location-location-love-this-activity-7460978712931430400-qK0n",
+      "activity_status": null
+    },
+    {
+      "title": "Modern marketing has developed a bias: if something is easy to measure, we assume it must be working📊 But there’s a problem with that. What’s easy…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_modern-marketing-has-developed-a-bias-if-activity-7460217291155243008-CmkA",
+      "activity_status": null
+    },
+    {
+      "title": "FORGET ABOUT CANNES LIONS📣 2026 OMA SHORTLIST IS OUT 📣 Congratulations to all of the nominees & thanks to all our judges! Take a look at who’s made…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-shortlist-is-out-activity-7458409262503878656-cPc4",
+      "activity_status": null
+    },
+    {
+      "title": "My favourite coffee by our favourite people! It was great to welcome Bauer Media Outdoor UK Compass winners, BLUE TURACO COFFEE and their founder…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_blue-turaco-coffee-x-bmo-activity-7457693401476452352-Ll4T",
+      "activity_status": null
+    },
+    {
+      "title": "Need anything from Tesco 👀 To launch their awesome new brand platform, Tesco recently ran an exclusive one-hour DOOH ROADBLOCK takeover across…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_dooh-tesco-platformforbrands-activity-7457692947166216192-zSxa",
+      "activity_status": null
+    },
+    {
+      "title": "Bravo Ant & Dec for hosting The World’s Biggest Music Quiz on Cash for Kids Day! Every donation helped provide essentials for children and young…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_strongertogether-bauereffect-activity-7457340846246412288-izHe",
+      "activity_status": null
+    },
+    {
+      "title": "Count down to one of the biggest cultural moments in the calendar, and a huge one for brands. By now, most plans are locked. But just like a manager…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_world-cup-guide-activity-7456228368393478144-X5-V",
+      "activity_status": null
+    },
+    {
+      "title": "If you work in Digital or Programmatic this one's for you! My brilliant colleague Charmaine Tavassoly Moss recently spoke to Little Black Book about…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_prooh-programmaticooh-dooh-activity-7454416592567742464-xmIq",
+      "activity_status": null
+    },
+    {
+      "title": "Creativity isn’t optional in OOH - it’s what makes it work! My buddy, Martin Corke, shares why bold thinking still drives effectiveness, and how data…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-outofhome-platformforbrands-activity-7453456260261101570-WC_g",
+      "activity_status": null
+    },
+    {
+      "title": "Salford turns 100 - but it’s never stood still.📍 This is a city built on doing things differently: · The UK’s first “play streets” in the 1920s. ·…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-salford-lifebeyondlondon-activity-7454151089685344256-25Ki",
+      "activity_status": null
+    },
+    {
+      "title": "From out of home into my home ;-) Chilled Sunday vibes chez Les Bons of London, enjoying BLUE TURACO COFFEE! Love Wycliffe Sande's vision & what he…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforgood-platformforbrands-activity-7454075583140892672-Ts9A",
+      "activity_status": null
+    },
+    {
+      "title": "I love fact that Bauer Media Outdoor UK is both a Platform for Brands and a Platform for Good 🌍 Our 2025 ESG report highlights the steps we have…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_esg-report-supporting-our-planet-activity-7451916900718145536-r_id",
+      "activity_status": null
+    },
+    {
+      "title": "The OG of Retail Media! Time to lose the \"e\" in ecommerce, instead focus on attention & intention - right where it matters most in the real world 👀…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_morrisons-live-activity-7451917208471048192-43x6",
+      "activity_status": null
+    },
+    {
+      "title": "Prices. Nailed. #PowerfulPosters also Nailed! B&Q Leo Burnett dentsu dentsu X Posterscope Bauer Media Outdoor UK Sally Allen Jamie Hewett Jemima…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_powerfulposters-ooh-platformforbrands-activity-7452242318662905856-sAaQ",
+      "activity_status": null
+    },
+    {
+      "title": "72 meters of billboard for 745 miles of freedom, feels right! JAECOO UK OMODA UK Wavemaker UK Bauer Media Outdoor UK Aron Heer Yash Sethi Jon Stevens…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_72-meters-of-billboard-for-745-miles-of-freedom-activity-7449698041227366400-S_v2",
+      "activity_status": null
+    },
+    {
+      "title": "Owning the London skyline from Billingsgate to the Shard! Take over the screens, name plates, lighting & London Fog! Samsung Electronics Starcom…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_owning-the-london-skyline-from-billingsgate-activity-7449698046029742080-9a5C",
+      "activity_status": null
+    },
+    {
+      "title": "Loving these epic pictures of XPENG looking great on Edinburgh Leith Street & London Borough High Street by Notorious Communications Talon Bauer…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_loving-these-epic-pictures-of-xpeng-looking-activity-7450430404932714496-s7C5",
+      "activity_status": null
+    },
+    {
+      "title": "Let's roll. Crack on. Love it. Looking great on Adshel Live & Billboard Live this spring weekend x B&Q dentsu dentsu X Posterscope Bauer Media…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_lets-roll-crack-on-love-it-looking-great-activity-7449003495560626176-kn68",
+      "activity_status": null
+    },
+    {
+      "title": "Toasting 150 years deserves the best! Love it when brands make most of Bauer Media Outdoor UK Storm ownership, using screens, name plates & lighting…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_toasting-150-years-deserves-the-best-love-activity-7447916063910072320-iq3s",
+      "activity_status": null
+    },
+    {
+      "title": "All together. Only with Sky. Looking great on the Cromination! The only site long enough to show it all together ;-) All 72 meters needed! Bhavesh…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_all-together-only-with-sky-looking-great-activity-7447542551865266176-uLtt",
+      "activity_status": null
+    },
+    {
+      "title": "And just like that, we are celebrating one year as Bauer Media Outdoor UK + Bauer Media Outdoor Europe and being part of the wider Bauer Media…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_strongertogether-specialismwithin-activity-7445040422327898113-S-YF",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing says Easter quite like a chocolate egg… And in this case, our 96-sheet billboard in Salford is looking rather egg-cellent!🥚🍫 Sainsbury's…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_lifebeyondlondon-easter-ooh-activity-7444773485094125568-MlPl",
+      "activity_status": null
+    },
+    {
+      "title": "PROGRAMMATIC | Denmark European Spotlight💡 Listen to Jesper Stryhn Katz, our Programmatic Business Lead in Denmark, as he breaks down Zeekr Europe’s…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_european-spotlight-denmark-activity-7444359694695043072-Syqe",
+      "activity_status": null
+    },
+    {
+      "title": "One of my favourite Bauer Media Outdoor UK Platform for Good partner is Keep Britain Tidy. In a world and at a time where so much can feel hard to…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_gbspringclean-peoplebehindtheposters-litterheroes-activity-7442847962755637248-XCSJ",
+      "activity_status": null
+    },
+    {
+      "title": "What do Kate Bon, Banksy, a suspension bridge, and hot air balloons all have in common? Bristol.📍 From the iconic Clifton Suspension Bridge to the…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-lifebeyondlondon-activity-7442821697524789248-abs_",
+      "activity_status": null
+    },
+    {
+      "title": "* New Win * Happy to share that Bauer Media Outdoor UK is partnering with the City of York on a 15-year contract to deliver smarter, more sustainable…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforgood-platformforbrands-lifebeyondlondon-activity-7442821420792999936-lwxz",
+      "activity_status": null
+    },
+    {
+      "title": "Love this content! Bauer Media Outdoor UK teamed up with LetsDoItWorld and M+C Saatchi UK to launch #NotOnMyPhone – a national campaign turning messy…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_notonmyphone-ooh-dooh-activity-7442103761009016832-5ZAc",
+      "activity_status": null
+    },
+    {
+      "title": "Why London exprience started in Plaistow, East London! So was happy to share that we will be working with Newham Council on a new borough-wide…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforgood-platformforbrands-lifebeyondlondon-activity-7442220017825488898-FTTA",
+      "activity_status": null
+    },
+    {
+      "title": "Did you know that your camera roll is costing the planet?!? Embrace the spirit of Marie Kondo, delete some of your digital detritus ahead of Digital…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_notonmyphone-notonmyphone-digitalcleanupday2026-activity-7441776777179475968-zuhc",
+      "activity_status": null
+    },
+    {
+      "title": "Great to launch this cross-industry study into social media behaviour Out of Home📱\"The Point of Social\" It's an online event with Posterscope, Ocean…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_great-to-launch-this-cross-industry-study-activity-7442921028915253248-8Ii3",
+      "activity_status": null
+    },
+    {
+      "title": "The 2025 Bauer Media Outdoor UK ESG Report is out 🌍 And is such a powerful reminder of why OOH is such an amazing Platform for Good! This year marks…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_esg-sustainability-ooh-activity-7442219715139092481-I0rL",
+      "activity_status": null
+    },
+    {
+      "title": "Need national reach? Go Bauer Media Outdoor UK The latest Route Research Ltd. data has dropped, showcasing Bauer Media Outdoor UK’s estate as the #1…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-latest-route-release-activity-7440349977089884160-5QaW",
+      "activity_status": null
+    },
+    {
+      "title": "🤩 Louis TherOOH 👏 Great work Netflix, iProspect, Posterscope, Bauer Media Group Bauer Media Outdoor UK Bauer Media Outdoor Europe Harry Davenport…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-dooh-ents-activity-7439320572993388544-5AhT",
+      "activity_status": null
+    },
+    {
+      "title": "BarNET Zero welcomes its first Living Roof bus shelter! 🌿 (in partnership with Barnet Council) The plant-covered roof is designed to support…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_plaformforgood-beebusstops-outofhome-activity-7438831882294808576-Negb",
+      "activity_status": null
+    },
+    {
+      "title": "Storm Edinburgh Leith Street. Where brands come alive on a cinematic scale!🔥 Lights, camera, action👇IKEA Prime Video & Amazon MGM Studios Cash for…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_meet-storm-edinburgh-leith-street-activity-7437387560001273856-JT7T",
+      "activity_status": null
+    },
+    {
+      "title": "If you know the Bons of London, you will know we love a good street clean! #lovewhereyoulive #outdoors #outofhome #local #platformforgood It was a…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_lovewhereyoulive-outdoors-outofhome-activity-7436035926587252736-d9UU",
+      "activity_status": null
+    },
+    {
+      "title": "The superpowers of Out of Home are on display 👏 This week, Outsmart OOH launched 'The Superpowers of Out-of-Home' - an industry campaign created…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-activity-7435593547346505728-v1NQ",
+      "activity_status": null
+    },
+    {
+      "title": "Still got a Grand Slam to win for les Bleus ;-) Yet The World Cup isn’t just another tournament. It’s a shared national moment - played out in pubs,…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_world-cup-hub-activity-7435235903993917441-IwPf",
+      "activity_status": null
+    },
+    {
+      "title": "This is another reason why Out of Home is a Platform For Good! Over 40,000 people suffer an out-of-hospital cardiac arrest each year. Less than 1 in…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_bringing-defibrillators-to-public-spaces-activity-7430302258531299328-Zd5q",
+      "activity_status": null
+    },
+    {
+      "title": "Two of our best! Lindsay Rapacchi and Colin Horan will taking to the stage at MAD//FEST MAD//North next Wednesday with Guinness's Marketing Director,…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_madfest-activity-7430301442076471298-Cxi3",
+      "activity_status": null
+    },
+    {
+      "title": "It was great, yesterday, to host some many partners to the Bauer Media Outdoor UK Way Ahead Upfronts! Tag teaming with Justin Cochrane, Louise…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_it-was-great-yesterday-to-host-some-many-activity-7425105488922595328-xDfY",
+      "activity_status": null
+    },
+    {
+      "title": "The BMO Way Ahead: 2026 is here, and the future of OOH is bright!💡 Last week, we brought the industry together in London and Manchester to share our…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-dooh-thebmowayahead-activity-7426902985303298049-7PIy",
+      "activity_status": null
+    },
+    {
+      "title": "The Bauer Media Outdoor UK OMA's are celebrating their 20th birthday, yet as fresh as ever! Campaign UK have dropped part two of the OMA 2026 judges…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_oma2026-ooh-activity-7424366829009174528-2ID2",
+      "activity_status": null
+    },
+    {
+      "title": "The most widely anticipated films of 2025 had to launch with a Bauer Media Outdoor UK ROADBLOCK! The Walt Disney Company took over thousands of…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_disney-roadblock-activity-7424367509862010880-1Lt1",
+      "activity_status": null
+    },
+    {
+      "title": "Got to love an OOH take over! L'Oréal beautiful skincare campaign is live across our two Malls screens at the Trafford Centre 👀 Produced by our BMO…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_glassskin-activity-7422906894144634880-t8CQ",
+      "activity_status": null
+    },
+    {
+      "title": "For these moments you just can't miss, you just can't beat a Roadblock on the UK's largest DOOH network! Netflix turned up the volume during the…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_netflix-roadblock-activity-7422185125590945792-TXbe",
+      "activity_status": null
+    },
+    {
+      "title": "The Outdoor Media Awards are back🥳🎉 In partnership with Campaign UK, the Bauer Media Outdoor UK OMAs are back for their 20th year, to celebrate the…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_mark-your-moment-activity-7421828628985950208-7iu3",
+      "activity_status": null
+    },
+    {
+      "title": "From desk drawer to #OOH!🧾Perk brings expense chaos to the streets with a bold 96-sheet 3D build, live now on our Borough Road site, thanks to the…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-activity-7421829156105003008-8zV6",
+      "activity_status": null
+    },
+    {
+      "title": "Always one of my favourite moments of the year: The Bauer Media Outdoor UK Burns supper in Edinburgh & start to our \"BMO Way Ahead\" Upfronts…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_always-one-of-my-favourite-moments-of-the-activity-7420399237768777728-4t_e",
+      "activity_status": null
+    },
+    {
+      "title": "Don't let SAD get hold of you, be more loveholidays ☀️ Taking over sites in London and Liverpool, turning bus shelters into sun-soaked escapes, they…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_fomo-lifebeyondlondon-wintersun-activity-7419652238538616832-kz3a",
+      "activity_status": null
+    },
+    {
+      "title": "At Bauer Media Outdoor UK, we’re taking a practical, evidence-led approach to climate action🌍 Committed to become Carbon Net Zero by 2030 across…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_our-climate-transition-plan-activity-7417470657514344448-Iu3M",
+      "activity_status": null
+    },
+    {
+      "title": "A new year brings fresh energy, and Brighton has plenty of it!🌟 Often referred to as \"London by the sea\", Brighton is a true cosmopolitan city that…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-lifebeyondlondon-brighton-activity-7417470681732288513-I3JC",
+      "activity_status": null
+    },
+    {
+      "title": "At Bauer Media Outdoor UK, we are now also (kudos JCD) installing defibrillators in everyday spaces like bus stops & kiosks and sharing clear CPR…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforgood-lifebeyondlondon-activity-7417472153148891136-H-al",
+      "activity_status": null
+    },
+    {
+      "title": "And just like that, it is 2026! Q1 kick off with Bauer Media Outdoor UK x Merci Aimee McKay, Mark Smith, David Shepherd, Ben Hope, Kelly Moore for…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_and-just-like-that-it-is-2026-q1-kick-off-activity-7414931442595495936-pXac",
+      "activity_status": null
+    },
+    {
+      "title": "As the Bons of London open door 12 of the advent calendar🎄It's starting to feel a lot like Christmas #LiveThisWeek across the UK ✨ Starcom WPP Media…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_livethisweek-christmas-christmasads-activity-7405176936798363648-Jd6u",
+      "activity_status": null
+    },
+    {
+      "title": "The 2026 Outdoor Media Awards are coming, and entries open on the 22nd January 📅 Next year will be our 20th year – so it is going to be a BIG one!🔥…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_something-big-is-coming-activity-7405177506028269569-WKJ7",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to fly the flag for Bauer Media Outdoor UK & Bauer Media Outdoor Europe in a year with so much change, on all fronts... Chuffed to be been…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_campaignuk-platformforbrands-platformforgood-activity-7406314111858286595-FFOG",
+      "activity_status": null
+    },
+    {
+      "title": "Christmas just got a whole lot more connected 📶 EE's first-ever festive campaign, “The Christmas Double”, has landed on our Westminster Bridge Rd…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_christmas-westminster-platformforbrands-activity-7404383948757422081-8uE_",
+      "activity_status": null
+    },
+    {
+      "title": "With 85% of the UK population living outside the M25, we felt we had to launch ‘The Great British OOH Road Trip’ with The Drum 🎉 Starring James…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-great-british-ooh-road-trip-episode-activity-7405176051204587520-5AWp",
+      "activity_status": null
+    },
+    {
+      "title": "The Playout report is now live, courtesy of Outsmart OOH in partnership with Adwanted UK | B Corp ✨ Playout creates a single source of playout data…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-playout-report-is-here-activity-7399725738737811456-H_-D",
+      "activity_status": null
+    },
+    {
+      "title": "Edinburgh's #1 Super Premium Digital Site - Storm Leith Street Dominating Edinburgh's skyline, Edinburgh Leith Street is the largest digital screen…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_introducing-storm-edinburgh-leith-street-activity-7402247350536253441-SCvi",
+      "activity_status": null
+    },
+    {
+      "title": "Public transport should feel welcoming, inclusive, and accessible for everyone... that’s exactly what we set out to create with our new Milestone bus…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_milestone-accessibility-activity-7401528746597433345-xUL9",
+      "activity_status": null
+    },
+    {
+      "title": "50p in every £ spend in OOH goes back to local transport, local council & local community, no other media channel can say the same! (& don't get me…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_the-derby-transformation-project-activity-7401542191426478080-1fWg",
+      "activity_status": null
+    },
+    {
+      "title": "The Grinch isn’t just stealing Christmas, he’s taken over our billboard! 💚 Exhibit A, his festive masterplan! Our billboard transformed into a…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_thegrinch-christmas-platformforbrands-activity-7399836730918588416-GI8R",
+      "activity_status": null
+    },
+    {
+      "title": "Playout was created to make OOH advertising more transparent, accountable, and easy to understand.💭 To make sure the data can be trusted, Playout is…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_playout-ooh-activity-7405176125405937664-vWx4",
+      "activity_status": null
+    },
+    {
+      "title": "🔥AXS UK has taken over our regional DOOH network across Birmingham, Newcastle and Leeds, cementing themselves as the Go To national ticketing…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_lifebeyondlondon-platformforbrands-ooh-activity-7398000364907778050-gUgs",
+      "activity_status": null
+    },
+    {
+      "title": "Last week was definitely a personal highlight of the last 6 months being part of the wider Bauer Media Group. Lindsay Rapacchi, Liz Martin, Simon…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_strongertogether-specialistwithin-publishing-activity-7398623981290954752-eDbs",
+      "activity_status": null
+    },
+    {
+      "title": "You don't have to love Adshel like I do, to still enjoy going behind the scenes of the installation of one of our new Bauer Media Outdoor UK…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_milestone-basildon-activity-7401540294707486721-Ww2l",
+      "activity_status": null
+    },
+    {
+      "title": "Sometimes the real Digital breakthroughs happen outdoors, in the real world👀 Programmatic OOH brings together data, creativity and context in a way…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_prooh-programmatic-activity-7401540921965621248-x88l",
+      "activity_status": null
+    },
+    {
+      "title": "Auld Alliance @ Picardy Place🔥 Perfect timing to launch Scotland’s largest digital Out of Home screen, Storm Edinburgh Leith Street! Picardy Place,…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_worldcup2026-scotland-activity-7397679517785399296-CM_X",
+      "activity_status": null
+    },
+    {
+      "title": "New Supermarket Win🔥 Bauer Media Outdoor UK will be installing 300 new #DOOH screens in Morrisons supermarkets across the UK 🛒 This win reinforces…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_dooh-platformforbrands-supermarkets-activity-7398649432935919616-PpPi",
+      "activity_status": null
+    },
+    {
+      "title": "2025 felt like a year in which \"ESG did not matter as much\", so we are proud that 2025 was the year in which Bauer Media Outdoor UK was awarded…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_peoplebehindtheposters-activity-7395171146125705216-P9at",
+      "activity_status": null
+    },
+    {
+      "title": "4,000 screens strong... our Adshel Live network keeps growing💪Truly the UK's largest Digital Out of Home Network🔥 Over the last 10 years our…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_adshel-live-4000-activity-7394996920202522624-Hjsc",
+      "activity_status": null
+    },
+    {
+      "title": "The UK's largest Digital OOH network is now 4,000 screens strong🔥 Hear a little more about our 4000th screen is in the busy Forest Hall area of…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_adshel-live-4000-activity-7396456058975649792-fME6",
+      "activity_status": null
+    },
+    {
+      "title": "\"There are lies, damned lies and marketing mix modelling” There’s no one better at cutting through marketing buzzwords and getting to the heart of…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_there-are-lies-damned-lies-and-marketing-activity-7394651022297636864-HtVE",
+      "activity_status": null
+    },
+    {
+      "title": "Now Bauer Media Outdoor UK, still #PlatformForGood, Bauer Media Group's hero charity partner, Cash for Kids, was on our #OOH screens across the…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforgood-ooh-ooh-activity-7393672596636024832-c6zd",
+      "activity_status": null
+    },
+    {
+      "title": "Hallo aus Bauer Media Group Deutschland x A great 24 hours in Hamburg, looking at last 6 months being part of the Bauer Media family. Great to be…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_media-europe-platformforgood-activity-7391904117297823746-fpiJ",
+      "activity_status": null
+    },
+    {
+      "title": "Spotted at the weekend, on my local high street. Bit of fun, yet 100% on message for Screwfix & Mo x Let's add a little humour into our life's, high…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_powerfulposters-activity-7388914631190159360-SWG7",
+      "activity_status": null
+    },
+    {
+      "title": "Great 24 hours in Manchester seeing colleagues and partners! Exciting time as Audio & Outdoor co-locate in awesome Deansgate space together x Shout…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_great-24-hours-in-manchester-seeing-colleagues-activity-7388966515980587008-6Sre",
+      "activity_status": null
+    },
+    {
+      "title": "The all-new Suzuki e Vitara has arrived, making its debut in electrifying style with a Roadblock! ⚡ Suzuki launched their new EV with our exclusive…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_suzuki-roadblock-activity-7392147700550565888-h-qS",
+      "activity_status": null
+    },
+    {
+      "title": "When 2 worlds you love collide ;-) Getting cold out there, so back to cycling on Strava. Was chuffed to see Bauer Media Outdoor UK Living roofs while…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforbrands-platformforgood-lifebeyondlondon-activity-7390666503555239936-iUMa",
+      "activity_status": null
+    },
+    {
+      "title": "The Milestone, by Bauer Media Outdoor UK, is the most innovative UK bus shelter in decades 🚏✨ Hear what our partners had to say when they saw our…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_milestone-activity-7391033546859257857-skWr",
+      "activity_status": null
+    },
+    {
+      "title": "Portsmouth is the UK's only island city👀 From its rich naval heritage to a thriving student scene, Portsmouth pulses with culture and seaside…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-lifebeyondlondon-activity-7391390087537729537-m_XL",
+      "activity_status": null
+    },
+    {
+      "title": "Our streets are changing and so is the way we care for them 🌿 For over 55 years, we have been keeping bus shelters standing strong - thanks to our…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_peoplebehindtheposters-sustainability-activity-7386643444930072576-xjqr",
+      "activity_status": null
+    },
+    {
+      "title": "Always enjoyable listening to Lindsay Rapacchi: Reach still trumps precision📢 In a world obsessed with targeting, that’s a truth worth revisiting!…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-platformforbrands-reach-activity-7391390306618851328-o6Q8",
+      "activity_status": null
+    },
+    {
+      "title": "\"Sweet dreams are made of this\" by Eurythmics as nothing on \"MemOOHries are made of this\" by Lindsay Rapacchi, especially as he and Aimee McKay bring…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_webinar-creativestrategy-activity-7383763548868485120-Nc7i",
+      "activity_status": null
+    },
+    {
+      "title": "Our collaboration with Portsmouth City Council is helping transform local transport through Super Stops and our Revive programme, making travel…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_portsmouth-super-stops-activity-7388579041756405760-VQDw",
+      "activity_status": null
+    },
+    {
+      "title": "What happens when creative minds from Channel 4, Lumen Research, Škoda UK, and VCCP come together to explore what makes posters truly memorable? Find…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_memoohries-are-made-of-this-activity-7388858514070253569-e03c",
+      "activity_status": null
+    },
+    {
+      "title": "Programmatic Out of Home: September highlights🔥 Brands across Europe made everyday moments unmissable with programmatic OOH Bauer Media Outdoor…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_programmaticooh-prooh-ooh-activity-7388578545184219137-C7sF",
+      "activity_status": null
+    },
+    {
+      "title": "“Best Place To Work” at the MPA - Manchester Publicity Association Awards!🏆 A huge congrats to Russell Levin & everyone who helped shape our entry…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_mpa-bestplacetowork-lifebeyondlondon-activity-7385320780022312960-mm8n",
+      "activity_status": null
+    },
+    {
+      "title": "Our 1st joint Audio & OOH creative solution is now live! Lionsgate “Good Fortune” spreading good vibes with a combined Audio and OOH campaign!…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_good-fortune-activity-7387416123463409664-byfj",
+      "activity_status": null
+    },
+    {
+      "title": "Window seat view with British Airways! From \"Doors\" to \"Hidden\" via \"Windows\" and \"Statues\", love it Uncommon Creative Studio Nils Leonard Calum…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_platformforbrands-powerfulposters-activity-7386723639812956160-j9Sl",
+      "activity_status": null
+    },
+    {
+      "title": "Talking shit 💩 Find out how a giant toilet roll is encouraging life-saving action💭 By transforming an everyday item into an unmissable #OOH…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-lifeinlondon-nhs-activity-7385316768644497410-gWqK",
+      "activity_status": null
+    },
+    {
+      "title": "One of our latest creative picks comes from Canva’s latest standout special build installation. A perfect example of the 5th ‘S’ of our Perfect…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_ooh-creativity-powerfulposters-activity-7385705572534296576-i4IE",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Richard Bon",
+      "link": "https://nl.linkedin.com/in/richardbon",
+      "summary": "Freelance Lead Marine Engineer and Tender Manager",
+      "location": "Utrecht Area"
+    },
+    {
+      "name": "Richard BON",
+      "link": "https://fr.linkedin.com/in/richard-bon-a713425a",
+      "summary": "Maître de conférences chez Université Paul Sabatier and CNRS",
+      "location": "Greater Toulouse Metropolitan Area"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://fr.linkedin.com/in/richard-bon-6272232a",
+      "summary": "Maître de conférences chez CRCA",
+      "location": "Greater Toulouse Metropolitan Area"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://nl.linkedin.com/in/bonrichard",
+      "summary": "Ops Engineer bij ING",
+      "location": "Amsterdam"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://ph.linkedin.com/in/richard-bon-5616895a",
+      "summary": "QC Civil Inspector",
+      "location": "Philippines"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://nl.linkedin.com/in/richard-bon-49610710a",
+      "summary": "Contractmanager / Senior Adviseur Inkoop bij Rijkswaterstaat",
+      "location": "Middelburg"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://au.linkedin.com/in/richard-bon",
+      "summary": "Civil Engineer at GHD",
+      "location": "Wodonga, VIC"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://uk.linkedin.com/in/richard-bon-a3a47bb0",
+      "summary": "--",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://uk.linkedin.com/in/richard-bon-069489110",
+      "summary": "--",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Richard Bonsall",
+      "link": "https://uk.linkedin.com/in/richardbonsall",
+      "summary": "Senior Contract Manager at HS2",
+      "location": "Greater Coventry Area"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://uk.linkedin.com/in/richard-bon-abb24624",
+      "summary": "--",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Richard Bon",
+      "link": "https://www.linkedin.com/in/richard-bon-68203a269",
+      "summary": null,
+      "location": "Ridgway, PA"
+    }
+  ],
+  "articles": [
+    {
+      "title": "From Resilience To Renaissance",
+      "link": "https://www.linkedin.com/pulse/from-resilience-renaissance-richard-bon",
+      "published_date": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4D12AQFVGsZ6ZaXexw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1614604567775?e=2147483647&v=beta&t=CJWpJ4F_0qONGBaJSgd2OMCt9atOl0wGfI_LkKqBk0g"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:53:54Z"
+  }
+}

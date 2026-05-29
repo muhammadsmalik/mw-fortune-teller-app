@@ -1,0 +1,302 @@
+{
+  "public_identifier": "yoko-ono-36411384",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/e0feab4418252048b15a0467c85bdc67",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Yoko",
+  "last_name": "Ono",
+  "full_name": "Yoko Ono",
+  "follower_count": 143,
+  "occupation": "シニアビジネス開発マネージャー at NTTドコモ",
+  "headline": "NTT DOCOMO, Inc. - Senior Manager",
+  "summary": null,
+  "location_str": "Japan",
+  "country": "JP",
+  "country_full_name": "Japan",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "NTTドコモ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ntt-docomo",
+      "company_facebook_profile_url": null,
+      "title": "シニアビジネス開発マネージャー",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/D560BAQE1yTwKIpRy8w/img-crop_100/B56ZfJKxZ7GQAQ-/0/1751426735082?e=2147483647&v=beta&t=kEDm30GQxv011y58vsNtVtLrUYGfouL8w_OjjuF2yT4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "NTTドコモ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ntt-docomo",
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/D560BAQE1yTwKIpRy8w/img-crop_100/B56ZfJKxZ7GQAQ-/0/1751426735082?e=2147483647&v=beta&t=kEDm30GQxv011y58vsNtVtLrUYGfouL8w_OjjuF2yT4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "NTT DOCOMO, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ntt-docomo-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2025
+      },
+      "company": "LIVE BOARD,INC.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/live-board-inc",
+      "company_facebook_profile_url": null,
+      "title": "Head of Department",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C510BAQGhDRMTnK0bOA/company-logo_100_100/company-logo_100_100/0/1630608613854?e=2147483647&v=beta&t=lDbDzNROkikGkcmXB-A8L2c3yojLsKMIkZpF7UANaQM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "company": "LIVE BOARD,INC.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/live-board-inc",
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": "日本 東京都 東京",
+      "logo_url": "https://assets.enrichlayer.com/ll/C510BAQGhDRMTnK0bOA/company-logo_100_100/company-logo_100_100/0/1630608613854?e=2147483647&v=beta&t=lDbDzNROkikGkcmXB-A8L2c3yojLsKMIkZpF7UANaQM"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Master of Science",
+      "degree_name": "Master of Science",
+      "school": "Carnegie Mellon University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/carnegie-mellon-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C560BAQH0rMqWuDcNzA/company-logo_100_100/company-logo_100_100/0/1656670432790/carnegie_mellon_university_logo?e=2147483647&v=beta&t=aPUYNrOY_aNQ_xYOLYuS6QMkoaAk4TILUhTj-qpZOTs",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "修士号",
+      "school": "東京工業大学",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/東京工業大学",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "日本語"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "日本語",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Young Scientist Award",
+      "issuer": "The Materials Research Society of Japan",
+      "issued_on": null,
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [
+    {
+      "name": "TOEIC",
+      "score": "905",
+      "date_on": null,
+      "description": null
+    }
+  ],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 145,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Dear friends and colleagues in Asia, As we prepare to meet in Shenzhen, I would like to share a brief note with you. The theme of this seminar is…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_dear-friends-and-colleagues-in-asia-as-activity-7427145995169378304-3YfQ",
+      "activity_status": null
+    },
+    {
+      "title": "English Follows…",
+      "link": "https://www.linkedin.com/posts/english-follows-japanese-昨年の後半から日本企業の海外展開-activity-7421141377507414016-ak3Y",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 30 Years of Creativity: The Pikasso d'Or Historic Milestone Yesterday was a night to remember for the advertising industry in the #MENA region! We…",
+      "link": "https://www.linkedin.com/posts/pikasso_mena-beirut-ooh-activity-7417875783525974016-wTC_",
+      "activity_status": null
+    },
+    {
+      "title": "Venice. During dinner with the people I’m traveling with, we found ourselves talking about the impact of the OOH advertising right in front of our…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_venice-during-dinner-with-the-people-i-activity-7418135006490865664-Q1J5",
+      "activity_status": null
+    },
+    {
+      "title": "Tonight's DPAA|CES Kickoff Dinner at PRIME Las Vegas was a major success! Thanks to everyone who came out and BIG THANKS to Derek Schoen, Vice…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_ces2026-activity-7414208248255414272-RtkD",
+      "activity_status": null
+    },
+    {
+      "title": "A short stop in Milan on the way to the Dolomites. An early morning walk to the Duomo, spotting OOH along the streets where the city meets culture…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_a-short-stop-in-milan-on-the-way-to-the-dolomites-activity-7415725180108292096-9FUH",
+      "activity_status": null
+    },
+    {
+      "title": "Closing out 2025 together at LIVE BOARD. 👏 As the year came to a close, we gathered at our familiar office bar. A chance to pause, look back on the…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_yearendparty-bounenkai-liveboard-activity-7410305634073493504-eYN9",
+      "activity_status": null
+    },
+    {
+      "title": "Grateful for the recognition at our company holiday party. I was honored to receive the Wolfe Culture Award and was nominated for Employee of the…",
+      "link": "https://www.linkedin.com/posts/juninada_grateful-for-the-recognition-at-our-company-activity-7406830504244699136-ncvV",
+      "activity_status": null
+    },
+    {
+      "title": "What a week in New York — and what a year for AllUnite. Our trip to NYC last week was the perfect final chapter to an exceptional 2025. From…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_what-a-week-in-new-york-and-what-a-year-activity-7404551597349081088-VXDs",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gzVDBr55 久しぶりにウェビナー登壇します。生配信なので失言とかできませんが、その場で思いついたことをしゃべるスタイルなので、収録だと一時停止してやり直しすると内容変わってしまうので苦手です。よろしければぜひ。",
+      "link": "https://jp.linkedin.com/posts/nsnkmr_mcdecauxとlive-boardが共催ウェビナーを開催-mcdecaux-activity-7404452904071569409-CPxO",
+      "activity_status": null
+    },
+    {
+      "title": "In 2024, PODO, together with the Korea OOH Association, officially released the Korean edition of WOO’s Global OOH Audience Measurement…",
+      "link": "https://www.linkedin.com/posts/podomedia_podo-podomedia-podomedianetwork-activity-7398572593470922752-t2lp",
+      "activity_status": null
+    },
+    {
+      "title": "It was an absolute pleasure to talk with and learn from Ichiro T. Jinnai, Daewon Kim, Elizabeth McIntyre, and Maud Moawad at the World Out of Home…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_the-path-to-delivering-universal-ooh-audience-activity-7404171597374214145-JaeC",
+      "activity_status": null
+    },
+    {
+      "title": "AllUnite attending conference in New York. Great days in lower manhattan 😀",
+      "link": "https://www.linkedin.com/posts/esbene_allunite-attending-conference-in-new-york-activity-7402709152105533440-9s7l",
+      "activity_status": null
+    },
+    {
+      "title": "An article covering the World Out of Home Organization (WOO) APAC Forum in Seoul, along with an interview with Daewon Kim, Vice Chairman of the Korea…",
+      "link": "https://www.linkedin.com/posts/podomedia_apacooh-seouloohmedia-podomedia-activity-7404385657160314880-g5gG",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I had the privilege of joining WOO's friends and members on a three-day trip to Shenzhen and Hong Kong. This journey reinforced the power…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_last-week-i-had-the-privilege-of-joining-activity-7403720531159576577-1aKC",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Yoko O.",
+      "link": "https://jp.linkedin.com/in/yoko-o-a0566119",
+      "summary": "Global Luxury Brand & Marketing Executive | Luxury Beauty HQ | Social Media × Communications",
+      "location": "Greater Tokyo Area"
+    },
+    {
+      "name": "Yoko Ono",
+      "link": "https://jp.linkedin.com/in/yoko-ono-b3a5a140a",
+      "summary": "Manufacturing Accounting Professional | Cost Accounting & Budget Management | TOEIC 975 | Seeking Global Accounting Opportunities",
+      "location": "Japan"
+    },
+    {
+      "name": "Yoko Ono",
+      "link": "https://jp.linkedin.com/in/onoyoko",
+      "summary": "JA/EN Bilingual Strategic Project Manager",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "name": "Yoko Ono",
+      "link": "https://jp.linkedin.com/in/yoko-ono-80970312",
+      "summary": "Research Manager at IDC Japan",
+      "location": "Tokyo"
+    },
+    {
+      "name": "Yoko Ono",
+      "link": "https://jp.linkedin.com/in/yoko-ono-3097192a",
+      "summary": "Research Manager at IDC Japan",
+      "location": "Japan"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:53:04Z"
+  }
+}

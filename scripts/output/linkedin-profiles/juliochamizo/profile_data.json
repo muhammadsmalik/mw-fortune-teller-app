@@ -1,0 +1,497 @@
+{
+  "public_identifier": "juliochamizo",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/1e6adf71c345bf31676ef3bc5dc1f113",
+  "first_name": "Julio",
+  "last_name": "Chamizo",
+  "full_name": "Julio Chamizo",
+  "follower_count": 4232,
+  "occupation": "Company Owner at Taggify",
+  "headline": "Taggify - Programmatic Out of Home Platform",
+  "summary": "I've been working with html code since 1998 when i was only 16 years. - 1999…",
+  "location_str": "Argentina",
+  "country": "AR",
+  "country_full_name": "Argentina",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Taggify",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taggify",
+      "company_facebook_profile_url": null,
+      "title": "Company Owner",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/813fbeae384655c081cc62083013c844"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2024
+      },
+      "company": "Taggify",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taggify",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": null,
+      "location": "Greater Buenos Aires, Argentina",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/813fbeae384655c081cc62083013c844"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Bolivar.Codes",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bolivar-codes",
+      "company_facebook_profile_url": null,
+      "title": "Fundador",
+      "description": null,
+      "location": "Bolívar, Buenos Aires, Argentina",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57dee13f67661b2cb4e7de2b707a5ae9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2018
+      },
+      "company": "Taggify",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/taggify",
+      "company_facebook_profile_url": null,
+      "title": "Co Founder & CEO",
+      "description": "COO - Making that things get done!\n\n- Product Manager. \n- Business Development.\n- Coordination between Teams.",
+      "location": "Argentina",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/813fbeae384655c081cc62083013c844"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2012
+      },
+      "company": "DreamDesigners",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dreamdesigners",
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": "Brand development, web site traffic growth, web site UI and advertising revenue. Developed brand strategy and statistics systems. \nStrategic Consulting, including business plan & sales strategy development.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/46e15820606ec5f7145e1729f2f0ba0b"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Taggify",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Designer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Lumina Americas",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lumina-americas",
+      "company_facebook_profile_url": null,
+      "title": "Junior Designer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ebba2bc0b1b1cd0d41ee66905b66865a"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": null,
+      "degree_name": "Ninguno",
+      "school": "Universidad de Palermo",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-de-palermo",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b2dff4215503accff70e7bcf8ceed200",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Cervantes",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Inglés",
+    "Portugués"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglés",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Portugués",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 4246,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/marcelogdl",
+      "name": "Marcelo De Luca",
+      "summary": "Co-founder de The App Master | Director de Tecnología y Operaciones | MBA IAE Business School | Especialista en Soluciones de Software y Transformación Digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariano-terrana",
+      "name": "Mariano H. Terrana",
+      "summary": "Industrial Engineer / MBA / Scrum Master / Data Science",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-grabow-sap-abap-gestion-proyectos-mantenimiento",
+      "name": "Adrian Gustavo Grabow",
+      "summary": "Ejecutivo IT | Gerente de Sistemas | Gestion de Equipos IT | SAP Project Manager | Lider SAP",
+      "location": "Buenos Aires"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rdesouza",
+      "name": "Rodrigo de Souza Gago",
+      "summary": "Responsable de Operaciones",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-cascante",
+      "name": "Darío Sebastian Cascante",
+      "summary": "Searching",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanignaciobais",
+      "name": "Juan Ignacio Bais",
+      "summary": "CEO at TradeSpark",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leaj58",
+      "name": "Leandro Juarez",
+      "summary": "Ingeniero en Sistema",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aldosv",
+      "name": "Aldo Santaromita Villa",
+      "summary": "Chief Operating Officer en flexibility",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanasiutti",
+      "name": "Juana Siutti",
+      "summary": "Chief Operating Officer & Board Member @NodusCompany",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dar%25C3%25ADo-sebastian-cascante",
+      "name": "Darío Sebastian Cascante",
+      "summary": "Searching",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-oliveti-02299722",
+      "name": "Guillermo Oliveti",
+      "summary": "Director of Operations at GOIAR and Psychologist | Strategic Vision + Human Leadership | Building the Fintech Ecosystem",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vialaniz",
+      "name": "Victor Alaniz",
+      "summary": "Fundador de Coterranea",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dcastillo4",
+      "name": "Diego Andrés Castillo",
+      "summary": "Project Manager / Head of PM | Agile & PMO | Large-Scale Team Leadership (50+) | Stakeholder Management | Technology & Digital Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristian-civita-14814745",
+      "name": "Cristian Civita",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-christensen-59b08649",
+      "name": "Sean Christensen",
+      "summary": "CIO - Chief Information Officer at GRANT | Insurance Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-pablo-salvay-44024b55",
+      "name": "Luis Pablo Salvay",
+      "summary": "Chief Operating Officer en Grupo W-G",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomas-f%25C3%25B6hrig-57290a96",
+      "name": "Tomas Föhrig",
+      "summary": "VMAT",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ronel-lezama-b384b6a2",
+      "name": "Ronel Lezama",
+      "summary": "Lead and IT specialist. Presento lcit.com.ar, emprendimiento junto a profesionales con mas de 16 años de experiencia en el área It. Desde Salta para todo el norte argentino.",
+      "location": "Salta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mateo-tozzini-4a6291b2",
+      "name": "Mateo Tozzini",
+      "summary": "Web UI Developer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucas-burella-55821aba",
+      "name": "Lucas Burella",
+      "summary": "COO at Crombie",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferrermartin",
+      "name": "Martin Ferrer Reyes",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Pablo Mendoza\n\nEs un placer hacer na recomendación de él. Recuerdo que lo conocí en sus inicios profesionales y se destacó rápidamente por su creatividad, ingenio, capacidad profesional y su carisma. Se que hacen cosas tremendas en su estudio Dream Designers y que le va fantastico. ¡Que siga así o mejor!",
+    "Oscar Javier Gentilezza Arenas\n\nMuy buen diseñador y por sobretodo muy bien orientado para la Web 2.0, aparte de sus diseños atractivos, entendibles y para nada sobrecargados destaco el prolijo parseo y el exelente manejo de (x)HTML y CSS. Como programador, trabajar con Julio se vuelve muy cómodo."
+  ],
+  "activities": [
+    {
+      "title": "I have encountered many blockers and had my fair share of challenges during my career. Breaking through barriers and being \"the first,\" \"the…",
+      "link": "https://www.linkedin.com/posts/danwcm_career-inthistogether-designyourcareer-activity-7423018265557372928-zAj5",
+      "activity_status": null
+    },
+    {
+      "title": "New year, new office. Building the future of AI from downtown San Francisco. Thank you Mayor Daniel Lurie for joining us in celebration of our new…",
+      "link": "https://www.linkedin.com/posts/vercel_new-year-new-office-building-the-future-activity-7414474522713722881-JVLf",
+      "activity_status": null
+    },
+    {
+      "title": "2026 is officially in motion, and the energy is high. 🚀 We’ve brought the team together in the mountains for our annual kickoff seminar. Beyond…",
+      "link": "https://www.linkedin.com/posts/displayce_2026-is-officially-in-motion-and-the-energy-activity-7422937593983676416-A-gy",
+      "activity_status": null
+    },
+    {
+      "title": "Vamos falar de Luxemburgo... A JCDecaux acaba de renovar, por 10 anos, a concessão exclusiva dos ativos de mídia da CFL, a companhia nacional de…",
+      "link": "https://pt.linkedin.com/posts/ana-celia-biondi-rodriguez-86259666_ooh-digital-activity-7422697059193077760-up1a",
+      "activity_status": null
+    },
+    {
+      "title": "Hoy estamos con The Kollective en su segundo Foro con ponencias muy interesantes.",
+      "link": "https://es.linkedin.com/posts/eliamendezbravo_hoy-estamos-con-the-kollective-en-su-segundo-activity-7422199179306942464-PcRD",
+      "activity_status": null
+    },
+    {
+      "title": "Te estamos buscando! A vos, o a esa persona en la que estás pensando y podés compartirle la búsqueda 💪 🦋",
+      "link": "https://es.linkedin.com/posts/agustín-porris-5a26b416_te-estamos-buscando-a-vos-o-a-esa-persona-activity-7419798524999081984-y9kQ",
+      "activity_status": null
+    },
+    {
+      "title": "This week, we kicked off Q4 at LIVE BOARD 🚀 With presentations from each department, we shared ideas, direction, and the energy that will carry us…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_q4kickoff-teamlb-liveboard-activity-7417851401134948352-sc-o",
+      "activity_status": null
+    },
+    {
+      "title": "I’m very happy to share that I was recognized as a Top 25% Recruiter on LinkedIn in 2025 🏆 This recognition reflects many hours of searching…",
+      "link": "https://www.linkedin.com/posts/tatianamendive_talentmvp2025-recruiting-talentacquisition-activity-7417603146123984897-52ht",
+      "activity_status": null
+    },
+    {
+      "title": "No es casualidad que un unicornio como lo es Mercado Libre nos siga eligiendo. Gracias.",
+      "link": "https://www.linkedin.com/posts/juliochamizo_no-es-casualidad-que-un-unicornio-como-lo-activity-7458890296676782080-byeG",
+      "activity_status": null
+    },
+    {
+      "title": "Ready for London 2026 with the World Out of Home Organization. Reconnecting, learning, and world-class speakers. Who’s coming?",
+      "link": "https://www.linkedin.com/posts/juliochamizo_ready-for-london-2026-with-the-world-out-activity-7449804777841971200-bVQy",
+      "activity_status": null
+    },
+    {
+      "title": "linkedin se está transformando en un spambox de propuestas AI-based que realmente hace que las notificaciones queden obsoletas.",
+      "link": "https://www.linkedin.com/posts/juliochamizo_linkedin-se-está-transformando-en-un-spambox-activity-7372405814004801536-RRSJ",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Programmer's Day! Your hard work and dedication inspire us all. Let’s continue to push boundaries and create cutting-edge technology together!",
+      "link": "https://www.linkedin.com/posts/juliochamizo_happy-programmers-day-your-hard-work-and-activity-7372405508139470848-j--t",
+      "activity_status": null
+    },
+    {
+      "title": "I've been doing 'AI Vibe coding', a few things (with huge success). Take a look at Emiliano's tips, because the way to work is a game-changer. With…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_ive-been-doing-ai-vibe-coding-a-few-things-activity-7350940102111428609-vc-q",
+      "activity_status": null
+    },
+    {
+      "title": "Les dejo la nota escrita en El Publicista por Sara Bermúdez sobre la #Publicidad #programática. Donde hace mención a Taggify y la posibilidad de…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_publicidad-programática-dooh-activity-7345427289007943680-prBb",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/dxxWtrWY",
+      "link": "https://www.linkedin.com/posts/juliochamizo_why-cpms-matter-and-how-ooh-advertising-is-activity-7341051491673092096-ifMq",
+      "activity_status": null
+    },
+    {
+      "title": "🚫 When someone builds an ad blocker for the real world… it’s time to ask deeper questions. I recently came across a video where an AI engineer…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_when-someone-builds-an-ad-blocker-for-activity-7343384466641276928-Mpup",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks Mercado Libre and ZetaBé Media Agency for trusting us this great communication! #pDOOH",
+      "link": "https://www.linkedin.com/posts/juliochamizo_pdooh-activity-7336826808354463746-6LWS",
+      "activity_status": null
+    },
+    {
+      "title": "Another great Congress! This time, \"near home\" (at least an 8-hour flight =). It was a pleasure and a joy to see this level of colleagues from around…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_another-great-congress-this-time-near-activity-7338207125958987776-pCUy",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to reconnect with amazing professionals from the #outdoor #advertising industry at this event in Hong Kong! Looking forward to creating…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_outdoor-advertising-networking-activity-7201582512509243392-UF4F",
+      "activity_status": null
+    },
+    {
+      "title": "This wonderful dream team made this conference a tremendous success! Congrats my friends! ðð»ðð»ðð»ðµð¹ð",
+      "link": "https://www.linkedin.com/posts/juliochamizo_this-wonderful-dream-team-made-this-conference-activity-7072731015588290560-sgXD",
+      "activity_status": null
+    },
+    {
+      "title": "As an entrepreneur, it is a very special moment. This new brand reflects the evolution of our company. #entrepreneur #brand 🚀",
+      "link": "https://www.linkedin.com/posts/juliochamizo_taggify-new-identity-activity-7082391276012093440-lEZJ",
+      "activity_status": null
+    },
+    {
+      "title": "We love when these integrations are ready to rock! Congrats to the teams involved to make it happen!",
+      "link": "https://www.linkedin.com/posts/juliochamizo_from-colombia-enmedio-and-marketmedios-join-activity-7033006279279140864-pwgv",
+      "activity_status": null
+    },
+    {
+      "title": "Great work Santi! We are glad to be in the best place to be! 🚀",
+      "link": "https://www.linkedin.com/posts/juliochamizo_great-work-santi-we-are-glad-to-be-in-the-activity-6936132155357949952-V1Yn",
+      "activity_status": null
+    },
+    {
+      "title": "Happy and Proud to receive this kind of Feedback from our Customers! #DOOH #Programmatic #IPG #Matterkind :)",
+      "link": "https://www.linkedin.com/posts/juliochamizo_dooh-programmatic-ipg-activity-6861031785644478464-ktPg",
+      "activity_status": null
+    },
+    {
+      "title": "I'm happy to see that lockdown is away and Out of Home industry it's starting again in #Argentina. Gatorade through Xaxis bet on #Programmatic #DOOH…",
+      "link": "https://www.linkedin.com/posts/juliochamizo_argentina-programmatic-dooh-activity-6732754103648165888-B6hH",
+      "activity_status": null
+    },
+    {
+      "title": "Excelente Trabajo el que está haciendo Mariano Tejero Scopesi. Felicitaciones a todo el equipo!",
+      "link": "https://www.linkedin.com/posts/juliochamizo_la-vía-pública-del-interior-tendrá-su-medición-activity-6582276167024300032-EbIL",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Julio Díaz Chamizo",
+      "link": "https://es.linkedin.com/in/juliodc",
+      "summary": null,
+      "location": "Greater Barcelona Metropolitan Area"
+    },
+    {
+      "name": "julio chamizo morcillo",
+      "link": "https://es.linkedin.com/in/julio-chamizo-morcillo-16b10366",
+      "summary": "empresario",
+      "location": "Greater Badajoz Metropolitan Area"
+    },
+    {
+      "name": "Julio Chamizo",
+      "link": "https://ar.linkedin.com/in/julio-chamizo-42614b3b",
+      "summary": "Asesor en MIAG Y CEA Valle de Cholila",
+      "location": "Argentina"
+    },
+    {
+      "name": "Julio Cesar Garcoa Chamizo",
+      "link": "https://cu.linkedin.com/in/julio-cesar-garcoa-chamizo-a769b0230",
+      "summary": "Cantante vocalista en Ignacio piñeiro",
+      "location": "Havana"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:47:13Z"
+  }
+}

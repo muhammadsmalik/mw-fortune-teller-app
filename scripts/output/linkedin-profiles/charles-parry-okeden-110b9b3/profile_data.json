@@ -1,0 +1,860 @@
+{
+  "public_identifier": "charles-parry-okeden-110b9b3",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/fe8466fe782f2f3234f938ea5ab89fd0",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D5616AQEPTlSnqXffYw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687364612930?e=2147483647&v=beta&t=d8okdC1SyLFd5vFlUW3UbDFY7WCPI1NfWuzWchbUHZE",
+  "first_name": "Charles",
+  "last_name": "Parry-Okeden",
+  "full_name": "Charles Parry-Okeden",
+  "follower_count": 2140,
+  "occupation": "Co-Founder & Global CEO at Executive Channel Network (ECN)",
+  "headline": "Founder & Global CEO",
+  "summary": "Charles Parry-Okeden&nbsp;is a highly accomplished media executive with over 35 years’…",
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2005
+      },
+      "ends_at": null,
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & Global CEO",
+      "description": "Charles is the Co-Founder and Global CEO of Executive Channel Holdings Pty Ltd (ECH). ECH owns and operates Executive Channel Europe (UK / France / Belgium), Executive Channel Deutschland, Australian Media Channel (Media i), MI3 Australia and Media EYE France.  Media Eye France is a joint venture with Adwanted Group.",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "ends_at": null,
+      "company": "Media i Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-i",
+      "company_facebook_profile_url": null,
+      "title": "Founder & CEO",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bb9a3b9e5bdc8735e3d5c98eb1987eae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "MediaEye France",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediaeyefrance",
+      "company_facebook_profile_url": null,
+      "title": "President",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0d0a0d51335bb8a461c53763cbec56f1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Outdoor Media Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oma-australia",
+      "company_facebook_profile_url": null,
+      "title": "Independent Chairman",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/142fc11354068c8ee01d651237eec786"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "World Out of Home Organization",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fepe-international",
+      "company_facebook_profile_url": null,
+      "title": "Vice President",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c775eb14605fdaa1a38712b582ff038f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Elula",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/elula",
+      "company_facebook_profile_url": null,
+      "title": "Non Executive Director",
+      "description": null,
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3e1b7b3ca8644d1dd9123d5bf8303072"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Sinorbis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sinorbis",
+      "company_facebook_profile_url": null,
+      "title": "Non Executive Director",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68746c13c42151537aaffe151aaa9cdf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2018
+      },
+      "company": "Sinorbis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sinorbis",
+      "company_facebook_profile_url": null,
+      "title": "Advisory Board Member",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68746c13c42151537aaffe151aaa9cdf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "Outdoor Media Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oma-australia",
+      "company_facebook_profile_url": null,
+      "title": "Member Board Of Directors",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/142fc11354068c8ee01d651237eec786"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2005
+      },
+      "company": "APN Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apn-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director NSW",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ed37864601366035cfc884bf607c7ef9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2004
+      },
+      "company": "Buspak Advertising Group Pty Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Director - ANZ",
+      "description": null,
+      "location": "sydney",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Business",
+      "school": "Swinburne University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/swinburne-university-of-technology",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0bbe1bed3f5a8f3746f9493529b1de91",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1986
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Scotch College Melbourne",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/josh-shipman",
+      "name": "Josh Shipman",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andsoup",
+      "name": "Andreas Soupliotis",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankvallenga",
+      "name": "Frank Vallenga",
+      "summary": null,
+      "location": "Rosmalen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-derricott",
+      "name": "Thomas Derricott-Yap",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreahoymann",
+      "name": "Andrea Hoymann",
+      "summary": "B2B Marketing Strategy | Go-to-Market Strategy | HubSpot | Sustainable Growth",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matsronne",
+      "name": "Mats Rönne",
+      "summary": "Senior advisor at OffPist Management",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolaschu",
+      "name": "Nicolas Chu",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-brownsdon",
+      "name": "William Brownsdon",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartendollevoet",
+      "name": "Maarten Dollevoet",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/airportseoul",
+      "name": "Hyun Lee",
+      "summary": "Seoul Incheon Airport Advertising Specialist / Mental Wellness Advocate",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fayaasmahin",
+      "name": "Fayaas Mahin",
+      "summary": "Founder at Clips — We help nonprofits raise more without raising their budget.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-hamblin",
+      "name": "Andrew Hamblin",
+      "summary": "Digital Transformation, Automation, Retail Media Screen Networks, D/OOH",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerrythorley",
+      "name": "Gerry Thorley",
+      "summary": "Director/Owner Maxan Investments; Co Founder Digital Place Solutions",
+      "location": "Kiama"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasper-gill",
+      "name": "Jasper Gill",
+      "summary": "China | International Education | Student Recruitment | Sales Development",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franckvidal",
+      "name": "Franck Vidal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dhruv",
+      "name": "Dhruv Parashar",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-eduardo-francisco-de-lella-05860017",
+      "name": "Guillermo Eduardo Francisco De Lella",
+      "summary": "Vicepresidente en Asociación Latinoamericana de Publicidad Exterior - OOH | Miembro de la OAAA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesrobinson",
+      "name": "James Robinson",
+      "summary": "CEO of SMS Solutions, Executive Board Member & CEO of IDM Australia and Chairman of Yarra Ranges Tourism.",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsayrapacchi",
+      "name": "Lindsay Rapacchi",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephzhangau",
+      "name": "Joseph Zhang",
+      "summary": "CipherBC•798 followers",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trishbarry",
+      "name": "Trish Barry",
+      "summary": "CEO | Marketing Strategy | Experienced Social Media + Digital Leader | Team Trainer | Wine Storyteller | Board Member | GAICD | Mum",
+      "location": "Drummoyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-bushby",
+      "name": "Matt Bushby",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brucefinkecn",
+      "name": "Bruce Fink",
+      "summary": "Co Founder at Executive Channel Network (ECN)",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tonybradvica",
+      "name": "Ante Bradvica",
+      "summary": "Media Crew•510 followers",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annamariapisano",
+      "name": "Anna Maria Pisano",
+      "summary": "Ceo and Executive Director, Global Studio",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charmaine-moldrich-gaicd-b7176023",
+      "name": "Charmaine Moldrich GAICD",
+      "summary": "Outdoor Media Association•3K followers",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylanmabin",
+      "name": "Dylan Mabin",
+      "summary": "President - Geopath",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mcintyrepaul",
+      "name": "Paul McIntyre",
+      "summary": "Executive Editor | Publisher at Mi-3 Australia",
+      "location": "Moore Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-parry-okeden-a66bba253",
+      "name": "Sophie Parry Okeden",
+      "summary": "New Account Manager @ Amazon",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-clancy",
+      "name": "Sean Clancy",
+      "summary": "Chairman | CEO | Non Executive Director | Entrepreneur | Sales and Marketing Professional",
+      "location": "Dooralong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/desmondkohn",
+      "name": "Desmond Kohn",
+      "summary": "Director, Global Business Development at Sinorbis",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deanbortignon",
+      "name": "Dean Bortignon",
+      "summary": "Advertising Freelancer | Strategic Marketing Management",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shebanandkeolyar3",
+      "name": "Sheba Nandkeolyar",
+      "summary": "Founder CEO MultiConnexions Group,  Global VP DE&I, International Advertising Association, Immediate Past National Chair Australia India Business Council, Board Member Media Diversity Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewhaussegger",
+      "name": "Andrew Haussegger",
+      "summary": "Green Hat Co-Founder, CEO, B2B Marketing Evangelist, Research Author, Public Speaker",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulrhodes1",
+      "name": "Paul Rhodes",
+      "summary": "CEO, Founder Dig Agency at Dig Agency",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-fein",
+      "name": "Melissa Fein",
+      "summary": "Managing Director, Media, Accenture APAC, Director of Swimming Australia, 2023 CEO of the year (CEO Magazine), 2022 Woman of the year (B&T),  Executive of the year, YPO Member",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-lai-b7026a7",
+      "name": "Vanessa Lai",
+      "summary": "Head of Media (Melbourne)",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-parker-8383467",
+      "name": "Nick Parker",
+      "summary": "Founder Go2OOH Consultancy Ltd. NED, Chair VIOOH, Global President Veridooh, Former Global COO Kinetic Worldwide - Global OOH Advocate",
+      "location": "Esher"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-arnold",
+      "name": "Sally Arnold",
+      "summary": "International Media Subject Matter Expert and Director @ Sell Media International | International Media",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cathy-o-connor-2668668",
+      "name": "Cathy O'Connor",
+      "summary": "Non-Executive Director (GAICD) Southern Cross Media Group Limited (ASX: SXL)\n Chair, Sony Foundation Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-humphris",
+      "name": "Jason Humphris",
+      "summary": "Founder & CEO @ Pet Projects International (PPI), the Dog and Cat Lovers Festivals",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-saturley-44a71b13",
+      "name": "Richard Saturley",
+      "summary": "World Out of Home Organization•887 followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameronrambert",
+      "name": "Cameron Rambert",
+      "summary": "Fractional CMO 🎯 | Eliminate Random Acts of Marketing",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleisha-mccall-749a2615",
+      "name": "Aleisha McCall",
+      "summary": "We help CMOs spending $1–$10M unlock scalable, market-beating results fast. If you’re \nambitious, funded, ready to scale, and not tied to a global agency, we’ll deliver quick wins \nand accelerated sales in 30 days.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-de-lella",
+      "name": "Guillermo De Lella",
+      "summary": "CEO of ALOOH | Specialist in Out-of-Home Advertising (OOH) in Latin America | Industry Development, Regional Integration, and New Formats",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julian-townley-6189081a",
+      "name": "Julian Townley",
+      "summary": "CEO at Grocerize.com.au | Media and Marketing Executive with 25+ years’ experience in building businesses and brands | Digital Content & Creative Specialist",
+      "location": "Surry Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agung-prihambodo-94b48a25",
+      "name": "Agung Prihambodo",
+      "summary": "connecting the dots",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jemima-southgate-41a47728",
+      "name": "Jemima Southgate",
+      "summary": "Experienced senior administrative professional, passionate about people and community.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elsa-van-wijk-55a69130",
+      "name": "Elsa van Wijk",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joeybacic",
+      "name": "Joey Bacic",
+      "summary": "Signage & Outdoor Advertising | Property Development | Real Estate",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-winterburn-aa617633",
+      "name": "Chris Winterburn",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaron-monks-787b6635",
+      "name": "Aaron Monks",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-bolter-2b9a8645",
+      "name": "Francesca Bolter",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christine-lee-84430851",
+      "name": "Christine Lee",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kylie-green",
+      "name": "Kylie Green",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-ibbertson-228708a0",
+      "name": "Joshua Ibbertson",
+      "summary": "Site Supervisor for Downer - LoganWIA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-macfarlane-760014105",
+      "name": "John MacFarlane",
+      "summary": "Master Class 4 at Transit Systems Australia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-hunt-b0685211b",
+      "name": "Scott Hunt",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-macfarlane-a43a59121",
+      "name": "John MacFarlane",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-naing-b872a8174",
+      "name": "Jessica Naing",
+      "summary": "Director, Customer Success at Sinorbis",
+      "location": "Sydney"
+    }
+  ],
+  "recommendations": [
+    "Sean Adams\n\nI first came into contact with Charles many years ago when he was at Buspak and have had the pleasure of working with him a number of times since\r\n\r\nCharles is a born leader who has the ability to build strong and cohesive teams around him which I have seen happen at several companies. \r\n\r\nHe also has a strong entrepreneurial streak that ensures he is always looking for new opportunities to do things differently\r\n\r\nAnd on top of that, he is one of the Media Industry's good guys - always good company and popular with both colleagues, suppliers and clients alike."
+  ],
+  "activities": [
+    {
+      "title": "Aujourd'hui c'est la Journée de la Terre ! 🌍 Il est primordial de protéger notre planète, c'est pourquoi ECN Managed Digital Signage s'engage à…",
+      "link": "https://fr.linkedin.com/posts/stephanie-merchez-9b87152a_aujourdhui-cest-la-journée-de-la-terre-activity-7320463202083823616-Q-_X",
+      "activity_status": null
+    },
+    {
+      "title": "We’re counting down to the much-anticipated OMA Conference and the launch of MOVE. Media agencies and OMA members, join us on Thursday, 8 May, for…",
+      "link": "https://www.linkedin.com/posts/oma-australia_were-counting-down-to-the-much-anticipated-activity-7320234661035524098-1eia",
+      "activity_status": null
+    },
+    {
+      "title": "Le bureau : territoire de consommation ! Quoi de plus logique ! ECN, ce sont chaque semaine +d'un demi-million d'actifs qui apprécient les pubs pour…",
+      "link": "https://fr.linkedin.com/posts/vaea-roche-b76a1498_le-bureau-territoire-de-consommation-activity-7318555158345338880-ucz6",
+      "activity_status": null
+    },
+    {
+      "title": "🌸 Frohe Ostern von ECN! 🌷 Das gesamte Team von ECN wünscht unseren Partnern und Freunden ein schönes und erholsames Osterfest! Danke für die starke…",
+      "link": "https://de.linkedin.com/posts/ecndooh_froheostern-teamecn-danke-activity-7318860856761483266-alsU",
+      "activity_status": null
+    },
+    {
+      "title": "🎾 Zwischen Spiel, Satz und Strategie – ECN x BMW Open Heute hatten wir das große Vergnügen, gemeinsam mit unseren Kunden Philipp Steiner und Manuel…",
+      "link": "https://de.linkedin.com/posts/ecndooh_ecn-bmwopen-dooh-activity-7318653662707273728--znl",
+      "activity_status": null
+    },
+    {
+      "title": "GER:🏢💡 Moderne Bürolobbies: Mehr als nur ein Durchgangsort! Als Immobilieneigentümer wissen Sie: Zufriedene Mieter und beeindruckte Besucher sind…",
+      "link": "https://de.linkedin.com/posts/ecn-managed-digital-signage_smartbuildings-mieterzufriedenheit-immobilieninnovation-activity-7318573945199157248-FrJb",
+      "activity_status": null
+    },
+    {
+      "title": "MOVE provides the most advanced audience behaviour measurement for outdoor advertising, capturing granular data across all of Australia. James…",
+      "link": "https://www.linkedin.com/posts/oma-australia_move-provides-the-most-advanced-audience-activity-7318432326038822912-9LVr",
+      "activity_status": null
+    },
+    {
+      "title": "Le bureau, votre point de contact stratégique. Avec ECN, touchez les actifs au bon moment : avant l’acte d’achat. 🔹 Une présence dans les…",
+      "link": "https://fr.linkedin.com/posts/olivia-van-der-heyden-068b406a_drivetostore-ecn-retailstrategy-activity-7317551605908729856-RmFF",
+      "activity_status": null
+    },
+    {
+      "title": "What a day! A huge thank you to the 20 incredible senior creatives, marketers and media leaders who joined us for the first judging day of the new…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_omacreativeawards-judging-outdoorcreativity-activity-7310796510252675073-pQqq",
+      "activity_status": null
+    },
+    {
+      "title": "Avec ECN, touchez plus de 500 000 actifs chaque semaine, au cœur de leur journée. Émergez au bon moment : quand les décideurs et consommateurs…",
+      "link": "https://fr.linkedin.com/posts/paula-ragon-76752865_workplace-parcoursconsommateur-executivechannelnetwork-activity-7316071508718620672-FEXb",
+      "activity_status": null
+    },
+    {
+      "title": "Zum Jahresausklang möchten wir uns bei euch für das Vertrauen und die gute Zusammenarbeit bedanken. Wir wünschen euch und euren Familien ein…",
+      "link": "https://de.linkedin.com/posts/ecndooh_teamwork-peace-thankyou-activity-7407750207817404417-OHej",
+      "activity_status": null
+    },
+    {
+      "title": "Das Jahr neigt sich rasch dem Ende zu – ein guter Moment, innezuhalten und Verantwortung zu übernehmen. Wir bei ECN möchten in diesem Jahr aktiv die…",
+      "link": "https://de.linkedin.com/posts/ecndooh_weareallukrainians-weareallukrainians-activity-7405265963815817216-04E_",
+      "activity_status": null
+    },
+    {
+      "title": "FR: Arizona Asset Management, lauréate de l'award \"ECN Connected Buiding 2025\" en direct du Salon SIMI 🏆. Tous les ans Executive Channel Network…",
+      "link": "https://fr.linkedin.com/posts/ecn-managed-digital-signage_bahia-activity-7404547556833169410-Jwf7",
+      "activity_status": null
+    },
+    {
+      "title": "Did you know 2.5 seconds is the active attention threshold for long-term memory? 🧠 QMS CSO Tim Murphy breaks down why the future of OOH is about…",
+      "link": "https://www.linkedin.com/posts/mediaweek-australia_dooh-ooh-attentioneconomy-activity-7404037292820275200-PDHd",
+      "activity_status": null
+    },
+    {
+      "title": "So excited to be part of the ALWAYS LIVE Melbourne Vibes series. This summer program of free, pop-up live music is bringing energy and atmosphere…",
+      "link": "https://www.linkedin.com/posts/caroline-cottrill-6555523_so-excited-to-be-part-of-the-always-live-activity-7404304587509256192-drl4",
+      "activity_status": null
+    },
+    {
+      "title": "Alle Jahre wieder ... sucht das IDOOH Institute for Digital Out of Home Media in seiner DCC Challenge die besten DOOH-Kreationen. Warum solltet Ihr…",
+      "link": "https://de.linkedin.com/posts/alle-jahre-wieder-sucht-das-idooh-institute-activity-7426899922114830336-Srjd",
+      "activity_status": null
+    },
+    {
+      "title": "Die Kreativität und Passgenauigkeit von Werbemitteln sind immer noch die unterschätztesten Wirkungshebel für erfolgreiche DOOH-Kampagnen. Die…",
+      "link": "https://de.linkedin.com/posts/ecndooh_doohcreativechallenge-ecn-idooh-activity-7426968634914226176-tlcI",
+      "activity_status": null
+    },
+    {
+      "title": "💘 Love is in the air… and on our screens! Cette semaine, ECN Managed Digital Signage célèbre la Saint-Valentin en apportant une touche de douceur…",
+      "link": "https://fr.linkedin.com/posts/stephanie-merchez-9b87152a_ecn-executivechannelnetwork-saintvalentin-activity-7426944097275265024-ixWB",
+      "activity_status": null
+    },
+    {
+      "title": "UK: If you haven’t seen Trading 212 you haven’t been in London! We’re excited to be showcasing this standout campaign across our network. Thank you…",
+      "link": "https://www.linkedin.com/posts/ecndooh_ecn-ooh-london-activity-7426943057448587264-x3K_",
+      "activity_status": null
+    },
+    {
+      "title": "UK: Expansion in Edinburgh! 🎉 The UK network continues to grow, with three new buildings in Scotland’s capital now live. Through ECN’s managed…",
+      "link": "https://www.linkedin.com/posts/ecn-managed-digital-signage_manageddigitalsignage-propertymanagement-activity-7425206587671179264-ILvR",
+      "activity_status": null
+    },
+    {
+      "title": "Das Büro bleibt einer der aufmerksamkeitsstärksten 𝗕𝟮𝗕-𝗧𝗼𝘂𝗰𝗵𝗽𝗼𝗶𝗻𝘁𝘀 in Deutschland. ECN erreicht Entscheider dort, wo Fokus und…",
+      "link": "https://de.linkedin.com/posts/franziska-pace_ecn-brandawareness-brandvalue-activity-7424817036905750529-p_71",
+      "activity_status": null
+    },
+    {
+      "title": "Great to have part of the team on the ground at Broadsign Connect in Barcelona today ☀️ Big thanks to Charles Parry-Okeden, Daniel Wunsch and…",
+      "link": "https://www.linkedin.com/posts/ecndooh_adtech-programmatic-broadsign-activity-7424855642147889153-D5II",
+      "activity_status": null
+    },
+    {
+      "title": "ECN s'affiche en presse ! Pour démarrer l'année 2026, ECN s'affiche avec une pleine page dans le Point. Une belle visibilité dans cet hebdo bien…",
+      "link": "https://fr.linkedin.com/posts/vaea-roche-b76a1498_ecn-saffiche-en-presse-pour-démarrer-lannée-activity-7424770095442305024--dl6",
+      "activity_status": null
+    },
+    {
+      "title": "The countdown is on…MOVE, the new and official tool Out of Home audience measurement goes live March 9. Get ready for a revolutionary leap in…",
+      "link": "https://www.linkedin.com/posts/qms-media_outofhome-dooh-ooh-activity-7434034128284700672-U1s_",
+      "activity_status": null
+    },
+    {
+      "title": "Wir freuen uns auf spannende Gespräche! Christian Praulich MIPIM",
+      "link": "https://de.linkedin.com/posts/david-simonsohn-3ab291248_wir-freuen-uns-auf-spannende-gespräche-christian-activity-7434214955576348673-OgH6",
+      "activity_status": null
+    },
+    {
+      "title": "The countdown is on... MOVE is the new and official tool Out of Home audience measurement goes live March 9. Get ready for a revolutionary leap in…",
+      "link": "https://www.linkedin.com/posts/oma-australia_the-countdown-is-on-move-is-the-new-and-activity-7434031660725227521-H3p8",
+      "activity_status": null
+    },
+    {
+      "title": "Despite a cooling ad market, Australian Out-of-Home (OOH) advertising just had a record-breaking year! 🚀 OOH revenue surged 11.43% to hit a…",
+      "link": "https://www.linkedin.com/posts/mediaweek-australia_ooh-dooh-advertising-activity-7432670726912118784-mnkP",
+      "activity_status": null
+    },
+    {
+      "title": "So proud to have been part of this exciting live music series. Looking forward to delivering more magic moments for Victorians.",
+      "link": "https://www.linkedin.com/posts/caroline-cottrill-6555523_so-proud-to-have-been-part-of-this-exciting-activity-7427548546989494272-Ast9",
+      "activity_status": null
+    },
+    {
+      "title": "COMMB was busy on Tuesday!  In addition to this announcement Adam Butterworth Rodney Bisnath and Lara Menzies joined our team! Thank you for your…",
+      "link": "https://www.linkedin.com/posts/chrisingramtoronto_commb-releases-first-ever-canadian-out-of-home-activity-7432629697496227840-htPH",
+      "activity_status": null
+    },
+    {
+      "title": "42em agence média connectée MediaEye France .. CoSpirit  Lille et plus précisément Approche Média nous rejoignent, bienvenue aux équipes . Vous allez…",
+      "link": "https://fr.linkedin.com/posts/alexis-pezerat-6a539424_42em-agence-média-connectée-mediaeye-france-activity-7426661875318267905-K0cx",
+      "activity_status": null
+    },
+    {
+      "title": "Leaving a place I’ve loved, and ready for a purpose-driven next step. After 9.5 years at Val Morgan, I’m closing a chapter that has shaped so much…",
+      "link": "https://www.linkedin.com/posts/liam-o-meara-6a341033_leaving-a-place-ive-loved-and-ready-for-activity-7432976466876854273-kRso",
+      "activity_status": null
+    },
+    {
+      "title": "ECN Managed Digital Signage sera présent au MIPIM 2026. Je serai sur place toute la semaine. Projets, partenariats, opportunités : parlons-en…",
+      "link": "https://fr.linkedin.com/posts/stephanie-merchez-9b87152a_ecn-managed-digital-signage-sera-présent-activity-7432734836810817536-7TqS",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH’s Expanding Role in Omnichannel Strategies 📲 DOOH is no longer a standalone awareness channel, it’s becoming a key connector within wider…",
+      "link": "https://www.linkedin.com/posts/ecndooh_ecn-dooh-oohadvertising-activity-7432726151435038720-RDU4",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to share that I am working with the Broadsign team. Amazing business with brilliant people and market leading products.",
+      "link": "https://www.linkedin.com/posts/bryan-magee-424b56a_broadsign-accelerates-apac-expansion-with-activity-7432656018968367104-nnAJ",
+      "activity_status": null
+    },
+    {
+      "title": "today Motio announced that we are exclusively representing Adonix across its burgeoning premium taxi top business, including a strategic investment…",
+      "link": "https://www.linkedin.com/posts/adam-cadwallader-1ba430a_motio-launchesmotio-drive-in-exclusive-activity-7432643655976431616-Ch5_",
+      "activity_status": null
+    },
+    {
+      "title": "When much of the audience works in finance and tech, premium offices feel like a pretty natural place for a trading platform to show up. Great work…",
+      "link": "https://www.linkedin.com/posts/paul-mcbeth-90539713_when-much-of-the-audience-works-in-finance-activity-7426950385493254144-C4wV",
+      "activity_status": null
+    },
+    {
+      "title": "When it comes to retention, every hour counts. Elula’s analysis of super fund data highlights the pace of member switching across the sector, showing…",
+      "link": "https://www.linkedin.com/posts/elula_when-it-comes-to-retention-every-hour-counts-activity-7432170172570034176-qQxj",
+      "activity_status": null
+    },
+    {
+      "title": "ECN Launches Luxe: The Place Where Luxury Belongs ✨ We’re proud to introduce ECN Luxe, a curated DOOH solution designed specifically for luxury…",
+      "link": "https://www.linkedin.com/posts/ecndooh_luxurymarketing-dooh-ecnluxe-activity-7432001374462119937-8FYS",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations and sincere thanks to the entire OMA and MOVE team for their tireless dedication over many years in reaching this significant…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_oma-move-oohmeasurement-activity-7436586223445487616-4ND0",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing how 20 years can go in the blink of an eye. A BIG thank you to everyone who has been a part of the ECN / Media i journey over the past 20…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_amazing-how-20-years-can-go-in-the-blink-activity-7387446154344558592-XUq9",
+      "activity_status": null
+    },
+    {
+      "title": "Our fantastic ECN team in Germany has continued its exceptional growth trajectory over the past 12 months. Thank you to all our partners across the…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_our-fantastic-ecn-team-in-germany-has-continued-activity-7343885673776517121-wwOq",
+      "activity_status": null
+    },
+    {
+      "title": "Always an interesting debate 🤔 looking at the future of OOH and how the classic versus DOOH dynamic continues to evolve. Thank you to Media4Growth…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_always-an-interesting-debate-looking-at-activity-7327882895707070467-8KQC",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to catching up with my many Indian OOH friends in July and sharing insights around the growth opportunities created through uniform…",
+      "link": "https://www.linkedin.com/posts/charles-parry-okeden-110b9b3_charles-parry-okeden-global-ceo-executive-activity-7168122461689958400-0rFd",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-03T00:00:00Z"
+  }
+}

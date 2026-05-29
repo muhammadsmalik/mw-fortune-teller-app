@@ -1,0 +1,1373 @@
+{
+  "public_identifier": "srikanth-ramachandran-b7a105",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Srikanth",
+  "last_name": "Ramachandran",
+  "full_name": "Srikanth Ramachandran",
+  "follower_count": 4727,
+  "occupation": "Founder at Moving Walls",
+  "headline": "When you move Walls, there are #NoBoundaries",
+  "summary": null,
+  "location_str": "Singapore",
+  "country": "SG",
+  "country_full_name": "Singapore",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls/",
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": "Chasing the Minority Report dream",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2019
+      },
+      "company": "Phimetrics Technologies Pvt. Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/phimetricstechnologies/",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2016
+      },
+      "company": "Sriveda Emsys",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Advisor",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2007
+      },
+      "company": "Knowledge Dynamics",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": "Knowledge Dynamics, headquartered in Singapore, was a Business Intelligence solutions provider. Besides implementing more than 100 projects in Business Intelligence, we had developed an industry vertical application framework called iDecisions that was implemented by many banks, insurance and telecom companies in Asia. \n\nThe company was sold to Satyam in 2005 and operated as an independent division of Satyam. I left Knowledge Dynamics/Satyam in early 2007",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "Tech Mahindra",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tech-mahindra/",
+      "company_facebook_profile_url": null,
+      "title": "Knowledge Dynamics, A Division of Satyam",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "company": "IBM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+      "company_facebook_profile_url": null,
+      "title": "Senior Manager",
+      "description": "In 7 years, I did multiple roles including managing the E-Business division for IBM Singapore, Asia Pacific Digital Library (Tokyo), Asean/SA GM for Corepoint (CRM) and Asean/SA Marketing for Software and E-Business.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 1993
+      },
+      "company": "CSP Systems Pte Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Database Consultant",
+      "description": "Database Performance Tuning for CSP Systems application.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "company": "Ingres",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Regional Consultant",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1991
+      },
+      "company": "Oman Computer Services",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "System Analyst",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "company": "Wipro",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wipro/",
+      "company_facebook_profile_url": null,
+      "title": "Customer Service Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "International Business",
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "Nanyang Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/nanyang-business-school/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "International Business",
+      "degree_name": "MBA",
+      "school": "Nanyang Technological University Singapore",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ntusg/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1984
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1988
+      },
+      "field_of_study": "Electronics and Communication",
+      "degree_name": "B.E",
+      "school": "Madurai Kamaraj University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/madurai-kamaraj-university/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1977
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1981
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Shrine Vailankanni",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Most Promising Entrepreneur Award",
+      "issuer": "Enterprise Asia",
+      "issued_on": {
+        "day": 1,
+        "month": 8,
+        "year": 2014
+      },
+      "description": "Enterprise Asia is a non-governmental organisation promoting the development of entrepreneurship across the region. Winners are entrepreneurs that have displayed outstanding accomplishments in the past and present and have the vision to drive their companies as leading businesses in the near future."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 4038,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/dominic-ooiwz",
+      "name": "Dominic Ooi",
+      "summary": "Growth Lead | Serial Entrepreneur | Mortgage Finance and Real  | APAC and China",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rangaraosrinivasan",
+      "name": "Srinivasan (SRINI) Rangarao",
+      "summary": "General Manager at Moving Walls",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shyamravishankar",
+      "name": "Shyam Ravishankar",
+      "summary": "FIFA+ | Performance | OOH | Digital | Commerce | AdTech | Data | Consulting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/titien",
+      "name": "Titien Ahmad",
+      "summary": "A public record of creative polymathy efforts",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mediumshawn",
+      "name": "Shawn Lim",
+      "summary": "Media and tech editor covering digital media, streaming, adtech, retail media, shopper marketing, Web3, esports and DEI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhishekb1",
+      "name": "Abhishek Bhattacharjee",
+      "summary": "Founder I Agency Leader I Campaign 40under40",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franchesramasamy531336b5",
+      "name": "Franches Ramasamy",
+      "summary": "Group Financial Controller at Moving Walls",
+      "location": "Puchong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riteshsinha",
+      "name": "Ritesh S.",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mehul-mandalia",
+      "name": "Mehul Mandalia",
+      "summary": "Automating OOH Media Globally | When you Move Walls, there are #NoBoundaries",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gopiselvamofficial",
+      "name": "Gopi Selvam",
+      "summary": "Tech Lead | AdTech & DOOH | Technology Integration | Spring Framework & Java",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/calvinsio",
+      "name": "Calvin Sio",
+      "summary": "Founder at The Master's Factory",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashikur98",
+      "name": "Mohammad Ashikur Rahman",
+      "summary": null,
+      "location": "Karlsruhe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nayanika-basu",
+      "name": "Nayanika Basu",
+      "summary": "Adtech Sales at Moving Walls, driving agency and client relationships",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelprovenzano",
+      "name": "Michael Provenzano",
+      "summary": "CEO & Co-Founder at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charanjeetarora",
+      "name": "Charanjeet Singh Arora",
+      "summary": null,
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lenney-leong",
+      "name": "Lenney Leong",
+      "summary": "🚀 Get Customers Through Profitable Digital Marketing Campaigns ✅ IMDA Pre-approved Vendor with 50% Productivity Solutions Grant for Small Medium Enterprise in Singapore  ✅  Speaker & Trainer With Over 1000+ Students",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kumarramkrishnan",
+      "name": "Kumar Ramkrishnan Achari",
+      "summary": "Presenting OOH globally with data + innovations + programmatic deliveries",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nidhie-saxena-b50a118",
+      "name": "Nidhie Saxena",
+      "summary": "Fusing Tech, Creativity & Critical Thinking",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohdumairnitro",
+      "name": "Umair Mohammed",
+      "summary": "Building NITRO l Founder and Ex-CEO at Wigzo (Acquired by Shiprocket) l Digital Transformation Leader | Crazy Algorithm Product ninja | D2C evangelist | Nasscom EMERGE50 2020",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nvdr88",
+      "name": "Nadim van der Ros",
+      "summary": "Humanitarian and Military Volunteer | Purpose Driven Consultant | Trainer",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/selenedaswani",
+      "name": "Selene Daswani",
+      "summary": "Founder of Generserv | Digital Strategy, Operations, Strategic and Channel Partnerships | Google, AWS, Yahoo! Samsung, Smith Barney | Startup Mentor & Investor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lovelynne",
+      "name": "Lovelynne Chong",
+      "summary": "Leading Transformations in Marketing and Social Impact | Founder of Fyreflyz: Igniting Creativity and Empowering Youths | Mentor, Innovator and Visionary",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/narayan-murthy",
+      "name": "Narayan Murthy Ivaturi",
+      "summary": "Connecting Brands with Moving Audiences",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angiecutter",
+      "name": "Angie Cutter",
+      "summary": "Managing Director APAC | Strategic OOH Media Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachanadlokhande",
+      "name": "Rachana Lokhande",
+      "summary": "Making OOH meaningful",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gautambhirani",
+      "name": "Gautam Bhirani",
+      "summary": null,
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/demasong",
+      "name": "Demas Ong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/quinn-amalore-38683b87",
+      "name": "Quinn Amalore",
+      "summary": "Innovative B2B marketeer with nearly 10 years’ experience, passionate about creating strategic campaigns that drive business objectives.",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pimpan-pumrombud-1b494a24",
+      "name": "Pimpan Pumrombud",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kugendren-puranavalu-093b24239",
+      "name": "Kugendren Puranavalu",
+      "summary": null,
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riley-rian-55791922a",
+      "name": "Riley Rian",
+      "summary": "Content Marketer by Day, Community Organizer by Night",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/milindsattur",
+      "name": "Milind S.",
+      "summary": "Media Research, Audience Measurement - Invidi Technologies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nsanthoshkumar",
+      "name": "Santhosh Kumar",
+      "summary": "Head Of Service Delivery at Moving Walls",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilletan",
+      "name": "Camille Tan, PBM",
+      "summary": "APAC Regional L&D Operations Manager, Data-Protection Officer & Manage Training Services Lead—Cegos Asia Pacific | Public Service Medal (PBM) Covid-19 |",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/darshvini-malar-0a56b3224",
+      "name": "Darshvini Malar",
+      "summary": "Senior Branding & Marketing Analyst",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/drizzlin",
+      "name": "Deepak Goel",
+      "summary": "Global Marketing I Cultural Intelligence I Helping Brands Thrive in New Markets",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/iamdee",
+      "name": "Deepak Goel",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nidhi-saxena-b50a118",
+      "name": "Nidhi Saxena",
+      "summary": "Co-Founder & Director - Digital Presence at Josh Community",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasmine-cheah-b251a6a",
+      "name": "Jasmine Cheah",
+      "summary": "Founder at Gastrogig Pte Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aditi-jain-28a50415",
+      "name": "Aditi Jain",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dushyant-mehta-55261024",
+      "name": "Dushyant Mehta",
+      "summary": "HOLA MEDIA GROUP•16K followers",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrielle-tan-lay-khim-883a0632",
+      "name": "Gabrielle Tan Lay Khim",
+      "summary": "Assistant Director at SMU Institute of Innovation & Entrepreneurship | Adjunct Faculty at SMU School of Accountancy",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-chua-a0862835",
+      "name": "Joshua Chua",
+      "summary": "Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sridharan-ganesan-a8996940",
+      "name": "Sridharan Ganesan",
+      "summary": "Head of IT",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylan-khoolim-2886475a",
+      "name": "Dylan Khoolim",
+      "summary": "Problem Solver",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandakini-negi-4044638a",
+      "name": "Mandakini Negi",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-ng-624a33a1",
+      "name": "Patricia Ng",
+      "summary": "Connector",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wayne-koh-478577107",
+      "name": "Wayne Koh",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-andre-widjaja-287016133",
+      "name": "Jonathan Andre Widjaja",
+      "summary": "Supply Lead at Moving Walls",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jas-yong-hrbp",
+      "name": "Jas Yong",
+      "summary": "HRBP Manager | Talent Acquisition & Employee Engagement | Policy Development | AdTech & MediaTech Focus",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rovel-etis-a934b6169",
+      "name": "Rovel Etis",
+      "summary": "Teacher of English at Deped",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nazam-rosid-b4b837169",
+      "name": "Nazam Rosid",
+      "summary": "Data Analyst (3+ Years) | Python | MongoDB | SQL | Tableau | Data Analytics | XGBoost Machine Learning",
+      "location": "Cyberjaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aditya-jadhav-aj11-00-sydney",
+      "name": "Aditya Jadhav",
+      "summary": "CentreStar Realty•626 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/syeda-vizarath-6116a0194",
+      "name": "Syeda Vizarath",
+      "summary": "Client Executive at Moving Walls",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maaresh-starling-4860651a8",
+      "name": "Maaresh Starling",
+      "summary": "Chief Executive Officer at HypView Media Sdn. Bhd",
+      "location": "Petaling Jaya"
+    }
+  ],
+  "recommendations": [
+    "Shaun Edward Cheah\n\nThough the engagement had a long and complex gestation, Sri has demonstrated a high degree of professionalism in accommodating highly stressful demands and yet when things does not turn out as desired, his ability to be creative in offering alternative win-win solutions is certainly value in working with Sri."
+  ],
+  "activities": [
+    {
+      "title": "With the merger of IPG Mediabrands into Omnicom, I’ll now be leaving the business, but not the industry. I want to thank our people, clients and…",
+      "link": "https://www.linkedin.com/posts/leighterry1_leigh-terry-exits-ipg-mediabrands-apac-amid-activity-7401577681445965824-PnLR",
+      "activity_status": null
+    },
+    {
+      "title": "𝐒𝐢𝐧𝐠𝐚𝐩𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐠𝐨𝐭 𝐛𝐫𝐢𝐠𝐡𝐭𝐞𝐫! 🌟 Our 𝐭𝐚𝐱𝐢-𝐭𝐨𝐩 𝐋𝐄𝐃 𝐬𝐜𝐫𝐞𝐞𝐧𝐬 — built with 𝟐 𝐦𝐦 𝐮𝐥𝐭𝐫𝐚-𝐟𝐢𝐧𝐞…",
+      "link": "https://www.linkedin.com/posts/yaham-optoelectronics-co-ltd_taxitopled-dooh-yaham-activity-7402527142707658753-8R7G",
+      "activity_status": null
+    },
+    {
+      "title": "As the media world converges, OOH is stepping into a new era, one built on connected systems, measurable outcomes, and stronger accountability. In…",
+      "link": "https://www.linkedin.com/posts/moving-walls_as-the-media-world-converges-ooh-is-stepping-activity-7402649548348928000-xV37",
+      "activity_status": null
+    },
+    {
+      "title": "CRY FOR HELP? I hear it in WhatsApp messages sent at midnight. In short LinkedIn posts from people who never post. In the quiet updates that say…",
+      "link": "https://www.linkedin.com/posts/prof-harmandar-singh-1541051_sledgehammersays-activity-7402606411467390977--toh",
+      "activity_status": null
+    },
+    {
+      "title": "A warm welcome to Ravi Rao who joins Assembly Global as the new Senior Advisor in MENA! The industry veteran will partner with Zubair S. Siddiqui…",
+      "link": "https://www.linkedin.com/posts/stagwell_a-warm-welcome-to-ravi-rao-who-joins-assembly-activity-7399385981549772800-mf_0",
+      "activity_status": null
+    },
+    {
+      "title": "Growth is guaranteed",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_growth-is-guaranteed-activity-7401967072186134528-h4SB",
+      "activity_status": null
+    },
+    {
+      "title": "Every strong team is built by people who choose to show up, push boundaries, and think differently. We’re excited to meet the next set of…",
+      "link": "https://www.linkedin.com/posts/jayasri-sridhar-17227a198_hiring-saleshiring-fullstackdeveloper-activity-7401938174777712640-nPg8",
+      "activity_status": null
+    },
+    {
+      "title": "𝐃𝐚𝐭𝐚, 𝐃𝐞𝐚𝐥𝐬 𝐚𝐧𝐝 𝐃𝐎𝐎𝐇: 𝐒𝐫𝐢𝐬𝐡𝐭𝐢 𝐱 𝐌𝐨𝐯𝐢𝐧𝐠 𝐖𝐚𝐥𝐥𝐬 Partnerships are pivotal to future-proofing business in a rapidly…",
+      "link": "https://www.linkedin.com/posts/srishti-group-of-companies_srishti-movingwalls-dooh-activity-7401563919724847104-N-gT",
+      "activity_status": null
+    },
+    {
+      "title": "Ten year's in Qatar This week marks a decade since I left the UK OOH industry and took a leap into the unknown — relocating to Qatar to help build…",
+      "link": "https://www.linkedin.com/posts/timothy-hufford-7b775015_ten-years-in-qatar-this-week-marks-a-decade-activity-7401170880132792320-_8qe",
+      "activity_status": null
+    },
+    {
+      "title": "Following our acquisition of London Lites, we’re pleased to continue our growth in the UK with the appointment of Sam Dayeh as Group Strategy…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_backliteuk-desirablebydesign-desirablebytomorrow-activity-7400135084906893312-0Ox3",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls at CAMET 2025: Bringing Smarter Media to Urban Rail On November 27, Manson Chan, Head of China at Moving Walls, participated in the…",
+      "link": "https://www.linkedin.com/posts/manson-c-4379b088_movingwalls-programmaticooh-smarttransit-activity-7400076083397812224-jvu8",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gbNc32G6? What a wonderful world it feels like when your work is recognised. The feeling becomes even more special when that…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_campaigns-over-50-list-returns-to-spotlight-activity-7457322397466251264-5Ozz",
+      "activity_status": null
+    },
+    {
+      "title": "A big shift in media buying is happening because advertisers are no longer optimizing for share of voice alone — they’re optimizing for measurable…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_a-big-shift-in-media-buying-is-happening-activity-7457940501426675712-fxPV",
+      "activity_status": null
+    },
+    {
+      "title": "Liquid Death just gave the industry a masterclass in \"Marketing Darwinism.\" They aren't looking at vanity metrics or \"attribution\" fluff. They are…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_liquid-death-lets-incrementality-decide-what-activity-7453986886760439808-z0VX",
+      "activity_status": null
+    },
+    {
+      "title": "WPP just sent a massive signal to the market: the \"gap\" between digital marketing and the physical world is officially closing.…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_wpp-bridges-the-gap-between-digital-marketing-activity-7453986205450522624-HDs5",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/g8jZAJ6p Welcome Raja Kanniappan. I believe that (D)OOH in a connected media ecosystem did not get a seat at the table. Your…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-walls-appoints-raja-kanniappan-as-activity-7454008887726317568--vUb",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gunqUg58 Kartik and I go back a long way as fellow entrepreneurs. We started our journeys around the same time, even working out of…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_mozark-raises-usd-40m-to-scale-ai-era-digital-activity-7438813563982430208-6Jsh",
+      "activity_status": null
+    },
+    {
+      "title": "There’s a lot going through my mind right now. I don’t want to sound pretentious — but I do want to pause and really enjoy this moment. The…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_theres-a-lot-going-through-my-mind-right-activity-7393833436991377408-DlFA",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is a dominant media in West Africa. I am sure that the rollout across 15+ countries is going to be a benchmark for the industry. Congrats Nelen…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_ooh-is-a-dominant-media-in-west-africa-i-activity-7392372014293901313-Bf9c",
+      "activity_status": null
+    },
+    {
+      "title": "Takayuki Owada showcasing the incredible screens in akhiabara and other stations in Tokyo. jeki MASTRUM",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_takayuki-owada-showcasing-the-incredible-activity-7392374346624901120-abwU",
+      "activity_status": null
+    },
+    {
+      "title": "Disclosures: I am a terrible poet and an average chess player. I wrote this gpt aided poem playing in an online blitz format tournament organised by…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_disclosures-i-am-a-terrible-poet-and-an-activity-7372503013334188032-Cf25",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gJhQuwV9 Down Under, it’s thunder! ⚡️ In cricket, we use this to describe Australia’s power, but it applies just as well to…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_oma-outdoor-net-media-revenue-up-18-adnews-activity-7363870214133829632-RaI3",
+      "activity_status": null
+    },
+    {
+      "title": "Today afternoon, I had an hour to kill while waiting for a train. I created the structure and content of this piece, ran it through my digital twin,…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_from-billboards-toborderless-how-ooh-media-activity-7366451137954119680-qcUw",
+      "activity_status": null
+    },
+    {
+      "title": "I’m writing about Marketing and Media for Forbes Business Council. Here’s my latest article. https://lnkd.in/gJByTn4E I believe that the smarter…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_the-roi-trap-how-marketing-metrics-can-mislead-activity-7362452623263739904-esOW",
+      "activity_status": null
+    },
+    {
+      "title": "Great to catch up with the industry leaders Bala Pomaleh Fan Chen Yip Sheila Shanmugam Kristine Ong Amit Sutha",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_great-to-catch-up-with-the-industry-leaders-activity-7362407656004706304-asHv",
+      "activity_status": null
+    },
+    {
+      "title": "The search is on",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_the-search-is-on-activity-7349071038011318274-PqTP",
+      "activity_status": null
+    },
+    {
+      "title": "I loved it. Brings to life the power of the medium. What do you think #ooh #creativity",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_ooh-creativity-activity-7346754890804707328-TQ3g",
+      "activity_status": null
+    },
+    {
+      "title": "A few reflections from a week at Cannes — on the people, the pace, and the things we often overlook. #CannesLions #Marketing #Media #OutOfHome…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_cannes-by-foot-by-boat-and-by-the-glass-activity-7347140860540592128-h8Dj",
+      "activity_status": null
+    },
+    {
+      "title": "One of the most insightful sessions I’ve attended at Cannes this week was a fireside chat with Gabriel from Team sauber (Formula 1). It wasn’t about…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_canneslions2025-leadership-f1mindset-activity-7341430010508996608-A1jW",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s Link Up in Cannes! Excited to be in Cannes for the first time. 2025 is the year of inspiration, innovation, and big ideas. Whether it’s…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_canneslions-marketing-media-activity-7338809751385907200-wM_d",
+      "activity_status": null
+    },
+    {
+      "title": "How reliant are you on open ai to research and structure your thoughts ? As we start reducing our carbon footprint as a business, I wondered how i…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_openai-netzero-activity-7322071640387846146-WSXF",
+      "activity_status": null
+    },
+    {
+      "title": "A small but a significant step to measure and reduce carbon in the industry",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_a-small-but-a-significant-step-to-measure-activity-7321164399069618176-Sk4D",
+      "activity_status": null
+    },
+    {
+      "title": "Top Three insights - finance and legal are the top user applications - retrieval (step 1) is where most of the applications are followed by agentic…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_top-three-insights-finance-and-legal-are-activity-7316060260232830976-ExWF",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to be part of the technology stack of JCDecaux globally and specially in their Middle East launch. All airports in Middle East nor can be…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_proud-to-be-part-of-the-technology-stack-activity-7315974023241252865-heka",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/dMcqnU3d Don't you think that Performance marketing is measuring what is easy, not what matters, and marketing is a team sport, not…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_why-stripe-netflix-and-the-us-senate-are-activity-7321386507787771905-D8aL",
+      "activity_status": null
+    },
+    {
+      "title": "Eid Mubarak and Eid Al Fitr to everyone celebrating Eid. Maaf Zahir Batin",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_eid-mubarak-and-eid-al-fitr-to-everyone-celebrating-activity-7312676072163090433-wA4m",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gdMdvDC4 What can I say besides stating the obvious that a world record is a world record. When you connect the dots that these…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_most-digital-signage-screens-operated-by-activity-7310540700809379841-W9gB",
+      "activity_status": null
+    },
+    {
+      "title": "I'm thrilled to see my thoughts on practical steps toward net-zero advertising featured! Moving Walls Moving Hearts Sustainability is a journey, and…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_from-vision-to-action-practical-steps-to-activity-7313370604320038912-wRSH",
+      "activity_status": null
+    },
+    {
+      "title": "Let us try and understand this. Around 600 billion dollars is spent on mobile advertising. When small publishers managing this app and big ones like…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_advertising-media-programmatic-activity-7312332877562540032-bnDk",
+      "activity_status": null
+    },
+    {
+      "title": "A Throwback to the Past, A Reflection on the Present I came across a video today that took me back 30 years—back to my rookie days at IBM Singapore,…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_innovation-throwback-ibm-activity-7306665994398093312-38C_",
+      "activity_status": null
+    },
+    {
+      "title": "Inspiring to chat with the man, the legend Tony Fernandes. He inspired us to create the first tagline for Moving Walls “Now Everyone can Advertise”…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_inspiring-to-chat-with-the-man-the-legend-activity-7302496516882018304-BbJ9",
+      "activity_status": null
+    },
+    {
+      "title": "Happy to be featured in Forbes https://lnkd.in/dAFSvEYg Similar to the Kaizen theory, we need to make continuous incremental steps towards net zero…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_from-vision-to-action-practical-steps-to-activity-7302882977389121536-aQMB",
+      "activity_status": null
+    },
+    {
+      "title": "OOH will GLOOH in 2025 with cross border campaigns and Mastrum in Japan is leading the way.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_ooh-will-glooh-in-2025-with-cross-border-activity-7302883484144996354-RK7O",
+      "activity_status": null
+    },
+    {
+      "title": "This is the dark side of AI - scamming at accelerated speed along with a deepfake of my voice message. #scam #deepfake",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_scam-deepfake-activity-7301790105671737344-mcdX",
+      "activity_status": null
+    },
+    {
+      "title": "🚕 **What Japan Taught Me About In-Taxi Advertising Screens** � Speaking at conferences isn’t just about sharing knowledge—it’s also about learning.…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_innovation-advertising-japan-activity-7298244464857206784-Iu3r",
+      "activity_status": null
+    },
+    {
+      "title": "I believe that all of us accept instinctively that OOH media primes us in the real world and influences our spends in the real or digital world.…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_i-believe-that-all-of-us-accept-instinctively-activity-7297132882018385920-uNZJ",
+      "activity_status": null
+    },
+    {
+      "title": "Listened to a Sam Altman podcast and a couple of interesting sound bytes emerged on AI and humans Connector of Dots over Collector of Facts Agility…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_listened-to-a-sam-altman-podcast-and-a-couple-activity-7295586319773114368-arTx",
+      "activity_status": null
+    },
+    {
+      "title": "Glocal is the key mantra that we have been practicing in Moving Walls. Sub Saharan Africa requires a deep understanding of multiple local markets.…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_glocal-is-the-key-mantra-that-we-have-been-activity-7297787898970394625-diM0",
+      "activity_status": null
+    },
+    {
+      "title": "Gaijin marketers running inbound campaigns in Japan will love this word.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_gaijin-marketers-running-inbound-campaigns-activity-7295702296686931969-Hl5e",
+      "activity_status": null
+    },
+    {
+      "title": "The first month of 2025 comes to a close. The year has started well and this was the first month Moving Walls ran campaigns across all five…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_noboundaries-activity-7290890200392572929-aCU0",
+      "activity_status": null
+    },
+    {
+      "title": "Japan is a fascinating ooh market and it will be interesting to speak at this event. Special thanks to the organisers including Ichiro T. Jinnai who…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_ooh-tokyo-conferrence-2025-with-association-activity-7288615438832283648-GE4c",
+      "activity_status": null
+    },
+    {
+      "title": "I was at mid valley mall in KL today and the in-store radio at GIORDANO(MM) stores was playing a Tamil song. Nice touch for deepavali. Is it time…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_i-was-at-mid-valley-mall-in-kl-today-and-activity-7253250864318971904-pRmD",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gHJ787SV I picked it up from Sivaraman Swaminathan's newsletter and found this very interesting. Would love to the views of other…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_founder-mode-activity-7247053281108058112-USQ1",
+      "activity_status": null
+    },
+    {
+      "title": "Look forward to the discussion with my fellow panelists",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_look-forward-to-the-discussion-with-my-fellow-activity-7237387742156869633--5gR",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gPW3Q8UQ Very interesting piece. While I agree with the first statement that long tail is driving overall OOH growth, I am not very…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_programmatic-as-a-growth-driver-fact-or-activity-7232696648643047426-Hnyp",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/ghPxWgCg I look forward to engaging with industry leaders on Sept 6th. Ping me if you want to join the event. Also, do share any…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-hearts-to-hold-media-for-a-better-activity-7232614417056550913-Ynwl",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/g26enNWq This describes a significant shift in retail media, particularly in how digital screens and retail media assets are…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_walmarts-ad-unit-extends-blockbuster-growth-activity-7231183722266472451-17zl",
+      "activity_status": null
+    },
+    {
+      "title": "#2024insights #noboundaries Like many other Asian startups of my generation, the first phase was more about revenues and less about product and…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_2024insights-noboundaries-activity-7278282808937095170-ez6w",
+      "activity_status": null
+    },
+    {
+      "title": "Simon Sinek's golden circle framework has been one of my major influences including this powerful statement \"People don't buy what you do. They buy…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_theres-more-to-ooh-activity-7226537525933137920-lqTq",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gFwmKZER Is he a bull in a china shop? I wonder how this will impact a lot of good work GARM was doing with Ad Net Zero and…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_advertising-group-suspends-brand-safety-unit-activity-7227549139121618947-Ek-A",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gKJhT776 It is an incredibly good read for all entrepreneurs, especially the ones who are going through growth and suddenly find that…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_coordination-headwind-how-organizations-activity-7221386803868577792-DNie",
+      "activity_status": null
+    },
+    {
+      "title": "Best wishes Julian D'Silva ACIM",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_best-wishes-julian-dsilva-acim-activity-7219839004899229697-16dU",
+      "activity_status": null
+    },
+    {
+      "title": "#2024insights #noboundaries Peter Drucker said that culture eats strategy for breakfast. The core culture of #noboundaries has continued and evolved…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_2024insights-noboundaries-noboundaries-activity-7279386839264763904-CsPM",
+      "activity_status": null
+    },
+    {
+      "title": "#2024insights The countdown to 2025 is on. And the penny dropped in November when Richardson, the largest ooh media owner in Sri Lanka adopted our…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_2024insights-activity-7277969170019823616-NvuK",
+      "activity_status": null
+    },
+    {
+      "title": "The new year bring new possibilities #noboundaries",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_noboundaries-activity-7280197190050832384-khZW",
+      "activity_status": null
+    },
+    {
+      "title": "#2024insights #noboundaries 2024 has been quite a year in the tech world! Remember when Deep Blue beat Garry Kasparov in 1997? That was just the…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_2024insights-noboundaries-activity-7279847956143333396-hp8Y",
+      "activity_status": null
+    },
+    {
+      "title": "And planning and activating is as simple as buying youtube or tiktok or meta ads with their inventory onboarded and programmatic ready on our…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_and-planning-and-activating-is-as-simple-activity-7218862209307664386-CNzV",
+      "activity_status": null
+    },
+    {
+      "title": "Proud that our technology will power up the digital transformation of Richardson outdoor, the largest ooh media owner in Sri Lanka Great job Shazeen…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_proud-that-our-technology-will-power-up-the-activity-7267744377735667716-sG4J",
+      "activity_status": null
+    },
+    {
+      "title": "I was moved by this deepavali film by maybank. https://lnkd.in/gYez4Z6g The story telling was nice especially when you realise that the actors were…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_maybank-the-lighthouse-deepavali-2024-activity-7257589847903657984-tfhl",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gvAXbM_c We are proud that IMAA has selected Moving Audiences as the preferred OOH automation platform for their members. We look…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_independent-media-agencies-forecast-ad-spend-activity-7208668527392690176-fLLG",
+      "activity_status": null
+    },
+    {
+      "title": "Short cuts make long delays is the famous quote that comes to my mind. There is so much to be done around hardware, programmatic software, business…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_short-cuts-make-long-delays-is-the-famous-activity-7205706689449267201-5fAd",
+      "activity_status": null
+    },
+    {
+      "title": "Well said James Bicknell. We should also use this opportunity to reflect on ooh media can reduce its carbon footprint. The good news is that dooh is…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_well-said-james-bicknell-we-should-also-activity-7186989455390474242-7byc",
+      "activity_status": null
+    },
+    {
+      "title": "I voted a few weeks ago and had the opportunity to experience the election fever in India. This resulted in this article about how DOOH can be used…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_council-post-election-advertising-in-the-activity-7191698773255839745-rKKm",
+      "activity_status": null
+    },
+    {
+      "title": "As brands continue to struggle with linear TV’s decline, they should commit to investing 5% of existing linear TV budgets in in-store media by 2025.…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_physical-retail-is-the-new-tv-activity-7173169936775720960-K5EJ",
+      "activity_status": null
+    },
+    {
+      "title": "Retail Media is the fastest growing media segment. In my view, there are two interesting benchmarks emerging - Amazon has approached it from Clicks…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_retail-media-is-the-fastest-growing-media-activity-7170259325578305536-SaIu",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gYk-KcTy Jonas Glad Mark Bracey Wonderful to be collaborating. Look forward to more in the future.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_programmatic-dooh-ssp-location-media-xchange-activity-7168503300777082880-9VXM",
+      "activity_status": null
+    },
+    {
+      "title": "Happy to be featured on an article by MarketTech. It is timely as this is the topic of my speech at IAA's 45th World Congress in two weeks time. The…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_milestones-moving-walls-srikanth-ramachandran-activity-7167715168381026304-CO-0",
+      "activity_status": null
+    },
+    {
+      "title": "A lot is happening in this space and it reminds me of a statement I read a while ago. \"You can't stand there if you want something to fly. You have…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_milestones-moving-walls-srikanth-ramachandran-activity-7167754630184062978-R4NV",
+      "activity_status": null
+    },
+    {
+      "title": "It is always a wonderful feeling when your customer treats you as a partner. We are humbled and proud to be working together with JEKI on the digital…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_it-is-always-a-wonderful-feeling-when-your-activity-7161547067671138304-oxV9",
+      "activity_status": null
+    },
+    {
+      "title": "I enjoyed listening to this podcast on employees vs professionals Sivaraman Swaminathan. The last one was a killer - your academy rocks…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_difference-between-a-professional-and-an-activity-7151360657181802496-ay7i",
+      "activity_status": null
+    },
+    {
+      "title": "Listening to stairway to heaven, I found my inspiration for 2024 - To be a Rock and not to Roll Randy Fitton",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_listening-to-stairway-to-heaven-i-found-activity-7151365061737873408-9ncq",
+      "activity_status": null
+    },
+    {
+      "title": "ChatGPT assisted Bob Dylan ode to Moving Walls In the winds of time, 2023 has faded away, And now, 2024 stands at our doorstep, ready to sway. Moving…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_chatgpt-assisted-bob-dylan-ode-to-moving-activity-7147464733070155776-5Qzt",
+      "activity_status": null
+    },
+    {
+      "title": "Reflecting on the 2023 journey, I've gained new connections and experiences that enriched my life. It's been a year of growth, both in the…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_newyeardreams-businessgrowth-equalityforall-activity-7147227355126611968-8JAU",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful summary Sivaraman Swaminathan. You had captured my wish for 2024 in your summary - Exploitation of First Party data and Dynamic content to…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_wonderful-summary-sivaraman-swaminathan-activity-7143511090448982016-YqMa",
+      "activity_status": null
+    },
+    {
+      "title": "When houses, cars and planes are being bought online, there is no reason why billboards cannot be searched and potentially be bought online.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_when-houses-cars-and-planes-are-being-bought-activity-7141322126464126976-trQq",
+      "activity_status": null
+    },
+    {
+      "title": "I guess that I must have fielded at least 50 questions during the workshop. Enjoyed the interactivity",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-walls-group-ceo-srikanth-ramachandran-activity-7140743426257338368-EPhB",
+      "activity_status": null
+    },
+    {
+      "title": "The only traditional media that continues to grow is Outernet Media - \"OOH+Cinema\". Moving Walls https://lnkd.in/g46879hM",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_ad-industry-sees-reaccelerated-digital-advertising-activity-7138032918706208768-E9cA",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_diwalidelights-sparklingcelebrations-diwali-activity-7129371887956099072-dwnc",
+      "activity_status": null
+    },
+    {
+      "title": "In the evolving landscape of ad tech, the traditional boundaries between DSP and SSP roles are becoming less distinct, giving rise to nuanced…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_the-next-frontier-for-programmatic-ad-tech-activity-7128933507275390976-VQtP",
+      "activity_status": null
+    },
+    {
+      "title": "Each time the query about which country will spearhead programmatic arises, it elicits diverse responses. From my perspective, I consider this a…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_global-experts-on-making-ooh-easier-to-buy-activity-7127907020204109824-O1M6",
+      "activity_status": null
+    },
+    {
+      "title": "Next week is the Singapore FinTech Festival and TIE global event. Having won the #Tie50 in 2017, attending this year's TIE event will be a nostalgic…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_tie50-activity-7128250302838829057-p4fE",
+      "activity_status": null
+    },
+    {
+      "title": "Onward and forward Joey Zhou Jan Harling",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_onward-and-forward-joey-zhou-jan-harling-activity-7125069279275749376-PAMK",
+      "activity_status": null
+    },
+    {
+      "title": "Wiki's definition on ESG - Environmental, social, and corporate governance (ESG), also known as environmental, social, and governance, isÂ a set of…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_a-wonderful-way-to-start-the-new-year-should-activity-7027494529884708864-eN2D",
+      "activity_status": null
+    },
+    {
+      "title": "I believe that Writing Clarifies Thinking. As we embark on our efforts to make \"Media For a Better World\" Moving Hearts, I grabbed this opportunity…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_council-post-how-companies-can-leverage-activity-7122388417337860096-63On",
+      "activity_status": null
+    },
+    {
+      "title": "Whatâs your advice to professionals who are looking to build their own startup? #LinkedInTopVoices #TopVoicesEntrepreneurship. #LinkedInNewsAsia My…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_linkedintopvoices-topvoicesentrepreneurship-activity-7120287217691848704-yyOz",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gZ9c8KZt It was truly a pleasure to revisit Casablanca. While I've previously enjoyed the warm Moroccan hospitality extended by the…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_lmx-inks-partnership-with-fc-media-activity-7116060031862657024-33NT",
+      "activity_status": null
+    },
+    {
+      "title": "The world of DOOH has gone global. With this partnership, our clients can plan and buy DOOH media in the USA and Europe programmatically.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-walls-place-exchange-join-forces-activity-7110865535227105280-pgMY",
+      "activity_status": null
+    },
+    {
+      "title": "Sometimes the best way to go forward is to go way back - I noticed this campaign to raise awareness for Alzheimer on London Tube escalators last…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_media-cannes-dooh-activity-7077213537026129920-OiYZ",
+      "activity_status": null
+    },
+    {
+      "title": "Imagine the possibilities - store level budgets could be allocated to dooh, delivered programmatically based on store priorities and verified through…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-walls-jeki-team-up-in-launching-platform-activity-7057611469361709057-yKyp",
+      "activity_status": null
+    },
+    {
+      "title": "The internet has revolutionized the way perishable goods are connected to those in need, delivering significant social value. Online platforms and…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_the-internet-has-revolutionized-the-way-perishable-activity-7107876221190897664-8OXs",
+      "activity_status": null
+    },
+    {
+      "title": "The world of media is constantly evolving, and it's time for us to adapt. With the rise of omni-channel marketing, allocating budgets to specific…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_digitaladvertising-omnichannelmarketing-activity-7102086543980335104-4mF4",
+      "activity_status": null
+    },
+    {
+      "title": "This is a question that constantly troubles many of us - how do we discover a purpose that goes beyond our desires and necessities? How can our…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_this-is-a-question-that-constantly-troubles-activity-7092304009285283840-6rw_",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gQpzda8a Love it or Hate it, I believe that some of the points made in this article are worth pondering over.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_why-bankers-misunderstand-ad-tech-and-why-activity-7084787235815882752-0fJR",
+      "activity_status": null
+    },
+    {
+      "title": "The woods are lovely, dark and deep. But I have promises to keep, And miles to go before I sleep, And miles to go before I sleep.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_the-woods-are-lovely-dark-and-deep-but-activity-7083719447898722305-ZWxH",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/g9jXH7yH Thank you Angela Torres-Andresen for your program that initiated our entry into LATAM.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_singapore-based-ooh-ad-software-provider-activity-7071727536317100032-pol1",
+      "activity_status": null
+    },
+    {
+      "title": "The media world is going omni. The advertising fatigue that we feel in the internet and apps world is making real world media important to…",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_council-post-addressing-the-engagement-opportunity-activity-7066975619263168512-crLB",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Laura Gerrits It was a honour and a pleasure to participate in this initiative.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_thank-you-laura-gerrits-it-was-a-honour-and-activity-7062092308501958656-F2Fx",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for connecting the dots Mark Wilson 🪧 This is an important step towards making all out of home simple and easy to buy.",
+      "link": "https://www.linkedin.com/posts/srikanth-ramachandran-b7a105_moving-walls-to-power-mastrum-a-game-changing-activity-7058281762279329792-Ssbn",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://www.linkedin.com/in/srikanth-ramachandran-81658423",
+      "summary": "Technical Support Engineer Senior Staff at Juniper Networks",
+      "location": "Herndon, VA"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/srikanth-ramachandran-5681221",
+      "summary": "Senior IT Director | Digital Transformation Expert",
+      "location": "Pune"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/srikaram",
+      "summary": "SDE-3 at Groupon | Ex-JPMorgan Chase | Ex-Oracle",
+      "location": "Bangalore Urban"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://www.linkedin.com/in/srikanth-ramachandran-120aa314",
+      "summary": "Founder and Board Member at Revature",
+      "location": "Fairfax County, VA"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/srikanthind",
+      "summary": "Technical Solutions Specialist |  Problem Solver |  Driving Innovation in Technology",
+      "location": "Chennai"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://www.linkedin.com/in/srikanth-ramachandran-2b14075",
+      "summary": null,
+      "location": "Greater Chicago Area"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/ramachandransrikanth",
+      "summary": null,
+      "location": "India"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/srikanth-ramachandran-550a1657",
+      "summary": null,
+      "location": "Chennai"
+    },
+    {
+      "name": "Srikanth Ramachandran",
+      "link": "https://in.linkedin.com/in/srikanthramachandran",
+      "summary": null,
+      "location": "Chennai"
+    }
+  ],
+  "articles": [
+    {
+      "title": "2021 Closing Thought - Does the artificial annual business cycle make sense anymore",
+      "link": "https://www.linkedin.com/pulse/2021-closing-thought-does-artificial-annual-cycle-ramachandran",
+      "published_date": {
+        "day": 30,
+        "month": 12,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQGoJNb_nBZFoQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1640840598507?e=2147483647&v=beta&t=gdF2Vn6KJsBbDtEujxxpBaoMrKvMG8hlxo3rwtntQck"
+    },
+    {
+      "title": "Staying indoors to Build an Outdoor Media Business",
+      "link": "https://www.linkedin.com/pulse/staying-indoors-build-outdoor-media-business-srikanth-ramachandran",
+      "published_date": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQFFmpileHZA_g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1609504316787?e=2147483647&v=beta&t=P8KpqoCZ20IhZrTFZY4W5RBAxe0GxMhfY8uV3VDDAkg"
+    },
+    {
+      "title": "Board Games and Board Rooms",
+      "link": "https://www.linkedin.com/pulse/board-games-rooms-srikanth-ramachandran",
+      "published_date": {
+        "day": 17,
+        "month": 10,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQHwlK_d2uq0qg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1602910328892?e=2147483647&v=beta&t=jzwgtbcMxmIcAkDWLo9hj3h0s9rx7TFncwlAr6FPOpI"
+    },
+    {
+      "title": "Banking on Branch Media: The Owned Media Assets Ready for Priming and Activating Consumers",
+      "link": "https://www.linkedin.com/pulse/banking-branch-media-owned-assets-ready-priming-srikanth-ramachandran",
+      "published_date": {
+        "day": 13,
+        "month": 11,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5112AQEp0BcTMuO57g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1573615041000?e=2147483647&v=beta&t=1gdk_LL9mryX1sI_XlTVNkYnKkYvWEbHS0cs2XwWyfY"
+    },
+    {
+      "title": "The Empire Strikes Back: Can Telcos Power the Outernet?",
+      "link": "https://www.linkedin.com/pulse/empire-strikes-back-can-telcos-power-outernet-srikanth-ramachandran",
+      "published_date": {
+        "day": 11,
+        "month": 10,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5112AQEFnsttlBwvfw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1570810319142?e=2147483647&v=beta&t=Fdk3V8Zr8tOb_2ndDoV7TAIz3FNy9ayHkE87T4dj_gU"
+    },
+    {
+      "title": "Minority Report - The Next Billion Digital OOH Screens",
+      "link": "https://www.linkedin.com/pulse/minority-report-next-billion-ooh-digital-screens-ramachandran",
+      "published_date": {
+        "day": 13,
+        "month": 8,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5112AQEs3hTK8rDdug/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1565673803763?e=2147483647&v=beta&t=KRwZUPx3SqaVq-aWd-QO4-HTXAckKEaEh2labr3fwcQ"
+    },
+    {
+      "title": "OOH Programmatic Advertising - Can Everyone can be a Winner ?",
+      "link": "https://www.linkedin.com/pulse/ooh-programmatic-advertising-can-everyone-winner-ramachandran",
+      "published_date": {
+        "day": 5,
+        "month": 8,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5112AQFBfIhQdDQ9gg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1565003574332?e=2147483647&v=beta&t=7IPAtJJgluRCyipkSdMDaA0tPc4EGYlruo0oAxNLOUg"
+    },
+    {
+      "title": "This is Media! Singapore Media Awards",
+      "link": "https://www.linkedin.com/pulse/media-singapore-awards-srikanth-ramachandran",
+      "published_date": {
+        "day": 23,
+        "month": 7,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5112AQE0ZYrMxVB8hA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1563868105762?e=2147483647&v=beta&t=0kq74CBQc2T_Q0Ow2FNeXTLVpvhvOSgIPS22TdYH4Ag"
+    },
+    {
+      "title": "Experience - The New Drug",
+      "link": "https://www.linkedin.com/pulse/experience-new-drug-srikanth-ramachandran",
+      "published_date": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQHIuxuI6j9NJw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520097420230?e=2147483647&v=beta&t=BxMIWeP3YvtzhPC5CMMURokMnJzawpDHF1TLjVpV0KY"
+    },
+    {
+      "title": "The Search",
+      "link": "https://www.linkedin.com/pulse/search-srikanth-ramachandran",
+      "published_date": {
+        "day": 8,
+        "month": 4,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQGe-cLapFrR-A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520143299907?e=2147483647&v=beta&t=qiQC_AyKNbDdT2oyd11ZwvakP2MyGQk6sOs5BGVGH1A"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-20T00:00:00Z"
+  }
+}

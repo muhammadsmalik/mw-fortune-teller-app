@@ -1,0 +1,610 @@
+{
+  "public_identifier": "michel-helmes-9aab324",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Michel",
+  "last_name": "Helmes",
+  "full_name": "Michel Helmes",
+  "follower_count": 1425,
+  "occupation": "International Sales Director at Global",
+  "headline": "International Sales Director at Global",
+  "summary": "I am a passionate commercial leader, with more than 18 years of B2B experience on Local, National and Global level in a (digital) media environment<br><br>• Strategically driven and results orientated; <br>• Strong analytical skills and commercial with an entrepreneurial attitude; <br>• Positive communicator with a flexible mindset; <br>• People oriented, developing individual talents and building strong teams.",
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "International Sales Director",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2017
+      },
+      "company": "Exterion Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "International Sales Manager - Benelux Germany Austria",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2015
+      },
+      "company": "Exterion Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "International Key Account Manager",
+      "description": null,
+      "location": "Amsterdam",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Ster",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ster",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager RTVI",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2139302e243e054616aaf1accdeea5f7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2010
+      },
+      "company": "OUTFRONT Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outfrontmediausa",
+      "company_facebook_profile_url": null,
+      "title": "National Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b717f2b7428ddba9efa084ac69d86edf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2008
+      },
+      "company": "CBS Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outfrontmediausa",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager Outbound",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b717f2b7428ddba9efa084ac69d86edf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2007
+      },
+      "company": "CBS Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outfrontmediausa",
+      "company_facebook_profile_url": null,
+      "title": "Desk Account Manager",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b717f2b7428ddba9efa084ac69d86edf"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Bachelor",
+      "school": "Hogeschool voor Economische Studies Rotterdam (HES)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-voor-economische-studies-rotterdam-hes-",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7ed6484e631fe767734259062f6f8bae",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "EUR/HES",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/florian-heister",
+      "name": "Florian Heister",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommarsch",
+      "name": "Tom Marsch",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beijer81",
+      "name": "Bart Beijer",
+      "summary": null,
+      "location": "Nijmegen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dhierinder",
+      "name": "Dhierinder Ramcharan",
+      "summary": null,
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-huber",
+      "name": "Steven Huber",
+      "summary": "AP Administrator @ Foleon | Freelance guitarist/owner @ Mellow Flows",
+      "location": "Almere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackdevlinooh",
+      "name": "Jack Devlin",
+      "summary": "Commercial Director at Persuasion",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcserrurierschepper",
+      "name": "Marc Serrurier Schepper",
+      "summary": "Global Sales Director Luxury at Catawiki",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joleingroot",
+      "name": "Jolein Groot",
+      "summary": "Client Service Director at Abovo Maxlead",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boudewijndevries1",
+      "name": "Boudewijn de Vries",
+      "summary": "JK Breathing / Lionheart Projects",
+      "location": "Apeldoorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamaraqaisieh",
+      "name": "Tamara Qaisieh",
+      "summary": "Social Media Account Director at Create Media Group",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lina-liashenko",
+      "name": "Lina Liashenko",
+      "summary": "Content Partnership Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobbiquinn",
+      "name": "Bobbi Quinn",
+      "summary": "Senior Policy and Campaigns Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewstatham",
+      "name": "Matthew Statham",
+      "summary": null,
+      "location": "Warwick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikenijssenmedia",
+      "name": "Mike Nijssen",
+      "summary": "Directeur bij de Media Balie",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/virginia-hickman",
+      "name": "Virginia Hickman",
+      "summary": "Concession Manager at Exterion Media NL",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisvanspaendonck",
+      "name": "Chris van Spaendonck",
+      "summary": "Export Manager VINADA®",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/celinekuyper",
+      "name": "Céline K.",
+      "summary": "Account Manager at NRC Carrière",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/casperwerner",
+      "name": "Casper Werner",
+      "summary": "Kostendeskundige",
+      "location": "Purmerend"
+    },
+    {
+      "link": "https://www.linkedin.com/in/owen-bond-3b6476251",
+      "name": "Owen Bond",
+      "summary": "Supply Chain Coordinator at Kettle Foods UK",
+      "location": "Norwich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nancyholinsky",
+      "name": "Nancy Holinsky",
+      "summary": "Ik hoef niet meer te werken",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisette-kortland",
+      "name": "Lisette Kortland",
+      "summary": "Founder Your Destinations Real Estate | Makelaar, vastgoedbelegger & adviseur | Strategisch partner voor vastgoedinvesteringen in Spanje",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-gaweda",
+      "name": "Adam Gawęda",
+      "summary": "Business Developer for the one-brand solar energy solution",
+      "location": "Rotterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariana-van-beek-di-giovanni-aba2049",
+      "name": "Mariana van Beek - Di Giovanni",
+      "summary": null,
+      "location": "Nijmegen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-malik-729957236",
+      "name": "sam Malik",
+      "summary": null,
+      "location": "Nagpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemieke-poot-340a874",
+      "name": "Annemieke Poot",
+      "summary": "General Manager Health Care Europe & North America at Beiersdorf - mentor LEAD network - SERtopvrouwen -Boardmember GivingBack Foundation",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bart-wijnands-137aa64",
+      "name": "Bart Wijnands",
+      "summary": "Helpt podotherapeuten tijd en kosten besparen met 3D-geprinte zolen | PodoPrinter | Minder afval | Eigen beheer & controle",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/parthiv-kaji-b019659",
+      "name": "Parthiv Kaji",
+      "summary": "Director - Advertising Sales | Revenue Maximization",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/koen-venekamp",
+      "name": "Koen Venekamp",
+      "summary": null,
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijn-scholtens-93a07012",
+      "name": "Martijn Scholtens",
+      "summary": "Enterprise Account Executive @ Okta | Identity and Access Management",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-dekkers-24407212",
+      "name": "Thomas Dekkers",
+      "summary": "Sales Manager at Global",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sander-renes-ab744512",
+      "name": "Sander Renes",
+      "summary": "Regio Director Field Sales",
+      "location": "Zwolle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/friso-de-lange-a9319a13",
+      "name": "Friso de Lange",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/petra-jongman-a3437113",
+      "name": "Petra Jongman",
+      "summary": "By Media",
+      "location": "Zwolle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-brouwer-28598313",
+      "name": "Paul Brouwer",
+      "summary": "manager at SNS Securities",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joost-flanagan-9baa8716",
+      "name": "joost flanagan",
+      "summary": "Retired",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianneplaggenborg",
+      "name": "Marianne Plaggenborg",
+      "summary": "addurance - CEO & Founding Partner",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasper-van-der-zwaan-7a904819",
+      "name": "Jasper van der Zwaan",
+      "summary": "Eigenaar Lunchstation Mes Amis",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emiel-prenger-b200411b",
+      "name": "Emiel Prenger",
+      "summary": "De Uitlener",
+      "location": "Almelo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dyron-bijl-663b7b1b",
+      "name": "Dyron Bijl",
+      "summary": "Key Accountmanager at Cross & Owner Voorne aan Zee Festival",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marieke-dorreboom-kattenpoel-68a66223",
+      "name": "Marieke Dorreboom-Kattenpoel",
+      "summary": "Concession & Operations Director bij Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leon-melssen-2b507229",
+      "name": "Leon Melssen",
+      "summary": "International Salesmanager at SOTT International BV",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nanja-nunnink-meijer-2575952b",
+      "name": "nanja nunnink-meijer",
+      "summary": "account manager at Nelson Scoort!",
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-hermanns-1a702930",
+      "name": "Robert Hermanns",
+      "summary": "Sales Manager at Media Group Holland",
+      "location": "Heythuysen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pim-wisbrun-bb194743",
+      "name": "Pim Wisbrun",
+      "summary": "Lead Agency Account Manager AH Retail Media Services",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-mateu-499a9786",
+      "name": "Ricardo Mateu",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-hidalgo-garc%25C3%25ADa-de-velasco-26a6a9a4",
+      "name": "Eduardo Hidalgo García de Velasco",
+      "summary": "Administrador Eh!xternal Publicidad, S.L.",
+      "location": "Seville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isa-idema-2b5b93133",
+      "name": "Isa Idema",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cindy-di-501721189",
+      "name": "Cindy Di",
+      "summary": "Sales representative",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-post-5651321b0",
+      "name": "Emily Post",
+      "summary": "Graphic Designer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manish-tripathi-8720911ba",
+      "name": "Manish Tripathi",
+      "summary": null,
+      "location": "New Delhi"
+    }
+  ],
+  "recommendations": [
+    "Marc Serrurier Schepper\n\nI have had the opportunity of working with Michel for over two years at CBS Outdoor His professionalism and expertise has been very valuable to the outbound team. His ability to develop strong customer relations internally and externally at CBS has been remarkable to watch.\r\nI highly recommend Michel as an Account Manager and hope our professional ways will meet again in the future.",
+    "Bas van Riet\n\nMichel is reliable, professional and dedicated to his work.\r\nNot only he has excellent cold calling selling skills but also knows how to use is solution selling skills and he understands well how to engage with prospects and clients on senior and executive level. Michel performs well in a competitive environment.\r\nFurthermore he has a pleasant character and is easy to work with."
+  ],
+  "activities": [
+    {
+      "title": "In aanloop naar de AMMA's op 21 mei vroegen we alle genomineerden om hun case te pitchen. Dit is de pitch van Global Nederland in de categorie…",
+      "link": "https://nl.linkedin.com/posts/ammaawards_in-aanloop-naar-de-ammas-op-21-mei-vroegen-activity-7460286108795363328-8A8S",
+      "activity_status": null
+    },
+    {
+      "title": "The biggest mistake brands make when entering the German market? Focusing only on Berlin. It’s an easy trap to fall into, Berlin is visually iconic…",
+      "link": "https://www.linkedin.com/posts/billups_ooh-germanymarketing-billupsgermany-activity-7459887938626113536-L6Hq",
+      "activity_status": null
+    },
+    {
+      "title": "XO Cape Arnna is back on the London Underground this year! After last year’s campaign, it’s great to see the brand return with another round on our…",
+      "link": "https://www.linkedin.com/posts/nazlibennabrown_xo-cape-arnna-is-back-on-the-london-underground-activity-7445470849182134272-g9_8",
+      "activity_status": null
+    },
+    {
+      "title": "Na vele jaren in de wereld van media en buitenreclame begin ik vandaag aan een prachtige nieuwe uitdaging als CEO van House of Tickets. Een krachtig…",
+      "link": "https://nl.linkedin.com/posts/erickip_na-vele-jaren-in-de-wereld-van-media-en-buitenreclame-activity-7439307092760412160-5f0Z",
+      "activity_status": null
+    },
+    {
+      "title": "Throughout my career, I’ve been supported by so many incredible women who inspired me, shared their expertise, and helped me move forward. That…",
+      "link": "https://www.linkedin.com/posts/tatjanasekunda_throughout-my-career-ive-been-supported-activity-7415063666036809728-Dn5h",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful last trip to the Global office in Leicester Square today. Thanks to Ali Jones,  Stephen Jones,  Josh Baum, James Harrison, Cassie…",
+      "link": "https://www.linkedin.com/posts/ollyl_wonderful-last-trip-to-the-global-office-activity-7407455361202335745-3Vdv",
+      "activity_status": null
+    },
+    {
+      "title": "🎄🥇 Drie keer #1 in het Adformatie Kerstrapport 🥇🎄 Trots om te delen dat adpaq door Adformatie is uitgeroepen tot: 👉 #1 Meest Innovatief 👉 #1…",
+      "link": "https://nl.linkedin.com/posts/marvingene_trots-adpaq-programmaticaudio-activity-7406367200770572288-1QBX",
+      "activity_status": null
+    },
+    {
+      "title": "Beautiful winter morning today in Cheltenham ❄️",
+      "link": "https://www.linkedin.com/posts/ollyl_beautiful-winter-morning-today-in-cheltenham-activity-7399358090539851777-mvXa",
+      "activity_status": null
+    },
+    {
+      "title": "A brilliant send‐off yesterday for Paul Davies and Susannah Jay. End of an era...",
+      "link": "https://www.linkedin.com/posts/ollyl_a-brilliant-sendoff-yesterday-for-paul-davies-activity-7400568969390313472-8qZv",
+      "activity_status": null
+    },
+    {
+      "title": "🎉HOERA!!! 10 jaar Mooncake! 🎉 Het is tien jaar geleden dat ik mijn allereerste artikel publiceerde op http://mooncake.nl . Over mijn favoriete…",
+      "link": "https://nl.linkedin.com/posts/jonneke-de-zeeuw-bb968052_hoera-10-jaar-mooncake-het-is-tien-activity-7401555365085208576-dXdB",
+      "activity_status": null
+    },
+    {
+      "title": "𝗢𝗽𝗲𝗲𝗻𝘀 𝗵𝗲𝗯 𝗷𝗲 𝗵𝗲𝘁… * Ik ga naar GVB! Vanaf januari ga ik aan de slag als Hoofd Corporate Communicatie & Public Affairs bij GVB. Een…",
+      "link": "https://nl.linkedin.com/posts/jojannekeholtrustwesterbeek_𝗢𝗽𝗲𝗲𝗻𝘀-𝗵𝗲𝗯-𝗷𝗲-𝗵𝗲𝘁-ik-ga-activity-7399403411210739712-OMxV",
+      "activity_status": null
+    },
+    {
+      "title": "🧠 Een slimme gym voelt opgeruimd – zonder dat je alles moet verstoppen. Een klant kwam recent bij ons met een herkenbare frustratie: Mijn…",
+      "link": "https://nl.linkedin.com/posts/sander-kamphuis-66946414_ptstudio-fitnessondernemer-personaltrainer-activity-7381610854988881920-iQp5",
+      "activity_status": null
+    },
+    {
+      "title": "Enjoyed working on this Brixton BuzzBallz activation with Jaclyn Reith! Global Transport for London",
+      "link": "https://www.linkedin.com/posts/lucas-sayer-860b54195_enjoyed-working-on-this-brixton-buzzballz-activity-7369385497862909952-82EN",
+      "activity_status": null
+    },
+    {
+      "title": "Österreichisches Lebensgefühl im öffentlichen Raum! 🇳🇱 🌐 🧡 🇦🇹 Spannender Austausch zwischen Global Nederland und der Österreich Werbung in…",
+      "link": "https://de.linkedin.com/posts/michaelstrasser1_lebensgefühl-feelaustria-dooh-activity-7373293045762519040--6AN",
+      "activity_status": null
+    },
+    {
+      "title": "Leuk nieuws! Per 1 september maak ik onderdeel uit van de groep associates binnen EGM. Ik kijk er naar uit om samen met Martijn in 't Veld en alle…",
+      "link": "https://nl.linkedin.com/posts/leonie-grootveld-79140120_leuk-nieuws-per-1-september-maak-ik-onderdeel-activity-7368652070842761216-kMRn",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Michel Helmes",
+      "link": "https://nl.linkedin.com/in/michel-helmes-aab29116",
+      "summary": "--",
+      "location": "Netherlands"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:51:27Z"
+  }
+}

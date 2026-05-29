@@ -1,0 +1,395 @@
+{
+  "public_identifier": "husseinkhader",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6f8fb785e69dd7e2386560e7b5e8218b",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/6f2938b218cf9595613ded0aebb60aca",
+  "first_name": "Hussein",
+  "last_name": "Khader",
+  "full_name": "Hussein Khader",
+  "follower_count": 2654,
+  "occupation": "Founder & CEO at The Neuron",
+  "headline": null,
+  "summary": null,
+  "location_str": "الأردن",
+  "country": "JO",
+  "country_full_name": "Jordan",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "The Neuron",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/theneuron",
+      "company_facebook_profile_url": null,
+      "title": "Founder & CEO",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/26859044dd5624e0a3d6aa7acb62ad2a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "company": "Naistro",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/naistromusic",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": "Jordan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/123ed8508825d71de5bb2e005355c5ec"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 1995
+      },
+      "ends_at": null,
+      "company": "Seagulls Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/seagulls-media",
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": null,
+      "location": "Jordan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/27a166e9f07a322d42e324c1100a4ad3"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Bachelor of Business Administration - BBA",
+      "school": "InterCollege Larnaca",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/intercollege-larnaca",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c05bf0cd9a481480862e4bbed72754b9",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1987
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "field_of_study": "Economics",
+      "degree_name": null,
+      "school": "Kuwait University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/kuwait-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/71706071d560f1f8b68cfb02f7f33055",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2675,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/zaidabulaila",
+      "name": "zaid abulaila",
+      "summary": "E-commerce projects and Digital Marketing",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eyadamasri",
+      "name": "Eyad A. Masri",
+      "summary": "CEO Linker.Solutions | Inbound Marketing | FinTech | Digital Innovation Founder Hyper Startups \"iostartups\"",
+      "location": "Madaba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ihabnajeh",
+      "name": "Ihab Al-assi",
+      "summary": "CEO & Founder at Mshakal company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mafrangi",
+      "name": "Mohammed Alafranji",
+      "summary": "Experienced Marketing and Entrepreneurship Professional | Digital Marketing Consultant | Co-Founder at Habaybna.net | Passionate about Business Growth and Scalability",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aymanirshaid",
+      "name": "Ayman Irshaid",
+      "summary": "Ayman Irshaid, Founder & CEO at moments.",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malafranji",
+      "name": "Mohammed Alafranji",
+      "summary": null,
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamza-kanaan",
+      "name": "Hamza Kanaan, GRCA",
+      "summary": "Assistant Manager – Transformation & Digital Transformation | Data-Driven Insights & Strategic Solutions",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammad-al-hosseini-152348104",
+      "name": "Mohammad Al Hosseini",
+      "summary": "Helping Businesses Achieve Sustainable Growth Through Branding, Marketing & Strategic Innovation",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omar-atieh",
+      "name": "Omar Atieh",
+      "summary": "CEO & Founder | Real Estate Consultant | Property Manager | Real Estate Development | I help real estate owners increase their ROI without buying a new property",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anton-bakerjian-26519316",
+      "name": "Anton Bakerjian",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alialasmar",
+      "name": "Ali Alasmar",
+      "summary": "Executive Manager at Adidas Combat Sports GCC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daliafar",
+      "name": "Dalia El-Far",
+      "summary": null,
+      "location": "Cairo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzanne-afanah-3228a612",
+      "name": "Suzanne Afanah",
+      "summary": "Former Minister of Tourism and Antiquities, Managing and Founding Partner at Advvise",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saied-badaro-b9387b18",
+      "name": "Saied Badaro",
+      "summary": "GM at Alt Shift Creative Jordan",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/riham-mahafzah-82a4691b",
+      "name": "Riham Mahafzah",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samer-abuhantash-41b65a26",
+      "name": "Samer AbuHantash",
+      "summary": "Managing Director",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-madi-a62b2039",
+      "name": "Mohammed Madi",
+      "summary": "Customer Behavior & Psychology Expert | Customer Engagement Strategies | Strategic Partnerships & Account Management | PPM®",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salemsaqer",
+      "name": "Salem Saqer",
+      "summary": null,
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/momen-shadid",
+      "name": "Mo'men Shadid",
+      "summary": "Entrepreneur in Tech Startups and Media",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yacoub-hamarsheh-342360106",
+      "name": "Yacoub Hamarsheh",
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I’m incredibly proud to share that the team I am privileged to be part of has been recognized as 𝗧𝗲𝗮𝗺 𝗼𝗳 𝘁𝗵𝗲 𝗬𝗲𝗮𝗿 only a few months into…",
+      "link": "https://www.linkedin.com/posts/zeinab-al-attieh-b9106158_im-incredibly-proud-to-share-that-the-team-activity-7425974619054063616-LuIj",
+      "activity_status": null
+    },
+    {
+      "title": "I will be hosting the AiOO Tech Video Podcast Series \"Screen Sider by AiOO\".  We have a strong and growing lineup of leaders from AdTech, Media…",
+      "link": "https://www.linkedin.com/posts/jeffgunderman_i-will-be-hosting-the-aioo-tech-video-podcast-activity-7424809578434842624-wygu",
+      "activity_status": null
+    },
+    {
+      "title": "✨ 𝗡𝗲𝘄 𝘆𝗲𝗮𝗿, 𝗻𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲! ✨ We’re excited to kick off the year with a brand-new update to adpaq: our improved 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴…",
+      "link": "https://www.linkedin.com/posts/adpaq_𝗡𝗲𝘄-𝘆𝗲𝗮𝗿-𝗻𝗲𝘄-𝗳𝗲𝗮𝘁𝘂𝗿𝗲-activity-7425119812621860865-_Leb",
+      "activity_status": null
+    },
+    {
+      "title": "Spotlighting Professional Leadership: Mazen Mroueh 🌟 Mazen Mroueh is a Global Advisor and Head of Retail Media & Partnerships at Publicis Media…",
+      "link": "https://www.linkedin.com/posts/theleadersnetworks_retailmedia-publicismedia-digitaltransformation-activity-7432464736958435328-09nD",
+      "activity_status": null
+    },
+    {
+      "title": "A meaningful step forward for how AI will be applied in business. The collaboration between Publicis Sapient and G42 shows the shift from discussion…",
+      "link": "https://www.linkedin.com/posts/basselkakish_a-meaningful-step-forward-for-how-ai-will-activity-7432340385370300416-OAkn",
+      "activity_status": null
+    },
+    {
+      "title": "Hear from Ari Buchalter, as he steps into his new role as Chief Strategy Officer at Broadsign.",
+      "link": "https://www.linkedin.com/posts/place-exchange_meet-ari-buchalter-broadsigns-new-chief-activity-7422659093003366400-cSrW",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured, grateful and privileged! Women’s Deaf European Futsal Championship here we come. I had ACL reconstruction surgery in March 2025 which…",
+      "link": "https://www.linkedin.com/posts/kate-bowers-5010426a_honoured-grateful-and-privileged-women-activity-7430617323838894080-bAa_",
+      "activity_status": null
+    },
+    {
+      "title": "Back from Integrated Systems Europe (ISE). A few simple takeaways. The stands that really grabbed attention were the ones that used those screens…",
+      "link": "https://www.linkedin.com/posts/livedoohsignkick_back-from-integrated-systems-europe-ise-activity-7426672695569862657-7VCG",
+      "activity_status": null
+    },
+    {
+      "title": "Publicis Groupe Middle East has appointed Joyce Abboud Hallak as Chief Executive Officer of Spark Foundry Middle East, as the agency enters its next…",
+      "link": "https://www.linkedin.com/posts/campaignme_publicis-groupe-middle-east-appoints-joyce-activity-7427309930853879808-K36n",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to share that I’ve been promoted and am stepping into a new role as Head of Retail Media & Partnerships  at Publicis Media. This…",
+      "link": "https://www.linkedin.com/posts/mazenmroueh_retailmedia-commercemedia-leadership-activity-7426879166202925056-Slyr",
+      "activity_status": null
+    },
+    {
+      "title": "Infinity Jordan is pleased to announce the signing of a new strategic partnership with Ayla Oasis in Aqaba. This collaboration marks an important…",
+      "link": "https://www.linkedin.com/posts/infinityevchargejo_infinity-jordan-is-pleased-to-announce-the-activity-7425914677920178176-5-r5",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this next challenge and catching up with everyone!",
+      "link": "https://www.linkedin.com/posts/kate-bowers-5010426a_looking-forward-to-this-next-challenge-and-activity-7424823245960445952-n1Ps",
+      "activity_status": null
+    },
+    {
+      "title": "Introducing  AI Powered Reporting – The Neuron’s latest innovation that transforms how agencies work with data. Ask questions, visualize insights…",
+      "link": "https://www.linkedin.com/posts/theneuron_introducing-ai-powered-reporting-the-neuron-activity-7416842248128126977-RjUT",
+      "activity_status": null
+    },
+    {
+      "title": "Some really fun stuff by everyone Adpro& Group, Adpro& OMD Hatem Mohamed Jarrad Pitts Malek AlSmadi Anas Makkawi And the super Shantal Abu…",
+      "link": "https://www.linkedin.com/posts/rizekjildeh_some-really-fun-stuff-by-everyone-adpro-activity-7422595325523267584-7DVx",
+      "activity_status": null
+    },
+    {
+      "title": "My heart goes to Mohammad Arabiyat's nuclear family and Seagulls Media family at this difficult time for the sudden and tragic loss . You will remain…",
+      "link": "https://www.linkedin.com/posts/husseinkhader_my-heart-goes-to-mohammad-arabiyats-nuclear-activity-7003312435776380928-j4Ue",
+      "activity_status": null
+    },
+    {
+      "title": "I will be attending #websummit2022 where The Neuron will be at stand #A808 at Pavilion Five on November 4. Really looking forward to meeting our…",
+      "link": "https://www.linkedin.com/posts/husseinkhader_web-summit-join-the-best-tech-conference-activity-6990742165442170880-HxjQ",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing The Neuron Team and partners a great year ahead . Thank you Team for your great achievements and Thank you partners for believing in The…",
+      "link": "https://www.linkedin.com/posts/husseinkhader_wishing-the-neuron-team-and-partners-a-great-activity-6880130626704416768-GTV3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Hussein Khader",
+      "link": "https://ps.linkedin.com/in/hussein-khader-09ba10215",
+      "summary": "--",
+      "location": "Palestinian Authority"
+    },
+    {
+      "name": "Heba Hussein Khader Abdalhafeez",
+      "link": "https://om.linkedin.com/in/heba-hussein-khader-abdalhafeez-382555214",
+      "summary": "Senior Consultant Rayan Capital Group",
+      "location": "Muscat"
+    },
+    {
+      "name": "Hussein Khader",
+      "link": "https://sa.linkedin.com/in/hussein-khader-a302a0223",
+      "summary": "Sales Manager at Sustainable Technology Company For Energy",
+      "location": "Riyadh"
+    },
+    {
+      "name": "Hussein Khader",
+      "link": "https://sa.linkedin.com/in/hussein-khader-07b99551",
+      "summary": "Sales Manager at Sustainable technology for power",
+      "location": "Saudi Arabia"
+    },
+    {
+      "name": "Hussein Khader",
+      "link": "https://iq.linkedin.com/in/hussein-khader-207b13156",
+      "summary": "Help desk",
+      "location": "Iraq"
+    },
+    {
+      "name": "Hussein Khader",
+      "link": "https://ps.linkedin.com/in/hussein-khader",
+      "summary": "SEO Specialist | Content writter | Writing SEO friendly articles | Social media advertiser professional | Writing a creative marketer plan",
+      "location": "Palestinian Authority"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Neuron… My Journey to Automation",
+      "link": "https://www.linkedin.com/pulse/neuron-my-journey-automation-hussein-khader",
+      "published_date": {
+        "day": 28,
+        "month": 4,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4E12AQEwCmMc5I2Axg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1555744688879?e=2147483647&v=beta&t=yGXUw8wy7LDW0Dz3kmiGtllXlaWrD7Uo-7TojgRrPas"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-14T00:00:00Z"
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "public_identifier": "khagani-bakhshaliyev-b6792172",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/a917daa0b9b2f7ec789c9da029ad8e39",
+  "background_cover_image_url": null,
+  "first_name": "Khagani",
+  "last_name": "Bakhshaliyev",
+  "full_name": "Khagani Bakhshaliyev",
+  "follower_count": 805,
+  "occupation": "Director of Claims Settlement Department at Ateshgah Insurance OJSC",
+  "headline": null,
+  "summary": null,
+  "location_str": "Azerbaijan",
+  "country": "AZ",
+  "country_full_name": "Azerbaijan",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Ateshgah Insurance OJSC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Director of Claims Settlement Department",
+      "description": null,
+      "location": "Баку, Азербайджан",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Ateshgah Insurance Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Member of the Executive Board",
+      "description": null,
+      "location": "Azerbaijan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Ateshgah Insurance Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Head of Direct Sales  Department",
+      "description": null,
+      "location": "Azerbaijan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      },
+      "company": "Ateshgah Insurance Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Chief of Direct Sales (Corporate Sales Department)",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2013
+      },
+      "company": "Ateshgah Insurance Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Главный специалист (Corporate Sales Department)",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "Ateshgah Insurance Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Leading specialist",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "Ateshgah Insurance Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ateshgah-insurance-group",
+      "company_facebook_profile_url": null,
+      "title": "Specialist",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/872dd1878aea59bc58fa9000e43c157e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "FINIX Solutions LLC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Директор",
+      "description": null,
+      "location": "Азербайджан",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Инженерная геология и геофизика",
+      "degree_name": "Бакалавр",
+      "school": "Azerbaijan State Oil Academy",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Средняя школа №160, Азербайджан",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 796,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/emiliya-mailova",
+      "name": "Emiliya Mailova",
+      "summary": "Head of HR at Qala Insurance Company",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fidan-seyidova-psm-i-pspo-i-674628284",
+      "name": "Fidan Seyidova  PSM I, PSPO I",
+      "summary": "Transformation office-Leading specialist | Project Managment division - Azerpost LLC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigar-pashazade-781bb3288",
+      "name": "Nigar Pashazade",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ulviya-abdiyeva-b9316a27b",
+      "name": "Ulviya Abdiyeva",
+      "summary": "Cert CII | Head of Strategic Clients and International Brokers Relations Department - Ateshgah Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rac-rzayev-314549227",
+      "name": "Rac Rzayev",
+      "summary": "Specialist of Business support division at Ateshgah İnsurance",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigar-sadikhova-051614259",
+      "name": "Nigar Sadikhova",
+      "summary": "Leading Specialist of Financial Institutions Department with Partners at Ateshgah Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gunay-karimova-28763325b",
+      "name": "Gunay Karimova",
+      "summary": "Leading Specialist in Organizational Learning & Development | Sustainable Development Center | Ateshgah Insurance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aysel-abbasovaa",
+      "name": "Aysel Abbasova",
+      "summary": "Head of Procurement",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dilbar-jabbarli-69218b208",
+      "name": "Dilbar Jabbarli",
+      "summary": "Leading Specialist of Motor Insurance | Project Manager",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fidan-hagverdiyeva",
+      "name": "Fidan Hagverdiyeva",
+      "summary": "Junior Underwriter at Pasha Insurance OJSC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrei-pogutsa-4239b5a2",
+      "name": "Andrei Pogutsa",
+      "summary": "Experienced irrigation specialist with over 12 years of hands-on and theoretical expertise in\nirrigation system design, implementation, and project management.",
+      "location": "Lethbridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/azer-aliyev-phd-dipfs-01891716",
+      "name": "Azer Aliyev PhD, DipFS",
+      "summary": "CEO at Ateshgah Insurance OJSC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/orkhan-shirinli",
+      "name": "Orkhan Shirinli",
+      "summary": "Deputy CEO at Ateshgah Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rufat-aghazada-06b0267a",
+      "name": "Rufat Aghazada",
+      "summary": "Co-Founder @ motobaz | Sales Management, Project Management",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/r%25C3%25B6ya-%25C5%259Firinova-474966208",
+      "name": "Röya Şirinova",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B9-%25D1%2585%25D0%25B0%25D0%25BA%25D0%25BC%25D0%25B8-2b467492",
+      "name": "Андрей Хакми",
+      "summary": "CTO в компании 2A Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/svetlana-mammadli-b2bb9422b",
+      "name": "Svetlana Mammadli",
+      "summary": "🤍",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/zabit-ibragimov-85b98b20b",
+      "name": "Zabit Ibragimov",
+      "summary": "Sığorta mütəxəssisi – Ateshgah Life Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fagani-mammadli-9457a3192",
+      "name": "Fagani Mammadli",
+      "summary": "Information Security",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rustam-asadov-742b03233",
+      "name": "Rustam Asadov",
+      "summary": null,
+      "location": "Khizi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raufmanafov",
+      "name": "Rauf Manafov",
+      "summary": "Small and Middle Business Insurance Department , Director - Ateshgah Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/itsgovaz",
+      "name": "İcbari Tibbi Sığorta üzrə Dövlət Agentliyi",
+      "summary": "Azərbaycan Bakı, Lev Tolstoy 170, AZ1095, Tel: 1542, e-mail: info@its.gov.az",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marjan-ajevski-1821215",
+      "name": "Marjan Ajevski",
+      "summary": "Lecturer in Law at The Open University Law School",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shafag-hasanova-670b6b26",
+      "name": "Shafag Hasanova",
+      "summary": "Member of the Management Board |Diploma in Management, Law, Social Sciences",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/larisa-parkhomenko-ba30a867",
+      "name": "Larisa Parkhomenko",
+      "summary": "1C Developer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nargiz-movlazadeh-33aa6177",
+      "name": "Nargiz Movlazadeh",
+      "summary": "Medical Underwriter",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sevinj-rasulova-0a862487",
+      "name": "Sevinj Rasulova",
+      "summary": "Chief Specialist of underwriting and reinsurance department.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dmitry-abbasov-0986838b",
+      "name": "Dmitry Abbasov",
+      "summary": "Board Member at HİDROXÜSUSİTİKİNTİ QSC",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramin-mehdizadeh-240872b2",
+      "name": "Ramin Mehdizadeh",
+      "summary": "Director of Partner Sales Department - Mega Life Insurance",
+      "location": "Baku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farid-samedov-771a90105",
+      "name": "Farid Samedov",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/parviz-safarov-4515a9132",
+      "name": "Parviz Safarov",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/salman-huseynov-73aa53141",
+      "name": "Salman Huseynov",
+      "summary": "Risk Analytics | Financial Economics | Econometrics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ilkin-gasimov-b24766161",
+      "name": "Ilkin Gasimov",
+      "summary": "Ateshgah Insurance Company•3K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ilkinnasirli",
+      "name": "Ilkin Nasirli",
+      "summary": "Bakcell•2K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elshan-mammadov-5a657018a",
+      "name": "Elshan Mammadov",
+      "summary": "Assistant Manager at Corporate Sales department at Ateshgah Insurance Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rashida-aliyeva-a75b3418b",
+      "name": "Rashida Aliyeva",
+      "summary": "Senior Specialist of Project Management Department",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kenul-isgandarova-517102193",
+      "name": "Kenul Isgandarova",
+      "summary": "Member of the Board of Directors",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rugiyya-babazade-cert-cii-2a33321a3",
+      "name": "Rugiyya Babazade",
+      "summary": "Head of Direct Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ofelya-orucova-56b0b01b2",
+      "name": "Ofelya Orucova",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ayxan-abdullayev-0a831b1b3",
+      "name": "Ayxan Abdullayev",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25D1%2580%25D1%2583%25D1%2581%25D1%2582%25D0%25B0%25D0%25BC-%25D0%25B0%25D0%25B1%25D0%25B4%25D1%2583%25D0%25BB%25D0%25BB%25D0%25B0%25D0%25B5%25D0%25B2-a0a3221b3",
+      "name": "Рустам Абдуллаев",
+      "summary": "Biznes Qrupu daxilində Baş mütəxəssis – Ateshgah Insurance Company\nŞəxsi sığorta növləri üzrə zərərlərin tənzimlənməsi şöbəsi-Baş mütəxəssis",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ayana-rahimli-b29593217",
+      "name": "Ayana Rahimli",
+      "summary": "Legal counsel",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/salima-alkhazova-3a8ba9217",
+      "name": "Salima Alkhazova",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aliyev-bahadur-3b112321a",
+      "name": "Aliyev Bahadur",
+      "summary": "Information Technology Engineer",
+      "location": "Khizi"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Yatmaq da pis olmazdı… amma özümə verdiyim söz daha güclüdür. #morningroutine #leadership #discipline #productivity",
+      "link": "https://www.linkedin.com/posts/khagani-bakhshaliyev-b6792172_morningroutine-leadership-discipline-activity-7432286188931145728-UXQu",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Khagani Bakhshaliyev",
+      "link": "https://az.linkedin.com/in/khagani-bakhshaliyev",
+      "summary": "Sales Engineer - Mitsubishi Electric",
+      "location": "Azerbaijan"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-12T00:00:00Z"
+  }
+}

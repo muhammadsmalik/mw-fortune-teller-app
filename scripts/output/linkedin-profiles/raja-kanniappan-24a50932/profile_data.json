@@ -1,0 +1,747 @@
+{
+  "public_identifier": "raja-kanniappan-24a50932",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/0b0e382453c563f89d7c4c333da275e2",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQFgAl79Twie7A/profile-displaybackgroundimage-shrink_200_800/B4EZVlV2W6GYAU-/0/1741161983722?e=2147483647&v=beta&t=fF1nELgFMoHevkiR5qfkZDsWTC3RK6WW-6VLybjAT3A",
+  "first_name": "Raja",
+  "last_name": "Kanniappan",
+  "full_name": "Raja Kanniappan",
+  "follower_count": 557,
+  "occupation": "COO/CFO at SQREEM Technologies",
+  "headline": null,
+  "summary": "",
+  "location_str": "Singapore",
+  "country": "SG",
+  "country_full_name": "Singapore",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "SQREEM Technologies",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sqreem-technologies",
+      "company_facebook_profile_url": null,
+      "title": "COO/CFO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/779ec74fa38a689cdd15eca7954d6ff2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "TotallyAwesome",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/totallyawesome",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": null,
+      "location": "Singapore, Singapore",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c034fb67abc1cc8d0b09809b326259f8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "company": "IPG Mediabrands",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipgmediabrands",
+      "company_facebook_profile_url": null,
+      "title": "Regional CFO APAC",
+      "description": null,
+      "location": "Singapore",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/29354c3150cca85e050d9afac24a87c8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "company": "GroupM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/groupmworldwide",
+      "company_facebook_profile_url": null,
+      "title": "Regional CFO EMEA",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f04a835771c79d0d13ff7fe96cb2216e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2015
+      },
+      "company": "GroupM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/groupmworldwide",
+      "company_facebook_profile_url": null,
+      "title": "Regional CFO APAC",
+      "description": null,
+      "location": "Singapore",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f04a835771c79d0d13ff7fe96cb2216e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "WPP Media Australia & New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wpp-media-australia-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "COO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b8a1ebecebcf2427884c3bf01b1fc1a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Grey",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grey",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1681522bf5a2f7ee0c50a59d0578b28c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Grey Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grey",
+      "company_facebook_profile_url": null,
+      "title": "Chief Financial Officer",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1681522bf5a2f7ee0c50a59d0578b28c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Grey Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grey",
+      "company_facebook_profile_url": null,
+      "title": "Finance Director",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1681522bf5a2f7ee0c50a59d0578b28c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "company": "Grey Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grey",
+      "company_facebook_profile_url": null,
+      "title": "Finance Controller",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1681522bf5a2f7ee0c50a59d0578b28c"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Business Management",
+      "school": "Swinburne University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/swinburne-university-of-technology",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0bbe1bed3f5a8f3746f9493529b1de91",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": null,
+      "degree_name": "Graduate Diploma of Business",
+      "school": "RMIT University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rmit-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4863a3c9bd266f1fa3a06f11f8d7dbfc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor of Business (Accountancy)",
+      "school": "RMIT University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rmit-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4863a3c9bd266f1fa3a06f11f8d7dbfc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1985
+      },
+      "field_of_study": null,
+      "degree_name": "Diploma of Business Studies",
+      "school": "Ngee Ann Polytechnic",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ngee-ann-polytechnic",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9653a16122daaf046f6c27498c110f09",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Member",
+      "school": "CPA Australia Program",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 494,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/marher",
+      "name": "Marcus Herrmann",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/choy-see-loke",
+      "name": "Choy See Loke",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clay-schouest",
+      "name": "Clay Schouest",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewmorriss",
+      "name": "Andrew Morriss",
+      "summary": "Chief Financial Officer",
+      "location": "Beaconsfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tirthmaankarmacharya",
+      "name": "Tirth Maan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielnguyenbangkok",
+      "name": "Daniel Nguyen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jefftorresfranco",
+      "name": "Jeff Franco",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deanlanauze",
+      "name": "Dean Govender Lanauze",
+      "summary": "Senior Alliance Partnerships Manager - APAC, Meltwater | Connecting Clients and Partners to harness the power of Meltwater",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agnesiae",
+      "name": "Agnesia Ekayuanita",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeinyitay",
+      "name": "Jein Yi Tay",
+      "summary": "Senior Brand Manager at IHH Healthcare",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/agnieszka-aga-giedroyc",
+      "name": "Agnieszka Aga Giedroyc",
+      "summary": "CEO Havas Thailand & EVP Corporate Development Havas Group Southeast Asia & North Asia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinsonlws",
+      "name": "Vinson Lee",
+      "summary": "Client Solutions Lead (eCommerce) at TikTok",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrianwatkins",
+      "name": "Adrian Watkins",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dheerhirani",
+      "name": "Dheer Hirani",
+      "summary": "Consumer & Digital Banking Executive | Client Experience | Business Growth | Marketing | Digital Transformation",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aakerlund",
+      "name": "Kasper Aakerlund",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-k-b072a44",
+      "name": "Dan K",
+      "summary": "Head of Campaign Operations at TotallyAwesome",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pablogomezmartinez",
+      "name": "Pablo Gomez",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jmleeg",
+      "name": "Lee Jiamin",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ram-atre-8315b94",
+      "name": "Ram Atre",
+      "summary": "Regional Finance Director - South Asia at GroupM Media India Pvt. Ltd.",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-hui-sg",
+      "name": "Ben Hui",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/malcolm-mcdowell-b709266",
+      "name": "Malcolm McDowell",
+      "summary": "Director at MMC consulting , looking for the next full time opportunity .",
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-raynes-greenow-ab30827",
+      "name": "Steven Raynes-Greenow",
+      "summary": "Owner, Hyphen Consulting",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomsimps0n",
+      "name": "Tom Simpson",
+      "summary": "Founder, AK3R | AI, Media, Markets, Culture | Strategy, Capital, Execution",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarayoung-digitalspecialist",
+      "name": "Tara Young",
+      "summary": "Digital Investment at Mindshare",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yudi-irwanto-b92365a",
+      "name": "Yudi Irwanto",
+      "summary": "Finance Director at Mediabrands Indonesia",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-mcmillan-808ba411",
+      "name": "Terry McMillan",
+      "summary": "Founder and Chief Architect of Accountability, an agency-native financial management platform",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robrose1",
+      "name": "Robert Rose",
+      "summary": "Senior Finance & Accounting Leader | MBA | CPA | Global FP&A | Strategic Planning | Finance Business Partner",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisa-cucuzza-72226614",
+      "name": "Marisa Cucuzza",
+      "summary": "PA to Directors at Simonds Homes",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-wilson-2092b114",
+      "name": "Peter Wilson",
+      "summary": "Chartered Accountant",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/siddarth-correya-875ab117",
+      "name": "Siddarth Correya",
+      "summary": "Media and Communications | Digital leaning",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ram-atre-3465611b",
+      "name": "Ram Atre",
+      "summary": "Regional Finance Director - South Asia at GroupM Media India Private Limited",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-beecroft-32328326",
+      "name": "Michael Beecroft",
+      "summary": "CEO North East Asia WPP Media",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-knight-50037826",
+      "name": "Jessica Knight",
+      "summary": "CFO, Chief of Staff",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joey-yang-40452227",
+      "name": "Joey Yang",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/veralene-cheong-b9535033",
+      "name": "Veralene Cheong",
+      "summary": "Monash University",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-heath-4a713b34",
+      "name": "Sean Heath",
+      "summary": "Assistant Group Pallet Manager at Linfox",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ibrahim-hamid-70a20035",
+      "name": "Ibrahim Hamid",
+      "summary": "APAC IT Director | Cloud Infrastructure | Regional IT Operations | Business-IT Strategy | 25+ Years | Multi-industry Leadership | Compliance & Governance | People-first Leader",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-tsui-0085243a",
+      "name": "Michelle Tsui",
+      "summary": "Head of Finance APAC",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/belinda-casselden-30b08743",
+      "name": "Belinda Casselden",
+      "summary": "Commercial, Brand and Strategic leader | Former Woolworths senior leader | Stakeholder engagement | Business Transformation and Problem Solving",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-yang-b9b25346",
+      "name": "Joseph Yang",
+      "summary": "Senior Manager , Global Business Intelligence and Analytics at IPG",
+      "location": "Palisades Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-tan-a1417747",
+      "name": "Adrian Tan",
+      "summary": "Nanyang Biologics, CIO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-neal-99105448",
+      "name": "David Neal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-riedlinger-99334748",
+      "name": "Brian Riedlinger",
+      "summary": "Founder: Better Results Consulting Pte Ltd.;\nPartner: Epic Igniter",
+      "location": "Ho Chi Minh City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hansjeffersonango",
+      "name": "Hans Jefferson Ngo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/derryl-g-hamonangan-a1b32056",
+      "name": "Derryl G. Hamonangan",
+      "summary": "Sales Manager at Gameloft",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pat-lim-98332458",
+      "name": "Pat Lim",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carl-hillery-0a27045a",
+      "name": "Carl Hillery",
+      "summary": "Investment Leader I  Media Negotiations  I  Revenue Growth",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edwin-kwak-9a50a361",
+      "name": "Edwin Kwak",
+      "summary": "Senior Manager, Global Technology at McDonald's",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hilary-brown-12352468",
+      "name": "Hilary Brown",
+      "summary": "Finance Director at TaguchiMarketing",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/austin-goh-99291088",
+      "name": "Austin Goh",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenny-saraiya-0046a192",
+      "name": "Jenny Saraiya",
+      "summary": "Head of Digital Marketing at EssilorLuxottica Lens Business- Asia Pacific",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yadhav-yadhavan-85443394",
+      "name": "yadhav yadhavan",
+      "summary": "SGH SINGAPORE at ISS Consulting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-garcia-62642aa2",
+      "name": "Mark Garcia",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/siu-yi-woon-957b05b3",
+      "name": "SIU YI WOON",
+      "summary": "Associate Director FP&A at IPG Mediabrands",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-fox-7a1a69bb",
+      "name": "Daniel Fox",
+      "summary": "Global Chief Investment Officer, IPG Mediabrands",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jia-yi-hong-922b18121",
+      "name": "Jia Yi Hong",
+      "summary": "Assistant Finance Manager",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvio-d-aloia-1a8560144",
+      "name": "Silvio D'Aloia",
+      "summary": "Senior Account Manager at PNO Insurance Brokers Pty Ltd",
+      "location": "Malvern East"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-nicolopoulos-649361150",
+      "name": "John Nicolopoulos",
+      "summary": "National Sales Manager at RF Composites",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haravin",
+      "name": "Haravin K",
+      "summary": "AdTech Professional | Driving Data-Driven Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-hillier-321739161",
+      "name": "Kevin Hillier",
+      "summary": "Media Manager at Howdy Partners Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dhayanand-kannappan-353455193",
+      "name": "Dhayanand Kannappan",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-codling-3320811a0",
+      "name": "Hannah Codling",
+      "summary": "Team Assistant",
+      "location": "Sydney"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Goodbye Singapore! After 10 incredible years living in the little red dot, it’s time to come back home, to Madrid. I don’t have words to describe…",
+      "link": "https://www.linkedin.com/posts/pablogomezmartinez_goodbye-singapore-after-10-incredible-activity-7193222577736069120-P9E3",
+      "activity_status": null
+    },
+    {
+      "title": "Some exciting news!  I’m honoured to share that I am joining Ogury as Chief Executive Officer, starting December 1st. After more than two decades…",
+      "link": "https://www.linkedin.com/posts/nbidon_some-exciting-news-im-honoured-to-share-activity-7399065319904006144-S1Z2",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’m starting a new position as Retired at IPG Mediabrands Thailand!",
+      "link": "https://www.linkedin.com/posts/suunchanapothipala_im-happy-to-share-that-im-starting-a-new-activity-7401815745577594880-u1qs",
+      "activity_status": null
+    },
+    {
+      "title": "Today I begin a new assignment as an NED at Ebiquity. I look forward to working with everyone there. My first contact with Ebiquity was at WPP where…",
+      "link": "https://www.linkedin.com/posts/chris-sweetland-917936b1_today-i-begin-a-new-assignment-as-an-ned-activity-7368239457545687040-iOQ9",
+      "activity_status": null
+    },
+    {
+      "title": "My journey at WPP / WPP Media (GroupM) has come to an end. What began as a role in finance evolved into a deeply rewarding global adventure — one…",
+      "link": "https://www.linkedin.com/posts/farrukhs-shakil_my-journey-at-wpp-wpp-media-groupm-has-activity-7359212007859871744-KtYc",
+      "activity_status": null
+    },
+    {
+      "title": "Ever thought about how your political views might shape your brand choices? 🗳️🛍️ Regional Head of Research, Data & Insights, Alice Almeida, just…",
+      "link": "https://www.linkedin.com/posts/raja-kanniappan-24a50932_voters-as-consumers-what-political-behaviour-activity-7318079351147634688-6ub_",
+      "activity_status": null
+    },
+    {
+      "title": "Today, I am both excited and humbled to share a new chapter in the journey of TotallyAwesome. We have entered into a definitive agreement to be…",
+      "link": "https://www.linkedin.com/posts/raja-kanniappan-24a50932_singapore-tech-giants-merge-sqreem-acquires-activity-7196347888874967041-Hw-m",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Raja Kanniappan",
+      "link": "https://au.linkedin.com/in/raja-kanniappan-3ba835",
+      "summary": "-",
+      "location": "Greater Melbourne Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:56:00Z"
+  }
+}

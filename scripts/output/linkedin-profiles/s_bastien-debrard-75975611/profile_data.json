@@ -1,0 +1,168 @@
+{
+  "public_identifier": "sébastien-debrard-75975611",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Sébastien",
+  "last_name": "Debrard",
+  "full_name": "Sébastien Debrard",
+  "follower_count": 199,
+  "occupation": "-- at mereo",
+  "headline": "-- chez mereo",
+  "summary": null,
+  "location_str": "Greater Toulouse Metropolitan Area",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Toulouse",
+  "state": "Occitanie",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "mereo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mereo",
+      "company_facebook_profile_url": null,
+      "title": "--",
+      "description": null,
+      "location": "Toulouse, Occitanie, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "company": "Hachette Livre",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hachette-livre",
+      "company_facebook_profile_url": null,
+      "title": "--",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2011
+      },
+      "company": "CRM Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "--",
+      "description": null,
+      "location": "Région de Paris, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2009
+      },
+      "company": "LUSIS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lusis",
+      "company_facebook_profile_url": null,
+      "title": "-",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "field_of_study": "Informatique",
+      "degree_name": "Ingénieur",
+      "school": "Conservatoire National des Arts et Métiers",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Le Mans Université",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 197,
+  "people_also_viewed": [],
+  "recommendations": [
+    "Vincent Mathieu\n\nRend le travail facile et pas seulement parce qu'il est sympathique"
+  ],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-17T00:00:00Z"
+  }
+}

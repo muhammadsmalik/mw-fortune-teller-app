@@ -1,0 +1,202 @@
+{
+  "public_identifier": "hana-friedlaenderová-b415248",
+  "profile_pic_url": "https://media.mixrank.com/profilepic/9e03d0bfaa4905f622a2dceed9b8df86",
+  "background_cover_image_url": null,
+  "first_name": "Hana",
+  "last_name": "Friedlaenderová",
+  "full_name": "Hana Friedlaenderová",
+  "follower_count": 504,
+  "occupation": "Head of Research at BigMedia, spol. s r.o.",
+  "headline": "Head of Research at BigMedia | OOH & DOOH | Market Research & Data Strategy",
+  "summary": null,
+  "location_str": "Czechia",
+  "country": "CZ",
+  "country_full_name": "Czech Republic",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "BigMedia, spol. s r.o.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bigmedia-spol.-s.r.o.",
+      "company_facebook_profile_url": null,
+      "title": "Head of Research",
+      "description": "Vedoucí výzkumu a datové strategie. Rozvoj metodik měření OOH a DOOH, práce s crossmediálními daty a příprava analytických podkladů pro klienty a obchodní tým. Cílem je ukázat efektivitu venkovní reklamy a posilovat její roli v moderním mediamixu.",
+      "location": "Prague, Czechia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "company": "Nielsen Admosphere, a.s.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediaresearch-a-s-",
+      "company_facebook_profile_url": null,
+      "title": "Client Service Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "Nielsen Admosphere, a.s.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediaresearch-a-s-",
+      "company_facebook_profile_url": null,
+      "title": "Senior Research and Insights Manager",
+      "description": "Responsibility for management of research projects in the Business section.",
+      "location": "Prague",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "company": "MEDIARESEARCH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Research Manager",
+      "description": "Management and processing of the Lifestyle Survey for panelists, co-creator of the Lifestyle Segmentation, management of the Lifestyle Survey Kids study.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "company": "MEDIAN,",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "external cooperation (maternity leave)",
+      "description": "During maternity leave, external collaboration with the MEDIAN and the Sociology Institute of the Academy of Sciences (Dr. Milan Tucek PhD). Co-author on several publications on lifestyle of the Czech population: Czechs in the new millennium (Elephant, 2000), Europe on the verge of unification (MEDIAN,KMR 2001), How are you Slovaks, how are you Czechs? (Prague, MEDIAN 2003).",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "company": "MEDIAN",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Consultant/Research manager/Head of media department",
+      "description": "Responsibility for the management and implementation of a single media research MEDIA PROJECT, the share of the overall development concept and media department.",
+      "location": "Prague",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "company": "PORG",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "math teacher",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1991
+      },
+      "field_of_study": "Math",
+      "degree_name": "Mgr",
+      "school": "Charles University in Prague Faculty of Mathematics and Physics",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 497,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-10-29T00:00:00Z"
+  }
+}

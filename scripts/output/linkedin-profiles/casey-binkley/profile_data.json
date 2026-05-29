@@ -1,0 +1,759 @@
+{
+  "public_identifier": "casey-binkley",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/a6a898f8ce53328cd9f98577cc1658f0",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/2272cb340e28021572cbde72e92590da",
+  "first_name": "Casey",
+  "last_name": "Binkley",
+  "full_name": "Casey Binkley",
+  "follower_count": 12474,
+  "occupation": "Founder & CEO at Mobilytics",
+  "headline": "CEO @ Mobilytics & Movia - Driving innovation throughout OOH globally",
+  "summary": "You have definitely come across Movia's eye-catching mobile billboards, equipped with…",
+  "location_str": "Toronto, Ontario, Canada",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Toronto",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Mobilytics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mobilytics-measurement",
+      "company_facebook_profile_url": null,
+      "title": "Founder & CEO",
+      "description": "Mobilytics provides real-time, one-to-one, privacy-compliant audience measurement.",
+      "location": "New York, New York, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e1cd6467d53358172e11d98cd0fc5360"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "Movia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moviamedia",
+      "company_facebook_profile_url": null,
+      "title": "Founder & CEO",
+      "description": "Helping brands maximize their advertising results with a unique combination of mobile ads and technology. Movia installs tracking and Wi-Fi collecting devices onto trucks acting as moving billboards, offering real-time impression analytics and retargeting opportunities. Brands can view their real-time dashboard to see when where and who saw their message and track their ROI. They can then build relevant audiences and reach them again on their mobile devices, increasing overall effectiveness far beyond what traditional OOH can offer.",
+      "location": "73 Bathurst St",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/77b932efe5169cde0f85f8e45c612728"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "HaulerAds",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moviamedia",
+      "company_facebook_profile_url": null,
+      "title": "Canadian Delegate YEA G20",
+      "description": "Attended the 2018 YEA G20 Summit in Buenos Aires as a Canadian Delegate. Made incredible international connections and I'm always proud to represent!",
+      "location": "Greater Buenos Aires, Argentina",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/77b932efe5169cde0f85f8e45c612728"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "Axle Plastic Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-fastrack",
+      "company_facebook_profile_url": null,
+      "title": "Co Founder",
+      "description": "Note: Homebrew (ing) is the process of making beer/wine/spirits in a person’s home or at an on-premise location. \n\nAxle Plastic Inc. is the innovative leader in the homebrewing market supplying FastFack, FastFerment, and FastLabel as it core product lines. \n\nwww.fastbrewing.com\n\nSince launching the first product, FastRack24 (Beer) in January 2013, the product has been listed in over 1 400+ retail stores across 40 countries. Additional product lines have been launched including FastRack12 for Wine and Bomber bottles, FastLabel for labeling and FastFerment which is a new conical fermenter that is revolutionizing the homebrew industry. The company will continue to seek new innovations, to market to the homebrew industry and will be listed in over 2 000+ retail stores by the end of 2015. The company had over 300% revenue growth in 2014 is on course for over 300% revenue growth in 2015. The company works with approx. 80 suppliers with final manufacturing being concentrated in Michigan and China. Axle Plastic is privately owned and operated in downtown Toronto by the founders.",
+      "location": "Toronto, Ontario, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b75c6ce5123e5fed4eecb990314f0622"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2014
+      },
+      "company": "Eco Energy Home Services Inc.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Assistant Sales Manager",
+      "description": "Team Leader and Assistant Sales Manager for a door to door sales team of 50 individuals. Specializing in HVAC equipment including: furnaces, boilers, AC's, and water heaters.",
+      "location": "1 Eglinton Ave. East Suite 202 Toronto, ON M4P 3A1",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2012
+      },
+      "company": "Ready Set Recycle",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": "Ready Set Recycle is committed to the goal of diverting all cell phones, printer cartridges, rechargeable batteries, and small electronics from landfills to responsible recycling streams. The company primarily operates across Nova Scotia where it was founded. We are in the midst of expanding the program to include other provinces and territories. Stay tuned for updates.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2011
+      },
+      "company": "Atlantic Eco-Expo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/atlantic-eco-expo",
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": "We host the largest sustainability trade show/festival in Atlantic Canada. The goal of the Event is to unite individuals, organizations, and government agencies with environmentally-friendly products, services, and initiatives. The goal is to have huge social impacts in the communities we host events in and help them become more efficient and sustainable for now and in the future.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2007
+      },
+      "company": "Full Throttle Gold",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Exploration and Development",
+      "description": "Mined gold and platinum group metals in Central BC and Dawson City, Yukon. Processed materials using a Knelson Concentrator which utilizes Centrifugal Gravity Concentration as well as sluice box and dredging equipment. I was also introduced to Aqua Regia and Fire Assaying methods for refining precious metal content in concentrates.",
+      "location": "Dawson City, Yukon",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+      "degree_name": "AngelPad Certified",
+      "school": "AngelPad",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/angelpad",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Entrepreneurship/Entrepreneurial Studies",
+      "degree_name": "Bachelor of Management",
+      "school": "Dalhousie University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/dalhousie-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Sigma Chi"
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Fastrack Beer Bottle Cleanser",
+      "description": "•\tUsed SolidWorks to produce prototype designs for this startup beer bottle cleaning solution •\tWrote an in depth proposal about the designs and cost benefit analysis •\tPerformed rapid prototyping, printing six models of the manifold •\tFabricated and assembled the product's initial design •\tCompiled a final report for the overall project",
+      "url": "http://www.fastbrewing.com/products/fastrack/homebrewers-wine-makers"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      },
+      "ends_at": null,
+      "title": "OOH Committee",
+      "cause": null,
+      "company": "AdClub of Toronto",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adclub-of-canada/",
+      "description": "Helping to organize the Toronto AdClub OOH Day Event. I'll see you there! Or you're going to be in big trouble! http://adclub.ca/our-events/2017-ooh-showdown/",
+      "logo_url": "https://assets.enrichlayer.com/ll/C510BAQGuRnwaTN2wjA/company-logo_100_100/company-logo_100_100/0/1631315516907?e=2147483647&v=beta&t=bPCS_2md_8Nr7K0HUKBX6rRoGrceB9q0NPPUsz9VqiE"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": null,
+      "title": "Extreme Event Organizer",
+      "cause": "Health",
+      "company": "Market Your Health",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/healthynetworking/",
+      "description": "Helping build awareness for healthy networking meet-ups.",
+      "logo_url": "https://assets.enrichlayer.com/ll/D4E0BAQERI6s9RXeMDA/company-logo_100_100/B4EZq5AtUCGYAQ-/0/1764040562606?e=2147483647&v=beta&t=UAt7yHcjW2lHwXPpA1FSkXxO4aOJZWaUVV0MfH0-ZPQ"
+    }
+  ],
+  "certifications": [],
+  "connections": 12523,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/diteljan",
+      "name": "Matthew Diteljan",
+      "summary": null,
+      "location": "Nelson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kkfuller",
+      "name": "Kim Fuller",
+      "summary": "Incurable optimist, social sector specialist, change maker.",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krebs",
+      "name": "Annalea Krebs 🌎",
+      "summary": "Founder & CEO at Social Nature #trynatural product discovery platform with 1M+ members. Certified B Corp. Recipient CHFA Woman of Influence award",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/konstantinkostychuk",
+      "name": "Konstantin Kostychuk",
+      "summary": "I help restaurant franchisors make better marketing decisions & grow their business 🏆 Founder, CEO @ Marketika",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/newmansk",
+      "name": "Scott Newman",
+      "summary": "Real estate decisions come down to timing and risk. I help buyers, sellers, and investors in Simcoe County and York Region make the right move, not just the next one.",
+      "location": "Innisfil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-larocque-",
+      "name": "Brian Larocque",
+      "summary": null,
+      "location": "Ko Samui"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylanvanas",
+      "name": "Dylan Vanas",
+      "summary": "Founder @ ROAS.co | 2x 8-Figure Entrepreneur | Host of AlchemistCEO Podcast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharonptpa",
+      "name": "Sharon Vinderine",
+      "summary": "Founder & CEO @ Parent Tested Parent Approved | RBC Entrepreneur of the Year winner |  Women of Inspiration recipient | Stevie Awards Recipient | Mentor | TV contributor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/micahdesforges",
+      "name": "Micah Desforges",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hozaifahalsibai",
+      "name": "Hozaifah Alsibai",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krystalee-crevier-33169611",
+      "name": "Krystalee Crevier",
+      "summary": "CEO, Maximum Media & PR Inc, Director @ SyncLotus LTD, Founder of ADDIPHI Inc.",
+      "location": "Beamsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trevorwhittamore",
+      "name": "Trevor Whittamore",
+      "summary": "Founder & CEO, Social Talk Agency",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-adams-41b7802a",
+      "name": "Jonathan Adams",
+      "summary": "Director sales and marketing",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/coreyrhayes",
+      "name": "Corey Hayes",
+      "summary": null,
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ehsan-baloochy-45275639",
+      "name": "Ehsan Baloochy",
+      "summary": "Founder & CEO SocialShopper | Social - Ecommerce | Media | Blockchain | Cryptocurrency | Philanthropy | Entrepreneur",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vitaliabramov",
+      "name": "Vitali Abramov",
+      "summary": "AI-Driven Sales Leader | SaaS Growth & Performance Marketing | GenAI Workflows, Automation & Revenue Optimization",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobdimas",
+      "name": "R.C. - Bob Dimas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rais-iqbal-40230171",
+      "name": "Rais Iqbal",
+      "summary": "Founder & CEO @ Studenttimes Staffing Solutions Inc. | Bookmyhelp",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffrey-moores-17a45084",
+      "name": "Jeffrey Moores",
+      "summary": "Founder and CEO at Tudotsu | Entrepreneur",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-kasbo-aa8382147",
+      "name": "Marc Kasbo",
+      "summary": "Luxury Limousine Service",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/codysblanchard",
+      "name": "Cody Blanchard",
+      "summary": "Head of Sales @ Mobilytics & Movia",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitchell-lesbirel-3288851b",
+      "name": "Mitchell Lesbirel",
+      "summary": "Co-Founder at Axle Plastic Inc. - Fastbrewing & Winemaking",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/noah-klas-1630a411",
+      "name": "Noah Klas",
+      "summary": "VP Membership at DPAA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ayyappanmt",
+      "name": "Ayyappan Munirathnam Thirunavukkarasu",
+      "summary": "Digital Marketing & Analytics Leader  Driving Campaign Success with Actionable Data Insights and Collaborative Team Leadership",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-cowlbeck-962b9296",
+      "name": "Chris Cowlbeck",
+      "summary": "Networking Independent Billboard Operators",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxwellflannery",
+      "name": "Max Flannery",
+      "summary": "Co-Founder & President at Adgile",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alyssa-hotte-9a1366232",
+      "name": "alyssa hotte",
+      "summary": "Advertising and marketing student | Aspiring advertising professional",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/neemahsingh",
+      "name": "Neema  Singh",
+      "summary": "Sales & Business Development Professional || Bringing a decade of expertise in driving growth and fostering strong stakeholder relationships.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/wintahagos",
+      "name": "Winta Hagos",
+      "summary": "Account Coordinator @ Movia Media | B.B.A. Marketing",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mytrinhd",
+      "name": "Anne D.",
+      "summary": "Advertising and Marketing Communications Management Studednt",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/omotayo-sanyaolu",
+      "name": "Omotayo  Sanyaolu, PMP",
+      "summary": "Project Management | Scrum | Media Planning  | Advertising",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dearden",
+      "name": "Matthew Dearden",
+      "summary": "CEO, entrepreneur, and adviser",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessie-britton-56185452",
+      "name": "Jessie Britton",
+      "summary": "Enthusiasm enthusiast. ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/daionesanders",
+      "name": "Daione Sanders",
+      "summary": "Head of Partnerships | Driving Revenue, Campaign Vision & Brand Momentum |",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonnathantrilleras",
+      "name": "Jonnathan Trilleras",
+      "summary": "PRESIDENT & CEO - LED Truck Media / \nFounder Member MOOHA - Moving OOH Association",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nazimhuda",
+      "name": "Nazim Huda",
+      "summary": "OOH Exec | Business Builder | Problem Solver | Lifelong Student",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaypanchal04",
+      "name": "Jayden D’Sanj",
+      "summary": "Advertising and Marketing Communications ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lakshjain",
+      "name": "Laksh Jain",
+      "summary": "Business Growth, Sales & Strategy | Movia & SMS |  ex - EY, CDL, Air Canada, ImmuNovus | UofT Rotman Grad",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-christian-16b69327",
+      "name": "Steve Christian",
+      "summary": "Director of Sales - Movia and Mobilytics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohit-sreenath-7a661b304",
+      "name": "Mohit Sreenath",
+      "summary": "Campaign Strategist & Operations",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Duc Nguyen, CISSP\n\nI had the pleasure to work under Casey's supervision as an intern in HaulerAds. His great leadership and mentorship helped me a lot in understanding the tech industry and developing numerous soft skills. If you are looking for opportunities in entrepreneurship and tech industry, Casey is a wonderful person to work with.",
+    "Matthew Hunt\n\nCasey is great to work with. He's a giver and driver. Working with him has-been such a pleasure. If you get a chance to work with him or a chance to partner with Casey, jump at it!"
+  ],
+  "activities": [
+    {
+      "title": "Welcome to the first ever #MOOHAMonday If you’re new here, you’re probably wondering what is MOOHA? Well, basically, it’s THE moving force in OOH…",
+      "link": "https://www.linkedin.com/posts/joinmooha_moohamonday-activity-7355645683070111746-if8i",
+      "activity_status": null
+    },
+    {
+      "title": "What a fantastic day on the water yesterday with the Canadian billups team out for a summer BBQ! We had the glizzies coming off the grill in full…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_what-a-fantastic-day-on-the-water-yesterday-activity-7349535971593310208-nojd",
+      "activity_status": null
+    },
+    {
+      "title": "We came. We saw. We conquered expense reports (and thirst) at Toronto Tech Week. Float is proudly built in Canada and rooted in the Toronto tech…",
+      "link": "https://www.linkedin.com/posts/floatfinancial_ttw2025-activity-7344046985055780865-b5Hn",
+      "activity_status": null
+    },
+    {
+      "title": "🚚 Not to toot our own horn, but… 📍Spotted in downtown Vancouver: Float trucks carrying a message that left the streets quiet for blocks. We’re…",
+      "link": "https://www.linkedin.com/posts/floatfinancial_not-to-toot-our-own-horn-but-spotted-activity-7334203566342975488-LEgl",
+      "activity_status": null
+    },
+    {
+      "title": "Drive Your Brand's Success with Truckside Advertising Ever notice an ad on the side of a truck and assume that’s what’s in the truck? Spoiler alert:…",
+      "link": "https://www.linkedin.com/posts/juliahare_drive-your-brands-success-with-truckside-activity-7328057890986967040-bKOb",
+      "activity_status": null
+    },
+    {
+      "title": "Great times in Chicago earlier this week for the Location Based Marketing Association RetailLoco Event. Thanks for the great panel, Tom McGurn and…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_great-times-in-chicago-earlier-this-week-activity-7323777341107658752-zU9g",
+      "activity_status": null
+    },
+    {
+      "title": "The DFW market is booming—and with it, the out-of-home community continues to thrive. Home to major brands, outstanding independent & legacy…",
+      "link": "https://www.linkedin.com/posts/daionesanders_the-dfw-market-is-boomingand-with-it-the-activity-7321611641173811200-pviX",
+      "activity_status": null
+    },
+    {
+      "title": "OOH gives emerging brands what they crave: Legitimacy. When your brand shows up IRL, people assume you’re bigger. More established. More trusted…",
+      "link": "https://www.linkedin.com/posts/heather-waisanen_brandmarketing-ooh-growthhacks-activity-7314981524930519041-acVO",
+      "activity_status": null
+    },
+    {
+      "title": "\"The Perfect Steak Awaits, After you've read the Sports section\" Excited to officially launch our new partnership with Chop Steakhouse & Bar! This…",
+      "link": "https://www.linkedin.com/posts/brandon-grosvenor_the-perfect-steak-awaits-after-youve-read-activity-7318664317195694080-bNp4",
+      "activity_status": null
+    },
+    {
+      "title": "DPAA is hosting a session with Lenovo, Shopify, and Adsquare, among other events...reach out to connect in Miami!",
+      "link": "https://www.linkedin.com/posts/zach-sherman-75671139_dpaa-is-hosting-a-session-with-lenovo-shopify-activity-7318632929876738048-_WBp",
+      "activity_status": null
+    },
+    {
+      "title": "#MOOHAMonday 🫰 Movia x Athena Club This spring, Athena Club hit the road... bringing their self-care essentials to the streets of Dallas and…",
+      "link": "https://www.linkedin.com/posts/joinmooha_moohamonday-activity-7378440810985357312-R5Gr",
+      "activity_status": null
+    },
+    {
+      "title": "Always a blast at the AdClub of Toronto Ski & Snowboard Day last Friday! A terrific place to reconnect with fellow industry leaders and colleagues.…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_always-a-blast-at-the-adclub-of-toronto-ski-activity-7431729617486508033-I5Kz",
+      "activity_status": null
+    },
+    {
+      "title": "OAAA in Dallas! Nothing beats getting together with industry leaders. Vincent Pannutti Gina Lin Stratford Regis Maher III",
+      "link": "https://www.linkedin.com/posts/casey-binkley_oaaa-in-dallas-nothing-beats-getting-together-activity-7463623457155612672-VGyK",
+      "activity_status": null
+    },
+    {
+      "title": "Another one for the road this year! I will be at the OAAA Conference in Dallas from May 11-13, 2026. Shoot me a message if you'll be there. I'd love…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_another-one-for-the-road-this-year-i-will-activity-7454914843482083329-Yjlh",
+      "activity_status": null
+    },
+    {
+      "title": "I had the pleasure of being part of the panel at the IBO - Independent Billboard Operators conference last week. Mobilytics was a Silver sponsor for…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_i-had-the-pleasure-of-being-part-of-the-panel-activity-7451996857934966784-yQKM",
+      "activity_status": null
+    },
+    {
+      "title": "Shoot me a DM if you'll be there. I'd love to catch up! IBO - Independent Billboard Operators Mobilytics Movia Cody Blanchard Steve Christian",
+      "link": "https://www.linkedin.com/posts/casey-binkley_shoot-me-a-dm-if-youll-be-there-id-love-activity-7442223720137584640-7GWW",
+      "activity_status": null
+    },
+    {
+      "title": "I made a little pitstop at the AD Club of NY last week as I was in NYC for the DPAA Town Hall. Catching up with you all is always awesome! Tara L.…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_i-made-a-little-pitstop-at-the-ad-club-of-activity-7440770184560214016-meor",
+      "activity_status": null
+    },
+    {
+      "title": "The #OOH industry may know this already but on top of Movia, I also run Mobilytics. We are a company rooted in OOH measurement technology and I am…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_ooh-activity-7436918606019588096-dH8d",
+      "activity_status": null
+    },
+    {
+      "title": "I had the pleasure of attending the World Out of Home Organization Apac Forum in Seoul last fall. It's always a great time catching up with #OOH…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_ooh-activity-7434998608627806209-1lCw",
+      "activity_status": null
+    },
+    {
+      "title": "2025 was the year Movia First Class hit the market. Shoot me a DM to learn or comment below if you've seen our screens in the lounges!",
+      "link": "https://www.linkedin.com/posts/casey-binkley_2025-was-the-year-movia-first-class-hit-the-activity-7430003568394350593-tmtG",
+      "activity_status": null
+    },
+    {
+      "title": "I will be attending the DPAA Townhall events in Toronto (March 5) and in New York (March 11). Shoot me a DM if you'll be there and we can catch up!…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_dpaa-dooh-digitaloutofhome-activity-7430278653793501185-Ktzr",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Family Day LinkedIn! The industry has continued to evolve throughout 2025 and so has Movia & Mobilytics. Our fleet of mobile billboards…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_dooh-movia-mobilebillboards-activity-7429288993923469312-cEFF",
+      "activity_status": null
+    },
+    {
+      "title": "I feel like Easter came early for me last week at the IBOUSA - Independent Billboard Operators in #SaltLakeCity. What an awesome dinner with some…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_saltlakecity-activity-7318769566979956736-DicG",
+      "activity_status": null
+    },
+    {
+      "title": "Summertime stands for backyard BBQs, pool parties, and Pickles, Pickles, Pickles! Gearing up for go time with Grillo's Pickles, going live this…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_gogrillo-activity-7313628906983497730-3T5V",
+      "activity_status": null
+    },
+    {
+      "title": "I am grateful and excited to be attending the Concencao Nacional OOH Conference this week in Rio de Janeiro for the Brazilian OOH Advertising…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_i-am-grateful-and-excited-to-be-attending-activity-7307795631438274562-Vs0m",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Friday, Everyone! Doing a little throwback post today for an awesome campaign we ran for Cookies Cannabis Dispensaries in San Fransisco a few…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_cookies-truck-advertising-cannabis-activity-7306386783414407169-QhW0",
+      "activity_status": null
+    },
+    {
+      "title": "Not OOH, but #Entrepreneurship at its finest... Three years ago, I took a huge leap of faith to purchase a Commercial/Residential property in…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_entrepreneurship-activity-7312519261522931713-qSG7",
+      "activity_status": null
+    },
+    {
+      "title": "When I started on Movia & Mobilytics almost a decade ago, I certainly didn't think AI would be something coming into the mix with Mobile Billboards.…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_mobile-billboards-in-the-age-of-ai-the-future-activity-7300191460874731520-jtG1",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Thursday, Friends, Colleagues, and OOH enthusiasts! I'm getting back in action on LI after a bit of a hiatus! I've been head down and super…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_happy-thursday-friends-colleagues-and-activity-7298434684340838400-62Tp",
+      "activity_status": null
+    },
+    {
+      "title": "We are excited for a big year of measurement ahead with lots of new features launching! Real-Time + Real-Data = Real Results! https://lnkd.in/gw8rcXDh",
+      "link": "https://www.linkedin.com/posts/casey-binkley_we-are-excited-for-a-big-year-of-measurement-activity-7296284687449083904-FCKz",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats to Spiffy! 🍾 From humble begins in the DMZ to breaking out onto the world stage - Great to see all the hard work has paid off! Well done 👏",
+      "link": "https://www.linkedin.com/posts/casey-binkley_workforce-micro-learning-platform-spiffy-activity-7150878239081517056-OYPN",
+      "activity_status": null
+    },
+    {
+      "title": "Breaking News! The Paris Olympics are coming up this summer &.... we've got limited opportunities available for anyone looking to execute at the…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_breaking-news-the-paris-olympics-are-coming-activity-7153819481847332864-Vdcs",
+      "activity_status": null
+    },
+    {
+      "title": "Great times last week participating on a panel at the inaugural AdAi conference in Toronto! Many thanks to the gracious hosts, Farrokh Mansouri &…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_great-times-last-week-participating-on-a-activity-7128485699049193475-c_SM",
+      "activity_status": null
+    },
+    {
+      "title": "Can OOH & Digital marketing truly work in partnership? I'd love to know your opinion on my latest publication on OOHToday! #ooh #oohadvertising…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_ooh-can-double-market-share-with-this-activity-7024079880589889536-lpuC",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to getting Market Your Health GoKarting back in action on May 3rd! Do you think you can keep up with me on the track?",
+      "link": "https://www.linkedin.com/posts/casey-binkley_market-your-health-social-wellness-for-activity-7052718479715553280-ehsX",
+      "activity_status": null
+    },
+    {
+      "title": "Pretty excited about this!! Honoured/grateful to be placed alongside the other 99! #marketingandadvertising #billboards #onlineadvertising…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_marketingandadvertising-billboards-onlineadvertising-activity-6677238204229287936-m1sH",
+      "activity_status": null
+    },
+    {
+      "title": "Another round of OOH Mobile Billboards: Drinks Edition! Let me know which of the four you like best!😊 Martha Gallagher Michael J. Christin Kirsten…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_printadvertising-oohadvertising-billboards-activity-6590671275394420736-POlh",
+      "activity_status": null
+    },
+    {
+      "title": "Check out this Holiday Season truck wrap. DO YOU WANT TO WIN A FREE MOVING BILLBOARD? Each year, once per year, we give a free mobile billboard…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_marketing-advertising-holidays-activity-6481927655175307264-S5tB",
+      "activity_status": null
+    },
+    {
+      "title": "Check out this view of NY from the Freedom Tower in NY! #marketing #startups #advertising #advertisingagency #brandawareness #billboards…",
+      "link": "https://www.linkedin.com/posts/casey-binkley_marketing-startups-advertising-activity-6495671300932067328-G-PP",
+      "activity_status": null
+    },
+    {
+      "title": "Sharing a new one that just went live!",
+      "link": "https://www.linkedin.com/posts/casey-binkley_sharing-a-new-one-that-just-went-live-activity-6303574929489084416-kL2G",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Casey Binkley, Psy.D.",
+      "link": "https://www.linkedin.com/in/casey-binkley-psy-d-53ba8371",
+      "summary": "Licensed Psychologist at Bay-Arenac Behavioral Health",
+      "location": "Midland, MI"
+    },
+    {
+      "name": "Casey Binkley",
+      "link": "https://www.linkedin.com/in/casey-binkley-34142616b",
+      "summary": "--",
+      "location": "Greater Columbia, Missouri Area"
+    },
+    {
+      "name": "Casey Binkley, GSP, MS",
+      "link": "https://www.linkedin.com/in/casey-binkley-gsp-ms-457b82117",
+      "summary": "Safety Representative at J.F. Shea Co., Inc.",
+      "location": "Louisville, KY"
+    },
+    {
+      "name": "Casey Binkley",
+      "link": "https://www.linkedin.com/in/casey-binkley-02440114a",
+      "summary": "Office Manager at AAA",
+      "location": "Fort Pierce, FL"
+    },
+    {
+      "name": "Casey Binkley",
+      "link": "https://www.linkedin.com/in/casey-binkley-5aa04418a",
+      "summary": "--",
+      "location": "United States"
+    },
+    {
+      "name": "Casey Binkley",
+      "link": "https://www.linkedin.com/in/casey-binkley-520295276",
+      "summary": "--",
+      "location": "Olean, MO"
+    },
+    {
+      "name": "Casey Binkley",
+      "link": "https://ca.linkedin.com/in/casey-binkley-8854a2280",
+      "summary": "--",
+      "location": "Toronto, ON"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:49:12Z"
+  }
+}

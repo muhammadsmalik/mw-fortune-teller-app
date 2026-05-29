@@ -1,0 +1,630 @@
+{
+  "public_identifier": "conrado-kallas-18874914",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Conrado",
+  "last_name": "Kallas",
+  "full_name": "Conrado Kallas",
+  "follower_count": 921,
+  "occupation": "Sócio at AGFK Advogados",
+  "headline": null,
+  "summary": null,
+  "location_str": "São Paulo, São Paulo, Brasil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "São Paulo",
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "AGFK Advogados",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/agfk-advogados",
+      "company_facebook_profile_url": null,
+      "title": "Sócio",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5d55d53fa49acc144a4a66aeeb7b4967"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Kallas Mídia OOH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kallasmidia",
+      "company_facebook_profile_url": null,
+      "title": "VP",
+      "description": null,
+      "location": "Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6022970cf8b1f1c956e5ba9b2c53a1a4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Grupo Kallas",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-kallas",
+      "company_facebook_profile_url": null,
+      "title": "Relações Governamentais e Institucionais",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Grupo Kallas",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-kallas",
+      "company_facebook_profile_url": null,
+      "title": "Gerente Nacional de Produto",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "company": "Grupo Kallas",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-kallas",
+      "company_facebook_profile_url": null,
+      "title": "Gerente Administrativo Regional",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2010
+      },
+      "company": "Grupo Kallas",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-kallas",
+      "company_facebook_profile_url": null,
+      "title": "Assistente Jurídico",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2009
+      },
+      "company": "N7 Comunicação LTDA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Coordenador de Produção",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "INCRA - Instituto Nacional de Colonização e Reforma Agrária",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Assistente Jurídico",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2006
+      },
+      "company": "Amcham - American Chamber of Commerce for Brazil",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Lidership Trainee",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Law",
+      "degree_name": "Bachelor's degree",
+      "school": "Universidade Presbiteriana Mackenzie",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/mackenzie1870",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/68196996af45cf957af12390e4e1b470",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "FIA - Fundação Instituto de Administração",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": "Law",
+      "degree_name": null,
+      "school": "FGV - Fundação Getulio Vargas",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/fgv",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/744374b5990a104a780ca3f62dcc5f3d",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "VIP iD",
+      "description": "VIP iD is a biometric identification tool that represents the most modern and secure system in the market. It is a 100%  \"cloud\" based system focused on Access Control and Fraud Prevention.",
+      "url": "http://www.vipid.net"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/helidacordeiro",
+      "name": "Hélida Cordeiro - Kallas Mídia OOH",
+      "summary": "A empresa que mais entende de brasileiros🇧🇷",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabelmiler",
+      "name": "Isabel Miler",
+      "summary": "Executiva de Contas | Novos Negócios | Comercial | Vendas | Locação | Publicidade | Marketing Digital",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ariane-vasques",
+      "name": "Ariane Barbim Chame Vasques",
+      "summary": "Digital Marketing | Branding | PR | Advertising | Communications | Strategy | Inbound Marketing | Team Manager",
+      "location": "Silva Jardim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-kallas-oficial",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristianegarciaandrade",
+      "name": "CRISTIANE GARCIA ANDRADE",
+      "summary": "RECURSOS HUMANOS na Kallas Mídia OOH",
+      "location": "Carapicuíba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilhermemvasconcelos",
+      "name": "Guilherme M Vasconcelos",
+      "summary": "Estagiário de Marketing",
+      "location": "Itajaí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angeluccijr",
+      "name": "José Carlos Angelucci Jr.",
+      "summary": "CRO - Chief Relationship Officer na Eletromidia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatrizjmorales",
+      "name": "Beatriz Morales",
+      "summary": "Especialista de Mídia | Growth | Agências SMB | Eletromidia",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-antonio-pereira",
+      "name": "Marco Antonio Pereira",
+      "summary": "CEO | Diretor Geral | VP | Conselheiro",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucioschneider",
+      "name": "Lucio Schneider",
+      "summary": "Chief Marketing Officer na Eletromidia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabionagy",
+      "name": "Fábio Nagy",
+      "summary": "Responsável por Operações Norte e Centro-Oeste da BigBee",
+      "location": "Araguaína"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ela%25C3%25ACne-ar%25C3%25A1g%25C3%25A3o-303a5859",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-mart",
+      "name": "Camila Martins",
+      "summary": "Brand Specialist for Volkswagen at PHD",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-freire-9b0771250",
+      "name": "Marcelo Freire",
+      "summary": "Gerente jurídico na Kallas Mídia OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eusoupatriciavidal",
+      "name": "Patrícia Vidal",
+      "summary": "Consultoria | Brand Strategy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberta-rosa-advogada-282483a5",
+      "name": "Roberta Rosa -Advogada",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nathalia-t%25C3%25A1ssia-camilo-74a129160",
+      "name": "Nathalia Tássia Camilo",
+      "summary": "Psicóloga",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cl%25C3%25B3vis-freitas-sousa-485102162",
+      "name": "Clóvis Freitas Sousa",
+      "summary": "Head de Produto e Planejamento Financeiro na Kallas Mídia OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuri-berezovoy",
+      "name": "Yuri Berezovoy",
+      "summary": "Know-how and best-in-class ad-tech for planning and execution of digital-out-of-home (DOOH) networks.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ayrton-mandarino-1b140aa",
+      "name": "Ayrton Mandarino",
+      "summary": "Gerente Geral - RJ na Kallas Mídia OOH - Oficial",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciano-ribeiro-de-callis-ba438315",
+      "name": "Luciano Ribeiro De Callis",
+      "summary": "Kallas Mídia OOH - Oficial•964 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/key-oda-18b72a20",
+      "name": "Key Oda",
+      "summary": "Finance Supervisor with background in media agencies. E-commerce, Marketing and Banking profile. Multicultural experience",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-scivoletto-51270634",
+      "name": "Juliana Scivoletto",
+      "summary": "OOH | Gestão | Inovação",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cl%25c3%25a9o-batista-42577938",
+      "name": "Cléo Batista",
+      "summary": "Kallas Midia OOH",
+      "location": "Manaus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moises-filho-5a89b242",
+      "name": "Moises Filho",
+      "summary": "Head de Produtos e Receita | Mídia OOH Aeroportuária | Expansão e Monetização de Ativos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-weiss-61a3a645",
+      "name": "Andrea Weiss",
+      "summary": "Executiva do setor de OOH | Top 100 Gestores de 2022 | Especialista em Mídia e Inovação | Empreendedora | Analista de Investimentos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-monteiro-98103546",
+      "name": "Allan Monteiro",
+      "summary": "VP Brazil - Country Lead",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-falbo-8b6a9346",
+      "name": "Marcio Falbo",
+      "summary": "Kallas Mídia OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacqueline-choairy-9b533b49",
+      "name": "Jacqueline Choairy",
+      "summary": "Sócia e Gerente de Produto na Kallas Mídia Out Of Home",
+      "location": "Recife"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-lopes-9581a752",
+      "name": "Pedro Lopes",
+      "summary": "Jornalista e colunista no UOL Esporte",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatriz-mesquita-pereira-lancieri-7a40a066",
+      "name": "Beatriz Mesquita Pereira Lancieri",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-celia-biondi-rodriguez-86259666",
+      "name": "Ana Celia Biondi Rodriguez",
+      "summary": "Diretora Geral JCDecaux do Brasil | Conselheira do Cenp | Conselheira ABOOH | Vice-Presidente de Comunicação CCIFB",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-cavalini-405b7967",
+      "name": "Paula Cavalini",
+      "summary": "Nutricionista Principal na Paula Cavalini Clinica de Nutrição",
+      "location": "Santo André"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cleberson-vilar-75812b71",
+      "name": "Cleberson Vilar",
+      "summary": "Diretor Planejamento | Kallas Mídia OOH - Oficial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciana-medrado-19161577",
+      "name": "Luciana Medrado",
+      "summary": "Gerente de Contas - Eletromidia- Oficial",
+      "location": "Maceió"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-chaves-1265458a",
+      "name": "Juliana Chaves",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-paula-barreto-ab9820a4",
+      "name": "Ana Paula Barreto",
+      "summary": "Produto | Operações Comerciais",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/k%25C3%25A1tia-sirlene-polido-lima-4423a310a",
+      "name": "Kátia Sirlene Polido Lima",
+      "summary": "Supervisora de Operações | Cast group",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thayla-milke-070ba2111",
+      "name": "Thayla Milke",
+      "summary": "Advogado júnior | MBA em Gestão do Direito nas Empresas | Analista de Licitações | Analista de Contratos",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denilson-rodrigues-dos-anjos-a70b88121",
+      "name": "Denilson Rodrigues Dos Anjos",
+      "summary": "Supervisor de operações",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandreguerreroeletromidia",
+      "name": "Alexandre Guerrero",
+      "summary": "CEO na Eletromidia | Membro do Conselho Consultivo (CpCon) da ESPM | Conselheiro Executivo da IAB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/priscila-chatagnier-760a40140",
+      "name": "Priscila Chatagnier",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tati-bocato-ooh",
+      "name": "Tatiana Bocato",
+      "summary": "Head Comercial | Vertical Aeroportos na KALLAS Mídia OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuliana-valim-aa173216a",
+      "name": "Giuliana Valim",
+      "summary": "Qualitative Research consultant na Ginger",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-moreira-kallas-8b362717a",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelli-s-dornelles-63334418b",
+      "name": "Michelli S.Dornelles",
+      "summary": "KALLAS MÍDIA OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tsuneo-kussima-78659418b",
+      "name": "Tsuneo Kussima",
+      "summary": "Gerente na Kallas Mídia OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matheus-breda-a92b69190",
+      "name": "Matheus Breda",
+      "summary": "Roteirista | Filmmaker | Motion Design | IA Videos | Fotógrafo",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-j%25C3%25BAlia-tavares-de-aquino-886a91199",
+      "name": "Ana Júlia Tavares De Aquino",
+      "summary": "Marketing | BDR |\n\nComunicação Social em Publicidade e Propaganda",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nat%25C3%25A1lia-camilo-70389319a",
+      "name": "Natália Camilo",
+      "summary": "Secretariado Executivo Trilíngue. | Universidade Anhembi Morumbi",
+      "location": "Cajamar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-ribeiro-4792ab207",
+      "name": "Vanessa Ribeiro",
+      "summary": "Assistente Administrativo/Fiscal na Kallas Mídia OOH - Oficial",
+      "location": "Barueri"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Hoje o propmark publicou uma matéria sobre a  estratégia adotada pela Kallas Mídia OOH durante a pandemia, onde aproveitamos o momento de baixa no…",
+      "link": "https://pt.linkedin.com/posts/rodrigo-kallas-oficial_hoje-o-propmark-publicou-uma-matéria-sobre-activity-6825219272667619328-X-SA",
+      "activity_status": null
+    },
+    {
+      "title": "Boa tarde amigos! Hoje através do nosso sistema de metas, o quadro de resultados registrou uma marca histórica da companhia,  digna de todo tipo de…",
+      "link": "https://pt.linkedin.com/posts/rodrigo-kallas-oficial_rodrigokallas-kallasmídiaooh-ooh-activity-6817927030957469696-OFly",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje, dia 21 de junho, se comemora o dia do mídia, e nós da Kallas Mídia OOH não poderíamos deixar de vir aqui e expressar nosso carinho a estes…",
+      "link": "https://pt.linkedin.com/posts/kallasmidia_diadomidia-homenagem-kallasmidiaooh-activity-6812767244859387904-tuok",
+      "activity_status": null
+    },
+    {
+      "title": "É com orgulho que divido com vocês este novo momento da Kallas, onde estamos ampliando nossos ativos digitais pelo Brasil. Para mostrar esta…",
+      "link": "https://pt.linkedin.com/posts/rodrigo-kallas-oficial_kallasmidiaooh-ooh-kadavezmaisdigital-activity-6813916317410701312-2RbN",
+      "activity_status": null
+    },
+    {
+      "title": "La familia no sabía todo lo que hacía está enfermera 👩‍⚕️ hasta que vieron las cámaras 📽️ de seguridad. Miralo hasta el final. Honrar tu profesión…",
+      "link": "https://www.linkedin.com/posts/rafaelsebastianolivera_honrarlavida-contactosintegrados-solidaridad-activity-6779434380998803456-7t3f",
+      "activity_status": null
+    },
+    {
+      "title": "Pós Graduação concluída, preparando a próxima... Obrigado Fundação Getulio Vargas pelo aprendizado...",
+      "link": "https://pt.linkedin.com/posts/felipperma_pós-graduação-concluída-preparando-a-próxima-activity-6777969870484201472-yIbx",
+      "activity_status": null
+    },
+    {
+      "title": "E aí, quem aprovaria um anúncio sem a presença da marca? Para mim entra no hall das publicidades #simples e #brilhantes. #advertising",
+      "link": "https://pt.linkedin.com/posts/tgolessa_simples-brilhantes-advertising-activity-6777602687354638336-tBWB",
+      "activity_status": null
+    },
+    {
+      "title": "Desde a fundação do jornal A Crítica, aquele projeto tornou-se um dos maiores grupos de comunicação do Centro-Oeste brasileiro: O Grupo Feitosa de…",
+      "link": "https://pt.linkedin.com/posts/enrico-feitosa-44279773_desde-a-fundação-do-jornal-a-crítica-aquele-activity-6582387219665870850-W0_k",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-30T00:00:00Z"
+  }
+}

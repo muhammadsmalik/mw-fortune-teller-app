@@ -1,0 +1,551 @@
+{
+  "public_identifier": "charlesmeetsocial",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/83f8ebccca0cd8e19767a8b72aa2abd8",
+  "background_cover_image_url": null,
+  "first_name": "Charles",
+  "last_name": "Shen",
+  "full_name": "Charles Shen",
+  "follower_count": 1717,
+  "occupation": "CEO at Meetsocial",
+  "headline": "Founder & CEO at MeetSocial",
+  "summary": null,
+  "location_str": "Los Angeles Metropolitan Area",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Greater Los Angeles",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Meetsocial",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meetsocial/",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "MeetSocial is a leading digital marketing service agency specialized in oversea digital marketing on Facebook. \n\nMeetSocial is the authorized reseller of Facebook ads in China.",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "MeetSocial",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meetsocial/",
+      "company_facebook_profile_url": null,
+      "title": "President",
+      "description": "SinoInteractive is a leading digital marketing agency focusing on cross border marketing for China domestic clients. SinoInteractive provides integrated marketing strategy, execution & optimization, as well as channel management including both Search(e.g. Google, Bing, Yandex) and Social (Facebook, Twitter, Pinterest, Instagram, LinkedIn)",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "Darwin Marketing",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/darwin-marketing/",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & Board Director",
+      "description": "Strategic Planning",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2010
+      },
+      "company": "Darwin Marketing",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/darwin-marketing/",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & COO",
+      "description": "- Found and manage Darwin team from 2 person to 80+ staff\n- Develop the business model/strategy and execute for best results\n- Develop biz theory and key product\n- Maintain key clients and partner relationship",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "CubeAD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Advisor to CEO",
+      "description": "- Provide strategic advice to CEO\n- Provide support for Big Data services development\n- Provide advice for the upgrading of company operation and management",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "company": "Eerong.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eerong-com/",
+      "company_facebook_profile_url": null,
+      "title": "President",
+      "description": "Eerong.com is a leading one stop service provider to meet the explosive needs of small amount loan for SME and individuals in China. \n\nBacked with the widest spectrum of loan products from all kinds of financial insitutions and individuals, we are committed to provide the most effective loan services with highest efficiency and lowest costs.",
+      "location": "Shanghai, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Seine Media",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "COO",
+      "description": "Seine Media is trying to build an interactive outdoor digital media network.",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2005
+      },
+      "company": "eBay",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ebay/",
+      "company_facebook_profile_url": null,
+      "title": "Head of Strategic Planning Dept.",
+      "description": "- Create and develop the Data Warehouse and BI system for eBay China\n- Manage reporting and functional analysis for each BU\n- Lead analyst team to conduct strategic analysis for Executives",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2001
+      },
+      "company": "Bertelsmann SE & Co. KGaA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bertelsmann/",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Analyst",
+      "description": "- Providing market research and analysis for company\n- Support marketing campaign development and execution\n- Share best practise from other country function",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "company": "Research International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/research-international/",
+      "company_facebook_profile_url": null,
+      "title": "Research Executive",
+      "description": "- Conduct market researches for MNCs in both qualitative and quantitative",
+      "location": "Shanghai City, China",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": "Foreign Trade",
+      "degree_name": "Bachelor of Science (BS)",
+      "school": "Shanghai University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/shanghai-university/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": null,
+      "degree_name": "High School",
+      "school": "Shanghai Shi Xi Middle School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1625,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/francoyeung",
+      "name": "Franco Yeung",
+      "summary": "Deliver Exotic Pets & Plants Worldwide",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jefwoo",
+      "name": "Jeffrey Woo",
+      "summary": "Entrepreneur",
+      "location": "Shanghai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samtsai",
+      "name": "蔡文雄",
+      "summary": "總經理 at PChome (Thailand) Co., Ltd.\n副總經理 at 網路家庭國際資訊股份有限公司",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-peiro",
+      "name": "Max Peiro",
+      "summary": "CEO @Re-Hub, China Luxury Insights",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisgalan",
+      "name": "Luis S. Galan Lozano",
+      "summary": "CEO @ 2 Open China Ecommerce | MBA",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-xue-0155b67",
+      "name": "Andy Xue",
+      "summary": "Beitai Digital (Exclusive Strategic Partner of Sportradar AG in China) - CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ted-zhang-%25E5%25BC%25A0%25E7%2584%2595%25E6%259D%25B0%25EF%25BC%2589-6a838b13",
+      "name": "Ted Zhang (张焕杰）",
+      "summary": "CEO at DerbySoft",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wangweimian",
+      "name": "William Wang",
+      "summary": "Founder at ONLYGAMES",
+      "location": "Chatswood West"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lichengyu",
+      "name": "Sam Lee",
+      "summary": "CEO of commandp",
+      "location": "Shanghai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yangshaoming",
+      "name": "Shaoming Yang",
+      "summary": "Founder of New Sailing | ex-SVP of DingDong Fresh | ex-VP of Tmall Global & AliExpress | ex-Huawei",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chou-henry-44597340",
+      "name": "CHOU HENRY",
+      "summary": null,
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankunh-wu-9565b143",
+      "name": "frankunh Wu",
+      "summary": "CISCO Datanet Solutions Inc - President",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wenfeiyang",
+      "name": "Wenfei Yang",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kris-shen-1b7b5051",
+      "name": "Kris Shen",
+      "summary": "CEO at ACME Innovative",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chen-mingming-18849052",
+      "name": "Chen MingMing",
+      "summary": "CEO & Founder at KKday",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deng-lifan-a71b1756",
+      "name": "Deng Lifan",
+      "summary": null,
+      "location": "Shanghai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-francis-9a586762",
+      "name": "Lee Francis",
+      "summary": "CEO at ColorMango.com",
+      "location": "Chengdu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/domingo-sun",
+      "name": "Domingo Sun",
+      "summary": "Senior Account Manager at GfK & NielsenIQ | Chief Analyst @KS Insights | Ex-IDC Senior Research Manager | Helping Tech Giants (Huawei, Microsoft, etc.) Navigate Insights | HKU MSc",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nanjie-liunj-1a492b79",
+      "name": "Nanjie Liunj",
+      "summary": "CEO",
+      "location": "Nanjing"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ga-in-jin-4380737b",
+      "name": "Ga-In Jin",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Surprised to be on the Insight250 list again - thanks for the recognition and proud to represent the entire Behaviorally team. The insights industry…",
+      "link": "https://www.linkedin.com/posts/nichole-gu-569a23_surprised-to-be-on-the-insight250-list-again-activity-7386666195439185920-4OgE",
+      "activity_status": null
+    },
+    {
+      "title": "An amazing chapter! Thank you everyone. Let’s strive to do better each year, expand our influence with renewed drive in the age of AI, and work hard…",
+      "link": "https://www.linkedin.com/posts/xinhao-he-89886b12_an-amazing-chapter-thank-you-everyone-let-activity-7384997955390496768-BH5A",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to everyone who joined us at Maximise Visibility & Conversions with AI-Driven Brand Growth event in Singapore! With insights shared by…",
+      "link": "https://www.linkedin.com/posts/meetsocial_meetsocial-smes-digitalmarketing-activity-7367142238281269253-le7Z",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to be part of the Meta Performance Agency Summit in Warsaw, where only the top media agencies are invited to share best practices. Our SVP…",
+      "link": "https://www.linkedin.com/posts/meetsocial_meetsocial-performancemarketing-metapartner-activity-7369378343743332354-sVBf",
+      "activity_status": null
+    },
+    {
+      "title": "See you all there!",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_see-you-all-there-activity-7364491713576390656-63dZ",
+      "activity_status": null
+    },
+    {
+      "title": "Can AI Turn Attention Into Conversions? 🚀 On 27 August, join us at Maximise Visibility & Conversions with AI-Driven Brand Growth, where we will be…",
+      "link": "https://www.linkedin.com/posts/meetsocial_meetsocial-xiaohongshu-ai-activity-7364225197152862208-v75Z",
+      "activity_status": null
+    },
+    {
+      "title": "Let's wait and see... 😊",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_does-a-hong-kong-listing-spell-the-end-of-activity-7361952411080429568-OTe2",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 In the News: Campaign Asia Quotes Meetsocial What happens when one of the world’s biggest fast-fashion players goes public in Hong Kong? It’s…",
+      "link": "https://www.linkedin.com/posts/meetsocial_does-a-hong-kong-listing-spell-the-end-of-activity-7361949258691858432-Sdl_",
+      "activity_status": null
+    },
+    {
+      "title": "What’s Britain good at? https://lnkd.in/g7b9QF4h from The Economist",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_whats-britain-good-at-activity-7359942478319276035-8wdQ",
+      "activity_status": null
+    },
+    {
+      "title": "What do you think?",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_what-do-you-think-activity-7358571718996619264-dFqo",
+      "activity_status": null
+    },
+    {
+      "title": "By 2030, 40% of today’s skills will be outdated, and 59% of workers will need reskilling - though 1 in 5 may not get it. According to the new Future…",
+      "link": "https://www.linkedin.com/posts/alexwang2911_leadership-technology-innovation-activity-7358515124384534528-rjKB",
+      "activity_status": null
+    },
+    {
+      "title": "Today I visited Grove Street Cemetery in New Haven to pay my respects at the grave of Roger Sherman—a man I deeply admire. Unlike George Washington…",
+      "link": "https://www.linkedin.com/posts/xinhao-he-89886b12_today-i-visited-grove-street-cemetery-in-activity-7357947660928012288-pQM4",
+      "activity_status": null
+    },
+    {
+      "title": "How McKinsey lost its edge https://lnkd.in/gSMK7Dug from The Economist",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_how-mckinsey-lost-its-edge-activity-7358055950747885568-S4CM",
+      "activity_status": null
+    },
+    {
+      "title": "A friend of mine in Singapore called me 11 years ago. \"Alan I left Facebook to join Twitter.\" \"Why?\" \"Because it's more fun to build something…",
+      "link": "https://www.linkedin.com/posts/alanlan_x-activity-7355450165375217664-YYtL",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday was a special one for the Southeast Asia Meetsocial team! We had the opportunity to speak at the Retail & E-Commerce Innovation Summit:…",
+      "link": "https://www.linkedin.com/posts/meetsocial_meetsocial-marketechapac-performancemarketing-activity-7351858386696589312-9FLt",
+      "activity_status": null
+    },
+    {
+      "title": "Love that! Go Tiger! 👏 👏 👏",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_love-that-go-tiger-activity-7320274225645121536-zHAE",
+      "activity_status": null
+    },
+    {
+      "title": "Terrific achievements！！！Go Ahadi! 😁",
+      "link": "https://www.linkedin.com/posts/charlesmeetsocial_terrific-achievementsgo-ahadi-activity-7197067717818916865-cqa0",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Charles Shen",
+      "link": "https://cn.linkedin.com/in/lawyer-shanghai",
+      "summary": "Partner , Attorney at Law with Shanghai Sunhold Law Firm",
+      "location": "徐汇区"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://cn.linkedin.com/in/charlesshenyf",
+      "summary": "Managing Director, Greater China at Take5People",
+      "location": "长宁区"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://cn.linkedin.com/in/charles-shen-a1a18616",
+      "summary": "Corporate Director of Learning and Development in Hotel, Luxury Retails, Education, Engineering Consulting Industries",
+      "location": "上海市, 中国"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://www.linkedin.com/in/charles-shen-3a82735a",
+      "summary": "Neuroradiologist at South sound radiology",
+      "location": "奥林匹亚, WA"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://www.linkedin.com/in/charlieshen",
+      "summary": null,
+      "location": "Irvine, CA"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://www.linkedin.com/in/shencharles",
+      "summary": "Senior Director at Boingo Wireless",
+      "location": "Los Angeles Metropolitan Area"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://www.linkedin.com/in/charles-siyu-shen",
+      "summary": "Presidential Scholar at University of Southern California",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Charles Shen",
+      "link": "https://www.linkedin.com/in/charles-shen-3aa7702",
+      "summary": null,
+      "location": "Plainsboro, NJ"
+    }
+  ],
+  "articles": [
+    {
+      "title": "沈晨岗：我想和什么样的人一起工作 Charles Shen: What kind of people I want to work with",
+      "link": "https://www.linkedin.com/pulse/沈晨岗我想和什么样的人一起工作-charles-shen-what-kind-people-i-want-work-shen",
+      "published_date": {
+        "day": 20,
+        "month": 5,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4E12AQE0-Lfi508atw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1589975458987?e=2147483647&v=beta&t=A8seP8U4URVJzW2_tTalEWcZiNKOfUn8qLECz00cX34"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-09T00:00:00Z"
+  }
+}

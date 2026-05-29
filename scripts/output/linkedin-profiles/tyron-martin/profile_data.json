@@ -1,0 +1,468 @@
+{
+  "public_identifier": "tyron-martin",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5933385c5288ff789f12abcf5974456d",
+  "background_cover_image_url": null,
+  "first_name": "Tyron",
+  "last_name": "Martin",
+  "full_name": "Tyron Martin",
+  "follower_count": 2805,
+  "occupation": "Sales Director at Reveel.",
+  "headline": null,
+  "summary": null,
+  "location_str": "City of Johannesburg, Gauteng, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Johannesburg",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Reveel.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/reveelooh",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": "South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3cf65e7afad8c9def0a79ecf6864c52b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2018
+      },
+      "company": "Relativ Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/relativinnovationgroup",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": "Sandton",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb6a12304fd7ea522baa17cd9ff374e6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "BOO! Surprising Media Solutions",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/boo-surprising-media-solutions",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7260db842bb15706122432ebc38c9d54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "wideopenplatform",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wideopenplatform",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": "Wideopen Platform specialize in selling large format, high impact outdoor and Airport media. At the forefroont of OOH ideas and innovation",
+      "location": "Sandton",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6922e4d1516c55b267779b0eb4231cb4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Men's Health magazine UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/men's-health-magazine-uk",
+      "company_facebook_profile_url": null,
+      "title": "Key Accounts Manager",
+      "description": null,
+      "location": "Sandton",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4e75922ece4cb6a4bef234a05fda3284"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "Ramsay Media - Compleat Golfer Magazine",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Sandton",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Marketing, Strategic Management",
+      "degree_name": "Honours dergree in Marketing",
+      "school": "University of South Africa/Universiteit van Suid-Afrika",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unisa",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/27d8e389f2bacb55cf6371e75edf9a61",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "B.Com",
+      "school": "University of Johannesburg",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-johannesburg",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6e7251a5cb0f230ac82cfe2430040fdc",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/justinkeats",
+      "name": "Justin Keats",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marlin-abraham%25E2%2580%2599s-b477b4181",
+      "name": "Marlin Abraham’s",
+      "summary": "Executive Director at Hashtag Promotions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sibusiso-mncwabe-5318a58",
+      "name": "Sibusiso Mncwabe",
+      "summary": "Chairperson of the Board at EXSA 'Exhibition and Events Association of South Africa'\nDirector at Marketing Well | Exhibition | Branding | Shop Front",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/remidupreez",
+      "name": "Remi Du Preez",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gilbert-mdlalose-0535b824",
+      "name": "Gilbert Mdlalose",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodney-maggott-8a429028",
+      "name": "Rodney Maggott",
+      "summary": "Director at Eagle Eye Business Solutions",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garthwilliams79",
+      "name": "Garth Williams",
+      "summary": "Sales and Business Development Consultant| IT US East Coast, UK, Europe",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markpayne43",
+      "name": "Mark Payne",
+      "summary": "Build Australia, Green Review, Resources Review and Petroleum Australia",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-badenhorst-190a1734",
+      "name": "Ian Badenhorst",
+      "summary": "Business Value creator & strategist | Business Developer | Network builder & operator | Aspiring Coach & Leader",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacques-theron-5697a942",
+      "name": "Jacques Theron",
+      "summary": "Owner Golf in a Box Pty(Ltd) / Dot Print",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-hansen-b80b0844",
+      "name": "matthew hansen",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-abramsohn-10b5834a",
+      "name": "David Abramsohn",
+      "summary": "Sales Director at Superga and Kappa",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/buster-pitt-71459351",
+      "name": "Buster Pitt",
+      "summary": "Sales Director at Location Bank",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barry-rankin",
+      "name": "Barry Rankin",
+      "summary": "Investment advisor specialising in wealth creation through Private equity & Fixed Rate investments",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-friedman-1004355a",
+      "name": "Sam Friedman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-hadjidemetriou-30a47974",
+      "name": "Tony Hadjidemetriou",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyle-jones-66903b7b",
+      "name": "Kyle Jones",
+      "summary": "Billboard Marketing Maven | Innovative Advertising Strategies | Expert in Marketing Campaign Optimization OOH | Marketing Guru with a Passion for Impactful Advertising | Billboard Specialist | Data-Driven Results 💡",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rudi-snyders-6689108b",
+      "name": "Rudi Snyders",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/coenie-boonzaaier-982b5b98",
+      "name": "Coenie Boonzaaier",
+      "summary": "Business Development Executive",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carol-anne-toxi-smuts-656836170",
+      "name": "CAROL-ANNE (Toxi) SMUTS",
+      "summary": null,
+      "location": "Cape Town"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I have a lot of daily difficult and uncomfortable conversations in my role. They often lead to decisions that aren’t always liked — but are…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_i-have-a-lot-of-daily-difficult-and-uncomfortable-activity-7434606250849488897-OJbE",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible day at the #PulseConference2026 with world class speakers, enjoyed by an engaged marketing and media audience. Loved by all &…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_pulseconference2026-activity-7432860235674968065-GhgF",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Reveel. turns 7! What a journey it’s been — seven years of passion, partnerships, and purpose. From day one, our mission has been to curate iconic…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_reveel-dooh-digitaloutofhome-activity-7391750629549035520-uuRZ",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats Sean Roberts 👏",
+      "link": "https://www.linkedin.com/posts/tyron-martin_congrats-sean-roberts-activity-7354497976951549954-zoaF",
+      "activity_status": null
+    },
+    {
+      "title": "Well said Tanner Rock. True to the Reveel. strategy of integrating our digital assets into the environment, and ensuring they are visually appealing…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_dooh-vasa-activity-7269637449641828352-YWwp",
+      "activity_status": null
+    },
+    {
+      "title": "A year end celebration it was 🍾 Closing off a hard, productive & meaningful 2024 with the most amazing group of people. Grateful we get to do this…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_a-year-end-celebration-it-was-closing-activity-7270832456914587649-NJYt",
+      "activity_status": null
+    },
+    {
+      "title": "Happy 4th Birthday Reveel. 🎂 It has being an incredible journey thus far, one filled with the most amazing clients & supplier's who we deal with…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_startup-birthday-oohadvertising-activity-6995016952297463808-EzrB",
+      "activity_status": null
+    },
+    {
+      "title": "Continuing on the Reveel. January 2023 roll out, below is without doubt one of the best additions to the South African OOH landscape. The Oceans Mall…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_digitalbillboards-doohadvertising-umhlanga-activity-7023640680765796352-A2gu",
+      "activity_status": null
+    },
+    {
+      "title": "Well done, Team Innovocean! incredible OOH execution",
+      "link": "https://www.linkedin.com/posts/tyron-martin_well-done-team-innovocean-incredible-ooh-activity-6930864864995221504-96mf",
+      "activity_status": null
+    },
+    {
+      "title": "The latest addition to the Reveel. DOOH network can be found at the beautiful Boardwalk Mall, Hotel & Casino in Gqeberha, that recently underwent a R…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_dooh-outdooradvertising-portelizabeth-activity-6980244811278602240-6bmQ",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing execution, well done everyone on a beautifully implemented, and tactical campaign! Would just change one thing - the copy.... co'mon BOKKE!…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_springboks-lionstour-activity-6823556199011631104-Pnao",
+      "activity_status": null
+    },
+    {
+      "title": "Reveel. recently partnered with theSALT and Consol Glass (Pty) Ltd on the #IChanged2050 campaign. The campaign saw user generated influencer content…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_ichanged2050-dooh-socialmedia-activity-6807960619694735360-P47l",
+      "activity_status": null
+    },
+    {
+      "title": "Well said Tanner Rock And I might be safe to add, maybe the most beautiful OOH site in Soweto? And not only easy on the eyes, but an attractive OOH…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_dooh-streetart-soweto-activity-6790712111828885505-JvIi",
+      "activity_status": null
+    },
+    {
+      "title": "#Reveel would like to introduce Umhlanga Arch digital - 30 SQM of pure, high quality visual Digital OOH. Situated in the most premium lifestyle…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_umhlanga-arch-on-instagram-presenting-the-activity-6708802378981773312--wGb",
+      "activity_status": null
+    },
+    {
+      "title": "Unique, vibrant, visual and noticeable! Good skills Tanner #DOOH #Reveel",
+      "link": "https://www.linkedin.com/posts/tyron-martin_dooh-reveel-activity-6685871450362019840-pRg9",
+      "activity_status": null
+    },
+    {
+      "title": "Looking at the small wins...the positive signs of progress back to some semblance of normality. I sat in some traffic yesterday afternoon. ...this is…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_ooh-positivevibes-trafficgeneration-activity-6663338286813102080-Z5Rz",
+      "activity_status": null
+    },
+    {
+      "title": "Definitely making the environment more beautiful, one #DOOH screen at a time!",
+      "link": "https://www.linkedin.com/posts/tyron-martin_dooh-activity-6691320629829881856-x-Ri",
+      "activity_status": null
+    },
+    {
+      "title": "There is something pure & beautiful about a well thought out digital screen execution. Proud to have this site sit in our Reveel portfolio.…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_ooh-dooh-reveel-activity-6604806337396256768-EZNX",
+      "activity_status": null
+    },
+    {
+      "title": "Could not agree more Tan. What an incredible 1st year of this, the Reveel journey. Passion and people are the cornerstone to our first year, and…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_ooh-reveel-dooh-activity-6597012301541326848-nSyr",
+      "activity_status": null
+    },
+    {
+      "title": "We managed to establish our next large format DOOH screen in Soweto before the start of the next decade. Situated on Chris Hani Rd, directly opposite…",
+      "link": "https://www.linkedin.com/posts/tyron-martin_ooh-dooh-reveel-activity-6613132491219836928-Rdza",
+      "activity_status": null
+    },
+    {
+      "title": "An exciting journey lies ahead.....",
+      "link": "https://www.linkedin.com/posts/tyron-martin_nfinity-enters-ooh-market-with-acquisition-activity-6505712556601024512-_imu",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Tyron Martin",
+      "link": "https://www.linkedin.com/in/tyron-martin-7678521b9",
+      "summary": "Marketing Specialist at Ivio Agency",
+      "location": "Chandler, AZ"
+    },
+    {
+      "name": "tyron martin",
+      "link": "https://www.linkedin.com/in/tyron-martin-14548666",
+      "summary": "Education Management Professional",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "name": "Tyron Martin",
+      "link": "https://www.linkedin.com/in/tyron-martin-98281b138",
+      "summary": "Administrative Assistant at Bail USA",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "name": "Tyron Martin",
+      "link": "https://au.linkedin.com/in/tyron-martin-b14529a2",
+      "summary": "Student at Griffith University",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Tyron Martin",
+      "link": "https://www.linkedin.com/in/tyron-martin-6256711bb",
+      "summary": "Doordash driver at DoorDash",
+      "location": "Upper Marlboro, MD"
+    },
+    {
+      "name": "Tyron Martin",
+      "link": "https://za.linkedin.com/in/tyron-martin-686714239",
+      "summary": "--",
+      "location": "Cape Town"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-04T00:00:00Z"
+  }
+}

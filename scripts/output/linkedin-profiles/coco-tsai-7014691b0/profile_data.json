@@ -1,0 +1,604 @@
+{
+  "public_identifier": "coco-tsai-7014691b0",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Coco",
+  "last_name": "Tsai",
+  "full_name": "Coco Tsai",
+  "follower_count": 171,
+  "occupation": "Commercial Product Manager at DynaScan Technology, Inc.",
+  "headline": "Commercial Product Manager",
+  "summary": null,
+  "location_str": "Taipei, Taipei City, Taiwan",
+  "country": "TW",
+  "country_full_name": "Taiwan",
+  "city": "Taipei",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "DynaScan Technology, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dynascan-technology-inc./",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Product Manager",
+      "description": null,
+      "location": "台灣 林口區",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b3660876522fe3c5389c3b06fdb07b87"
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 148,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/scottpickus",
+      "name": "Scott Pickus",
+      "summary": "Senior Manager, Communications & Marketing Operations",
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-go",
+      "name": "Mark Go",
+      "summary": "Tax Specialist at BDO USA, LLP",
+      "location": "Glendora"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emiliadantas",
+      "name": "Emilia DANTAS",
+      "summary": null,
+      "location": "Marines"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-lo-8a624618b",
+      "name": "Eric Lo",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edouard-sore-769769228",
+      "name": "Edouard Sore",
+      "summary": "Business Consultant ACO France chez Westcon-Comstor",
+      "location": "Delft"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25D0%25B8%25D0%25B2%25D0%25B0%25D0%25BD-%25D1%2583%25D0%25BB%25D1%258C%25D1%258F%25D0%25BD%25D0%25BE%25D0%25B2-1abb4b257",
+      "name": "Иван Ульянов",
+      "summary": "Business Development Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sima-a-b62281b4",
+      "name": "Sima A.",
+      "summary": "Groupe Solution Digital",
+      "location": "Rosny-sous-Bois"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chiori-u",
+      "name": "Chiori Utsumi",
+      "summary": "Easy Communications Inc. - Senior Managing Director",
+      "location": "Minato-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-daniel-654375119",
+      "name": "Katie Daniel",
+      "summary": "Business Development Manager at DynaScan Technology",
+      "location": "Nashville metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sankar-das-gupta-8b28a023a",
+      "name": "Sankar Das Gupta",
+      "summary": "--",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%258E%2589%25E7%259A%2593-%25E5%2588%2598-b01553238",
+      "name": "刘玉皓",
+      "summary": "产品经理 - 视源股份（CVTE）",
+      "location": "Guangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%259C%258B%25E5%25B9%25B3-%25E9%25BB%2583-293333145",
+      "name": "黃國平",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-lundgren-71a9651",
+      "name": "Robert Lundgren",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-ethredge-b600b82",
+      "name": "David Ethredge",
+      "summary": null,
+      "location": "Kobe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diede-nederlof-b892442",
+      "name": "Diede Nederlof",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annette-vernon-918ab43",
+      "name": "Annette Vernon",
+      "summary": null,
+      "location": "Rockville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phong-do-0014b08",
+      "name": "Phong Do",
+      "summary": "Pharmacist",
+      "location": "Silver Spring"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-kaufman-2424a5a",
+      "name": "Alan Kaufman",
+      "summary": null,
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/letria-h-801176b",
+      "name": "Letria H.",
+      "summary": "IT Specialist @ FDA | MS | MBA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jim-pastorek-a9540b13",
+      "name": "Jim Pastorek",
+      "summary": "Major Account Manager at DynaScan Technology, Inc.",
+      "location": "Anaheim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joann-ziyad-a0880515",
+      "name": "JoAnn Ziyad",
+      "summary": null,
+      "location": "College Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-bartrum-b1273316",
+      "name": "Catherine Bartrum",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-hsieh-4149a328",
+      "name": "Alex Hsieh",
+      "summary": "Chemical Professional | Ph.D. in Applied Chemistry | 13 Years in R&D, Application, Market & Business Development, Product & Business Management",
+      "location": "Shanghai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moses-mugenyi-91192349",
+      "name": "Moses Mugenyi",
+      "summary": "OEM Engineer\nAutomation Systems",
+      "location": "Kampala"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sony-yang-1a1a8653",
+      "name": "Sony Yang",
+      "summary": "Automotive Display and Electronics Ecosystem Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-yu-29b01556",
+      "name": "Alex Yu",
+      "summary": null,
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-melegh-71021057",
+      "name": "Daniel Melegh",
+      "summary": "Senior Technical Manager EMEA",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annette-vernon-76b5a76b",
+      "name": "Annette Vernon",
+      "summary": "PhD candidate at the University of Iowa in Educational Measurement and Statistics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25A9r%25C3%25B4me-adolphe-6b755680",
+      "name": "Jérôme Adolphe",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heloise-foucher-bb621982",
+      "name": "Heloise Foucher",
+      "summary": "Officemanager bij DynaScan Technology, Inc.",
+      "location": "Amstelveen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ingrid-kristensen-55b05587",
+      "name": "Ingrid Kristensen",
+      "summary": "Konsulent/sygeplejerske",
+      "location": "Rask Mølle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francois-cognard-5b2053a8",
+      "name": "Francois COGNARD",
+      "summary": "Chef de Projets / Business Developer - SenseLink",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-chiang-33721ba8",
+      "name": "Joshua Chiang",
+      "summary": null,
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ray-yang-22aa43103",
+      "name": "Ray Yang",
+      "summary": "Sales Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2580%259D%25E6%25A6%25AE-%25E5%25BD%25AD-8206b9110",
+      "name": "彭思榮",
+      "summary": "煙波大飯店 客務部主任",
+      "location": "Hsinchu City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-yu-204388111",
+      "name": "Phil Yu",
+      "summary": "CEO（Data Image Corp.）",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-liao-b34a09113",
+      "name": "Brian Liao",
+      "summary": "TalentPlus Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/py-hsieh-6197b6151",
+      "name": "PY Hsieh",
+      "summary": "R&D Manager",
+      "location": "Suzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%259C%25BD%25E5%25AF%25AC-%25E7%25BF%2581-80bb86157",
+      "name": "翁霽寬",
+      "summary": "銘板製造公司 sales representative",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clare-hui-fen-kuo-77058b163",
+      "name": "Clare Hui-Fen Kuo",
+      "summary": "Sales Representative at Highnesstech",
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-unger-77118b165",
+      "name": "Sven Unger",
+      "summary": null,
+      "location": "Würzburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brody-dawson-076313165",
+      "name": "Brody Dawson",
+      "summary": "Support Technician at CommBox Pty Ltd",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ching-hua-chuang-797ba116a",
+      "name": "Ching Hua Chuang",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amber-chang-b86665183",
+      "name": "Amber Chang",
+      "summary": "Sales Manager at Clevo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ching-han-lee-7497a7183",
+      "name": "Ching Han Lee",
+      "summary": null,
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maya-muramoto-29361b19a",
+      "name": "Maya Muramoto",
+      "summary": "Deloitte Audit & Assurance Senior",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felix-ehrig-84945019b",
+      "name": "Felix Ehrig",
+      "summary": ".",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marion-debray-73196b1b2",
+      "name": "Marion Debray",
+      "summary": "Cheffe de mission chez PY33",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-adolphe-6b755680",
+      "name": "Jérôme Adolphe",
+      "summary": "Business Manager DynaScan France",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-fislage-6b256a2a9",
+      "name": "Marcel Fislage",
+      "summary": "Field Application Engineer by DynaScan Technology, Inc.\n",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-schuch-b11474a",
+      "name": "John Schuch",
+      "summary": "Vice President Of Software Engineering at BoldVu, by MRI, Inc",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-erinkveld-153031161",
+      "name": "Martina Erinkveld",
+      "summary": "Operations support manager Europe at DynaScan Technology, Inc.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/enriqueviloria",
+      "name": "Enrique Viloria",
+      "summary": "Integrated Test Systems Advisor | New Product Development ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennis-wang-a7200966",
+      "name": "Dennis Wang",
+      "summary": "QA Dept. manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/felix-wu-34752b63",
+      "name": "Felix Wu",
+      "summary": "Product Manager at UIC Corp",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/julienminier",
+      "name": "Julien MINIER",
+      "summary": "Program Director at DynaScan Display",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-h-13207116",
+      "name": "David H.",
+      "summary": "Global Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-tudela-lucas-05387573",
+      "name": "María José Tudela Lucas",
+      "summary": "Auxiliar Administrativo",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hieu-ho-1b96b2193",
+      "name": "Hieu Ho",
+      "summary": "Biomedical Equipment Technician",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shannen-lu-1590467b",
+      "name": "Shannen Lu",
+      "summary": "Senior Product & Marketing Manager EMEA at Vivitek",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/zac-liang-02801197",
+      "name": "Zac Liang",
+      "summary": "Country Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-millward-6738425",
+      "name": "Richard Millward",
+      "summary": "Partner & Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nvillen",
+      "name": "Nacho Villén",
+      "summary": "Digital Marketing Manager en LED HISPANIA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/randall-adams-0615357b",
+      "name": "Randall Adams",
+      "summary": "Tech Pro at C Spire",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-wasinger-84b95687",
+      "name": "Anne Wasinger",
+      "summary": "Global Network Solutions at BoldVu",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/samantha-bell1",
+      "name": "Samantha B.",
+      "summary": "Manufacturing Engineer",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "The latest trade of public display applications! #DynaScan #ISE2025 #DOOH #RetailInnovation",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-ise2025-dooh-activity-7302259937127149569-hivF",
+      "activity_status": null
+    },
+    {
+      "title": "#DynaScan bring the industry first and largest 75” Epaper in outdoor kiosk application. Eco Friendly out-of-home disaplay. #Eink #ISE2025 #DOOH",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_ise-2025-dynascan-introduces-dk-series-activity-7293324768018055168-e9Op",
+      "activity_status": null
+    },
+    {
+      "title": "Brilliant application on luxury goods~",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_brilliant-application-on-luxury-goods-activity-7245324758915899392-a0oN",
+      "activity_status": null
+    },
+    {
+      "title": "#DOOH Case study for Retail Banking. #DynaScan #DigitalSignage",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_banking-on-digital-using-digital-signage-activity-7221348640714317824-gSG0",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Birthday Chroma!",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_happy-birthday-chroma-activity-7261748893867008002-FNHV",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome to visit #DynaScan at #DSSE Munich for sustainable #IFawards 2024 winner : DW series window display solution!",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-dsse-ifawards-activity-7195996978395193346-fHbi",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan, the winner of #ISE2024 Best New Outdoor #DigitalSignage Displays: DK Series Outdoor Kiosk Displays The \"Here's the #Future of Digital…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_congratulations-to-the-2024-winners-of-raves-activity-7185541250991730689-nLyA",
+      "activity_status": null
+    },
+    {
+      "title": "We are #hiring ! Join #DynaScan team in Taiwan! Let's build the future together! 🌞",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_hiring-dynascan-activity-7185828798737592320-qpE7",
+      "activity_status": null
+    },
+    {
+      "title": "How you make people feel on the first meet?",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_how-you-make-people-feel-on-the-first-meet-activity-7171299635699933184-aTb_",
+      "activity_status": null
+    },
+    {
+      "title": "How fantastic it is! #DynaScan storefront window display solution, DW series, wins iF DESIGN AWARD 2024! Congratulations to DynaScan !…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-ifdesignaward-ifdesignaward2024-activity-7170300885011513344-2Jfg",
+      "activity_status": null
+    },
+    {
+      "title": "Happy 40th anniversary #ChromaATEInc!",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_chromaateinc-activity-7165314908635455488-Bcpc",
+      "activity_status": null
+    },
+    {
+      "title": "All the best display solutions for public use. Unifying Vision from #DynaScan. #ISE2024 #AplusK #DOOH",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-ise2024-aplusk-activity-7165960408493719555-8zKR",
+      "activity_status": null
+    },
+    {
+      "title": "A spatacular views of digital display by #DynaScan amazing contents. #DOOH #ISE2024 #ProAV",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-dooh-ise2024-activity-7163684948648845313-QHtV",
+      "activity_status": null
+    },
+    {
+      "title": "No worry if you miss #ISE2024, here are #DynaScan recaps with exciting new #DOOH display trends to share with you, take a look! #digitalsignage…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_ise-2024-in-review-show-recap-activity-7161928479842689024-W1AZ",
+      "activity_status": null
+    },
+    {
+      "title": "Last year we celebrated #DynaScan 25th anniversary, this year, we are ready to move onto the next level! DynaScan is announcing the next trend of…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-dooh-ise2024-activity-7157976112571019265-1A4F",
+      "activity_status": null
+    },
+    {
+      "title": "The only, the best, the largest color Eink display in #ISE2024. #DynaScan #Eink #DOOH",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_ise-2024-dynascan-introduces-42-inch-color-activity-7158507789726666752-HFE4",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan aim to provide a TRUE sustainable, longevous, upgradable and recyclable outdoor display solution to the world! ❤️🌍🌳 Visit us at #ISE2024,…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_e-books-on-digital-signage-digital-out-activity-7154036016557772801-fjVH",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan x Intel @ 3D700 of #ISE2024 #Intel #SDM #Highbrightness #DOOH",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-enhances-display-solutions-with-activity-7155432937058934784-ZKK0",
+      "activity_status": null
+    },
+    {
+      "title": "A special summer vacation experience for my kids to join #DynaScan and #Chroma #ProjectBlue1095 beach cleanup event last Saturday. It's a hot noon…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-chroma-projectblue1095-activity-7086633004705447936-Hk_R",
+      "activity_status": null
+    },
+    {
+      "title": "Unifying Visions! An ECO friendly future! #DynaScan #ISE2024",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-ise2024-activity-7142068631344979968-6Chv",
+      "activity_status": null
+    },
+    {
+      "title": "We are hiring ! Join our team in Irvine, CA, USA 😉",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_we-are-hiring-join-our-team-in-irvine-activity-7148209892279877632-xc6g",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Birthday DynaScan!",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_celebrating-25-years-of-display-ingenuity-activity-7110179946085445632-4EUT",
+      "activity_status": null
+    },
+    {
+      "title": "👉 Digital Signage Summit 2023 start today, come to visit visit #DynaScan and check the display market latest trade. #DSSE23 #DigitalSignage #DooH…",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-dsse23-digitalsignage-activity-7082175848212021248-YvYn",
+      "activity_status": null
+    },
+    {
+      "title": "Today and tomorrow~ Munich Hilton Airport #dynascan #dsse #dooh #hiltonmunichairport",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dynascan-dsse-dooh-activity-7082171625772650497-nMXe",
+      "activity_status": null
+    },
+    {
+      "title": "The most power efficiency outdoor kiosk! #OUTDOORKIOSK #DOOH #PUBLICSERVICE",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_outdoorkiosk-dooh-publicservice-activity-7067862088165031936-MxYp",
+      "activity_status": null
+    },
+    {
+      "title": "Cool! Dragon boat festival in Amstelveen🤩",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_cool-dragon-boat-festival-in-amstelveen-activity-7080387223925239808-hY8Z",
+      "activity_status": null
+    },
+    {
+      "title": "#DOOH #SMARTCITY #Outdoorkiosk",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_dooh-smartcity-outdoorkiosk-activity-7067860520141271040-iUC8",
+      "activity_status": null
+    },
+    {
+      "title": "Best display ever🥇",
+      "link": "https://www.linkedin.com/posts/coco-tsai-7014691b0_ise-registration-activity-6905513706701115392-pmkz",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-12-31T00:00:00Z"
+  }
+}

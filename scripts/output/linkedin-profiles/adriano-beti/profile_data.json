@@ -1,0 +1,990 @@
+{
+  "public_identifier": "adriano-beti",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/f0f9074b96c7674958035837c815e8e3",
+  "background_cover_image_url": null,
+  "first_name": "Adriano",
+  "last_name": "Beti",
+  "full_name": "Adriano Beti",
+  "follower_count": 3341,
+  "occupation": "CEO at Livesystems",
+  "headline": null,
+  "summary": "Mit über 20 Jahren Berufserfahrung in verschiedenen Branchen bin ich eine…",
+  "location_str": "Lenzburg, Aargau, Switzerland",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Lenzburg",
+  "state": "Aargau",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Livesystems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/livesystemsag",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "Livesystems is one of the largest marketers and pioneers of digital out-of-home advertising in Switzerland. We are represented at 9 locations throughout Switzerland with around 100 colleagues. Our digital out-of-home advertising spaces target the active population and reach around 3.4 million people with over 23 million gross contacts every week. Over 14,000 screens are now available at top locations in various environments. Whether on public transport, at petrol stations, in car parks or in public places - we always offer the right channel.",
+      "location": "Liebefeld, Bern",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c111b96baba7254b962e3784e587161e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "Kilchenmann AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kilchenmann-ag",
+      "company_facebook_profile_url": null,
+      "title": "COO",
+      "description": null,
+      "location": "Kehrsatz, Berne, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ff5e8a0d78835b58ec1051ad6326cfe1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "GPA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gpa-bv",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0791d496304c7a59c4ea587e4902071f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Kilchenmann International AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kilchenmann-international",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Kehrsatz, Berne, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fff8693484ecacce4eb57ee2518a162d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "Secure Switzerland AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/secureswitzerland",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Zürich Area, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1e2ec036ac41b01926b7039593ad2089"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "LEONI",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/leoni",
+      "company_facebook_profile_url": null,
+      "title": "Vice President BU Building Technologies",
+      "description": null,
+      "location": "Däniken",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4ddc6db00e147084089d74b56c7f348c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "ABB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abb",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing & Sales Power Generation",
+      "description": null,
+      "location": "Baden, Aargau, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0ed1bb4764531c541d49c0a0faf2901a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "ABB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abb",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": null,
+      "location": "Baden, Aargau, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0ed1bb4764531c541d49c0a0faf2901a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2009
+      },
+      "company": "Rittmeyer Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rittmeyer-group",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Operations",
+      "description": null,
+      "location": "Baar, Zug, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/edb4f14e43515028805b11c851bc88b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2007
+      },
+      "company": "Rittmeyer AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rittmeyer-group",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": null,
+      "location": "Baar, Zug, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/edb4f14e43515028805b11c851bc88b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "Rittmeyer AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rittmeyer-group",
+      "company_facebook_profile_url": null,
+      "title": "Project Engineer",
+      "description": null,
+      "location": "Baar, Zug, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/edb4f14e43515028805b11c851bc88b1"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": null,
+      "degree_name": "CAS in General Management, Certified Board Member",
+      "school": "Rochester-Bern Executive Programs",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Strategic Thinking",
+      "degree_name": "Certificate",
+      "school": "IMD",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Kalaidos University of Applied Sciences Switzerland",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Electrical engineering",
+      "degree_name": "BA",
+      "school": "University of Applied Sciences and Arts Northwestern Switzerland FHNW",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    },
+    {
+      "name": "French",
+      "proficiency": null
+    },
+    {
+      "name": "German",
+      "proficiency": null
+    },
+    {
+      "name": "Italian",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tonyng96",
+      "name": "Tony Ng",
+      "summary": "Product Manager bei Kilchenmann AG",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristiankabashi",
+      "name": "Kristian Kabashi",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mtogninalli",
+      "name": "Matteo Togninalli",
+      "summary": "Product at Isomorphic Labs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-jauch",
+      "name": "Florian Jauch, CFA",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/camille-auberson",
+      "name": "Camille Auberson",
+      "summary": "Chief Legal Officer and co-founder at Approovd / Chairman of the Board of Directors of Groupe Nordmann",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philipp-egli",
+      "name": "Philipp Egli",
+      "summary": "Vermittler zwischen Technologie, Markt und Business",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petergmueller",
+      "name": "Peter Müller",
+      "summary": "COO at Datahouse AG, Zürich",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rolfaegerter",
+      "name": "Rolf Aegerter",
+      "summary": null,
+      "location": "Kehrsatz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcialeandrasantos",
+      "name": "Márcia Santos",
+      "summary": "Nurse, Researcher, Teacher",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bodmerdaniel",
+      "name": "Daniel Bodmer",
+      "summary": "Interim-Turnaround-Manager | Management Consultant - Geschäftsleitung/Salesmanagement/Salesperformance",
+      "location": "Laax"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomlink",
+      "name": "Thomas Knüsel",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabricefasel",
+      "name": "Fabrice Fasel",
+      "summary": "Teacher at CFPT",
+      "location": "Geneva"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thequang-nguyen",
+      "name": "Thế Quang Nguyen",
+      "summary": null,
+      "location": "Renens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjafrauwallner",
+      "name": "Anja Frauwallner",
+      "summary": null,
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-mastny",
+      "name": "Jan Mastny",
+      "summary": null,
+      "location": "Sarmenstorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-m-jansen",
+      "name": "Peter Jansen",
+      "summary": "CEO Precon | Empowering Personal Health",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-anliker",
+      "name": "Andrea Anliker",
+      "summary": null,
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandro-haag",
+      "name": "Sandro Haag",
+      "summary": "Co-Founder Livom | Mit modularen Sofas zum jährlichen zweistelligen Millionenumsatz | Europaweite Expansion",
+      "location": "Amriswil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-bestvina",
+      "name": "Thomas Bestvina",
+      "summary": "Why normal?",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pkhristolubov",
+      "name": "Pavel Khristolubov",
+      "summary": "COO @ Neon Labs | Emerging markets & Emergent tech",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ateleki",
+      "name": "Alexander Teleki",
+      "summary": "COO at Neurones - Digital Transformation and ECM Solutions\nPMP, CBAP",
+      "location": "Geneva"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harsha-surenthiran-a64039262",
+      "name": "Harsha Surenthiran",
+      "summary": "Studium an der Hochschule gibb Berufsfachschule Bern",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/essania-binggeli-37a02a253",
+      "name": "Essania Binggeli",
+      "summary": "Stv. Head of Sales Coordination",
+      "location": "Grossaffoltern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-stefania-7886aa",
+      "name": "Nick Stefania",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manish-patnaik-524b69",
+      "name": "Manish Patnaik",
+      "summary": "COO at Leonteq Securities AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markus-mosimann",
+      "name": "Markus Mosimann",
+      "summary": null,
+      "location": "Emmen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-reich-4a043a4",
+      "name": "Alexandra Reich",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-heim-4298427",
+      "name": "Andreas Heim",
+      "summary": "COO at Beecom",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-gabriel-29a6a1a",
+      "name": "Thomas Gabriel",
+      "summary": "Co-Founder | KNIME",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-stach-58135420",
+      "name": "Patrick Stach",
+      "summary": "Dr. iur. HSG, Attorney at law & Notary",
+      "location": "St Gallen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felix-leimbach-7a7b5220",
+      "name": "Felix Leimbach",
+      "summary": null,
+      "location": "Lörrach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beno%25C3%25AEt-rouiller-8a574524",
+      "name": "Benoît Rouiller",
+      "summary": "Co—founder & CEO Softcom Technologies SA",
+      "location": "Fribourg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manfred-abplanalp-67251139",
+      "name": "Manfred Abplanalp",
+      "summary": "CEOO Omni Cloud AG",
+      "location": "Einsiedeln"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurin-bertozzi",
+      "name": "Laurin Bertozzi",
+      "summary": "Partner, COO at Dr. Pascal Sieber & Partners AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yves-kilchenmann",
+      "name": "Yves Kilchenmann",
+      "summary": "Zielgruppengerechte digitale Medialeistungen schweizweit I Digital Marketing Partnerschaften I Schnelle, relevante und unabhängige Berichterstattung I Grösste Content-Marketing-Plattform der Schweiz I Online-News-Portal",
+      "location": "Köniz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-corsalini-3a998846",
+      "name": "David Corsalini",
+      "summary": "Sales Engineer & Senior Project Manager",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-kunz",
+      "name": "Marcel Kunz",
+      "summary": "Group CIO I Leitung Business Excellence bei IDS Group",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heiner-loeffler-aa115b54",
+      "name": "Heiner Loeffler",
+      "summary": "COO at Genius Technologie GmbH",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-tr%25C3%25BCssel-08536b73",
+      "name": "Daniel Trüssel",
+      "summary": "Bank EEK•3K followers",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/admir-zogjani-13ba9286",
+      "name": "Admir Zogjani",
+      "summary": "Mitglied der Geschäftsleitung bei Stehli & Fischer AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-imhof-3729918b",
+      "name": "Christian Imhof",
+      "summary": "COO der Livesystems Group AG",
+      "location": "Liebefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beat-kaltenrieder-7620b193",
+      "name": "Beat Kaltenrieder",
+      "summary": "Man sollte nur das machen, was einem Spass macht!",
+      "location": "Läufelfingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philipp-wild-791a6793",
+      "name": "Philipp Wild",
+      "summary": "Leiter Marketing & Kommunikation @ EMR | LinkedPhil TopVoice",
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/micha-lehmann-kilchenmann",
+      "name": "Micha Lehmann",
+      "summary": "Gemeinsam die Zukunft gestalten",
+      "location": "Wattenwil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-jud-192916a3",
+      "name": "Thomas Jud",
+      "summary": "Head of DevOps (Development), Mitglied der Geschäftsleitung",
+      "location": "Kehrsatz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-haldimann-043661b4",
+      "name": "Andreas Haldimann",
+      "summary": null,
+      "location": "Gebenstorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinne-blunier",
+      "name": "Corinne Blunier",
+      "summary": "CHRO- Livesystems Group AG",
+      "location": "Liebefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marius-wagner-a92172105",
+      "name": "Marius Wagner",
+      "summary": "Sales Manager bei PostFinance AG",
+      "location": "Wohlen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fatlum-isufi-8847b7105",
+      "name": "Fatlum Isufi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-simon",
+      "name": "Ben Simon",
+      "summary": "Founder turned VC | Forbes 30u30",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-gasser-11530911b",
+      "name": "Patrick Gasser",
+      "summary": "CEO",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yucatan-fr%25C3%25BChauf-7b4a1111b",
+      "name": "Yucatan Frühauf",
+      "summary": "Multimediaelektroniker und technischer Kaufmann, Medienplaner & Allrounder bei iart",
+      "location": "Aarau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadine-hauser",
+      "name": "Nadine Hauser",
+      "summary": "we are consultants gmbh•982 followers",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christer-bj%25C3%25B6rck-6531a5130",
+      "name": "Christer Björck",
+      "summary": "Senior Specialist Office IT/AV Project Manager | AV Strategist",
+      "location": "Alvaneu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-roth-50a276144",
+      "name": "Martin Roth",
+      "summary": "Umfassende Erfahrung als Verwaltungsrat, CEO und COO in der Energie-, Bahn-, und Industriebranche | Engineering | Planung | Ausführung | Services | Instandhaltung | Energiewirtschaft | Politik",
+      "location": "Leuk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michel-teutschmann-ab94771a1",
+      "name": "Michel Teutschmann",
+      "summary": "Ihr GeschäftsErfolg = Mein Fokus /\n\nIhr Unternehmen im Rampenlicht",
+      "location": "Köniz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-candinas-857479208",
+      "name": "Martin Candinas",
+      "summary": "Nationalrat / Cusseglier naziunal",
+      "location": "Chur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/c%25C3%25A9dric-hasdemir-0a0001211",
+      "name": "Cédric Hasdemir",
+      "summary": "International Project and Program Manager, \nAddicted to Skydiving,₿itcoin enthusiast",
+      "location": "Bern"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Ich freue mich sehr, dass die www.higa.ch perfekt gestartet ist. Gemeinsam mit Stadtpräsident Hans Martin Meuli und Regierungspräsident Marcus Caduff…",
+      "link": "https://de.linkedin.com/posts/fifi-frei-7a214636_higa-united-events-ag-activity-7313889547606450176-O8gF",
+      "activity_status": null
+    },
+    {
+      "title": "Es geht los – wir sind auf der 26. Gienger Neuheitenschau in Markt Schwaben Heute und morgen dreht sich bei uns alles um flexible Rohrlösungen für…",
+      "link": "https://de.linkedin.com/posts/bruggpipes_bruggpipes-giengerneuheitenschau-calpexpurking-activity-7313450932590014465-iLdw",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Wir suchen Verstärkung! Du brennst für Netzwerke, IT-Security und innovative Infrastrukturlösungen? Dann bist du bei uns genau richtig! Für unser…",
+      "link": "https://de.linkedin.com/posts/andri-caviezel-14185b110_ict-netzwerk-system-engineer-a-activity-7310901536925069312-nk-e",
+      "activity_status": null
+    },
+    {
+      "title": "Was haben die #Bahnindustrie und der #Weinanbau gemeinsam? Nach 30 Jahren wird abgeschrieben. Das bedeutet: Die Entscheidungen von heute müssen den…",
+      "link": "https://de.linkedin.com/posts/swissrail_bahnindustrie-weinanbau-zukunftsorientiert-activity-7313468321889198081-a5Gm",
+      "activity_status": null
+    },
+    {
+      "title": "Von Hamburgern für Hamburger! Okay okay, nicht ganz! Was passiert, wenn Timing, Relevanz und ein Burger zusammenkommen? Eine pDOOH-Kampagne, die für…",
+      "link": "https://de.linkedin.com/posts/sedataltinok_pdooh-dooh-programmatic-activity-7313482866275807234-VG-r",
+      "activity_status": null
+    },
+    {
+      "title": "Gestern durfte ich vor der Kamera stehen🎬🎥 Es war eine aufregende und wertvolle Erfahrung, die Riesenspass gemacht hat 🥳! Seid ihr genauso…",
+      "link": "https://de.linkedin.com/posts/seline-guggisberg-9b1986159_gestern-durfte-ich-vor-der-kamera-stehen-activity-7313493825157550080-eQoc",
+      "activity_status": null
+    },
+    {
+      "title": "Am 23.04.2025 durften wir zusammen mit den aktuellen und ehemaligen Mitarbeitenden das 10-jährige Jubiläum von Jusonline AG feiern. Vielen Dank an…",
+      "link": "https://de.linkedin.com/posts/gian-sandro-genna-29b20b10a_am-23042025-durften-wir-zusammen-mit-den-activity-7321031948536012800-uz85",
+      "activity_status": null
+    },
+    {
+      "title": "🔑The synergy of business opportunities and international collaboration - a catalyst for growth and making the difference in contemporary…",
+      "link": "https://www.linkedin.com/posts/tina-lehmann-196583143_tina-lehmann-joins-arclif-group-as-senior-activity-7321046883412398080-PvRC",
+      "activity_status": null
+    },
+    {
+      "title": "Letzte Woche durften wir Sayanthan Jeyakumar’s Team beim Curling aufs Glatteis führen. 🫣 Das Rink haben wir mit einem \"1:0 - Post vs. Who is…",
+      "link": "https://de.linkedin.com/posts/who-is-frank_teamevent-agilemindset-outcomeoveroutput-activity-7320755844990603264-JDmc",
+      "activity_status": null
+    },
+    {
+      "title": "Really exciting time to be at Forté Level Up in Dallas. Congratulations to all the Forté team on this awesome announcement……More to come !",
+      "link": "https://www.linkedin.com/posts/david-carroll-01a46714_really-exciting-time-to-be-at-forté-level-activity-7320463248971988994-_Exf",
+      "activity_status": null
+    },
+    {
+      "title": "From Zürich to Muscat | April 25th – May 2nd I’m heading to Oman to discover the region’s innovation spirit and explore potential bridges between…",
+      "link": "https://www.linkedin.com/posts/roberto-d-elia_hrwc2026-innovationjourney-futureoftech-activity-7320068225256284160-6pXZ",
+      "activity_status": null
+    },
+    {
+      "title": "Back to school 🎓 Auch im 3. Jahr mit den Studierenden an der HWZ University of Applied Sciences in Business Administration Zurich wieder einiges…",
+      "link": "https://de.linkedin.com/posts/juanpabloschmid_back-to-school-auch-im-3-jahr-mit-den-activity-7319249632121819136-YPkw",
+      "activity_status": null
+    },
+    {
+      "title": "Da ist man einmal in Idstein bei der SERVICEWARE und niemand macht auf.. Ok, vielleicht liegt es daran, dass heute Karfreitag ist 😂. Da ich aber…",
+      "link": "https://de.linkedin.com/posts/remo-suter_da-ist-man-einmal-in-idstein-bei-der-serviceware-activity-7318999726308122624-MDDw",
+      "activity_status": null
+    },
+    {
+      "title": "🐰 Seid bitte nicht «böse» mit dem Osterhasen, falls er dieses Jahr mit kleiner Verspätung bei Euch vorbeischauen wird… 🐰 Er hat bei BRUGG Pipes…",
+      "link": "https://de.linkedin.com/posts/stephan-wartmann-112b8744_seid-bitte-nicht-böse-mit-dem-osterhasen-activity-7319230790146449408-dsXq",
+      "activity_status": null
+    },
+    {
+      "title": "Warum ich diesen Sport liebe und den HSC Suhr Aarau im Ehrenamt unterstütze? 🍀 Weil man solche Momente des Glücks und der Gemeinsamkeit nur im…",
+      "link": "https://de.linkedin.com/posts/reto-parolini-4044436_handballsport-hscsuhraarau-lebensschule-activity-7319021189522161664-lHtq",
+      "activity_status": null
+    },
+    {
+      "title": "Ringier Medien Schweiz is evolving. With Dr. Markus Wirth joining us as COO this autumn, we are gaining a proven leader in digital transformation and…",
+      "link": "https://www.linkedin.com/posts/marcwalder_media-leadership-switzerland-activity-7318647137267769344-dIl2",
+      "activity_status": null
+    },
+    {
+      "title": "Der 17. April 2015. Ein historisches Datum für den Schweizer Zahlungsverkehr. Die allererste Twint-Transaktion! Ja genau. Exakt 10 Jahre ist es her.…",
+      "link": "https://de.linkedin.com/posts/thierrykneissler_der-17-april-2015-ein-historisches-datum-activity-7318526400901054466-ktWs",
+      "activity_status": null
+    },
+    {
+      "title": "Warum ich beim Wandern meine besten Entscheidungen treffe? Die besten Ideen kommen nicht am Schreibtisch. Sie kommen, wenn der Kopf frei ist. Wenn…",
+      "link": "https://de.linkedin.com/posts/grafmartin_warum-ich-beim-wandern-meine-besten-entscheidungen-activity-7318171189095378944-D45b",
+      "activity_status": null
+    },
+    {
+      "title": "Regional verankert, mit grosser Wirkung: 100 Jahre Natur- und Tierpark Goldau! Der Natur- und Tierpark Goldau ist mehr als ein Ausflugsziel: Er ist…",
+      "link": "https://de.linkedin.com/posts/maeder-stefan_regional-verankert-mit-grosser-wirkung-activity-7317934293052211203-vTAZ",
+      "activity_status": null
+    },
+    {
+      "title": "I’m incredibly proud to share that our Multi-SSP support is now available to all Adtrac customers. This is a milestone I’ve been looking forward to…",
+      "link": "https://www.linkedin.com/posts/benwey_retailmedia-dooh-monetization-activity-7371792116181663745-sCzJ",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Die CMO of the year Award Night steht vor der Tür! Es war mir eine große Freude in der Jury mitwirken zu dürfen. Ein herzliches Dankeschön an…",
+      "link": "https://de.linkedin.com/posts/matthiasbütler_marketingexcellence-activity-7364190280087916545-fyLJ",
+      "activity_status": null
+    },
+    {
+      "title": "Q3 fast geschafft – Zeit, stolz zurückzuschauen und mutig nach vorne zu blicken 🚀 Bin gerade unterwegs – mit vielen Gedanken im Kopf: Freude über…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_q3-fast-geschafft-zeit-stolz-zurückzuschauen-activity-7371788360773775360-12m5",
+      "activity_status": null
+    },
+    {
+      "title": "🐒🐻 Manchmal muss man sich als HR zum Affen machen – oder zum Bären. Aber eins ist sicher: Quatschen ist Pflicht! 🎤 👉 Mitarbeitende wollen…",
+      "link": "https://de.linkedin.com/posts/trummer_zpeurope-hr-engagement-activity-7371580406883598337-eqbH",
+      "activity_status": null
+    },
+    {
+      "title": "Verwaltungsrats-Symposium für KMU: Kompakt, praxisnah mit Langfristnutzen Vergangenen Freitag durfte ich beim VR-Symposium für KMU dabei sein –…",
+      "link": "https://de.linkedin.com/posts/bernd-geisenberger_verwaltungsrats-symposium-für-kmu-kompakt-activity-7371216106281205760-3-AK",
+      "activity_status": null
+    },
+    {
+      "title": "Meine neueste Kolumne zum geplanten Plakatverbot. Heute Mittwoch, 10. September, 11 Uhr, Unterschriftenübergabe „Zürichsollleuchten Rathaus…",
+      "link": "https://de.linkedin.com/posts/matthias-ackeret-b6640a31_meine-neueste-kolumne-zum-geplanten-plakatverbot-activity-7371474267659743232-icfD",
+      "activity_status": null
+    },
+    {
+      "title": "🚫📢 Nein zum Werbeverbot in Zürich! Heute haben wir im Rahmen der Kampagne Pro Plakat unsere #Petition mit zahlreichen Unterschriften an den…",
+      "link": "https://de.linkedin.com/posts/fdp-stadt-zürich_petition-werbeverbot-proplakat-activity-7371599238012760064-kwcB",
+      "activity_status": null
+    },
+    {
+      "title": "Erfolgreiche Austragung der Arosa ClassicCar 2025 - Motorsport, Emotionen & Innovation in den Bündner Bergen🏁 Vom 4. bis 7. September verwandelte…",
+      "link": "https://de.linkedin.com/posts/arosa-tourismus_erfolgreiche-austragung-der-arosa-classiccar-activity-7370791313086099457-VTN8",
+      "activity_status": null
+    },
+    {
+      "title": "Du denkst, ihr seid \"aligned\"? Ihr seid es nicht ⚡ Das kennt doch jeder: man sitzt in einem Meeting, es braucht einen Entscheid. Und was passiert?…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_du-denkst-ihr-seid-aligned-ihr-seid-es-activity-7463460951594491904-2wCT",
+      "activity_status": null
+    },
+    {
+      "title": "Wow, was für ein inspirierender Mensch! Nach einem intensiven Austausch mit dem legendären Schweizer Sportreporter Berni Schär bin ich noch immer…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_wow-was-für-ein-inspirierender-mensch-activity-7462819545343438848-8TZX",
+      "activity_status": null
+    },
+    {
+      "title": "AI ersetzt menschliche Kreativität? 🤖 Du hast sicher auch schon gehört, dass AI alle Marketingjobs übernimmt und Strategen überflüssig macht, oder?…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_ai-ersetzt-menschliche-kreativität-du-activity-7459508650953478144-sPZW",
+      "activity_status": null
+    },
+    {
+      "title": "OMR 2026: KI-Hype am Wendepunkt? 🤔 Wann hast du dir das letzte Mal die Frage gestellt, ob der aktuelle Tech-Boom wirklich nachhaltig ist oder ob wir…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_omr26-digitaltransformation-ai-activity-7458501129266622465-8Zqu",
+      "activity_status": null
+    },
+    {
+      "title": "Willst du Applaus? Oder willst du führen? Junge Talente wollten beim letzten Speedmentoring des IAA Swiss Chapter wissen, welchen Plan ich hatte.…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-führungmitwirkung-authentisch-activity-7432106552175800320-uN-n",
+      "activity_status": null
+    },
+    {
+      "title": "Authentizität ist keine Schwäche – sie ist deine grösste Stärke! 💪🔥 Beim Speed Mentoring des IAA Swiss Chapter wurde ich mehrmals gefragt: „Was…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_authentizität-ist-keine-schwäche-sie-ist-activity-7394297968868290560-yGR4",
+      "activity_status": null
+    },
+    {
+      "title": "Wenn gemeinsame Werte auf eine klare Vision treffen, wird aus Zusammenarbeit echte Partnerschaft Gemeinsam mit Ringier Medien Schweiz gehen wir neue…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_wenn-gemeinsame-werte-auf-eine-klare-vision-activity-7389942566403792896-50ij",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Gemeinsam lassen wir die Bälle – und Ideen – in die Luft steigen! ⛳️ In enger Zusammenarbeit mit der AEK Bank haben wir unser erstes gemeinsames…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_gemeinsam-lassen-wir-die-bälle-und-ideen-activity-7368634918483955712-6_M9",
+      "activity_status": null
+    },
+    {
+      "title": "💡 Willst du werben und Wirkung erzielen – oder einfach nur Geld für Werbung ausgeben? Wir bei Livesystems reduzieren weiter die Streuverluste bei…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_dooh-livesystems-targeting-activity-7363596863729459200-E5Rs",
+      "activity_status": null
+    },
+    {
+      "title": "🔍 Open Innovation: Nur ein Buzzword oder echte Chance? 🚀♻️ Was passiert mit den über 13'000 Screens, wenn wir sie austauschen? 🤔 Können wir…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_open-innovation-nur-ein-buzzword-oder-activity-7342989840575074305-9k0B",
+      "activity_status": null
+    },
+    {
+      "title": "Entschleunigung als Gamechanger? 🚀 Wann hast du dir das letzte Mal bewusst Zeit genommen, um innezuhalten und auf das zu schauen, was du und dein…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_entschleunigung-als-gamechanger-wann-activity-7338861687199956992-OuxA",
+      "activity_status": null
+    },
+    {
+      "title": "Müssen ausgediente Bildschirme wirklich entsorgt werden – oder gibt es neue, sinnvolle Einsatzmöglichkeiten? Wir haben heute über 13'000 Bildschirme…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_müssen-ausgediente-bildschirme-wirklich-entsorgt-activity-7328798422692421632-0PaW",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 𝗤𝟭-𝗖𝗵𝗲𝗰𝗸: 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲 𝗶𝗻 𝗱𝗶𝗲 𝗨𝗺𝘀𝗲𝘁𝘇𝘂𝗻𝗴 𝗯𝗿𝗶𝗻𝗴𝗲𝗻! Wir haben die Zielerreichung des letzten Quartals analysiert…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-strategie-operationalisierung-activity-7308392133546188802--Lq0",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 🚀 𝗙𝗿𝗶𝘀𝗰𝗵𝗲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝘃𝗼𝗻 𝗱𝗲𝗿 𝗱𝟯𝗰𝗼𝗻: 𝗗𝗢𝗢𝗛 𝗸𝗮𝗻𝗻 𝗺𝗲𝗵𝗿 𝗮𝗹𝘀 𝗥𝗲𝗶𝗰𝗵𝘄𝗲𝗶𝘁𝗲! 🎯📊 Meine 3 Key- Takeaways…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-digitaloutofhome-datengetrieben-activity-7305618581466050561-K-88",
+      "activity_status": null
+    },
+    {
+      "title": "📢 𝗗𝗢𝗢𝗛-𝗙𝗼𝗿𝘀𝗰𝗵𝘂𝗻𝗴: 𝗕𝗿𝗮𝘂𝗰𝗵𝘁 𝗲𝘀 𝗲𝗶𝗻𝗲 𝗮𝗻𝗯𝗶𝗲𝘁𝗲𝗿ü𝗯𝗲𝗿𝗴𝗿𝗲𝗶𝗳𝗲𝗻𝗱𝗲 𝗪ä𝗵𝗿𝘂𝗻𝗴?? Wie lässt sich Aussenwerbung…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-transparenz-dooh-activity-7302613787008811010-9_i2",
+      "activity_status": null
+    },
+    {
+      "title": "🚠🏞️ 𝗟𝗶𝘃𝗲𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗯𝗿𝗶𝗻𝗴𝘁 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗢𝘂𝘁 𝗼𝗳 𝗛𝗼𝗺𝗲 𝗶𝗻 𝗱𝗶𝗲 𝗝𝘂𝗻𝗴𝗳𝗿𝗮𝘂𝗯𝗮𝗵𝗻𝗲𝗻! 🏞️🚠 Wir bringen DooH in…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-jungfraubahnen-digitaloutofhome-activity-7303776470173179905-dkQ_",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 𝐍𝐞𝐮𝐞 𝐌𝐚𝐫𝐤𝐞𝐧𝐞𝐫𝐥𝐞𝐛𝐧𝐢𝐬𝐬𝐞 𝐬𝐜𝐡𝐚𝐟𝐟𝐞𝐧? 𝐙𝐢𝐞𝐥𝐠𝐫𝐮𝐩𝐩𝐞𝐧 𝐦𝐢𝐭 𝐆𝐚𝐦𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐛𝐞𝐠𝐞𝐢𝐬𝐭𝐞𝐫𝐧 𝐮𝐧𝐝…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-innovation-gamification-activity-7295492073363795969-VZRL",
+      "activity_status": null
+    },
+    {
+      "title": "Mit deinem Lieblingsverein mitfiebern – jetzt auch im ÖV! Dank unserer tollen Partnerschaft mit blue Entertainment AG kannst du unterwegs immer live…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-bluenews-partner-activity-7288546366425829376-WCPh",
+      "activity_status": null
+    },
+    {
+      "title": "Bereit, gemeinsam Grosses zu schaffen - gespannt auf einen spannenden und wegweisenden Tag, die Zukunft der Livesystems zu schreiben! #livesystems…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-drivingthefuture-teamworkwithfun-activity-7239886117590695936-RHUs",
+      "activity_status": null
+    },
+    {
+      "title": "Wow, was für ein aufregender Tag voller spannender Diskussionen, inspirierender Gedanken und innovativer Ideen! Wir können es kaum erwarten, unsere…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_livesystems-teamwork-drivingthefuture-activity-7240035169334636544-vVRQ",
+      "activity_status": null
+    },
+    {
+      "title": "❤️ lich Willkommen bei Livesystems, lieber Marco! Wir freuen uns sehr, dich bei uns im Team zu haben 🚀 #WePushTheBoundaries #livesystems #Team…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_wepushtheboundaries-livesystems-team-activity-7240271507690557440-8NN6",
+      "activity_status": null
+    },
+    {
+      "title": "Ich wurde schon oft gefragt, wie wir eigentlich unseren Betrieb draussen im Feld sicherstellen. Die Frage müsste eigentlich lauten: WER stellt den…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_teamwork-funatwork-drivingdooh-activity-7240347046283493376--oOE",
+      "activity_status": null
+    },
+    {
+      "title": "„Die anschliessend durchgeführte Marktforschung zeigte die hohe Wirkung der Kanäle. Die Zusammenarbeit war sehr bereichernd, kompetent, unkompliziert…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_werbenmitwirkung-partnerschaft-bkw-activity-7229823880201138176-8Yw1",
+      "activity_status": null
+    },
+    {
+      "title": "Interessante Stellungnahme der IG DOOH zum Thema Reichweitenerfassung im Digital out of Home. #Livesystems #IGDOOH #Forschung #Innovation",
+      "link": "https://www.linkedin.com/posts/adriano-beti_stellungnahme-der-ig-dooh-zum-thema-reichweitenforschung-activity-7211689794857275393-v_hC",
+      "activity_status": null
+    },
+    {
+      "title": "„Die Resultate haben unsere Erwartungen übertroffen. Umgesetzt mit einem kompetenten und sympathischen Team von Livesystems.“ Lieber Dominique Lüthy:…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_werbenmitwirkung-partnerschaft-adelbodenlenkkandersteg-activity-7178458307777421312-CwBe",
+      "activity_status": null
+    },
+    {
+      "title": "🌿🌍 Ein Zeichen für unsere Umwelt! 🌍🌿 Nachhaltigkeit darf keine leere Worthülse sein – vielmehr müssen wir nachhaltiges Denken und Handeln…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_earthhour-digitaloutofhome-innovation-activity-7175806456045178880-EmmC",
+      "activity_status": null
+    },
+    {
+      "title": "Vielen Dank fÃ¼r das Vertrauen und den herzlichen Empfang, liebes Livesystems- Team! Ich freue mich sehr auf meine neue Aufgabe und die MÃ¶glichkeit,…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_adriano-beti-wird-neuer-ceo-von-livesystems-activity-7128292012985851904--vKb",
+      "activity_status": null
+    },
+    {
+      "title": "Sustainability needs a new way of thinking and the courage to go new ways. Why? Just have a look at this solution from dhp technology and you will…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_sustainability-needs-a-new-way-of-thinking-activity-7062386754183417856-fUC2",
+      "activity_status": null
+    },
+    {
+      "title": "Gemeinsam mit unseren Kunden neue Wege gehen, LÃ¶sungen entwickeln und erfolgreich realisieren - dafÃ¼r braucht es neben Offenheit vorallem Vertrauen…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_kilchenmann-er%C3%B6ffnet-niederlassung-im-startfeld-activity-6922793180962697216-OTwU",
+      "activity_status": null
+    },
+    {
+      "title": "Gelebte Collaboration am SwissbauÂ Innovation Lab 2022 - Gemeinsam mit vielen anderen Partnern die digitale Transformation der Bau- und…",
+      "link": "https://www.linkedin.com/posts/adriano-beti_swissbauinnovationlab-swissbau-kilchenmannag-activity-6857605187838742528-o999",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-24T00:00:00Z"
+  }
+}

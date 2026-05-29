@@ -1,0 +1,651 @@
+{
+  "public_identifier": "murray-mcwilliams-8a73579",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Murray",
+  "last_name": "McWilliams",
+  "full_name": "Murray McWilliams",
+  "follower_count": 568,
+  "occupation": "Director and Shareholder at Tractor Outdoor",
+  "headline": "Tractor Outdoor / Psych-K Facilitator",
+  "summary": "Tractor Outdoor focuses on unique and creative outdoor media solutions in South Africa & globally.<br><br>www.tractoroutdoor.com<br><br>Specialties: Out of Home Media Opportunities",
+  "location_str": "Bruges, Flemish Region, Belgium",
+  "country": "BE",
+  "country_full_name": "Belgium",
+  "city": "Bruges",
+  "state": "Flemish Region",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Director and Shareholder",
+      "description": null,
+      "location": "Cape Town",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": null,
+      "company": "Kiria Products Guarantees Pty Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Shareholder & Director",
+      "description": null,
+      "location": "Cape Town Area, South Africa",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2022
+      },
+      "company": "Entrepreneurs' Organization",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneursorganization",
+      "company_facebook_profile_url": null,
+      "title": "Strategic Alliance Chair - Belgium Board",
+      "description": null,
+      "location": "Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0a0c96902e4b1c6503e44e999813de8a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2022
+      },
+      "company": "Entrepreneurs' Organization",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneursorganization",
+      "company_facebook_profile_url": null,
+      "title": "Member",
+      "description": "EO has been and is an incredible experience",
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0a0c96902e4b1c6503e44e999813de8a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2013
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Cape Town",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "HTTPrint",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": "HTTPrint was a VC backed digital workflow solutions company operating in the USA commercial print space.",
+      "location": "San Francisco Bay Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "Hana Technologies Pty",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing and Financial Services Manager",
+      "description": "Hana Technologies was a high tech company servicing North American, European and Asian chip manufacturers.",
+      "location": "Hong King",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Personal Travel",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Travelled South America & Mexico",
+      "description": "I had an incredible year with my wife and 3 children travelling around the spectacular continent of South & Central America and ending in Mexico. The year was one of family and personal growth.",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": "Finance, Economics, Accounting",
+      "degree_name": "BBusSci",
+      "school": "University of Cape Town",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cape-town",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/001d89d15f2193a15ced721a6e9efe6c",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/shaun-swanepoel",
+      "name": "Shaun Swanepoel",
+      "summary": "Country Partner LeadBI at LeadBI South Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristiebackx-moizo-antwerp",
+      "name": "Cris Tiebackx",
+      "summary": "To the point projectmanager in visuele communicatie | Knap design | Mooi print en drukwerk  | Werkende websites | E-mailmarketing | Opvallende lichtreclame | Neon | Led Systemen",
+      "location": "Kontich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tazz-creative-business-strategist",
+      "name": "Tazz De Souza Dias",
+      "summary": "Creative Business Strategist | Funnel Expert | Course Creation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-woods-calton-hill",
+      "name": "Dave Woods",
+      "summary": "Experienced Business Leader in Fraud, Security, and Analytics.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/theodoretaymans",
+      "name": "Théodore Taymans",
+      "summary": "J’aide les organisations à établir des stratégies de communications multicanales et mets en place leurs campagnes de A à Z avec mon agence L’UNION. Professeur invité en stratégie de communication à l'ISFSC.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabethgage",
+      "name": "Elizabeth Gage",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/janinemclay",
+      "name": "Janine McLay",
+      "summary": "Business Unit Manager | General Manager | Divisional Manager | Product Manager",
+      "location": "Orewa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gastonbijl",
+      "name": "Gaston Bijl",
+      "summary": "Owner, GB Accountants en Belastingadviseurs",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nielsfamaey",
+      "name": "Niels Famaey",
+      "summary": "“Logic takes you from A to B. Imagination takes you everywhere.” Brand creator with growth mindset. Marketing, Media & Publishing professional. Driven by ethical values. Strong in strategy, execution and book making",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasvanoverbeke",
+      "name": "Thomas Van Overbeke",
+      "summary": "Entrepreneur | Founder | Mentor | Angel investor in B2B and D2C Startups",
+      "location": "Ghent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunohancke",
+      "name": "Bruno Hancké",
+      "summary": "Managing director at ThisPlays2 & Groevy",
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ktuypens",
+      "name": "Kurt Tuypens",
+      "summary": "Co-founder, Managing Director of Wave",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaspermeurs",
+      "name": "Jasper Meurs",
+      "summary": "HubSpot Revenue Operations Consultant | HubSpot Gold Partner",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ronnymathieu",
+      "name": "Ronny Mathieu",
+      "summary": "Founder at WhisperBeam",
+      "location": "Sint-Martens-Latem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentincogels",
+      "name": "Valentin Cogels",
+      "summary": "Partner at Bain & Company | Digital Leader | Experienced CEO and Founder Driving Innovation & Growth in Digital Businesses",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjamingarant",
+      "name": "Benjamin Garant, ing., ASC",
+      "summary": null,
+      "location": "Québec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chante-koff-a00472275",
+      "name": "Chante Koff",
+      "summary": "Business Operations Manager",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-numan-108885108",
+      "name": "Muhammad Numan",
+      "summary": "Eden Events Trading And Projects ( Pty) Ltd",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geert-goethals",
+      "name": "Geert Goethals",
+      "summary": null,
+      "location": "Ghent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benoit-lambert-communication",
+      "name": "Benoit Lambert",
+      "summary": "Let's make it happen!",
+      "location": "Liège"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seymone-modak",
+      "name": "Seymone Modak",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelique-masters-41ba5514a",
+      "name": "Angelique Masters",
+      "summary": "Tractor Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-mc-cullough-987126",
+      "name": "Sean Mc Cullough",
+      "summary": "Director / Owner at Valerus BVBA",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitri-belpaire",
+      "name": "Dimitri Belpaire",
+      "summary": "Managing Director",
+      "location": "St-Genesius-Rode"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yves-van-lent-8633bb2",
+      "name": "Yves Van Lent",
+      "summary": null,
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcwellens",
+      "name": "Marc Wellens",
+      "summary": "Co-Founder @ CHAPOO part of Creative Family (Branding and Brand Communication)",
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alain-manders-1982464",
+      "name": "Alain Manders",
+      "summary": "Founder & Managing Director Demonstr8",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-de-bauw-4219454",
+      "name": "Nicolas De Bauw",
+      "summary": null,
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-johnstone-3b48a816",
+      "name": "Marc Johnstone",
+      "summary": "Leading expert in use of rewards and risk coverage driving consumer behaviour to exponentially grow business performance.",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-hetherington-8760aa19",
+      "name": "Sarah Hetherington",
+      "summary": "Co-owner String Communication and Director: Brand Communication African Extracts Rooibos Skin Care",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-michienzi-751b6019",
+      "name": "Anna Michienzi",
+      "summary": "Principal Compensation Partner, Global",
+      "location": "Norwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jensdemaere",
+      "name": "Jens De Maere",
+      "summary": "CEO at Cuez",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christy-hicks-b154311b",
+      "name": "Christy Hicks",
+      "summary": "Event Planner at Entrepreneurs' Organization",
+      "location": "New Alexandria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gail-zimmerman-04885920",
+      "name": "Gail Zimmerman",
+      "summary": "Vice Chancellor for Student Affairs at The University of Virginia's College at Wise",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-mills-74711523",
+      "name": "Andrew Mills",
+      "summary": "Consultant",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-moodly-7b610224",
+      "name": "Patrick Moodly",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-robertson-b0050124",
+      "name": "Ryan Robertson",
+      "summary": "Business Director - TRAX4S Holdings | Orbitrax Tech",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yaseen-baker-72a51b28",
+      "name": "Yaseen Baker",
+      "summary": "Art Director",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-gibbons-2606532a",
+      "name": "Angela Gibbons",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/naveed-sheikh-5853b62b",
+      "name": "Naveed Sheikh",
+      "summary": "International Internal Auditor at Verizon",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-priestley-gibbins-8306a530",
+      "name": "Angela Priestley-Gibbins",
+      "summary": "Pensions and Benefits Manager at Thera Trust",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bertreymen",
+      "name": "Bert R.",
+      "summary": null,
+      "location": "Leuven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/herman-swart-70a65732",
+      "name": "Herman Swart",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-g-6a802833",
+      "name": "Angela G.",
+      "summary": null,
+      "location": "San Antonio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-stone-72806735",
+      "name": "Christopher Stone",
+      "summary": "Managing Director at JC Decaux-Dewez Billboard",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/theshnee-govender-37459735",
+      "name": "Theshnee Govender",
+      "summary": "Co-founder @ atma Yoga, Wellness & Events",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-lewis-a8b73a3a",
+      "name": "Paul Lewis",
+      "summary": "Head of Reinsurance Africa at Price Forbes (South Africa)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-gibbons-13410745",
+      "name": "Angela Gibbons",
+      "summary": "Freelance Retoucher /Artworker",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-brits-a4025748",
+      "name": "Michael Brits",
+      "summary": "Head of Development | Tractor Outdoor",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michele-kausch-5bb98455",
+      "name": "Michele Kausch",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydell-seglie-a103a865",
+      "name": "Lydell Seglie",
+      "summary": "Director, Integration Projects & Services at Benchmark International\nSupervisor Engineering, Design & Drafting",
+      "location": "Sherwood Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mlungisi-nkala-61106281",
+      "name": "Mlungisi Nkala",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivan-keeley-3b628881",
+      "name": "Ivan Keeley",
+      "summary": "Business Unit Manager at AECI Mining Chemicals",
+      "location": "Pembury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-macdonald-86128386",
+      "name": "Charles Macdonald",
+      "summary": "SVP, Head of Operations & Support at Silver Holdings S.A.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-gingell-98592b88",
+      "name": "Rob Gingell",
+      "summary": "Rebel Safety Gear (Pty) Ltd",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christelene-govender-12898390",
+      "name": "christelene govender",
+      "summary": "Marketing Manager, Bsc.It graduate",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamara-lafley-834955a4",
+      "name": "Tamara Lafley",
+      "summary": "Director Total Rewards at Entrepreneurs' Organization",
+      "location": "Alexandria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugo-chandler-0b3879a5",
+      "name": "Hugo Chandler",
+      "summary": "Senior Portfolio Manager / Stockbroker at Investec",
+      "location": "Port Elizabeth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victor-helsio-godinho-matimele-571ba6a8",
+      "name": "Victor Helsio Godinho Matimele",
+      "summary": "Director de Unidade Técnica no Millennium bim",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-ono-322078127",
+      "name": "Nicole Ono",
+      "summary": "Executive & Operations Support Leader\nExpert in calendaring, workflow optimization, stakeholder communication, CRM/systems support, and strengthening communication and operational flow across teams.",
+      "location": "Draper"
+    },
+    {
+      "link": "https://www.linkedin.com/in/earl-owen-184439128",
+      "name": "Earl Owen",
+      "summary": "Qualified stockbroker, member of Johannesburg stock exchange",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-verhaeghe-102967137",
+      "name": "Ann Verhaeghe",
+      "summary": "Assistant Private Banking  at BNP Paribas Fortis",
+      "location": "Anzegem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jade-garth-grobbelaar-02242a140",
+      "name": "Jade Garth Grobbelaar",
+      "summary": "Operations manager at Naturesmart",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dillon-brown-758080150",
+      "name": "Dillon Brown",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-eksteen-045135151",
+      "name": "Michael Eksteen",
+      "summary": "Senior Infrastructure Consultant at CONSTOR SOLUTIONS LIMITED",
+      "location": "Slough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-labuschagne-bb9599179",
+      "name": "Kim Labuschagne",
+      "summary": "Exclusive OOH media owners for V&A Waterfront, Cape Town, South Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abongile-ntayiya-136b1a1a0",
+      "name": "Abongile Ntayiya",
+      "summary": "Programmatic DOOH Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-sewell-3832161a7",
+      "name": "Caroline Sewell",
+      "summary": null,
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-eksteen-1827a91b1",
+      "name": "Michael Eksteen",
+      "summary": "--",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjay-santbakshsing-b2887a217",
+      "name": "sanjay Santbakshsing",
+      "summary": "Regional MD Camusat East Africa and Indian Ocean at Camusat",
+      "location": "Nairobi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-silavwe-466086220",
+      "name": "Christopher Silavwe",
+      "summary": "Merchant Acquirer",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Murray McWilliams",
+      "link": "https://ca.linkedin.com/in/murray-mcwilliams-4abb2a79",
+      "summary": "--",
+      "location": "Canada"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-11-20T00:00:00Z"
+  }
+}

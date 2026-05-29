@@ -1,0 +1,623 @@
+{
+  "public_identifier": "aoibhin-lennon-9453b424",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/319f400c7379f66d93282d23e6fa363b",
+  "background_cover_image_url": null,
+  "first_name": "Aoibhin",
+  "last_name": "Lennon",
+  "full_name": "Aoibhin Lennon",
+  "follower_count": 1792,
+  "occupation": "Director at OMA",
+  "headline": "OMA (Outdoor Media Association) Director",
+  "summary": null,
+  "location_str": "Ireland",
+  "country": "IE",
+  "country_full_name": "Ireland",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "OMA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "The OMA is the representative body for the outdoor advertising industry on the island of Ireland, representing out of home (OOH) companies, promoting the benefits of the medium of outdoor, and ensuring high professional standards across the sector.",
+      "location": "Ireland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "company": "Spark Foundry, part of Core",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sparkfoundryireland",
+      "company_facebook_profile_url": null,
+      "title": "Business Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c065b70417d3b983439ed894510e9152"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "company": "Spark Foundry Ireland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sparkfoundryireland",
+      "company_facebook_profile_url": null,
+      "title": "Client Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c065b70417d3b983439ed894510e9152"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2017
+      },
+      "company": "IAPI - Institute of Advertising Practitioners in Ireland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/iapi",
+      "company_facebook_profile_url": null,
+      "title": "Board Member - Future Heads Representative",
+      "description": "The Future Heads leadership committee is made up of passionate individuals from our industry. They have made a commitment to actively contribute to the development and evolution of Future Heads.They share and motivate our future leaders to take part in the community.",
+      "location": "Ireland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/82833cdb5ae7c070811ae332af5c62ea"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "company": "EssenceMediacom Australia & New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/essencemediacom-australia",
+      "company_facebook_profile_url": null,
+      "title": "Implementation Planning & Investment Manager",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3a7e0e9ab820a6bbdda785cd23a09f85"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2012
+      },
+      "company": "Zenith",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/zenithinternational",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/01916a0cda5ad99ede55bc1ec9a6db32"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2010
+      },
+      "company": "Vizeum",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vizeum",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f45b486011a2cf5c7f6ad89ac5cb5b32"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2007
+      },
+      "company": "Promotional",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Staff",
+      "description": null,
+      "location": "Dublin",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Loreto Beaufort, Tallaght IT, Rathmines College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tullyemma",
+      "name": "Emma Tully",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antaineconway",
+      "name": "Antaine Conway",
+      "summary": "Deputy MD Spark Foundry Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-donnelly",
+      "name": "Ali Donnelly",
+      "summary": "Head of Digital at Spark Foundry Ireland",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesjimwood",
+      "name": "Jim Wood",
+      "summary": "Chartered Surveyor & Senior Real Estate Asset Manager",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gavino2",
+      "name": "Gavin O'Reilly",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aisling-meagher",
+      "name": "Aisling Meagher",
+      "summary": "Media Manager at Lidl Ireland & Lidl Northern Ireland",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmaldaly",
+      "name": "Emma Daly",
+      "summary": "Business Director at Starcom Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elainemcd",
+      "name": "Elaine O'Sullivan",
+      "summary": "Career Break",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-corbett-ie",
+      "name": "Liam Corbett",
+      "summary": "Media Strategy Director at Core",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/francois-vieu",
+      "name": "François Vieu",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemma-morrison-",
+      "name": "Gemma Morrison",
+      "summary": "Business Director at PHD Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-mcgrane05",
+      "name": "Rachel McGrane",
+      "summary": "Global Business Solutions Lead, International Growth Team At Google",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/conormurphyie",
+      "name": "Conor Murphy",
+      "summary": "Business Director at PHD Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachelfields1",
+      "name": "Rachel Fields",
+      "summary": "Account Manager at Starcom Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoffjlyons",
+      "name": "Geoff Lyons",
+      "summary": "CEO at PML Group",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachelmccloskey1",
+      "name": "Rachel McCloskey",
+      "summary": "Senior Client Manager at Spark Foundry",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dara-keenan-4b4487200",
+      "name": "Dara Keenan",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanne-grant-cdir-fiod-a643221a",
+      "name": "Joanne Grant CDir FIoD",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/colinleahy",
+      "name": "Colin Leahy",
+      "summary": "Managing Director at Global in Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roisinfield",
+      "name": "Róisín Field",
+      "summary": "Head of Luxury Spirits, Marketing. Diageo Ireland",
+      "location": "Dublin 6"
+    },
+    {
+      "link": "https://www.linkedin.com/in/obrienelizabeth",
+      "name": "Liz O'Brien",
+      "summary": "Business & Planning Director - MEDIA @ dentsu Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-gildea-7b99273",
+      "name": "John Gildea",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justine-whitby-a757007",
+      "name": "Justine Whitby",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-sinclair-2721439",
+      "name": "Andrew Sinclair",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aileen-mcdaid-62224011",
+      "name": "Aileen McDaid",
+      "summary": "Director of Performance, Core Performance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-walsh-44791612",
+      "name": "Anna Walsh",
+      "summary": "Director at Theatre Forum",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/meabh-connellan-96806317",
+      "name": "Meabh Connellan",
+      "summary": "Digital Board Director: Spark Foundry Ireland & Board Director: Make-A-Wish Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gavin-deans-2506b117",
+      "name": "Gavin Deans",
+      "summary": "Commercial Director RTÉ",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/plain-english-campaign-28433819",
+      "name": "Plain English Campaign",
+      "summary": "Owner, Plain English Campaign",
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-butterly-14a0451a",
+      "name": "Claire Butterly",
+      "summary": "Chief Operating Officer at Omnicom Media Group, Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maura-ashe-4765521a",
+      "name": "Maura Ashe",
+      "summary": "Managing Partner at UM Ireland, Part of IPG Mediabrands, and IAPI Non Executive Board Member.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-hughes-5774701b",
+      "name": "Caroline Hughes",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-marie-lenihan-448b4a25",
+      "name": "Ann-Marie Lenihan",
+      "summary": "CEO at NewsBrands Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-o-brien-77815926",
+      "name": "Rachel O'Brien",
+      "summary": "Group Business Director at Dentsu",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-doyle-74b3a628",
+      "name": "Anna Doyle",
+      "summary": "Client Director at Starcom Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-rea-25b6932a",
+      "name": "Sean Rea",
+      "summary": "Strategic Agency Partner Manager UK/I",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-o-doherty-03101a31",
+      "name": "Emma O'Doherty",
+      "summary": "Advertising & Media is my gig.\nHead of Client Leadership, WPP Media Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-mcconkey-10685131",
+      "name": "Greg McConkey",
+      "summary": "Business Director at Zenith Ireland",
+      "location": "Dublin 6"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eimear-murphy-54085a34",
+      "name": "Eimear Murphy",
+      "summary": "Managing Director - Core Exchange",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-o-kane",
+      "name": "Dave O'Kane",
+      "summary": "Personalised Comms Lead at Tesco Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-joyce-kearns-50533b36",
+      "name": "Catherine Joyce (Kearns)",
+      "summary": "Student of Hibernia College - PME in Primary Education 👩🏫",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-ahlstrom-386a4438",
+      "name": "Jane Ahlstrom",
+      "summary": "Client Director at Mindshare Ireland",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-king-a8615239",
+      "name": "Jessica King",
+      "summary": "Director of Client Operations at Spark Foundry",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgie-bates-a8163040",
+      "name": "Georgie Bates",
+      "summary": "Digital Board Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashling-mcgivern-917b5552",
+      "name": "Ashling McGivern",
+      "summary": "Digital Account Director at Mindshare Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemma-gilmore-1b3b4b54",
+      "name": "Gemma Gilmore",
+      "summary": "Director of Growth Strategy and Client Partnership at Spark Foundry, part of Core. Marketing Society of Ireland, Council Member",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynn-callan-73347783",
+      "name": "Lynn Callan",
+      "summary": "Business Director at Spark Foundry, Part of Core",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aoife-joyce-1a174390",
+      "name": "Aoife Joyce",
+      "summary": "Business Operations Director at OMD Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-brown-3b797894",
+      "name": "Gary Brown",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-enright-5ba4449b",
+      "name": "Paul Enright",
+      "summary": "Business Director at Mindshare Ireland",
+      "location": "Dublin 14"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-gallen-769134b5",
+      "name": "Laura Gallen",
+      "summary": "I help clients leverage the power of LinkedIn Sales Solutions to grow their businesses and build stronger relationships.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugh-gleeson-611922109",
+      "name": "Hugh Gleeson",
+      "summary": "Agency Partner Manager UK/I @ TikTok | Helping ambitious agencies across UK&I grow their clients' business through TikTok 🚀",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-lynskey-480989115",
+      "name": "Jack Lynskey",
+      "summary": "Digital marketer and creative.",
+      "location": "Lewisham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-sweeney-919b79115",
+      "name": "Karen Sweeney",
+      "summary": "Senior Client Manager @ Spark Foundry Ireland  | Digital Marketing",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mairead-kearns-35870514a",
+      "name": "Mairead Kearns",
+      "summary": "Head Of Sales at Independent Newspapers",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-mcguinness-1b7630173",
+      "name": "Hannah McGuinness",
+      "summary": null,
+      "location": "Dublin"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Delighted to share this from the Outdoor Media Association Ireland. A real pleasure for us to support the Brand or Product Development Research…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_delighted-to-share-this-from-the-outdoor-activity-7404195278775480320-Jutv",
+      "activity_status": null
+    },
+    {
+      "title": "Great to see more coverage of Ian McShane’s appointment as Chairman of the OMA Board. Ian’s proven leadership and deep experience will strengthen…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_ian-mcshane-named-as-chair-of-the-outdoor-activity-7379797534623289345-3fFm",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic morning thank you Marketing Institute Ireland",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_fantastic-morning-thank-you-marketing-institute-activity-7254743964094795776-6Ccn",
+      "activity_status": null
+    },
+    {
+      "title": "I was thrilled to speak to The Currency about the significance of out-of-home advertising, underlining how attention and trust drive its impact. This…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_people-are-out-of-home-more-so-theyre-activity-7214961830643777537-e2ng",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting times for Outdoor Media Association Ireland & JNOR 🎉 https://lnkd.in/gz6yJW-J",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_ian-mcshane-joins-joint-national-outdoor-activity-7209852467474309122-598v",
+      "activity_status": null
+    },
+    {
+      "title": "Its such exciting time for the OOH industry! 🌟 The latest report highlights continued strong growth for out-of-home advertising, showcasing its…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_strong-growthcontinues-forooh-activity-7219987283695841280-w31N",
+      "activity_status": null
+    },
+    {
+      "title": "🎙️ I had a fantastic sit-down with Conor Byrne discussing Evolution of Established Media🌟 on That's What I Call Marketing Podcast🎙️ Listen on the…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_s3-ep18-a-fresh-take-on-traditional-media-activity-7193561860963475456-AA1O",
+      "activity_status": null
+    },
+    {
+      "title": "I’m very excited to share that I’m starting a new position today as Director of the OMA! https://lnkd.in/e3v5-Rxf",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_im-very-excited-to-share-that-im-starting-activity-7150175202730024960-TR8i",
+      "activity_status": null
+    },
+    {
+      "title": "Gerry Lennon",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_the-last-of-the-big-newspaper-beasts-golden-activity-7081733054741782528-Rcjw",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_hiring-media-communication-activity-6891692759938347008-d4Eg",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_love-irish-food-launched-a-new-award-for-activity-6684815465111449600-Ln98",
+      "activity_status": null
+    },
+    {
+      "title": "The HUGS Factor is back this year (virtually) On the 26th of March. H.U.G.S (Help Give Us Smiles) works with an orphanage in Kenya raising much…",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_the-hugs-factor-2021-fri-26th-march-zoom-activity-6772476265195720704-8NrS",
+      "activity_status": null
+    },
+    {
+      "title": "The HUGS Factor tonight from 6pm in TWENTY TWO DUBLIN, SOUTH ANNE ST... https://lnkd.in/ggUuGuM",
+      "link": "https://www.linkedin.com/posts/aoibhin-lennon-9453b424_the-hugs-factor-tonight-from-6pm-in-twenty-activity-6397747811408056320-ezOr",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "aoibhin lennon lennon",
+      "link": "https://ie.linkedin.com/in/aoibhin-lennon-lennon-b9055959",
+      "summary": "--",
+      "location": "Ireland"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-03T00:00:00Z"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "public_identifier": "jerôme-schalkwijk-117b7455",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5ec9855bc0b740fc18c7ff6398da9612",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Jerôme",
+  "last_name": "Schalkwijk",
+  "full_name": "Jerôme Schalkwijk",
+  "follower_count": 585,
+  "occupation": "Global COO, Audience Measurement at Ipsos",
+  "headline": null,
+  "summary": null,
+  "location_str": "Greater Cambridge Area",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "Cambridge",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Global COO, Audience Measurement",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Intrasonics, an Ipsos Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intrasonics-ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director and Chief Technology Officer",
+      "description": null,
+      "location": "Cambridge, England, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Intrasonics Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intrasonics-ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Chief Technology Officer",
+      "description": null,
+      "location": "Cambridge, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "field_of_study": "Atmospheric Physics",
+      "degree_name": "Doctor of Philosophy (Ph.D.)",
+      "school": "Delft University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tudelft",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "field_of_study": "Applied Physics",
+      "degree_name": "Master of Science (MSc)",
+      "school": "Delft University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tudelft",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "GPA 9.4/10",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "field_of_study": "Applied Physics",
+      "degree_name": "Bachelor of Science (BSc)",
+      "school": "Delft University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tudelft",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "GPA 8.7/10",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2005
+      },
+      "field_of_study": null,
+      "degree_name": "TVWO",
+      "school": "Anna van Rijn College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Dutch"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Dutch",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Predictability of dry convective boundary layers: an LES study",
+      "publisher": "Journal of the Atmospheric Scienes",
+      "published_on": {
+        "day": 15,
+        "month": 4,
+        "year": 2016
+      },
+      "description": "The predictability horizon of convective boundary layers is investigated in this study. Large-eddy simulation (LES) and direct numerical simulation (DNS) techniques are employed to probe the limits to predictability of the convective boundary layer.",
+      "url": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0206.1"
+    },
+    {
+      "name": "An Investigation of the Eddy-Covariance Flux Imbalance in a Year-Long Large-Eddy Simulation of the Weather at Cabauw",
+      "publisher": "Boundary-Layer Meteorology",
+      "published_on": {
+        "day": 26,
+        "month": 3,
+        "year": 2016
+      },
+      "description": "The low-frequency contribution to the systematic and random sampling errors in single-tower eddy-covariance flux measurements is investigated using large-eddy simulation (LES). We use a continuous LES integration that covers a full year of realistic weather conditions over Cabauw, the Netherlands, and emulate eddy-covariance measurements.",
+      "url": "http://link.springer.com/article/10.1007/s10546-016-0138-9"
+    },
+    {
+      "name": "Weather Forecasting Using GPU-Based Large-Eddy Simulations",
+      "publisher": "Bulletin of the American Meteorological Society",
+      "published_on": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "description": "Cover article. Since the advent of computers midway through the twentieth century, computational resources have increased exponentially. It is likely they will continue to do so, especially when accounting for recent trends in multicore processors. History has shown that such an increase tends to directly lead to weather and climate models that readily exploit the extra resources, improving model quality and resolution. We show that Large-Eddy Simulation (LES) models that utilize modern, accelerated (e.g., by GPU or coprocessor), parallel hardware systems can now provide turbulence-resolving numerical weather forecasts over a region the size of the Netherlands at 100-m resolution. This approach has the potential to speed the development of turbulence-resolving numerical weather prediction models.",
+      "url": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00114.1"
+    },
+    {
+      "name": "A Year-Long Large-Eddy Simulation of the Weather over Cabauw: An Overview",
+      "publisher": "Monthly Weather Review",
+      "published_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "description": "Results are presented of two large-eddy simulation (LES) runs of the entire year 2012 centered at the Cabauw observational supersite in the Netherlands. The LES is coupled to a regional weather model that provides the large-scale information. The simulations provide three-dimensional continuous time series of LES-generated turbulence and clouds, which can be compared in detail to the extensive observational dataset of Cabauw. The LES dataset is available from the authors on request.",
+      "url": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00293.1"
+    },
+    {
+      "name": "Simple Solutions to Equilibrium Cumulus Regimes in the Convective Boundary Layer",
+      "publisher": "Journal of the Atmospheric Sciences",
+      "published_on": {
+        "day": 15,
+        "month": 7,
+        "year": 2013
+      },
+      "description": "A modeling framework is developed which extends the mixed layer model to steady state cumulus convection. The aim is to consider the simplest model which retains the essential behavior of cumulus-capped layers. The presented framework allows for the evaluation of stationary states dependent on external parameters. These states are completely independent of the initial conditions, and therefore represent an asymptote which might help deepen our understanding of the dependence of the cloudy boundary layer on external forcings. Formulating separate equations for the lifting condensation level and the mixed layer height, the dry and wet energetics can be distinguished. Comparing the dry and wet buoyancy effects, regimes are identified which can support steady-state cumulus clouds, and regimes which cannot. The dominant mechanisms are identified which govern the creation and eventual depth of the cloud layer. Model predictions are tested by comparison with a large number of independent Large-Eddy Simulations, for varying surface and large-scale conditions, and are found to be in good agreement.",
+      "url": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-12-0312.1?af=R"
+    },
+    {
+      "name": "High performance simulations of turbulent clouds on a desktop PC: exploiting the GPU",
+      "publisher": "Bulletin of the American Meteorological Society",
+      "published_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "description": "Cover article. The article describes the advantages and disadvantages of using GPU technologies with CUDA for scientific numerical experimentation in the field of atmospheric physics.",
+      "url": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-11-00059.1"
+    }
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Best Graduate of the Year",
+      "issuer": "Anna van Rijn College, Nieuwegein",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2005
+      },
+      "description": "Award for the best graduate of the \"VWO\" secondary school track at the Anna van Rijn College, Nieuwegein."
+    },
+    {
+      "title": "Best Master's Thesis of the department of Multi-Scale Physics 2010",
+      "issuer": "VerDELFT (Assocation of the Delft Multi-Scale Physics department)",
+      "issued_on": null,
+      "description": null
+    },
+    {
+      "title": "Outstanding Oral Student Presentation Award",
+      "issuer": "American Meteorological Society",
+      "issued_on": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "description": "Award for the best student presentations at the Boundary Layers & Turbulence Conference of the American Meteorological Society, Boston, July 2012"
+    },
+    {
+      "title": "Best Graduate of the Delft University of Technology 2010-2011",
+      "issuer": "Delft University of Technology",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "description": "Cross-faculty award for the best graduate of the nominees the individual faculties of the TU Delft put forward."
+    },
+    {
+      "title": "Best Graduate of Applied Physics 2010-2011",
+      "issuer": "Faculty of Applied Physics, Delft University of Technology",
+      "issued_on": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "description": "Single-faculty award for the best graduate within a single academic year of the faculty of Applied Physics. Also immediately implies nomination for the cross-faculty award."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-20T00:00:00Z"
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "public_identifier": "chunyatchanandy",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/fbf2c6aa84f8d99a6e87d6f7f796f0b9",
+  "background_cover_image_url": null,
+  "first_name": "Chun Yat (Andy)",
+  "last_name": "CHAN",
+  "full_name": "Chun Yat (Andy) CHAN",
+  "follower_count": 786,
+  "occupation": "Data Science & AI Solutions Architect at WeMine",
+  "headline": "Private Equity & Private Credit",
+  "summary": "Experienced investment professional with 6 years in private credit, private equity, and venture capital. Skilled in credit analysis, asset enforcement, capital raising, and operational restructuring. Proven track record in managing distressed assets and leading successful business turnarounds. Strong background in financial modeling, portfolio surveillance, and strategic investment across diverse sectors including mining, real estate, healthcare, and technology. Fluent in English, Mandarin, and Cantonese, with a global perspective and a commitment to driving value creation and organizational transformation.",
+  "location_str": "Hong Kong SAR",
+  "country": "HK",
+  "country_full_name": "Hong Kong",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "WeMine",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wemine",
+      "company_facebook_profile_url": null,
+      "title": "Data Science & AI Solutions Architect",
+      "description": null,
+      "location": "香港特別行政區",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/07e672be2ab9222292d35781a7341c65"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2026
+      },
+      "company": "Massachusetts Institute of Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mit",
+      "company_facebook_profile_url": null,
+      "title": "Professional Training in Applied Agentic AI for Organizational Transformation",
+      "description": "• Architect intelligent agent solutions that autonomously reason, execute, and adapt—transforming manual multi-step processes across financial modeling, portfolio surveillance, and operational reporting into self-running workflows with built-in error handling and human escalation",
+      "location": "Hong Kong SAR",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35d64df1cce08965de8b857ecc88d2ff"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2025
+      },
+      "company": "Rajadamnern Stadium",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rajadamnern-stadium",
+      "company_facebook_profile_url": null,
+      "title": "Kaewsamrit Gym Muay Thai Professional Fighter",
+      "description": "Represented Kaewsamrit Gym to compete in Rajadamnern Stadium, the world’s most prestigious and historic Muay Thai stadium",
+      "location": "Bangkok City, 泰國",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f56454d7490cf69f0172481704c845c2"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "TransAsia Private Capital Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/transasia-private-capital-ltd-",
+      "company_facebook_profile_url": null,
+      "title": "Investment Manager, Private Credit and Structured Capital",
+      "description": "Providing private capital to Asian mid-sized companies ranging from secured trade loans, asset-backed bridge financing, and long-term structured loans.\n\nKey duties include presenting business plans to the investment committee for funding approvals, developing and tracking recovery plans for complex international debts involving multiple lenders, and creating monitoring systems for portfolio companies",
+      "location": "香港特別行政區",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a7e8bca3150206a0c0679dc7e1251304"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Cachet Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cachetgroup88",
+      "company_facebook_profile_url": null,
+      "title": "Investment Associate, Private Equity and Venture Capital",
+      "description": null,
+      "location": "Hong Kong SAR",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35f5bd4534e0eb6c46c01504b4090abf"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Impression Investment Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/impression-investment-limited",
+      "company_facebook_profile_url": null,
+      "title": "Investment Associate, Private Equity and Venture Capital",
+      "description": "Impression Investment Limited is a global investment management and advisory firm that sources and manages select investment opportunities across the public and private markets.\n\nOur private equity & venture capital investment team targets on opportunities where we can take an active role in helping innovative companies grow their core businesses and launch new initiatives.",
+      "location": "Hong Kong",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4e21ae01a20e96df7e05b0f46db8f31e"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "ACE & Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ace-and-company",
+      "company_facebook_profile_url": null,
+      "title": "Investment Analyst, Private Equity and Venture Capital",
+      "description": "ACE & Company is a global investment management group specialized in direct investments for private investors. Uniquely positioned to understand the needs and challenges facing private investors today, ACE's flexible platform offers diversified portfolios across the stages of the investment spectrum from early, to growth, to mature.",
+      "location": "Hong Kong",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/58f4bf9dc86f22b4728ac60f5334f1c8"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "CITIC Securities Company Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/citic-securities",
+      "company_facebook_profile_url": null,
+      "title": "Investment Banking Division, International Mergers & Acquisitions",
+      "description": "CITIC Securities is China's largest investment bank.",
+      "location": "Beijing City, China",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/74fa409eb45e0db74d528f304d46963a"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2026
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Massachusetts Institute of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/mit",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35d64df1cce08965de8b857ecc88d2ff",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": "MSc Finance",
+      "degree_name": null,
+      "school": "University of Warwick - Warwick Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/warwick-business-school",
+      "school_facebook_profile_url": null,
+      "description": "Modules (Distinction): Financial Statement Analysis (top 1%), Quantitative Finance (top 5%), Investment Management (top 5%), Mergers and Acquisitions (top 5%), Empirical Finance (top 10%), Behavioral Finance (top 10%) Dissertation Topic: Law and Finance",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9dd615eee9bc6867e624ea95f506be0f",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor of Science (B.Sc.), Global Economics and Finance",
+      "school": "The Chinese University of Hong Kong (CUHK) Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cuhkbusinessschool",
+      "school_facebook_profile_url": null,
+      "description": "Dean's List of New Asia College (top 10%, 2013-2014 & 2016-2017) Dean's List of the Faculty of Social Science (top 10%, 2013-2014 & 2016-2017) Awards: TD Scholarship, Mrs. Chow Wen Hsien Scholarship, Reaching Out Award University Track Team Member: Achieved multiple awards in regional and inter-university competitions",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d2f6110f305e432685d67247905b5a93",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": "Exchange Program",
+      "school": "University of Economics, Prague",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vysok%C3%A1-%C5%A1kola-ekonomick%C3%A1-v-praze",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/55042ad5b4a49a7a677a013837184c3a",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": null,
+      "degree_name": "Exchange Program",
+      "school": "英國牛津大學",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/oxforduni",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1a1513f65c4b03deabab55885214ad03",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": null,
+      "degree_name": "High School",
+      "school": "Ruthin School | United Kingdom",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "The ISF Academy",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/the-isf-academy",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c7688b0c83f6f1f6de83be9561fcad57",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor of Science (B.Sc.), Global Economics and Finance",
+      "school": "CUHK Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cuhkbusinessschool",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": "Exchange Program",
+      "school": "Prague University of Economics and Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vysoká-škola-ekonomická-v-praze",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "field_of_study": null,
+      "degree_name": "Exchange Program",
+      "school": "University of Oxford",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/oxforduni",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2026
+      },
+      "ends_at": null,
+      "name": "Certificate of Completion: Al Fluency Framework & Foundations",
+      "license_number": "moe7u88fnque",
+      "display_source": null,
+      "authority": "Anthropic",
+      "url": "https://verify.skilljar.com/c/moe7u88fnque"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2026
+      },
+      "ends_at": null,
+      "name": "Claude Code in Action",
+      "license_number": "qikur29eyjfz",
+      "display_source": null,
+      "authority": "Anthropic",
+      "url": "https://verify.skilljar.com/c/qikur29eyjfz"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2026
+      },
+      "ends_at": null,
+      "name": "Applied Agentic AI for Organizational Transformation",
+      "license_number": "175161740",
+      "display_source": null,
+      "authority": "MIT Professional Education",
+      "url": "https://www.credential.net/3c766ca4-4ec6-4b02-9b3d-eb9c091677ea"
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/khchau",
+      "name": "Brian Chau",
+      "summary": "Co-Head of Equity-Linked Asia at UBS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/weishunzhu",
+      "name": "Wilson Zhu",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-tu",
+      "name": "Neil Tu",
+      "summary": "Equty Investment at FountainCap",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sang-yoon-park-68192a4a",
+      "name": "Sang Yoon Park",
+      "summary": "Assistant Vice President, Acquisitions at Heitman",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-chow-cpa-cfa-64889081",
+      "name": "Karen Chow CPA,CFA",
+      "summary": "Fund Finance | Private Equity | Venture Capital | Banking",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ye-lin-caia-8780a321",
+      "name": "Ye Lin, CAIA",
+      "summary": "Investment Associate at HarbourVest Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/keithcooksey",
+      "name": "Keith Cooksey",
+      "summary": "Director, Private Equity Solutions | B2B Sales | Expertise in building Private Equity Client Service Models and Optimizing Sales Channels | Championing the Customer Experience",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alfonsodipasquale",
+      "name": "Alfonso DI PASQUALE",
+      "summary": "CEO at Neosens GmbH",
+      "location": "Pfaffenhofen an der Ilm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cheryl-hsu-1621a77",
+      "name": "Cheryl Hsu",
+      "summary": "Vice President at CLSA Capital Partners",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-tam-53161211",
+      "name": "Angela Tam",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-wang-62a46a19",
+      "name": "Emma Wang",
+      "summary": "General Manager and Chief Executive of East West Bank Hong Kong",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maggie-so-9032b721",
+      "name": "Maggie So",
+      "summary": "Private Equity | CPA",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-chan-93599435",
+      "name": "Katie Chan",
+      "summary": "Director, Wealth Management Capital Markets",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yana-tong-cfa-cpa-5a25ba37",
+      "name": "Yana Tong CFA CPA",
+      "summary": null,
+      "location": "Hong Kong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurence-wong-79701a55",
+      "name": "Laurence Wong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sammie-lau-sumyi",
+      "name": "Sammie Lau",
+      "summary": "Client Relations & Capital Raising at EQT Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabrina-hq-sun-cfa-6b597760",
+      "name": "Sabrina HQ Sun, CFA",
+      "summary": "Fixed Income Investment at China Huarong International Holdings Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ceerleen",
+      "name": "Celine C.",
+      "summary": "Forbes 30 Under 30 | Investment Management | Real Estate Construction and Development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gin-cheng-cpa-4313826b",
+      "name": "Gin Cheng, CPA",
+      "summary": "Senior Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jess-fung-4a592a183",
+      "name": "Jess Fung",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Toby Belfield\n\nChun Yat (usually known as Andy) was an excellent student at High School - achieving superb results, particularly in Mathematics and Economics. He was a quiet student - but extremely hardworking and very ambitious, with a high ability and desire to understand every aspect of the courses that he had chosen to take.\n\nI remember Andy being very focussed and committed with a strong determination. Always diligent and reliable.\n\nAndy was always keen to help others - he held a strong sense of community.\n\nI unreservedly recommend Andy - he will be an asset to any company/organisation.",
+    "Katherine Goodey\n\nEfficient, hard working and enthusiastic are the words which come to mind when I think about Andy. \nI taught Chun Yat (Andy) English Language at school in the UK and he was a really good student and a natural linguist who was a pleasure to teach. I had no doubt that he would make a great success of university and build a career to be proud of. It’s a pleasure following your successes Andy.",
+    "Katherine Goodey\n\nEfficient, hard working and enthusiastic are the words which come to mind when I think about Andy. I taught Chun Yat (Andy) English Language at school in the UK and he was a really good student and a natural linguist who was a pleasure to teach. I had no doubt that he would make a great success of university and build a career to be proud of. Its a pleasure following your successes Andy."
+  ],
+  "activities": [
+    {
+      "title": "The founder of fiber optics: Charles Kao The rapid transmission of signals over long distances is fundamental to the flow of information in our…",
+      "link": "https://www.linkedin.com/posts/nobelprize_worldtelecommunicationday-activity-7197098532070195201-8q9l",
+      "activity_status": null
+    },
+    {
+      "title": "I'm delighted to announce that Danone has acquired The Akkermansia Company, an important step in our mission to bring health through food to as many…",
+      "link": "https://www.linkedin.com/posts/madjid-messad-a4446a5_im-delighted-to-announce-that-danone-has-activity-7382669375306326016-yQLA",
+      "activity_status": null
+    },
+    {
+      "title": "Our Executive Vice President, Wendy Shi, was featured in #TheWorldfolio, discussing Agora Hospitality Group’s investment strategy focusing on…",
+      "link": "https://www.linkedin.com/posts/agorahospitalities_agora-hospitality-group-expands-investment-activity-7382605616307101696-GZlP",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to speak as a panelist for \"𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐉𝐨𝐢𝐧𝐭 𝐒𝐞𝐦𝐢𝐧𝐚𝐫 2025: 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐞𝐠𝐚𝐥 𝐀𝐟𝐟𝐚𝐢𝐫𝐬…",
+      "link": "https://www.linkedin.com/posts/thomas-kho-ba38971a6_honoured-to-speak-as-a-panelist-for-𝐈𝐧-activity-7379203896587509760-zsJp",
+      "activity_status": null
+    },
+    {
+      "title": "THE SPIRIT OF MUAY THAI: FROM THE RING TO LIFE’S GUIDANCE Thank you, Robin Wong (MSc Ind.Eng) for having us on your podcast…",
+      "link": "https://www.linkedin.com/posts/chunyatchanandy_泰出夢想從擂台到人生的啟發-activity-7377332196233326592-oV07",
+      "activity_status": null
+    },
+    {
+      "title": "Coming Soon A Podcast That Packs a Punch! 💥 What does it take to transform your life—physically, mentally, and professionally? 🎙️ In our upcoming…",
+      "link": "https://www.linkedin.com/posts/robin-wong-coach_muaythai-personaltransformation-podcastalert-activity-7376163418573250561-H7gK",
+      "activity_status": null
+    },
+    {
+      "title": "For Mrs Brodzinska’s Oracy Project, Oliver W answered the question ‘How do you think the evolution of social media platforms has impacted (either…",
+      "link": "https://www.linkedin.com/posts/ruthinschool_for-mrs-brodzinskas-oracy-project-oliver-activity-7376250113532252160-nAiE",
+      "activity_status": null
+    },
+    {
+      "title": "Having worked at Chamberlain Education for nearly 20 years, this journey has been incredibly meaningful to me. Every moment and every memory has left…",
+      "link": "https://www.linkedin.com/posts/connie-chan-2560aa155_having-worked-at-chamberlain-education-for-activity-7366451604851478529-SHsy",
+      "activity_status": null
+    },
+    {
+      "title": "There must be something in the water at Ruthin School… This year, we have three sets of twins who have all enjoyed great success this GCSE Results…",
+      "link": "https://www.linkedin.com/posts/ruthinschool_there-must-be-something-in-the-water-at-ruthin-activity-7364280287754612738-Wx_v",
+      "activity_status": null
+    },
+    {
+      "title": "27 days to go. In less than a month, I’ll be on a flight to the UK to start my MSc in Business & Finance at the University of Warwick - Warwick…",
+      "link": "https://www.linkedin.com/posts/saniyasheth_mscfinance-warwickbusinessschool-newbeginnings-activity-7359455884114038784-1Aku",
+      "activity_status": null
+    },
+    {
+      "title": "Learn beyond the classroom at Ruthin School 🏫 Our Electives programme gives students the opportunity to develop their character and acquire skills…",
+      "link": "https://www.linkedin.com/posts/ruthinschool_ruthinschool-privateschoollife-boardingschooluk-activity-7271977980866748418-8Hil",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’m starting a new position as Investment Banking Associate at J.P. Morgan!",
+      "link": "https://www.linkedin.com/posts/matthew-mak-81dsa_im-happy-to-share-that-im-starting-a-new-activity-7252603425501110274-i2Lh",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-26T00:00:00Z"
+  }
+}

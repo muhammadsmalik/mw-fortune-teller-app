@@ -1,0 +1,487 @@
+{
+  "public_identifier": "mkuhnel",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Mónica",
+  "last_name": "Kühnel Giménez",
+  "full_name": "Mónica Kühnel Giménez",
+  "follower_count": 1444,
+  "occupation": "Commercial Director at Clear Channel España",
+  "headline": "Directora Comercial Clear Channel España",
+  "summary": null,
+  "location_str": "Greater Madrid Metropolitan Area",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Clear Channel España",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-espa%C3%B1a",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": "Commercial Director",
+      "location": "Madrid Area, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/583bec72a39a9dd7c1ec971dfd51f2ae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "company": "Clear Channel España",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-espa%C3%B1a",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales and Special Projects",
+      "description": null,
+      "location": "Madrid Area, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/583bec72a39a9dd7c1ec971dfd51f2ae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2012
+      },
+      "company": "Kühnel Escuela de Negocios",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/k%C3%BChnel-escuela-de-negocios",
+      "company_facebook_profile_url": null,
+      "title": "Madrid Area Sales Director",
+      "description": null,
+      "location": "Madrid, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efbaae929f7df8ad3808674564266615"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2003
+      },
+      "company": "Antena 3",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/antena-3",
+      "company_facebook_profile_url": null,
+      "title": "National Sales Team Director",
+      "description": null,
+      "location": "Barcelona and Madrid,  Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/85b1da26fea4957c1fcd9358e60dbc7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 1995
+      },
+      "company": "Kühnel Escuela de Negocios",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/k%C3%BChnel-escuela-de-negocios",
+      "company_facebook_profile_url": null,
+      "title": "Sales And Marketing Specialist",
+      "description": null,
+      "location": "Zaragoza, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efbaae929f7df8ad3808674564266615"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": "Digital Marketing",
+      "degree_name": "DIBEX - Digital Business Executive Program",
+      "school": "ISDI",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/isdi",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Media M.B.A",
+      "school": "Facultad de Ciencias de la Comunicación. Universidad Ramón LLull",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1987
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor's degree in Business Administration and M.B.A",
+      "school": "Esade",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/esade",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "ISDI",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/isdi",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "German",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/aurorasp",
+      "name": "Aurora Sánchez Pedrero",
+      "summary": "Clear Channel España•635 followers",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianistaszaragoza",
+      "name": "Marianistas Zaragoza",
+      "summary": "Alumni",
+      "location": "Zaragoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonard-pera",
+      "name": "Leonard Pera",
+      "summary": "CEO. Open-Ideas Digitalización & Marketing",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlosjodar",
+      "name": "Carlos Jódar Góngora",
+      "summary": "Head of Innovation & Create en Clear Channel España",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melaniediazvalladares",
+      "name": "Melanie Díaz Valladares",
+      "summary": "Master in Marketing & Sales Management at EAE Business School",
+      "location": "Orlando"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rubenpiza",
+      "name": "Rubén Pizá",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rsf6",
+      "name": "Rafael Sáiz Fernández",
+      "summary": "Manager de Marketing Digital y Call Center @ Altamira Asset Management | Especialista en Omnichannel, Performance y eCommerce | Integración Call Center & Ecosistema Digital | CRO y Paid Media.",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javierbuendiasierra",
+      "name": "Javier Buendía Sierra",
+      "summary": "Director Comercial en Mediapro Brands&Xperiences",
+      "location": "Zaragoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josu-aurrekoetxea",
+      "name": "Josu Aurrekoetxea",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/urtemitschunas",
+      "name": "Urte Mitschunas",
+      "summary": "Senior Media Buyer with extensive experience in digital marketing",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/soledadtorresjordan",
+      "name": "Soledad Torres Jordán",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jwholland",
+      "name": "John William Holland",
+      "summary": "Managing Director",
+      "location": "Lepe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewstevens2",
+      "name": "Andy Stevens",
+      "summary": "Chief Data Officer at Clear Channel International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/inesimpossibleisnothing",
+      "name": "Inés Armendáriz Vergarajáuregui",
+      "summary": "International Sales Director at Perion (formerly Hivestack)",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/federicopareja",
+      "name": "Federico Pareja L.",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-sancho-ma%25C3%25B1as-40b83131",
+      "name": "Luis Sancho Mañas",
+      "summary": "Co-Founder & Director at Urban Service Point - USP | CCO at Concoris",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedrofsanz",
+      "name": "Pedro Fernández Sanz",
+      "summary": "Director Marketing y Producto en Clear Channel",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordi-s%25C3%25A1ez-camacho-2288a52a",
+      "name": "Jordi Sáez Camacho",
+      "summary": "CEO at Clear Channel Spain",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nacho-espadas-de-la-cruz-744aa25",
+      "name": "Nacho Espadas de la Cruz",
+      "summary": "Marketing at The Brand Brothers",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatriz-asensio-tomico-3920336",
+      "name": "Beatriz Asensio Tomico",
+      "summary": "Ejecutiva Comercial Movistar+ / CTV",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentin-prieto-l",
+      "name": "Valentin Prieto",
+      "summary": "International Sales | Business Director EMEA",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pauljamesdelaney",
+      "name": "Paul Delaney",
+      "summary": "Director, Content Ranked | Crecimiento de negocios educativos mediante SEO, ventas y marketing | Especialista en educación internacional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaime-linaza-la-calle-04235110",
+      "name": "JAIME LINAZA LA CALLE",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angel-baturone-06204811",
+      "name": "Angel Baturone",
+      "summary": "Responsable Área",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-roger-782a9a16",
+      "name": "Guillermo Roger",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/asier-jimenez-a7416617",
+      "name": "asier jimenez",
+      "summary": null,
+      "location": "Bilbao"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michele-momigliano-0b745620",
+      "name": "Michele Momigliano",
+      "summary": "Area Sales Director",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisa-de-toro-27679524",
+      "name": "Elisa de Toro",
+      "summary": null,
+      "location": "Rivas-Vaciamadrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesus-sanjuan-51384828",
+      "name": "Jesus Sanjuan",
+      "summary": "Directivo Senior | Desarrollo de Negocio, Operaciones y Crecimiento Empresarial\nGestión de P&L | Expansión Territorial | Grandes Cuentas y Concesiones",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatriz-n%25C3%25A3%25C2%25BA%25C3%25A3%25C2%25B1ez-molina-58616634",
+      "name": "Beatriz Núñez Molina",
+      "summary": "Responsable Grandes Cuentas Nacional en JCDecaux España\n- Estrategia Comercial Transversal.",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-gadea-76870236",
+      "name": "Mario Gadea",
+      "summary": "DIRECTOR DE OPERACIONES, PROJECT MANAGER",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monica-fernandez-rodriguez-22584743",
+      "name": "MONICA FERNANDEZ  RODRIGUEZ",
+      "summary": "Clear Channel España",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-segrave-28b6744b",
+      "name": "Alice Segrave",
+      "summary": "Performance Media | Marketing | Strategy | D2C",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/susana-lopez-de-mingo-4b78ab53",
+      "name": "SUSANA LOPEZ DE MINGO",
+      "summary": "Directora Canal Local Clear Channel / PSDV ESIC",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-l%25C3%25B3pez-mart%25C3%25ADnez-2312b586",
+      "name": "Pedro López Martínez",
+      "summary": "Director | Legal, Compliance, Sustainability & Data Protection | Public Sector Specialist",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sim%25C3%25B3n-palacios-gutierrez-4687028b",
+      "name": "Simón Palacios Gutierrez",
+      "summary": "supervisor en Clear Channel España",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessicacervanteszea",
+      "name": "Jessica Cervantes Zea",
+      "summary": "Jefa de Ventas Andalucía Clear Channel",
+      "location": "Málaga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolin-neumann-6631b4ab",
+      "name": "Carolin Neumann",
+      "summary": "Osteopata, terapeuta holística",
+      "location": "Palma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-maria-martin-velasco-5002aab1",
+      "name": "Ana Maria Martin Velasco",
+      "summary": "Administración Outdoor Operaciones en CLEAR CHANNEL ESPAÑA, S.L. (noviembre 2016 – Actualidad)",
+      "location": "Madrid"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Enhorabuena SUSANA LOPEZ DE MINGO y Jessica Cervantes Zea por vuestra presentación a Agencias y Anunciantes de Andalucía y Málaga para la puesta de…",
+      "link": "https://www.linkedin.com/posts/mkuhnel_dooh-malagaestademoda-oohestademoda-activity-7076828309581381632-SMD3",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/mkuhnel_pdooh-advanced-monica-kuhnel-gimenez-activity-7032071500056698880-uq8A",
+      "activity_status": null
+    },
+    {
+      "title": "Gracias a todos los anunciantes y agencias por vuestra apuesta por el #medioexterior #ooh #dooh #publicidadexterior",
+      "link": "https://www.linkedin.com/posts/mkuhnel_premios-oohlovers-estas-han-sido-las-campa%C3%B1as-activity-7055523026179661824-7l-P",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/mkuhnel_create-platformforbrands-platformforgood-activity-6877378982765969409--Pvn",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:53:08Z"
+  }
+}

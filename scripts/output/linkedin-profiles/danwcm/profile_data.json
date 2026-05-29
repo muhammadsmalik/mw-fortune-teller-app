@@ -1,0 +1,788 @@
+{
+  "public_identifier": "danwcm",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6b28e057374eb6b08e9a07280d7e615d",
+  "background_cover_image_url": null,
+  "first_name": "Daniel",
+  "last_name": "Wong-Chi-Man",
+  "full_name": "Daniel Wong-Chi-Man",
+  "follower_count": 3093,
+  "occupation": "Global Service Line Leader - Audience Measurement at Ipsos",
+  "headline": null,
+  "summary": "A commercially astute bi-lingual marketing and research professional <br><br><br>- Innovative marketer who leverages insights to uncover new opportunities and increase sales revenues<br>- Considerable experience in strategic planning roles, particularly sizing and investigating new business opportunities<br>- Commissioning of quantitative and qualitative projects for internal and external stakeholders <br>- Creative passion for seeking out innovative solutions which help to deliver a maximum return on marketing/research investment<br><br><br>Specialties: <br>- Advertising marketing<br>- Market tracking/analysis<br>- Organisation of events<br>- Media research<br>- Advertising research<br>- Consumer Insights<br>- B2B marketing<br>- Ad Innovation<br>- Media Planning",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Global Service Line Leader - Audience Measurement",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2024
+      },
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Chief Commercial Officer, Audience Measurement",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2023
+      },
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Global Head of Marketing & Business Development, Audience Measurement",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "The New York Times",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-new-york-times",
+      "company_facebook_profile_url": null,
+      "title": "Global Director Ad Innovation & Insights",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/50e6e438cbdc7eeb56fbddbeda2b1cf8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2019
+      },
+      "company": "The New York Times",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-new-york-times",
+      "company_facebook_profile_url": null,
+      "title": "International Director Creative Strategy and Insights",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/50e6e438cbdc7eeb56fbddbeda2b1cf8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2018
+      },
+      "company": "The New York Times",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-new-york-times",
+      "company_facebook_profile_url": null,
+      "title": "International Research Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/50e6e438cbdc7eeb56fbddbeda2b1cf8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2016
+      },
+      "company": "Dow Jones",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dow-jones",
+      "company_facebook_profile_url": null,
+      "title": "Head of Strategic Insights",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e7ab67605bce39837c83d38f2d1751be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "Linkkages",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co Founder",
+      "description": null,
+      "location": "Geneva / London",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Dow Jones",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dow-jones",
+      "company_facebook_profile_url": null,
+      "title": "Senior marketing manager",
+      "description": null,
+      "location": "London",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e7ab67605bce39837c83d38f2d1751be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "The Economist",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-economist",
+      "company_facebook_profile_url": null,
+      "title": "Head of Research and Strategic Insight",
+      "description": null,
+      "location": "Geneva",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52080a0a33394e31cf2438ee4df75e99"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2011
+      },
+      "company": "The Economist",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-economist",
+      "company_facebook_profile_url": null,
+      "title": "Client Marketing Manager Continental Europe Middle East and Africa",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52080a0a33394e31cf2438ee4df75e99"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "The Economist",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-economist",
+      "company_facebook_profile_url": null,
+      "title": "Ad Marketing Manager CEMEA",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52080a0a33394e31cf2438ee4df75e99"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "The Economist",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-economist",
+      "company_facebook_profile_url": null,
+      "title": "Advertising and Marketing Executive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52080a0a33394e31cf2438ee4df75e99"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2006
+      },
+      "company": "AIESEC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aiesec",
+      "company_facebook_profile_url": null,
+      "title": "Vice President Reading",
+      "description": null,
+      "location": "Reading",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1df222a0b040bfe6970ec119b1ed07c9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2005
+      },
+      "company": "Interdeco",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/interdeco",
+      "company_facebook_profile_url": null,
+      "title": "Research Assistant",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "International managament, French, Marketing",
+      "degree_name": "BA",
+      "school": "University of Reading",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-reading",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: AIESEC - VP of student society\nTennis, \nRunning club,\nFootball"
+    }
+  ],
+  "languages": [
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "French",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/samlythgoe",
+      "name": "Sam Lythgoe",
+      "summary": "Global Growth And Ag and Textiles Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shannonbruffy",
+      "name": "Shannon Bruffy",
+      "summary": "Head Of Marketing - EU Prime Video",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joudnawar",
+      "name": "Joud Nawar",
+      "summary": null,
+      "location": "Rickmansworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joniroberts1",
+      "name": "Joni Rasmusson",
+      "summary": "Vice President, Global Pre-Sale Marketing, TIME",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarahlavery",
+      "name": "Sarah Lavery",
+      "summary": "Senior Business Development Leader | Amazon Ads | Programmatic, Retail Media & CTV | Partner Growth and GTM Strategy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregory-halfacre-792b4256",
+      "name": "Gregory Halfacre",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemma-taylor-kerr-7b908252",
+      "name": "Gemma Taylor-Kerr",
+      "summary": "Global Head of Business Education at Financial Times",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rose-chapman-58669089",
+      "name": "Rose Chapman",
+      "summary": "Head Of Marketing at CCGroup - technology marketing",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimderuiter",
+      "name": "Kim de Ruiter",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-phipps-ap",
+      "name": "Andrew Phipps MBA, MSc",
+      "summary": "Researching AI’s impact on work, people and the spaces we occupy | PhD Researcher (AI Ethics) | Former Global CRE Leader | Host of the Empathy Unbound podcast",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewbradfordinsight",
+      "name": "Andrew Bradford",
+      "summary": "Cross Media Measurement Leader | Global Research & Analytics Leader |  Consultant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aslihanulutas",
+      "name": "Aslihan Ulutas",
+      "summary": "Head of Business Marketing at Meta Europe, Middle East & Africa",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kellishogan",
+      "name": "Kelli Hogan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shellygarner",
+      "name": "Shelly Garner",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-rawling-8375039",
+      "name": "Anna Rawling",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arunbhatoye",
+      "name": "Arun Bhatoye",
+      "summary": "Head Of Marketing @ Hisense UK | Ex-Google",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-wellington-67008325",
+      "name": "Matthew Wellington",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisa-thomas-89947633",
+      "name": "Marisa Thomas",
+      "summary": "CMO side piece | Executive Advisor | Well-Adjusted Business Man",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-mesquita-9aa08b35",
+      "name": "Nick Mesquita",
+      "summary": "SVP, Global Head of External Sales Agents | Strategic Content Partnerships | Digital Marketing | Advertising Specialist",
+      "location": "South Cadbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-overstall-b8822240",
+      "name": "Claire Overstall",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lukejordan",
+      "name": "Luke Jordan",
+      "summary": "Marketing Director at Vet-AI",
+      "location": "Leeds"
+    }
+  ],
+  "recommendations": [
+    "Andrew Au\n\nDaniel brings a tremendous amount of insight and analysis to any business problem. I watched him progress through the ranks at The Economist Group and remain very impressed with his ability to merge work seamlessly across research companies, ad sales people and clients. I hope our professional paths cross again soon.",
+    "Kate Cooke\n\nDaniel is creative and excellent at coming up with innovative ideas that are client focused. He also presents brilliantly, so is able to put his points and ideas across well, both internally and with clients.",
+    "Andrew Au 區天驥\n\nDaniel brings a tremendous amount of insight and analysis to any business problem. I watched him progress through the ranks at The Economist Group and remain very impressed with his ability to merge work seamlessly across research companies, ad sales people and clients. I hope our professional paths cross again soon."
+  ],
+  "activities": [
+    {
+      "title": "On December 31st I will be wrapping up what's been a brilliant chapter of my career, as I leave LiveRamp to move on to something new in 2026 👀…",
+      "link": "https://www.linkedin.com/posts/timothynorris_on-december-31st-i-will-be-wrapping-up-whats-activity-7408898750720401408-yW-_",
+      "activity_status": null
+    },
+    {
+      "title": "We’re excited to share something new for ACN Circle members 👀 Please join us in welcoming Padma Knowles Career coach / Recruitment / Talent expert,…",
+      "link": "https://www.linkedin.com/posts/asian-communications-network_were-excited-to-share-something-new-for-activity-7408907709946695680-nfqR",
+      "activity_status": null
+    },
+    {
+      "title": "🤝 Meet the Experts Behind the Insights! 💡 At Ipsos, our experts in qualitative research, such as Yas Asare Anderson, help clients to navigate the…",
+      "link": "https://www.linkedin.com/posts/sandra-zlotagora-pessini-12a6111_ipsos-audience-behaviour-activity-7408808619665747968-y1UZ",
+      "activity_status": null
+    },
+    {
+      "title": "As the year comes to an end, I’d like to pause for a moment and say thank you. 2025 has been a very good and prosperous year for Taggify — one…",
+      "link": "https://www.linkedin.com/posts/santiago-mendive-65384b6_taggify-woo-friends-activity-7408974636882759680-LeJR",
+      "activity_status": null
+    },
+    {
+      "title": "It was a privilege to attend the Women of Influence 2025 event on Monday evening, and to hear stories from truly trailblazing women.  Congratulations…",
+      "link": "https://www.linkedin.com/posts/sarah-mchugh-0b5711234_womenofinfluence2025-activity-7399523241813299200-Yw0a",
+      "activity_status": null
+    },
+    {
+      "title": "We are proud to announce one of the prestigious members of the Brand Council of Superbrands Italy. 📊  Claudia Ballerini Member of the Board and…",
+      "link": "https://www.linkedin.com/posts/superbrands-italy_brandequity-marketsegmentation-shopperstudies-activity-7406038169000972288-LwIr",
+      "activity_status": null
+    },
+    {
+      "title": "I’m thrilled to share Ipsos' latest report, commissioned by the Department for Culture, Media and Sport (DCMS), which examines the public's use of…",
+      "link": "https://www.linkedin.com/posts/sarah-mchugh-0b5711234_value-of-bbc-news-activity-7407821230164037633-_97O",
+      "activity_status": null
+    },
+    {
+      "title": "Over the next couple of weeks, you’re going to see many posts celebrating mainly the successes folks have experienced over the past 12 months. I’m…",
+      "link": "https://www.linkedin.com/posts/advitapatel_over-the-next-couple-of-weeks-youre-going-activity-7408127448350879745-VSF8",
+      "activity_status": null
+    },
+    {
+      "title": "J'aurai le plaisir d'intervenir le 15 janvier lors de la prochaine édition de Médias en Seine. J'y présenterai en avant-première les résultats d'une…",
+      "link": "https://fr.linkedin.com/posts/stanislas-seveno-56494b25_plateformes-médias-information-activity-7407804755982385153-ZyUy",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks to A Media Operator for including me in predictions for the year ahead. Onward to 2026 for more Axios success! https://lnkd.in/eRmbJbKy",
+      "link": "https://www.linkedin.com/posts/allisonmmurphy_audience-trust-ma-more-uncertainty-activity-7407795489313824769-ih4F",
+      "activity_status": null
+    },
+    {
+      "title": "#HiFest winter edition is over, and HLabs is now reflecting on how to improve for the next event in April. Here’s what I learnt from hosting… 🎤Let…",
+      "link": "https://www.linkedin.com/posts/hannahspringett_hifest-nocode-interactive-activity-7406625897723842560-zBTG",
+      "activity_status": null
+    },
+    {
+      "title": "🤝 Meet the Experts Behind the Insights! 💡 At Ipsos, our Audience Measurement experts play a key role in shaping the future of our industry. Nuno…",
+      "link": "https://www.linkedin.com/posts/sandra-zlotagora-pessini-12a6111_audiencemeasurement-research-innovation-activity-7406981507375853569-A237",
+      "activity_status": null
+    },
+    {
+      "title": "🆕Elevating Outdoor Impact in Norway 🚀 Last Friday (12 December), David Strnad, Ipsos’ Chief Product Owner of Out-of-Home (OOH), unveiled the latest…",
+      "link": "https://www.linkedin.com/posts/sandra-zlotagora-pessini-12a6111_ipsos-ooh-outdoorimpact-activity-7406981530830655488-B0fm",
+      "activity_status": null
+    },
+    {
+      "title": "Reflecting on a powerful conversation: Navigating the Shifting Landscape of Luxury. As I had the honor of moderating a highly dynamic and a…",
+      "link": "https://www.linkedin.com/posts/jola-burnett-2024869_reflecting-on-a-powerful-conversation-navigating-activity-7406759470422421504-iMg9",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to have Liz Alesse join Axios in the new year as our GM for Axios Local. Next year Axios Local will keep expanding into new markets and…",
+      "link": "https://www.linkedin.com/posts/allisonmmurphy_thrilled-to-have-liz-alesse-join-axios-in-activity-7406365191426224128-e_u6",
+      "activity_status": null
+    },
+    {
+      "title": "Una collega che stimo moltissimo, e che nei Paesi Bassi è pivotale nella realizzazione dell’impianto di ricerca del cosiddetto ‘super jic’ la strada…",
+      "link": "https://it.linkedin.com/posts/una-collega-che-stimo-moltissimo-e-che-nei-activity-7406342314350071808-ZBPt",
+      "activity_status": null
+    },
+    {
+      "title": "Key word targeting or rather blocking is not new but consider this... If you shoot an expensive ad campaign only to strike it due to exposure fears,…",
+      "link": "https://www.linkedin.com/posts/danwcm_contextmatters-powerofnews-activity-7463486693984104449-GwaS",
+      "activity_status": null
+    },
+    {
+      "title": "I am incredibly proud to share that Ipsos has been selected by Geopath and the OAAA to create a pilot to help shape the next generation of Out of…",
+      "link": "https://www.linkedin.com/posts/danwcm_ooh-industry-advances-effort-to-modernize-activity-7444758155927977985-iy68",
+      "activity_status": null
+    },
+    {
+      "title": "I guess I should go away more often 😉 It's an honour to share that Ipsos was named the AMRA Best Research, Data or Measurement Company of the Year…",
+      "link": "https://www.linkedin.com/posts/danwcm_amra-marketresearch-teameffort-activity-7437033301065908224-dVEf",
+      "activity_status": null
+    },
+    {
+      "title": "Some wise words on the difference between people metrics over device-centric datapoints from my colleague David Strnad #outofhome #ipsosooh…",
+      "link": "https://www.linkedin.com/posts/danwcm_outdoor-advertising-needs-people-metrics-activity-7432783429739524096-dWCO",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks to the World Out of Home Organization for the opportunity to share thoughts on measuring Out of Home. As I shared there is a major difference…",
+      "link": "https://www.linkedin.com/posts/danwcm_ooh-audiencemeasurement-currencyapproaches-activity-7429126940818587649-Qlzh",
+      "activity_status": null
+    },
+    {
+      "title": "Audio forms a key part of my morning wake up and evening wind-down. As we celebrate World Radio Day 2026, data from Ipsos Global Influentials reveals…",
+      "link": "https://www.linkedin.com/posts/danwcm_worldradioday-mediastrategy-audio-activity-7428177667050418176-stGo",
+      "activity_status": null
+    },
+    {
+      "title": "Gong Xi Fa Cai! Happy New Year to all of those who celebrate the lunar new year. May the year of the horse bring everyone lots of health, happiness…",
+      "link": "https://www.linkedin.com/posts/danwcm_gong-xi-fa-cai-happy-new-year-to-all-of-activity-7429431961766690816-tr4A",
+      "activity_status": null
+    },
+    {
+      "title": "With younger generations leaning in heavily into AI it is critical that the rest of society adapts to ensure our values and critical thinking…",
+      "link": "https://www.linkedin.com/posts/danwcm_insight-ai-ipsos-activity-7427257484186144768-mgm3",
+      "activity_status": null
+    },
+    {
+      "title": "I have encountered many blockers and had my fair share of challenges during my career. Breaking through barriers and being \"the first,\" \"the…",
+      "link": "https://www.linkedin.com/posts/danwcm_career-inthistogether-designyourcareer-activity-7423018265557372928-zAj5",
+      "activity_status": null
+    },
+    {
+      "title": "People aren't devices and sensors don't capture everything. All data sources have their limitations which is why Context is King and calibrating…",
+      "link": "https://www.linkedin.com/posts/danwcm_are-your-ooh-metrics-measuring-what-matters-activity-7404164882876604416-7wJW",
+      "activity_status": null
+    },
+    {
+      "title": "Very Proud to share that Ipsos has again been named by Greenbook as the world’s No. 1 Most Innovative Insights & Analytics Company We were also…",
+      "link": "https://www.linkedin.com/posts/danwcm_numberoneinresearch-awardwinning-team-activity-7396443042808770560-0d7n",
+      "activity_status": null
+    },
+    {
+      "title": "Today is International Journalist Day. Having worked for some of the Biggest News Outlets I was lucky enough to witness and hear stories about the…",
+      "link": "https://www.linkedin.com/posts/danwcm_internationaljournalistday-igidata-activity-7396906766199902208-NzpB",
+      "activity_status": null
+    },
+    {
+      "title": "The future at Ipsos is bright. I was lucky enough to participate and listen to the ideas of some of our best upcoming talent. Generation Ipsos is our…",
+      "link": "https://www.linkedin.com/posts/danwcm_generationipsos-risingstars-activity-7395373750667399168-vmz6",
+      "activity_status": null
+    },
+    {
+      "title": "I'm incredibly proud to share that yesterday we launched the latest release of Ipsos Global Influentials. This study tracks the attitudes and…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsos-globalinfluentials-marketresearch-activity-7395002467081695233-wC1X",
+      "activity_status": null
+    },
+    {
+      "title": "The countdown is on for ASI in Copenhagen! The Ipsos team is thrilled to be attending this year, with a group of our most experienced and brightest…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsosatasi-audiencemeasurement-asicopenhagen-activity-7381980672527089664-Wba2",
+      "activity_status": null
+    },
+    {
+      "title": "What a great evening. I was lucky to attend the Asian Communications Network's 1st anniversary dinner and meet so many interesting people all working…",
+      "link": "https://www.linkedin.com/posts/danwcm_drivingchange-actionnottalk-teachingoldhorsesnewtricks-activity-7361815379091853312-rAhD",
+      "activity_status": null
+    },
+    {
+      "title": "It was a real pleasure to share thoughts with rising stars in the Media industry. The upcoming cohort is talented and will keep us on my toes... but…",
+      "link": "https://www.linkedin.com/posts/danwcm_futureleaders-media-marketing-activity-7358065467741069313-EYYN",
+      "activity_status": null
+    },
+    {
+      "title": "A big step forwards in the UK. It's been years since there has been any updates to the good old epi pen. Neffy is a life saving needle free…",
+      "link": "https://www.linkedin.com/posts/danwcm_nuts4change-activity-7352460228732276737-2pws",
+      "activity_status": null
+    },
+    {
+      "title": "Little things can make a big difference as highlighted by Radhika Manek With diabetes on the rise it's a great attempt to normalise from a young…",
+      "link": "https://www.linkedin.com/posts/danwcm_makingtheworldabetterplace-embracedifferences-activity-7350060089732464640-8Jus",
+      "activity_status": null
+    },
+    {
+      "title": "Glad to know I wasn't the only one lulled into buying on Prime. CamelCamelCamel btw was a godsend - saved me lots of impulse buys! #Ipsosiris…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsosiris-idolikeadeal-ukom-activity-7351257206438125568-P7Aj",
+      "activity_status": null
+    },
+    {
+      "title": "How do you feel about the world right now? The latest Ipsos findings suggest that ~3 in 5 feel the world is heading in the wrong direction.…",
+      "link": "https://www.linkedin.com/posts/danwcm_insight-trends-whatworriestheworld-activity-7345946264036929536-in95",
+      "activity_status": null
+    },
+    {
+      "title": "It's Time... Ipsos will be at #CannesLions once again this year, bringing some of our brightest talent to share thoughts, challenge thinking and…",
+      "link": "https://www.linkedin.com/posts/danwcm_canneslions-cannes-luxuryinsights-activity-7339343482538344449-oXuV",
+      "activity_status": null
+    },
+    {
+      "title": "Kicking off the day on the Business of News. Having worked for International Media brands for ~20 years I have seen the important role that news…",
+      "link": "https://www.linkedin.com/posts/danwcm_newscanbeasafeenvironment-newsmatters-activity-7340315993648295936-Z3iT",
+      "activity_status": null
+    },
+    {
+      "title": "Always a fun one, presenting with Georgina Scholtens-Day from Versace and Geoffrey Perez from Snap Inc., who shared their thoughts on a pivotal…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsosglobalinfluentials-luxury-genz-activity-7341494688157204480-TfBW",
+      "activity_status": null
+    },
+    {
+      "title": "Another great session \"There is an economic and military security that the world has enjoyed thanks to the US but the methodology of how it's being…",
+      "link": "https://www.linkedin.com/posts/danwcm_canneslions-activity-7340323640497897472--rVc",
+      "activity_status": null
+    },
+    {
+      "title": "Ipsos is proud to have helped Power the Future of Out of Home Advertising in Australia #Move2Move At the World Out of Home Organization , Elizabeth…",
+      "link": "https://www.linkedin.com/posts/danwcm_move2move-woo-audiencemeasurement-activity-7336810395224924160-DGa5",
+      "activity_status": null
+    },
+    {
+      "title": "In a Data-Driven World, the Truth Still Matters. JIC currencies are essential tools to help Media Owners, Media Agencies and Brands make confident…",
+      "link": "https://www.linkedin.com/posts/danwcm_audiencemeasurement-jic-mediameasurement-activity-7333877526743695361-Pezu",
+      "activity_status": null
+    },
+    {
+      "title": "What a fantastic morning! I've been lucky in my career to have had some great managers and mentors. It was therefore with immense pride and…",
+      "link": "https://www.linkedin.com/posts/danwcm_inspired-learning-careerdevelopment-activity-7331375075541069826-hYZC",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I had the pleasure of presenting at the Outdoor Media Association's Move2Move event. This innovative event showcased the power of OOH with…",
+      "link": "https://www.linkedin.com/posts/danwcm_move2move-oma-ooh-activity-7327538131400863745-5PjN",
+      "activity_status": null
+    },
+    {
+      "title": "It's pleasing to see that in an era where data practices are increasingly becoming a black box, with numbers that are based on very little, that the…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsosiris-mobimetrie-betterdata-activity-7323769722003406848-jSGQ",
+      "activity_status": null
+    },
+    {
+      "title": "A key worry I have with the media industry but also in society today, is we are losing the power of context and differentiating between insight and…",
+      "link": "https://www.linkedin.com/posts/danwcm_rudimentary-datavsinsight-hiai-activity-7322959100579856384-ndI6",
+      "activity_status": null
+    },
+    {
+      "title": "Having already had 2 nut episodes this year, leading to a stay in hospital, I'm hyper sensitive to the words \"we can't control for traces of nuts\",…",
+      "link": "https://www.linkedin.com/posts/danwcm_nuts4change-allergyawarenessweek-allergicnotfussy-activity-7320695815012823040-uADD",
+      "activity_status": null
+    },
+    {
+      "title": "A great partnership helping advertisers to activate off Ipsos data in the US. From finance to purchase intent there are hundreds of segments to help…",
+      "link": "https://www.linkedin.com/posts/danwcm_planwithconfidence-ipsosdata-programmatic-activity-7303313863058309121-Eizu",
+      "activity_status": null
+    },
+    {
+      "title": "Happy International Woman's Day. I've been lucky to work and partner with so many strong female leaders, from friends, to colleagues, to clients.…",
+      "link": "https://www.linkedin.com/posts/danwcm_internationalwomansday-iwd25-visionaries-activity-7304165881956188160-Rw9Y",
+      "activity_status": null
+    },
+    {
+      "title": "Having started at a newspaper working with what was then called \"NRS,\" I'm pleased and thrilled that Ipsos will be continuing our partnership with…",
+      "link": "https://www.linkedin.com/posts/danwcm_new-ipsos-measurement-contract-as-pamco-advances-activity-7298393916775518208-x-wR",
+      "activity_status": null
+    },
+    {
+      "title": "This is big news! Having recently suffered yet another severe nut allergy episode leading to a brief hospital stay, it's great to see the work Zak…",
+      "link": "https://www.linkedin.com/posts/danwcm_nuts4change-activity-7301296422128144385-MCZy",
+      "activity_status": null
+    },
+    {
+      "title": "I haven't been the most dedicated of members over the last 12 months but last night reminded me how useful and insightful Media Research Group (MRG)…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsosglobaltrends-ipsosiris-impactdrivinginsights-activity-7300822472545751040-vAoX",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Lunar New Year and Gong Xi Fa Cai to everyone who celebrates. May the year of the snake bring you and your families lots of health, happiness,…",
+      "link": "https://www.linkedin.com/posts/danwcm_happy-lunar-new-year-and-gong-xi-fa-cai-to-activity-7290343090374991872-srkW",
+      "activity_status": null
+    },
+    {
+      "title": "\"Anything worthwhile takes time\" Immensely proud of the team and the fact that we will be continuing to work with Route Research Ltd. for another 7…",
+      "link": "https://www.linkedin.com/posts/danwcm_route-appoints-ipsos-and-adwanted-to-build-activity-7288498948158205952-0z5g",
+      "activity_status": null
+    },
+    {
+      "title": "Going through PDR season has made me realise it's almost a year since I became the Global Service Line Leader for Audience Measurement at Ipsos. It's…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsos-audiencemeasurement-evolvingtogether-activity-7294675297231122432-zyvM",
+      "activity_status": null
+    },
+    {
+      "title": "Is it too early to use the C word? That's Christmas for clarity... As the sun shines for fewer hours in a day, more people in the UK spend time…",
+      "link": "https://www.linkedin.com/posts/danwcm_retail-ipsosiris-shopping-activity-7254546093458268160-OWsE",
+      "activity_status": null
+    },
+    {
+      "title": "Live from ASI. Proud to share Nationaal Media Onderzoek (NMO) and Ipsos were awarded The Tony Twyman Award for best presentation for the 2nd year in…",
+      "link": "https://www.linkedin.com/posts/danwcm_awardwinner-audiencemeasurement-innovation-activity-7259965318490394624-_dQl",
+      "activity_status": null
+    },
+    {
+      "title": "Gong Xi Fa Cai! May the Year of the Dragon bring health, happiness and prosperity to us all. Happy New Year to all who are celebrating. #CNY2024…",
+      "link": "https://www.linkedin.com/posts/danwcm_cny2024-chinesenewyear-activity-7162017407052537856-wn7l",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-01T00:00:00Z"
+  }
+}

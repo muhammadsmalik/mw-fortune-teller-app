@@ -1,0 +1,786 @@
+{
+  "public_identifier": "leah-whitford-3b65364",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Leah",
+  "last_name": "Whitford",
+  "full_name": "Leah Whitford",
+  "follower_count": 880,
+  "occupation": "Head Of Partnerships/Group Sales at Civic Outdoor",
+  "headline": "Sales And Marketing Specialist at Civic Outdoor",
+  "summary": "<br><br>Key Achievements: First female board member of the OMA (Outdoor Media Association) and MOVE (Measurement of Outdoor Visibility and Exposure) // Shortlisted for B&T Women in Media Awards // <br>",
+  "location_str": "Greater Melbourne Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Melbourne",
+  "state": "Victoria",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Civic Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/civicmedia",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Partnerships/Group Sales",
+      "description": null,
+      "location": "Melbourne, Victoria, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/74a78b4f8513a571b899103ee43e6190"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Ginger Jones Pty Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Consultant",
+      "description": null,
+      "location": "Melbourne, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "BOco Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/boco-australia",
+      "company_facebook_profile_url": null,
+      "title": "Founder/Director",
+      "description": "The best quality products are born out of a deep passion and BOco’s range of contemporary pet lifestyle products are a flawless example of this.  The vibrant colours and elegant designs are carefully chosen with current fashion trends in mind. Personalised touches such as monogramming appeal to the discerning dog owner and each piece is made of high quality materials designed to last through your dog’s lifetime. BOco celebrates the unique bond between you and your dog, with high quality products and accessories adding the essential stylish elements to all of your precious moments together.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8ee7c96e18a30f06315cd039b48f0d6a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2017
+      },
+      "company": "Map Media Pty Ltd (Successfully Sold to Partner in 2017)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Map Media is a media placement and planning agency specialising in out-of-home advertising, outdoor advertising, OOH advertising. Whatever you prefer to call it you have found a team of experts in MAP Media with 30 years experience in the industry.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2016
+      },
+      "company": "Ginger Jones Pty Ltd (Sold in August 2016)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": "\"The cool cafe wave has reached zone 2 with the opening of Ginger Jones, where great coffee and smart food come in a contemporary semi-industrial setting. The cafe is narrow, with polished concrete floors, whitewashed walls and a sharp timber counter. On-trend brekkies include a vegetarian option with field mushrooms, wilted spinach and house-made baked beans. Free-range eggs come baked, benedict and Atlantic; and buttermilk pancakes with sticky sauces please breakfast dessert devotees. At lunch, look for cafe classics such as crisp-skinned pork belly on slaw, steak sandwich with house-made relish and chicken caesar.\" - Good Food Guide Under $30 2014",
+      "location": "Dandenong",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "iOM Pty Ltd / Civic Guides Pty Ltd (Sold in July 2016)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Sales & Marketing",
+      "description": "iOM is an independent outdoor advertising company based in Melbourne with over 30 years of industry experience. Civic Guides is a silo media product that is currently being reimagined to connect mobile technologies with static traditional media. www.iom.net.au/www.civicguides.com.au",
+      "location": "Melbourne, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2016
+      },
+      "company": "OMA/MOVE BOARD MEMBER",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": "The Outdoor Media Association (OMA) is the peak national industry body that represents most of Australia’s traditional and digital outdoor media display companies and production facilities, as well as some media display asset owners.",
+      "location": "Sydney, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2011
+      },
+      "company": "AllAboard Media",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": "All Aboard Media seeks to create a medium to express, to ignite, to inspire. We aim to explore the visual textual environment and create art out of words. Born from a love of font based art and a desire to create original and visually stimulating artworks that can translate in a range of environments, All Aboard Media came to life. All Aboard Media aims to enhance residential and commercial environments with their unique typography art.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2008
+      },
+      "company": "MetroMedia Technologies",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing & Business Development Manager",
+      "description": "I was originally employed by MetroMedia Technologies (reporting directly to the US) for a regional role created to provide cohesive marketing and sales support to MMT’s Asia Pacific operations (key markets: Australia, NZ, India, Malaysia). However in January 2005 the US embarked on a program to divest their international interests and consequently the international marketing department was dissolved and the regional marketing department ceased to exist. I was retained by Australia to continue a marketing and business development function for Australia and New Zealand. Within that role I was relocated to the Melbourne office in August 2005 with the additional brief to manage the Victorian Sales Office.",
+      "location": "Brisbane Area, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "Ethertec International",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": "Innovative technology & design company specialising in the development of lighting & wireless products for the signage and retail industries",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Vertigo Asia",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing & Business Development Manager",
+      "description": "The Vertigo Group was an out-of-home media company with media and contracting operations throughout South Asia and the Asia Pacific.",
+      "location": "Sri Lanka/Dubai/Hong Kong",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Oiol",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": null,
+      "degree_name": "Graduate Diploma of International Relations",
+      "school": "Monash University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Arts (Communications)",
+      "school": "RMIT University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "English, History",
+      "degree_name": "Bachelor of Arts",
+      "school": "University of Melbourne",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Trinity College 1995"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": null,
+      "degree_name": "VCE",
+      "school": "Methodist Ladies College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": null,
+      "title": "Volunteer",
+      "cause": "Children",
+      "company": "SAIL (Sudanese Australian Integrated Learning)",
+      "company_linkedin_profile_url": null,
+      "description": "The SAIL (Sudanese Australian Integrated Learning) Program is a volunteer-run, non-profit, secular organisation which provides free English support and community services to the Sudanese Australian community.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mpetra",
+      "name": "Petra Markova",
+      "summary": null,
+      "location": "North Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leecranejones",
+      "name": "Lee Crane Jones",
+      "summary": "Economic Development Lead",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerry-avalos",
+      "name": "Gerry Avalos",
+      "summary": "Brand Lead CGU  at IAG",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katenoon1",
+      "name": "Kate Noon",
+      "summary": "Media Implementation Account Director at OMD",
+      "location": "Abbotsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonocroxford",
+      "name": "Jono Croxford",
+      "summary": "Graphic Designer at Jono Croxford Design",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claypowellconsulting",
+      "name": "Clay Powell",
+      "summary": "Clay Powell Consulting",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevarfai",
+      "name": "Kev Arfai",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottgroves",
+      "name": "Scott Groves",
+      "summary": "CEO Dog Cloud",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allanq",
+      "name": "Allan Qiu",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-morfis",
+      "name": "Chris Morfis",
+      "summary": "Director at Morfd Connections",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielswanton",
+      "name": "Daniel Swanton",
+      "summary": null,
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davewalkerkiwiindarlo",
+      "name": "David Walker",
+      "summary": "Chair | Non-Executive Director | Chief Revenue Officer | Sales and Marketing Director",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robertmckay",
+      "name": "Rob McKay",
+      "summary": "Founder – Truck Ads | Vehicle-based Media | Rugby | Play On Podcast Co-Host | Green Energy | Strata | OOH Media | Non Executive Director | Experiential | CEO | Business Development | Start-ups |",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anastasialambadardis",
+      "name": "Anastasia Lambadaridis Heggie",
+      "summary": "Business Director  & Marketing & Communications Advisor",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirrahcooke",
+      "name": "Kirrah Cooke",
+      "summary": "Marketing & Social Media Coordinator",
+      "location": "Tugun"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisquinn1",
+      "name": "Chris Quinn",
+      "summary": "Group Business Director - Direct/Boutique",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rogermcbride",
+      "name": "Roger McBride",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicki-sallabank-886165167",
+      "name": "Nicki Sallabank",
+      "summary": "M&A | Private Equity | Commercial |                                                                                                                                                  Associate at SBA Law",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-brailsford-647b9b233",
+      "name": "Hannah Brailsford",
+      "summary": "Co-Founder & Head of Brand, TDM | World-first headphones → speakers I\nHead of Marketing, La Luna Pet Care | Leading The Dog Mum I\nBuilding consumer brands in audio & e-commerce",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-tulich-09539a62",
+      "name": "Jamie Tulich",
+      "summary": null,
+      "location": "Eleebana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edenrose",
+      "name": "Eden Rose",
+      "summary": "Associate Director at Concept Financial Services Group (CFSG)",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/attieorourke",
+      "name": "Attie O'Rourke",
+      "summary": "Co-Founder and Head of Marketing at Groundskeeper Willie",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulastatham",
+      "name": "Paula Statham",
+      "summary": null,
+      "location": "Paradise Point"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-lai-b7026a7",
+      "name": "Vanessa Lai",
+      "summary": "Head of Media (Melbourne)",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzy-raymer",
+      "name": "Suzy Raymer",
+      "summary": null,
+      "location": "Austinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-tauro-75818810",
+      "name": "Donna Tauro",
+      "summary": "Driven Sales Leader | House Flip Enthusiast",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-taylor24",
+      "name": "Matt Taylor",
+      "summary": "Helping businesses deploy AI Agents | GTM Leader with Global Experience | Former Founder with a Successful Exit | Passionate about Coaching and Fitness",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/crdalesyd",
+      "name": "Chris Dale",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dean-cadee-b1a6ab15",
+      "name": "Dean Cadee",
+      "summary": "Sales Director",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-pangu",
+      "name": "Jonathan Pangu",
+      "summary": "Head of Marketing & Marketing Consultant",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-hingston-1b311b20",
+      "name": "Craig Hingston",
+      "summary": "Marketing, Brand & Communications Manager: Con-form Group",
+      "location": "Locksley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaela-crump-66115824",
+      "name": "Michaela Crump",
+      "summary": null,
+      "location": "Mount Martha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-rose-1651622a",
+      "name": "David Rose",
+      "summary": "CEO of Exquisine",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauren-adam-49b16931",
+      "name": "Lauren Adam",
+      "summary": "National Sales Manager Direct at Scentre Group (Owner and Operator of Westfield in Aus and NZ)",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-nameh-91697831",
+      "name": "Linda Nameh",
+      "summary": "Managing Director at BOFB Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ecampbell2",
+      "name": "Emma Campbell",
+      "summary": null,
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avanka-vandenberg-64072640",
+      "name": "Avanka Vandenberg",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-cassimatis-94828a41",
+      "name": "John Cassimatis",
+      "summary": "Head of Creative",
+      "location": "Millers Point"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margaret-elliott-a444a743",
+      "name": "Margaret Elliott",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-conn-02218646",
+      "name": "Michelle Conn",
+      "summary": "Office Manager - Harlen Advisory",
+      "location": "Box Hill South"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ildiko-sztojka-6a13704b",
+      "name": "Ildiko Sztojka",
+      "summary": "Senior Design Manager",
+      "location": "Newport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-shipley-b0313154",
+      "name": "paul shipley",
+      "summary": "Managing Partner at Shipley Brown Media Group Pty Limited",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jess-marazzi-30437b55",
+      "name": "Jess Marazzi",
+      "summary": "Commercial Manager at Civic Guides Media Pty Ltd",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-lomas-95998a58",
+      "name": "Michelle Lomas",
+      "summary": "Head Of Partnerships & Talent | Fintech SAAS Founder",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/crystal-taylor-3672065a",
+      "name": "Crystal Taylor",
+      "summary": "Community Impact | Social Innovation | Place-based backbone support | Good Impact",
+      "location": "Mooloolah Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-whitford-a571a760",
+      "name": "adam whitford",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/massimo-guida-b80b9162",
+      "name": "Massimo Guida",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-boston-3b482b6b",
+      "name": "Megan Boston",
+      "summary": "CFO, Board Member",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-smith-68b09670",
+      "name": "Daniel Smith",
+      "summary": "Sales Manager",
+      "location": "South Yarra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-monks-39274471",
+      "name": "Brad Monks",
+      "summary": "CEO and founder Sirius Fund/ Managing partner Wilson Street Capital",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvaro-costa-a3655578",
+      "name": "Alvaro Costa",
+      "summary": "Key Account / Project Manager",
+      "location": "Braga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amber-king-56140693",
+      "name": "Amber King",
+      "summary": "Clinical Social Worker",
+      "location": "Omaha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/serena-zulianello-89b21999",
+      "name": "Serena Zulianello",
+      "summary": "Executive Assistant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/damian-jones-85441299",
+      "name": "Damian Jones",
+      "summary": "Managing Director at Jones International Pty Ltd Trading as RomeoandJuliete",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-buckley-a5797299",
+      "name": "Mark Buckley",
+      "summary": "General Manager - Civic Outdoor",
+      "location": "Canterbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/toby-osborne-960b4710b",
+      "name": "Toby Osborne",
+      "summary": "Distribution & Business Development Strategist and Growth Specialist. Leading changes, installing process, creating and achieving results.",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoji-yoshimoto-614bb6112",
+      "name": "Yoji Yoshimoto",
+      "summary": "Co Founder and Food Waste Manager at rufino",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsay-blay-88679b118",
+      "name": "Lindsay Blay",
+      "summary": "National Programmatic Sales Director - Civic Outdoor | Driving Programmatic Sales Success",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julianne-munn-1487b7140",
+      "name": "Julianne Munn",
+      "summary": "Owner at Everything Dogz, Slinky and Rusty and Dusty Patches.",
+      "location": "Upper Glastonbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-whitworth-299284150",
+      "name": "Lee Whitworth",
+      "summary": "Hi, I’m Lee, the owner and sole operator for Whitworth’s Automotive Polishing.\nI’m a veteran in the automotive polishing trade and I’m Western Australia’s rep’ for USA’s System-X ceramic paint protection products.",
+      "location": "Wembley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-bennett-250249165",
+      "name": "Joshua Bennett",
+      "summary": "Account Executive at Brand Influence Group",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-whitford-2a415117b",
+      "name": "Adam Whitford",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-miskas-8a405b189",
+      "name": "Jack Miskas",
+      "summary": "Business Manager",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dafydd-shalders-314b97207",
+      "name": "Dafydd Shalders",
+      "summary": "VIC Growth Sales Director",
+      "location": "Melbourne"
+    }
+  ],
+  "recommendations": [
+    "Srinath Shetty\n\nI worked with Leah for a brief period in MMT ( 1 year), India.I have known leah as a great marketing professional with eye for detail. Whats sets her out - from others is her very innvoative and creative bent of mind. She was instrumental in branding the one print strategy and reverse print strategy in MMT india. She is a fully evolved marketing professional who brings to the table - creativity and a executional brilliance - with thorough knowledge of the ground realities of business.",
+    "LinkedIn User\n\nIt is rare to find a talent like Leah in the outdoor advertising industry.  I worked under Leah as she was GM at iOM for the 8 years I worked then later as her business partner in Map Media. She is creative and hardworking. Taking on and understanding new technologies and skills whenever possible - it is this that most impresses me about Leah. She never rests on her laurels she is always looking to improve on what she is doing and learn new skill sets. Most would also say that she was always good fun at any social events we had. Overall I worked with Leah for 9 years and can say she is honest and has integrity in what can be a tough industry.  Any employee would be lucky to have Leah as a manager or part of their team."
+  ],
+  "activities": [
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/leah-whitford-3b65364_bernardsalt-thechangingfaceofmelbourne-activity-6998515065335283712-zGKU",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Leah Whitford",
+      "link": "https://uk.linkedin.com/in/leah-whitford-775337203",
+      "summary": null,
+      "location": "Southend-On-Sea"
+    },
+    {
+      "name": "Leah Whitford",
+      "link": "https://www.linkedin.com/in/leah-whitford-729632268",
+      "summary": "Food Service Worker at Bowling Green State University",
+      "location": "Liberty Center, OH"
+    },
+    {
+      "name": "Leah Whitford",
+      "link": "https://au.linkedin.com/in/leah-whitford-882b851",
+      "summary": null,
+      "location": "Greater Melbourne Area"
+    },
+    {
+      "name": "Leah Whitford",
+      "link": "https://www.linkedin.com/in/leah-whitford-ba5614110",
+      "summary": "--",
+      "location": "Dubuque County, IA"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-18T00:00:00Z"
+  }
+}

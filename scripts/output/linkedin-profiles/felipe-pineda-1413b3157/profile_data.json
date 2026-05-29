@@ -1,0 +1,828 @@
+{
+  "public_identifier": "felipe-pineda-1413b3157",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/1d9ce4be4cc8eabce05c931b9b2d0b07",
+  "background_cover_image_url": null,
+  "first_name": "Felipe",
+  "last_name": "Pineda",
+  "full_name": "Felipe Pineda",
+  "follower_count": 1283,
+  "occupation": "Co fundador gerente general Honduras at Marketmedios Comunicaciones Honduras",
+  "headline": "Co fundador Marketmedios Comunicaciones Panamá, Ecuador y Honduras                                                                   Co Fundador PLAZ",
+  "summary": null,
+  "location_str": "Panama",
+  "country": "PA",
+  "country_full_name": "Panama",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Marketmedios Comunicaciones Honduras",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co fundador gerente general Honduras",
+      "description": null,
+      "location": "Honduras",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Marketmedios Comunicaciones Ecuador",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co fundador Gerente general Ecuador",
+      "description": null,
+      "location": "Ecuador",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Marketmedios Comunicaciones Inc.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co fundador Gerente general Panama",
+      "description": "Gerente General Crear , Montar y Dirigir la empresa en Panamá como nuevo mercado. Estar en busca de nuevas oportunidades de negocio en el país , como también en otros países de la región. Consecución de nuevos aliados comerciales para que se sumen a nuestro portafolio de espacios publicitarios a largo plazo.",
+      "location": "Panamá",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2023
+      },
+      "company": "Marketmedios Comunicaciones",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Gerente Operación Centro America",
+      "description": "Gerente operación  Centro America , enfocado en creación de portafolio de productos , estrategia comercial y operacional. Definiendo objetivos estratégicos para la obtención de resultados. Estrategia pais y region.",
+      "location": "Panamá",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2022
+      },
+      "company": "PLAZ",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co Fundador PLAZ Mercadeo",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "Marketmedios Comunicaciones S.A.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director Comercial",
+      "description": "Director Comercial Publicidad Exterior Encargado de dirigir y potencializar la unidad de negocio , conservar clientes actuales y abrir mercado con la consecución de nuevos clientes. Fortalecer  las alianzas comerciales con las centrales de medios y con los otros proveedores del sector para potencializar ventas. Aumentar ventas y utilidad de la unidad de negocio. Dirigir equipo comercial y darle seguimiento a los objetivos y resultados.",
+      "location": "Bogotá D.C., Colombia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2011
+      },
+      "company": "Thuoper",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo comercial",
+      "description": "Ejecutivo Comercial ( Practicante ) Apoyar a los ejecutivos comerciales senior en los proyectos de consultoria. Apoyar con la creación de la nueva unidad de negocio de busqueda de talento.",
+      "location": "Bogotá D.C., Colombia",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Marketing Research",
+      "degree_name": "Especialista en Mercadeo Estrategico",
+      "school": "Colegio de Estudios Superiores de Administración",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cesa-edu",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2eff15740ea5a716488f0b31597102f4",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Administración de Empresas",
+      "degree_name": "Administración de Empresas",
+      "school": "Colegio de Estudios Superiores de Administración",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cesa-edu",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2eff15740ea5a716488f0b31597102f4",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Estudios de mercado",
+      "degree_name": "Especialista en Mercadeo Estrategico",
+      "school": "CESA",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cesa-edu/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Administración de Empresas",
+      "degree_name": "Administración de Empresas",
+      "school": "CESA",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cesa-edu/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Investigación de Medios",
+      "number": null
+    },
+    {
+      "name": "Congreso de Publicidad",
+      "number": null
+    },
+    {
+      "name": "Venta Consultiva",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": null,
+      "title": "Voluntario",
+      "cause": "Lucha contra la pobreza",
+      "company": "Techo",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 1272,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/masterlui",
+      "name": "Luis A.",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavobehrens",
+      "name": "Gustavo Behrens",
+      "summary": "Director - End-to-End XP Design Strategy",
+      "location": "Quito"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anacastellanosv",
+      "name": "Ana Castellanos",
+      "summary": "Marketing Digital | Customer Experience Management | Publicista | Innovación",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/prietoalejandro",
+      "name": "Alejandro Prieto",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diana-carolina-mejia-cano",
+      "name": "Diana Carolina Mejía Cano",
+      "summary": "| Ejecutiva Comercial | Servicio al cliente | Medios publicitarios | Ventas | Negociaciones | Estrategias de comunicación | Ooh | Publicidad Digital | Google | Facebook | Instagram | Twitter | LinkedIn | Youtube |",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/imkio",
+      "name": "Adriana Lara",
+      "summary": "Social Media | Senior Community Manager | Content Manager",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandravaldes",
+      "name": "Sandra Valdés",
+      "summary": "Chief Growth Officer",
+      "location": "Quito"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvaro-erazoec",
+      "name": "Álvaro Erazo",
+      "summary": "Regional Managing Director | Business Leadership | Market Expansion & Strategic Growth",
+      "location": "Quito"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carldegracia",
+      "name": "Carlos Alberto De Gracia Marciaga",
+      "summary": "Comercial | Canales no tradicionales | Nuevos modelos de negocios | Marketing | Experiencia del cliente",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/santiago-restrepo-arango",
+      "name": "Santiago Restrepo Arango",
+      "summary": "@ Dlili Arango Pastelería Boutique\n\nCOMERCIAL | VENTAS | ESTRATEGÍA | MERCADEO | MEDIOS DE COMUNICACIÓN",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alina-h-9b5ab737",
+      "name": "Alina H.",
+      "summary": "Director/ Comercial/ Mercadeo / Operaciones",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristiangp11",
+      "name": "Cristian Galeano Polo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dalys-rodriguezbarahona",
+      "name": "Dalys Rodriguez",
+      "summary": "Gerente comercial GRUPO BTESH",
+      "location": "Ancón"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-gutierrez-87b838251",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-mar%25C3%25ADa-sabogal-salazar-20b72634",
+      "name": "Ana María sabogal Salazar",
+      "summary": "Ana",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/byron-o%25C3%25B1a-680a22198",
+      "name": "Byron Oña",
+      "summary": null,
+      "location": "Quito"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johanna-haderer-villamizar-449aab139",
+      "name": "Johanna Haderer Villamizar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentina-quintero-m",
+      "name": "Valentina Quintero M",
+      "summary": "Marketing | Publicidad | Comunicaciones | eCommerce",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/isis-garciaorta",
+      "name": "Isis García Orta",
+      "summary": "Isis García BIENESTAR Y…•972 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nafkman",
+      "name": "Nafkman Valdés",
+      "summary": "Dirección General.Desarrollo de Negocio.Comunicaciones de Mercadeo.Estrategia de Negocio y Marca.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/omar-mendez-%25C3%25A1greda-2b480553",
+      "name": "Omar Mendez Ágreda",
+      "summary": "Profesional en Publicidad y Mercadeo, Tradicional y Digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ver%25C3%25B3nica-arosemena",
+      "name": "Verónica Arosemena Mendez",
+      "summary": "Relacionista Pública | Especialista en Comunicaciones | Experta en estrategias de ventas y mercadeo I Gerencia comercial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-antonio-robles-68636751",
+      "name": "José Antonio Robles",
+      "summary": "GERENTE GENERAL en ADUANA ROBLES",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/johana-chac%25C3%25B3n-29a78014",
+      "name": "Johana Chacón",
+      "summary": "Creativa Gráfica en Marketmedios Comunicaciones S.A.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-pinz%25C3%25B3n-gonz%25C3%25A1lez-58a68137",
+      "name": "Eric Pinzón González",
+      "summary": "Gerente de Mercadeo y Ventas / Gerente General",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/margarita-devalencia-13582a10",
+      "name": "Margarita Devalencia",
+      "summary": "directora de cuenta en Market Medios",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodolfo-belinky-58ba7015",
+      "name": "RODOLFO BELINKY",
+      "summary": "constructor en Independent Contractor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ingrid-giovanna-valbuena-48456726",
+      "name": "Ingrid Giovanna Valbuena",
+      "summary": "Socia fundadora en Nidaros Group S.A",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-cruz-15ab1426",
+      "name": "Javier Cruz",
+      "summary": "Director en Marketmedios Comunicaciones SAS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-adolfo-suescun-hernandez-1279a527",
+      "name": "Gustavo Adolfo Suescun Hernandez",
+      "summary": "Industrial Engineer, Marketing  & Product Developer",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniela-villegas-herrera",
+      "name": "Daniela Villegas Herrera",
+      "summary": "Dirección de cuentas | Project Manager | Estrategias de comunicación | Planificación Estratégica | Liderazgo de equipos | B2B | Key Account Manager | Comunicación asertiva | Digital / ATL Sales",
+      "location": "Manizales"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriana-prieto-diazgranados-04203428",
+      "name": "Adriana Prieto DiazGranados",
+      "summary": "Directora de Agencias",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-becerra-75950a2a",
+      "name": "Manuel BECERRA",
+      "summary": null,
+      "location": "Pereira"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boris-dur%25C3%25A1n-891b812a",
+      "name": "Boris Durán",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-aspiazu-b3721631",
+      "name": "Nicole Aspiazu",
+      "summary": "Head of planning en  Mediacom",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-marinho-74449635",
+      "name": "Jessica Marinho",
+      "summary": null,
+      "location": "Colón"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alina-hurtado-9b5ab737",
+      "name": "Alina Hurtado",
+      "summary": "Gerente Comercial CEC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leidy-santillana-17608839",
+      "name": "Leidy Santillana",
+      "summary": "Hr Business Partner en Natura",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauricio-prieto-75aa3439",
+      "name": "Mauricio Prieto",
+      "summary": "Propietario, Marketmedios Comunicaciones",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-m%25C3%25BAnera-gonz%25C3%25A1lez-93a7403b",
+      "name": "Stephanie Múnera González",
+      "summary": "Coordinadora de proyectos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernando-rosasco-393b683b",
+      "name": "Fernando Rosasco",
+      "summary": "Coordinador Area Tecnica",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marysary-del-valle-azuaje-araujo-74694843",
+      "name": "Marysary Del Valle Azuaje Araujo",
+      "summary": "Licenciada en Administración de Empresas con Especialidad en Gerencia de Recursos Humanos, Postgrado de Gestión Empresarial de la Universidad de Barcelona",
+      "location": "L'Hospitalet de Llobregat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-cabrales-villalba-854a8a50",
+      "name": "Daniel Cabrales Villalba",
+      "summary": "director comercial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinalunaflores",
+      "name": "Corina Luna Flores",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cinthia-lagos-42640957",
+      "name": "Cinthia Lagos",
+      "summary": "Marketmedios Comunicaciones",
+      "location": "Tegucigalpa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandra-moreno-bello-b4194867",
+      "name": "Alejandra Moreno Bello",
+      "summary": "Ejecutiva comercial marketindoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-cantillo-martinez-5b766568",
+      "name": "Karen Cantillo Martinez",
+      "summary": "Account Executive OOH DOOH at Marketmedios",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-viviana-camacho-fiallo-92653469",
+      "name": "Sandra Viviana Camacho Fiallo",
+      "summary": "Senior Commercial Leader | Trade Marketing, Retail Media & Category Strategy | Revenue Growth | Ex Procter & Gamble, AB InBev & British American Tobacco | MBA",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-ariza-garrido-4131196b",
+      "name": "Manuel Ariza Garrido",
+      "summary": "Profesional de Marketing y publicidad",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-ariel-gonzalez-rivera-66506470",
+      "name": "David Ariel Gonzalez Rivera",
+      "summary": "General Manager en Panamá Limousines Events",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabian-enrique-parias-diaz-60835470",
+      "name": "Fabian Enrique Parias Diaz",
+      "summary": "Director de cuentas en btlactive.com",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/obed-david-barrera-harper-54868b76",
+      "name": "Obed David Barrera Harper",
+      "summary": "Gerente Administrativo en Distribuidora OLAY",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-beltran-ochoa",
+      "name": "Patricia Beltrán Ochoa",
+      "summary": "Ejecutiva Comercial OOH y DOOH",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmy-forero-48983384",
+      "name": "Jimmy Forero",
+      "summary": "Marketmedios•1K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-luis-barletta-67737891",
+      "name": "Mario Luis Barletta",
+      "summary": "Chief People Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valeria-guarnizo-52454a97",
+      "name": "Valeria Guarnizo",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hector-abel-gonzalez-marin-8611b29b",
+      "name": "Hector Abel Gonzalez Marin",
+      "summary": "Profesional en Mercadeo, Gerencia en en ventas comerciales y digitales, Locutor profesional, Desarrollador de negocios. \n\n, \n\nDesarrollador de negocios.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-alfredo-vargas-572a87a1",
+      "name": "Carlos Alfredo Vargas",
+      "summary": "Gerente Unidad Estratégica en PRODESA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cynthia-minter-aa2b66110",
+      "name": "Cynthia Minter",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/franco-adrian-loska-3083b0118",
+      "name": "Franco Adrian Loska",
+      "summary": "Gerente de Compras en Petenatti Hogar",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarek-saker-003532134",
+      "name": "Tarek Saker",
+      "summary": "Coach y Capacitador. Creador de experiencias. Chief Happiness Practitioner. Trainfluencer. Speaker interactivo.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/delfina-pereyra-8a600b166",
+      "name": "Delfina Pereyra",
+      "summary": "Comunicación en SB collection",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shosua-barba-0a934b174",
+      "name": "Shosua Barba Inca",
+      "summary": "Publicista",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorna-dunn-086931175",
+      "name": "Lorna Dunn",
+      "summary": null,
+      "location": "Romford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-torrado-799011180",
+      "name": "Daniel Torrado",
+      "summary": "Oficial Semi Sr en Chase",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-duarte-555649184",
+      "name": "Javier Duarte",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcela-hernandez-517654184",
+      "name": "Marcela Hernandez",
+      "summary": "Contador Público",
+      "location": "Santiago de los Caballeros"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enrique-mora-518658184",
+      "name": "Enrique Mora",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danilo-sanchez-898b64186",
+      "name": "danilo sanchez",
+      "summary": "Media Planner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/esaud-morales-81738918b",
+      "name": "Esaud Morales",
+      "summary": "Ing. Telecomunicaciones y redes",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mar%25C3%25ADa-jos%25C3%25A9-reyes-palacios-71737b190",
+      "name": "María José Reyes Palacios",
+      "summary": "Gerente general en Laboratorio san miguel arcangel",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saul-fernando-pineda-castro-39a510195",
+      "name": "Saul Fernando Pineda Castro",
+      "summary": "MEd. Trauma and Resilience",
+      "location": "Minneapolis–Saint Paul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-andreina-monzon-marin-42a0421a0",
+      "name": "Paola Andreina Monzon Marin",
+      "summary": "Costumer service specialist",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ingrid-alejandra-alvear-a02877213",
+      "name": "Ingrid alejandra Alvear",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/esteban-vel%25C3%25A3%25C2%25A1squez-garc%25C3%25A3%25C2%25ADa-a4a3aa218",
+      "name": "ESTEBAN VELÁSQUEZ GARCÍA",
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Haciendo cosas diferentes , llevando ideas a la realidad y campañas a que toquen al público objetivo de las marcas",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_haciendo-cosas-diferentes-llevando-ideas-activity-7333307083729129473-CB-s",
+      "activity_status": null
+    },
+    {
+      "title": "En Marketmedios llevamos a otro nivel las ejecuciones en punto de venta!",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_en-marketmedios-llevamos-a-otro-nivel-las-activity-7247961831409876993-JvNv",
+      "activity_status": null
+    },
+    {
+      "title": "Gran empresa !",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_plaz-una-aplicación-que-le-da-acceso-a-las-activity-6698258490919575552-JHez",
+      "activity_status": null
+    },
+    {
+      "title": "La #familia después del #coronaviris #cambiaran los núcleos familiares? el #encierro , #monotonía , #estrés , #problemas economicos y secuelas…",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_familia-coronaviris-cambiaran-activity-6650589238901432320-3sJ5",
+      "activity_status": null
+    },
+    {
+      "title": "Vientos cambiantes ! Después de una conversación que tuve con Manuel Caro , un experto y referente en el #mundodigital , me animó a escribir un poco…",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_mundodigital-empresas-aislamiento-activity-6649746001877876736-WwAH",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/felipe-pineda-1413b3157_de-practicante-a-vicepresidente-de-mercadeo-activity-6466106456008650752-mZnS",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Felipe Pineda",
+      "link": "https://www.linkedin.com/in/felipe-pineda-32bb0536",
+      "summary": "Digital Marketing Consultant at Linkeo",
+      "location": "West Palm Beach, FL"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://cl.linkedin.com/in/felipe-pineda-13b0b5116",
+      "summary": "Coordinador y Programador Cultural en Fundación Antenna",
+      "location": "Chile"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://br.linkedin.com/in/felipe-pineda-80832531",
+      "summary": "gerente de t.i | Sou mais Farma",
+      "location": "Osasco, SP"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://www.linkedin.com/in/felipe-pineda",
+      "summary": "Sales Engineer | Territory Sales Manager | Technical Sales Manager | Product Manager | Firestop Specialist | Concrete Durability, Restoration, waterproofing, Epoxy/PUR Injections | Joint systems and sealants",
+      "location": "Tucson y alrededores"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://www.linkedin.com/in/felipe-pineda-2b9a9181",
+      "summary": "Global TES Engineer at McDermott International Inc.",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://co.linkedin.com/in/felipe-pineda-a1206688",
+      "summary": "FELIPE PINEDA",
+      "location": "Bogota, D.C."
+    },
+    {
+      "name": "Juan Felipe Lopez Pineda",
+      "link": "https://pa.linkedin.com/in/juan-felipe-lopez-pineda-97340126",
+      "summary": "Innovation | Sustainability | ESG | Carbon Markets",
+      "location": "Panama City"
+    },
+    {
+      "name": "Felipe Pineda",
+      "link": "https://pa.linkedin.com/in/felipe-pineda-7aa9b630a",
+      "summary": "--",
+      "location": "Panama City"
+    },
+    {
+      "name": "felipe beker pineda",
+      "link": "https://pa.linkedin.com/in/felipe-beker-pineda-a37332104",
+      "summary": "--",
+      "location": "Panama"
+    },
+    {
+      "name": "Johan Felipe Benitez Pineda",
+      "link": "https://pa.linkedin.com/in/johan-felipe-benitez-pineda-b7906a56",
+      "summary": "soldadura",
+      "location": "Panama"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-29T00:00:00Z"
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "public_identifier": "hiba-momani-8a36422",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Hiba",
+  "last_name": "Momani",
+  "full_name": "Hiba Momani",
+  "follower_count": 1901,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "location_str": "دبي الإمارات العربية المتحدة",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Dubai",
+  "state": null,
+  "experiences": [],
+  "education": [],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Arabic",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": null,
+      "name": "customer analysis",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Wharton School",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Tech Radar Series : Implications of AI",
+      "license_number": null,
+      "display_source": null,
+      "authority": "World Government Summit - القمة العالمية للحكومات",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "MasterClass: A Quantum powered future",
+      "license_number": null,
+      "display_source": null,
+      "authority": "World Government Summit - القمة العالمية للحكومات",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "MasterClass: Identifying trends shaping the futu",
+      "license_number": null,
+      "display_source": null,
+      "authority": "World Government Summit - القمة العالمية للحكومات",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/marwsay",
+      "name": "Marwa Sayed",
+      "summary": "Founder - THREE FIFTY NINE",
+      "location": "Cairo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankie-milligan",
+      "name": "Frankie Sekhon",
+      "summary": "Founder of Self Sourced | For Heart-led CEOs Building Soul Rich Empires + Thriving In Love, Family + Life! With Zero Sacrifice! Access The Self Sourced Woman Free Masterclass",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samialmufleh",
+      "name": "Sami AL Mufleh",
+      "summary": "CEO @ HILLS ADVERTISING L.L.C | Marketing Communications Expert",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/essamnooreldin",
+      "name": "Essam Nooreldin",
+      "summary": "Sales Manager - OOH & DOOH at Hills Advertising",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amygracemill",
+      "name": "Amy Durnford",
+      "summary": "Founder at Custom No.9",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhijeetsurve",
+      "name": "Abhijeet Surve",
+      "summary": "Founder",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jagharrison",
+      "name": "James Harrison",
+      "summary": "COO, Editor in Chief and Data Junkie - IAB MENA",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abbasnt",
+      "name": "Ahmed Abbas",
+      "summary": "Founder @ DigiSay, Co-Founder @ SilkBytes @ CubitCode @ Immersive @ RightsHero @ Mangos24 & Partner @ Minly",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/youssefkibbe",
+      "name": "Youssef Kibbe",
+      "summary": "Founder at iboothme virtual and hybrid event brand solutions",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aymanitani",
+      "name": "Ayman Itani",
+      "summary": "Helping government leaders implement their strategies to achieve key priorities.",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annamariapisano",
+      "name": "Anna Maria Pisano",
+      "summary": "Ceo and Executive Director, Global Studio",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eminguluzade",
+      "name": "Emin Guluzade",
+      "summary": "Founding Board Member at Marketing Professionals Association",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/focusadvertising",
+      "name": "Focus Advertising",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aijaz-shah",
+      "name": "Aijaz Shah",
+      "summary": "Sales and marketing manager at Trinet Outdoor Media & Advertising",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tenzin-chokay-emba-936b7726",
+      "name": "Tenzin Chokay EMBA",
+      "summary": "Founder & CEO at Bespoke Media Group - Corporate Merchandise - Events - OOH Media Buying",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrssamanthaevans",
+      "name": "Samantha Evans",
+      "summary": "PR & social media across UAE, KSA and wider Middle East. Consultant & Trainer. Founder at Footstep Communications",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariam-maher-10829b20a",
+      "name": "Mariam Maher",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirtisingh9",
+      "name": "Kirti Singh",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammad-al-sheikh-819532150",
+      "name": "Mohammad Al-Sheikh",
+      "summary": "Director of Operations - Viola Media",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hisham-al-joudi-mba-44639233",
+      "name": "Hisham Al Joudi , MBA",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niall-sallam",
+      "name": "Niall S.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brendon-cook",
+      "name": "Brendon Cook. OAM",
+      "summary": "Advisor to founders | Deep Board experience | Mentoring growth company executives | Sales & Business development underpinned  by great people & culture | Start-ups | Acquisitions | Tech Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shrutibhansali",
+      "name": "Shruti B.",
+      "summary": "Digital Marketing Specialist | Philips",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shafnaa-shamsuddin-6b6b8550",
+      "name": "Shafnaa Shamsuddin",
+      "summary": "Group Chief Financial Officer at Media World LLC and Pixels World LLC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anastasiya-zuykova",
+      "name": "Anastasiya Zuykova",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-abouchacra-489195222",
+      "name": "Paul Abouchacra",
+      "summary": "Managing Director & Founder",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julespugh",
+      "name": "Julie Alice Pugh",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wassim-malkawi-4559123",
+      "name": "Wassim Malkawi",
+      "summary": "Chief Financial Officer",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-parry-okeden-110b9b3",
+      "name": "Charles Parry-Okeden",
+      "summary": "Founder & Global CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riddhi-dasgupta-753342b",
+      "name": "Riddhi Dasgupta",
+      "summary": "Global Measurement and Insights - Amazon | Ex-Senior Director -  Data Science and AI at ACXIOM - MENAT| Ex- Accenture, Vodafone-Idea, Kantar",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-bajaj-60a83511",
+      "name": "natasha bajaj",
+      "summary": "Founder",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dounia-baha-a67b2211",
+      "name": "Dounia Baha",
+      "summary": "Founder DB Consulting & Dounia Healing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrin-robertson",
+      "name": "Katrin A. Robertson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-de-lella",
+      "name": "Guillermo De Lella",
+      "summary": "CEO of ALOOH | Specialist in Out-of-Home Advertising (OOH) in Latin America | Industry Development, Regional Integration, and New Formats",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pauline-rady-75607b18",
+      "name": "PAULINE RADY",
+      "summary": "Client Partner Manager_Luxury & Beauty @TikTok",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rabih-bekai-2ba47218",
+      "name": "Rabih Bekai",
+      "summary": "Media Expert | OOH enthusiast",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martyn-frederick-1498a718",
+      "name": "Martyn Frederick",
+      "summary": "Director - Sales & Operations at MPN",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdallah-adra-74750020",
+      "name": "Abdallah Adra",
+      "summary": "Head of Trading,  WPP Media MENA",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maud-moawad-26362420",
+      "name": "Maud Moawad",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhimanyu-arora-b9a70221",
+      "name": "Abhimanyu Arora",
+      "summary": "Director specializing in Luxury At-Home Beauty & Wellness Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruchika-manglani-1ab08427",
+      "name": "Ruchika Manglani",
+      "summary": "Associate Director - Sales at MEDIA247",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharanjit-koda-b72b3b27",
+      "name": "Sharanjit Koda",
+      "summary": "Founder at Minutiae Agency",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/imadabirizk",
+      "name": "Imad Abi Rizk",
+      "summary": "Chief Operating Officer (COO) at MEDPUSH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hadi-sassine-09a39732",
+      "name": "Hadi Sassine",
+      "summary": "Trading Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammad-odah-b7233439",
+      "name": "Mohammad Odah",
+      "summary": "Creative Group Head at Hills Advertising L.L.C.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafiq-abu-hijleh-2-15552740",
+      "name": "Rafiq Abu-Hijleh 2",
+      "summary": "CEO at media 24-7",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdullah-kablan",
+      "name": "Abdullah Kablan",
+      "summary": "Sales Manager @ MEDIA247 | OOH Media Advertising (Hoardings - Unipoles - Taxi Wrapping - Wallbanner)",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-ghosn-ba2b9362",
+      "name": "Sara Ghosn",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohd-atallah-6996a970",
+      "name": "Mohd Atallah",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sajjad-ahmed-3659ab76",
+      "name": "Sajjad Ahmed",
+      "summary": "Graphic Designer / Visualizer at Hills Advertising LLC",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/waleed-aljundi-91922390",
+      "name": "Waleed Aljundi",
+      "summary": "Hospitality & Services",
+      "location": "Amman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rana-balkajian-96168295",
+      "name": "Rana Balkajian",
+      "summary": "Publicis Groupe•3K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/oxana-fiodorova-565096114",
+      "name": "Oxana Fiodorova",
+      "summary": "Operations Manager at Hills Advertising - Outdoor media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahmoud-najjar-6a177613b",
+      "name": "Mahmoud Najjar",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/destina-kash-b8478b1a1",
+      "name": "Destina Kash",
+      "summary": "Digital Sales Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/derek-williams-5b10131a9",
+      "name": "Derek Williams",
+      "summary": "--",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roycrane-saturley-1612841ba",
+      "name": "Roycrane Saturley",
+      "summary": "Board Member at World Out of Home Organization",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "The OOH industry across the region is entering a more mature and accountable phase. As cities become more connected and media environments evolve…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_the-ooh-industry-across-the-region-is-entering-activity-7460388698371784704-IZc9",
+      "activity_status": null
+    },
+    {
+      "title": "Most partnerships are discussed in terms of scale. What’s happening in Dubai goes beyond that. It’s about how infrastructure, long-term concessions,…",
+      "link": "https://www.linkedin.com/posts/activity-7457414165154947072-QNuK",
+      "activity_status": null
+    },
+    {
+      "title": "Over 90 bridges is a network, not a portfolio, and what this renewal signals is that the infrastructure layer of OOH in Dubai is consolidated and…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_over-90-bridges-is-a-network-not-a-portfolio-activity-7456247598476292097-d_5e",
+      "activity_status": null
+    },
+    {
+      "title": "What this renewal confirms is something we’ve believed for a long time. The companies that will define OOH going forward are not the ones selling…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_mada-media-signs-an-agreement-with-hills-activity-7456246906978115584-3n7A",
+      "activity_status": null
+    },
+    {
+      "title": "Proud of what we’ve built at Hills Advertising L.L.C. This milestone is a reflection of the direction we’ve believed in for a long time continuously…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_hillsadvertising-leadership-growth-activity-7452278418261372928-j0Zb",
+      "activity_status": null
+    },
+    {
+      "title": "On International Women’s Day, I celebrate the strength, resilience, and brilliance of women everywhere. Women who lead, women who build, women who…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_hillsadvertising-dubai-activity-7436684317453500416-_Pci",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to witness the success of this initiative in its the first round. World Out of Home Organization",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_looking-forward-to-witness-the-success-of-activity-7405445033967050752-JlNs",
+      "activity_status": null
+    },
+    {
+      "title": "Women in WOO is a great initiative launched recently during World Out of Home Organization in Seoul, thrilled for this new journey. #woo #dubai",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_woo-dubai-activity-7393128056275673088-DTwH",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to join brilliant leaders and innovators from across the region at the World Out of Home Organization APAC- Seoul a dynamic space where OOH…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_hillsadvertising-woo-activity-7392382946395103232-03jt",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud of Sami AL Mufleh being listed in Campaign Middle East power list. Highly accomplished man with great wisdom to share. #themenapowerlist…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_themenapowerlist-hillsadvertising-activity-7381919600478740480-ijWB",
+      "activity_status": null
+    },
+    {
+      "title": "When OOH just got way too glam to ignore! #oohadvertising #OoH #WOO #DubaiMEdia #Dubai Hills Advertising L.L.C.",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_oohadvertising-ooh-woo-activity-7358044205396484096-k8Id",
+      "activity_status": null
+    },
+    {
+      "title": "Cannes Lions International Festival of Creativity was a fantastic reminder of how traditional outdoor advertising still holds its power in a digital…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_oohmedia-advertising-cannelion-activity-7346486351891947520-0SpY",
+      "activity_status": null
+    },
+    {
+      "title": "With high-frequency exposure, strategic placement, and creative formats, OOH delivers unmatched brand recall, massive reach, and unshakable presence.…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_ooh-dooh-advertisingimpact-activity-7335670061820444675-_QO1",
+      "activity_status": null
+    },
+    {
+      "title": "Insightful and inspiring! Glad to be part of the dynamic OOH discussion! #GCCoohsummit2025 #Dubai #OOH #WOO #seventhdecimal",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_gccoohsummit2025-dubai-ooh-activity-7297328239457234944-tt_5",
+      "activity_status": null
+    },
+    {
+      "title": "Very excite to announce our participation in the first edition of the GCC OOH summit. #GCC_OOH_SUMMIT #ooh #dubai #hillsadvertising #oohmedia",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_gccoohsummit-ooh-dubai-activity-7293649763579654144-iEHZ",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting AI discussion and platforms useage for OOH World Out of Home Organization #wooannualcongress #hongkong",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_wooannualcongress-hongkong-activity-7204430313492475904-OtIz",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled and honored to present on a panel last week ! Grateful for the opportunity to discuss and discover the insights and the ooh directions of…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_campainbreakfastbriefing-dubaibusiness-activity-7132365431733899265-Jm1x",
+      "activity_status": null
+    },
+    {
+      "title": "For the love of OOH we All gathered today! Attending the World Congress is the highlight of June this year.The congress provided a platform to…",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_woolisbon-ooh-woo-activity-7072632820380123136-3luO",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/hiba-momani-8a36422_proudofarchteam-madeinandorra-madebyarch-activity-6579763957219844096-E6ex",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Hiba Momani",
+      "link": "https://jo.linkedin.com/in/hiba-momani-09381a16a",
+      "summary": "Student at University of Petra \"جامعة البترا\"",
+      "location": "الأردن"
+    },
+    {
+      "name": "Hiba Momani",
+      "link": "https://jo.linkedin.com/in/hiba-momani-7386a0195",
+      "summary": "طالب في الجامعة الأردنية",
+      "location": "الأردن"
+    },
+    {
+      "name": "Hiba Al momani",
+      "link": "https://jo.linkedin.com/in/hiba-al-momani-2bb4b1233",
+      "summary": "Teaching Assistant at Jordan University of Science and Technology",
+      "location": "Amman"
+    },
+    {
+      "name": "Hiba Momani",
+      "link": "https://jo.linkedin.com/in/hiba-momani-b91949296",
+      "summary": "Assistant Professor at جامعة الاسراء Isra University",
+      "location": "Amman"
+    },
+    {
+      "name": "Hiba Momani",
+      "link": "https://jo.linkedin.com/in/hiba-momani-01a0442ab",
+      "summary": "--",
+      "location": "Amman"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-17T00:00:00Z"
+  }
+}

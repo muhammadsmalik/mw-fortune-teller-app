@@ -1,0 +1,759 @@
+{
+  "public_identifier": "whevans",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/1902ab59975f1f6a1795962844675c61",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/24f4825ec4de9325f8c80bec3e484f97",
+  "first_name": "Bill",
+  "last_name": "Evans",
+  "full_name": "Bill Evans",
+  "follower_count": 1046,
+  "occupation": "CEO at BlueZoo Inc.",
+  "headline": "CEO at BlueZoo, Inc.",
+  "summary": "I love a great product, especially one that is well-engineered and creates an entirely new product category.  I was a part of the teams that brought to market the first RDBMS designed for data warehousing in 1992 (Red Brick), one of the first web content management solutions in 1997 (Aziza), one of the first enterprise e-commerce application in 2001 (Blue Martini), and one of the first audience (i.e. human occupancy) measurement solutions in 2020 (BlueZoo).  Innovative software can make the world a better place!",
+  "location_str": "Menlo Park, California, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Menlo Park",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "BlueZoo Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bluezoo-inc",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "BlueZoo provides audience and occupancy measurement services to the out-of-home advertising, retail, and insurance markets.  BlueZoo's passive Wi-Fi technology counts smartphones as a proxy for people.  Unlike GPS-based mobile apps, BlueZoo's technology is privacy friendly and measures 95% of smartphones in a designated detection zone.  BlueZoo's technology is protected by seven granted USPTO patents. Some of the world's largest OOH advertisers (JCDecaux), retailers (Home Depot), and insurers (The Hartford) use BlueZoo products.  Advertisers and retailers measure audience sizes of digital signage to set advertising prices.  Insurers measure occupancy as an indicator of risk, and seek to mitigate and correctly price this risk. Relevant to insurance markets, BlueZoo markets a simplified product, branded \"Party Squasher\", to short term rental (e.g. Airbnb) operators.  Party Squasher detects a party when people gather, typically more than 1.5 hours before the noise starts, and notifies the rental manager via SMS or email in real time.",
+      "location": "Menlo Park, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ffa07bdb12e7536504b9bd7fa556fb49"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "Market Builders Consulting",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/market-builders-consulting",
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": "Market Builders focuses on helping tech startups with market development including messaging, market validation, marketing collateral, sales tools, and demand generation.  Sectors include SaaS/cloud applications/infrastructure, storage, virtualization, and network security.  Scope includes both definition and implementation of marketing strategy.",
+      "location": "San Carlos, California, USA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dc86cec3535391f0a6e7d4bd9d202e24"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2014
+      },
+      "company": "WD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/western-digital",
+      "company_facebook_profile_url": null,
+      "title": "General Manager, Business Storage Solutions Business Unit",
+      "description": "Tasked with integrating and growing WD’s SMB storage group offering both WD network attached storage and Arkeia network backup appliances.  Focused on building a VAR / DMR / E-tail channel for software and appliances, complementary to WD’s channel for hard drives.  Defined product family of storage and backup appliances using a suite of custom-designed desktop and rack-based hardware platforms.  Responsible for SMB appliance revenues with team of 20 marketing staff. WD, competing with Seagate to be the world's #1 hard disk driver manufacturer, sought to diversify its revenue beyond storage hardware components.",
+      "location": "Mountain View, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d2663fa333785855d88d875ec5374636"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Arkeia Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/arkeia-software",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "Arkeia Software delivered the first professional network backup solution for Linux in 1999.  Arkeia designed and sold backup software and appliances with 45% revenue from North America and 45% from Europe. Grew Arkeia Software by building marketing and restructuring sales to embrace VAR channel strategy.  Tripled revenue.  Refocused engineering on protection of virtual machine environments (e.g. VMware).  Acquired Kadena Systems in 2009 to own Kadena’s patented Progressive Deduplication.  Sold to Western Digital to expand their SMB business unit.",
+      "location": "Los Altos, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/59dad41d248aec2348a74a328a9f8d2a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2008
+      },
+      "company": "Parascale",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/parascale",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "Parascale developed software for large-scale cloud storage.  Set go-to-market strategy, product definition, and company positioning.  Organized three beta sites for software and launched company and product to industry press.  Led Series-A search which culminated in $10M Series A round after four months.",
+      "location": "Cupertino, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fc89dc97e9e228bbbdd8ddb3c4bc81c2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2005
+      },
+      "company": "Gateway",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gateway",
+      "company_facebook_profile_url": null,
+      "title": "SVP, International Business Unit",
+      "description": "Created and implemented strategy for international expansion to replace existing eMachines and Gateway strategies.  Redirected business to concentrate on retail consumer markets. Focused on Japan and on major markets in Europe and Latin America, growing revenue by 18%. Introduced Gateway brand into Japan and eMachines brand into Mexico; negotiated terms for introduction of eMachines brand into Europe to set the foundation for follow-on growth.  Reported to CEO and was responsible for $270M in annual revenue. Managed staff of 35.  Gateway was sold to Acer in 2007.",
+      "location": "Irvine, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/55e10a8e330293d79f8135fbfc48cae2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2003
+      },
+      "company": "Blue Martini Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blue-martini-software",
+      "company_facebook_profile_url": null,
+      "title": "SVP & GM Asia Pacfic",
+      "description": "Launched Blue Martini in Asia-Pacific and acquired marquee accounts in each geography (e.g., Matsushita, Changi Airport, Metcash, and NTT) and developed partnerships with systems integrators (e.g., Accenture, IBM). Established master distributor network in Japan.  Established offices in Sydney, Singapore, Hong Kong, and Tokyo.",
+      "location": "Tokyo, Japan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/97e08c5c6f2261c8af5c02543d922a84"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2001
+      },
+      "company": "Blue Martini Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blue-martini-software",
+      "company_facebook_profile_url": null,
+      "title": "SVP Marketing",
+      "description": "Defined and positioned product and company. Built strong brand on limited budget in a category crowded with established companies and start-ups. With revenues of $75M at IPO, Blue Martini became the fastest growing enterprise software company in history.  Blue Martini attained a market capitalization of $4B.   Employee #2. Hired and managed organization of 52 professionals, including teams for Corporate Marketing (PR, Marcom, Events), Product Management and Marketing, and Alliances (SI, ISV, platform). Launched four major product versions, recruited advisory board, launched user group, and built industry (e.g., retail, manufacturing) programs. Blue Martini Software (BLUE) delivered enterprise solutions for e-commerce, used by retailers and manufacturers. Blue Martini was incorporated in July 1998, funded by Matrix Partners and USVP in 1999, and completed an IPO in July 2000.",
+      "location": "San Mateo, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/97e08c5c6f2261c8af5c02543d922a84"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 1998
+      },
+      "company": "Objectivity, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/objectivity",
+      "company_facebook_profile_url": null,
+      "title": "General Manage, Aziza Business Unit",
+      "description": "Set strategy to build and sell a web content manager to the Global 2000, based on the Objectivity OODB.  Launched product in September 1997.  Aziza product was cancelled to focus on OODB OEM sales, but the web content management market blossomed with vendors like Vignette that launched the same year.",
+      "location": "Mountain View, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c3efc4befc2da7773359801cae14d72e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Objectivity",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/objectivity",
+      "company_facebook_profile_url": null,
+      "title": "VP of Marketing",
+      "description": "Selected OEMs and ISVs as the primary market for Objectivity's object oriented database, ending focus on enterprise markets.   Objectivity was funded by IVP, Mayfield Fund, Menlo Ventures and Sevin-Rosen, and ceased operations in late 2023.",
+      "location": "Mountain View, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c3efc4befc2da7773359801cae14d72e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 1995
+      },
+      "company": "Red Brick Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/red-brick-systems",
+      "company_facebook_profile_url": null,
+      "title": "Sales Representative",
+      "description": "Number one salesrep for 1993 and 1994, achieving 166% and 132% of annual quota. In 1993, responsible for 70% of end-user licenses by value. Opened new markets, closing the company’s first customers in retail, distribution and manufacturing.  Closed first deal over $100k and trebled average deal size.  Closed Con Agra, DFS Group Ltd., The Good Guys!, Hewlett-Packard, Hughes Aircraft, Longs Drug Stores, Sysco, and Southern Pacific Railroad which became Red Brick’s core reference accounts.",
+      "location": "Los Gatos, California, United States",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "company": "Red Brick Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/red-brick-systems",
+      "company_facebook_profile_url": null,
+      "title": "Director of Product Management",
+      "description": "Red Brick Systems developed the first RDBMS designed expressly for data warehousing.  Hired and managed staff of seven to define, price, promote the Red Brick Warehouse.",
+      "location": "Los Gatos, California, United States",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 1990
+      },
+      "company": "Parc Place Systems",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Product Manager",
+      "description": "Vendor of development environments for object-oriented languages (Smalltalk and C++).  Smalltalk was predecessor to Java.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 1989
+      },
+      "company": "Oracle",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oracle",
+      "company_facebook_profile_url": null,
+      "title": "Product Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/69d2588a0f7128959a31c1d1fcef99ec"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1980
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1982
+      },
+      "field_of_study": "Circuits, Systems, and Computers (Course 6, Area 3)",
+      "degree_name": "MSEECS",
+      "school": "Massachusetts Institute of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/mit",
+      "school_facebook_profile_url": null,
+      "description": "National Science Foundation Fellow.  Thesis in MIT's Research Laboratory of Electronics, supervised by Professor Jonathan Allen, defined an NMOS DSP architecture for voice synthesis.  Taught courses in integrated circuit design to students from industry in the US (Boston) and Europe (Berlin) during two summers.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/35d64df1cce08965de8b857ecc88d2ff",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1988
+      },
+      "field_of_study": "Finance, General",
+      "degree_name": "MBA",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": "As President of Human Resources Management club, organized site visits to the coolest hi-tech manufacturing  facilities in Greater Boston (e.g. HP semiconductors in Hudson, GE aircraft engines in Lynn).  Summer job in non-consumer marketing at Sony in Tokyo, Japan.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9550dd31e1b71782045956142df4ed0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1976
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1980
+      },
+      "field_of_study": "Electrical Engineering & Computer Science",
+      "degree_name": "BSEECS",
+      "school": "Santa Clara University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/santa-clara-university",
+      "school_facebook_profile_url": null,
+      "description": "Honors Program all of four years.  Enjoyed a stellar liberal arts education and still received a degree in electrical engineering.  First engineer at SCU elected to Phi Beta Kappa.  Graduated Summa Cum Laude.  Organized and led regular 42-person day trips by bus to Sierra skiing.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/afc71445ea6aa68577ba09dfb0453de6",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/larryhaworth",
+      "name": "Larry Haworth",
+      "summary": "CEO at SalePoint, Inc. and PatientWorks Corporation",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/doug-winter",
+      "name": "Doug Winter",
+      "summary": "Founder and CEO at Seismic",
+      "location": "Encinitas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erictrabold",
+      "name": "Eric Trabold",
+      "summary": "Business Builder & Change Accelerator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sgupta85",
+      "name": "Sunny Gupta",
+      "summary": "Operator, Investor and Board Member Enterprise SaaS",
+      "location": "Kirkland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bilharmann",
+      "name": "Bill Mann",
+      "summary": "Cybersecurity Product & CEO Leader | Former CEO: InceptionCyber & Styra | Former CPO: Centrify | Identity, AI Security, Authorization, Cloud Security",
+      "location": "Palo Alto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daojensen",
+      "name": "Dao Jensen",
+      "summary": null,
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgegallegos",
+      "name": "George Gallegos",
+      "summary": "Board Member",
+      "location": "Orinda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shalinjain",
+      "name": "Shalin Jain",
+      "summary": "Founder & CEO HappyFox Inc",
+      "location": "Southlake"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guygoldstein",
+      "name": "Guy G.",
+      "summary": "CEO at Next Insurance",
+      "location": "Los Altos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrelltrimble",
+      "name": "Darrell Trimble",
+      "summary": "CEO at SP Marketplace",
+      "location": "Penn Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davepowell",
+      "name": "Dave Powell",
+      "summary": "Technologist focused on system automation and AI",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/toresteen",
+      "name": "Tore C. Steen",
+      "summary": "CEO @ Nada, Inc.",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taylorrhodes",
+      "name": "Taylor Rhodes",
+      "summary": null,
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/curtishutcheson",
+      "name": "Curtis Hutcheson",
+      "summary": "Private Equity and Enterprise Software",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vikas",
+      "name": "Vikas Sharan",
+      "summary": "Entrepreneur",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewbrogie",
+      "name": "Matthew Brogie",
+      "summary": null,
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-acker-a730701",
+      "name": "Rob Acker",
+      "summary": null,
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franztovar",
+      "name": "Franz Tovar",
+      "summary": "Founder  | IT Director  |   International Speaker  |  Book Author  | IT & Security Advisor  | Blockchain & IA Enthusiastic",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-rastorgouev-47931934",
+      "name": "Alex Rastorgouev",
+      "summary": null,
+      "location": "Newton Centre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonroskill",
+      "name": "Jon Roskill",
+      "summary": "Board Chair, ex-CEO, PE Advisor, ex-Microsoft Exec >> maximizing shareholder returns",
+      "location": "Kirkland"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Introducing The Helix. A digital Out-of-Home network, designed for scale and rooted in BackLite Media’s premium brand DNA. Spanning 12km along…",
+      "link": "https://www.linkedin.com/posts/backlite-media_backlitemedia-desirablebydesign-dubai-activity-7425159182875607040-lfvg",
+      "activity_status": null
+    },
+    {
+      "title": "Google Cloud just made Customer Experience Agent Studio (CX Agent Studio) Generally Available! This is a low-code agent building platform built on…",
+      "link": "https://www.linkedin.com/posts/holt_intro-to-gemini-enterprise-cx-for-developers-activity-7425210255120285696-wAFD",
+      "activity_status": null
+    },
+    {
+      "title": "Spots are filling fast for Digital Signage Federation first Mix & Mingle of 2026. You aren’t going to want to miss the good times in Texas🤠.",
+      "link": "https://www.linkedin.com/posts/pisanofrank_spots-are-filling-fast-for-digital-signage-activity-7424700473271713792-_seL",
+      "activity_status": null
+    },
+    {
+      "title": "(Mostly) recovered from an incredible week at IAB ALM and feeling grateful for the smart, thoughtful people who joined us and shared how commerce…",
+      "link": "https://www.linkedin.com/posts/collin-colburn_mostly-recovered-from-an-incredible-week-activity-7425550988708589568-p-ey",
+      "activity_status": null
+    },
+    {
+      "title": "When much of the audience works in finance and tech, premium offices feel like a pretty natural place for a trading platform to show up. Great work…",
+      "link": "https://www.linkedin.com/posts/paul-mcbeth-90539713_when-much-of-the-audience-works-in-finance-activity-7426950385493254144-C4wV",
+      "activity_status": null
+    },
+    {
+      "title": "Who doesn't love seeing local campaigns get the recognition they deserve! Only two days left to apply for the Local Case Study Awards. This is a…",
+      "link": "https://www.linkedin.com/posts/annabager_who-doesnt-love-seeing-local-campaigns-get-activity-7424803966716313600-37rg",
+      "activity_status": null
+    },
+    {
+      "title": "In February 2024, I stepped in as Board Chair for Mount Shepherd Retreat Center. While the mission was vibrant, the organization was navigating a…",
+      "link": "https://www.linkedin.com/posts/r-nunn_in-february-2024-i-stepped-in-as-board-chair-activity-7422098091001950211-cItV",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats! Winner Winner! Nothing better than taking home the demo items! Thanks for playing and enjoy! Game is still going at stand 4D550, come on…",
+      "link": "https://www.linkedin.com/posts/bluefin-lcd_handwarmers-giftcards-massageguns-activity-7425094589117673472-QNeX",
+      "activity_status": null
+    },
+    {
+      "title": "My grandfather was a big science guy. Donating his brain for Parkinson’s research was very important to him. Thank you for helping us make that…",
+      "link": "https://www.linkedin.com/posts/brain-support-network_my-grandfather-was-a-big-science-guy-donating-activity-7426037046873575424-E_s1",
+      "activity_status": null
+    },
+    {
+      "title": "Off to ISE Barcelona?!? Come meet up with the Bluefin team at Stand 4D550! #ISE #ISE2026 #Bluefin #ProAV #DigitalSignage",
+      "link": "https://www.linkedin.com/posts/susanmwilhite_ise-ise2026-bluefin-activity-7422362636035596288-p8Hq",
+      "activity_status": null
+    },
+    {
+      "title": "It's nearly time for our final happy hour of Integrated Systems Europe (ISE)! Chat with Justin from Blue Billboard to enjoy some drinks at 3pm! Find…",
+      "link": "https://www.linkedin.com/posts/xibo-open-source-digital-signage_ise2026-xiboise26-digitalsignage-activity-7425161319059980288-oBeq",
+      "activity_status": null
+    },
+    {
+      "title": "What an amazing time at #ISE2026! Loving the energy and the conversations! It’s been great meeting so many partners and clients, both new and…",
+      "link": "https://www.linkedin.com/posts/bluefin-lcd_ise2026-digitalsignage-avtweeps-activity-7424799786287112193-L0s3",
+      "activity_status": null
+    },
+    {
+      "title": "Prashant Chaudhary  has always been ahead to next technology wave and this time with Aigenzey he brings solutions.",
+      "link": "https://www.linkedin.com/posts/sunita-merchia-5018931a_prashant-chaudhary-has-always-been-ahead-activity-7422670057366827008-Z35d",
+      "activity_status": null
+    },
+    {
+      "title": "Day 2 at Integrated Systems Europe (ISE) here in Barçelona! Come by Videri Inc. booth 4B300 and learn more about #embedded solutions with Allsee…",
+      "link": "https://www.linkedin.com/posts/jayleedy_embedded-interactive-activity-7424731465172553728-Hpec",
+      "activity_status": null
+    },
+    {
+      "title": "Hong Kong needs a seat at the table when Asia's OOH industry is setting its direction — and Bravo Media is committed to being there. Great to see…",
+      "link": "https://www.linkedin.com/posts/petignaud_asia-ooh-leaders-convene-in-shenzhen-to-advance-activity-7438232245955485696-uITE",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations and Welcome  Sree Budhavarapu for joining Merchia Realty , looking forward to serving our clients with honesty, transparency and…",
+      "link": "https://www.linkedin.com/posts/sunita-merchia-5018931a_congratulations-and-welcome-sree-budhavarapu-activity-7438048037672747008-AkUN",
+      "activity_status": null
+    },
+    {
+      "title": "I am excited to announce that I’m joining Walgreens as Vice President of Digital & Retail Media. Walgreens operates at the unique intersection of…",
+      "link": "https://www.linkedin.com/posts/john-storms-883428b6_i-am-excited-to-announce-that-im-joining-activity-7437151376398528512-_h-G",
+      "activity_status": null
+    },
+    {
+      "title": "Right after returning from the Shenzhen seminar, we had a Korea–Japan OOH exchange. Korea’s bold DOOH innovation and Japan’s thorough and indepth…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_asiashareandlearntogether-activity-7437460113801760768-8FIN",
+      "activity_status": null
+    },
+    {
+      "title": "Though my husband passed away in 2023, my mind is still fresh with all the help and understanding given to me by the caregiver support group.…",
+      "link": "https://www.linkedin.com/posts/brain-support-network_though-my-husband-passed-away-in-2023-my-activity-7437618385544245248-A5Hu",
+      "activity_status": null
+    },
+    {
+      "title": "ECN goes TOP 14 🚀 Wir freuen uns, einen weiteren Meilenstein erreicht zu haben: Mit unseren Office Media sind wir jetzt in den 𝗧𝗼𝗽 𝟭𝟰 Städten…",
+      "link": "https://de.linkedin.com/posts/ecndooh_workplacemedia-expansion-officemedia-activity-7437407163876036609-8Y9C",
+      "activity_status": null
+    },
+    {
+      "title": "I love this video our marketers made about our release of open-source Agent Control. But it's the project itself (and ecosystem of partners already…",
+      "link": "https://www.linkedin.com/posts/garoutte_i-love-this-video-our-marketers-made-about-activity-7437619394194755584--ePc",
+      "activity_status": null
+    },
+    {
+      "title": "We are thrilled to be part of the 2025 Shop! Association awards with our partner, Century Displays!  These awards highlight some of the best retail…",
+      "link": "https://www.linkedin.com/posts/bluefin-lcd_retailsigange-activity-7437237879996780544-oNoM",
+      "activity_status": null
+    },
+    {
+      "title": "⏳ Time is running out at SPECS 2026! If you haven’t visited the BrandPoint team at Booth 739 yet, now is your final chance! Stop by to play some…",
+      "link": "https://www.linkedin.com/posts/brandpoint-services_specs2026-brandpointservices-tradeshow-activity-7437176139279822848-2QAA",
+      "activity_status": null
+    },
+    {
+      "title": "Bought Mike Hiatt's new book (Timing the Desert) on Amazon Monday morning. It's a great read, especially for anyone who cares about retail media…",
+      "link": "https://www.linkedin.com/posts/whevans_bought-mike-hiatts-new-book-timing-the-activity-7429722838061875200-0j4f",
+      "activity_status": null
+    },
+    {
+      "title": "BlueZoo enjoyed a great #NRF2026 in NYC last week! I especially enjoyed the opportunity to present with Google's Michael E. in the #Google booth.…",
+      "link": "https://www.linkedin.com/posts/whevans_nrf2026-google-veo3-activity-7419539319180275713-7dzU",
+      "activity_status": null
+    },
+    {
+      "title": "Join BlueZoo Inc. at #NRF26 for a joint presentation with Google on Tuesday at 10:40am in Google's booth 5507. Google Veo3 and BlueZoo audience…",
+      "link": "https://www.linkedin.com/posts/whevans_nrf26-retailtech-retailmedianetworks-activity-7415582810075213824-cOIk",
+      "activity_status": null
+    },
+    {
+      "title": "GDPR compliance has always been the primary impediment to deploying \"Passive Wi-Fi\" solutions for audience measurement. Any company can use a sensor…",
+      "link": "https://www.linkedin.com/posts/whevans_gdpr-compliance-has-always-been-the-primary-activity-7346220137395429376-n_8D",
+      "activity_status": null
+    },
+    {
+      "title": "I will be attending Stratacache's RMN conference that takes place on Saturday before the NRF show starts. Lots of great speakers again this year.…",
+      "link": "https://www.linkedin.com/posts/whevans_i-will-be-attending-stratacaches-rmn-conference-activity-7283226186321698816-eK0S",
+      "activity_status": null
+    },
+    {
+      "title": "In the rapidly evolving retail media network (RMN) and out-of-home advertising (OOH) categories, transparency and accuracy are essential to…",
+      "link": "https://www.linkedin.com/posts/whevans_outcome-health-co-founder-rishi-shah-sentenced-activity-7224842007024693248-MiBk",
+      "activity_status": null
+    },
+    {
+      "title": "NRF demonstrated that retail media networks (RMNs) are gaining traction as retailers start to recognize the value of their real estate for purposes…",
+      "link": "https://www.linkedin.com/posts/whevans_nrf-demonstrated-that-retail-media-networks-activity-7153912601662431232-aI9_",
+      "activity_status": null
+    },
+    {
+      "title": "BlueZoo will be exhibiting at NRF 2024 (booth #852). The National Retail Federation expo starts in New York City tomorrow, Sunday, at 10am. Look us…",
+      "link": "https://www.linkedin.com/posts/whevans_bluezoo-will-be-exhibiting-at-nrf-2024-booth-activity-7152126215758172160-vWaP",
+      "activity_status": null
+    },
+    {
+      "title": "I am attending Out Of Home New York, in NYC during the week of October 10. Ping me if you'll be there! https://lnkd.in/gkrF9cFf #OOHNYCÂ #OOHÂ #DOOHÂ…",
+      "link": "https://www.linkedin.com/posts/whevans_out-of-home-new-york-new-name-for-what-was-activity-7115764583918682112-8j6a",
+      "activity_status": null
+    },
+    {
+      "title": "Last year, BlueZoo was awardedÂ âBest Digital Signage Software ProductâÂ by rAVe [PUBS] atÂ DSE. Our expectations are set high for DSE in…",
+      "link": "https://www.linkedin.com/posts/whevans_last-year-bluezoo-was-awardedbest-digital-activity-7065422741725728768-XbDB",
+      "activity_status": null
+    },
+    {
+      "title": "The challenge for audience measurement is that getting quality data isn't easy. If you choose the wrong proxy and \"project\", the results can be next…",
+      "link": "https://www.linkedin.com/posts/whevans_granular-measurement-as-a-strategic-differentiator-activity-7049779636221743105-11Y5",
+      "activity_status": null
+    },
+    {
+      "title": "I really liked Frederic's comparison of the need for measurement data exhibited by both out-of-home (offline) advertising campaigns (e.g. BlueZoo)…",
+      "link": "https://www.linkedin.com/posts/whevans_meet-fred-renard-from-bluezoo-activity-7005999901872439296-C7Cp",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/bill-evans-b427267",
+      "summary": "Owner, Bill Evans Home Team, LLC",
+      "location": "Pasadena, MD"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/james-billevans",
+      "summary": "Administrator (Head of School) at Peniel Baptist Academy",
+      "location": "Palatka, FL"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/billevanspleasantonca",
+      "summary": "-",
+      "location": "Pleasanton, CA"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/bill-evans-27778896",
+      "summary": "owner at bill evans lawn service",
+      "location": "Brentwood, TN"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://uk.linkedin.com/in/bill-evans-964b7515",
+      "summary": "Owner, Evans Training and Consultancy",
+      "location": "Tonbridge"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/wevanswest",
+      "summary": "Chief Marketing Officer at Netwrix Corporation",
+      "location": "Sarasota, FL"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/wevans",
+      "summary": "Founder & General Partner, Rock Health Capital",
+      "location": "San Francisco Bay Area"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/btevans",
+      "summary": "Cloud Strategy and Execution at AWS",
+      "location": "New York City Metropolitan Area"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/innovationinaction",
+      "summary": "Chief Brand Officer at Komodo Health",
+      "location": "Glen Gardner, NJ"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/bill-evans-02539738",
+      "summary": "Senior Talent Acquisition Advisor at CBRE Investment Management",
+      "location": "Charlotte Metro"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/thirteenpixels",
+      "summary": null,
+      "location": "Longwood, FL"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/bill-evans-5073558",
+      "summary": null,
+      "location": "Mechanicsburg, PA"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://uk.linkedin.com/in/bill-evans-0bb6067",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "Bill Evans",
+      "link": "https://www.linkedin.com/in/billevans",
+      "summary": null,
+      "location": "Greater Phoenix Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-09T00:00:00Z"
+  }
+}

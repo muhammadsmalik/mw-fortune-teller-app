@@ -1,0 +1,1537 @@
+{
+  "public_identifier": "sandro-moretti-a277238",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/42e30b840250a7df554e76c8328566cc",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/e7d4852e5d1671395af587d7bffabff2",
+  "first_name": "Sandro",
+  "last_name": "Moretti",
+  "full_name": "Sandro Moretti",
+  "follower_count": 24638,
+  "occupation": "Chief Sales Officer CSO & Partner at Mude Wellness Media",
+  "headline": "CSO Chief Sales Officer & Partner",
+  "summary": "Fifteen years leading sales teams, focused on structure, increasing productivity, revenue and profitability.<br><br>Experience in defining action plans, goals, pipeline, turnaround, product customization, creation of sales channels and new business.<br><br>Hands-on with a strategic vision and active collaboration with other areas, creation of new processes in the routine of sales, hiring and performance evaluation. <br><br>Delivered the sales targets in 3 of the last 4 years and awarded a Mitsubishi car for being the best<br>sales leader in 2019.",
+  "location_str": "São Paulo, São Paulo, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "São Paulo",
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Mude Wellness Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/linkedindamude",
+      "company_facebook_profile_url": null,
+      "title": "Chief Sales Officer CSO & Partner",
+      "description": null,
+      "location": "Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e086ce85e028d5b3a44cf06f65803dad"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "Almeida Junior Shopping Centers",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/almeidajunior",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": "In charge of leading a greenfield project. Since business plan, defining Capex and Opex related to led panels, structure, software and team to create the entire media operation area. In addition to all planning and execution of advertising sales.\n\nThe project transformed shopping malls into the main DOOH platform in Santa Catarina with exclusive digital formats and already receives investment from national as well as local advertisers.",
+      "location": "São Paulo, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b0ae2fe11824e40d69fdcbbb9b7ee739"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "company": "Eletromidia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eletromidia",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": "Responsible for sales, hiring, training and team leadership, project development, product profitability,\nsetting goals, strategies and action plans.\nDevelopment and implementation of quantitative and qualitative metrics for the sales team, number of weekly meetings, presentations, proposals and sales, as well as market relationship, quality of argument, projects and presentations.\nAchievement of the goals established in the annual budgets in three of the four years.\nMember of the recruitment and selection committee, monitoring and participating in all the company's\nselection processes.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/25716fc12dd5ae6f3d1434b0bed68c07"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2018
+      },
+      "company": "Grupo Globo - Mídia e Conteúdo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/organiza-es-globo",
+      "company_facebook_profile_url": null,
+      "title": "National Sales Manager",
+      "description": "In charge of Valor Econômico advertising area, leading a team with fifteen salespeople, representing 52% of the company's revenue (R$ 120MM).\n\nRestructuring part of the sales team, implementing a new management, control and customer service model.\n\nOvercoming annual goals, better performance among sales leaders, three promotions in the company and the Executive MBA at FDC paid by the company.",
+      "location": "São Paulo, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b85a0fb7dc136244aff6c77e687fd42b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "ESTADÃO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/estadao",
+      "company_facebook_profile_url": null,
+      "title": "Ad Sales Manager",
+      "description": "Responsible for the ad sales team focused on SMB. \n\nLeading a team with five salespeople, training, motivating and accompanying the team, visiting the main customers and creating customized projects, representing 18% of the company's revenue (R$ 50MM).",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e158562df50a94fc388884b0fb07bfc3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2006
+      },
+      "company": "Grupo Fleury",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-fleury",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": "Responsible for attending the main clients of the company managing more than US$ 200 million yearly that represents thirty per cent of the company revenues, besides developing special projects for hospitals and strategic customers.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/341e24de270360b384135200ae782325"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Master of Business Administration (M.B.A.)",
+      "school": "Fundação Dom Cabral",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/funda-o-dom-cabral",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/aaabd7b9665906874902707e0a6fd680",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": "Administration",
+      "degree_name": "Master's Degree",
+      "school": "FGV - Fundação Getulio Vargas",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/fgv",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/744374b5990a104a780ca3f62dcc5f3d",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Administration",
+      "degree_name": "MBA",
+      "school": "FGV - Fundação Getulio Vargas",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/fgv",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/744374b5990a104a780ca3f62dcc5f3d",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Business Administration",
+      "degree_name": null,
+      "school": "University of Toronto",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-toronto",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/32ae0da056034c069325516a5e73e778",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 24065,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/paulojpcf",
+      "name": "Paulo Costa",
+      "summary": "Diretor Comercial / O Antagonista e Revista Digital Crusoé.       \n\nPublicidade /Mídia Digital / Programática / Branded Content.\n\nEleito Top 100 gestores do mercado publicitário de 2023.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianagasparini",
+      "name": "Mariana Gasparini",
+      "summary": "Client Solutions - Pod Lead - TikTok",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandorromanelli",
+      "name": "SANDOR ROMANELLI",
+      "summary": "Head Comercial",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/limaroberto",
+      "name": "Beto Lima",
+      "summary": "João & Helena’s father | Head of Sales",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiagojsantos",
+      "name": "Thiago Santos",
+      "summary": "KSI Brasil Engineering",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vitorsilveira",
+      "name": "Vitor Silveira, Ph.D.",
+      "summary": "CMO | Executivo Sênior de Marketing | Head de Mídia | Membro de Conselho",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-kallas-oficial",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pabloghiglione",
+      "name": "Pablo Ghiglione",
+      "summary": "Head of International Co-productions at Globo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-cais",
+      "name": "André Cais",
+      "summary": "Advertising▫️Ad Sales▫️Business Growth▫️OOH▫️DOOH▫️Ex-Google",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joaobinda",
+      "name": "João Binda",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrearfranco",
+      "name": "Andrea Franco",
+      "summary": "Ejecutiva de Cuentas | Consultota de Negocios | Ventas Estrategias | Desarollo Comercial | Publicidade y Medios | Marketing Digital Ads en formación",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karinamartinezlopes",
+      "name": "Karina Martinez",
+      "summary": "Executivo de Negócios | Executivo de contas | Marketing",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisguastella",
+      "name": "Luis Guastella",
+      "summary": "Business Sales Executive na Rede Globo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/semerthais",
+      "name": "Thais Semer",
+      "summary": "Executive Director",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandradmoreno",
+      "name": "Sandra Moreno",
+      "summary": "Sales Manager at Grupo Globo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandrerugerio",
+      "name": "Alexandre Rugerio",
+      "summary": "Hub BMD | Marketing Outsourcing + HUB.DEV | Software House + Branderia | Podcast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mayck-dias",
+      "name": "Mayck Dias",
+      "summary": "Analista de Projetos | PMO | Inovação | Gestão de Projetos | Gestão de Demandas | Planejamento | Melhoria de Processos",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carol-russo",
+      "name": "Carol Russo",
+      "summary": "Mãe da Helena e da Luíza | Diretora de Contas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dani-waks",
+      "name": "Dani Waks",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clayton-cavalcante-a13a211b6",
+      "name": "Clayton Cavalcante",
+      "summary": "Clayton Cavalcante",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodolfo-negr%25C3%25A3o-de-freitas-a893874a",
+      "name": "Rodolfo Negrão de Freitas",
+      "summary": "Diretor Comercial Grupo Mix",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9banchialves",
+      "name": "André Alves",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3o-carnevale-23128510a",
+      "name": "João Carnevale",
+      "summary": "Business Sales Manager | MBA in Business Administration",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3o-romano-19116844",
+      "name": "João Romano",
+      "summary": "Sales Manager at Samsung Ads",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayd%25C3%25A3%25C2%25A9e-figueiredo-469b6213",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/heitor-pontes",
+      "name": "Heitor Pontes",
+      "summary": "CSO | Sales Director | AD Sales | Business Development | Marketing | Digital | Membro do Conselho do Grupo de Mídia de São Paulo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-augusto-b99b84198",
+      "name": "Rafael Augusto",
+      "summary": "Diretor Comercial no grupo Metrópoles",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonor-toledo-80a182",
+      "name": "Leonor Toledo",
+      "summary": "Senior Media Executive | Brand, Content & Partnerships",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristianosantosmkt",
+      "name": "Cristiano Santos",
+      "summary": "Co-Founder",
+      "location": "Nova Lima"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrevinicius",
+      "name": "André Vinicius",
+      "summary": "Founder and Managing Director @ Palco! Network | Sales Director @Teads | Entrepreneur | Publishers monetization expert | Marketing, Business Development | Digital Media and Branded Content Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-giganti-8668214",
+      "name": "Paola Giganti",
+      "summary": "Head de Soluções Comerciais",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipe-herz-boclin",
+      "name": "Felipe Herz Boclin",
+      "summary": "CEO & Founder of The Creators Bridge | Global Media & Entertainment Executive | Broadcast | Lincencing | Marketing | Creator & Producer | Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandofcnunes",
+      "name": "Fernando Nunes",
+      "summary": "Globo•3K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayd%25C3%25A9e-figueiredo-469b6213",
+      "name": "Haydée Figueiredo",
+      "summary": "Gerente de Negócios- MUDE",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuliano-dall-orto-8b306515",
+      "name": "Giuliano Dall Orto",
+      "summary": "Business Sales Manager no Grupo Globo - Mídia e Conteúdo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-shinyashiki-96705818",
+      "name": "Ana Shinyashiki",
+      "summary": "📍Publicitária - 👩🏻🏫 MBA Marketing Digital FGV | ** Gerente de Operações da Sapient AG2 | Hub Ambev **",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alda-nogueira",
+      "name": "Alda Nogueira",
+      "summary": "Executiva de contas | Publicitária | Pós Graduada em Marketing | Especialista em Atendimento ao Cliente e Prospecção | Comercial de Veículos de Comunicação | Vendedora de Ideias",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernanda-bittar-golzi-17b03622",
+      "name": "Fernanda Bittar Golzi",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariana-gottardi-82900a23",
+      "name": "Mariana Gottardi",
+      "summary": "Sales & Marketing",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nik-sabey-857b1926",
+      "name": "Nik Sabey",
+      "summary": null,
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-pinhal-b43a2827",
+      "name": "Alexandre Pinhal",
+      "summary": "Gerente de contas com expertise em prospecção e relacionamento",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-splendore-cameron-0258522a",
+      "name": "Rafael Splendore Cameron",
+      "summary": "Sales Executive at TV Globo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-lima-807a4634",
+      "name": "Thiago Lima",
+      "summary": "Head de Finanças",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcia-soter-6312a03b",
+      "name": "Marcia Soter",
+      "summary": "Ad Sales I Patrocínio e Eventos I Digital Mídia I DOOH I Pay TV I Atendimento Comercial I Gestão I Liderança",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-silva-7546563b",
+      "name": "Gustavo Silva",
+      "summary": "CSO - NEOOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-weiss-61a3a645",
+      "name": "Andrea Weiss",
+      "summary": "Executiva do setor de OOH | Top 100 Gestores de 2022 | Especialista em Mídia e Inovação | Empreendedora | Analista de Investimentos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-monteiro-98103546",
+      "name": "Allan Monteiro",
+      "summary": "VP Brazil - Country Lead",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciana-wensko-6435b44a",
+      "name": "Luciana Wensko",
+      "summary": "Representante Comercial / Empreendedora / Gerente de Negócios / Gerente de vendas / Executivo de Contas / Planejamento e Estratégias Comerciais",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-marques-981a344b",
+      "name": "Camila Marques",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/raphael-caparelli-favilla-92933155",
+      "name": "Raphael Caparelli Favilla",
+      "summary": "UOL - Universo Online•4K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugobalarinimendes",
+      "name": "Hugo Balarini Mendes",
+      "summary": "Head de Dados e Insights | Estratégia orientada por dados | Inteligência de Negócios | Transformação Digital",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/estefaniacorreabarbosa",
+      "name": "Estefania Barbosa",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carneiroalison",
+      "name": "Alison Carneiro",
+      "summary": "Gestão de Projetos e Pessoas | Estratégia de Mídia e Patrocínio | Venda Consultiva | Programática",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlo-paschoal-cazorla-franjolli-bba25897",
+      "name": "Carlo Paschoal Cazorla Franjolli",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-badra-9a4926b9",
+      "name": "Paulo Badra",
+      "summary": "COO - Chief Operating Officer na Eletromidia",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-rosa-machado-224769105",
+      "name": "Andrea Rosa Machado",
+      "summary": "Gerente de vendas na Endemol Shine Brasil/ mãe do Miguel, Tiago e Bruna",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulacfranjolli",
+      "name": "PAULA CAZORLA FRANJOLLI",
+      "summary": "When people work together, a company becomes an orchestra!                                                                                                                         Entrepreneur | Advertiser | Innovator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauricio-belchior-043a32130",
+      "name": "Mauricio Belchior",
+      "summary": "Diretor Comercial e Publicitário",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/debora-leopoldo-a2079713a",
+      "name": "Debora Leopoldo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mari-meneses-7b44381a3",
+      "name": "Mari Meneses",
+      "summary": "Ad Sales Manager",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remozzini",
+      "name": "Renata Mozzini",
+      "summary": "Diretora na Yoganaya International School",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annacbg",
+      "name": "Anna Carolina B.",
+      "summary": "Key Account Management | Senior Commercial Executive| Senior Account Executive | Sales | Farmer | \nRelationship | Commercial Management | Digital Out Of Home | OOH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-scavone-0229512b",
+      "name": "Pedro Scavone",
+      "summary": "Sales Executive| Share OOH | DOOH & OOH Thinker | Mídia Programática & Mobile",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunoguerrero",
+      "name": "Bruno Guerrero",
+      "summary": "Chief Growth Officer na Altermark | OOH | Sales | Marketing | Innovation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-felipe-loli-argello-201a62b4",
+      "name": "Luis Felipe Loli Argello",
+      "summary": "Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayd%C3%A9e-figueiredo-469b6213",
+      "name": "Haydée Figueiredo",
+      "summary": "Gerente de Negócios- MUDE",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcus-moraes-correia-a92b3788",
+      "name": "Marcus Moraes Correia",
+      "summary": "City Thinker. Quero transformar as pessoas e as cidades através do bem-estar.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/bennyorenstein",
+      "name": "Benny Orenstein",
+      "summary": "CCO - Chief Commercial Officer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carina-fuentes-07820815a",
+      "name": "Carina Fuentes",
+      "summary": "Senior Sales Manager no Futbol Sites | Mãe da Manuela e da Alice",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/violeta-kert%C3%A9sz-noya",
+      "name": "Violeta Kertész Noya",
+      "summary": "Chief Executive Officer and Partner at bebot digital & Board Member",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/luccarossini",
+      "name": "Lucca Rossini",
+      "summary": "Head of Ad Sales at Samsung Ads Brazil | Driving CTV Growth & Innovation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/santinirodrigo",
+      "name": "Rodrigo Santini",
+      "summary": "Chief Impact & Relations Officer at Mars Wrigley Brazil",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/duaneyamada",
+      "name": "Duane Yamada Gaiba",
+      "summary": "Executivo de Negócios",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/almainteligencia",
+      "name": "Eduardo Tracanella",
+      "summary": "Amplifying brands at “AL.IN” - Creative Strategy House | #2 Most Admired CMO Brazil 2024 | 100 Most Innovative in LatAm | Creativity Enthusiast  | Curious about People & Culture",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolinenamora",
+      "name": "Caroline Namora",
+      "summary": "CMO | Chief Marketing Officer @Safra",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tuane-leite-34437a69",
+      "name": "Tuane Leite",
+      "summary": "Branding | Brand Experience | Sponshorship | Neuromarketing | Strategic Planning | Marketing Digital | Consumer Insights",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/guibrum",
+      "name": "Guilherme Brum",
+      "summary": "Partner, Chief Business Officer @Ampfy @Bakery & a passionate marketer trying to become a triathlete and have a social life.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-seibel-56834214",
+      "name": "Alex Seibel",
+      "summary": "Passionate about creating , investing and promoting scalable market solutions that help improve society towards a better future",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardobonelli",
+      "name": "Cosme Eduardo Bonelli",
+      "summary": "Business, Marketing and Sales Professional",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-pecorari-aa904321",
+      "name": "Gustavo Pecorari",
+      "summary": "Managing Partner - Head of Investments",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "RDG B.\n\nSandro é um excelente profissional. Focado em resultados e na busca constante por opções que tragam lucratividade para a companhia. Tem como diferencial seu espírito de liderança, gestão, negociação e vendas.",
+    "EDGARD GUARDA\n\nProfissional focado, extremamente inteligente, confiável e de grande capacidade administrativa. Comunicativo e exemplo de Ser humano. Responsável e cordial!",
+    "Edgard Guarda\n\nProfissional focado, extremamente inteligente, confiável e de grande capacidade administrativa. Comunicativo e exemplo de Ser humano. Responsável e cordial!",
+    "Bruno Garcia Toganschi\n\nSandro foi meu gestor na Editora Globo. Possui um perfil totalmente humanizado, sempre me tratou como se fosse um amigo, mas não deixava de cobrar como profissional. Um grande líder e uma pessoa incrivel de se trabalhar."
+  ],
+  "activities": [
+    {
+      "title": "Uma tarde para celebrar a efetividade do marketing e a criatividade da publicidade brasileira, avaliando grandes cases inscritos no Effie Awards…",
+      "link": "https://pt.linkedin.com/posts/renato-annibal-440671174_uma-tarde-para-celebrar-a-efetividade-do-activity-7367349064553684992-Jdf7",
+      "activity_status": null
+    },
+    {
+      "title": "Gostaria de compartilhar que estou começando em um novo cargo de Gerente Contas na RZK Digital. Paulo Cesar Queiroz e André Almeida Muito Obrigada…",
+      "link": "https://pt.linkedin.com/posts/marcia-soter-6312a03b_rzk-digital-anuncia-nova-gerente-de-contas-activity-7367191177885822976-hrtl",
+      "activity_status": null
+    },
+    {
+      "title": "Mais um ano como jurada do Effie Awards. Uma grande oportunidade para aprender e se inspirar com os melhores cases da nossa indústria. Obrigada Meio…",
+      "link": "https://pt.linkedin.com/posts/fsaboya_effieawards-activity-7367192182094462977-Iofh",
+      "activity_status": null
+    },
+    {
+      "title": "Essa semana foi assinado o decreto que vai direcionar o futuro da TV no Brasil. Vem mudanças nesse meio que vai passar por uma grande revolução. Mais…",
+      "link": "https://pt.linkedin.com/posts/ananias-gomes-b8493427_essa-semana-foi-assinado-o-decreto-que-vai-activity-7367190804244729857-88Ei",
+      "activity_status": null
+    },
+    {
+      "title": "A chegada da TV 3.0 traz inovação: 4K, 8K, som imersivo, interatividade, acessibilidade avançada (libras, legenda e audiodescrição personalizadas)…",
+      "link": "https://pt.linkedin.com/posts/guilhermeravache_a-chegada-da-tv-30-traz-inovação-4k-8k-activity-7366935532108496896-o9nJ",
+      "activity_status": null
+    },
+    {
+      "title": "1 milhão de likes no Instagram em apenas 7 horas de postagem! Quebramos um novo record na ELLE Brasil com uma capa certeira e que entra na conversa…",
+      "link": "https://pt.linkedin.com/posts/ali-santos-b082b0166_1-milhão-de-likes-no-instagram-em-apenas-activity-7366987665591767040-sYCV",
+      "activity_status": null
+    },
+    {
+      "title": "Brand100 Brasil foi o palco ideal para aprofundar as discussões sobre o mercado e a Retail Media - DOOH participou deste momento!💙 Com mais de 8…",
+      "link": "https://pt.linkedin.com/posts/amigos-do-mercado_amigosdomercado-brand100-retailmedia-activity-7366531809280454656-m_fG",
+      "activity_status": null
+    },
+    {
+      "title": "Após uma longa trajetória na liderança de áreas comerciais e de negócios de diversas empresas, sendo sua mais recente passagem pelo veículo Times…",
+      "link": "https://pt.linkedin.com/posts/regiandrade_após-uma-longa-trajetória-na-liderança-de-activity-7366878536869072896-50sZ",
+      "activity_status": null
+    },
+    {
+      "title": "Dias muito produtivos e de aprendizado com esse time lindo! Ainda tem muitos dias para falarmos. Bora conhecer o nosso estande?…",
+      "link": "https://pt.linkedin.com/posts/melissa-souza-599528120_taptapdigital-brand100-activity-7363597280114839554-Xja4",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje participei do CMO Experience, um evento que promove conexão com as principais lideranças do nosso mercado e troca de conhecimento estratégico.…",
+      "link": "https://pt.linkedin.com/posts/andreia-barbosa-santamaria-a0192a82_hoje-participei-do-cmo-experience-um-evento-activity-7366975595144003584-wwe4",
+      "activity_status": null
+    },
+    {
+      "title": "𝗧𝗲𝗺𝗽𝗼. Valioso e cada vez mais restrito. E é sobre isso que tenho conversado bastante nesta semana com amigos e clientes, em como a gente…",
+      "link": "https://pt.linkedin.com/posts/marcel-rodrigues-4a6b88a9_𝗧𝗲𝗺𝗽𝗼-valioso-e-cada-vez-mais-restrito-activity-7366914261161254932-tTd4",
+      "activity_status": null
+    },
+    {
+      "title": "Na vida, algumas despedidas são mais difíceis que outras — e esta é uma delas. Há quem diga que não se deve misturar o pessoal com o profissional……",
+      "link": "https://pt.linkedin.com/posts/fernanda-schmeling-infantini-8ba63121_na-vida-algumas-despedidas-são-mais-difíceis-activity-7366986110956240898-yxai",
+      "activity_status": null
+    },
+    {
+      "title": "Head é só um gerente com nome bonito. Errado. Enquanto o gerente cuida da equipe e da rotina. O Head cuida da estratégia da área inteira, conecta…",
+      "link": "https://pt.linkedin.com/posts/mih-marques-b836b4351_head-é-só-um-gerente-com-nome-bonito-errado-activity-7366497032875810816--qIA",
+      "activity_status": null
+    },
+    {
+      "title": "Bebidas alcoólicas em crise? Talvez em alguns países, mas no Brasil não. Pernod, Diageo e Brown Forman (acho que Campari tb) crescendo não é…",
+      "link": "https://pt.linkedin.com/posts/giuliano-odone_china-and-us-hinder-pernod-fy-sales-the-activity-7366834802282442752-qt9s",
+      "activity_status": null
+    },
+    {
+      "title": "Com uma trajetória que acompanha a própria evolução da internet, o YouTube completa 20 anos em 2025. Só no Brasil, a plataforma reúne 144 milhões de…",
+      "link": "https://pt.linkedin.com/posts/propmark_com-uma-trajetória-que-acompanha-a-própria-activity-7366801794766761984-rh8E",
+      "activity_status": null
+    },
+    {
+      "title": "A Chevrolet e a Netflix acabam de lançar uma parceria inédita e que tocou o coração dos brasileiros: uma celebração ao ícone nacional, o Vira-Lata…",
+      "link": "https://pt.linkedin.com/posts/arrudagui_chevrolet-netflix-trackercaramelo-activity-7380264718113853440-TMGP",
+      "activity_status": null
+    },
+    {
+      "title": "Participei do novo episódio do videocast Legado e Futuro, da Votorantim, sobre sustentabilidade. Estive ao lado do Rogerio Monori, Diretor…",
+      "link": "https://pt.linkedin.com/posts/claudiafurini_bancobv-esg-finançassustentáveis-activity-7379932095034458112-UQZL",
+      "activity_status": null
+    },
+    {
+      "title": "Este menu infantil do Big House Brew Pub (EUA) é um lembrete brilhante de que realmente entender seu cliente começa com a escuta ativa. Em vez de…",
+      "link": "https://pt.linkedin.com/posts/rubensslaviski_marketing-cx-consumerexperience-activity-7379109127400108032-kLSA",
+      "activity_status": null
+    },
+    {
+      "title": "Com frequência, lutamos contra o inevitável, por medo, até descobrirmos que o inevitável era muito menos terrível do que temíamos. #3os #desafios…",
+      "link": "https://pt.linkedin.com/posts/ricardoamorimricam_3os-desafios-1m-activity-7378194306806771712-nW0Q",
+      "activity_status": null
+    },
+    {
+      "title": "Private posting On Sept 21st, I ran the legendary Berlin Marathon! One of the top 3 biggest and fastest in the world. Over 50k participants, and a…",
+      "link": "https://www.linkedin.com/posts/aldocostajr82_private-posting-on-sept-21st-i-ran-the-activity-7380026230638571520-f7bp",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje, começamos nosso dia com amor, saúde e esperança, servindo frutas frescas para 300 lindas crianças. As frutas não são apenas alimentos; são o…",
+      "link": "https://pt.linkedin.com/posts/joão-bosco-capanema-bahia_hoje-começamos-nosso-dia-com-amor-saúde-activity-7379507372471431168-ZaT5",
+      "activity_status": null
+    },
+    {
+      "title": "Na próxima semana já, e ainda, completo 3 meses de Vitafor e essa oportunidade tem pra mim um gosto especial, pois foi uma vaga que eu já almejava…",
+      "link": "https://pt.linkedin.com/posts/brunobrum_na-próxima-semana-já-e-ainda-completo-3-activity-7380125019491680256-_9dW",
+      "activity_status": null
+    },
+    {
+      "title": "Nem sempre, dá para acreditar no que você acha que viu. #geral #ilusao #video #3os",
+      "link": "https://pt.linkedin.com/posts/ricardoamorimricam_geral-ilusao-video-activity-7378919082185785344-lPBy",
+      "activity_status": null
+    },
+    {
+      "title": "Aos contatos do Linkedin: tenho visto muita vaga de assistente e analista de mídia off ou híbrido e, pela minha experiência, também percebo uma…",
+      "link": "https://pt.linkedin.com/posts/renatasena_aos-contatos-do-linkedin-tenho-visto-muita-activity-7378526530760609792-DZuI",
+      "activity_status": null
+    },
+    {
+      "title": "É com grande satisfação que a Neon anuncia o lançamento de sua nova identidade de marca e uma campanha emocionante, que marca a maturidade da empresa…",
+      "link": "https://pt.linkedin.com/posts/fernando-miranda-a9a16a_neon-rebranding-crescimento-activity-7378843521170096129-9HfV",
+      "activity_status": null
+    },
+    {
+      "title": "A Leo acaba de ganhar a concorrência de duas marcas icônicas da Stellantis. Após uma concorrência criativa fomos escolhidos para liderar as marcas…",
+      "link": "https://pt.linkedin.com/posts/fabiosdebrito_reachingforthestars-humankind-activity-7378850298334765056-U7op",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Nova fase, energia renovada! ⚡🚀 Compartilho com vocês que comecei uma nova jornada profissional na Copa Energia, uma empresa que, este ano…",
+      "link": "https://pt.linkedin.com/posts/roberta-becker-_copa-energia-on-instagram-na-feijoada-da-activity-7373859070598025216-DdH-",
+      "activity_status": null
+    },
+    {
+      "title": "Iniciando um novo capítulo, cheio de desafios, conquistas e uma parceria que inspira confiança para ir mais longe.",
+      "link": "https://pt.linkedin.com/posts/berta-kruger-3a5b4428_iniciando-um-novo-capítulo-cheio-de-desafios-activity-7378802425047990272-Plck",
+      "activity_status": null
+    },
+    {
+      "title": "Time completo para a última reunião oficial, antes de começar a KES Trek Tokyo. Alinhamentos importantes para uma semana pra lá de especial. KES -…",
+      "link": "https://pt.linkedin.com/posts/ricardo-al-makul-40895a15_time-completo-para-a-última-reunião-oficial-activity-7375129125327450112-FY-g",
+      "activity_status": null
+    },
+    {
+      "title": "Para apresentar o novo Sal de Frutas Eno Ice Mint, contamos com o conteúdo leve e bem-humorado da criadora @luanazucoloto, que traduziu com…",
+      "link": "https://pt.linkedin.com/posts/br-mediagroup_brmedia-eno-icemint-activity-7397320840331132928-w32G",
+      "activity_status": null
+    },
+    {
+      "title": "VOCÊ SÓ SABE O QUE É IMPORTANTE QUANDO NEM AS MEMÓRIAS MAIS NOS FAZEM PARTE. A verdade é simples: um dia, tudo o que vivemos cabe apenas nas…",
+      "link": "https://pt.linkedin.com/posts/marcelo-grimaldi_reflexãodiária-vidareal-memóriaafetiva-activity-7397559460694712320-8WR0",
+      "activity_status": null
+    },
+    {
+      "title": "Grupo Mateus revela ajuste de R$ 1,1 bi em estoque nesta semana e acende um alerta estrutural no varejo alimentar O terceiro maior varejista…",
+      "link": "https://pt.linkedin.com/posts/robertaterra_grupo-mateus-revela-ajuste-de-r-11-bi-em-activity-7397983215874883584-7xwX",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje venho anunciar que, há três semanas, iniciei minha trajetória na Bauducco. Passarei pelas áreas de Trade e, futuramente, seguirei para algo mais…",
+      "link": "https://pt.linkedin.com/posts/stefano-bauducco-894075254_hoje-venho-anunciar-que-há-três-semanas-activity-7397033541110317056-y3m6",
+      "activity_status": null
+    },
+    {
+      "title": "Velocidade de execução e foco em gerar valor real são os nomes do jogo para nós. Menos de um mês após anunciarmos a criação da UNLK, hoje damos um…",
+      "link": "https://pt.linkedin.com/posts/eduardo-alvarenga-60798780_após-aquisição-pela-unlk-wake-creators-volta-activity-7396689130069520386-k1te",
+      "activity_status": null
+    },
+    {
+      "title": "Impacto no varejo. CEOs do Assaí e do Carrefour global se reúnem em São Paulo e o mercado tenta decifrar o recado CEOs do Assaí e do Carrefour…",
+      "link": "https://pt.linkedin.com/posts/robertaterra_impacto-no-varejo-ceos-do-assaí-e-do-carrefour-activity-7397228254371323904-6Mjt",
+      "activity_status": null
+    },
+    {
+      "title": "Passando aqui para parabenizar o excelente evento Zoox Data Revolution! A Zoox Smart Data fez um ótimo trabalho em reunir grandes lideranças e um…",
+      "link": "https://pt.linkedin.com/posts/luis-hartmann74integrity_passando-aqui-para-parabenizar-o-excelente-activity-7397036419694653441--wR1",
+      "activity_status": null
+    },
+    {
+      "title": "OOH não compete com digital. OOH potencializa digital. +40% de eficácia em campanhas digitais quando combinadas com OOH, a mídia fora de casa, no…",
+      "link": "https://pt.linkedin.com/posts/estevesgea_publi-activity-7396147743917899776-PAL7",
+      "activity_status": null
+    },
+    {
+      "title": "Semana passada fechei um ciclo incrível: me despedi de um lugar que foi a minha casa por mais de 4 anos! Como dizemos no varejo, vivemos em \"anos…",
+      "link": "https://pt.linkedin.com/posts/vineumann_marketingdeinfluencia-netshoes-grupomagalu-activity-7397019593497640960-9UTi",
+      "activity_status": null
+    },
+    {
+      "title": "Um ano e pouco depois de ter trocado de lado do balcão, ontem o frio na barriga até deu uma pausa. Meus amigos, foram 11 Effies para BK. ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐…",
+      "link": "https://pt.linkedin.com/posts/giuliagqueiroz_um-ano-e-pouco-depois-de-ter-trocado-de-lado-activity-7397020271662145536-Zl2r",
+      "activity_status": null
+    },
+    {
+      "title": "2 Effies pra fechar esse ano lindo. Sem textão. Só essas fotos mesmo, ,) ❤️",
+      "link": "https://pt.linkedin.com/posts/aline-rossin-a9882aa_2-effies-pra-fechar-esse-ano-lindo-sem-activity-7396984507175784448-yES5",
+      "activity_status": null
+    },
+    {
+      "title": "Eu acredito demais no Effie. E não é por ego, não. Acho que troféu na prateleira é parte do jogo da nossa indústria, e que premiação é motivação…",
+      "link": "https://pt.linkedin.com/posts/gisele-bambace_eu-acredito-demais-no-effie-e-não-é-por-activity-7397009958631784448-dzS6",
+      "activity_status": null
+    },
+    {
+      "title": "Kindness has a way of finding its way back to us. Not always from the same person. Not always in the same form. But when we move through the world…",
+      "link": "https://www.linkedin.com/posts/soren-muller_kindness-compassion-love-activity-7396980951920308224-V5p6",
+      "activity_status": null
+    },
+    {
+      "title": "Ganhamos nosso primeiro troféu no Effie Awards. Uma noite mágica. Esse é o principal prêmio que mede eficiência de resultado do Brasil,…",
+      "link": "https://pt.linkedin.com/posts/fabiomeneghati_chamauboi-gogreenz-aceleradora-activity-7396980879828434944--fDX",
+      "activity_status": null
+    },
+    {
+      "title": "Novidades na BR Media Group! 🚀 Com um crescimento de 60% na receita em 2025, a BR Media anuncia uma nova configuração de liderança. A partir de…",
+      "link": "https://pt.linkedin.com/posts/publicis-groupe-brasil_novidades-na-br-media-group-com-um-crescimento-activity-7396587249959628800-QwbP",
+      "activity_status": null
+    },
+    {
+      "title": "🔥 OOH Insights: PlayStation, AUS Se liga no que o Playstation aprontou na Austrália. Os caras 'pousaram' uma nave espacial em tamanho real bem no…",
+      "link": "https://pt.linkedin.com/posts/rodrigoacp_playstation-ps5-oohinsights-activity-7396150654702080000-pYac",
+      "activity_status": null
+    },
+    {
+      "title": "Nesse post estou trazendo alguns momentos que refletem essa categoria maravilhosa que estou concorrendo: Amigo(a) do Mercado!!!! Vote, vote…",
+      "link": "https://pt.linkedin.com/posts/ligia-xavier_amigosdomercado-activity-7396732521570373632-Prl2",
+      "activity_status": null
+    },
+    {
+      "title": "Letícia Bufoni no OnlyFans: a jogada que ninguém viu chegando, mas todo mundo deveria estudar. Nos últimos dias, a Letícia Bufoni foi anunciada como…",
+      "link": "https://pt.linkedin.com/posts/matheusmirandafroes_letícia-bufoni-no-onlyfans-a-jogada-que-activity-7396546946296889344-IEG5",
+      "activity_status": null
+    },
+    {
+      "title": "Foram dois anos de profundo estudo, reflexão e preparação, ouvindo os principais stakeholders que nos acompanham em nossa trajetória. Uma das…",
+      "link": "https://pt.linkedin.com/posts/william-malfatti-7b935b_grupo-fleury-100-anos-futuro-feito-de-ciência-activity-7427775231798214657-Ot-4",
+      "activity_status": null
+    },
+    {
+      "title": "Quando falamos sobre estar lado a lado com o cliente para encarar seus desafios, isso pode passar até pela conquista de um #recorde mundial! 🏆 🇧🇷…",
+      "link": "https://pt.linkedin.com/posts/linkedindamude_recorde-ipanema-guinnessbook-activity-7427827585306292224-qrd0",
+      "activity_status": null
+    },
+    {
+      "title": "Essa semana começa a #ExpediçãoTransamazônica, uma parceria da Mitsubishi Motors Brasil com o canal #ACFPerformance. Mais do que um projeto de…",
+      "link": "https://pt.linkedin.com/posts/marcianeri_expediçãotransamazônica-acfperformance-activity-7427760408867991552-UJQ7",
+      "activity_status": null
+    },
+    {
+      "title": "O caminho até a cadeira de CMO não é linear. Psicóloga de formação, Anna Carolina Martins Teixeira passou por RH, vendas e trade antes de liderar o…",
+      "link": "https://pt.linkedin.com/posts/mundo-do-marketing_cmo-cmosummit-mundodomarketing-activity-7427080653730500608-AlcN",
+      "activity_status": null
+    },
+    {
+      "title": "Liderar pessoas nunca foi sobre controlar, sempre foi sobre desenvolver e inspirar! 💡 Ao longo da minha trajetória em gestão comercial, aprendi…",
+      "link": "https://pt.linkedin.com/posts/alessandra-scivoletto_liderança-gestãodepessoas-performance-activity-7427440632736116736-SBKt",
+      "activity_status": null
+    },
+    {
+      "title": "O Ibira ganha mais um nome de peso! A Smart Fit passa a integrar o time de patrocinadores do Parque, ampliando o acesso ao bem-estar e…",
+      "link": "https://pt.linkedin.com/posts/biacarrera_smart-fit-fecha-parceria-com-o-parque-ibirapuera-activity-7427491611770679296-v-xG",
+      "activity_status": null
+    },
+    {
+      "title": "Nossa história, seu Corre! CENTAURO faz 45 anos e vamos começar as comemorações na forma de um exclusivo Corre 4 - o tênis mais usado pelo terceiro…",
+      "link": "https://pt.linkedin.com/posts/gleyceoliveira_centauro-celebra-45-anos-em-collab-com-olympikus-activity-7427430755590455296-r7hO",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Ú𝗟𝗧𝗜𝗠𝗔 𝗛𝗢𝗥𝗔: Agibank levanta $240M no IPO, 𝗮𝘃𝗮𝗹𝗶𝗮𝗱𝗼 𝗲𝗺 $𝟮,𝟱 𝗺𝗶𝗹 𝗺𝗶𝗹𝗵õ𝗲𝘀, 𝟮𝟰% 𝗮𝗯𝗮𝗶𝘅𝗼 do que pretendia…",
+      "link": "https://pt.linkedin.com/posts/andre83fmsantos_ú𝗟𝗧𝗜𝗠𝗔-𝗛𝗢𝗥𝗔-agibank-levanta-activity-7427369228099305472-YILp",
+      "activity_status": null
+    },
+    {
+      "title": "Vocês estavam acostumados a me ver falando sobre saúde e remédios, mas agora se preparem para uma nova skin: a do agronegócio! 😂 O Bradesco é o…",
+      "link": "https://pt.linkedin.com/posts/renatocamargobr_vocês-estavam-acostumados-a-me-ver-falando-activity-7427377599791751168-1A4X",
+      "activity_status": null
+    },
+    {
+      "title": "Segurança é percebida antes de qualquer argumento. Há pessoas que entram em um ambiente e imediatamente são levadas a sério. Nem sempre são as mais…",
+      "link": "https://pt.linkedin.com/posts/henrique-collor_segurança-é-percebida-antes-de-qualquer-argumento-activity-7427283797760487425-aGL1",
+      "activity_status": null
+    },
+    {
+      "title": "Sabe aqueles dias que ficarão para sempre na memória? Hoje é esse dia. Finalizei meu doutorado em administração na ESPM. É uma mistura de alívio…",
+      "link": "https://pt.linkedin.com/posts/renatabenigna_sabe-aqueles-dias-que-ficarão-para-sempre-activity-7427165934236332032--tPx",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Nubank quer ser o 𝗺𝗮𝗶𝗼𝗿 𝗯𝗮𝗻𝗰𝗼 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗱𝗼 𝗢𝗰𝗶𝗱𝗲𝗻𝘁𝗲, 𝗲𝘅𝗽𝗮𝗻𝗱𝗶𝗿 𝗽𝗮𝗿𝗮 𝗮𝗹é𝗺 𝗱𝗮𝘀 𝗔𝗺é𝗿𝗶𝗰𝗮𝘀 𝗲𝗺…",
+      "link": "https://pt.linkedin.com/posts/andre83fmsantos_nubank-quer-ser-o-𝗺𝗮𝗶𝗼𝗿-𝗯𝗮𝗻𝗰-activity-7425582005058281472-vk5E",
+      "activity_status": null
+    },
+    {
+      "title": "Nos últimos anos, a IA deixou de ser mera curiosidade para se tornar estruturalmente inevitável na publicidade e na comunicação. Eu e Ezra Geld…",
+      "link": "https://pt.linkedin.com/posts/joao-dabbur_nos-últimos-anos-a-ia-deixou-de-ser-mera-activity-7427320422519664640--nU5",
+      "activity_status": null
+    },
+    {
+      "title": "Nos últimos anos, a IA deixou de ser mera curiosidade para se tornar estruturalmente inevitável na publicidade e na comunicação. Eu e João Dabbur…",
+      "link": "https://pt.linkedin.com/posts/ezrageld_nos-últimos-anos-a-ia-deixou-de-ser-mera-activity-7427327951391612929-zrWr",
+      "activity_status": null
+    },
+    {
+      "title": "A Nova Era do Banking Brasileiro: A Solidez dos Gigantes encontra a Velocidade da Inovação💰 O setor financeiro vive um ciclo de ouro para eficiência…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_a-nova-era-do-banking-brasileiro-a-solidez-activity-7427333680890769408-IJe_",
+      "activity_status": null
+    },
+    {
+      "title": "Are you an Electronics Retailer? A Health & Fitness Retailer? A Sportswear Retailer?  - Let's Connect so we can show you what Reebok Smartwatches are…",
+      "link": "https://www.linkedin.com/posts/frankrideout_are-you-an-electronics-retailer-a-health-activity-7425561858096652288-6ijO",
+      "activity_status": null
+    },
+    {
+      "title": "OOH no centro da estratégia 🎯 A Nomad deu uma aula de utilização de Out-of-Home (OOH) levando o Brasil para o Mundo 🛫🌍 Com uma dominação em…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_ooh-no-centro-da-estratégia-a-nomad-activity-7463211618156339200-fuXg",
+      "activity_status": null
+    },
+    {
+      "title": "Meio & Mensagem reúne o mercado publicitário em alto nível no MNB 🎯 Em uma mistura de trabalho, conexões, esportes e música, tivemos o clima da…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_meio-mensagem-reúne-o-mercado-publicitário-activity-7461918915825213442-7Va5",
+      "activity_status": null
+    },
+    {
+      "title": "Mude no palco mundial do OOH - Out of Home 🎯 World Out of Home Organization (WOO) 2026 em Londres, coloca a Mude como representante brasileira de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-no-palco-mundial-do-ooh-out-of-home-activity-7459591812932943874-KkJG",
+      "activity_status": null
+    },
+    {
+      "title": "Dominação das Orlas - Sua campanha agora em João Pessoa e Natal 🎯 Principal solução de mídia OOH/DOOH nas Orlas e Parques do país faz mais uma…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_dominação-das-orlas-sua-campanha-agora-activity-7442575809988608000-kdVo",
+      "activity_status": null
+    },
+    {
+      "title": "O Fenômeno Mercado Livre - Dominar as ruas para converter no digital 🎯 Com aproximadamente 40% de market share no e-commerce brasileiro,…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_o-fenômeno-mercado-livre-dominar-as-ruas-activity-7435437528083525632-h8mg",
+      "activity_status": null
+    },
+    {
+      "title": "Marketing 3.0 - YoPRO Danone conecta comunidade e propósito na busca pelo recorde mundial de Pepe Fiamoncini 🏃➡️ Proporcionando uma experiência…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_marketing-30-yopro-danone-conecta-comunidade-activity-7424933993655222272-pCaL",
+      "activity_status": null
+    },
+    {
+      "title": "Quanto mais ensinamos, mais aprendemos! 🧑🎓 Voltar para academia (universidade) é sempre uma boa surpresa. Depois do mestrado lecionei pouco, mas é…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_espm-abooh-cursoavançadoooh-activity-7393449607541911552-UW9r",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Breaking News 🧘♀️ Mude anuncia nova unidade de negócios e a nova Embaixadora: Bem-Vinda, Aline Campos!🌟 A principal plataforma de Mídia e…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_aline-campos-on-instagram-mude-activity-7391603451606011904-Qs6p",
+      "activity_status": null
+    },
+    {
+      "title": "Marcas investem para ter impacto Real 🧘♀️🏃♀️➡️ Principal projeto do Verão com entrega de experiências, transforma o coração do RJ em Hub de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-e-yopro-transformam-ipanema-em-hub-de-activity-7388586706826039296-3Gu3",
+      "activity_status": null
+    },
+    {
+      "title": "Live Marketing em destaque no propmark 🚀🎯 A edição da visibilidade ao crescimento das ações de livemarketing, território de protagonismo da Mude…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_live-marketing-em-destaque-no-propmark-activity-7386046438822084608-5BV9",
+      "activity_status": null
+    },
+    {
+      "title": "Impactos da China na economia e na publicidade brasileira 🎯 A China é o maior parceiro comercial do Brasil desde 2009; Em 1995 o PIB Brasil era…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_impactos-da-china-na-economia-e-na-publicidade-activity-7386771899332345858-vVjn",
+      "activity_status": null
+    },
+    {
+      "title": "Parques em São Paulo - Destino preferido dos paulistanos para lazer e esportes, e vitrine para as Marcas 🏋♀️ 🧘♀️ 💪 Com aumento de 332% no fluxo de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_parques-em-são-paulo-destino-preferido-activity-7380993147511885825-lpRE",
+      "activity_status": null
+    },
+    {
+      "title": "ROX - Return of Experience Um dos grandes desafios dos CMOs é medir o retorno sobre os investimentos em mídia on e off, em diferentes meios, além das…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_rox-return-of-experience-um-dos-grandes-activity-7375927328901787648-gJZI",
+      "activity_status": null
+    },
+    {
+      "title": "Chevrolet Spark 2026 faz ação inédita no maior parque da América Latina 🚀 Para o lançamento do Spark 2026, a Chevrolet inovou mais uma vez, em ação…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_chevrolet-spark-2026-faz-ação-inédita-no-activity-7373473555813928960-HbEd",
+      "activity_status": null
+    },
+    {
+      "title": "Conectando pessoas e marcas através de experiências, ativações, mídia e tecnologia!! 🏋♀️💪",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_conectando-pessoas-e-marcas-através-de-experiências-activity-7360715404790394882-qav7",
+      "activity_status": null
+    },
+    {
+      "title": "Feliz em compartilhar a participação da Mude em dois dos principais eventos de Publicidade no Brasil. Com parte do incrível time da Mude que leva uma…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_feliz-em-compartilhar-a-participação-da-mude-activity-7364711902804955137-kZSQ",
+      "activity_status": null
+    },
+    {
+      "title": "Mude Wellness Media se destaca no propmark pela entrega única de Mídia e Experiência 🏋♀️🚀💪 Com a dominação das Orlas do Rio de Janeiro, Fortaleza,…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-wellness-media-se-destaca-no-propmark-activity-7363187602557911043-37M0",
+      "activity_status": null
+    },
+    {
+      "title": "Maior PIB do Nordeste, Fortaleza também lidera na populaçao, geração de emprego, e turismo doméstico e internacional🚀 A capital cearense é a cidade…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-lança-espaço-de-esporte-à-beira-mar-activity-7360473855334789120-2QtO",
+      "activity_status": null
+    },
+    {
+      "title": "Conectanto Pessoas e Marcas 💪 Alcance e Engajamento através da Mídia e de Experiências! Grandes marcas promoveram experiências únicas esse final de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_conectanto-pessoas-e-marcas-alcance-activity-7355612207621009412-ZByL",
+      "activity_status": null
+    },
+    {
+      "title": "Como ajudamos os CMOs com impacto e engajamento? A saturação digital é um fato e a atenção plena é o novo ouro. O objetivo é sair das telas e migrar…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_ooh-transforma-se-em-plataforma-de-bem-estar-activity-7337924656278003715-DhEb",
+      "activity_status": null
+    },
+    {
+      "title": "Marketing Best premia Mude Wellness Media 😎🏋♀️🧘 Eventos e Patrocínios 2025 - A Rio Academia YoPRO Brasil foi o Case do Verão, projeto incrível…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_marketing-best-premia-mude-wellness-media-activity-7341207397715083268-d5Ba",
+      "activity_status": null
+    },
+    {
+      "title": "UNDER PRESSURE: Pressão é combustível ou freio? 🏄♂️ Amanhã, 17 de junho a Mude Wellness Media e o Instituto 12 promovem um encontro sobre…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_under-pressure-pressão-é-combustível-ou-activity-7340500509193039872-9rlh",
+      "activity_status": null
+    },
+    {
+      "title": "MNB Marketing Network Brasil 2025 Meio & Mensagem entregou no MNB a influencia que quer na publicidade.. Uma aula com Alexandre Kalache sobre a…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mnb-marketing-network-brasil-2025-meio-activity-7330318881426763776-TnTI",
+      "activity_status": null
+    },
+    {
+      "title": "Cultivando o engajamento e a sinergia 🧘🏋♀️ Convenção com líderes e vendas que conecta e impulsiona uma empresa que soma Mídia OOH + Live Marketing…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_cultivando-o-engajamento-e-a-sinergia-activity-7334946544443387905-p-Qm",
+      "activity_status": null
+    },
+    {
+      "title": "Hapvida NotreDame Intermédica, líder absoluta no Nordeste com mais de 2,3MM de clientes na região, vem para replicar o modelo de sucesso em todo país…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_marketingdeexperiência-tecnologia-livemarketing-activity-7318827803792048128-m2L1",
+      "activity_status": null
+    },
+    {
+      "title": "Impacto orgânico - A cidade e suas telas📱 Ninguém melhor que a Globo para representar a vida do carioca 🏄♂️ 🚴 😎. Ontem na novela Vale Tudo, Cauã…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_midiaooh-marketing-publicidade-activity-7322289470945288192-4uiM",
+      "activity_status": null
+    },
+    {
+      "title": "Vírus Publicitário, alguém conhece? Não sei se o termo já é utilizado, mas viajando com a família no feriado, entre fotos e vídeos minha filha…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_brandsafety-publicidadecontexto-conexãoreal-activity-7320813303348297731-OxkK",
+      "activity_status": null
+    },
+    {
+      "title": "O Mídia Master desse ano trouxe as lideranças do Nubank e The HEINEKEN Company para compartilhar a agilidade e eficiência de estruturas internas e o…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_o-mídia-master-desse-ano-trouxe-as-lideranças-activity-7315754839047647233-AwoH",
+      "activity_status": null
+    },
+    {
+      "title": "Qual o Case do Verão 2025? ⛱️ 🌞 YoPRO Brasil Stanley 1913 Neutrogena Kenvue Kibon Unilever O Verão foi marcado por um projeto que mostrou como…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_o-case-que-redefiniu-o-conceito-de-experiência-activity-7307482780173590529-OhMc",
+      "activity_status": null
+    },
+    {
+      "title": "Começamos 2025 transformando as cidades, promovendo saúde, esportes e bem-estar, conectando Pessoas e Marcas. Quer treinar em SP, RJ, Brasília,…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-inovação-esporte-activity-7301033668486074369-cBgK",
+      "activity_status": null
+    },
+    {
+      "title": "Mude assume os Mobiliários Urbanos Esportivos de São Paulo, comprando 100% da EUE Equipamentos, e se consolidando como a principal empresa de Mídia e…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-assume-controle-da-eue-equipamentos-activity-7266961275937587200-UCRC",
+      "activity_status": null
+    },
+    {
+      "title": "Quais experiências sua marca tem gerado? O que a mídia out of home tem a ver com experiências? Com os objetivos de campanha definidos, é desenhada a…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_verde-campo-on-instagram-aqui-na-activity-7258969733880823809-VFnw",
+      "activity_status": null
+    },
+    {
+      "title": "Em linha com o nosso propósito de transformar as cidades e levar saúde e bem-estar através da mídia, experiências e tecnologias!! 🏋🏻♀️🧘🏻♀️💪🚀",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_em-linha-com-o-nosso-prop%C3%B3sito-de-transformar-activity-7246930197646626816-gTY4",
+      "activity_status": null
+    },
+    {
+      "title": "A responsabilidade dos veículos de comunicação diante do impacto das Bets As apostas on-line tem impactado a saúde financeira e mental dos…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_a-responsabilidade-dos-ve%C3%ADculos-de-comunica%C3%A7%C3%A3o-activity-7245527555070410754-M2KY",
+      "activity_status": null
+    },
+    {
+      "title": "Mídia, Experiência e Tecnologia - Transformando Cidades Inauguramos sábado um espaço exclusivo que leva saúde e bem-estar para Moema, tudo…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_m%C3%ADdia-experi%C3%AAncia-e-tecnologia-transformando-activity-7244014145631600640-ySqE",
+      "activity_status": null
+    },
+    {
+      "title": "Experiência + Tecnologia + Mídia 🏋🏻♀️🧘♀️🏃♂️💪🏋♂️🧘🏻♀️🚀",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_experi%C3%AAncia-tecnologia-m%C3%ADdia-activity-7239399734614863872-P90I",
+      "activity_status": null
+    },
+    {
+      "title": "Mude Wellness Media 🏋🏻♀️🧘🏻♀️💪🚀",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-wellness-media-activity-7230031918363246592-fsxd",
+      "activity_status": null
+    },
+    {
+      "title": "Em dois importantes eventos da publicidade, o MNK do Meio & Mensagem e o Brand 100, vimos e apresentamos sobre o futuro da Publicidade, impactos da…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_em-dois-importantes-eventos-da-publicidade-activity-7230973998635864065-rhh1",
+      "activity_status": null
+    },
+    {
+      "title": "Experiência + Mídia + Tecnologia 🏋🏻♀️🧘🏻♀️💪",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_experi%C3%AAncia-m%C3%ADdia-tecnologia-activity-7233243027845070849-2KJ9",
+      "activity_status": null
+    },
+    {
+      "title": "Jogos Olímpicos de Paris 2024 - Legado no Esporte, na Saúde e na Mídia Assistido por mais de 2 bilhões de pessoas, os Jogos Olímpicos inspiram…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_jogos-ol%C3%ADmpicos-de-paris-2024-legado-no-activity-7228733739629985792-YtwI",
+      "activity_status": null
+    },
+    {
+      "title": "Jogos Olímpicos de Paris 2024 - Publicidade & Saúde A publicidade entrou no clima olímpico, o COB aumentou em 54% seus patrocínios comparado com…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_jogos-ol%C3%ADmpicos-de-paris-2024-publicidade-activity-7221713295223721985--k0o",
+      "activity_status": null
+    },
+    {
+      "title": "Case Natura &Co - Verão 2025 🏖 Aproveitando o fluxo nas praias do Nordeste e do Litoral Paulista, desenvolvemos para Natura, Mobiliários Urbanos que…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_case-natura-co-verão-2025-aproveitando-activity-7285461999977697282-yhtf",
+      "activity_status": null
+    },
+    {
+      "title": "A Publicidade além das telas e o Poder das Experiências O mundo cada vez mais digital e saturado de informações, valoriza e se conecta cada vez mais…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_a-publicidade-além-das-telas-e-o-poder-das-activity-7272353672552927236-bt6A",
+      "activity_status": null
+    },
+    {
+      "title": "Com o terceiro maior investimento publicitário, o out-of-home chegou a 11,3% de share segundo o Cenp-Meios, faturando R$ 515 milhões no primeiro…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_com-o-terceiro-maior-investimento-publicit%C3%A1rio-activity-7216886451282575360-C60G",
+      "activity_status": null
+    },
+    {
+      "title": "Black Friday - Boa reputação gera conversão! 💛 Conquistar a confiança do consumidor leva tempo e é preciso legitimidade, promoções reais, segurança…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_black-friday-boa-reputação-gera-conversão-activity-7262211122139709440-JqBK",
+      "activity_status": null
+    },
+    {
+      "title": "Como impactar o público AAA através de Mídia e Experiência? Abaixo duas referências em atender esse público (BTG Pactual e Kopenhagen e Chocolates…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_como-impactar-o-público-aaa-através-de-mídia-activity-7261858789417439232-6_hD",
+      "activity_status": null
+    },
+    {
+      "title": "Mude leva Wellness Media para todo o país🧘♀️🏋♀️ Principal plataforma de Wellness Media da AL, Mude apresenta solução única, com entrega de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-leva-wellness-media-para-todo-o-pa%C3%ADs-activity-7211069527437025280-QTKP",
+      "activity_status": null
+    },
+    {
+      "title": "Já treinou em uma academia ao ar livre? Quem gosta de treinar e está em São Paulo, Rio de Janeiro, Recife, Salvador, Fortaleza, Brasília ou Floripa,…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_já-treinou-em-uma-academia-ao-ar-livre-activity-7259338009173520385-64rP",
+      "activity_status": null
+    },
+    {
+      "title": "Inauguramos nesse sábado um projeto único, que leva saúde e bem-estar ao maior Parque da América Latina, o Parque da Cidade em Brasília que recebe 37…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_inauguramos-nesse-s%C3%A1bado-um-projeto-%C3%BAnico-activity-7208227525280333824-qsfy",
+      "activity_status": null
+    },
+    {
+      "title": "O Boticário lançou a Campanha de Dia das Mães 2024 trazendo um debate sobre o estigma e os desafios que envolvem a relação de mães e filhos durante a…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_o-boticário-lançou-a-campanha-de-dia-das-activity-7195862708578058241-urk-",
+      "activity_status": null
+    },
+    {
+      "title": "O futuro da comunicação passa pelo Live Marketing. Principal gerador de engajamento está nas experiências!! 👊💪🏋♀️🚀 Gabriel Rodrigues Marta Reis…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_o-futuro-da-comunicação-passa-pelo-live-marketing-activity-7199429252084051970-6dbP",
+      "activity_status": null
+    },
+    {
+      "title": "💛 Chegamos em Fortaleza 🏋🏻♀️🧘♀️💪💛 Mercado Livre levando saúde e bem estar para Fortaleza, através das estações de exercício, academia, aulas…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_chegamos-em-fortaleza-activity-7192986868467089408-r3MN",
+      "activity_status": null
+    },
+    {
+      "title": "On Optimum Nutrition (Glanbia Performance Nutrition (GPN)) & Mude Wellness Media no Arnold Sports Festival. Muscle Beach da Califórnia pousou no…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_on-optimum-nutrition-glanbia-performance-activity-7183212681279979521-lI0S",
+      "activity_status": null
+    },
+    {
+      "title": "Marcas que Transformam - Promovendo Saúde e Bem-Estar, empresas investem em Experiências e geram Engajamento único!! 🏋♂️ 🛀 🧘♀️ As marcas…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_marcas-que-transformam-promovendo-saúde-activity-7173040523857772545-FFYF",
+      "activity_status": null
+    },
+    {
+      "title": "Live Marketing com Tecnologia/Dados (App) e Mídia Compartilhando projeto que será replicado em São Paulo, Brasília, Recife e Floripa, além de outras…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_rio-academia-yopro-leva-bem-estar-de-graça-activity-7166122412667781120-46G0",
+      "activity_status": null
+    },
+    {
+      "title": "Mude Wellness Media Plataforma única de Mídia, Brand Experience, Academias e App (Mude.fit) Transformando Cidades através da Saúde e Bem-Estar…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_sandro-moretti-passa-a-s%C3%B3cio-e-cso-da-mude-activity-7156065366241128448-ymX2",
+      "activity_status": null
+    },
+    {
+      "title": "Natura & Africa Creative Desafio: Dar a dica do verão \"Colocar o Natura tododia na geladeira antes de usar!\" Como? Transformar o mobiliário urbano da…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_natura-africa-creative-desafio-dar-a-activity-7155260189288390656-KwHL",
+      "activity_status": null
+    },
+    {
+      "title": "Imagine um projeto alinhado ao nosso propósito de transformar as cidades em espaços de bem estar gratuitos e ao ar livre!! YoPRO & Mude inauguram a…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_imagine-um-projeto-alinhado-ao-nosso-propósito-activity-7152027808154726401-S62C",
+      "activity_status": null
+    },
+    {
+      "title": "Linda campanha, seguimos transformando as cidades!!",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_linda-campanha-seguimos-transformando-as-activity-7143324442419527682-xrKE",
+      "activity_status": null
+    },
+    {
+      "title": "Estou #contratando para uma vaga de Assistente Comercial em: Mude Wellness Media!! ð",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_contratando-activity-7142603454350372864-TEM3",
+      "activity_status": null
+    },
+    {
+      "title": "MusculaÃ§Ã£o, Yoga ou Hit Dance? Se vocÃª mora em SÃ£o Paulo e gosta de alguma dessas atividades, conheÃ§a a nova academia da Vigor inaugurada hoje,…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_musculação-yoga-ou-hit-dance-se-você-activity-7139266803976888320-At5T",
+      "activity_status": null
+    },
+    {
+      "title": "Ontem instalamos o primeiro MobiliÃ¡rio Urbano de hidrataÃ§Ã£o e mÃ­dia DOOH, em linha com nosso propÃ³sito de levar saÃºde e bem estar para as…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_ontem-instalamos-o-primeiro-mobiliário-urbano-activity-7136682284044140544-KqyZ",
+      "activity_status": null
+    },
+    {
+      "title": "Empresas com propÃ³sito associado a saÃºde fÃ­sica e mental ganham espaÃ§o e veremos a maior transformaÃ§Ã£o da indÃºstria de alimentos e bebidas nos…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_empresas-com-propósito-associado-a-saúde-activity-7133125879563452417-6d_5",
+      "activity_status": null
+    },
+    {
+      "title": "Evento incrÃ­vel da World Surf League, levando o Surf para outro patamar!! Obrigado pelo convite Ivan Martinho ðâï¸ ðâï¸!! Entre as…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_evento-incrível-da-world-surf-league-levando-activity-7124829663666786304-IFo3",
+      "activity_status": null
+    },
+    {
+      "title": "Passando a trabalho pelo Rio de Janeiro decidi visitar uma das aÃ§Ãµes que a Mude faz diariamente em diferentes cidades (SP, RJ, FL, DF, RE), que…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_brandexperience-dooh-activity-7123094214468329472-km70",
+      "activity_status": null
+    },
+    {
+      "title": "Multishow AÃ§Ã£o de MÃ­dia & Brand Experience no Rio de Janeiro para o lanÃ§amento do programa \"Tem que Suar\"!! HaydÃ©e Figueiredo ð Mude Wellness…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_multishow-ação-de-mídia-brand-experience-activity-7117226417116880897-tacf",
+      "activity_status": null
+    },
+    {
+      "title": "Que time!! Bem vindos!! ðð",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_que-time-bem-vindos-activity-7105960621535354880-18Ib",
+      "activity_status": null
+    },
+    {
+      "title": "MÃ­dia & Brand Experience Kopenhagen aproveitou o dia do Nutricionista para apresentar a linha Soul Good, delicioso chocolate Kopenhagen ð sem…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-entrega-420-milh%C3%B5es-de-impactos-mensais-activity-7061376413383147521-FkCZ",
+      "activity_status": null
+    },
+    {
+      "title": "Mude - InovaÃ§Ã£o transformada em PatrimÃ´nio Cultural e Esportivo do RJ! AlÃ©m das aÃ§Ãµes de Midia & Brand Experince agora as estaÃ§Ãµes de…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-inova%C3%A7%C3%A3o-transformada-em-patrim%C3%B4nio-activity-7100861059544068097-4kVI",
+      "activity_status": null
+    },
+    {
+      "title": "OOH com PropÃ³sito ð ð Academia Droga Raia no Parque Villa-Lobos 2023/2024. Mude - Transformamos cidades em espaÃ§os de bem estar!! ParabÃ©ns…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_academia-droga-raia-garante-presença-noparque-activity-7070449086922989569-d1qz",
+      "activity_status": null
+    },
+    {
+      "title": "Vamos associar Marcas a ambientes positivos, de saÃºde e bem-estar. https://lnkd.in/dRHfYBH5 https://lnkd.in/d3KeNQ4K https://lnkd.in/dSr5mugH",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mude-contrata-diretores-e-apresenta-nova-activity-7066496551631634432-Ni2S",
+      "activity_status": null
+    },
+    {
+      "title": "Ontem foi dia de voltar a dar aula e compartilhar um pouco do mundo da publicidade, OOH, DOOH, OTS, Programática e alguns cases! Voltar ao ambiente…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_publicidade-dooh-espm-activity-6978690505270267904-16ZN",
+      "activity_status": null
+    },
+    {
+      "title": "ABOOH - Sunset Network Belo encontro Andrea Weiss e que avancem mais métricas para o OOH! Voltando pra casa com a Zanzar Herbert Viana Andrade!! #OOH…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_ooh-abooh-carrega-activity-6953356339779678208-V8V2",
+      "activity_status": null
+    },
+    {
+      "title": "Semana passada encerrei minha passagem pela Carrega+, startup de OOH em forte crescimento e potencial absurdo. Experiência única em liderar o time…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_semana-passada-encerrei-minha-passagem-pela-activity-6997991554237804544-ZR2Q",
+      "activity_status": null
+    },
+    {
+      "title": "Feliz e honrado em fazer parte dos 25 nomes de veÃ­culos de comunicaÃ§Ã£o no TOP 100 LÃ­deres do Mercado PublicitÃ¡rio! Bora escolher os finalistas…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_top100gestores-amigosdomercado-premioamigosdomercado-activity-6983560534348455936-x4fb",
+      "activity_status": null
+    },
+    {
+      "title": "Compartilho novo desafio no estado com o quarto maior PIB per capita do país e sexto maior PIB absoluto. Vamos desenvolver e apresentar a principal…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_vagas-negócios-advertising-activity-6999080074490572800-H0FV",
+      "activity_status": null
+    },
+    {
+      "title": "Feliz em participar novamente como jurado do Festival Élan, premiação democrática realizada pelo Amigos do Mercado!! Os cases ficaram ainda melhores…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_feliz-em-participar-novamente-como-jurado-activity-6945151784529080320-G6aI",
+      "activity_status": null
+    },
+    {
+      "title": "2021 que ano, passamos por pandemia, vacinação, fase roxa.., IPO, aquisições, métricas e crescimento... Liderar um time com personalidades, crenças e…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_eletromidia-activity-6876631333603426305-uVnF",
+      "activity_status": null
+    },
+    {
+      "title": "17/02/2021 registra o primeiro IPO na publicidade brasileira, um dia incrível que marca o início de uma nova jornada!! Parabéns ao time…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_17022021-registra-o-primeiro-ipo-na-publicidade-activity-6768033853115260928-fzkr",
+      "activity_status": null
+    },
+    {
+      "title": "Mais um projeto incrível para os anunciantes!",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_mais-um-projeto-incrível-para-os-anunciantes-activity-6797985452243730432-a5gI",
+      "activity_status": null
+    },
+    {
+      "title": "Ação incrível do Mercado Livre na Eletromidia!!",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_a%C3%A7%C3%A3o-incr%C3%ADvel-do-mercado-livre-na-eletromidia-activity-6765612058076573696-a1QP",
+      "activity_status": null
+    },
+    {
+      "title": "Há dois anos recebi a ligação de um headhunter que tinha uma posição para o meu perfil. Pelo momento na empresa decidi participar, o processo…",
+      "link": "https://www.linkedin.com/posts/sandro-moretti-a277238_h%C3%A1-dois-anos-recebi-a-liga%C3%A7%C3%A3o-de-um-headhunter-activity-6629117380435951616-EE80",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Sandro Moretti",
+      "link": "https://it.linkedin.com/in/sandro-moretti-4855679a",
+      "summary": "Specialista comunicazione presso FACTORIT S.P.A.",
+      "location": "Milão"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://it.linkedin.com/in/sandro-moretti-15a24036",
+      "summary": "Aftersales Service and Quality System Manager at Modular Professional Srl",
+      "location": "Treviso"
+    },
+    {
+      "name": "SANDRO MORETTI",
+      "link": "https://it.linkedin.com/in/sandro-moretti-1138408b",
+      "summary": "Funzionario presso BANCA POPOLARE DI CIVIDALE",
+      "location": "Pordenone"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://it.linkedin.com/in/sandromoretti",
+      "summary": "Co-Founder & Managing Partner at BlackSheep Ventures",
+      "location": "Milão"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-71034b26",
+      "summary": "Diretor de Expansão Internacional na Accell Solutions",
+      "location": "Campinas, SP"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-9b877873",
+      "summary": "Logistics Assistance @Ocyan",
+      "location": "Rio de Janeiro, RJ"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-d-moretti/en",
+      "summary": "Business Development | Sales & Marketing | Entrepreneur | Management | Export | IoT | Energy & Water Utilities",
+      "location": "Campinas, SP"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-111217",
+      "summary": null,
+      "location": "Brazil"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-02010b15",
+      "summary": "Especialista Telecom - Infraestrutura",
+      "location": "Cascalho Rico, MG"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-226804b0",
+      "summary": "Analista de Ti",
+      "location": "Santana de Parnaíba, SP"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-7b6bab9a",
+      "summary": "advogado na moretti advogados",
+      "location": "Presidente Prudente, SP"
+    },
+    {
+      "name": "Sandro Moretti",
+      "link": "https://br.linkedin.com/in/sandro-moretti-7914a07a",
+      "summary": "Engenheiro Agronômo",
+      "location": "São Miguel do Iguaçu, PR"
+    },
+    {
+      "name": "Sandro M.",
+      "link": "https://br.linkedin.com/in/sandro-moretti",
+      "summary": "Consultor Financeiro | Consultor de Projetos | Turnaround | FP&A",
+      "location": "São Paulo, SP"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:53:32Z"
+  }
+}

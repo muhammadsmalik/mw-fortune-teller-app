@@ -1,0 +1,797 @@
+{
+  "public_identifier": "alan-kaufman-2424a5a",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/0bf09d6087c91a062a6cd5a1f7bc55cf",
+  "background_cover_image_url": null,
+  "first_name": "Alan",
+  "last_name": "Kaufman",
+  "full_name": "Alan Kaufman",
+  "follower_count": 745,
+  "occupation": "President at DynaScan Technology, Inc.",
+  "headline": "President at DynaScan Technology, Inc.",
+  "summary": "Corporate executive and day-to-day operations management. <br>Market strategy and…",
+  "location_str": "Irvine, California, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Irvine",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2003
+      },
+      "ends_at": null,
+      "company": "DynaScan Technology, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dynascan-technology-inc.",
+      "company_facebook_profile_url": null,
+      "title": "President",
+      "description": null,
+      "location": "Orange County, California Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b3660876522fe3c5389c3b06fdb07b87"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1974
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1978
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "University of Paris I: Panthéon-Sorbonne",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1974
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1978
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Université Paris 1 Panthéon-Sorbonne",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/sorbonneparis1",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/malcolmyadack",
+      "name": "Malcolm Yadack",
+      "summary": null,
+      "location": "Heidelberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankeriklarsen",
+      "name": "Frank Larsen",
+      "summary": null,
+      "location": "Copenhagen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florianrotberg",
+      "name": "Florian Rotberg",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julienminier",
+      "name": "Julien MINIER",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evideo",
+      "name": "Tom Morgan",
+      "summary": "at eVideo Communications",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottpickus",
+      "name": "Scott Pickus",
+      "summary": "Senior Manager, Communications & Marketing Operations",
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monikalindquist",
+      "name": "Monika Lindquist",
+      "summary": "Group CMO at Vertiseit Group (Visual Art, Grassfish & Dise) | Angel Investor | Advisor I Lecturer",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pontusmeijer",
+      "name": "Pontus Meijer",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jianchengchen",
+      "name": "Jiancheng (Edison) Chen",
+      "summary": "Product Engineer at Plastpro Inc.",
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albertodcaceres",
+      "name": "Alberto Cáceres Tejedor",
+      "summary": "GLOBAL CEO || TRISON || We digitalise the spaces of tomorrow all over the world || FORBES 100 Most Creative People in Business || At your service",
+      "location": "A Coruña"
+    },
+    {
+      "link": "https://www.linkedin.com/in/advantageman",
+      "name": "Michael Collins",
+      "summary": "President @ Advantage - Pumps/Motors/Filters",
+      "location": "Santa Ana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-schroeder-69669a287",
+      "name": "Steven Schroeder",
+      "summary": "Civil Engineer 2 at NYSDOT",
+      "location": "Ronkonkoma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-schroeder-6b6935145",
+      "name": "Steve Schroeder",
+      "summary": "Retired at Non",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ken-bellero",
+      "name": "Ken Bellero",
+      "summary": "Schaffner EMC, Inc is a leader providing solutions that help engineers solve issues with EMC/EMI challenges in their designs for the electronics industry.",
+      "location": "Edison"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pauldurantjr",
+      "name": "Paul Durant Jr.",
+      "summary": "President at Techprint Inc.",
+      "location": "Lawrence"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-ladner-09940329",
+      "name": "Matthew Ladner",
+      "summary": "Sales Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-daniel-654375119",
+      "name": "Katie Daniel",
+      "summary": "Business Development Manager at DynaScan Technology",
+      "location": "Nashville metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-wang-060996225",
+      "name": "david wang",
+      "summary": "--",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-lai-061070168",
+      "name": "Angela Lai",
+      "summary": "Accounting Clerk at ParPro Technologies Inc.",
+      "location": "Garden Grove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-allen-2565a5",
+      "name": "Ed Allen",
+      "summary": "President @ Eclipse Technologies Inc. | Technology Solutions Leader",
+      "location": "Milwaukee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-schroeder-597aa03",
+      "name": "Steven Schroeder",
+      "summary": "Editor at The Medical Society Of The County Of Kings, Inc. & The Academy Of Medicine Of Brooklyn",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernd-hofstoetter-7127604",
+      "name": "Bernd Hofstoetter",
+      "summary": "Digital | Media | Music | Scent | Instore | International | Technology",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-lai-4a46766",
+      "name": "Kevin Lai",
+      "summary": null,
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-zaniboni-7414aa7",
+      "name": "Fabio Zaniboni",
+      "summary": "Entrepreneur",
+      "location": "Clearwater"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-schroeder-2b996a7",
+      "name": "Steve Schroeder",
+      "summary": "Owner, Atlas Refinery, Inc.",
+      "location": "Newark"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rhonda-parker-5499598",
+      "name": "Rhonda Parker",
+      "summary": null,
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-gelman-lsi",
+      "name": "Daniel Gelman",
+      "summary": "President and CEO at Lighting Services Inc",
+      "location": "Stony Point"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bob-henderson-a7aa70a",
+      "name": "Bob Henderson",
+      "summary": null,
+      "location": "Ann Arbor"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-kruss-president-led-supplier-manufacturing-a32962b",
+      "name": "Steve Kruss President LED supplier manufacturing",
+      "summary": "President at Light-Waves Electronics, Inc.",
+      "location": "Portland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terri-tice-a2810110",
+      "name": "Terri Tice",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-mcauliff-71816911",
+      "name": "Brian McAuliff",
+      "summary": "Founder/CEO  - Technology Designer - Automation - Software - IT - AV - Security - Lighting - for Corporate - Residential - Education",
+      "location": "Bohemia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dwayne-hillman-2a381412",
+      "name": "Dwayne Hillman",
+      "summary": "President at ACE LEDS",
+      "location": "Arlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-sullivan-78808913",
+      "name": "Dave Sullivan",
+      "summary": "President at Industrial Support Inc.",
+      "location": "Buffalo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jim-pastorek-a9540b13",
+      "name": "Jim Pastorek",
+      "summary": "Major Account Manager at DynaScan Technology, Inc.",
+      "location": "Anaheim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nathan-chang-64236a14",
+      "name": "Nathan Chang",
+      "summary": "at",
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/howard-fisher-05265917",
+      "name": "howard fisher",
+      "summary": "President at American Weldquip Inc. - RETIRED",
+      "location": "Sharon Center"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-lee-73777918",
+      "name": "Paul Lee",
+      "summary": null,
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dmitry-chebyshev-58178a18",
+      "name": "Dmitry Chebyshev",
+      "summary": "Sales Director for Corporate Market at Polymedia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pointu-helene-78201819",
+      "name": "Pointu Helene",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-wood-b552b420",
+      "name": "Neil Wood",
+      "summary": "Retired -  Digital View Inc",
+      "location": "Morgan Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-nickerson-10049522",
+      "name": "Linda Nickerson",
+      "summary": "Happily Retired Former Law Office Administrator",
+      "location": "Farmington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rik-willemse-89000b2a",
+      "name": "Rik Willemse",
+      "summary": null,
+      "location": "Rotterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-van-curen-9460952b",
+      "name": "Greg Van Curen",
+      "summary": "President at E-Collar Technologies, Inc.",
+      "location": "Fremont"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-franklin-83846032",
+      "name": "tom franklin",
+      "summary": "president at esco lighting inc.",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-pidgeon-06665232",
+      "name": "John Pidgeon",
+      "summary": "President at Draper, Inc.",
+      "location": "Spiceland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-mrenjica-318a5133",
+      "name": "Sebastian Mrenjica",
+      "summary": "Technical Sales and Support bei ICP Deutschland GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-montenes-40773735",
+      "name": "Michael Montenes",
+      "summary": null,
+      "location": "Hauppauge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matti-heinonm%25C3%25A4ki-a414613a",
+      "name": "Matti Heinonmäki",
+      "summary": "Information Technology Manager at DOOHLABS",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-schroeder-67b5313a",
+      "name": "Steve Schroeder",
+      "summary": null,
+      "location": "New City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shubkarmanrandhawa",
+      "name": "Shubkarman (Chinu) Randhawa",
+      "summary": "Operations Analyst at UDR | Foster MBA",
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-patel-79a56451",
+      "name": "Mike Patel",
+      "summary": null,
+      "location": "Albuquerque"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-devine-6a780a55",
+      "name": "Ben Devine",
+      "summary": null,
+      "location": "Houston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-crosswait-21261068",
+      "name": "Mark Crosswait",
+      "summary": "Manager at Patrons Cooperative Association",
+      "location": "Rapid City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerstin-muller-49156374",
+      "name": "Kerstin Muller",
+      "summary": "Business Development Manager DACH/Italy/Eastern Europe, Digital Signage - DynaScan Technology",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-hamm-pe-50204379",
+      "name": "Jason Hamm, PE",
+      "summary": "Senior Mechanical Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-mancuso-327ab679",
+      "name": "Christopher Mancuso",
+      "summary": "President at Sealed Unit Parts Co., Inc.",
+      "location": "Allenwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25A9r%25C3%25B4me-adolphe-6b755680",
+      "name": "Jérôme Adolphe",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manlio-romanelli-83657b91",
+      "name": "Manlio Romanelli",
+      "summary": null,
+      "location": "Trieste"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-levison-1a38179b",
+      "name": "Daniel Levison",
+      "summary": null,
+      "location": "Albuquerque"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-sam-28a368127",
+      "name": "William Sam",
+      "summary": "Head of Solutions Market Development & Integration",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linet-moradi-b12865132",
+      "name": "Linet Moradi",
+      "summary": "Staff Accountant and Operations at DynaScan Technology, Inc.",
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitri-talloen-90226a138",
+      "name": "Dimitri Talloen",
+      "summary": null,
+      "location": "Kortrijk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marilyn-m%25C3%25A9nard-653215161",
+      "name": "Marilyn Ménard",
+      "summary": "Technicienne de production chez Cristal laser",
+      "location": "Jarville-la-Malgrange"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-unger-77118b165",
+      "name": "Sven Unger",
+      "summary": null,
+      "location": "Würzburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brarpawan-brar-063391169",
+      "name": "Brarpawan Brar",
+      "summary": "Vice President",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-aaron-667852179",
+      "name": "Andy Aaron",
+      "summary": "Senior Project Manager at Leader LED Display Solutions Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ching-han-lee-7497a7183",
+      "name": "Ching Han Lee",
+      "summary": null,
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/theresa-wiltz-davies-29a0a518a",
+      "name": "Theresa Wiltz Davies",
+      "summary": "Sales & Service Administrator at Chroma ATE Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-schroeder-067a52197",
+      "name": "Steve Schroeder",
+      "summary": "--",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oscar-steve-echeverria-5774b222a",
+      "name": "Oscar steve Echeverria",
+      "summary": "Ingeniero Electricista / Asesor",
+      "location": "Guadalajara"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I am deeply honoured to have been awarded the Digital Signage Awards Outstanding Individual Award 2024. I am accepting this award on behalf of the…",
+      "link": "https://www.linkedin.com/posts/florianrotberg_digitalsignage-ise2024-sustainability-activity-7160883744113864705-yvzB",
+      "activity_status": null
+    },
+    {
+      "title": "#ise24 #dynascan #invidis #eink",
+      "link": "https://www.linkedin.com/posts/kerstin-muller-49156374_ise-2024-barcelona-impressions-activity-7158878585963855872-7BWq",
+      "activity_status": null
+    },
+    {
+      "title": "… and that’s it 🙌 After learning, networking, and exchanging expert ideas for the past two days, #DSSE2024 has now concluded. Thank you everyone for…",
+      "link": "https://www.linkedin.com/posts/digital-signage-summit-europe_dsse2024-dsse2024-dsse2025-activity-7199427095402278912-ToDR",
+      "activity_status": null
+    },
+    {
+      "title": "Last month, DynaScan partnered with E Ink Corporation at Touch Taiwan, the leading display technology exhibition in the country! At the event, we…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._dynascan-eink-touchtaiwan-activity-7196767436849733634-RfY4",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan is excited to announce it is supporting #DSSE2024, the definitive event for the international digital signage & DooH industry, as a Diamond…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._dsse2024-activity-7194222182632198144-qGWC",
+      "activity_status": null
+    },
+    {
+      "title": "It's an exciting week at InfoComm, and we can't wait to share our new display solutions that enable our customers to attract and engage viewers. Come…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._infocomm24-dynascan-avtweeps-activity-7207083231559512065-H4sT",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Join DynaScan at DSJ Digital Science Japan 2024! We’re thrilled to announce that DynaScan will be showcasing our innovative digital display…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._dsj2024-dynascan-digitaldisplays-activity-7203893521529921536-qo_U",
+      "activity_status": null
+    },
+    {
+      "title": "Infocomm 2024 is kicking off tomorrow, and we can't wait to see you there! Look for Booth W825 in the West hall. From our award-winning window…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._infocomm24-dynascan-digitaldisplays-activity-7206309369003614210-LcFa",
+      "activity_status": null
+    },
+    {
+      "title": "We’re excited to announce that our Total Control Cloud Digital Signage Remote Management Solution has won the prestigious iF Design Award! Total…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._dynascan-ifdesignaward-digitalsignage-activity-7303106024918462466-fC72",
+      "activity_status": null
+    },
+    {
+      "title": "💪 The buildup for #ISE2025 is underway! 👷 Our operations team is on the ground, assisting exhibitors in getting set for the largest ISE show ever…",
+      "link": "https://www.linkedin.com/posts/integrated-systems-europe-ise-_ise2025-ise2025-iseconnectionrestored-activity-7290103893164806145-K35j",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan is revolutionizing sustainable display technology with its cutting-edge ePaper innovations. Our latest lineup includes 13.3-inch…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._3c700-dynascan-epaper-activity-7289900343679721472-VUJX",
+      "activity_status": null
+    },
+    {
+      "title": "DynaScan isn’t just unveiling new hardware at ISE; one of the most exciting updates to our lineup is DynaScan Total Control Cloud—the ultimate tool…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._3c700-ise2025-digitalsignage-activity-7283015265246760961-n5iP",
+      "activity_status": null
+    },
+    {
+      "title": "We are excited to announce the unveiling of DynaScan’s cutting-edge fine pitch LED displays, designed specifically for window applications, at…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._ise2025-3c700-dynascan-activity-7282305324294807552-Njfp",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve visited companies that had my name on a screen behind reception, but nothing like this 😀 Super impressed by what I saw and heard from Dynascan…",
+      "link": "https://www.linkedin.com/posts/davethaynes_ive-visited-companies-that-had-my-name-on-activity-7257995409854275585-3g3F",
+      "activity_status": null
+    },
+    {
+      "title": "It was an exceptional week at InfoComm! A very big thank you to everyone who visited and experienced our new innovations. For a recap of all things…",
+      "link": "https://www.linkedin.com/posts/dynascan-technology-inc._infocomm24-dynascan-kiosk-activity-7207789070511468547-BCw6",
+      "activity_status": null
+    },
+    {
+      "title": "Beautiful displays by E Ink Corporation unveiled at Touch Taiwan in Taipei this week. Wi-Charge is fully committed to power every one of these at any…",
+      "link": "https://www.linkedin.com/posts/ori-mor-9407b423_wirelesspower-digitalsignage-lesswires-activity-7318929366359465985-7eJm",
+      "activity_status": null
+    },
+    {
+      "title": "We are hiring a Technical Services Manager for our Irvine, California location with experience in commercial displays.",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_we-are-hiring-a-technical-services-manager-activity-7148122441922273280-fVdC",
+      "activity_status": null
+    },
+    {
+      "title": "Another successful and informative #dsse23 in Munich closed yesterday. We all look forward to the next edition and invite all digital signage…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dsse23-activity-7083009534167830528-GGVa",
+      "activity_status": null
+    },
+    {
+      "title": "Good to be back in Japan with the team at DSJ show. Seeing old friends and meeting new ones.",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_good-to-be-back-in-japan-with-the-team-at-activity-7074564792413290496-a8ky",
+      "activity_status": null
+    },
+    {
+      "title": "Last day in Japan, I visited the YANMAR TOKYO sustainable building featuring 5 DynaScan DW551DR4 dual-sided displays. The lobby/museum area is…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_last-day-in-japan-i-visited-the-yanmar-tokyo-activity-7075726561278103552-4r6s",
+      "activity_status": null
+    },
+    {
+      "title": "Ribbon-cutting event of IKE Smart City in Miami, Wynwood BID. Thanks to everyone involved in making this a success.",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_ribbon-cutting-event-of-ike-smart-city-in-activity-6813906799490662400-6LnF",
+      "activity_status": null
+    },
+    {
+      "title": "#dynascan is ready to welcome our partners and friend at our wonderful stand at #ise. For those who are unable to attend this year, we will post…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dynascan-ise-activity-6632907222856933376-NmHK",
+      "activity_status": null
+    },
+    {
+      "title": "First preview",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_first-preview-activity-6632909212563447808-R3FL",
+      "activity_status": null
+    },
+    {
+      "title": "Pre #ise for the #dynascan team",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_ise-dynascan-activity-6632684687557046273-GuHI",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you #dynascan team for making #ise a great success.",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dynascan-ise-activity-6634123541384179712-f_Zw",
+      "activity_status": null
+    },
+    {
+      "title": "#DynaScan stand at DSJ Japan. The show is opening in one hour. We expect many visitors at the official launch of #DynaScan Japan.",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dynascan-dynascan-activity-6544368312497897472-45VL",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to #DSSEurope in Munich, July 3 and 4. #DynaScan is sponsoring this unique event once again this year. I will be there together with…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dsseurope-dynascan-activity-6549736645627908096-TW6n",
+      "activity_status": null
+    },
+    {
+      "title": "Getting ready for Digital Signage Japan opening tomorrow at Makuhari Messe. The rest of the #DynaScan team is in Orlando for InfoComm. Two shows on…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_dynascan-activity-6544151599978291200-Y_TV",
+      "activity_status": null
+    },
+    {
+      "title": "Great show in Mexico with our friend and partner Novotech Federico Freyria, showing several DynaScan Technology, Inc. High Brightness display. David…",
+      "link": "https://www.linkedin.com/posts/alan-kaufman-2424a5a_screens-activity-6436002061816594432-B9_6",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-96a78732",
+      "summary": "Owner, Alan Kaufman MD",
+      "location": "Pleasantville, NY"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-942a3718",
+      "summary": "Principal at A.B. Kaufman & Associates, PLLC",
+      "location": "Scottsdale, AZ"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-10ab02b",
+      "summary": "artist at Alan kaufman",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-8142525",
+      "summary": "Owner, kaufman stairs",
+      "location": "Edison, NJ"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://uk.linkedin.com/in/alan-kaufman-86797b95",
+      "summary": "Director at Kaufman-Projects Limited",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-8a340222",
+      "summary": "Psychology researcher, professor, writer, test developer",
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-a4254878",
+      "summary": "General Manager at Interstate Parking Company",
+      "location": "明尼亞波利, MN"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-30a2133",
+      "summary": null,
+      "location": "邁阿密, FL"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-4b66b913",
+      "summary": null,
+      "location": "大薩吉諾-米德蘭灣市區"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alankaufman333",
+      "summary": "President, CEO at Applied Business Solutions",
+      "location": "Fort Collins, CO"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-0838919",
+      "summary": "Consultant to CEO’s and Private Equity| Interim CEO| Crisis Management and Turnaround | Mergers and Acquisitions| Business Development | Category Management to Major Retailers in Jewelry, Pharmacy and Beauty worldwide",
+      "location": "Greensboro, GA"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-3a10706",
+      "summary": "CEO Canope",
+      "location": "Boca Raton, FL"
+    },
+    {
+      "name": "Alan K.",
+      "link": "https://www.linkedin.com/in/alan-k-895b5918",
+      "summary": "VP of Technical Operations at ConnexPay",
+      "location": "Osseo, MN"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-7471494",
+      "summary": "Global Operations Director at ITW",
+      "location": "Crown Point, IN"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-7a4b6852",
+      "summary": "Creatively solving clients’ problems and resolving their litigation disputes",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Alan Kaufman, M.D.",
+      "link": "https://www.linkedin.com/in/alan-kaufman-m-d-96a78732",
+      "summary": "Founder and Medical Director Alan Kaufman, M.D. LLC",
+      "location": "Miami-Fort Lauderdale Area"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-a93b9a11",
+      "summary": null,
+      "location": "Yorba Linda, CA"
+    },
+    {
+      "name": "Alan Kaufman",
+      "link": "https://www.linkedin.com/in/alan-kaufman-1900a827",
+      "summary": null,
+      "location": "Greater Chicago Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-15T00:00:00Z"
+  }
+}

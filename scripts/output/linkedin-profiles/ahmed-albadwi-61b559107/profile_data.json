@@ -1,0 +1,680 @@
+{
+  "public_identifier": "ahmed-albadwi-61b559107",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/97d1eace6d492c5b14195d7521cdb56d",
+  "background_cover_image_url": null,
+  "first_name": "Ahmed",
+  "last_name": "Albadwi",
+  "full_name": "Ahmed Albadwi",
+  "follower_count": 517,
+  "occupation": "Client Services, Team Leader at LIVE BOARD,INC.",
+  "headline": "Client Services, Global Sales Lead | LIVE BOARD, INC.",
+  "summary": "<br>",
+  "location_str": "日本 東京都",
+  "country": "JP",
+  "country_full_name": "Japan",
+  "city": "Tokyo",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "LIVE BOARD,INC.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/live-board-inc",
+      "company_facebook_profile_url": null,
+      "title": "Client Services, Team Leader",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/28e455c82ded466f8b78fc4d86584b94"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2024
+      },
+      "company": "LIVE BOARD,INC.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/live-board-inc",
+      "company_facebook_profile_url": null,
+      "title": "Client Services, Media Planner",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/28e455c82ded466f8b78fc4d86584b94"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "company": "Kesion Co., Ltd.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kesion",
+      "company_facebook_profile_url": null,
+      "title": "Media Planner",
+      "description": null,
+      "location": "Tokyo, Japan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a4ff186079f0b2cb89be65edb565e20f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "company": "Green Apple Medical Systems",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Service Engineer",
+      "description": "•\tDemonstrating new medical devices to hospitals and doctors. •\tInstallation of new devices delivered to concerned purchasers. •\tDemonstrating the working and debugging of devices. •\tProviding periodic checkups on devices for maintenance.",
+      "location": "Hyderabad Area, India",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": "Biomedical/Medical Engineering",
+      "degree_name": "Master's degree",
+      "school": "University of Malaya",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unimalaya",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0201344a61d59e4bebbd4781c4b82b56",
+      "grade": "CGPA 3.86 / 4.00",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": "Biomedical/Medical Engineering",
+      "degree_name": "Bachelor of Engineering (BE)",
+      "school": "Osmania University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/osmania-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a9af1aae2a91b3e2ae818bc81bc9e5da",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Japanese",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Japanese",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Arabic",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "org_name": "Japanese-Yemeni friendship association",
+      "title": null,
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Artificial Intelligence in Medicine",
+      "number": null
+    },
+    {
+      "name": "Bio Mems and Nanobiomedicine",
+      "number": null
+    },
+    {
+      "name": "Bioelectricity",
+      "number": null
+    },
+    {
+      "name": "Bioinstrumentations",
+      "number": null
+    },
+    {
+      "name": "Biomaterials",
+      "number": null
+    },
+    {
+      "name": "Biomechanics",
+      "number": null
+    },
+    {
+      "name": "Biomedical Equipment",
+      "number": null
+    },
+    {
+      "name": "Biomedical Instrumentation",
+      "number": null
+    },
+    {
+      "name": "Digital Electronics",
+      "number": null
+    },
+    {
+      "name": "Digital Signal Processing",
+      "number": null
+    },
+    {
+      "name": "Healthcare Technology",
+      "number": null
+    },
+    {
+      "name": "MediEmbedded Systems",
+      "number": null
+    },
+    {
+      "name": "Medical Device Design",
+      "number": null
+    },
+    {
+      "name": "Medical Image Processing",
+      "number": null
+    },
+    {
+      "name": "Microprocessor & Microcontroller systems",
+      "number": null
+    },
+    {
+      "name": "Rehabilitation Engineering",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "title": "Member",
+      "cause": "社会福祉",
+      "company": "The Victress Support",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nishanth-reddy-deva",
+      "name": "Nishanth Reddy Deva",
+      "summary": "Associate Director, Global Regulatory Strategy Devices LCE at Bayer Pharmaceuticals",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/trinhmtran",
+      "name": "Trinh M. Tran",
+      "summary": "Supervisor, Media Activation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shintarotakayama",
+      "name": "Shintaro Takayama",
+      "summary": null,
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meissarebbani",
+      "name": "Meissa Rebbani",
+      "summary": "DOOH Programmatic Advertising",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/toyoda-misaki-a60581290",
+      "name": "toyoda misaki",
+      "summary": "LIVE BOARD,INC. - 営業職",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aoi-mitani-7b2791270",
+      "name": "Aoi Mitani",
+      "summary": "--",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25A3%25AE%25E5%25A4%25AA-%25E4%25BA%2580%25E7%2594%25B0-2782b0243",
+      "name": "亀田 壮太",
+      "summary": "Account Manager, Amazon Business Marketplace",
+      "location": "Meguro-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-lam-a88bb5235",
+      "name": "Stephanie Lam",
+      "summary": null,
+      "location": "Petaling"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2582%25A0%25E7%2594%259F-%25E5%25A1%25A9%25E5%25A1%259A-133279238",
+      "name": "塩塚 悠生",
+      "summary": "早稲田大学在学",
+      "location": "Toshima-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25A5%2588%25E6%259C%25AA-%25E5%25A4%25A7%25E6%25BE%25A4-498a05252",
+      "name": "大澤 奈未",
+      "summary": "LIVE BOARD,INC. - マーケティング",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E4%25BA%2598-%25E5%25B7%259D%25E5%258F%25A3-879164219",
+      "name": "川口 亘",
+      "summary": "株式会社 LIVE BOARD - 取締役",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manojkumarpacha",
+      "name": "Manoj Kumar Pacha",
+      "summary": "Vice President, Software Engineer, JPMorgan Chase & Co",
+      "location": "Columbus metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keitaro-goto-192704236",
+      "name": "Keitaro Goto",
+      "summary": "DeCoA",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomohiko-higashi",
+      "name": "Tom Higashi",
+      "summary": "Platform Experience Analyst at Accenture",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nurul-ayu-najwa-mohd-zubir-4b4b64237",
+      "name": "NURUL AYU NAJWA MOHD ZUBIR",
+      "summary": "Fresh Graduate | Bachelor of Biomedical Engineering | University of Malaya",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-lim-labelz-2a704124",
+      "name": "Mark Lim (Labelz)",
+      "summary": "Director Of Sales at Labelz Sdn  Bhd",
+      "location": "Kota Damansara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-kiran-kore-ph-d-409743b",
+      "name": "Dr.Kiran Kore Ph.D",
+      "summary": "Assistant Professor @ University College of Engineering,Osmania University",
+      "location": "Mancherial"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hitoshi-takayama-93625319",
+      "name": "Hitoshi Takayama",
+      "summary": "Marketer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoshito-nakashima-54744926",
+      "name": "Yoshito Nakashima",
+      "summary": "Business Design Director at Hakuhodo Inc.",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjay-saboo-99488330",
+      "name": "sanjay saboo",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-tickle-25527a48",
+      "name": "Matthew Tickle",
+      "summary": "Sales Director UK & Europe at Spafax",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25D8%25B3%25D9%2584%25D9%258A%25D9%2585%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D9%2586%25D8%25AC%25D8%25A7%25D8%25B1-a0424b4a",
+      "name": "سليمان النجار",
+      "summary": "Sales And Marketing Specialist at Ababil Health Care Private Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sajan-goud-lingala-44a94351",
+      "name": "Sajan Goud Lingala",
+      "summary": "Associate Professor, Roy J Carver Department of Biomedical Engineering, and Department of Radiology,University of Iowa",
+      "location": "Iowa City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wilson-c-737a625a",
+      "name": "Wilson C.",
+      "summary": "Sales & Marketing",
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shawn-pan0331",
+      "name": "Shawn Pan",
+      "summary": "General Manager, APAC | Ai-CHA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chong-ying-mei-45660093",
+      "name": "Chong Ying Mei",
+      "summary": "Provide Static and Digital Billboard to create more visibility",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/akira-miura-757646a6",
+      "name": "Akira Miura",
+      "summary": "HAKUHODO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kotha-sam-681246b8",
+      "name": "Kotha Sam",
+      "summary": "Senior Advanced Quality Engineer at CR Bard",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alloysious-chin-1aa696103",
+      "name": "Alloysious Chin",
+      "summary": null,
+      "location": "Subang Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sruthima-koneru-2b795310a",
+      "name": "Sruthima Koneru",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amadeus-chua-10058410b",
+      "name": "Amadeus Chua",
+      "summary": "-",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-saleh-367154118",
+      "name": "Mohammed Saleh",
+      "summary": "Biomedical Sales Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/takahiro-konno-bb6967126",
+      "name": "Takahiro Konno",
+      "summary": "carta communications inc.",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yu-lee-717a8a137",
+      "name": "Yu Lee",
+      "summary": "International Sales Representative",
+      "location": "Hsinchu City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susmitha-porandla",
+      "name": "Susmitha Porandla",
+      "summary": "Biomedical Engineer specialized in Industrial Bioengineering",
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anusthitha-sunchu-870587146",
+      "name": "ANUSTHITHA SUNCHU",
+      "summary": "MEDICAL DEVICES AND DEVELOPMENT AND HEALTH CARE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/narender-reddy-019bb8148",
+      "name": "Narender Reddy",
+      "summary": "Professor Emeritus at The University of Akron",
+      "location": "Akron"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rhys-richards-15133214a",
+      "name": "Rhys Richards",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/digvijay-sathyarthi-851155150",
+      "name": "Digvijay Sathyarthi",
+      "summary": "Student at University College Of Engineering Osmania",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jun-sakurai-6a821b160",
+      "name": "Jun Sakurai",
+      "summary": "dentsu Japan - Head of OOH Business",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaya-gayatri-127b84161",
+      "name": "Jaya Gayatri",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dandu-shireen-8928b6162",
+      "name": "Dandu Shireen",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shun-ogata-010712173",
+      "name": "Shun Ogata",
+      "summary": "Employee",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-papaspyrou-207bb7177",
+      "name": "Georgia Papaspyrou",
+      "summary": "Senior Client Manager in Out of Home Advertising",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-aljunaid-83912b180",
+      "name": "mohammed aljunaid",
+      "summary": "BioMedical Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/teppei-kinugasa-0312411a4",
+      "name": "Teppei Kinugasa",
+      "summary": "Director at LIVE BOARD, Inc.",
+      "location": "Setagaya-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-grace-4717491b1",
+      "name": "Sara Grace",
+      "summary": "Student at City College of New York, CUNY",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharmila-chowdary-tella-3414441b5",
+      "name": "Sharmila chowdary tella",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sungeun-jang-8587a1200",
+      "name": "Sungeun Jang",
+      "summary": "株式会社ケシオン - 広告",
+      "location": "Minato-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sai-swati-kiran-bulusu-669757201",
+      "name": "Sai Swati Kiran Bulusu",
+      "summary": "Bachelor of Engineering - BE at Osmania University",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kazuki-kyogoku-8941aa208",
+      "name": "Kazuki Kyogoku",
+      "summary": "WIEDEN＋KENNEDY",
+      "location": "Chiyoda-Ku"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I’ll be attending the annual WOO congress in London this June! Looking forward to connecting with others across the OOH industry, exchanging ideas,…",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_dooh-programmatic-ooh-activity-7458337356518023168-mv8o",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be speaking at an upcoming webinar with Osaka Metro ADERA Co., Ltd. and ExchangeWire JAPAN. We’ll be discussing the importance of a pure…",
+      "link": "https://www.linkedin.com/posts/activity-7449624100114952192-MK0V",
+      "activity_status": null
+    },
+    {
+      "title": "An interview I had with ADERA (Osaka metro) last month involving p-DOOH.",
+      "link": "https://www.linkedin.com/posts/activity-7432589113654038528-4ZP_",
+      "activity_status": null
+    },
+    {
+      "title": "We are always moving forward💪🚀",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_topics-ntt-docomo-develops-a-solution-to-activity-7422871521951502336-JPNF",
+      "activity_status": null
+    },
+    {
+      "title": "And the First Penguin Spirit keeps on... 🐧",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_and-the-first-penguin-spirit-keeps-on-activity-7392475196923990017-XRUI",
+      "activity_status": null
+    },
+    {
+      "title": "It was a blast!",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_it-was-a-blast-activity-7316741805096542208-UbW5",
+      "activity_status": null
+    },
+    {
+      "title": "The sky is never the limit!",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_the-sky-is-never-the-limit-activity-7255791472921194497-at14",
+      "activity_status": null
+    },
+    {
+      "title": "Our newest addition!",
+      "link": "https://www.linkedin.com/posts/ahmed-albadwi-61b559107_our-newest-addition-activity-7240276105520144384-bmNa",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "ahmed albadwi",
+      "link": "https://sa.linkedin.com/in/ahmed-albadwi-05a699202",
+      "summary": "ادخال البيانات في اا",
+      "location": "サウジアラビア"
+    },
+    {
+      "name": "Ahmed Albadwi",
+      "link": "https://ye.linkedin.com/in/ahmed-albadwi-6a69902b",
+      "summary": "--",
+      "location": "イエメン"
+    },
+    {
+      "name": "Ali Ahmed Albadwi",
+      "link": "https://ye.linkedin.com/in/ali-ahmed-albadwi-961b97119",
+      "summary": "Commercial Manager at HAILAN FOR TRADING-AGENCIES-GENERAL SERVICES",
+      "location": "イエメン"
+    },
+    {
+      "name": "Ahmed Albadwi",
+      "link": "https://sd.linkedin.com/in/ahmed-albadwi-b71227203",
+      "summary": "Pharmacist at Cure care pharmacy",
+      "location": "ハルツーム"
+    },
+    {
+      "name": "Ahmed derhim Albadwi",
+      "link": "https://ye.linkedin.com/in/ahmed-derhim-albadwi-794578226",
+      "summary": "Quality Assurance Quality Control Inspector في ycsr",
+      "location": "Al Hudaydah Governorate, Yemen"
+    },
+    {
+      "name": "Ahmed ALBADWI",
+      "link": "https://cy.linkedin.com/in/ahmed-albadwi-95195a290",
+      "summary": "--",
+      "location": "Nisou"
+    },
+    {
+      "name": "Ahmed Basateen Albadwi",
+      "link": "https://jo.linkedin.com/in/ahmed-basateen-albadwi-1a3b97110",
+      "summary": "CEO at Basateen borders",
+      "location": "Jordan"
+    },
+    {
+      "name": "AHMED ALBADWI",
+      "link": "https://sa.linkedin.com/in/ahmed-albadwi-5356592a9",
+      "summary": "Civil Engineer at Diponegoro University",
+      "location": "Riyadh Region"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-11-14T00:00:00Z"
+  }
+}

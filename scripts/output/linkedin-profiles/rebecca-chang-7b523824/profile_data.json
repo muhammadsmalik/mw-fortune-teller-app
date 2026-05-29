@@ -1,0 +1,681 @@
+{
+  "public_identifier": "rebecca-chang-7b523824",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/89740eccb67d1b3c9689ddb260c99b5c",
+  "background_cover_image_url": null,
+  "first_name": "Rebecca",
+  "last_name": "Chang",
+  "full_name": "Rebecca Chang",
+  "follower_count": 989,
+  "occupation": "Ambassador at World Out of Home Organization",
+  "headline": "Ambassador of World Out of Home Organization. Reinventing OOH for the value and innovative application. With over 25 years of experience in Advertising, Full Media, and OOH Specialist in Dentsu, Publicis and IPG groups",
+  "summary": null,
+  "location_str": "台灣 臺北市 台北",
+  "country": "TW",
+  "country_full_name": "Taiwan",
+  "city": "Taipei",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "World Out of Home Organization",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fepe-international",
+      "company_facebook_profile_url": null,
+      "title": "Ambassador",
+      "description": null,
+      "location": "台灣 臺北市",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c775eb14605fdaa1a38712b582ff038f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "Zenith",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/zenithinternational",
+      "company_facebook_profile_url": null,
+      "title": "Deputy General Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/01916a0cda5ad99ede55bc1ec9a6db32"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2005
+      },
+      "company": "United Adveritising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2004
+      },
+      "company": "Saatchi & Saatchi Taiwan",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 1999
+      },
+      "company": "Bozell Taiwan",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "company": "Bozell",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Business Administration",
+      "degree_name": "EMBA",
+      "school": "National Taiwan University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/national-taiwan-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6546c968ebd9129a59a65a8262da8a12",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "BS",
+      "school": "California State University, East Bay",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 986,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/millywu",
+      "name": "Milly Wu",
+      "summary": "Senior Human Resources Partner",
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yafanglin",
+      "name": "Tina Lin",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kenwucheng",
+      "name": "Ken Wu",
+      "summary": "Deputy GM",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hope-wang",
+      "name": "Hope Wang",
+      "summary": "HRO Service | Build High-Performance Software Teams for Global Startups",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-chih-hsuan-lu",
+      "name": "Jason Chih Hsuan Lu",
+      "summary": "Director at Darwin Venture Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandylife",
+      "name": "Mandy Chou",
+      "summary": "專案經理",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valen-linchiahui",
+      "name": "Valen Lin",
+      "summary": "Talent Acquisition Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chansonlin",
+      "name": "Chanson Lin",
+      "summary": "President at Embestor Technology Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bright-media-philippines-0126a6263",
+      "name": "Bright Media Philippines",
+      "summary": "Advertising/Digital Marketing",
+      "location": "Muntinlupa City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cathy-chen-099642167",
+      "name": "Cathy Chen",
+      "summary": "Marketing Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25EC%2584%25B1%25EC%25A7%2584-%25EC%2595%2588-9238bb255",
+      "name": "안성진",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jj-h-632049ba",
+      "name": "jj h",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/law0918",
+      "name": "Law Chen",
+      "summary": "Digital Lead",
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25AD%2590%25E7%2591%259C-%25E5%25BC%25B5-090114201",
+      "name": "張子瑜",
+      "summary": "國立東華大學學生",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25EB%2582%2598%25EB%259E%2598-%25EC%258B%25A0-60838660",
+      "name": "신나래",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriana-ara%25C3%25BAz-diaz-granados-b63a89230",
+      "name": "Adriana Araúz Diaz Granados",
+      "summary": "DIRECTORA EJECUTIVA ALOOH - GERENTE CEV ASOMEDIOS COLOMBIA",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%2581%2589%25E6%2588%2590-%25E7%2594%25B0-33a331b3",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%2581%25A0%25E8%25A6%258B%25E9%259B%259C%25E8%25AA%258C-%25E8%25B3%2587%25E6%25B7%25B1%25E5%2589%25AF%25E7%25B8%25BD%25E7%25B7%25A8%25E8%25BC%25AF-%25E9%2582%25B1%25E8%258E%2589%25E7%2587%2595-86886389",
+      "name": "邱莉燕遠見雜誌 資深副總編輯",
+      "summary": "Senior Reporter at Global Views Monthly",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernie-liu-80b414",
+      "name": "Bernie Liu",
+      "summary": "Freelancer",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caleb-watson-9867295",
+      "name": "Caleb Watson",
+      "summary": "Initiative•2K followers",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yy-yoon-40aa2a9",
+      "name": "YY Yoon",
+      "summary": "Senior Software Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierre-xu-9713a313",
+      "name": "Pierre Xu",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-lee-8a497313",
+      "name": "Vincent Lee",
+      "summary": "Vice President at Sanlih TV Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ken-yu-tseng-67511518",
+      "name": "Ken-yu Tseng",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/melinda-chen-01011718",
+      "name": "melinda chen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cho-min-50534720",
+      "name": "cho min",
+      "summary": "Senior Manager at HANWHA LIFE CO., LTD.",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-bennett-4373b022",
+      "name": "Jennifer Bennett",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mamta-luthria",
+      "name": "Mamta Luthria",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanna-hou-34b26029",
+      "name": "Joanna Hou",
+      "summary": "General Manager at MRM Beijing",
+      "location": "Beijing"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard%25E5%2598%2589%25E9%25BA%259F-hsu%25E8%25A8%25B1-8957202b",
+      "name": "Richard嘉麟 Hsu許",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e5%258b%2595%25e8%2585%25a6%25e9%259b%259c%25e8%25aa%258c%25e7%25b8%25bd%25e7%25b7%25a8%25e8%25bc%25af-%25e7%258e%258b%25e5%25bd%25a9%25e9%259b%25b2-43126838",
+      "name": "王彩雲動腦雜誌總編輯",
+      "summary": "Editor in Chief at Brain Communications",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/henryyeh",
+      "name": "Henry Yeh",
+      "summary": "General Manager at Offerme2 Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-liu-20351739",
+      "name": "Frank Liu",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-li-3642853a",
+      "name": "Eric Li",
+      "summary": null,
+      "location": "Guangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kinbo-yao-91956a52",
+      "name": "Kinbo Yao",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/freya-yan-7012b855",
+      "name": "Freya Yan",
+      "summary": "CLICKFORCE 域動行銷 GM",
+      "location": "Taipei–Keelung metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/calvin-chang-25a31155",
+      "name": "Calvin Chang",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-chen-aa9b0157",
+      "name": "Jason Chen",
+      "summary": "OMD Taiwan | Integrating Generative AI into Media Solutions | Driving Next-Gen Digital Transformation | AI-Powered Media Strategies.",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/candy-h-9a98aa62",
+      "name": "Candy H.",
+      "summary": "Communication | Digital | E-commerce | Media | Leader | Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25A4%258F%25E5%25A4%25A9%25E5%25BB%25A3%25E5%2591%258A-%25E7%25AC%25A6%25E7%25A7%2589%25E5%25A8%2581-4639a767",
+      "name": "符秉威夏天廣告",
+      "summary": "GM",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/candice-tseng-53573370",
+      "name": "Candice Tseng",
+      "summary": "Mandarin and English moderator, researcher & data anaylst, and translator",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-wu-92485076",
+      "name": "Neil Wu",
+      "summary": "General Manager of South China at Isobar",
+      "location": "Guangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eppie-tsang-9219877b",
+      "name": "Eppie Tsang",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicky-huang-38009580",
+      "name": "Nicky Huang",
+      "summary": null,
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benson-tsai-ba286587",
+      "name": "Benson Tsai",
+      "summary": "Founder at LIOVE",
+      "location": "Hsinchu metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fion-xie-83019288",
+      "name": "Fion Xie",
+      "summary": "General Manager, Guangzhou office at MediaCom",
+      "location": "Guangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cynthia-chen-b53b5394",
+      "name": "Cynthia Chen",
+      "summary": "AD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25BD%25A5%25E7%25A9%258E-%25E6%259D%259C-89337195",
+      "name": "杜彥穎",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e2%2599%259b-patty-chang-%25e2%259c%2585-26b097b0",
+      "name": "♛ Patty Chang ✅",
+      "summary": "APAC Recruitment Consultant/ Headhunter/ Executive Search at Manpower Experis (15.7K+ Executive Connections)",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e9%2597%259c%25e4%25bf%2590%25e9%25ba%2597-kuan-751331b5",
+      "name": "關俐麗 Kuan",
+      "summary": "Director of Yahoo Taiwan Auction & Store Marketplace at Verizon Media",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dianne-chung-47b82bb9",
+      "name": "Dianne Chung",
+      "summary": "紅杉娛樂 副總經理",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e6%259b%25be%25e6%2598%25a0%25e7%2591%259e-ray-027827101",
+      "name": "曾映瑞 Ray",
+      "summary": "知識斜槓引路人",
+      "location": "Taipei–Keelung metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/winnie-chang-%25E5%25BC%25B5%25E7%25BE%258E%25E8%258F%25AF-151102112",
+      "name": "Winnie Chang(張美華)",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chang-%25E5%25BC%25B5%25E5%25BF%2597%25E9%259D%2592-cc-6980a1115",
+      "name": "Chang(張志青) CC",
+      "summary": "Varian Medical Systems Manager, Regional Installation & Commissioning- APAC, Proton Solution",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/minna-wei-a787b6116",
+      "name": "Minna Wei",
+      "summary": "Sales（udn.com Co.Ltd.）",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/melinda-chen-aa4a5911a",
+      "name": "melinda chen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2589%25BF%25E6%259D%25B0-%25E5%2588%2598-153857126",
+      "name": "刘承杰",
+      "summary": "總經理",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jiyeon-jung-111b05136",
+      "name": "Jiyeon Jung",
+      "summary": "Editor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2596%2587%25E5%2585%25A8-%25E5%25BB%2596-29b45b147",
+      "name": "廖文全",
+      "summary": "工程師（Industrial Technology Research Institute (ITRI)(工業技術研究院, 工研院)）",
+      "location": "Hsinchu City"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "𝗔𝘀𝗶𝗮 𝗢𝗢𝗛 𝗟𝗲𝗮𝗱𝗲𝗿𝘀 𝗖𝗼𝗻𝘃𝗲𝗻𝗲 𝗶𝗻 𝗦𝗵𝗲𝗻𝘇𝗵𝗲𝗻 Last week, I truly felt the momentum of Asia’s OOH industry. 𝗠𝗼𝗿𝗲 𝘁𝗵𝗮𝗻…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_ooh-dooh-audiencemeasurement-activity-7437070274522656768-XbNN",
+      "activity_status": null
+    },
+    {
+      "title": "Over the past year, it has been a privilege to witness firsthand the rapid growth of Taiwan’s DOOH market. In just a few months, we have welcomed…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_woo-dooh-oohinnovation-activity-7423991520565026816-Cm4Z",
+      "activity_status": null
+    },
+    {
+      "title": "#WOOSeoul25 #KOOHA #Megadooh #Prooh #podomdia #asiainitiative #WOO首爾亞太論壇 Back in Taiwan for two days, even now, my heart feels warm and deeply moved.…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_wooseoul25-kooha-megadooh-activity-7393626250780733440-2Vud",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization President Tom Goddard together with KOOHA Chairman Mr. Woo and Vice Chairman Daewon Kim visited Taiwan for a three-day…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_woo-kooha-dentsu-activity-7372854366359228416-m8V3",
+      "activity_status": null
+    },
+    {
+      "title": "#woo #數位戶外媒體已佔4成 #WooGlobalExpenditureSurvey #automation #prdooh #亞太全球佔比49% 2025 WOO 全球戶外廣告支出調查正式發布了! 世界戶外廣告組織（WOO）最新調查全面覆蓋 2024 年全球戶外廣告支出，並預估 2025…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_woo-數位戶外媒體已佔4成-wooglobalexpendituresurvey-activity-7345369283369046016-3W3_",
+      "activity_status": null
+    },
+    {
+      "title": "#APACForum2025 #WorldOutOfHome #Seoul2025 #DOOH #RedefineOOH #RMN 今年下半年，OOH產業的矚目盛事之一—— APAC Forum_Seoul，即將於11月隆重登場！ 我們熟悉韓國的…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_apacforum2025-worldoutofhome-seoul2025-activity-7347911252007952384-QSuy",
+      "activity_status": null
+    },
+    {
+      "title": "From June 4 to 6, the World Out of Home Organization Global Congress successfully concluded in Mexico City, attracting over 600 delegates from 58…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_soumayamuseum-activity-7339120818796285952-Pcqf",
+      "activity_status": null
+    },
+    {
+      "title": "✨ 受邀擔任 #刊棒文化 IMS 系統發表會引言人，與台灣 DOOH 產業的夥伴們共聚一堂，深感榮幸✨ 這次活動中，我分享了全球 OOH 市場的 五大趨勢，與大家共勉： ✅ 團結合作 壯大市場 📊 可衡量性 提升投資價值 🌍 可持續性 環保與商業共存 🎨 創新創意 擴大影響力 ⚡ 銷售效率…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_刊棒文化舉辦ims-系統發表會家外媒體迎接程序化轉型-activity-7305240249314512896-ylW9",
+      "activity_status": null
+    },
+    {
+      "title": "Bigger and stronger WOO OOH network!",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_13-new-members-sign-up-activity-7287447876757045248-3EsK",
+      "activity_status": null
+    },
+    {
+      "title": "#woo #ooh #tokyo #dsc 如果你是戶外媒體的big fan, 常追蹤日本戶外媒體創意與創新科技，那麼2025/2/20日舉辦的OOH Tokyo Conference…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_ooh-tokyo-conferrence-2025-with-association-activity-7287432819608371200-_xp4",
+      "activity_status": null
+    },
+    {
+      "title": "#woo #eink #esg #membership #ooh #dooh #automation #pDOOH #說國台語馬也通 #ooh冷知識 #前線媒體 #EINK…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_frontpage-activity-7168817671646441473-uPdC",
+      "activity_status": null
+    },
+    {
+      "title": "#woo #WOOHKCongress #ooh #dooh I'm looking forward to attending the 2024 Hong Kong Global Congress, the largest OOH event of the year. The congress…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_woo-woohkcongress-ooh-activity-7203013359426764802-U-Sh",
+      "activity_status": null
+    },
+    {
+      "title": "#dooh #rmn #woo #hkglobalcongress #ooh #advertising #Marketing #OOHadvertising #HongKong #世界戶外廣告組織 #全程中文翻譯不怕鴨聽雷 #esg #audiencemeasurement…",
+      "link": "https://www.linkedin.com/posts/rebecca-chang-7b523824_dooh-rmn-woo-activity-7196357295121788928-1aqW",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Rebecca Chang",
+      "link": "https://tw.linkedin.com/in/rebecca-chang-aa49398b",
+      "summary": "Senior Medical Science Partner",
+      "location": "臺中市"
+    },
+    {
+      "name": "Rebecca Chang",
+      "link": "https://www.linkedin.com/in/rebecca-chang-0788b753",
+      "summary": "CPA at Chang, Chang, Chen & Co.",
+      "location": "Rowland Heights, CA"
+    },
+    {
+      "name": "Rebecca Chang",
+      "link": "https://hk.linkedin.com/in/rebecca-chang-04a344aa",
+      "summary": "Vice President - Human Resources at LF Asia (Hong Kong) Limited",
+      "location": "香港特別行政區"
+    },
+    {
+      "name": "Rebecca C.",
+      "link": "https://ca.linkedin.com/in/rebecca-c-0468163b",
+      "summary": "Assistant Manager at HUGO BOSS",
+      "location": "溫哥華, BC"
+    },
+    {
+      "name": "Rebecca Chang",
+      "link": "https://cn.linkedin.com/in/rebecca-chang-38a43264",
+      "summary": "BUSINESS DEVELOPMENT at SUZHOU SANTIAN PRECISE MOULD CO.,LTD.",
+      "location": "中國"
+    },
+    {
+      "name": "Rebecca Chang",
+      "link": "https://www.linkedin.com/in/rebecca-chang-878a87a4",
+      "summary": "Corporate Attorney at Kastner Gravelle",
+      "location": "Austin, TX"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-10-10T00:00:00Z"
+  }
+}

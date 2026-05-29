@@ -1,0 +1,961 @@
+{
+  "public_identifier": "joe-cassidy-24397327",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/72803e0d38dad04f541a9496d98bc84d",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQFJvnsrIuhWlQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694620369837?e=2147483647&v=beta&t=bhC1031g6jwVJdtmeB5Rzc-7a4IYxorXsb3uA9w6uuY",
+  "first_name": "Joe",
+  "last_name": "Cassidy",
+  "full_name": "Joe Cassidy",
+  "follower_count": 1319,
+  "occupation": "Business Sales Director at Outernet London",
+  "headline": "Business Sales Director - Outernet Global",
+  "summary": "Sales Manager with 10 years experience in the world of Out of Home advertising.",
+  "location_str": "Greater London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Outernet London",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outernetgloballtd",
+      "company_facebook_profile_url": null,
+      "title": "Business Sales Director",
+      "description": null,
+      "location": "Soho, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05b75323ddff755ef9776b7c49bffa7f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Outernet London",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outernetgloballtd",
+      "company_facebook_profile_url": null,
+      "title": "Business Sales Manager",
+      "description": "Outernet London is launching in the heart of Soho in November 2021. It's the first in a global network of super-high vision immersive media and live events Districts, set up to deliver multi-sensory, evocative and memorable experiences for Brands.\nThe future of connected Retail, Media and Entertainment will be home to the world's largest wrap-around screens as well as 250,000 square feet of premium retail and leisure space, including restaurants, studios and live music venues, making it a new cultural and entertainment hub at the centre of London.",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05b75323ddff755ef9776b7c49bffa7f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2021
+      },
+      "company": "Project11 Sports",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/project11-sports",
+      "company_facebook_profile_url": null,
+      "title": "Head of Agency Relations",
+      "description": "At Project11, we offer unrivalled access to advertising opportunities at the world’s top sporting events. We are best known for our rights in English and Spanish football through our platform of LED perimeter boards and exciting sponsorship opportunities, featuring the biggest and richest clubs in the world.\n\nFollowing seven successful years in Airport advertising I joined Project11 to head up a newly created agency division.  The sole reason being to enable us to work with the world's largest brands through developing strong and reliable relationships with agencies across the globe.  My responsibilities include creating the strategy for becoming known amongst the agencies, identifying opportunities for their clients and creating the necessary commercial agreements with the investment teams. \n\nAn incredibly challenging and rewarding role, I have managed to grow our reputation of being the number one perimeter board supplier, while securing preferred supplier status amongst a host of agencies and specialists within my first 6 months.",
+      "location": "London, England Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/175c734e4a8eedb788dc7157bc74850a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2020
+      },
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Group Business Director on Airports and International",
+      "description": "With Global's acquisition of Primesight I was promoted to Group Business Director across all Airport and International business.\n\nManaging a team of six my role is to oversee all business into Global's Airports, along with all business across Global's entire outdoor inventory that stems from International budgets. \n\nAlong with managing senior level relationships within agency & specialist, I am also responsible for forecasting, revenue generation within my team and educating other Global sales teams on the value of airport advertising. I am also responsible for creating and sustaining the trading model throughout our airport sell",
+      "location": "London, England Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Primesight",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Director of Airports",
+      "description": "Business Director of Primesight's Airport proposition across all specialists",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Primesight",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "Airport Media OOH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/airport-media-ooh",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": "Brought on as Account Director for Airport Media to work across Kinetic and Talon business.  Moved with AM to Primesight in November 2016 as part of the acquisition",
+      "location": "36 Soho Square W1D 1QY",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/28d4ffd372aec2df5ecd96b28a0cb839"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2016
+      },
+      "company": "The Work Perk",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-work-perk",
+      "company_facebook_profile_url": null,
+      "title": "Global Account Manager",
+      "description": "Having joined The Work Perk my role is to maintain and grow existing client relationships, while also unearthing new opportunities across the market.\n\nThe Work Perk provides permission-based direct marketing to consumers at work, enabling brands to place their products on the desks of the Global workforce at times during the day when we can all use a perk! The company boasts a Worldwide network now reaching 60 million office workers and creates bespoke campaigns for a number of market leading brands.\n\nThe office environment represents a unique setting with minimal alternative advertising thus allowing our brand’s message and products to get unrivaled cut through. Recipient companies such as Google, The NHS, BBC, HSBC, MTV, Condé Nast and ASOS are incredibly grateful to receive the promotions and our brand’s products become a real talking point in the office.  The participants are then encouraged to discuss the product via social media and also complete a short survey that will be sent straight back to the client.  We have put together truly engaging campaigns for brand partners such as Pepsico, Unilever, Mondelez and Beiersdorf along with a huge variety of other companies that have all utilized our network to bring awareness to their product.\n\nI am responsible for building and maintaining relationships with key brands and media agencies across the UK, Europe and North America.",
+      "location": "100 Lower Thames Street, Centennium House, EC3R 6DL",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bb11adcaed52767c243bfc3246f3c7fa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2015
+      },
+      "company": "Eye Airports",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eye-airports",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/548b0cd1c069fdcee0718f9a085fdc4c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      },
+      "company": "Eye Airports",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eye-airports",
+      "company_facebook_profile_url": null,
+      "title": "Business Manager",
+      "description": "Protecting and growing revenue streams for Eye Corp's OOH portfolio through mobile, category specific, innovation (creating bespoke briefs to help increase awareness and sales within media agencies) and digital media.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/548b0cd1c069fdcee0718f9a085fdc4c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "GCI Com",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2008
+      },
+      "company": "Trinity Mirror Group PLC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Executive",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "University of Central Lancashire",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unilancashire",
+      "school_facebook_profile_url": null,
+      "description": "I studied Journalism at University achieving a 2:1.  Despite me continuing to enjoy writing in my spare time I soon realised that the world of journalism wasn't for me and couldn't be happier with my decision in pursuing a career in advertising. And I can honestly say that's not just because of the continuous benefits of the job (although the 'work jollies' do help) but purely because sales is something my personality and work ethic is perfectly tailored towards.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cccbba052d63cab687c29728749d700f",
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Key member of Pluto, the student magazine, member of the Uclan football team."
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "All Saints R C Secondary School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2006
+      },
+      "title": "Climbing Instructor",
+      "cause": "Children",
+      "company": "Capital Camps & Retreat Center",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/capital-camps-&-retreat-center",
+      "description": "Fun and very fulfilling.  Easily one of the best summers of my life...",
+      "logo_url": "https://assets.enrichlayer.com/ll/C510BAQF3lRwfVxIAGw/company-logo_100_100/company-logo_100_100/0/1631385574299?e=2147483647&v=beta&t=U56lHfs3sK9Mm19kqomP82Qdd2WicY7W89Wf2SzdtB4"
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/richardtprice",
+      "name": "Richard Price",
+      "summary": "Director of Business Development | New Business Development, Key Account Management @ Cox Automotive Europe",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/poferrall",
+      "name": "Philip O’Ferrall",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alangreenhalgh",
+      "name": "Alan Greenhalgh",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisalangford",
+      "name": "Lisa Langford",
+      "summary": "Head of Agency Relations at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikkishack",
+      "name": "Nikki Shack",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-lewis",
+      "name": "Jack Lewis",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-stott",
+      "name": "Stuart Stott",
+      "summary": "Chief Executive Officer at Galactic Markets",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-sullivan-b539253b",
+      "name": "Amy Sullivan",
+      "summary": "UGC Creator and International House sitter",
+      "location": "Copthorne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-anderson102",
+      "name": "Mark Anderson",
+      "summary": null,
+      "location": "Southwark"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dainius",
+      "name": "Dainius Slavinskas",
+      "summary": "Interactive Solutions Manager",
+      "location": "Dagenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shoko-kuge",
+      "name": "Shoko Kuge Morton",
+      "summary": "International Business Development | Cross-Border Expansion | Global Partnerships | Japan Market Entry",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardhard",
+      "name": "Richard Hard",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benmaher",
+      "name": "Ben Maher",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-butler-operations",
+      "name": "Emma Butler",
+      "summary": "Experienced Office Manager | Streamlining Operations | Champion of Workplace Efficiency",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rowena-maddock-60085754",
+      "name": "Rowena Maddock",
+      "summary": "Commercial Director (Experiential, Events & Venue) at Outernet London",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abigail-cunningham-amc",
+      "name": "Abigail Cunningham",
+      "summary": null,
+      "location": "Esher"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danpatton",
+      "name": "Dan Patton",
+      "summary": "Director of Digital Publishing & Operations - Outernet Global | Ex-MTV, Viacom, and AOL",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-o%25E2%2580%2599neill-a02565232",
+      "name": "Rachel O’Neill",
+      "summary": "Invested in my Future",
+      "location": "Neilston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-powell-",
+      "name": "George Powell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charly-abraham-742ab828",
+      "name": "Charly Abraham",
+      "summary": "Senior Client Partner @ Pinterest | Ex-Snap",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-witkowska-pandey-26893159",
+      "name": "Anna Witkowska-Pandey",
+      "summary": "Executive Assistant | Office Manager | Project Coordinator",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabeth-polit-14b33423a",
+      "name": "Elizabeth Polit",
+      "summary": "Executive Assistant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvia-masioli-bolshaw",
+      "name": "Silvia Masioli",
+      "summary": "Experiential Marketing, Brand Partnerships, Media, Business Growth.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-tremlett-032284230",
+      "name": "Tony Tremlett",
+      "summary": "Director and Co-Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucymoney",
+      "name": "Lucy Money",
+      "summary": "-",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-bower-9538943",
+      "name": "Mark Bower",
+      "summary": "Head Of Agency Sales at Ambassador Theatre Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-kaye-28176a5",
+      "name": "Richard Kaye",
+      "summary": "Discussing opportunities within Rail and the Transportation sector.",
+      "location": "Exeter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jad-zouein-56036b7",
+      "name": "Jad Zouein",
+      "summary": "Director of Creative & Media Technologies at Outernet",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-mcewan-8b8084a",
+      "name": "James McEwan",
+      "summary": "Founding CEO for Billups EMEA, reinventing OOH for the performance age. Former senior global posts across: Dentsu, IPG and Publicis, plus launch COO behind Outernet's trailblazing media / entertainment platform",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-york-210403b",
+      "name": "Paul York",
+      "summary": null,
+      "location": "Stamford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keamus-setna-8594b915",
+      "name": "Keamus Setna",
+      "summary": "Account Manager at Media Agency Group",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-na-1438ab16",
+      "name": "Charlie Na",
+      "summary": "Integrated Marketing Specialist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leo-green-b3456319",
+      "name": "Leo Green",
+      "summary": "THE SHOWTIME GROUP LIMITED•2K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-jane-brown-9a8b721a",
+      "name": "Emily-Jane Brown",
+      "summary": "Managing Partner at McCann Manchester",
+      "location": "Macclesfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-russell64",
+      "name": "Alexandra Russell",
+      "summary": "Meaningful Connector | Creating Results | Storyteller & Client Champion",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/purvika-patel-66870720",
+      "name": "Purvika Patel",
+      "summary": "Sales Director - Recruitment & Delegate Sales",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-gill-8a830921",
+      "name": "Adam Gill",
+      "summary": "Head of Business Growth at JCDecaux",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-doel-83b35221",
+      "name": "Rob Doel",
+      "summary": "Experienced OOH and Commercial Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-oswald-07362625",
+      "name": "Caroline Oswald",
+      "summary": "Firefly Foundry COE Strategic Partnerships, Senior Sales Specialist @Adobe",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-reidy-58478625",
+      "name": "Vanessa Reidy",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-stala-9a464a26",
+      "name": "Emily Stala",
+      "summary": "UK Head of Sales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-perrett-8985ab2a",
+      "name": "Tom Perrett",
+      "summary": null,
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/grant-branfoot-b873332b",
+      "name": "Grant Branfoot",
+      "summary": "Experienced Outdoor Media Professional of 26 years with 15 years at fast growing businesses with VC investment. Most recently involved in the purchase, CMA and integration of 3 Outdoor companies into Global.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philip-rogers-pc-dp-3103892b",
+      "name": "Philip Rogers PC.dp",
+      "summary": "IT Project Coordinator at epay, a Euronet Worldwide Company",
+      "location": "Basildon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-bresgall-2bba032b",
+      "name": "Steven Bresgall",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-futcher-outdoor-audio-advertising",
+      "name": "Andy Futcher",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gino-cettina-36959b37",
+      "name": "Gino Cettina",
+      "summary": "Sales Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-mcgregor-0a494038",
+      "name": "Laura McGregor",
+      "summary": null,
+      "location": "Crawley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-bedwell-64690239",
+      "name": "Steven Bedwell",
+      "summary": "Head of Sales - Media Agencies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-chandler-2b05833b",
+      "name": "Amy Chandler",
+      "summary": "Business Operations Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-fillery-b539253b",
+      "name": "Amy Fillery",
+      "summary": "Agency Business Director at Global",
+      "location": "Copthorne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-jones-12b9b843",
+      "name": "Andy Jones",
+      "summary": "VP Broadcast & CTV, EMEA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-milward-a205784b",
+      "name": "Claire Milward",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dawn-langan-75b66153",
+      "name": "Dawn Langan",
+      "summary": "Producer at BBC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-wilson-28384954",
+      "name": "Ben Wilson",
+      "summary": "Technical Artist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-garrity-aa62a655",
+      "name": "Adam Garrity",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-marie-stock-52701956",
+      "name": "Lisa-Marie Stock",
+      "summary": "Head of Account Management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnny-asap-b1393b60",
+      "name": "Johnny Asap",
+      "summary": "CEO",
+      "location": "Lancaster"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shanil-chande-10929463",
+      "name": "Shanil Chande",
+      "summary": "Chief Programmatic Officer at Talon",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rian-nur-684a8968",
+      "name": "Rian Nur",
+      "summary": "Programmatic DOOH Account Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/toby-fairlamb-98886869",
+      "name": "Toby Fairlamb",
+      "summary": "OOH Professional - Sales Director at UK leading Retail & Leisure media owner",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-rider-274a1974",
+      "name": "Lee Rider",
+      "summary": "Venue Sales Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-rodwell-a87b1878",
+      "name": "Paul Rodwell",
+      "summary": "Senior Business Analyst at Stolt Tank Containers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgiana-may-aa653b83",
+      "name": "Georgiana May",
+      "summary": "Senior Executive Assistant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daran-akintola",
+      "name": "Daran Akintola",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-stroud-0102bb84",
+      "name": "Adam Stroud",
+      "summary": "Group Head at Bauer Media Group – UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zameer-sunderji-915b8092",
+      "name": "Zameer Sunderji",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ainslie-walker-335492a0",
+      "name": "Ainslie Walker",
+      "summary": "Senior Project Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanj-surati-485209ab",
+      "name": "Sanj Surati",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-king-a55351b0",
+      "name": "Matthew King",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elliot-skates-377766b0",
+      "name": "Elliot Skates",
+      "summary": "Senior Account Manager at i-Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/freddie-frantos-a2493ab4",
+      "name": "Freddie Frantos",
+      "summary": "Senior Videographer & Editor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashleigh-tucker-121172116",
+      "name": "Ashleigh Tucker",
+      "summary": "Account Director at Starcom Australia",
+      "location": "Kensington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-noss-805439132",
+      "name": "Sam Noss",
+      "summary": "Available for Opportunities | Background in Partnerships, Account Management & Sales. \nFinished 6 months of travel & work in India with Soul & Surf. \nNow in London doing part time at Freddie’s Flowers & Sojo.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/demi-michael-a11338137",
+      "name": "Demi Michael",
+      "summary": "Associate Director",
+      "location": "Enfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-nash-56226b138",
+      "name": "Peter Nash",
+      "summary": "President at Nash Consulting Group, Inc.",
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommy-kelly-499469138",
+      "name": "Tommy Kelly",
+      "summary": "Air conditioning installation engingeer  at Tommy Kelly",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-n-82998b142",
+      "name": "Rebecca N.",
+      "summary": "HR LEAD",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chibueze-stanley-oyo-080323152",
+      "name": "Chibueze - Stanley Oyo",
+      "summary": "Customer Engagement Manager at Tableau Magic",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanna-pope-3a8254185",
+      "name": "Joanna Pope",
+      "summary": "Senior Sales Business Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-marsh-0136811a0",
+      "name": "Maria Marsh",
+      "summary": null,
+      "location": "London"
+    }
+  ],
+  "recommendations": [
+    "Phil Kennedy\n\nI worked with Joe when he workd at Eye Airports / Primesight and I  at Rapport. His deep understanding of the OOH Market always ensured that the solutions he provided us with were always on point and tightly matched our clients needs. Joe is very personable and quickly became popular amongst the wider team.",
+    "Jim Cohen\n\nJoe is a passionate and enthusiastic member of the sales team who excels at building relationships at all levels. \r\n\r\nJoe is excellent at presenting and offers a natural and relaxed style presenting to small and large groups. \r\n\r\nJoe has a tenacious attitude towards sales, massively target driven, Joe has demonstrated a focused and strategic manner of working that has resulted in much deserved personal success for him at Eye Airports."
+  ],
+  "activities": [
+    {
+      "title": "Earlier this month, I had the pleasure of taking billups execs Terence Clements and Dominika Majcher for a visit to the Tate Modern's thrilling…",
+      "link": "https://www.linkedin.com/posts/ruby-carmel-kelly-a68386199_earlier-this-month-i-had-the-pleasure-of-activity-7297614444128272384-tKXP",
+      "activity_status": null
+    },
+    {
+      "title": "I am very excited to announce that I have been promoted to a Senior Sales Business Manager at Outernet London. I also want to thank Tom Perrett for…",
+      "link": "https://www.linkedin.com/posts/joanna-pope-3a8254185_i-am-very-excited-to-announce-that-i-have-activity-7285953542937280512-qdCP",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks my last day at the mother-ship of essencemediacom. I’ve been through the motion’s of not saying anything and like any good trader I’ll…",
+      "link": "https://www.linkedin.com/posts/neil-tookey-37932830_today-marks-my-last-day-at-the-mother-ship-activity-7275817172331888640-DxZE",
+      "activity_status": null
+    },
+    {
+      "title": "After an incredible journey over these past few years, my time at Outernet has come to an end. Being around such an incredible team, has been an…",
+      "link": "https://www.linkedin.com/posts/libby-grunwald-9a6784151_after-an-incredible-journey-over-these-past-activity-7283867796134932481-0XVw",
+      "activity_status": null
+    },
+    {
+      "title": "World of Tetris launches today at Outernet London. Produced in house by Outernet Studio, a real team effort. And what a team! I grew up playing…",
+      "link": "https://www.linkedin.com/posts/kerryakif_world-of-tetris-launches-today-at-outernet-activity-7256660487910670336-x1_0",
+      "activity_status": null
+    },
+    {
+      "title": "It was a pleasure to announce this incredibly exciting exclusive partnership with Outernet London at the Hivestack by Perion UK event hosted in this…",
+      "link": "https://www.linkedin.com/posts/lee-cutter-9a71928_it-was-a-pleasure-to-announce-this-incredibly-activity-7256967743235571712-n3RC",
+      "activity_status": null
+    },
+    {
+      "title": "📣 I’ve officially made Sydney my home! While I’m still working remotely for Outernet London until January, I’m actively seeking new opportunities…",
+      "link": "https://www.linkedin.com/posts/claire-milward-a205784b_ive-officially-made-sydney-my-home-activity-7243829749666516992-J_bD",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Huge shoutout to our amazing new customers who’ve fallen in love with our sauces at Taste London—whether you snagged one, two, or all three, we’re…",
+      "link": "https://www.linkedin.com/posts/hotboss-brands-limited_dinnerideas-glutenfree-hotbossapproved-activity-7228701792388206593-y3Jr",
+      "activity_status": null
+    },
+    {
+      "title": "12 weeks out of the media bubble, time to reflect, train hard and be brave. 2024 was a challenging year in more ways than one, but with change comes…",
+      "link": "https://www.linkedin.com/posts/neil-tookey-37932830_hard75-work-redundancy-activity-7308831294782603264-0l04",
+      "activity_status": null
+    },
+    {
+      "title": "Last weekend we opened a coffee shop ☕️ Wow I had no idea what I was getting myself into 😅 Respect to all the coffee shop business owners out…",
+      "link": "https://www.linkedin.com/posts/danny-maguire-3a8a40144_last-weekend-we-opened-a-coffee-shop-activity-7308780138026926082-GDve",
+      "activity_status": null
+    },
+    {
+      "title": "What an absolute blast this was! Omharia Pierre, Chelsea, Kiyan Lee, and I had an amazing time letting loose at Whistle Punks axe throwing. It was…",
+      "link": "https://www.linkedin.com/posts/ruby-carmel-kelly-a68386199_what-an-absolute-blast-this-wasomharia-activity-7305571975093977088-NMRD",
+      "activity_status": null
+    },
+    {
+      "title": "We’re getting ready for the Fury vs Nganna press conference live at Outernet tonight! Some fantastic visuals showing you that it doesn’t need to be…",
+      "link": "https://www.linkedin.com/posts/joe-cassidy-24397327_were-getting-ready-for-the-fury-vs-nganna-activity-7105576232074797056-a-aO",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "joe cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-2a7948a1",
+      "summary": "--",
+      "location": "South San Francisco, CA"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-9830a2aa",
+      "summary": "Director of Quality Assurance at Arrowhead Industrial Services USA, Inc",
+      "location": "Graham, NC"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-566917bb",
+      "summary": "Heavy Equipment Operator at US Army",
+      "location": "Eau Claire-Menomonie Area"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-b778b817",
+      "summary": "President, Talco Construction",
+      "location": "Winter Garden, FL"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/joe-cassidy-b222a080",
+      "summary": "Artist/Mural Painter at Self Employed",
+      "location": "Castle Cary"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/joecassidy1",
+      "summary": null,
+      "location": "Greater London"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/joe-cassidy-6589814a",
+      "summary": "Supply Chain Manager | Project Management | Procurement at Caterpillar Inc.",
+      "location": "Belfast Metropolitan Area"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/cassidyjoe",
+      "summary": "Global Digital Lead: Stop Drilling Start Paying campaign at Greenpeace",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/joecassidy1984",
+      "summary": "Consulting Technical Manager @ Oracle",
+      "location": "Holmes Chapel"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://uk.linkedin.com/in/joe-cassidy-549384214",
+      "summary": null,
+      "location": "Coatbridge"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-a6968a76",
+      "summary": null,
+      "location": "Lake Orion, MI"
+    },
+    {
+      "name": "Joe Cassidy",
+      "link": "https://www.linkedin.com/in/joe-cassidy-bbbb1b7",
+      "summary": null,
+      "location": "Williston, VT"
+    }
+  ],
+  "articles": [
+    {
+      "title": "AN INTRO TO LABELS & LONG-HAUL",
+      "link": "https://www.linkedin.com/pulse/intro-labels-long-haul-joe-cassidy",
+      "published_date": {
+        "day": 25,
+        "month": 4,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4D12AQEw6VgLsXiHUQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1556207211337?e=2147483647&v=beta&t=mf6UDoakg3MZ45AhKeYYctyNKa7F1WX7xOD_DwzwqO0"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:54:09Z"
+  }
+}

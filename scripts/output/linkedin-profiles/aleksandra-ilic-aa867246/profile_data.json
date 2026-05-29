@@ -1,0 +1,426 @@
+{
+  "public_identifier": "aleksandra-ilic-aa867246",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5efa162d9211db30dc13f1996d3f6856",
+  "background_cover_image_url": null,
+  "first_name": "Aleksandra",
+  "last_name": "Ilic",
+  "full_name": "Aleksandra Ilic",
+  "follower_count": 185,
+  "occupation": "Sales Manager at DPC Networks Member of DPC Group",
+  "headline": "--",
+  "summary": null,
+  "location_str": "Serbia",
+  "country": "RS",
+  "country_full_name": "Serbia",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2001
+      },
+      "ends_at": null,
+      "company": "DPC Networks Member of DPC Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "Belgrade, Serbia",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "title": "Rebranding of #Kombank branches",
+      "description": "Rebranding more than 250 branches Design standards for branding",
+      "url": "http://www.kombank.com/outlets-and-atms"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 185,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/oliverablagojeviccongrexpo",
+      "name": "Olivera Blagojevic Popovic",
+      "summary": "Owner, CONGREXPO d.o.o. | #ProfessionalCongressOrganizer | #EventManager | #BiddingProfessional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikolija-grbovic-3651b01a2",
+      "name": "Nikolija Grbovic",
+      "summary": "--",
+      "location": "Belgrade"
+    },
+    {
+      "link": "https://www.linkedin.com/in/milutin-duki%25C4%2587-836724206",
+      "name": "Milutin Dukić",
+      "summary": "Production Director at Digital Printing Center",
+      "location": "Belgrade"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatjana-%25C5%25BEi%25C5%25BEi%25C4%2587-4933a3132",
+      "name": "Tatjana Žižić",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoran-%25C5%25BEivkovi%25C4%2587-43449223",
+      "name": "Zoran Živković",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/milo%25C5%25A1-jerini%25C4%2587-b8435621",
+      "name": "Miloš Jerinić",
+      "summary": "Sales Representative at Difol d.o.o. Beograd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/du%25C5%25A1ica-pajovi%25C4%2587-0252435b",
+      "name": "Dušica Pajović",
+      "summary": "Account manager at Digital Printing Center",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sr%25C4%2591an-%25C4%2591or%25C4%2591evi%25C4%2587-25075046",
+      "name": "Srđan Đorđević",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoran-rajkovi%25C4%2587-05375559",
+      "name": "Zoran Rajković",
+      "summary": "Head of Production, Supervisor of Finance & Logistic at Grafix",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luka-dimitrijevi%25C4%2587-29311791",
+      "name": "Luka Dimitrijević",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/petar-gavrilovi%25C4%2587-9a87245a",
+      "name": "Petar Gavrilović",
+      "summary": "M.Sc. in Economics (TIKNO MATEK d.o.o.)",
+      "location": "Novi Sad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandar-kosti%25C4%2587-b44866112",
+      "name": "Aleksandar Kostić",
+      "summary": "SERBIA based International Hairstylist/Creative Director. 2011 Founded salon Citylooks Belgrade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/milena-to%25C5%25A1i%25C4%2587-0ab73821",
+      "name": "Milena Tošić",
+      "summary": "Arts and Crafts Professional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanja-burgic-bb660725",
+      "name": "Sanja Burgic",
+      "summary": "Executive director at Digital Printing Center",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanja-miovcic-66739326",
+      "name": "Tanja Miovcic",
+      "summary": "PR & Marketing specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bojana-kuzmanovic-a0964926",
+      "name": "Bojana Kuzmanovic",
+      "summary": "Director of Sales & Marketing",
+      "location": "Belgrade"
+    },
+    {
+      "link": "https://www.linkedin.com/in/profmarijajovic",
+      "name": "Marija Jovic",
+      "summary": "Associate professor,  Manager of Centre for market research, Faculty of organizational sciences, University of Belgrade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandra-radujko-5146a831",
+      "name": "Aleksandra Radujko",
+      "summary": "Managing Director, New Media Team Communications&Consulting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danica-naskovski-2a91a832",
+      "name": "Danica Naskovski",
+      "summary": "Sales Manager at DPC Networks Member of DPC Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tijanastojiljkovic",
+      "name": "Tijana Stojiljkovic",
+      "summary": "CEO at The Butterfly",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasa-jokic-baa42539",
+      "name": "Sasa Jokic",
+      "summary": "CEO at Marcons Marketing Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-veric-6ab59a44",
+      "name": "Ana Veric",
+      "summary": "Sales consultant at Studio Moderna",
+      "location": "Novi Sad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jelena-kovacevic-26082246",
+      "name": "Jelena Kovacevic",
+      "summary": "Graphic designer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jovana-filipovi%25C4%2587-04732b49",
+      "name": "Jovana Filipović",
+      "summary": "Assistant Professor at Faculty of Economics in Kragujevac",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vladica-jovanovic-79b1464b",
+      "name": "Vladica Jovanovic",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/toni-vujanic-a6291167",
+      "name": "Toni Vujanic",
+      "summary": "Basketball Coach",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/szilveszter-n%25C3%25A9meth-15685070",
+      "name": "Szilveszter Németh",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-ivanisevic-ab682278",
+      "name": "Ana Ivanisevic",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jelena-brekovic-7827138b",
+      "name": "Jelena Brekovic",
+      "summary": "Sales Marketing Manager at Impulse promotion d.o.o",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivana-baburic-74614494",
+      "name": "Ivana Baburic",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marijana-barbaric-206a20a3",
+      "name": "Marijana Barbaric",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ziza-raickovic-52a206a5",
+      "name": "Ziza Raickovic",
+      "summary": "marketing manager at Medija international group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ljiljana-berezljev-718178b2",
+      "name": "Ljiljana Berezljev",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/igor-suznjevic",
+      "name": "Igor Suznjevic",
+      "summary": "Chief Business Development Officer at Anoris Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nebojsa-mandic-572571b3",
+      "name": "Nebojsa Mandic",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bojana-savovi%25C4%2587-a6b277109",
+      "name": "Bojana Savović",
+      "summary": "Key Account Manager at Telegraf.rs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/milan-djurmez-5a220b10a",
+      "name": "Milan Djurmez",
+      "summary": "Head of Online Gaming at AdmiralBet Serbia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/predrag-nikolic-b77818135",
+      "name": "Predrag Nikolic",
+      "summary": "Sales Manager at NS PLAKAT",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/goran-milosavljevic-7776a0138",
+      "name": "Goran Milosavljevic",
+      "summary": "ŠTAMPARIJA PASSAGE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jelena-nikodinovic-468927158",
+      "name": "Jelena Nikodinovic",
+      "summary": "English Language Teacher at Primary School",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilija-spanovic-67b7bb17a",
+      "name": "Emilija Spanovic",
+      "summary": "Front Desk Staff at Turisticko naselje Mećavnik",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leona-budimir-b51ba91a6",
+      "name": "Leona Budimir",
+      "summary": "Hairstylist at Vikler i Ruž",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maja-konte-b3b1101a7",
+      "name": "Maja Konte",
+      "summary": "kindergarten",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-voki%25C4%2587-8259831b6",
+      "name": "Sara Vokić",
+      "summary": null,
+      "location": "Zagreb"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-845655179",
+      "summary": "Procurement Manager at Jaffa Crvenka",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://au.linkedin.com/in/aleksandra-ilic-698a7743",
+      "summary": "Barrister at Sixth Floor Selborne Wentworth Chambers",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilic-267a739b",
+      "summary": "Head of department for mechanical works in group for contracting new projects at Velesstroy Construction Company DOO",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilic-4676a511b",
+      "summary": "UX/UI Designer at HTEC Group",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilic-571b323a",
+      "summary": "Assistant Professor, Vice-Dean for Finance at Faculty of Security Studies, University of Belgrade",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-psihoterapija-medijacija-pirot",
+      "summary": "Psychotherapist in Private Practice and Licensed Mediator",
+      "location": "Pirot"
+    },
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-b7604b163",
+      "summary": "Telesol Group",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://mt.linkedin.com/in/aleksandra-ilic-b14981213",
+      "summary": "Finance Assistant  at Grand Hotel Excelsior",
+      "location": "Saint Paul's Bay, Malta"
+    },
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-b31473160",
+      "summary": null,
+      "location": "Belgrade"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilic-54b39320a",
+      "summary": "Partner Operations Manager - Brazil; MA - English language and literature,",
+      "location": "Niš"
+    },
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-782080206",
+      "summary": "Administrative Assistant  at Spedition, Transport and Logistics; Scrum , Scrum master",
+      "location": "Novi Sad"
+    },
+    {
+      "name": "Aleksandra Ilic",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilic-8229363a",
+      "summary": "Assistant Professor at  University of Niš, Faculty of Civil Engineering and Architecture",
+      "location": "Serbia"
+    },
+    {
+      "name": "Aleksandra Ilić",
+      "link": "https://rs.linkedin.com/in/aleksandra-ilić-367a59141",
+      "summary": "Marketing and Event Manager",
+      "location": "Serbia"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-09-29T00:00:00Z"
+  }
+}

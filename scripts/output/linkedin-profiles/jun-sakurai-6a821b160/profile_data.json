@@ -1,0 +1,797 @@
+{
+  "public_identifier": "jun-sakurai-6a821b160",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/7577f919636bdcf4e0142280c77ce44e",
+  "background_cover_image_url": null,
+  "first_name": "Jun",
+  "last_name": "Sakurai",
+  "full_name": "Jun Sakurai",
+  "follower_count": 4240,
+  "occupation": "Head of OOH Business at dentsu Japan",
+  "headline": "dentsu Japan - Head of OOH Business",
+  "summary": null,
+  "location_str": "日本 東京都 東京",
+  "country": "JP",
+  "country_full_name": "Japan",
+  "city": "Chiyoda-Ku",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "dentsu Japan",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsujapan",
+      "company_facebook_profile_url": null,
+      "title": "Head of OOH Business",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f161b59ef1cffde89a1f6de543cde4fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "LIVE BOARD,INC.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/live-board-inc",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Tokyo",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/28e455c82ded466f8b78fc4d86584b94"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "dentsu X Vietnam",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "ベトナム ホーチミン市",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "company": "dentsu X China",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "中華人民共和国 ペキン市",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2015
+      },
+      "company": "株式会社電通",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsujapan",
+      "company_facebook_profile_url": null,
+      "title": "Associate Director",
+      "description": null,
+      "location": "Tokyo",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f161b59ef1cffde89a1f6de543cde4fd"
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mariosgeorgakopoulos",
+      "name": "Marios Georgakopoulos",
+      "summary": "New Business & Transformation Manager at Politis Group | Intrapreneur by habit",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andsoup",
+      "name": "Andreas Soupliotis",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanielindquist",
+      "name": "Melanie L.",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tsubasanakamura",
+      "name": "Tsubasa Nakamura",
+      "summary": "Founder and representative at Dream On",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matsronne",
+      "name": "Mats Rönne",
+      "summary": "Senior advisor at OffPist Management",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-brownsdon",
+      "name": "William Brownsdon",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartendollevoet",
+      "name": "Maarten Dollevoet",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/airportseoul",
+      "name": "Hyun Lee",
+      "summary": "Seoul Incheon Airport Advertising Specialist / Mental Wellness Advocate",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-hamblin",
+      "name": "Andrew Hamblin",
+      "summary": "Digital Transformation, Automation, Retail Media Screen Networks, D/OOH",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shun-okada",
+      "name": "Shun Okada",
+      "summary": "monopo, inc. - Founder / COO",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayyoung1",
+      "name": "Jay Young",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shintarotakayama",
+      "name": "Shintaro Takayama",
+      "summary": null,
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-x-zhang",
+      "name": "Peter Z.",
+      "summary": "Senior Brand Manager, House of Suntory",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiroki-ttm",
+      "name": "Hiroki Tsutsumi",
+      "summary": "CEO, Link Global Co., Ltd. | CEO, The Skinfactory Global JP | Foreign Direct Investment Advisor, city of Kyoto Government | Overseas Business Expansion Advisor, Fukuoka Prefecture",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ywzhao",
+      "name": "Yiwei (Evie) Zhao",
+      "summary": "Building brands, crafting stories and driving strategic growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jiaying-hu-graphicdesigner",
+      "name": "Jiaying Hu",
+      "summary": "…",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annamariapisano",
+      "name": "Anna Maria Pisano",
+      "summary": "Ceo and Executive Director, Global Studio",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danwcm",
+      "name": "Daniel Wong-Chi-Man",
+      "summary": "Global Service Line Leader, Audience Measurement",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aoi-mitani-7b2791270",
+      "name": "Aoi Mitani",
+      "summary": "--",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angiecutter",
+      "name": "Angie Cutter",
+      "summary": "Managing Director APAC | Strategic OOH Media Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylanmabin",
+      "name": "Dylan Mabin",
+      "summary": "President - Geopath",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachanadlokhande",
+      "name": "Rachana Lokhande",
+      "summary": "Making OOH meaningful",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wan-tang-1019",
+      "name": "Wan Tang",
+      "summary": null,
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kosukekita",
+      "name": "Kosuke Kita",
+      "summary": "株式会社FUNDINNO - 取締役",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-xudong-z-46aa27132",
+      "name": "Peter Xudong Z.",
+      "summary": "Senior Brand Manager, Danone Beverages China",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/verono16",
+      "name": "Veronica Ong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-dorenberg",
+      "name": "Amanda Dorenberg",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keitaro-goto-192704236",
+      "name": "Keitaro Goto",
+      "summary": "DeCoA",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25A4%25A7%25E8%25BC%2594-%25E6%25B1%25A0%25E7%2594%25B0-22bbb1225",
+      "name": "池田 大輔",
+      "summary": "SOMPOグループ - 課長代理",
+      "location": "Nerima-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%25B5%25A9%25E5%25A4%25AA%25E9%2583%258E-%25E5%25B0%258F%25E7%2594%25BA-857787b3",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%25AB%2598%25E6%2581%25A9-%25E9%2587%2591-b3a543198",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%2593%25B2%25E5%258F%25B2-%25E6%2596%25B0%25E7%2594%25B0-53404244",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2599%25BA%25E6%25A8%25B9-%25E6%259D%25BE%25E5%258E%259F-3b631b14b",
+      "name": "松原 智樹",
+      "summary": "株式会社AfterSCHOOL - CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%2599%25BD%25E5%25AD%2590-%25E5%25B0%258F%25E9%2587%258E-36411384",
+      "name": "小野 陽子",
+      "summary": "NTT DOCOMO, Inc. - Assistant Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorja-wilkins-mphil-mpsa-54b50330",
+      "name": "Jorja Wilkins - MPhil, MPSA",
+      "summary": "GM Future Media & Sustainability | Programmatic, Digital Transformation & ESG Strategy | Doctoral Candidate (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/schoko-sano-6bb55b220",
+      "name": "Schoko Sano",
+      "summary": "LIVE BOARD, Inc. - Client Servies Planner",
+      "location": "Shibuya-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-parry-okeden-110b9b3",
+      "name": "Charles Parry-Okeden",
+      "summary": "Founder & Global CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/masahiro-yamamoto-1174168",
+      "name": "Masahiro Yamamoto",
+      "summary": "Director at Oricom co.,ltd",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrin-robertson",
+      "name": "Katrin A. Robertson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-saturley-44a71b13",
+      "name": "Richard Saturley",
+      "summary": "World Out of Home Organization•887 followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joni-schmeichel-b6b02417",
+      "name": "Joni Schmeichel",
+      "summary": "OOH Strategic Marketing Manager at Daktronics",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hidetada-kanehara-34043019",
+      "name": "Hidetada Kanehara",
+      "summary": "Sales Director at MCDecaux",
+      "location": "Kawasaki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maud-moawad-26362420",
+      "name": "Maud Moawad",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-chang-7b523824",
+      "name": "Rebecca Chang",
+      "summary": "Ambassador of World Out of Home Organization. Reinventing OOH for the value and innovative application. With over 25 years of experience in Advertising, Full Media, and OOH Specialist in Dentsu, Publicis and IPG groups",
+      "location": "Taipei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agung-prihambodo-94b48a25",
+      "name": "Agung Prihambodo",
+      "summary": "connecting the dots",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzumi-sai-72623726",
+      "name": "Suzumi Sai",
+      "summary": "Outbrain japan",
+      "location": "Yokohama"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomoya-ishida-a04a2937",
+      "name": "Tomoya Ishida",
+      "summary": "Senior Section Manager at Sunstar Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saori-gomi-47641044",
+      "name": "Saori Gomi",
+      "summary": "Senior Video GTM at Amazon",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shinichi-okazaki-2006424a",
+      "name": "Shinichi Okazaki",
+      "summary": "K&L Inc. - President/CEO",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ceci-s-12689753",
+      "name": "Ceci S.",
+      "summary": null,
+      "location": "Hong Kong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/risa-inoue-36723a55",
+      "name": "Risa Inoue",
+      "summary": "Bilingual PR & Communications Consultant | Art, Culture, Luxury, Digital & Social media marketing | Hong Kong × Japan",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alfreda-ka-71490460",
+      "name": "Alfreda Ka",
+      "summary": "Owner of Yoji Studio",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mieko-yahagi-40816074",
+      "name": "Mieko Yahagi",
+      "summary": "代表 - Leon Inc",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryota-hatanaka-1b7bb79b",
+      "name": "Ryota Hatanaka",
+      "summary": "cyber communications inc. - Global Business Development",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%258B%25B0%25E4%25B9%258B-%25E6%259D%25A8-a3b50ab4",
+      "name": "杨勰之",
+      "summary": null,
+      "location": "Hangzhou"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2586%25B6%25E9%259B%25AF-%25E6%259C%25B1-850791b6",
+      "name": "朱憶雯",
+      "summary": "公关高级专员",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eri-kawase-0a89abb8",
+      "name": "eri kawase",
+      "summary": "sales at live board",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monik-madhwani-1b1a46104",
+      "name": "Monik Madhwani",
+      "summary": "Founder @ WOW Advertisement | Leadership",
+      "location": "Surat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-albadwi-61b559107",
+      "name": "Ahmed Albadwi",
+      "summary": "Client Services, Global Sales Lead | LIVE BOARD, INC.",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noel-cook-4bb375110",
+      "name": "Noel Cook",
+      "summary": "OOH Expert | Board member | M & A | Capital Raising",
+      "location": "North Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%25A6%258E%25E6%2585%25A7-christy-yen-%25E9%25A1%258F-2495a2116",
+      "name": "顏禎慧 Christy Yen",
+      "summary": "Group Creative Director_China",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bo-kou-746951156",
+      "name": "Bo Kou",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jiachengli-usc",
+      "name": "Jiacheng Li",
+      "summary": "Marketer with 3+ years experience in the FMCG industry",
+      "location": "Shanghai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chun--wang",
+      "name": "Chun Wang",
+      "summary": "Product Manager, Vaccine Marketing & Digital Health at GSK, ex Adobe|P&G",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daewonjameskim",
+      "name": "Daewon Kim",
+      "summary": "CEO at PODO Media | Programmatic DOOH & Audience Measurement | Korea OOH Association",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiroki-ichihara-814576170",
+      "name": "Hiroki Ichihara",
+      "summary": "R-Planning Roop-bound Planner",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kosuke-takemura-22226a17b",
+      "name": "Kosuke Takemura",
+      "summary": "Sr. Account Manager | Amazon Ads | AI-driven Marketing & Platform Strategy | Global Campaigns & Digital Transformation",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariko-yamagishi-176a11197",
+      "name": "Mariko Yamagishi",
+      "summary": "--",
+      "location": "Tokyo"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I'm very grateful for such a wonderful opportunity to discuss \"DOOH in the OMO Era: The Key to Connecting Offline and Online\" with Tomoyuki Noshita,…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_dooh-ooh-ats-activity-7398595603108126722-yNzt",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing collaboration with dentsu in the age of #AI. It’s for the bright future of #OOH. Thank you from LIVE BOARD,INC.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_ai-ooh-activity-7248466167575576576-9YAi",
+      "activity_status": null
+    },
+    {
+      "title": "It is a totally new collaboration between LIVE BOARD,INC. and Shutterstock #Japan. Shtterstock enhances the value of LIVE BOARD's digital signage…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_japan-activity-7236245399005511680-r5oZ",
+      "activity_status": null
+    },
+    {
+      "title": "It's a great honor for LIVE BOARD,INC. to join this project from DOOH side. Thank you, RIMOWA, The Trade Desk, iProspect and Hivestack by Perion…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_rimowa-increases-reach-by-25-using-omnichannel-activity-7234479294121480192-SjN-",
+      "activity_status": null
+    },
+    {
+      "title": "LIVE BOARD,INC. had a wonderful time in Hong Kong. There were a lot of learnings from all over the world. Thank you, World Out of Home Organization…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-boardinc-had-a-wonderful-time-in-hong-activity-7205113086867865600-MHFF",
+      "activity_status": null
+    },
+    {
+      "title": "It’s a new initiative from Japanese OOH market. Thank you, Yoshi Ikeda-san from Video Research, Akira Miura-san from HAKUHODO DY media partners.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_new-research-revealed-tv-x-web-x-dooh-advertising-activity-7202906500892090368-vax8",
+      "activity_status": null
+    },
+    {
+      "title": "It’s a amazing revolution for LIVE BOARD,INC.. We launched \"Tokyo High Impact Package\" Featuring #ShibuyaCrossing, which is the most popular #OOH…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_shibuyacrossing-ooh-activity-7203992164538679297-ekxG",
+      "activity_status": null
+    },
+    {
+      "title": "It’s a perfect collaboration with dentsu, HAKUHODO DY media partners, Video Research, NTT DOCOMO, INC., and LIVE BOARD,INC. Japanese OOH market is…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_%E3%83%86%E3%83%AC%E3%83%93%E3%82%A6%E3%82%A7%E3%83%96dooh%E3%81%AE%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-%E5%BA%83%E5%91%8A%E5%8A%B9%E6%9E%9C%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93-activity-7180082236791169024-IU6p",
+      "activity_status": null
+    },
+    {
+      "title": "Our global business is expanding dramatically. If you have any interests, please contact us. Thank you.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_our-global-business-is-expanding-dramatically-activity-7170718213905768451-Ey14",
+      "activity_status": null
+    },
+    {
+      "title": "It's an amazing collabolation with The Coca-Cola Company, The Trade Desk, dentsu,Hakuhodo Inc., NTTドコモ and LIVE BOARD,INC. Please Join us. Sorry,…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_its-an-amazing-collabolation-with-the-coca-cola-activity-7163385709955932160-ZrnO",
+      "activity_status": null
+    },
+    {
+      "title": "It is a great honor for LIVE BOARD,INC. to be appeared in the news. Taxi is so clean with big screen in Japan and Taxi Ad is so popular especially…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_it-is-a-great-honor-for-live-boardinc-to-activity-7161915857944739841-0dHS",
+      "activity_status": null
+    },
+    {
+      "title": "The amazing year is ending. LIVE BOARD,INC. showed incredible progress in 2023. Thank you, World Out of Home Organization, NTTドコモ, dentsu, HAKUHODO…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_the-amazing-year-is-ending-live-boardinc-activity-7145639310707286016-86xj",
+      "activity_status": null
+    },
+    {
+      "title": "I can't wait for the event of World Out of Home Organization, an APAC forum 2023,. It will held in Bali, Indonesia next month. See you soon, Gideon…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_best-performance-from-audience-measurement-activity-7116325916099678208-mCkl",
+      "activity_status": null
+    },
+    {
+      "title": "Itâs a totally new approach and beneficial for advertisers and agencies! Thank you, team.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_leveraging-ntt-docomos-carrier-roaming-data-activity-7090323381404798976-f4T2",
+      "activity_status": null
+    },
+    {
+      "title": "It was the best gathering to celebrate the great success of our session at this year's AdweekAsia with Linda Lee-san & Yumi Murayama-san from GroupM,…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_it-was-the-best-gathering-to-celebrate-the-activity-7087713037104648192-jD7F",
+      "activity_status": null
+    },
+    {
+      "title": "Hivestack provided a so meaningful perspective for brands and media owners in World Out of Home Organization Congress in Lisbon. Itâs totally…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_asia-ooh-value-in-audience-metrics-activity-6862669223425138688-EnmU",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization Congress in Lisbon was perfect! There a lot of meetings and learnings from all over the world. And LIVE BOARD,INC. and…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_world-out-of-home-organization-congress-in-activity-7073351572780433408-hXmW",
+      "activity_status": null
+    },
+    {
+      "title": "I can't wait forÂ LIVE BOARD,INC.'s session in Advertising Week Asia (Advertising Week) on 7th June. Japan's top industry leaders fromÂ MindshareÂ…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_programmatic-dooh-is-in-full-swing-the-evolution-activity-7070737655965093888-QcoO",
+      "activity_status": null
+    },
+    {
+      "title": "My English is not like this narration. But this is comprehensive overview of Japanese DOOH market and LIVE BOARD,INC. Thank you, all partners.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_my-english-is-not-like-this-narration-but-activity-7054747839695880193-nPrk",
+      "activity_status": null
+    },
+    {
+      "title": "LIVE BOARD,INC. is so glad that we can have a webinar in honor of the 4th anniversary of the company on 22th February. Suntory Holdings Limited, one…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_welcome-you-are-invited-to-join-a-webinar-activity-7030371218125971456-kCLM",
+      "activity_status": null
+    },
+    {
+      "title": "I am very pleased to welcome Ben ãã«ã³ ãã³ã¸ã£ãã³, Global Head of Out-of-Home, dentsu Media, to Tokyo. Thanks to him, I was able to learn…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_i-am-very-pleased-to-welcome-ben-%E3%83%9F%E3%83%AB%E3%83%B3-%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3-activity-7024640768057229312-S67V",
+      "activity_status": null
+    },
+    {
+      "title": "LIVE BOARD,INC. âs new innovation! Thanks to JSAT Corporation, we launched live broadcast service on our screen.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-boardinc-s-new-innovation-thanks-activity-7021765925901131776-1dGt",
+      "activity_status": null
+    },
+    {
+      "title": "Happy New Year! Hoping that all your wishes come true!",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_happy-new-year-hoping-that-all-your-wishes-activity-7015248191080062976-U-6T",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you for giving #liveboard a great opportunity to present at Ourdoor Advertising Convention 2022 in Mumbai today, Rajiv Raghunath-san. I really…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_liveboard-activity-6966044906045763584-2SDe",
+      "activity_status": null
+    },
+    {
+      "title": "I fully enjoyed VR FORUM organized by Video Research, the biggest research company in Japan. I LIVE BOARD,INC. discussed about the bright future of…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_ooh最前線doohの将来性とトリプルメディアプランニングの促進vr-forum-activity-7010911088741421056-fUs5",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks to Doreen Liu Hivestack,LIVE BOARD,INC. accomplished our mission in #Singapore. We could have fruitful discussion with partners. We will go…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_singapore-activity-6988494214527406080-04YZ",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing update. Thank you, everyone.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_digital-out-of-home-ads-now-in-display-activity-6976024304446562305-6Uiw",
+      "activity_status": null
+    },
+    {
+      "title": "Great achievement! Thank you, team!!!",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-boardsurvey-on-intention-to-use-digital-activity-6905801922670931968-IGWG",
+      "activity_status": null
+    },
+    {
+      "title": "珍しく日本語でのシェアですが、LIVE BOARDは3周年を迎え、自社ウェビナーを開催するに至りました。お時間ある方は是非、覗いていただければと思います。 Sorry for writing in Japanese. LIVE BOARD is planning to hold a Webinar…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_ウェビナーお申込み株式会社live-board-activity-6899349829068431360-Hzd8",
+      "activity_status": null
+    },
+    {
+      "title": "That was a very memorable time. Thank you, all of LIVE BOARD team.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_that-was-a-very-memorable-time-thank-you-activity-6915613063584890880-Q49J",
+      "activity_status": null
+    },
+    {
+      "title": "Have a nice weekend!!!",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-boardsurvey-on-digital-ooh-aims-and-activity-6920740980631465984-hRlV",
+      "activity_status": null
+    },
+    {
+      "title": "Jump is managed by Shueisha, which is the biggest publishing company including animation business in Japan. LIVE BOARD is truly proud of the…",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-boardjump-characters-quizzes-activity-6930792560718204928-jTtQ",
+      "activity_status": null
+    },
+    {
+      "title": "It has my name on it.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_it-has-my-name-on-it-activity-6856537307479199744-oFAi",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing job, Shoko-san! Schoko Sano",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_live-board1000-premium-dooh-screens-in-activity-6878274376014409728-rDfr",
+      "activity_status": null
+    },
+    {
+      "title": "My new journey has begun. https://lnkd.in/g7uc-5d",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_my-new-journey-has-begun-httpslnkdin-activity-6811683708601532416-0ON7",
+      "activity_status": null
+    },
+    {
+      "title": "My hometown is close by Nagoya. Have a nice weekend.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_introducing-nagoya-activity-6872558067066695680-gjc_",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you for our important partners, Paravi-san, Porto-san and dentsu-san.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_simctvdigitaldooh-triple-media-effect-activity-6847098080807014400-V-RS",
+      "activity_status": null
+    },
+    {
+      "title": "It’s my turn.",
+      "link": "https://www.linkedin.com/posts/jun-sakurai-6a821b160_simcredefining-the-advertising-value-of-activity-6844200100898721792-RHLM",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-3585754a",
+      "summary": "Centrair Hotel - 副支配人",
+      "location": "名古屋"
+    },
+    {
+      "name": "桜井 淳",
+      "link": "https://jp.linkedin.com/in/jusakura",
+      "summary": "テクニカルソリューションスペシャリスト",
+      "location": "日本"
+    },
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-26b38360",
+      "summary": "Senior Manager at KPMGコンサルティング",
+      "location": "東京"
+    },
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-5a84b1a6",
+      "summary": "test at test",
+      "location": "日本"
+    },
+    {
+      "name": "JUN SAKURAI",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-38b437155",
+      "summary": "首都大学東京卒業",
+      "location": "Japan"
+    },
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai",
+      "summary": "Vice President at Goldman Sachs AMD",
+      "location": "Tokyo"
+    },
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-916b82170",
+      "summary": "アンテリオ - HR Team Leader",
+      "location": "Japan"
+    },
+    {
+      "name": "Jun Sakurai",
+      "link": "https://jp.linkedin.com/in/jun-sakurai-130a83315",
+      "summary": "スタジオブロス - デザイナー",
+      "location": "Nishinomiya"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-02-20T00:00:00Z"
+  }
+}

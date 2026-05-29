@@ -1,0 +1,752 @@
+{
+  "public_identifier": "costanza-grandinetti-465802232",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/cbc42f4221d8a774c28a5999b3ac59c3",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C4D16AQGmC7xCu86hoQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668160734962?e=2147483647&v=beta&t=PsCOxmABu2J6xAoeTOlPZPLeBIFMj0cvFRFllzGBvkQ",
+  "first_name": "Costanza",
+  "last_name": "Grandinetti",
+  "full_name": "Costanza Grandinetti",
+  "follower_count": 926,
+  "occupation": "International Account Manager at MEDIAKEYS",
+  "headline": "International Account Manager",
+  "summary": null,
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "International Account Manager",
+      "description": "- Assisting the Managing Director in the daily operations.\n- Assist in promoting the Mediakeys products & services.\n- Providing the strategy, negotiation and execution of all media.",
+      "location": "Londra, Regno Unito",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "Voi Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/voi-technology",
+      "company_facebook_profile_url": null,
+      "title": "ITES Marketing Intern",
+      "description": "Collaborate with the Marketing Manager for Spain & Italy to support the concepts and prioritize the development of user growth in the Spanish and Italian territory.\n- Collaborate in content creation and translation.\n- Assist and support the work creating new Marketing campaigns and event management.\n- Support the acquisition of new marketing/sales partnerships.\n- Create ideas and concepts to attract new users and propose messages for emails and app messages.",
+      "location": "Madrid",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1e5ea561b8fd6586b03a31b585740cd6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2021
+      },
+      "company": "PwC Italy",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc-italy",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Internship",
+      "description": "Participated within a project of  E-Commerce replatforming of a global brand in the luxury industry. \nWorked on the new frontend of the website along with the configuration of a functional CMS system based on customer’s needs.\nAlso developed knowledge in the field of UX, functional analysis, testing and on the CMS technology.",
+      "location": "Roma, Lazio, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/86462cd6710595d9d37fe051b05bc53a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2018
+      },
+      "company": "PwC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc",
+      "company_facebook_profile_url": null,
+      "title": "Summer Internship",
+      "description": "Participated in market research, analysis and planning on PWC’s ongoing projects.\nWorked and delivered branded PowerPoint presentations resulting in an increase in data analytics and design skills.",
+      "location": "Roma, Lazio, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/86462cd6710595d9d37fe051b05bc53a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2015
+      },
+      "company": "San Raffaele Pisana Hospital",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Internship - Administration department for a school project",
+      "description": null,
+      "location": "Roma, Lazio, Italia",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "IE Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ie-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/72e669529b7dfa72cf3561f862798d3b",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Luiss Guido Carli University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/luiss-guido-carli-university",
+      "school_facebook_profile_url": null,
+      "description": "Graduated with the thesis “The Reshoring Phenomenon : a potential opportunity”. Core Modules : Mathematics, Statistics, Accounting, Microeconomics, Macroeconomics, Law and Economics, Information System, Corporate Finance, Games and Strategies, IO and Competition Theory, Management, Entrepreneurship, International Economics.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/44fce3c97469d812d9b60ba9f2536de3",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Paris School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/paris-school-of-business",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/403ffabdbd39c8c53d7edadeb2fcf678",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Lycée Chateaubriand de Rome",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/lyceechateaubriandderome",
+      "school_facebook_profile_url": null,
+      "description": "French Baccalaureate in Economics and Business and Social Sciences with specialization in Mathematics A level equivalent : AAA Other major subjects : ESABAC (blending French Baccalaureate and Italian “Esame di Stato”) Final year Dissertation : What would be the socio-political consequences of a wider internet access in Cuba?",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/70c22e13dfa79aec785dc4eb6cf4e27a",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "University of Oxford",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/oxforduni",
+      "school_facebook_profile_url": null,
+      "description": "Completed an Academic International Relations summer course at Oxford University",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1a1513f65c4b03deabab55885214ad03",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Italiano",
+    "Inglese",
+    "Francese",
+    "Spagnolo"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Italiano",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Inglese",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Francese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spagnolo",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "title": "Organizational Skills - School Representative",
+      "description": "Class representative, speaking for the class in the school board for 3 years in a row. Student representative “Conseil De la Vie Lycéenne” directly reporting and working with the school principal with the objective of increasing overall student satisfaction with the institution and faculty. Increased my public speaking, organizational and problem-solving skills.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "title": "Public Speaking - HMUN",
+      "description": "Selected as a main speaker for a simulation of the United Nations committee. Refined techniques in researching, debating and developing critical thinking together with team working.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Responsabile raccolta fondi",
+      "cause": null,
+      "company": "Operation Smile",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/operation-smile",
+      "description": "Involved in various fundraising and volunteering events including sports and artistic activities.",
+      "logo_url": "https://assets.enrichlayer.com/ll/C4E0BAQHlQ_brnR8YiA/company-logo_100_100/company-logo_100_100/0/1643725236890/operation_smile_logo?e=2147483647&v=beta&t=NKOkoievDs8qszwJHhsSHil_PLc9oImzsG1IW0gKqxA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "title": "Volunteer Staff",
+      "cause": null,
+      "company": "Action Against Hunger / Action contre la Faim Canada",
+      "company_linkedin_profile_url": "https://ca.linkedin.com/company/acfcanada",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C4E0BAQHAlnk2Ue9n4g/company-logo_100_100/company-logo_100_100/0/1630571304686/acfcanada_logo?e=2147483647&v=beta&t=Pwg0eG3Az9gAmKstyBf4h3CSp5buFAjnJcO7iHC7uAo"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2016
+      },
+      "title": "Volunteer Staff",
+      "cause": null,
+      "company": "Comunita di Sant’Eustacchio",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "IELTS CERTIFICATE - 7,5 - C1 LEVEL",
+      "license_number": null,
+      "display_source": null,
+      "authority": "British Council",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "ECDL certificate",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Luiss Guido Carli University",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Proficient use of MS office",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Luiss Guido Carli University",
+      "url": null
+    }
+  ],
+  "connections": 920,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/thibaultleca",
+      "name": "Thibault Leca",
+      "summary": "Managing Director at Mediakeys",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-casero-serrano",
+      "name": "Miguel Casero Serrano",
+      "summary": "Técnico Comercial y Economista del Estado | Ex McKinsey",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-aramburu-bartau",
+      "name": "Andrea Aramburu Bartau",
+      "summary": "Market Research & Consumer Behavior | Business Analytics | Insights | Marketing Data",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/virginia-citerni-di-siena",
+      "name": "Virginia Citerni di Siena",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattia-vaccarella",
+      "name": "Mattia Vaccarella",
+      "summary": "Goldman Sachs I Columbia University",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patriciariosgarrido",
+      "name": "Patricia Ríos Garrido",
+      "summary": "Consumer Insights, Strategy & Innovation MEU Trainee",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/niccolo-veneziani-35a405267",
+      "name": "Niccolo' Veneziani",
+      "summary": "Front Desk Agent presso Bulgari Hotel Roma",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ludovicapugliesi",
+      "name": "Ludovica Pugliesi",
+      "summary": "Talent manager",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-micarelli-290847236",
+      "name": "Alessandro Micarelli",
+      "summary": "Studente presso Luiss Guido Carli University",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giacomo-formicola",
+      "name": "Giacomo Formicola",
+      "summary": "ESCP | Mediobanca",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yaminaperezhualde",
+      "name": "Yamina Perez Hualde",
+      "summary": "Associated Director at Kantar",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/reinaelkhatib",
+      "name": "Reina El Khatib",
+      "summary": "Marketing Executive",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aurora-talarico-9496a5226",
+      "name": "Aurora Talarico",
+      "summary": "Executive Assistant to General Manager and Quality Leader at Bulgari Hotel Roma",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-bay-877237233",
+      "name": "Emma Bay",
+      "summary": "LSE | Bocconi",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilia-castillo",
+      "name": "Emilia Castillo",
+      "summary": "Travel & Expense Specialist @ Celonis",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatrice-bizzarri",
+      "name": "Beatrice Bizzarri",
+      "summary": "Bain & Company | LUISS | EY",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-archie-ayeh-514279b",
+      "name": "George Archie Ayeh",
+      "summary": "CEO at Fastcare Clinics",
+      "location": "Accra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-spottorno-08032426",
+      "name": "Diego Spottorno",
+      "summary": "Diplomático 🇪🇸",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sofia-bevilacqua-3bb56515a",
+      "name": "Sofia Bevilacqua",
+      "summary": null,
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlosestevemoreno",
+      "name": "Carlos Esteve Moreno",
+      "summary": "Brand Strategist at Picnic",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erika-fernandez-694235185",
+      "name": "Erika Fernandez",
+      "summary": "Shopr Rewards l Client Success Manager l Data Analyst",
+      "location": "Orlando"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yizhou-chen-367a65188",
+      "name": "Yizhou Chen",
+      "summary": "Senior Strategy Analyst @Scopely | Market research & Consumer Behavior | Game strategy \nWe play to win 🎮",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriana-perez-9324a6197",
+      "name": "Adriana Perez",
+      "summary": "Production Specialist @ EF Education First | Production Operations, Tour Operators",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbarafamiliar",
+      "name": "Bárbara F.",
+      "summary": "Master en Investigación de Mercado y Comportamiento del Consumidor",
+      "location": "Monterrey metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-montilla",
+      "name": "Nicole Montilla Matos",
+      "summary": null,
+      "location": "Santo Domingo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carmenlatas",
+      "name": "Carmen Latas Prieto",
+      "summary": "Talent Acquisition | People Analytics | Organizational Change",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexia-radu-7472881b3",
+      "name": "Alexia Radu",
+      "summary": "Market Research & Consumer Behavior | Market Insights | Marketing Strategy",
+      "location": "Bucharest"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolina-cannizzaro-39b8951b8",
+      "name": "Carolina Cannizzaro",
+      "summary": "Associate @BCG",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/virginiavarrenti",
+      "name": "Virginia Varrenti",
+      "summary": "Logistics & Sales Manager | US Market Expert",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinacapelli6",
+      "name": "Martina Capelli",
+      "summary": "Hospitality Analyst at Cushman & Wakefield",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ginevra-michelazzo-gemmo-001a3a208",
+      "name": "Ginevra Michelazzo Gemmo",
+      "summary": "-",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valeria-gambino-006aa920a",
+      "name": "Valeria Gambino",
+      "summary": "Junior Associate (Chiomenti) • LL.M (King’s College, London) • Giurisprudenza (La Sapienza, Roma)",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/filippo-rebecchini-36601b220",
+      "name": "Filippo Rebecchini",
+      "summary": "Citi | ESCP Business School",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/diletta-gianni-6199a9221",
+      "name": "Diletta Gianni",
+      "summary": "Consultant at KPMG & MRCB graduate at IE Business School",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolina-alonzo-042ab8222",
+      "name": "Carolina Alonzo",
+      "summary": "Marketing & Events | Sport e Salute S.p.A.",
+      "location": "Rome"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Dear network, I’m thrilled to announce that on February 10, I will begin my curricular internship at Deloitte as a Valuation Analyst in Rome. This…",
+      "link": "https://www.linkedin.com/posts/francesco-badò-896b43290_dear-network-im-thrilled-to-announce-that-activity-7294394185917325312-uwIQ",
+      "activity_status": null
+    },
+    {
+      "title": "🙌 𝗕𝗲𝘀𝘁 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗔𝘄𝗮𝗿𝗱 𝟮𝟬𝟮𝟰-𝟮𝟱 di SDA Bocconi: premiate le eccellenze italiane nella crescita sostenibile. 🎤 Siamo…",
+      "link": "https://it.linkedin.com/posts/pwc-italy_sostenibile-innovazione-pwcitaly-activity-7293264656247234560-9QIT",
+      "activity_status": null
+    },
+    {
+      "title": "This week marked an exciting milestone in my career! I am delighted to share that I have joined Flexjet  as a Business Development Executive in the…",
+      "link": "https://www.linkedin.com/posts/altheacatucci_flexjet-privateaviation-businessdevelopment-activity-7293270974249000960-mALi",
+      "activity_status": null
+    },
+    {
+      "title": "OBSESSED with this last campaign of #Heinz. So visually appealing and sense driven!",
+      "link": "https://www.linkedin.com/posts/pieratoniolo_heinz-activity-7290736241858256896-2LEd",
+      "activity_status": null
+    },
+    {
+      "title": "La storia che sta dietro alla pubblicazione di questo bellissimo articolo di Alice Rosaria Politi su Vanity Fair Italia è frutto di un anno di…",
+      "link": "https://it.linkedin.com/posts/folcogervasutti_andrea-27-anni-da-ex-atleta-di-nuoto-a-activity-7292953696651403264-Qz0j",
+      "activity_status": null
+    },
+    {
+      "title": "RESTART! Buon 2025 a tutti!",
+      "link": "https://it.linkedin.com/posts/elisachierico_restart-buon-2025-a-tutti-activity-7283132029066465281-CuqD",
+      "activity_status": null
+    },
+    {
+      "title": "The OG. What an incredible reaction to our latest campaign for Kellogg's. Brilliant work from Joe Miller, Marcus Aitman, Mark Elwood, Charlotte…",
+      "link": "https://www.linkedin.com/posts/andrewlongcreative_populistcreativity-outdoor-ooh-activity-7291075916842106882-kcQ1",
+      "activity_status": null
+    },
+    {
+      "title": "Torna con l’8ª edizione il Best Performance Award di SDA Bocconi School of Management promosso in partnership con PwC Italy, Banca Mediolanum, ELITE,…",
+      "link": "https://it.linkedin.com/posts/sda-bocconi-school-of-management_sdabocconi-businessschool-schoolofmanagement-activity-7293011229042700290-3_N-",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Exciting News: FUSION is Here! I’m thrilled today to launch FUSION, offering agencies and brands a fusion of media experiential…",
+      "link": "https://www.linkedin.com/posts/leah-melinek-60932a44_fusionexperiential-brand-activations-activity-7291002333935620096-qlem",
+      "activity_status": null
+    },
+    {
+      "title": "Renewing a campaign is a clear indicator of its success, highlighting the effectiveness of Out-of-Home (OOH) advertising, especially when utilising…",
+      "link": "https://www.linkedin.com/posts/sherbettaximedia_renewing-a-campaign-is-a-clear-indicator-activity-7291138788976709634-ZTOn",
+      "activity_status": null
+    },
+    {
+      "title": "Oggi è stato il mio ultimo giorno in Telespazio e si conclude per me un'esperienza INTERGALATTICA!!!🚀 Sono stati due anni incredibili e ricchi di…",
+      "link": "https://it.linkedin.com/posts/barbara-sportelli-6645417_oggi-è-stato-il-mio-ultimo-giorno-in-telespazio-activity-7291143232334290945-Qfx8",
+      "activity_status": null
+    },
+    {
+      "title": "Aiuto! Sono successe talmente tante cose in questi ultimi mesi che mi sono accorto di non avere condiviso i progetti portati avanti, e a cui ho…",
+      "link": "https://it.linkedin.com/posts/folcogervasutti_brand-giftset-pr-activity-7290718899388444672-Ixlg",
+      "activity_status": null
+    },
+    {
+      "title": "📢In che modo le collaborazioni spaziali internazionali stanno plasmando il futuro dell'Italia? Quali benefici concreti portano queste collaborazioni…",
+      "link": "https://it.linkedin.com/posts/pwc-italy_innovazione-tecnologia-salute-activity-7289590664701321218-kxVa",
+      "activity_status": null
+    },
+    {
+      "title": "🆕 PwC Tls: Alessandro Grandinetti nuovo co-managing partner. #toplegal #news #nomine",
+      "link": "https://www.linkedin.com/posts/toplegal_pwc-tls-alessandro-grandinetti-nuovo-co-managing-activity-7289616499013480448-ztME",
+      "activity_status": null
+    },
+    {
+      "title": "Alessandro Grandinetti è il nuovo Co-Managing Partner dello Studio PwC TLS Avvocati e Commercialisti",
+      "link": "https://it.linkedin.com/posts/diritto-affari_pwc-tls-alessandro-grandinetti-è-il-nuovo-activity-7289666226006421504-y4d9",
+      "activity_status": null
+    },
+    {
+      "title": "San Francisco has gone green! We recently launched our campaign in the Golden City, and now you can see Uphold advertisements everywhere… From…",
+      "link": "https://www.linkedin.com/posts/simon-mcloughlin-980361a_san-francisco-has-gone-green-we-recently-activity-7297252967399804929-AZEM",
+      "activity_status": null
+    },
+    {
+      "title": "#INSIGHTSPILLS IS BACK! The past two weeks have been nothing short of incredible! 🌎✨ Starting with the #LATAM Kick-Off in Mexico, the energy and…",
+      "link": "https://www.linkedin.com/posts/andreacolombo01_insightspills-latam-southerneurope-activity-7297621722571116544-qOzN",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to announce a 180% increase in bookings after only 2 days of our Winter 2026 Sales Opening, running until 14 February for Northern Europe!…",
+      "link": "https://www.linkedin.com/posts/richarddevilla_club-med-thanks-agents-as-sale-breaks-record-activity-7295739680317145088-AdHX",
+      "activity_status": null
+    },
+    {
+      "title": "Hay una idea que me gusta mucho (y que aparece en el libro Superagency): la tecnología no reemplaza la agencia humana, la amplifica. Pero solo genera…",
+      "link": "https://es.linkedin.com/posts/lucasbacca_hay-una-idea-que-me-gusta-mucho-y-que-aparece-activity-7430566924935270400-8bQB",
+      "activity_status": null
+    },
+    {
+      "title": "GLOBAL PULSE - LOCAL INSIGHT_CINA Il mercato OOH e DOOH in Cina continua a crescere, con un CAGR previsto del 5,01%, confermandosi tra i più…",
+      "link": "https://it.linkedin.com/posts/mediakeys-italia_mediakeys-china-dooh-activity-7427658838121717760-suoL",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’ve started a new position as a Commercial Financial Analyst at dentsu in London!",
+      "link": "https://www.linkedin.com/posts/giacomo-lucangeli-830001226_im-happy-to-share-that-ive-started-a-new-activity-7426412164984406017-P8AM",
+      "activity_status": null
+    },
+    {
+      "title": "I would like to share that the Precision AQ - International Charity & Volunteering committee are taking part in a 3 peaks in 3 weeks challenge to…",
+      "link": "https://www.linkedin.com/posts/becky-andrews-366107141_i-would-like-to-share-that-the-precision-activity-7425213941276049410-bN16",
+      "activity_status": null
+    },
+    {
+      "title": "We're pleased to announce the promotions of Tom Punter and Mollie Higgins to Senior Account Managers. Tom and Mollie have been instrumental in…",
+      "link": "https://www.linkedin.com/posts/infinity-outdoor-limited_were-pleased-to-announce-the-promotions-activity-7425156171075923968-pDJf",
+      "activity_status": null
+    },
+    {
+      "title": "Just wrapped up a quick trip to Copenhagen last week, visiting the Lobyco offices! It was fantastic finally meeting in person many more of the…",
+      "link": "https://www.linkedin.com/posts/alastair-merrett_just-wrapped-up-a-quick-trip-to-copenhagen-activity-7424738270321922049-F2-y",
+      "activity_status": null
+    },
+    {
+      "title": "Roots Breakfast LDN and MCR Jan26 Many thanks to all involved; it was a pleasure to meet you. Coming up: MCR Pub Quiz // Wed 4th Feb LDN Pub Quiz…",
+      "link": "https://www.linkedin.com/posts/spencerchritchley_roots-breakfast-ldn-and-mcr-jan26-many-thanks-activity-7422603253906841601-5aE2",
+      "activity_status": null
+    },
+    {
+      "title": "Ricopro una nuova posizione lavorativa: Junior Corporate Controller presso Bottega Veneta!",
+      "link": "https://it.linkedin.com/posts/giulia-bertozzi-b44a1522a_ricopro-una-nuova-posizione-lavorativa-junior-activity-7415737681252458496-u5c1",
+      "activity_status": null
+    },
+    {
+      "title": "We’re delighted to welcome Yaiza Martin Gonzalez to ECN as our new International Marketing Manager! Yaiza joins us from the other side of the…",
+      "link": "https://www.linkedin.com/posts/ecndooh_were-delighted-to-welcome-yaiza-martin-gonzalez-activity-7421945124177231872-s1WT",
+      "activity_status": null
+    },
+    {
+      "title": "The battle for one second of attention is a salience game. Our brains are flooded with information every moment. So only what feels relevant, clear,…",
+      "link": "https://www.linkedin.com/posts/lucasbacca_the-battle-for-one-second-of-attention-is-activity-7421888474850500608-VOmQ",
+      "activity_status": null
+    },
+    {
+      "title": "Great days at Advertising Week London with my lovely MEDIAKEYS UK team! Laura Cristiani Carlotta Formosa Thibault Leca So many inspiring…",
+      "link": "https://www.linkedin.com/posts/costanza-grandinetti-465802232_great-days-at-advertising-week-london-with-activity-7444376030418505728-P02P",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to share this special milestone with all of you! I officially graduated with a Master's in Market Research and Consumer Behavior at IE…",
+      "link": "https://www.linkedin.com/posts/costanza-grandinetti-465802232_thrilled-to-share-this-special-milestone-activity-7089622999888240641-P67u",
+      "activity_status": null
+    },
+    {
+      "title": "Dear network, I am thrilled to announce that I was selected to participate in the Social Impact Week in Accra, Ghana with IE Business School & IE…",
+      "link": "https://www.linkedin.com/posts/costanza-grandinetti-465802232_dear-network-i-am-thrilled-to-announce-activity-7057339146154950658-l_dZ",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Pepe Martinez and Yamina Perez Hualde for the amazing opportunity and experience in Kantar. This time was even better than the first one!",
+      "link": "https://www.linkedin.com/posts/costanza-grandinetti-465802232_thank-you-pepe-martinez-and-yamina-perez-activity-7027285205983870976--3h3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-05T00:00:00Z"
+  }
+}

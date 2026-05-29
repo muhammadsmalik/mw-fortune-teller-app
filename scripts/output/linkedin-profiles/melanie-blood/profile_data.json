@@ -1,0 +1,607 @@
+{
+  "public_identifier": "melanie-blood",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/031a26f979ed9bcde90ff75d4b005edb",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQE2fFfa7Px1FQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1679059336669?e=2147483647&v=beta&t=6XUUaLqkOa1IzjmwgM5Dqq0YJMQCHmPd78Z5K0AEMIU",
+  "first_name": "Melanie",
+  "last_name": "Blood",
+  "full_name": "Melanie Blood",
+  "follower_count": 887,
+  "occupation": "Head of Ocean Labs UK at Ocean Outdoor UK",
+  "headline": null,
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Ocean Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head of Ocean Labs UK",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Project Management",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2022
+      },
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Senior Project Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2019
+      },
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Creative Project Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2017
+      },
+      "company": "Traverse Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Planner/Strategist",
+      "description": null,
+      "location": "Wellington & Wairarapa, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Traverse Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "Wellington & Wairarapa, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2016
+      },
+      "company": "Traverse Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Wellington & Wairarapa, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "Traverse Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Online Community Manager",
+      "description": null,
+      "location": "Wellington & Wairarapa, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2014
+      },
+      "company": "Intergen",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intergen",
+      "company_facebook_profile_url": null,
+      "title": "Marketing and Communications Assistant",
+      "description": "Wrote case studies based on client projects, using organisational CRM, assisted with administrative marketing requirements, collaborated with team members on content, design and event management.",
+      "location": "Wellington & Wairarapa, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/18e18c8cbf7c115e7d13262fc4fdd81e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2014
+      },
+      "company": "Victoria University of Wellington",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/victoria-university-of-wellington",
+      "company_facebook_profile_url": null,
+      "title": "Tutor",
+      "description": "Prepared tutorial sessions for four weekly classes. Lead discussion and answered questions regarding course content. Marked weekly assignments. Attended regular planning meetings.",
+      "location": "School of Information Management",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d3455dee0f9d483f20e83997ed003cd6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Volunteering New Zealand | Tūao Aotearoa",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/volunteering-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Communications Assistant",
+      "description": "Co-ordinated communications surrounding the National Volunteer Week 2014 campaign. Wrote articles and press releases, monitored and updated social media, constructed communication strategy plans. Organised advertising design and placement in national newspapers. Updated and maintained website content.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/60162db18fd6fef0c9fad6b56a24788a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Christchurch Girls' High School",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Examination Assistant",
+      "description": "Reader-writer for students who qualify for extra assistance, overseeing examinations and maintaining required standards for assessment.",
+      "location": "Canterbury & West Coast, New Zealand",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Majors: Media Studies, History. Minor: Information Systems",
+      "degree_name": "Bachelor of Arts (BA)",
+      "school": "Victoria University of Wellington",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/victoria-university-of-wellington",
+      "school_facebook_profile_url": null,
+      "description": "2013: Included on the Dean's List for Academic Excellence; Class Representative for MDIA221 Global Crises and the News 2014: Included on the Dean's List for Academic Excellence",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d3455dee0f9d483f20e83997ed003cd6",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Christchurch Girls' High School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "NCEA Levels 1, 2, 3 with Excellence",
+      "activities_and_societies": "Activities and Societies: Reader-Writer; Peer Support; Stage Challenge; Tutoring (French and Mathematics)"
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "LIMITED_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "ISACA Prize for INFO301 - Best Research Report (1st) 2014",
+      "issuer": "Information Systems Audit Control Association, Wellington (ISACA)",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "description": null
+    },
+    {
+      "title": "Included on the Dean's List for Academic Excellence",
+      "issuer": "Faculty of Humanities and Social Sciences, Victoria University of Wellington",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2014
+      },
+      "title": "National Volunteer Week",
+      "description": "Leadership of National Volunteer Week campaign across the community and voluntary sector. - Theme development and storytelling - Media pitching, case studies and media liaison - Social media and communications strategy, planning and implementation - Visual design brief development, design agency liaison and collateral distribution.",
+      "url": "http://www.volunteeringnz.org.nz/news-events/events/nationalvolunteerweek/"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Generative AI: Implications and Opportunities for Business",
+      "license_number": null,
+      "display_source": null,
+      "authority": "RMIT University",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "PRINCE2® 2017 Foundation",
+      "license_number": null,
+      "display_source": null,
+      "authority": "PeopleCert",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "name": "PRINCE2® 2017 Practitioner",
+      "license_number": null,
+      "display_source": null,
+      "authority": "PeopleCert",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lauracarycoleman",
+      "name": "Laura Harrison",
+      "summary": "Customer Success at Ironclad",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-bratt-intend-founder-digital-marketing-content",
+      "name": "Sophie Bratt",
+      "summary": "Social-First Marketing for Elevated Lifestyle Brands\n✦ Strategy → Shoot → Rollout ✦ Glow-Up Framework™ ✦ Ex Social Chain & McCann",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshmheaton",
+      "name": "Josh Heaton",
+      "summary": "Account Director at SLG Agency - Prolific North's Integrated Agency of the Year 2022 | Strategic integrated marketing for construction, manufacturing and technology",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annchristinebee",
+      "name": "Ann-Christine Bee-MacGregor",
+      "summary": "Social Media Manager at Manifest Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-adam-a3798a26",
+      "name": "Paola Adam",
+      "summary": "Business, Project & Admin Support",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fay-gadsby",
+      "name": "Fay Gadsby",
+      "summary": "Project Manager at Enterprise",
+      "location": "Calne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jazibnaeem",
+      "name": "Jazib Naeem",
+      "summary": "Senior TPM @ Supermetrics",
+      "location": "Uxbridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephdix",
+      "name": "Steph Dix",
+      "summary": "Project Management & Operations Lead, DDB Sydney 👩🏼💻 | B&T Women in Media ‘People’s Choice’ Winner ✨ | Project iV ‘Future Female Leaders’ Founder 💪🏼 | Sustainability + Conservation 🌎 | Human Shaped ✌🏼",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-adam-nee-mack-a3798a26",
+      "name": "Paola Adam (nee Mack)",
+      "summary": "Virtual Assistant, Admin & Event Industry Support",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lloyd-woodland-2171448",
+      "name": "Lloyd Woodland",
+      "summary": "Manger Vuture Services  | Digital | MarTech | SaaS | Email-Web-CRM | Project Management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sartoriusdigital",
+      "name": "Sara Sartorius",
+      "summary": "Chartered Marketer MCIM | Digital Marketing specialist",
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marta-bosello-31b71416",
+      "name": "Marta Bosello",
+      "summary": "Senior Project Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-sivewright-97018818",
+      "name": "Alex Sivewright",
+      "summary": "Principal Project Manager at Youwe | Agile Practitioner | PRINCE 2 Practitioner",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kuroshfarhadi",
+      "name": "Kurosh Farhadi",
+      "summary": "Senior Producer / Senior Project Manager / Account Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachael-snelson-49a8b728",
+      "name": "Rachael Snelson",
+      "summary": "Client Delivery Director | Digital Marketing and Branding Technology",
+      "location": "Chester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bastiengoubeaux",
+      "name": "Bastien Goubeaux",
+      "summary": "Strategic Programme & Customer Advocacy Manager | Building Scalable, Data-Driven Global Programmes, AI-Driven | Marketing, GTM & Cross-Functional Focus",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kamaljoshi1",
+      "name": "Kamal Joshi",
+      "summary": "Senior Project Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcin-michalowski-57a65a51",
+      "name": "Marcin Michalowski",
+      "summary": "Highly Skilled Project Management Professional",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexiamay",
+      "name": "Alexia May",
+      "summary": "Transforming Brands & Operations with AI-Powered Solutions",
+      "location": "Altrincham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelsie-leonard-81a5aa79",
+      "name": "Kelsie Leonard",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samantha-bui",
+      "name": "Samantha Bui",
+      "summary": "International Marketing at Nothing",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-kinga-zielinska-3a611813b",
+      "name": "Maria Kinga Zielinska",
+      "summary": "Narrative × Psychology × Global Dialogue | Media & Social Impact | Founder, FORMA Foundation",
+      "location": "Zurich"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Come and say hi at Adweek Europe this Thursday! You can find us on the Tech Stage at 3:40pm talking 'Fingers, Bums, Videogames' (and OOH). If that…",
+      "link": "https://www.linkedin.com/posts/melanie-blood_come-and-say-hi-at-adweek-europe-this-thursday-activity-7441799552669618176-bFeY",
+      "activity_status": null
+    },
+    {
+      "title": "Introducing our incredibly well-deserved Grand Prix winner of Ocean's DCC 2025: Dodge the Finger. This is the kind of campaign that makes creative…",
+      "link": "https://www.linkedin.com/posts/melanie-blood_introducing-our-incredibly-well-deserved-activity-7435754601838108672--e0Z",
+      "activity_status": null
+    },
+    {
+      "title": "It's such a thrill to see the Showcase finally out in the world! Expect the unexpected - we've custom-designed this epic new format to give brands…",
+      "link": "https://www.linkedin.com/posts/melanie-blood_its-such-a-thrill-to-see-the-showcase-finally-activity-7348754199867805696-dwaG",
+      "activity_status": null
+    },
+    {
+      "title": "I'm beyond excited to be MC'ing the Commerce Track at the inaugural SXSW London tomorrow! Come and join me at Rich Mix for a day of incredible panel…",
+      "link": "https://www.linkedin.com/posts/melanie-blood_sxswlondon-oceanlabs-theartofoutdoor-activity-7335402884919971840-Ow9C",
+      "activity_status": null
+    },
+    {
+      "title": "This is why The IMAX will always have a special place in my heart ⚡ Add even more drama to the UK and Europe's largest advertising banner, using only…",
+      "link": "https://www.linkedin.com/posts/melanie-blood_this-is-why-the-imax-will-always-have-a-special-activity-7196835524941172737-J-Os",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Melanie Blood",
+      "link": "https://www.linkedin.com/in/melanieblood",
+      "summary": "Interim Associate Provost for Assessment and Curriculum at SUNY Geneseo",
+      "location": "Geneseo, NY"
+    },
+    {
+      "name": "Melanie Blood",
+      "link": "https://uk.linkedin.com/in/melanie-blood-9831aa84",
+      "summary": "Director",
+      "location": "Leeds"
+    },
+    {
+      "name": "Melanie Pulla",
+      "link": "https://www.linkedin.com/in/melanie-pulla",
+      "summary": "Founder & CEO at Kalea Labs",
+      "location": "St Louis, MO"
+    },
+    {
+      "name": "Melanie Blood",
+      "link": "https://uk.linkedin.com/in/melanie-blood-8016bb100",
+      "summary": "Owner at Mrs B&#39;s",
+      "location": "Leeds"
+    },
+    {
+      "name": "Melanie Blood",
+      "link": "https://www.linkedin.com/in/melanie-blood-b80567161",
+      "summary": "Associate Underwriter",
+      "location": "Detroit Metropolitan Area"
+    },
+    {
+      "name": "Melanie Blood",
+      "link": "https://www.linkedin.com/in/melanie-blood-0563222a7",
+      "summary": "--",
+      "location": "Holyoke, MA"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-15T00:00:00Z"
+  }
+}

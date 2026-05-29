@@ -1,0 +1,725 @@
+{
+  "public_identifier": "adrianpourchet",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Adrian",
+  "last_name": "Pourchet",
+  "full_name": "Adrian Pourchet",
+  "follower_count": 1408,
+  "occupation": "Head of Growth & Client Services at Anima",
+  "headline": null,
+  "summary": "Senior commercial leader with 15+ years of experience driving growth, profitability, and…",
+  "location_str": "Madrid, Community of Madrid, Spain",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Anima",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/anima-advertising",
+      "company_facebook_profile_url": null,
+      "title": "Head of Growth & Client Services",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a32a79e61cc8b40e27ae9adae8be4603"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2025
+      },
+      "company": "Anima",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/anima-advertising",
+      "company_facebook_profile_url": null,
+      "title": "Head of Growth",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a32a79e61cc8b40e27ae9adae8be4603"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "company": "Havas Media Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "Director of Operations - Havas International Spain",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "Havas Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "Managing Partner @Havas International Spain",
+      "description": null,
+      "location": "Madrid, Community of Madrid, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "Havas Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "Director of Havas Media International Spain",
+      "description": null,
+      "location": "Barcelona, Catalonia, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "company": "Havas Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "International Media Director @Havas Media International Spain",
+      "description": null,
+      "location": "Barcelona, Catalonia, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2013
+      },
+      "company": "Havas Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "Global Development Manager",
+      "description": null,
+      "location": "Région de Barcelone, Espagne",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "Havas Media International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "Regional Coordinator - HM International/HM Africa",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2010
+      },
+      "company": "DHL",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dhl",
+      "company_facebook_profile_url": null,
+      "title": "Account Executive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/629d894ac74cbee1ee366e8eb487165b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2009
+      },
+      "company": "Havas Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/havas-media-network",
+      "company_facebook_profile_url": null,
+      "title": "International Account Executive @Havas Media International France",
+      "description": null,
+      "location": "Puteaux, Île-de-France, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0c8945c67d6d47891fa5d7a0f73404be"
+    }
+  ],
+  "education": [],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "German",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1396,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jcpetit",
+      "name": "Jean-christophe Petit",
+      "summary": "Founder Foamball Holding, managing partner Yeesshh",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suarezmartell",
+      "name": "Carlos Suárez Martell",
+      "summary": "Socio Director en iPg",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albertmiquel",
+      "name": "Albert Miquel",
+      "summary": "Managing Partner at RPS - RPSolutions",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jantmartinez",
+      "name": "Juan Antonio Martínez",
+      "summary": "Head of Marketing Science @ GroupM | Transforming Businesses through Technology & Data",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albabarrera",
+      "name": "Alba Barrera Martín",
+      "summary": "Creative Strategist",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandezmayte",
+      "name": "Mayte Fernandez",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaimetrillomarketing",
+      "name": "Jaime Trillo de Martín-Pinillos",
+      "summary": "Media & Communications Strategy I Digital Marketing I Global & Local Accounts Leadership",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albajimenezsevilla",
+      "name": "Alba Jiménez Sevilla",
+      "summary": "Fundador en holalá",
+      "location": "Seville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boccherini",
+      "name": "Juan Boccherini",
+      "summary": "Revenue Growth | Market Expansion | Marketing & Sales Director | Europe & Latin America",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeanlouismoine",
+      "name": "Jean-Louis Moine",
+      "summary": "Global Product Director",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noellaneffati",
+      "name": "Noëlla Neffati",
+      "summary": "Co-Founder @ Human Humans, Account Director and Partner @ Victor & Simon",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aitanamauleon",
+      "name": "Aitana Mauleón",
+      "summary": "Executive Assistant en Havas Media Group",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/latayl",
+      "name": "Lawrence Taylor",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isselequentin",
+      "name": "Quentin Isselé",
+      "summary": "Data Scientist at TikTok Global",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carloscruzmarzo",
+      "name": "Carlos Cruz Marzo",
+      "summary": "Senior Advisor @ Q-Impact | Venture Capital, Impact Investing, Corporate Venture Capital, Venture Studio, Fundraising",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariajoseleiva",
+      "name": "Maria José Leiva",
+      "summary": "Marketing Manager",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedrodiasrocha",
+      "name": "Pedro Rocha",
+      "summary": "Assistant administraif",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-perez-de-guzman-a40b80b",
+      "name": "Manuel Pérez De Guzmán",
+      "summary": "Co-founder & Managing Partner at MAD RETAIL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/affiliate-marketing-experte",
+      "name": "Nawid Company",
+      "summary": "Affiliate Marketing Experte I mehr Umsatz für deinen Ecommerce Shop I Affiliate Marketing Speaker / Host 🎤",
+      "location": "Palma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nachocarrascal",
+      "name": "Ignacio Carrascal",
+      "summary": "Founder & CEO TuMedio Spain & Portugal",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jserrac",
+      "name": "Jordi Serra",
+      "summary": "Founding partner at Ubiqua & 123Compare.me| TravelTech, Hospitality Marketing and Advertising  | Passionate entrepreneur",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-criveanu-marketing",
+      "name": "Paul Criveanu",
+      "summary": "Managing Partner Strategy & Brand Development at AFG Europe",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luna-p%25C3%25A9rez-basterra-09292573",
+      "name": "Luna Pérez Basterra",
+      "summary": "Production Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/niek-slootweg-369463259",
+      "name": "Niek Slootweg",
+      "summary": null,
+      "location": "Zwolle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alba-benitez-social-media-estrategia",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexbarriosmat%25C3%25A9",
+      "name": "Alex Barrios Mate",
+      "summary": "Programmatic Specialist en ElTiempo.es",
+      "location": "Pozuelo de Alarcón"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aidamorenocab",
+      "name": "Aida Moreno",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-perez-de-guzman-asensi-a40b80b",
+      "name": "Manuel Perez de Guzman Asensi",
+      "summary": "Co-founder & Managing Partner at MAD RETAIL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-cort%25C3%25A9s-l%25C3%25A1zaro-5b7522185",
+      "name": "JAVIER CORTÉS LÁZARO",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andresvsovik",
+      "name": "Andrés Valdivia Søvik",
+      "summary": null,
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-alonso-benito",
+      "name": "Alberto Alonso Benito",
+      "summary": "Advanced Tv  | GroupM (Finecast)  |  WPP Media",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aitor-duran-b9227132",
+      "name": "Aitor Duran",
+      "summary": "Database Engineer",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/slavena-vasileva",
+      "name": "Slavena Vasileva",
+      "summary": "Brand Strategist and co-founder @ Dtail Studio",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-j-jim%25C3%25A9nez-santana-714424108",
+      "name": "ALBERTO J. JIMÉNEZ SANTANA",
+      "summary": "Consultor/Técnico de formación en Adecco Learning & Consulting",
+      "location": "Las Palmas de Gran Canaria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-mart%25C3%25ADn-garc%25C3%25ADa-58839822",
+      "name": "Rafael Martín García",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-pablo-del-monte-%25C3%25A1lvarez-34a7683a",
+      "name": "Juan Pablo del Monte Álvarez",
+      "summary": "Programmatic & Adops",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maitepresencia",
+      "name": "Maite Presencia Fandos",
+      "summary": "CSM Team Leader at RealAdvisor",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriana-herrera-1092611",
+      "name": "Adriana Herrera",
+      "summary": "Chief Marketing Officer at REVEAL GENOMICS, S.L.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-aflalo-9385346",
+      "name": "Michael AFLALO",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-taylor-39037b7",
+      "name": "Daniel Taylor",
+      "summary": "Managing Partner AFG Europe and McCann WorldGroup",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adolfo-aladro-129201a",
+      "name": "Adolfo Aladro",
+      "summary": "Director General en Adglow",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abel-jaime-lopez-17829816",
+      "name": "Abel Jaime Lopez",
+      "summary": "Client Managing Director || WPP Media Spain || Country Lead II EssenceMediaCom Spain II",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferran-juan%25c3%25ad-solans-16441217",
+      "name": "FERRAN JUANÍ SOLANS",
+      "summary": "MANAGING DIRECTOR",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/slavenav",
+      "name": "Slavena Vasileva",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-dominguez-parra",
+      "name": "Gabriela Dominguez Parra",
+      "summary": "Global Brand & Partnerships Leader | Driving brand relevance and business growth through strategy, content and integrated marketing | +25 markets",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valerie-bellamy-86530718",
+      "name": "Valerie BELLAMY",
+      "summary": "Consultante Media | Achat & Recommandation d’Espaces Publicitaires | Presse & Digital | France & Monde",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-de-lasarte-ezquerra-44b68618",
+      "name": "Alberto de Lasarte Ezquerra",
+      "summary": "Socio fundador en GESCOM, S.L.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoine-choueiry",
+      "name": "Charity Howard",
+      "summary": null,
+      "location": "Dallas–Fort Worth metroplex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aur%25C3%25A9lie-tatard-04616620",
+      "name": "Aurélie Tatard",
+      "summary": "Executive Director Global Investments  - Havas Group",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-alvarez-ezquerra-97209324",
+      "name": "Alberto Alvarez Ezquerra",
+      "summary": "Manager CRM. Desarrollo de Negocio, Procesos y estrategia",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agustina-barruti-kehoe-wilson-08718426",
+      "name": "Agustina Barruti Kehoe Wilson",
+      "summary": "Creativity Management- Client Services Director",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alon-ash",
+      "name": "Alon Ash",
+      "summary": "Digital Marketing Specialist | Ex-Facebook  Team Lead | AI-Trainer I Creative Strategist I Market Fit I Go to Market I Human Operating System Specialist",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-kerr-9b853437",
+      "name": "Jonathan Kerr",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-hazell-5231b73a",
+      "name": "Andrew Hazell",
+      "summary": "Partner, Dédalo Comunicación, S.A.",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agueda-perez-7a073349",
+      "name": "Agueda Perez",
+      "summary": "Procurement Specialist",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alfonso-s%25C3%25A3%25C2%25A1nchez-soto-034a1a4a",
+      "name": "Alfonso Sánchez Soto",
+      "summary": "Software & Cloud Solution Architect en Havas Media Group",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-clemente-75765153",
+      "name": "Barbara Clemente",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/val%25C3%25A9ria-gauer-a7b05b54",
+      "name": "Valéria Gauer",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-marije-steegstra-893b6859",
+      "name": "Anne Marije Steegstra",
+      "summary": "Collectiebeheerder bij Van Gogh Museum",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javieralexandre",
+      "name": "Javier Alexandre Hierro",
+      "summary": "Head of Strategy & Digital Business at Coyote Reserva Creativa │ New Business Development │ Strategy | Social Media | Professor skilled in Digital & Transmedia",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raquel-ortega-26215665",
+      "name": "Raquel Ortega",
+      "summary": "Senior Research en Havas Media",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-monjibar-21045094",
+      "name": "Ricardo Monjibar",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrien-pourcher-a074299a",
+      "name": "Adrien POURCHER",
+      "summary": "Cuisinier",
+      "location": "Lyon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amandeep-singh-0625179b",
+      "name": "Amandeep Singh",
+      "summary": "Area Category Specialist at Chef Middle East",
+      "location": "Doha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-aguilar-ramos-799576a2",
+      "name": "Daniel Aguilar Ramos",
+      "summary": "Change Management Specialist",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gonzalo-alfonso-carmena",
+      "name": "Gonzalo Alfonso Carmena",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/a-tkach",
+      "name": "Andriy Tkachenko",
+      "summary": "Data Scientist",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrien-pourcher-portalier-332660104",
+      "name": "Adrien Pourcher-Portalier",
+      "summary": "Développeur - Dépployeur chez CGI",
+      "location": "Clermont-Ferrand"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanesa-prieto-alonso-385879106",
+      "name": "Vanesa Prieto Alonso",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clara-truncal-17bb41107",
+      "name": "Clara Truncal",
+      "summary": "Account Executive at Interpublic Group (IPG)",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bas-bosma-65326110b",
+      "name": "Bas Bosma",
+      "summary": "Software Engineer",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edu-calvo-24489b14a",
+      "name": "Edu Calvo",
+      "summary": "Responsable de negociación audio en Havas Media Group",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/akachukwu-emmanuel-84b78b153",
+      "name": "Akachukwu Emmanuel",
+      "summary": "Entrepreneur In Residence at ALLIANCE IN MOTION GLOBAL (aka AIMGlobal)",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophe-morel-080634155",
+      "name": "Christophe Morel",
+      "summary": "Chef de projet Quantix chez Harvest Groupe",
+      "location": "Combronde"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wouter-yntema-548647155",
+      "name": "Wouter Yntema",
+      "summary": "Stylized 3D Environment Artist. Bringing games to life!",
+      "location": "Leeuwarden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-fofie-66b0221a1",
+      "name": "Kevin Fofie",
+      "summary": null,
+      "location": "Nantes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willemien-smits-0248a41b1",
+      "name": "Willemien Smits",
+      "summary": "Marketingmedewerker bij Oostwoud International",
+      "location": "Sexbierum"
+    }
+  ],
+  "recommendations": [
+    "Juan Antonio Sánchez Aguado\n\nAdrian es un magnífico profesional, con una gran experiencia y capacidad de trabajo.Trabajar en proyectos comunes es una garantía de éxito.Adrian is a magnificent professional, with great experience and work capacity.Working on common projects is a guarantee of success.",
+    "FERRAN JUANÍ SOLANS\n\nAdrian is a great professional and great person.I have been working in the last 7 years hand in hand with him at Havas International.He is a great team player, with strong management skills and commitment.Always supportive, a leading player in the successes achieved together on this journey.Please, write to me directly in case anyone needs further references."
+  ],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-02-21T00:00:00Z"
+  }
+}

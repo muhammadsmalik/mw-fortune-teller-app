@@ -1,0 +1,594 @@
+{
+  "public_identifier": "elizabethmcintyre15",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Elizabeth",
+  "last_name": "McIntyre",
+  "full_name": "Elizabeth McIntyre",
+  "follower_count": 3274,
+  "occupation": "Chief Executive Officer at Outdoor Media Association",
+  "headline": null,
+  "summary": null,
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Outdoor Media Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oma-australia",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "🚏 In my role as CEO, I’ve championed several high-impact, cross-industry projects designed to amplify the Out of Home channel’s value and societal contribution. Most notably, a Deloitte Access Economics study in 2024 was commissioned that quantified Out-of-Home’s direct contribution to the Australian economy—$1.3 billion annually—and the management of over 21,500 public infrastructure assets valued at more than $650 million. 🚊This research underpins our case in government and regulatory forums, reinforcing Out of Home’s role as a vital funder of public amenities and services. 🌱 In 2024 the OMA Creative Awards Lunch were established, a premier industry program recognizing excellence in outdoor and out of home campaign innovation and creativity—bringing together Executive Creative Directors and Chief Marketing Officers to celebrate standout creativity in out of home  and foster professional collaboration. 🥦 Under my leadership, OMA has scaled its Healthy Eating Campaigns into a sustained national movement. The 2025 iteration, “Fresh veg, deliciously affordable”, developed with Health and Wellbeing Queensland and AUSVEG, delivered $10.6million in donated media value and reached over 9.8million Australians. 🌽 A post-campaign survey found impressive behavioural outcomes: 92% of parents were encouraged to include vegetables in meals, and 80% reported motivation to make healthier dietary choices. 💪 This initiative demonstrates the power of public–private collaboration in achieving measurable public health impact.",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/142fc11354068c8ee01d651237eec786"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Measurement Outdoor Media & Exposure - MOVE",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "MOVE2 an updated audience measurement platform that delivers the most advanced understanding of how audiences interact with out of home. MOVE builds on its predecessor with data insights that will capture hourly data across more than 100,000 digital and classic OOH locations nationwide. This will redefine how advertisers measure reach and effectiveness across urban, regional, and place-based environments—365 days a year.",
+      "location": "Greater Sydney Area",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": null,
+      "degree_name": "Leading and Building a Culture of Innovation",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9550dd31e1b71782045956142df4ed0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": "Authentic Leadership Development",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9550dd31e1b71782045956142df4ed0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Masters of International Business",
+      "degree_name": "Master’s Degree",
+      "school": "Macquarie University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/macquarie-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c278984d1f8b8c7c4ca1807ef4109b2a",
+      "grade": "Distinction Average",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": null,
+      "degree_name": "Graduate",
+      "school": "Australian Institute of Company Directors",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/australianinstituteofcompanydirectors",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a68c22c922d7e434097193b769ed0a44",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Business, Management, Marketing, and Related Support Services",
+      "degree_name": "Bachelor’s Degree",
+      "school": "University of Technology Sydney",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-technology-sydney",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c22f269164f15a469b395a4e9fb616fb",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 3026,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/bobgillroywebpage",
+      "name": "Bob Gillroy",
+      "summary": "Importing Exporting and Construction",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sfosteraus",
+      "name": "Scott Foster",
+      "summary": "CEO | APAC & ANZ Growth, Transformation and Value Creation | M&A, Turnarounds | Industrial, Building Distribution & Manufacturing | Public, Private & PE",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruce-nicholson-gaicd-7a593214",
+      "name": "Bruce Nicholson GAICD",
+      "summary": "ASX CEO and Managing Director I Non Executive Director",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramziabboud70",
+      "name": "Ramzi Abboud",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lockwoodadvisory",
+      "name": "Nicole Lockwood",
+      "summary": "Chair at Infrastructure WA",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sfoster4",
+      "name": "Scott Foster",
+      "summary": "Managing Director - Polyflor Asia Pacific",
+      "location": "Berwick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-klug-am-32002419",
+      "name": "Ian Klug AM",
+      "summary": "Chairman",
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andres-caffaro-rossi-b825421",
+      "name": "Andres Caffaro Rossi",
+      "summary": "Director at acrbw / LPad3 /others",
+      "location": "Glen Iris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deb-lavis-46432611",
+      "name": "Deb Lavis",
+      "summary": "Former Owner, Creator and Managing Director Eco Tile Factory",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-bej-01356014",
+      "name": "George Bej",
+      "summary": "Executive Director at Strativity Group",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruce-nicholson-7a593214",
+      "name": "Bruce Nicholson",
+      "summary": "Chief Executive Officer and Managing Director at Fleetwood",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-neven-44b35718",
+      "name": "Brad Neven",
+      "summary": "Executive Manager at JRT Group of Companies",
+      "location": "Rockhampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-kelly-99b5b819",
+      "name": "James Kelly",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abbottbill",
+      "name": "Bill Abbott",
+      "summary": "Civil Contracting, Construction Materials, Building Materials, Heavy Equipment",
+      "location": "Hobart"
+    },
+    {
+      "link": "https://www.linkedin.com/in/des-lawson-186a7324",
+      "name": "Des Lawson",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brod-marsh-018b0427",
+      "name": "Brod Marsh",
+      "summary": "Director at Robohand Australia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-toon-4613bb37",
+      "name": "Beth Toon",
+      "summary": "Chief Executive Officer at Place Design Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-thomas-93206b40",
+      "name": "Michael Thomas",
+      "summary": "Queensland Regional Sales Manager and International Sales (Siniat) at Etex",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hari-poologasundram-36388446",
+      "name": "Hari Poologasundram",
+      "summary": "Former CEO at SMEC | Surbana Jurong Group, Energy + Infrastructure Chief Executive",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolehayes2",
+      "name": "Nicole Hayes",
+      "summary": "Chief Executive Officer at Northern Queensland Legacy",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davina-rooney-33147b6a",
+      "name": "Davina Rooney",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glenn-johnston-01734576",
+      "name": "Glenn Johnston",
+      "summary": "Managing Director at Stockwell's Joinery Pty Ltd",
+      "location": "Sydney"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "💚 The best time with Laura Halbert Halbert who bought her courage and energy to film Outdoor Media Association first episode of #outhere 🙏🙏…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_out-there-episode-1-activity-7462014013309304833-v4e2",
+      "activity_status": null
+    },
+    {
+      "title": "I’m always excited about creativity and especially how it is used in the #outofhome medium. Outdoor Media Association has been proud of our…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-activity-7452263257626738688-yTiS",
+      "activity_status": null
+    },
+    {
+      "title": "🚍couldn’t have said it better myself “you can’t look away from a bus”- or a bus stop for that matter 💚 🗞️great commentary in the The Australian…",
+      "link": "https://www.linkedin.com/posts/activity-7443068366476439552-wNtd",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Outdoor Media Association member enthusiasm about the launch of #MOVE is so energizing - it was so fun for me to talk about how data will make a…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_move-outofhome-activity-7442320047521497088-nJUe",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Flashback to this time last week where I was on top of the world and outdoors with the 2025 Outdoor Media Association Creative Awards jury! We…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_flashback-to-this-time-last-week-where-activity-7439921942024941569-fBqC",
+      "activity_status": null
+    },
+    {
+      "title": "💚MOVE NOW LIVE I will admit that this has been a long time coming. 🟢I was too nervous to post before Monday so as not to jinx it! ✅It’s been a…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outdoorfuturescouncil-move-golive-activity-7437367686977851393-6qqM",
+      "activity_status": null
+    },
+    {
+      "title": "🚍Last week I was privileged to attend the “Wuthering Heights” premier celebration the lead up of which dominated the city with #outofhome placement…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-margorobbie-outofhome-activity-7428608596017553408-u4a3",
+      "activity_status": null
+    },
+    {
+      "title": "🙋♀️I am sure many of you have greeted this week back into the swing of returning to work and for those of us with children back to school. The…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-boostyourhealthy-eatmoreveg-activity-7424307151466135552-0EeI",
+      "activity_status": null
+    },
+    {
+      "title": "This week has seen a huge announcement for the industry with MOVE set to Go Live with data on the 9th March 2026 of which I am proud to lead.…",
+      "link": "https://www.linkedin.com/posts/activity-7419901999409864704-HryJ",
+      "activity_status": null
+    },
+    {
+      "title": "💥👇outstanding medium that delivers for brands and their audiences 💪 #outdooradvertising #outofhomeadvertising",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outdooradvertising-outofhomeadvertising-activity-7383737316915232769-xxgH",
+      "activity_status": null
+    },
+    {
+      "title": "📣very excited about Media Federation of Australia #MFAEx tomorrow - 18th September at Randwick Racecourse ✅make sure you come and visit Outdoor…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_mfaex-outstanding-wearethechangers-activity-7373908655802363904-nTt2",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Wow this has been very popular and thanks to VMO we have had plenty of winners for the #outofhome experience.. ✅ 2nd chance draw means you could…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-outdooradvertising-mfaex2025-activity-7369190485900341270-SvSu",
+      "activity_status": null
+    },
+    {
+      "title": "💛 I have loved being part and judging campaigns as part of the #effieawards journey and the in person judging for Round 2. 💚Enjoyed the debate…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_effieawards-activity-7363741713208639488-XxOu",
+      "activity_status": null
+    },
+    {
+      "title": "#outofhome sure is 👇",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-activity-7350797650402689025-Pdlu",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Katrin A. Robertson excited to represent our region and continue to empower the next generation of World Out of Home Organization women leaders!",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_katrin-a-robertson-excited-to-represent-activity-7353198393348837377-XuHg",
+      "activity_status": null
+    },
+    {
+      "title": "💚Thanks for the shout out IMAA - Independent Media Agencies Australia, I am throughly enjoying the program, nearly 6 months in! 💚As it happens you…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_elizabeth-mcintyre-on-importance-of-networking-activity-7351122190857064448-Z5QR",
+      "activity_status": null
+    },
+    {
+      "title": "When I first began with Outdoor Media Association the industry had several government regulatory challenges, our Government Relations Committee was…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_when-i-first-began-with-outdoor-media-association-activity-7343515125720502272-GIZp",
+      "activity_status": null
+    },
+    {
+      "title": "⚫️Day 2 of the World Out of Home Organization conference and very proud to present key statistics from MOVE to the conference. 🟢Outdoor Media…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_move-outofhomeadvertising-move-activity-7337289769959202818-GowR",
+      "activity_status": null
+    },
+    {
+      "title": "⚫️Day 1 of World Out of Home Organization Annual conference in #mexico. 🟢Like our medium, the stage is huge and impactful! ⚪️Interesting…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_mexico-womeninwoo-move-activity-7336491215690878976-7KRD",
+      "activity_status": null
+    },
+    {
+      "title": "Wise words from #kittyflanagan last night at the Women In Media Australia dinner: ✅Nothing you do is wasted (effort and experience) 💚Feedback ratio…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_kittyflanagan-pennyflanagan-womensupportingwomen-activity-7333608832708841473-5YO1",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Honoured this morning to give the vote of thanks to #AriarneTitmus OAM ambassador for #AustralianMadeWeek 💛Ariane’s enthusiasm for being a proud…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_ariarnetitmus-australianmadeweek-australianmadeweek-activity-7331610842066538497-yq0v",
+      "activity_status": null
+    },
+    {
+      "title": "🙋♀️Did you know that the Out of Home industry is the first and only medium in Australia with an occasional food and drink advertising policy? 🥗The…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-activity-7330114129170444288-uqMY",
+      "activity_status": null
+    },
+    {
+      "title": "🚶♀️Out of Home is everywhere and without it life would look very different. What many don’t realise is the vital role #OOH plays in our communities:…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_ooh-activity-7323198868450377728-ldwh",
+      "activity_status": null
+    },
+    {
+      "title": "💚Thanks for amplifying the message AdNews Australia - OMA’s members collectively reach 97% of Australians weekly 🙌",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_move-study-reveals-outdoor-media-reaches-activity-7326144147608743936-ykrb",
+      "activity_status": null
+    },
+    {
+      "title": "💚Industry highlight last night with our annual OMA Awards 🙌Recognition from your peers is very special and congratulations to all our fabulous…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_industry-highlight-last-night-with-our-activity-7326376482123960320-aOYJ",
+      "activity_status": null
+    },
+    {
+      "title": "I really enjoyed judging some of the sophisticated creative design concepts submitted for the #cairnshatchlings category for #outofhomeadvertsing.…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_cairnshatchlings-outofhomeadvertsing-outdooradvertising-activity-7321040028787232771-V2mr",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud to be part of an industry that recognizes the contribution of the ANZAC legend. Military has a long history in my family with both my…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_very-proud-to-be-part-of-an-industry-that-activity-7321318019232665600-6cuw",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for the interview Mumbrella “As other mediums are fragmenting, we are only getting stronger.” 👇🏻 Outdoor Media Association 💚",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_out-of-home-bucks-advertising-downturn-activity-7317804011217170433-wOlU",
+      "activity_status": null
+    },
+    {
+      "title": "What a day! A huge thank you to the 20 incredible senior creatives, marketers and media leaders who joined us for the first judging day of the new…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_omacreativeawards-judging-outdoorcreativity-activity-7310796510252675073-pQqq",
+      "activity_status": null
+    },
+    {
+      "title": "🍀 Wishing all the talented AWARD School students good luck today as they tackle their very first brief for Outdoor/Billboard - proudly sponsored by…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_awardschool-outdooradvertising-creativityfirst-activity-7309709176769761280-cgLn",
+      "activity_status": null
+    },
+    {
+      "title": "I am so excited about the Outdoor Media Association Creative Awards - I love amplifying creativity and especially seeing impactful creative across…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_canneslions2025-activity-7291974563758751744-DPJf",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for the acknowledgment Adenium - looking forward to sharing more on #MOVE Outdoor Media Association Great to be part of IMAA - Independent…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_move-activity-7297800339829706753-TIvF",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to see this year’s Fresh veg, deliciously affordable campaign roll out across outdoor assets, in collaboration with Health and Wellbeing…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_eatmoreveg-boostyourhealthy-freshvegdeliciouslyaffordable-activity-7290486909628297217-k9tK",
+      "activity_status": null
+    },
+    {
+      "title": "Outdoor Media Association is so proud to support emerging creatives - I loved the simplicity of Sarah Cassell work, the emotional connection and the…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outdoor-media-association-is-so-proud-to-activity-7231801649604796416-uWEv",
+      "activity_status": null
+    },
+    {
+      "title": "Loving seeing the amazing campaigns come to life in #outdooradvertising #outofhome #mfaawards Outdoor Media Association #awards #advertising #judges…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outdooradvertising-outofhome-mfaawards-activity-7199288551740510208-BtjT",
+      "activity_status": null
+    },
+    {
+      "title": "oOh! Beautifully presented #outofhome initiatives from one our largest Outdoor Media Association members. Congratulations Cathy O'Connor Robbie Dery…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_outofhome-activity-7123119955646054400-mzUU",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to our architectural #mavericks that showcase masonry and roof tiles in contemporary architectural design .. https://lnkd.in/gw35sWqY Think…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_so-long-minimalism-and-white-walls-the-humble-activity-6964425382192197632-7ZNw",
+      "activity_status": null
+    },
+    {
+      "title": "#iwd2022 #breakingthebias I remember when I first started at Ford Motorsport, an external team had been pulled together to leverage the sponsorship…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_iwd2022-breakingthebias-iwd-activity-6906847689049305088-bfgN",
+      "activity_status": null
+    },
+    {
+      "title": "Keanu’s post was a humbling one to read, our key mission at Think Brick Australia is to develop talent and I am sharing Keanu’s experience because it…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_youngengineers-engineers-highperformingteams-activity-6944447471552978944-n4Si",
+      "activity_status": null
+    },
+    {
+      "title": "Here's a deep dive into some of my favourite topics: Eclectic track records, creative partnership and victory through tenacity! I join @Greg Layton…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_theinnerchiefpodcast-activity-6778148115951230976-W6rP",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://uk.linkedin.com/in/elizabeth-mcintyre-4a50a617b",
+      "summary": "Curator & Consultant, Screen Industries & Research cross-sector collaboration (conference & exhibition)",
+      "location": "London"
+    },
+    {
+      "name": "Elizabeth M.",
+      "link": "https://www.linkedin.com/in/elizabethmcintyreriley",
+      "summary": "-",
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://www.linkedin.com/in/elizabeth-mcintyre-86374328",
+      "summary": "Executive Editor at Crain's Cleveland Business",
+      "location": "Rocky River, OH"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://ca.linkedin.com/in/liz-mcintyre",
+      "summary": "Arbitrator/Mediator at McIntyre Dispute Resolution Services",
+      "location": "Greater Toronto Area, Canada"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://www.linkedin.com/in/elizabeth--mcintyre",
+      "summary": "Materials Science and Engineering Student, Lean Six Sigma Green Belt Certified",
+      "location": "Saratoga Springs, NY"
+    },
+    {
+      "name": "Elizabeth M.",
+      "link": "https://www.linkedin.com/in/elizabethmcintyre16",
+      "summary": null,
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://au.linkedin.com/in/elizabeth-mcintyre-a660869a",
+      "summary": "Deputy Manager of Nutrition and Dietetics",
+      "location": "Greater Melbourne Area"
+    },
+    {
+      "name": "Elizabeth Goh-McIntyre",
+      "link": "https://au.linkedin.com/in/elizabeth-goh-mcintyre-4b8684a",
+      "summary": "Principal Civil Engineer at Stantec",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://au.linkedin.com/in/elizabeth-mcintyre-6573579a",
+      "summary": "Finance officer at UMS Pty Ltd",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://au.linkedin.com/in/elizabeth-mcintyre-65577448",
+      "summary": "--",
+      "location": "Australia"
+    },
+    {
+      "name": "Elizabeth M.",
+      "link": "https://au.linkedin.com/in/elizabeth-m-a490b59b",
+      "summary": "Accounting Professional",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Elizabeth McIntyre",
+      "link": "https://au.linkedin.com/in/elizabeth-mcintyre-b4790229",
+      "summary": "Registered Nurse Division 1",
+      "location": "Greater Melbourne Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-22T00:00:00Z"
+  }
+}

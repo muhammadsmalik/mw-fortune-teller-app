@@ -1,0 +1,975 @@
+{
+  "public_identifier": "camille-andrews-2790361b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6c96d8824bdde3b99efe37545e56710f",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C4D16AQHiLk4ifiYIxQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1644592537202?e=2147483647&v=beta&t=9dxuDPeUSBCK2JBk2YQgRGzIy0whZfrf8qPwkHgMc5E",
+  "first_name": "Camille",
+  "last_name": "Andrews",
+  "full_name": "Camille Andrews",
+  "follower_count": 860,
+  "occupation": "Head of Media Sales at London City Airport",
+  "headline": "Head of Media Sales at London City Airport",
+  "summary": null,
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "London City Airport",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/london-city-airport",
+      "company_facebook_profile_url": null,
+      "title": "Head of Media Sales",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fbd71a35f919ce9afa6ce7d5c76824ae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "London City Airport",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/london-city-airport",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": null,
+      "location": "London City Airport",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fbd71a35f919ce9afa6ce7d5c76824ae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "London City Airport",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/london-city-airport",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fbd71a35f919ce9afa6ce7d5c76824ae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2011
+      },
+      "company": "newbury sound",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/newbury-sound",
+      "company_facebook_profile_url": null,
+      "title": "Senior Agency Account Manager",
+      "description": null,
+      "location": "Newbury",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2009
+      },
+      "company": "Kick FM (Tindle Radio Group)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Advertising, Design and Print Production",
+      "degree_name": null,
+      "school": "Reading College of Art",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Art & Design",
+      "degree_name": "Foundation Studies in Art & Design",
+      "school": "Newbury College Berkshire",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "University Entry",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "John O Gaunt School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "A Levels - English, Art & Design, French",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "title": "Animal Welfare Officer",
+      "cause": "Animal Welfare",
+      "company": "Dog and Cat Rescue Samui Foundation",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Foster Carer",
+      "cause": "ANIMAL_RIGHTS",
+      "company": "Dog and Cat Rescue Samui Foundation",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 849,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/irladunkley",
+      "name": "Irla Dunkley",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcpearce",
+      "name": "Marc Pearce",
+      "summary": "Seeking New Role: Marketing Leader | Expert in Brand Strategy, Digital Transformation & Growth | Proven B2B & B2C Success | Dip DigM",
+      "location": "Doncaster"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danieljcain",
+      "name": "Daniel Cain",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/squarepegmedia",
+      "name": "Douglas Mayo",
+      "summary": "Sales Executive at Square Peg Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josie-ballard",
+      "name": "Josie Ballard",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohit-marwaha",
+      "name": "Rohit Marwaha",
+      "summary": "Site Operations Engineer at Mimecast",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaakkoleino",
+      "name": "Jaakko Leino",
+      "summary": "Logistics and Supply Chain | Customer Experience | Process Development",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/veravalota",
+      "name": "Vera Valota (She/Her)",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayleyleeson",
+      "name": "Hayley Leeson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/omarahmedfazal",
+      "name": "Omar Ahmed Fazal",
+      "summary": "Finance Professional Delivering Growth Through Financial Modelling, Process Restructuring & Cost Optimisation | FP&A | Budgeting & Forecasting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miaoneill",
+      "name": "Mia O'Neill",
+      "summary": "Head of Marketing & Commercial Strategy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-e-0636a683",
+      "name": "John E.",
+      "summary": "Account Manager - Cobal Sign Systems",
+      "location": "Abingdon-on-Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marina-caffrey-bb439866",
+      "name": "Marina Caffrey",
+      "summary": "Specialist Teacher (Dyslexia) at Wimbledon College",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-b-4a327867",
+      "name": "Lucy B.",
+      "summary": "Head Of Account Management at CPB UK Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cendrine-i-margaux-decker-72209a61",
+      "name": "Cendrine I. Margaux Decker",
+      "summary": "Zahnärztin",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-smith-a8320756",
+      "name": "Beth Smith",
+      "summary": "Senior Customer Success Manager at Deel",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-d-a1896836",
+      "name": "Kate D.",
+      "summary": null,
+      "location": "Market Harborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anwar-hussain-b5676172",
+      "name": "Anwar Hussain",
+      "summary": "*",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samantha-palmer-aa01a121",
+      "name": "Samantha Palmer",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-g%25C3%25BCnther-schwarz-1928194",
+      "name": "Hans-Günther Schwarz",
+      "summary": "retired, formerly at BMK - Austrian Federal Ministry for Climate Action",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/moyosoreaodukoya",
+      "name": "Moyosore Odukoya",
+      "summary": null,
+      "location": "Greenwich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bridget-foley-39b53b6",
+      "name": "Bridget Foley",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemma-drewett-5b20a2a",
+      "name": "Gemma Drewett",
+      "summary": "Senior Account Manager at JACKfm, JACK 2 Hits, JACK 3 Chill, creating bespoke campaigns that deliver.",
+      "location": "Oxford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremy-coopman-540b07a",
+      "name": "Jeremy Coopman",
+      "summary": "International Media Sales at SR Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivier-thierry-chabot-018052b",
+      "name": "Olivier-Thierry Chabot",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-claire-turner-1bb0a51a",
+      "name": "Sophie-Claire Turner",
+      "summary": "Co-Founder, Prima Materia / Climate Innovation / On Purpose Fellow / Mentor / Trustee",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-evans-0a401822",
+      "name": "Sarah Evans",
+      "summary": "Head of Marketing | Instagram Foodie @sarahingram1",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aim%25C3%25A9e-wiseman-16730024",
+      "name": "Aimée Wiseman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-mckaycorpaffairs",
+      "name": "Liam McKay",
+      "summary": "Corporate Affairs  | Strategic Communications  | Gov Relations & Policy  | ESG",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arvind-solanki-72801b26",
+      "name": "Arvind Solanki",
+      "summary": "Senior Portfolio Manager at The Millennium capital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-walker-1084b626",
+      "name": "David Walker",
+      "summary": "Group Marketing Manager - Peter Cooper Motor Group",
+      "location": "Southampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommy-higgins-2244422a",
+      "name": "Tommy Higgins",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giselle-twist-295b6b2a",
+      "name": "Giselle Twist",
+      "summary": null,
+      "location": "Wrexham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristan-murphy-07061330",
+      "name": "Tristan Murphy",
+      "summary": "Crowd Control at PSG",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liz-griffiths-48585431",
+      "name": "Liz Griffiths",
+      "summary": "Senior Account Manager at Golley Slater",
+      "location": "Cardiff"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-jones-53094637",
+      "name": "Nicholas Jones",
+      "summary": "Product analyst for Europe wide Business Central implementation",
+      "location": "Richings Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fiona-bentley-kerr-04766938",
+      "name": "Fiona Bentley-Kerr",
+      "summary": null,
+      "location": "Aberdeen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roshan-fernando-06b61740",
+      "name": "Roshan Fernando",
+      "summary": "Quality & Process Manager at CMA CGM Lanka (Pvt) Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-islam-1ba47045",
+      "name": "Mohammed Islam",
+      "summary": "Senior Commerical Officer at Gatwick Airport",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dorota-zielinska-mcim-08a7504a",
+      "name": "Dorota Zielinska (MCIM)",
+      "summary": "Strategic Digital Engagement Leader | Expert in Digital Transformation, Customer Acquisition, and Data-Driven Marketing | Proven Success in Leading Multi-Channel Campaigns, Complex Digital Projects and Brand Success.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-argyle-a823554b",
+      "name": "Susan Argyle",
+      "summary": "SECURITY CCTV OPERATOR at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-duffy-9a9b6552",
+      "name": "Andrew Duffy",
+      "summary": "Senior Account Manager at Roantree Promotional Marketing",
+      "location": "Haywards Heath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/debbie-huddart-3b864856",
+      "name": "Debbie Huddart",
+      "summary": "Cumbria Waste Group•1K followers",
+      "location": "Carlisle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajanssohal",
+      "name": "Rajan Sohal",
+      "summary": "ACCA Part Qualified Accountant Enterprise Rent a Car",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-mclaren-3b591859",
+      "name": "Max McLaren",
+      "summary": "Project Director at WPP Production",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-davies-b903665a",
+      "name": "martin davies",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susie-price-b9a17761",
+      "name": "Susie Price",
+      "summary": "Account Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-brennan-4a327867",
+      "name": "Lucy Brennan",
+      "summary": "Head Of Account Management at CPB UK Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankie-flannigan-5496b767",
+      "name": "Frankie Flannigan",
+      "summary": "Firefighter at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aggelikh-basileiou-002a6975",
+      "name": "aggelikh basileiou",
+      "summary": "http://errika-s-apartments-ipsos-corfu.webnode.gr/",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aunty-bukky-bashorun-bashorun-50b51b84",
+      "name": "Aunty bukky Bashorun Bashorun",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rina-macauley-9608a686",
+      "name": "Rina Macauley",
+      "summary": "Security Officer at London City Airport",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-ddamulira-7797b291",
+      "name": "Joseph Ddamulira",
+      "summary": "Mental Health Nurse",
+      "location": "Dartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-harper-9b765b93",
+      "name": "Joseph Harper",
+      "summary": "Sales Executive at Allied Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/piravinth-jeyakumar-0040a997",
+      "name": "Piravinth Jeyakumar",
+      "summary": "Assistant Accountant at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/montaz-ali-3444539b",
+      "name": "MONTAZ ALI",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-waseem-aslam-a2b667a1",
+      "name": "Muhammad Waseem Aslam",
+      "summary": "Senior SAP TM Consultant - Inland Transport Solution and cross application Integration SME",
+      "location": "Marseille"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-fox-2080a6a7",
+      "name": "Emma Fox",
+      "summary": "Senior Media Account lead at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-mayers-21807bb2",
+      "name": "Nicola Mayers",
+      "summary": null,
+      "location": "Warrington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/syed-abbas-raza-rizvi-03682a102",
+      "name": "Syed Abbas Raza Rizvi",
+      "summary": "Storyteller & Creative Entrepreneur with 17+ Years of Experience | Collaborating with Uttar Pradesh Government Since 2017 | Leading a Production House | Short Films, & Documentaries | Producer, Director, | Lucknow",
+      "location": "Lucknow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harry-craven-3a52b5105",
+      "name": "Harry Craven",
+      "summary": null,
+      "location": "Stalybridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markos-faitas-54966110b",
+      "name": "Markos Faitas",
+      "summary": "Owner camping corfu ipsos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/johann-grass-5bb40b112",
+      "name": "Johann Grass",
+      "summary": "Verbindungsoffizier",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lou-sharp-110240113",
+      "name": "Lou Sharp",
+      "summary": "Previously London & South East Venue Management  at SpaceandPeople. I'm now located in Spain and seeking new ventures!",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tina-emerson-a50802124",
+      "name": "Tina Emerson",
+      "summary": "Aviation security officer at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fizwan-hussain-9a6247140",
+      "name": "Fizwan Hussain",
+      "summary": "passenger transport services",
+      "location": "Coventry"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samet-atakl%25C4%25B1-705147144",
+      "name": "Samet Ataklı",
+      "summary": ".",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-tencio-leandro-6bbb0a158",
+      "name": "Michael Tencio Leandro",
+      "summary": "Quality Process Manager for Central America Cluster at CMA CGM",
+      "location": "San José"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-lavers-11457415a",
+      "name": "Sarah Lavers",
+      "summary": "Airport security officer at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sigrid-schreiber-fasching-9450a3160",
+      "name": "Sigrid Schreiber-Fasching",
+      "summary": "Abteilungsleiterin",
+      "location": "Vienna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-firth-77b656183",
+      "name": "Charles Firth",
+      "summary": "Media Sales Executive at Venture Marketing Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avinash-bamotra-908aa819a",
+      "name": "Avinash Bamotra",
+      "summary": "airport security officer at London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickesh-patel-aa2a271a0",
+      "name": "Nickesh Patel",
+      "summary": "Brand Marketing Manager for London City Airport",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/viktorija-deineka-9643571b0",
+      "name": "Viktorija Deineka",
+      "summary": "*SECURITY COURSES* \nSIA Door Supervisor full Training Course and Top-Up\nimperial security academy 07934808108 / 02036330182\nINFO@ISACADEMY.CO.UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-butler-4744511b7",
+      "name": "Charlotte Butler",
+      "summary": "Sales Executive at Saxon Media Group (London)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristina-ranisavljevi%25C3%25A4%25C2%2587-061542209",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ellie-dalgliesh-halliday-556966218",
+      "name": "Ellie Dalgliesh Halliday",
+      "summary": "Aviation Officer at London City Airport",
+      "location": "Gravesend"
+    },
+    {
+      "link": "https://www.linkedin.com/in/london-city-airport-media-sales-568a8017a",
+      "name": "London City Airport  Media Sales",
+      "summary": "Media Sales at London City Airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jubed-ahmed-086459131",
+      "name": "jubed ahmed",
+      "summary": "London city airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewbissett",
+      "name": "Andrew Bissett",
+      "summary": "Andrew Bissett is the Director of Sales and Marketing at Sounds With Vision Ltd",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/monicaamati",
+      "name": "Monica Amati",
+      "summary": "HR Officer at London City Airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jatinder-p-53707a95",
+      "name": "Jatinder P.",
+      "summary": "Airport Duty Manager at London City Airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marijana-denin-56245155",
+      "name": "Marijana Denin",
+      "summary": "Head of Security",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-doyere",
+      "name": "Anne Doyere",
+      "summary": "Aviation Director at London City Airport | Commercial Leadership | Revenue Growth & Market Expansion | Strategic Development & Service Delivery",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulina-blaszczyk-1175082b8",
+      "name": "Paulina Blaszczyk",
+      "summary": "Customer Service Agent at London City Airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gintare-majare-7b9b922b2",
+      "name": "Gintare Majare",
+      "summary": "Customer Service Concierge London City Airport",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-ivanova-390322137",
+      "name": "Ana Ivanova",
+      "summary": "Airline, Airport and Aviation graduate(LMU London)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgina-t-352a531a0",
+      "name": "Georgina T.",
+      "summary": "Customer service team leader ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eunika-okolo-7bb1169b",
+      "name": "Eunika Okolo",
+      "summary": "Campaign & Production Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenny-kamprath-717255a",
+      "name": "Jenny Kamprath",
+      "summary": "Director of Sales Statehood Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-keiler-319489255",
+      "name": "Andrew Keiler",
+      "summary": "Forward bound for fresh paths and new horizons",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-calleja-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-b3a4673",
+      "name": "Stephanie Calleja 🏳️‍🌈",
+      "summary": "Airport Duty Manager (ADM)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-gardner-ba2a80327",
+      "name": "John Gardner",
+      "summary": "Director  take  me group  at Take Me ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/roy-cheesman-a0478723",
+      "name": "Roy Cheesman",
+      "summary": "Senior Account Manager at Reade Signs Limited",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sajulislam",
+      "name": "Sajul I.",
+      "summary": "Duty Manager at Transport for London",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "After 12 remarkable years at London City Airport, it’s time for my next chapter. It’s been an incredible journey, and the constant highlight has been…",
+      "link": "https://www.linkedin.com/posts/alison-fitzgerald-0886b91_after-12-remarkable-years-at-london-city-activity-7445090768333017089-L17i",
+      "activity_status": null
+    },
+    {
+      "title": "Last week DPAA hosted a brilliant Town Hall event. The overarching theme I took away was we need to work collaboratively to drive creativity within…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_last-week-dpaa-hosted-a-brilliant-town-hall-activity-7444418054073061376-t8xl",
+      "activity_status": null
+    },
+    {
+      "title": "This year's International Women's Day 2026 theme is \"Give to Gain,\" so to bring this to life, I've been 'giving' a lot of free coaching to female…",
+      "link": "https://www.linkedin.com/posts/jenniferwilley_hr-shrm-jobsearch-activity-7442919036453085185-Xma5",
+      "activity_status": null
+    },
+    {
+      "title": "Formula 1 and Allwyn have today announced the extension of their Official Partnership, with the leading lottery-led entertainment company signing…",
+      "link": "https://www.linkedin.com/posts/formula-one-management-ltd_f1-partnerships-entertainment-activity-7442827868960751617-E4xy",
+      "activity_status": null
+    },
+    {
+      "title": "Billionaires’ row in Manhattan @57th Street & 5th Avenue #dooh",
+      "link": "https://www.linkedin.com/posts/jean-luc-decaux-0a097459_dooh-activity-7441838699182616576-3drQ",
+      "activity_status": null
+    },
+    {
+      "title": "Had a great afternoon at the DPAA Town Hall yesterday, focusing on collaborations, real-time campaigns and creative that is relevant in the moment.…",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_had-a-great-afternoon-at-the-dpaa-town-hall-activity-7442984830486777856-xC_8",
+      "activity_status": null
+    },
+    {
+      "title": "It’s simple, its strikng, its all-star! This week we’ve been celebrating Warburtons 150th anniversary at Baker Street with the most magnificent…",
+      "link": "https://www.linkedin.com/posts/harrietmcdonald_warburtons-tflcommercialpartneships-heritatebrands-activity-7440352073717530624-89-q",
+      "activity_status": null
+    },
+    {
+      "title": "Had a great time moderating this one, in case you couldn't tell from my expression...😆 Big thanks to Rob Edwards and Richard Brooke for joining me!…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_dooh-dpaa-londontownhall-activity-7442630253241438208--iHA",
+      "activity_status": null
+    },
+    {
+      "title": "Our team Amanda Benachour, Tommy Higgins and Camille Andrews spent the afternoon learning, collaborating and networking at the DPAA Town Hall…",
+      "link": "https://www.linkedin.com/posts/london-city-airport-media-sales-568a8017a_our-team-amanda-benachour-tommy-higgins-activity-7442934747615526914-cLZQ",
+      "activity_status": null
+    },
+    {
+      "title": "Last month’s Broadsign Connect Summit in Barcelona brought together the brightest minds to discuss the key trends shaping the out-of-home industry in…",
+      "link": "https://www.linkedin.com/posts/broadsign_last-months-broadsign-connect-summit-in-activity-7442562829062221824-Nlsg",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Tim Waldron Barry Frey & team on a fantastic DPAA Townhall at the iconic London Transport Museum in Covent Garden. Great line up…",
+      "link": "https://www.linkedin.com/posts/adrian-skelton-9b105816_ooh-dooh-dpaa-activity-7442860126417498113-ErWq",
+      "activity_status": null
+    },
+    {
+      "title": "Just wrapped: Andrew Newman (he/him) and Ben Gardiner took the stage to dive into where DOOH is heading next. Bringing together DOOH.com (WPP Media)…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_dpaa-dooh-programmatic-activity-7442624080865959936-iONC",
+      "activity_status": null
+    },
+    {
+      "title": "It's an exciting time for investment in out-of-home, so I'm very happy to share this update announcing AdQuick and OUTFRONT Media's new partnership!",
+      "link": "https://www.linkedin.com/posts/katieburwell_its-an-exciting-time-for-investment-in-out-of-home-activity-7432801673070407680-EXSF",
+      "activity_status": null
+    },
+    {
+      "title": "Earlier this month, HSBC returned to London City Airport Departure Lounge Digital Network with a second burst of their campaign. Running across over…",
+      "link": "https://www.linkedin.com/posts/london-city-airport-media-sales-568a8017a_hsbc-airportmedia-digitalooh-activity-7442178499634847745-kQUR",
+      "activity_status": null
+    },
+    {
+      "title": "It’s great to see our planning work with the brilliant JKO come to life in their latest Hycosan OOH campaign. Eye-catching creative? Check. Focused…",
+      "link": "https://www.linkedin.com/posts/qube-ooh_ooh-effectiveness-media-activity-7442483184979701760-ED0v",
+      "activity_status": null
+    },
+    {
+      "title": "Inspiration for the day incoming at Advertising Week Europe.... managed to nab the literal last seat at Gemma Greaves 's session (with her business…",
+      "link": "https://www.linkedin.com/posts/helenmiall_inspiration-for-the-day-incoming-at-advertising-activity-7442147073564540928-GaPm",
+      "activity_status": null
+    },
+    {
+      "title": "A big thank you to Wildstone for such a lovely evening last night. It was great to catch up with people Tommy Higgins and I have known and worked…",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_a-big-thank-you-to-wildstone-for-such-a-lovely-activity-7453075766185164800-bJJI",
+      "activity_status": null
+    },
+    {
+      "title": "Great few days in Barcelona at Broadsign Connect last week, reconnecting with industry friends and making new connections along the way. Really…",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_great-few-days-in-barcelona-at-broadsign-activity-7427262964820250624-tJ_f",
+      "activity_status": null
+    },
+    {
+      "title": "It's true... Why advertise anywhere else?",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_its-true-why-advertise-anywhere-else-activity-6928013344477995008-_LpF",
+      "activity_status": null
+    },
+    {
+      "title": "Gold for Shots 2021 - ‘New Director of The Year’ Go on Eddie!",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_gold-for-shots-2021-new-director-of-the-activity-6810970356304744448-wbNl",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_mediasales-arrivals-londoncityairport-activity-6541987880443670528-26OE",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_mediasales-advertising-airport-activity-6568060137943166976-IKd3",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_dooh-mediasales-airport-activity-6573169781573238784-Bd6s",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_fridayfeeling-pegasystems-passengers-activity-6580787694102728704-XRY3",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/camille-andrews-2790361b_dooh-advertising-vibrant-activity-6589493465892081664-PWOV",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-46a647b8",
+      "summary": "Associate Broker at Joseph Carter Realty",
+      "location": "Jasper, AL"
+    },
+    {
+      "name": "camille andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-5181708",
+      "summary": "Of Counsel/Investor",
+      "location": "Haddon Heights, NJ"
+    },
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-466764135",
+      "summary": "VMD Candidate, Class of 2023",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-aa12682",
+      "summary": null,
+      "location": "Ithaca, NY"
+    },
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-71a182aa",
+      "summary": "Carle Cancer Center",
+      "location": "Urbana, IL"
+    },
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-8798aa61",
+      "summary": "Veterinarian",
+      "location": "St Petersburg, FL"
+    },
+    {
+      "name": "Camille Andrews",
+      "link": "https://www.linkedin.com/in/camille-andrews-234a801a7",
+      "summary": "Psychiatric-Mental Health Nurse RN-BC",
+      "location": "United States"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

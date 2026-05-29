@@ -1,0 +1,573 @@
+{
+  "public_identifier": "guygrimmelt",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Guy",
+  "last_name": "Grimmelt",
+  "full_name": "Guy Grimmelt",
+  "follower_count": 2283,
+  "occupation": "Marketing & Sales Director at Global Nederland",
+  "headline": "Marketing & Sales Director at Global Media & Entertainment BV",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Marketing & Sales Director",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2020
+      },
+      "company": "Global Media & Entertainment",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Marketing & business development director",
+      "description": "Responsible for the marketing and communication team; events, brand, BRO, research and insights and working close with the sales teams to develop and implement our outdoor packages with a focus on engaging audiences. Business Development is an essential part of our new profile and innovative approach towards outdoor advertising. We are constantly looking at new developments and we try to unlock these for our advertisers and keep our lead when it comes to interactivity and innovation within our industry.",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Stamppot Holding BV",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": "With Stamppot I invest in companies/projects and/or actively participate in a company to get a business started or to grow in a short period of time. (e.g. moviq, www.babboe.com, www.beick.com, mobile tail, top10). I am an allrounder with a strong background in finance and marketing/sales and last 5 years most projects were online related. Extensive experience with setting up new business, websites, social media,e-commerce, seo/sea, cross media, interactive.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2011
+      },
+      "company": "Babboe en beick",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "COO",
+      "description": "Shareholder and management position to make Babboe the worldwide marketleader in cargo bikes and set up the new and innovative bike brand 'Beick'. Both companies are very succesfull within the niche market of bikes worldwide, currently active in over more then 10 countries.",
+      "location": "Amersfoort",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2009
+      },
+      "company": "Moviq BV",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CEO / COO",
+      "description": "Moviq is a vertical platform built around everything that has to do with housing. We have started and built the company together with investors and shareholders (Talpa Holding and Rabobank). Since march 2008 Moviq is live and has grown progressively towards a number 2 position. As of may 2009 Moviq is sold to a group of investors.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2007
+      },
+      "company": "ABN AMRO Bank N.V.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abn-amro",
+      "company_facebook_profile_url": null,
+      "title": "Marketing manager",
+      "description": "Leading a group of marketeers (+10) for the SME market in the Netherlands. Branding, online, offline, products and special events.",
+      "location": "Amsterdam",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5cd4ffe295a93e20926efd875af7ed1f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2006
+      },
+      "company": "ABN AMRO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abn-amro",
+      "company_facebook_profile_url": null,
+      "title": "Account manager Corporate Clients",
+      "description": "Na management traineeship (11 maanden) 2 jaar werkzaam geweest als PA. Daarna als account manager werkzaam geweest voor grotere nederlandse bedrijven (corporate clients) met als specialisme kredietverlening.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5cd4ffe295a93e20926efd875af7ed1f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Communications and Human Resource Management",
+      "degree_name": null,
+      "school": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activiteiten en verenigingen:member of USC"
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/kennethcrietee",
+      "name": "Kenneth Crietee",
+      "summary": "Owner Dreamalist BV | Founder DayShaker",
+      "location": "Oss"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hesseldevries",
+      "name": "Hessel de Vries",
+      "summary": "Owner at RAP Media | Narrowcasting Bureau",
+      "location": "Enschede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dannythijssing",
+      "name": "Danny Thijssing",
+      "summary": "Head of Outdoor bij Abovomaxlead | Op een missie om van iedereen een Out of Home fan te maken",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pimvanmidde",
+      "name": "Pim van Midde",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boutens",
+      "name": "Bart Boutens",
+      "summary": "WordPress specialist | (Online) marketing & production | Based in Mallorca 🇪🇸 & The Netherlands 🇳🇱",
+      "location": "Dordrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffreyvanheck",
+      "name": "Jeffrey van Heck",
+      "summary": null,
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartenduijne",
+      "name": "Maarten Duijne",
+      "summary": "Founder & CEO at adpaq",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottotte",
+      "name": "Scott Otte",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/curizm",
+      "name": "Jeroen Vissers",
+      "summary": null,
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diederickvanes",
+      "name": "Diederick van Es",
+      "summary": "Owner The Basky Company B.V.  / Greensenz B.V.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/quintenreehuis",
+      "name": "Quinten Reehuis",
+      "summary": "Managing Owner at Curiosity Amsterdam",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/basnoordermeer",
+      "name": "Bas Noordermeer",
+      "summary": "Managing Partner at OMG Transact",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joostschipperijn",
+      "name": "Joost Schipperijn",
+      "summary": "Digital Lead bij Global",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annegiencanoy",
+      "name": "Annegien Canoy",
+      "summary": "Head of Communications bij Natuurmonumenten",
+      "location": "Nijmegen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephantrimbos",
+      "name": "Stephan Trimbos",
+      "summary": null,
+      "location": "Zaltbommel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jwwolff",
+      "name": "Jan-Willem Wolff",
+      "summary": "www.goodbye-jw.nl",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petraannbenach",
+      "name": "Petra Ann Benach",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michellerusbridge",
+      "name": "Michelle Rusbridge",
+      "summary": null,
+      "location": "Leusden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janwever5756",
+      "name": "Jan Wever",
+      "summary": "Beveiligingsmedewerker bij Intergarde",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisbethgruppen",
+      "name": "Lisbeth Gruppen",
+      "summary": "Brand Manager at Nederlandse Loterij",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tmedley",
+      "name": "Tim M.",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijn-hoogland",
+      "name": "Martijn Hoogland",
+      "summary": "Account Manager at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manonschermer",
+      "name": "Manon Schermer",
+      "summary": "Investor & Director",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henryhamstra",
+      "name": "Henry Hamstra",
+      "summary": "Al virtueel zichtbaar? De toekomst is vandaag!",
+      "location": "Nijkerk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mari%25C3%25ABlle-besselink-5354b18",
+      "name": "Mariëlle Besselink",
+      "summary": "Sales Director at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wsteenbakkers",
+      "name": "Wim Steenbakkers",
+      "summary": "Director at Conrebs and Komerca",
+      "location": "Eersel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/serge-varenkamp-4a2ab54",
+      "name": "Serge Varenkamp",
+      "summary": null,
+      "location": "Haarlem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-b%25C3%25B6hm-3b62345",
+      "name": "Hans Böhm",
+      "summary": null,
+      "location": "Bussum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-van-der-wielen-1742955",
+      "name": "Marc van der Wielen",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-littel",
+      "name": "Marcel Littel",
+      "summary": "Business Development | Marketing Strategy | Data Analytics | Project Management",
+      "location": "Newport Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joop-egmond-4b59095",
+      "name": "Joop Egmond",
+      "summary": "Directeur InMensGrow : Jouw mensen, jouw bedrijf, jouw markt",
+      "location": "Driebergen-Rijsenburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-jeanne-douven-a666a48",
+      "name": "Marie Jeanne Douven",
+      "summary": "Sr. communicatieadviseur regio Eemland bij Portaal",
+      "location": "Amersfoort"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemarie-van-der-heijden-6859369",
+      "name": "Annemarie van der Heijden",
+      "summary": "Event & Project Manager at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nancy-slobbe-a5376ab",
+      "name": "Nancy Slobbe",
+      "summary": "Data Quality Analist",
+      "location": "Haarlem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thea-meijerink-82990ab",
+      "name": "Thea Meijerink",
+      "summary": "MRS at Deutsche Bank N.V.",
+      "location": "Almere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/merel-boelens-34a45610",
+      "name": "Merel Boelens",
+      "summary": "Owner at yoga muse - Yoga in de kas & Ayurveda praktijk",
+      "location": "’s-Hertogenbosch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-witt-9868a612",
+      "name": "Sandra Witt",
+      "summary": "Account Manager bij Global Media & Entertainment",
+      "location": "Hoofddorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarek-othman-53560213",
+      "name": "Tarek Othman",
+      "summary": "Senior Account Manager at Global Media & Entertainment",
+      "location": "Hoofddorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thea-banis-91913217",
+      "name": "Thea Banis",
+      "summary": "Ik ben een echte teamplayer die de service voor de klant hoog in het vaandel heeft staan.",
+      "location": "Almere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-janssen-1b7b8118",
+      "name": "Marcel Janssen",
+      "summary": "Marketing strateeg / directeur diezit. marketing & communicatie",
+      "location": "Enschede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eva-rozenbeek-8244831b",
+      "name": "Eva Rozenbeek",
+      "summary": "Commercieel Directeur Tonny Media & Dag en Nacht Media",
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-bergisch-b1578421",
+      "name": "Claire Bergisch",
+      "summary": "Senior Account Manager at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mink-zwolsman-92947227",
+      "name": "Mink Zwolsman",
+      "summary": "Business Development Director | Pioneering DOOH",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikki-van-rooij-59486930",
+      "name": "Nikki van Rooij",
+      "summary": "Account Director at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-gyamfi-57796035",
+      "name": "Victoria Gyamfi",
+      "summary": "Accounts Payable controller at Exterion Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saskia-tollenaar-97901046",
+      "name": "Saskia Tollenaar",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-verwaaijen-7512938b",
+      "name": "Anne Verwaaijen",
+      "summary": "Accountmanager Global",
+      "location": "Hoofddorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristel-hans-15a6328b",
+      "name": "Kristel Hans",
+      "summary": "Docent/studiecoach",
+      "location": "Dalfsen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keithruitenbach",
+      "name": "Keith Ruitenbach",
+      "summary": "Senior Strategic Tender & Contract Manager | Sales & Business Development Leader | Experienced Entrepreneur",
+      "location": "Bergen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-van-aerde-4a0481157",
+      "name": "Sam van Aerde",
+      "summary": "Junior Key Account Manager At The Quality Group",
+      "location": "Utrecht"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Wat een enorm leuke dag! Demo festival , city editie, meer dan 5000 designs ingezonden uit 92 landen, geweldig werk!! Liza Enebeis Ernst Vos STUDIO…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_wat-een-enorm-leuke-dag-demo-festival-activity-7290706696325267456-Pe3s",
+      "activity_status": null
+    },
+    {
+      "title": "Er blij en trots om deze toe te voegen nadat we eerder deze maand al het Hema netwerk toevoegde! Ik denk dat we nu wel mogen zeggen dat we het meest…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_global-bereikt-nieuwe-hoogte-door-overname-activity-7233814869299412992-tWqh",
+      "activity_status": null
+    },
+    {
+      "title": "Met het team #1 in #Buitenreclame. In een jaar waarin we onze nieuwe naam #globalnederland hebben gelanceerd en we de NS weer hebben gewonnen. Met…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_guy-grimmelt-global-het-was-het-jaar-van-activity-7023295646702960640-6tpN",
+      "activity_status": null
+    },
+    {
+      "title": "Wederom een stapje richting meer transparantie en oproep aan alle DOOH exploitanten om de informatie te delen met hun klanten! #arnobuskop, #jcd,…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_arnobuskop-jcd-oceanoutdoor-activity-6773533435639189504-5D3D",
+      "activity_status": null
+    },
+    {
+      "title": "Als je DOOH begrijpt Ã©n het medium verder wilt helpen Ã©n daarbij de leiding wilt nemen, samen met vele anderen, pak dan deze kans!!…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_als-je-dooh-begrijpt-%C3%A9n-het-medium-verder-activity-6782612901908803584-iPZ_",
+      "activity_status": null
+    },
+    {
+      "title": "Behoorlijk wat eyeopeners weer; - 77% van de spend gaat naar Amerika - 6% overall groei (daar hebben we met DOOH niet van kunnen profiteren, maar dat…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_online-ad-spend-study-2020-via-activity-6788406601175900161-sy2d",
+      "activity_status": null
+    },
+    {
+      "title": "Dit jaar gaan Susanne van Nierop, RenÃ© Hofma, Birgit Blomberg, Melanie Raupp, Hanneke van Rozendaal, Marieke de Krijger, Elja Polak, Inge Kolen en…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_amma21-amma-activity-6799965118772908032-Ovfo",
+      "activity_status": null
+    },
+    {
+      "title": "altijd goed om de discussie buiten voort te zetten! #ooh, #jump!retail#blokker",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_ooh-jump-activity-6854018819631955969-PFp1",
+      "activity_status": null
+    },
+    {
+      "title": "Het 2de webinar van 3 vanuit de taskforce DOOH, meld je aan! #dooh #ADCN #Greenhousegroup #outofhome",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_dooh-adcn-greenhousegroup-activity-6670595135752945664-C0Ay",
+      "activity_status": null
+    },
+    {
+      "title": "Hoe bijzonder om samen met Studio Dumbar een Gouden Lamp te winnen voor ons DEMO festival met ons DOOH netwerk, enorm trots op ons team en dat van…",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_lampen-dumbar-adcn-activity-6681638674603503616-vELA",
+      "activity_status": null
+    },
+    {
+      "title": "We komen van ver, maar we komen er bovenop!",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_we-komen-van-ver-maar-we-komen-er-bovenop-activity-6714557517533388800-AA5Y",
+      "activity_status": null
+    },
+    {
+      "title": "DEMO festival op 7 november, DOOH Event ook op die dag, allemaal op Amsterdam CS. Leuk dat ook RTL Z (Judith Laanen) dit is opgevallen. #dooh #demo",
+      "link": "https://www.linkedin.com/posts/guygrimmelt_stephen-fry-en-adriaan-van-dis-of-eigenlijk-activity-6378578926016561152-2za-",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Guy Grimmelt",
+      "link": "https://nl.linkedin.com/in/guy-grimmelt-1a98244",
+      "summary": "COO at Incertus",
+      "location": "Amsterdam"
+    },
+    {
+      "name": "Guy Grimmelt",
+      "link": "https://nl.linkedin.com/in/guy-grimmelt-37844b",
+      "summary": null,
+      "location": "Amsterdam"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-21T00:00:00Z"
+  }
+}

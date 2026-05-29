@@ -1,0 +1,711 @@
+{
+  "public_identifier": "kobus-du-toit",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Kobus",
+  "last_name": "du Toit",
+  "full_name": "Kobus du Toit",
+  "follower_count": 1027,
+  "occupation": "Group IT & Digital Technology Manager at Primedia Group",
+  "headline": "Group IT & Digital Technology Manager | Innovation Enthusiast | MBA",
+  "summary": "As Group IT & Digital Technology Manager at Primedia, I lead the execution of digital transformation initiatives, including the recent development and launch of Primedia+ and EWN’s mobile and web platforms. Collaborating with international development teams, these efforts enhanced user engagement through state-of-the-art streaming and content management solutions.  <br><br>With over 20 years experience in development, digital product management and agile project implementation, my focus is on delivering innovative solutions that align with organizational goals. Recognized for fostering collaboration and driving impactful outcomes, I am committed to leveraging technology to transform business models and create scalable, user-centric digital ecosystems.",
+  "location_str": "City of Johannesburg, Gauteng, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Johannesburg",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Primedia Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primediagroup",
+      "company_facebook_profile_url": null,
+      "title": "Group IT & Digital Technology Manager",
+      "description": "I was brought into the Primedia Group, from Primedia Outdoor, predominantly to manage the development and launch of Primedia Broadcasting’s digital platforms – Primedia+ (a consolidation of Primedia’s four radio stations into one “super app” / streaming platform) and EWN (Eyewitness News – the news section of Primedia). • This entailed working with the appointed development house from Germany to execute the product development roadmap and ultimately launch both products (2x websites and 2x Mobile applications in each of the major Mobile App Stores as well as a new Content Management System). • Primedia Studios (procurement of rights, and production of television shows) was also born throughout this process, and I was tasked to work with our OTT streaming provider to ensure a video streaming channel was also made available within Primedia+. Being a Group-wide role, my responsibilities also included (not limited to) overseeing various technical aspects of the different business units such as: • Creation and management of Primedia Broadcasting’s integrated Radio-to- Road concept (where an audio advert plays on terrestrial radio and triggers the corresponding visual advert on Primedia Outdoor’s roadside LEDs at the exact same time). • Creation and management of Primedia Broadcasting’s API integrations with the individual radio stations (and the technology they use, including Primedia+), and all insurance clients to receive hot leads. • Creation and management of Primedia Outdoor’s programmatic buying platform(s) where clients can purchase ad-slots through industry tools such as Google’s DV360 marketplace. • Management and guidance of Primedia Retail’s content management system and the integration of their digital navigation software within the retail / shopping center environment.",
+      "location": "City of Johannesburg, Gauteng, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8b024b481e57f1fe9565ff60ebe18b1e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "company": "Primedia Out Of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Digital Product Manager",
+      "description": "Serve as the lead on digital innovation and fill the responsibility to keep abreast of what is happening in the world of Digital OOH. This includes (not limited to) researching the latest digital trends, finding innovative ways to improve our business offering as a whole and scrutinising those ideas through a refined product development process in order to determine the value and impact of each idea/product prior to implementation.",
+      "location": "Johannesburg Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2016
+      },
+      "company": "Primedia Unlimited Malls",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager (SourceCRM - Division of Primedia Lifestyle)",
+      "description": "I started off at SourceCRM as the Lead Developer working on various projects specifically focused on improving our overall offering within the Shopping Centre environment (30+ shopping centres). This included various components such as store directory services (on the centres' websites as well as the physical touch-screens within the centre itself), integrated movie feeds with Ster-Kinekor and NuMetro and various other innovative components accessible through a custom-built API. Thereafter I moved into a General Manager position where I became responsible for the day-to-day operations of the business, overseeing a team of 11 members as well as strategic management and the maintenance and strengthening of client relationships. Subsequently, I moved into a new role within the group as Digital Product Manager.",
+      "location": "Sandton",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Societe Generale",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/societe-generale",
+      "company_facebook_profile_url": null,
+      "title": "Senior Developer / System Architect",
+      "description": "I was responsible for internal application development (Intranet) working in a .net environment (C#, ASP.Net, Javascript, JQuery) with Oracle 11g as a database platform. One of the main projects I developed was an interface which allowed the team to view, compile and approve SWIFT transactions with ease and better efficiency thus improving the effectiveness of the team as a whole.",
+      "location": "Johannesburg Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d6776f52e32ad302bae8531e5ccd0315"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "Rage Nutrition",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co-Owner",
+      "description": "I was responsible for the daily operations of the business, which included assisting customers and sales agents throughout the supply chain process, negotiating with suppliers and managing stock levels. I was also the Lead Developer on the eCommerce portal which was the main source of online customer orders. This included out of the box thinking in order to conceptualise new ideas and working towards a continuous competitive advantage.",
+      "location": "Richmond, Johannesburg",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2010
+      },
+      "company": "Rosetta Stone Softworks",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Developer / Project Manager",
+      "description": "I was responsible for communicating with a portfolio of clients and conducting regular visits to ensure client satisfaction and maintaining healthy relationships. It was also my duty to manage on-going projects undergoing completion. In addition, I acted as a Lead Developer in conjunction with a team of developers on certain projects.",
+      "location": "Parktown - Johannesburg",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Business Administration, Management and Operations",
+      "degree_name": "Master of Business Administration (MBA)",
+      "school": "North-West University/Noordwes-Universiteit",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/northwestuniversity",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/00e347475a60a870f2ee420194409716",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Information Technology",
+      "degree_name": "Bachelor of Science (B.Sc.)",
+      "school": "North-West University/Noordwes-Universiteit",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/northwestuniversity",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/00e347475a60a870f2ee420194409716",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Afrikaans"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Afrikaans",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "org_name": "Association of International Product Marketing and Management",
+      "title": "Member",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "org_name": "Association of MBAs",
+      "title": null,
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Primedia CEO Award for Innovation",
+      "issuer": "Primedia (PTY) Ltd.",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "description": "An internal, group-level award ceremony where a few selected people within the organisation are recognised for doing great things to promote the organisational culture, and that shows innovation in the Marketing and Advertising industry. This award was for two separate events: 1. A Social Media integration campaign with Digital Out Of Home (DOOH), where clients could take a selfie and tweet about a specific topic while at an event, and in mere minutes see their selfie live within a relevant pre-designed template, displayed on numerous road-side Billboards for cars and pedestrians passing by to see. A live camera feed of the Billboards was also setup at the event, so the actual \"tweeter\" didn't miss out on seeing himself/herself on some of the biggest displays in South Africa. 2. An interactive campaign with a camera mounted on top of a 65\" screen at the South African Council of Shopping Centres (SACSC) annual congress. Craft beer and gin were served at the Primedia Outdoor stand while the media capability was demonstrated. Users could skip the queue by simply interacting with the screen and smile at their preferred or favourite drink. The users were recognised and  congratulated on their amazing smiles, and sent off with a message, \"One beer for you sir\" or \"One gin for you ma'am\" - recognising their gender as well. This was done in collaboration with Quividi."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2024
+      },
+      "ends_at": null,
+      "title": "Radio to Road",
+      "description": "Creation and management of Primedia Broadcasting’s integrated Radio-to-Road concept (where an audio advert plays on terrestrial radio and triggers the corresponding visual advert on Primedia Outdoor’s roadside LEDs at the exact same time).",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      },
+      "ends_at": null,
+      "title": "Insurance API Integration",
+      "description": "A project that entails integration with the call centres of insurance companies to provide hot leads via the broadcasting radio stations.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": null,
+      "title": "Eyewitness News",
+      "description": "Eyewitness News is one of the most trusted, independent news sources in South Africa. A complete overhaul of their platform was launched and remains in a cycle of continuous improvement. From articles written by prominent journalists, VOD and AOD content, Podcasts as well as live coverage of major events in South Africa, EWN remains a major player in the world of journalism, and focused on reporting accurate news.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": null,
+      "title": "Primedia+",
+      "description": "An OTT streaming platform consisting of the 4 radio stations owned and run by Primedia Broadcasting, integrated video streaming capabilities and VOD content from both Primedia Broadcasting as well as Primedia Studios, Podcast integration capabilities as well as news content from Eyewitness News.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "title": "Live Sport Scores on DOOH",
+      "description": "This project is an ASP.NET & C# based solution where an API from a selected provider is utilised every x-seconds/minutes to pull information around a certain sporting event. When the JSON/XML data has been retrieved, the placeholders in a nicely done, branded HTML5 template is updated with the information to provide live score feeds to the public driving or walking past our large format DOOH LED screens. This solution is also responsive and adapts to the actual required screen size. The POC was run successfully during the 2019 Cricket World Cup. I developed this in an Agile fashion which took me less than a day to develop and implement the POC.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "title": "Social Media & DOOH Integration",
+      "description": "A product I created where I took an existing Social Wall concept usually used at conferences to showcase Facebook and Twitter posts continuously on a screen setup inside the conference centre. What makes this special is that I integrated this with DOOH (Digital Out of Home) by use of an HTML5 based branded template and the resizable Social Wall component embedded into the template. With some fancy CSS media queries this Social Wall is setup once, scheduled to any/all of our screens and displays correctly on all screens with the clients' branding clearly visible which give clients the ability to amplify engagement with their customers. A 3rd part of this product allows us to take pictures of the post displaying on the LED screen remotely, and re-post / retweet back to the user to make sure they saw themselves on the LED (utilization of existing infrastructure). We were among the top 3 nominated media owners around the world at the FEPE Awards Conference under the technology innovation category in 2019.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "title": "Audience Measurement & Engagement",
+      "description": "A product offering (by a leading Global Audience Measurement provider) I was responsible for implementing in Shopping centres to gather data analytics which also allow brands to engage with their customers. The solution can pick up a host of information (Gender, age, facial features like beards and glasses, facial expressions like anger or smiles, nodding or shaking of heads etc.) which give brands the ability to create interactive, fresh and memorable campaigns customers will remember. We are also in turn able to assess audience reaction to different client creative and utilise market segments effectively to change creative based on the audience in real-time. This allowed us to also be the only media owner in South Africa to participate in the Global Malaria Must Die Campaign initiative by Malaria No More UK.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2021
+      },
+      "title": "Anonymous Vehicle Recognition",
+      "description": "Oversaw the development and setup of a vehicle recognition system with an external development company that was implemented on various roadside LED screens in and around Gauteng, South Africa. This product was implemented in September 2018 and allowed us to serve relevant content to relevant people who was stationary at the intersections and thus in clear viewing distance of the LED screen with time to spare. Audi was the first Brand to trial this with really good and targeted creative and even won a Loeries award for it (https://www.loeries.com/loeries2021.aspx?link=archive_winner&display=OU1A-20-15134). This project is ongoing with constant improvements being implemented.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "title": "Dynamic LED Conditions",
+      "description": "After researching and testing various weather providers, this project entailed activating various conditions using chosen provider's API on all our Digital Screens. This included temperature (hot/cold), weather conditions (rain, cloudiness), UV index, air pollution and pollen counts based on GEO-location. This gives brands the ability to target people at the right time, in the right conditions and when they are in the right state of mind - i.e. impactful, contextual advertising. Think about seeing an ice cream advert when it's 34 degrees celsius outside - you're more likely to pull off the highway for that ice cream after seeing that advert as opposed to seeing it when it was 20 degrees celsius (in which case the same brand could've advertised their Cappuccino instead) - all automated and dynamic.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2016
+      },
+      "title": "Navigation on Shopping Centre Touch-screens",
+      "description": "I spearheaded the redevelopment of an outdated system where our touch-screens in the shopping centre environment allowed for shoppers to find their way around the mall. This project was developed by an external development house in an Agile fashion where I served as the Product Owner. At the time of its launch, this project was a great improvement and success to its predecessor taking the platform from an outdated, rigid Windows Metro App technology to a scalable HTML5-based solution.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Competition Law",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Compliance Online (Pty) Ltd.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2020
+      },
+      "ends_at": null,
+      "name": "Certified Product Manager (CPM)",
+      "license_number": "19821417",
+      "display_source": null,
+      "authority": "AIPMM The Association of International Product Marketing and Management",
+      "url": "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/19821417"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Product Management: Building a Product Roadmap",
+      "license_number": null,
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/7b68ab6e1fc30ab253827712039018e3d70b9584a39a8f2cf4bc28c80c8fb788?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Digital Advertising & Marketing 201",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-817LUCQB/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Digital Advertising & Marketing 101",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-296BOT7F/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Product Management Fundamentals",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-BJIWFHX5/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Cryptocurrency Investment Fundamentals | Buy, Sell & Store",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-A750P8GZ/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Introduction to Programmatic Advertising - Digital Marketing",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-JJC82JXB/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "AIPMM Membership Certificate",
+      "license_number": "Accredible-10480485",
+      "display_source": null,
+      "authority": "AIPMM The Association of International Product Marketing and Management",
+      "url": "https://certificates.aipmm.com/10480485"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Scrum Fundamentals Certified",
+      "license_number": "618203",
+      "display_source": null,
+      "authority": "SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(381 pages)",
+      "url": "https://image-store.slidesharecdn.com/1206d8c6-11f2-4fb9-ba4f-9f59a7b093ca-large.jpeg"
+    }
+  ],
+  "connections": 1011,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/maxine-sa-couto",
+      "name": "Maxine Sa Couto Barnett",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brett-snelling",
+      "name": "Brett Snelling",
+      "summary": "Product Manager - iHealth",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brentfick",
+      "name": "Brent Fick",
+      "summary": "Affiliate Manager at GenesysOne",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iamgreengifts",
+      "name": "Clyde Edwin Parton",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corneschalkwyk",
+      "name": "Corne Schalkwyk",
+      "summary": "Head of Partnerships / Commercial GVI / Board Member IMEC & KRTO",
+      "location": "Nelspruit"
+    },
+    {
+      "link": "https://www.linkedin.com/in/warrenkilian",
+      "name": "Warren Kilian",
+      "summary": "Partnering with data-driven leaders to accelerate their digital transformation with a data informed and AI enabled strategy.",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-nuss",
+      "name": "Richard Nuss",
+      "summary": "Marketer at large",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cara-daly",
+      "name": "Cara Daly",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haydnjames",
+      "name": "Haydn James",
+      "summary": "Digital Platforms | Platform Product Manager",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindiwe-zulu-36a26062",
+      "name": "Lindiwe Zulu",
+      "summary": "Helping Brands Grow with Authentic Storytelling | CMO | Purpose-Led, Innovative, Impactful",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-j%25C3%25A9an-bb75b035",
+      "name": "Adrian Jéan",
+      "summary": "Regional Manager - Eastern Division at Holdit Marketing and Manufacturing (Pty) Ltd",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lenellhattingh",
+      "name": "Lenell Hattingh",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carly-williams-825b1a12",
+      "name": "Carly Williams",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-busschau",
+      "name": "Sean Busschau",
+      "summary": "General Manager at Insight Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonja-delport-52a6b341",
+      "name": "SONJA DELPORT",
+      "summary": "Manager at Wellness Travel",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-krein-41072744",
+      "name": "Steven Krein",
+      "summary": "Strategy Consultant",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sinead-kucio-dennis-99044850",
+      "name": "Sinead Kucio (Dennis)",
+      "summary": "Shaping future-fit organisations",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/misha-dhupelia-a2630595",
+      "name": "Misha Dhupelia",
+      "summary": "Media & Academia | Impact-Driven Consultant | Brand, Education, & Community Development",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-large-5bb5579a",
+      "name": "David Large",
+      "summary": "Business Owner at Blockmen - 'Specialty meats and deli'",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameron-davis-824199ba",
+      "name": "Cameron Davis",
+      "summary": "General Manager | Director",
+      "location": "Johannesburg"
+    }
+  ],
+  "recommendations": [
+    "Chris Fourie\n\nKobus started working for me after he completed his studies. I was amazed at how quickly he grew into his new role. He is well organised, diligent, and a fast learner. These were very important qualities as we expected results from the get-go. Kobus grew into a trusted technical advisor to me and a leader of a team of developers, someone I could easily rely on. We worked on many projects together and is known for high-quality work. On a personal note, he was always accommodating, kind, and motivated. I’d gladly work with Kobus again."
+  ],
+  "activities": [
+    {
+      "title": "Great initiative by the relevant parties! Acknowledge that there are deaths, there is fear and it really is tragic, but the virus is also being…",
+      "link": "https://www.linkedin.com/posts/kobus-du-toit_covid19-dooh-dynamiccontent-activity-6691966361373028352-m7WW",
+      "activity_status": null
+    },
+    {
+      "title": "I visited 3 respective online platforms from leading retailers in SA today, searching for 2 different products and I'm quite taken aback looking at…",
+      "link": "https://www.linkedin.com/posts/kobus-du-toit_i-visited-3-respective-online-platforms-from-activity-6674009952878702592-fibd",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Kobus Du Toit",
+      "link": "https://uk.linkedin.com/in/kobus-du-toit-25a40175",
+      "summary": "Dentist at Linden House Dental Practice",
+      "location": "Taunton"
+    },
+    {
+      "name": "Kobus Du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-6441b87",
+      "summary": "at Waverley Hill Wines(Pty)Ltd",
+      "location": "South Africa"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-37705b55",
+      "summary": "Territory Manager at Valley Irrigation of SA",
+      "location": "South Africa"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-87236412",
+      "summary": "Industrial Psychologist, Consultant, Human Resources, kobusdt@vox.co.za",
+      "location": "City of Johannesburg"
+    },
+    {
+      "name": "Kobus Du toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-21229a7b",
+      "summary": "Director",
+      "location": "South Africa"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobusdt",
+      "summary": "Reimagining the high school experience for human becoming",
+      "location": "Cape Town"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-a8130536",
+      "summary": "Owner and Managing Director of Tiador 126 cc and Amaris Drilling Co. (Pty) Ltd. at All Sub Saharan Africa",
+      "location": "South Africa"
+    },
+    {
+      "name": "Kobus Du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-6465828a",
+      "summary": "Senior Legal Advisor at Dimension Data Middle East and Africa",
+      "location": "City of Johannesburg"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobusdutoit1",
+      "summary": "Assurance Associate at PwC",
+      "location": "Stellenbosch"
+    },
+    {
+      "name": "Kobus du Toit",
+      "link": "https://za.linkedin.com/in/kobus-du-toit-469563110",
+      "summary": "Syncro Human Capital Solutions (Profile Full) Link @ the second profile @ kobusdt@vox.co.za",
+      "location": "City of Tshwane"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-06T00:00:00Z"
+  }
+}

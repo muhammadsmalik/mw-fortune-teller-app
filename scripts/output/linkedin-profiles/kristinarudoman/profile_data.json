@@ -1,0 +1,785 @@
+{
+  "public_identifier": "kristinarudoman",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/229660bd34ef4a316f9f8c7c01a1b21f",
+  "first_name": "Kristina",
+  "last_name": "Rudoman",
+  "full_name": "Kristina Rudoman",
+  "follower_count": 2049,
+  "occupation": "Chief Commercial Officer at AllUnite",
+  "headline": "Chief Commercial Officer @ AllUnite.com | Executive Master International Business",
+  "summary": "Innovation advocate that works in startups and scale-ups, supporting them with communication and commercialization of ideas and building and leading a creative force of marketing and commercial multicultural departments. I find strength in diversity, freedom of ideas, and openness to creative insight.<br><br>Currently leading the commercial team in a global ad tech platform AllUnite (bringing innovative tech into traditional industries, one of them - the most creative marketing medium - Out of home). Our clients and partners are international giants and opinion leaders in OOH, CRE, and Retail industries.<br><br>Previously, co-founded a Business and HR Consultancy agency for startups. I've accumulated 9-year experience leading distributed, international teams, hired 120+ commercial talent, and collected the best practices in innovative HR, organization design, and digital transformation for my clients to perform, innovate and thrive in the digital age.",
+  "location_str": "Milan, Lombardy, Italy",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Milan",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "AllUnite",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/allunite-com",
+      "company_facebook_profile_url": null,
+      "title": "Chief Commercial Officer",
+      "description": "AllUnite is a global advertising technology platform that enables advertising companies and media agencies to effectively measure, forecast, and target audiences in real-time.\n\nAllUnite is a turn-key adtech solution for audience measurement out-of-home (OOH): in stores, cinemas, airports, shopping centres, railway stations, or many more.\n\nThe company provides hardware and technology for data collection, processing, and analysis.",
+      "location": "Denmark",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/725387520fdb577af1378d235bca6e45"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2020
+      },
+      "company": "Self Employed",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/indpendent-contractor",
+      "company_facebook_profile_url": null,
+      "title": "HR & Business Consulting in Marketing & Creative",
+      "description": "- Talent acquisition of remote talent in Marketing and Creative \n- Contract negotiation and logistics around remote contractors\n- Organizational design and Project management to integrate remote teams into companies and agencies",
+      "location": "Milan Area, Italy",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5927d34d919d5ded57022a35528d00ce"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2019
+      },
+      "company": "Nobel Learning PBC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nobel-community",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing & Talent Experience",
+      "description": "Nobel Coaching & Tutoring is a fully-remote, US-based platform that provides online coaching and tutoring opportunities to students and whole families with learning challenges, including learning disabilities and ADHD.\n\n- Marketing: Brand development for 4 sub-products and internal branding; development of digital marketing and content strategy, influencer's marketing\n- Talent Experience: Development & execution of Agile recruitment strategy for all levels of organizations (grew 5 to 50 remote talent within a year)",
+      "location": "United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b80b901a63961cd626693fad71ada28b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2015
+      },
+      "company": "AIESEC in Italy",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aiesecitalia",
+      "company_facebook_profile_url": null,
+      "title": "National Director of Talent Management",
+      "description": "AIESEC Italia is a student-run non-governmental organization and a global platform for young people to develop their leadership potential through international internships and volunteer opportunities.\n\nKey responsibilities and achievements:\n- Development of HR strategy at the national scope (800+ students volunteering members)\n- Development and delivery on national Recruitment strategy in 19 local offices all around Italy in the biggest universities (with a result of 408 new volunteers in Fall, and 344 new volunteers in Spring), including targeted promotion online and on-campus\n- Development and delivery Learning & Development and Leadership Programs (for 800+ members and 250+ leaders)\n- Development and implementation of Performance management system through Gamification scheme based on KPIs, MoS, and professional development of members\n- Trainer and facilitator at four national conferences (with 250+ attendees), delivered together with PwC, Kaplan, and others",
+      "location": "Milan Area, Italy",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4d7530c345f2b486ef8a903d99351011"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "LUT University",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lut-university",
+      "company_facebook_profile_url": null,
+      "title": "Professor's Assistant",
+      "description": null,
+      "location": "Finland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5509fc0fb86b1171d06aaa430dae2b55"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Executive Master International Business",
+      "school": "ESCP Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escp-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/67cb2029d193845930c4f7b02f99e434",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Business Strategy & Financial Performances",
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f11767653a405609bf4c7f8df86b9608",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Zaporizhzhian National University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Italian",
+    "Russian",
+    "Ukrainian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Italian",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Russian",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Ukrainian",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Volunteer in international social impact projects in Lithuania and Italy",
+      "cause": null,
+      "company": "AIESEC",
+      "company_linkedin_profile_url": "https://ca.linkedin.com/company/aiesec",
+      "description": "On issues of cross-cultural education, empowering the local community, entrepreneurship and leadership development of youth",
+      "logo_url": "https://assets.enrichlayer.com/ll/C4E0BAQFNIFKL5h461A/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630645686879/aiesec_logo?e=2147483647&v=beta&t=9o_iGARtYnbUjF7hjhovvr7nRX5xxQDTpJZINDNafkk"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "President of the local office",
+      "cause": null,
+      "company": "AIESEC",
+      "company_linkedin_profile_url": "https://ca.linkedin.com/company/aiesec",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C4E0BAQFNIFKL5h461A/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630645686879/aiesec_logo?e=2147483647&v=beta&t=9o_iGARtYnbUjF7hjhovvr7nRX5xxQDTpJZINDNafkk"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Advanced Competitive Strategy",
+      "license_number": "ID credenziale T44HCSH3GM4G Vedi credenziale",
+      "display_source": null,
+      "authority": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/T44HCSH3GM4G"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "Strategic Organization Design",
+      "license_number": "ID credenziale Z67F2GJZGDAG Vedi credenziale",
+      "display_source": null,
+      "authority": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/Z67F2GJZGDAG"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "Brand and Product Management",
+      "license_number": "ID credenziale W3BRPJRCGPND Vedi credenziale",
+      "display_source": null,
+      "authority": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/W3BRPJRCGPND"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "Competitive Strategy",
+      "license_number": "ID credenziale SSHDBYNG24M2 Vedi credenziale",
+      "display_source": null,
+      "authority": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/SSHDBYNG24M2"
+    }
+  ],
+  "connections": 2037,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/settiliomaurogallinaro",
+      "name": "Settilio Mauro Gallinaro",
+      "summary": "Digital Communication at Webuild",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauroandraghetti",
+      "name": "MAURO ANDRAGHETTI",
+      "summary": "Direttore Commerciale",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela3russo3",
+      "name": "Angela Russo",
+      "summary": "Dott.ssa in Psicologia Clinica - Responsabile Formazione NoèCom, Centro di Psicologia e Formazione - Responsabile Risorse Umane Pyramis Costruzioni",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/federicopisanu",
+      "name": "Federico Pisanu",
+      "summary": "Team Leader Talent Development at NATO Support and Procurement Agency (NSPA)",
+      "location": "Luxembourg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefankaradinovski",
+      "name": "Stefan Karadinovski",
+      "summary": "Creative Consultant at Firma S. Karadinovski",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-de-blasis",
+      "name": "Luca De Blasis",
+      "summary": null,
+      "location": "Avezzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kenzgarrity",
+      "name": "Erica Windsor",
+      "summary": null,
+      "location": "Houston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giorgia-farci",
+      "name": "Giorgia Farci",
+      "summary": "Marketing Manager presso CE.DI GROS SCARL",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vriccardi",
+      "name": "Vincenzo Riccardi",
+      "summary": "✔️ Key Account Manager Public Government ✔️ Business Development IoT Solutions  ✔️ Head of Marketing IoT, Cloud ✔️ Co-Author of \"AI-driven innovation in smart city governance: human-centric and sustainable outcomes\"",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariofranci",
+      "name": "Mario Franci",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisabettagiusta",
+      "name": "Elisabetta Giusta",
+      "summary": "Head of Events and Special Projects @ Mercato Centrale | Spearheading Event Strategies",
+      "location": "Florence"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florianazerbo",
+      "name": "Floriana Zerbo",
+      "summary": "Marketing Manager | Brand Manager | Product Marketing Manager | Corporate wellbeing | Consumer goods",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/egidiomurru",
+      "name": "Egidio Murru",
+      "summary": "Co-founder & Head of SMBs Digital Transformation at webidoo",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dariopetrini",
+      "name": "Dario Petrini",
+      "summary": "Sales Planning - TIM Enterprise",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guiscardourso",
+      "name": "Guiscardo Urso",
+      "summary": "Head of People | Global People Ops & Culture Leader - \nScaling teams internationally • Leadership • Talent  • Culture",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariansolga",
+      "name": "Marian J. Solga",
+      "summary": "Marketing Leader | Driving Growth Strategies | Performance Marketing | Customer Acquisition | ex. Just Eat & Google & lastminute.com",
+      "location": "Montagnana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinapastorino",
+      "name": "Martina Paola Pastorino",
+      "summary": "Marketing, Sales & Strategy Consultant | Passionate About Turning Insights into Actionable Strategies | Bain Alumnus | Ex AbInbev",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-peloso-03704b8",
+      "name": "Fabio Peloso",
+      "summary": "Chief Revenue Officer @ Supermoney | Board Member | Angel Investor",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-laura-priori-08851918",
+      "name": "Maria Laura Priori",
+      "summary": "A Dream Realized | Creating a Place for People’s and Planet's Well-being, Balancing the Commitment and Awareness Needed to Tackle Climate Change Without Compromising Comfort and Elegance",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riccitommaso",
+      "name": "Tommaso Ricci",
+      "summary": "Managing Partner @ The Next Generation Platform",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramin-asgarov-26202159",
+      "name": "Ramin Asgarov",
+      "summary": "Chief Marketing Officer at Azercosmos | Visionary leader with talent for strategic planning & innovative thinking. Leverages expertise in market analysis & business growth with strong communication & leadership skills",
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Andrew Sachs\n\nKristina is an incredible leader and manager with outstanding technical competence in talent management, marketing and project management.",
+    "Nadja Ndayara\n\nKristina and I worked for 2 years, and throughout that time not only has she been my manager, but also a mentor and a dear friend! Kristina has the ability to lead a team professionally, while establishing a friendly atmosphere, and help everyone learn, develop, grow and face any challenge confidently. Shes always (at least) one step ahead providing innovative solutions and making an irreplaceable part of every company.",
+    "Nadja Ndayara\n\nKristina and I worked for 2 years, and throughout that time not only has she been my manager, but also a mentor and a dear friend! Kristina has the ability to lead a team professionally, while establishing a friendly atmosphere, and help everyone learn, develop, grow and face any challenge confidently. She’s always (at least) one step ahead providing innovative solutions and making an irreplaceable part of every company."
+  ],
+  "activities": [
+    {
+      "title": "Packed House at Media Research Group (MRG) content session at IOM3 (Institute of Materials, Minerals & Mining)  close to 80 people making it a…",
+      "link": "https://www.linkedin.com/posts/chris-felton-26302027_packed-house-at-media-research-group-mrg-activity-7287528448661561344-0hht",
+      "activity_status": null
+    },
+    {
+      "title": "Have you listened to the new Beyond the Billboard podcast with Jacques Du Preez of Provantage? No? Well, tune in now! 📣 Not only can you learn about…",
+      "link": "https://www.linkedin.com/posts/allunite-com_ooh-2025-kick-off-with-tom-goddard-and-jacques-activity-7293238083494277120-NFgf",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux Brasil começando o ano com boas notícias! Em colaboração com Mapa OOH e AllUnite, estamos avançando no Projeto de Métricas com a divulgação…",
+      "link": "https://pt.linkedin.com/posts/arturmvmartins_jcdecaux-avança-na-consolidação-de-métricas-activity-7283112337757097984-vw8b",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely 100% align with this post! And Couldn’t have said it any better. Thank you Mark Bracey! Collaboration doesn’t just expand what’s…",
+      "link": "https://www.linkedin.com/posts/kirsty-carlson-27b45665_absolutely-100-align-with-this-post-and-activity-7284616308850126848--aAk",
+      "activity_status": null
+    },
+    {
+      "title": "Klepierre Retail Media is launching in #Belgium #DOOH #OOH #Events Klepierre Retail Media se lance en #Belgique Klepierre Retail Media lanceert in…",
+      "link": "https://www.linkedin.com/posts/laurent-etienne-86263a24_belgium-dooh-ooh-activity-7291082680744513536-IMEr",
+      "activity_status": null
+    },
+    {
+      "title": "The GCC OOH Industry Summit, a full day out-of-home industry conference curated by Seventh Decimal, is set to take place on 13 February 2025 at the…",
+      "link": "https://www.linkedin.com/posts/campaignme_gcc-ooh-industry-summit-on-feb-13-to-host-activity-7292071869678034944-5G6K",
+      "activity_status": null
+    },
+    {
+      "title": "🎊 Happy #LunarNewYear to all of our clients and partners in the APAC region! 2️⃣0️⃣2️⃣5️⃣ We wish you success and prosperity throughout the…",
+      "link": "https://www.linkedin.com/posts/allunite-com_lunarnewyear-yearofsnake-ooh-activity-7290350314908446721-r2wq",
+      "activity_status": null
+    },
+    {
+      "title": "🚴 Earlier this week, a team of Broadsigns took part in the Cycle for Survival movement, a fundraising program that raises awareness and money for…",
+      "link": "https://www.linkedin.com/posts/broadsign_earlier-this-week-a-team-of-broadsigns-activity-7288579363329957889-y64L",
+      "activity_status": null
+    },
+    {
+      "title": "So pleased to share this news about the future of Route Research Ltd. It's been a long time in the making, but so it should as the numbers produced…",
+      "link": "https://www.linkedin.com/posts/denise-turner-183b405_route-appoints-ipsos-and-adwanted-to-build-activity-7288120372510494720-KO9F",
+      "activity_status": null
+    },
+    {
+      "title": "How do you ensure your #OOH measurements are accurate? Short answer: by using dynamic, real-time, sensor-based data! 📊 And this is precisely why…",
+      "link": "https://www.linkedin.com/posts/allunite-com_ooh-datafusion-datafusionmodel-activity-7288174005235150848-isr8",
+      "activity_status": null
+    },
+    {
+      "title": "#woo #ooh #tokyo #dsc 如果你是戶外媒體的big fan, 常追蹤日本戶外媒體創意與創新科技，那麼2025/2/20日舉辦的OOH Tokyo Conference…",
+      "link": "https://cn.linkedin.com/posts/rebecca-chang-7b523824_ooh-tokyo-conferrence-2025-with-association-activity-7287432819608371200-_xp4",
+      "activity_status": null
+    },
+    {
+      "title": "As AllUnite's commercial efforts (and team) grow, I have an exciting year of business trips and conferences ahead. For the first time since we signed…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_as-allunites-commercial-efforts-and-team-activity-7285565804203438080-wVlk",
+      "activity_status": null
+    },
+    {
+      "title": "KI im Marketing. Dirk Ziems ist einer der Päpste der morphologischen Konsumentenpsychologie in Deutschland. Sein neuestes Projekt: KI-basierte…",
+      "link": "https://de.linkedin.com/posts/im-gespräch-mit-out-of-home-activity-7283197419339563009-fJGl",
+      "activity_status": null
+    },
+    {
+      "title": "Ready for a journey? Vietnam’s beauty is already at your doorstep (or bus shelter!). 🚌⛩ Through this unique Out-of-Home campaign by IGPDecaux…",
+      "link": "https://www.linkedin.com/posts/jcdecaux_ready-for-a-journey-vietnams-beauty-is-activity-7285226793639243777-Qg7A",
+      "activity_status": null
+    },
+    {
+      "title": "Hello from Brasil! The OOH Capital Team has been working hard with OOH Capital Chairman Tom Goodard speaking to a crowded conference.",
+      "link": "https://www.linkedin.com/posts/oohcapital_hello-from-brasil-the-ooh-capital-team-has-activity-7310660909360705536-LeXP",
+      "activity_status": null
+    },
+    {
+      "title": "On the night of March 22, Glenfiddich and the Aston Martin Formula 1® Team lit up the Shanghai skyline with a spectacular light show on the iconic…",
+      "link": "https://www.linkedin.com/posts/edward-lim-7a4864a0_glenfiddich-astonmartinf1-lightshow-activity-7309772534244159488-vzkZ",
+      "activity_status": null
+    },
+    {
+      "title": "Out of Home 2024: Outperform! Die Bilanz im brandneuen OOH! Magazin. Pickepackevoll mit Daten und Fakten über das an stärksten wachsende Medium…",
+      "link": "https://de.linkedin.com/posts/ooh-magazin-ausgabe-1-2025-activity-7309474288527421440-mMrn",
+      "activity_status": null
+    },
+    {
+      "title": "Rethinking Innovation in DOOH When we think of innovation, we often expect something entirely new and groundbreaking. But what if innovation is…",
+      "link": "https://www.linkedin.com/posts/agung-prihambodo-94b48a25_dooh-livestreaming-innovation-activity-7308491507160817664-cm_P",
+      "activity_status": null
+    },
+    {
+      "title": "Great times in Rio de Janeiro and Sao Paolo hosting the panel of measurement at the conference de central outdoor 😀 Discussing how measurement…",
+      "link": "https://www.linkedin.com/posts/esbene_great-times-in-rio-de-janeiro-and-sao-paolo-activity-7308492768601923584-hB5V",
+      "activity_status": null
+    },
+    {
+      "title": "Ten years after I first encountered the international OOH family, we have held our first global industry conference, the 'OOH Tokyo Conference 2025,'…",
+      "link": "https://www.linkedin.com/posts/haruki-fujii-75b309107_ten-years-after-i-first-encountered-the-international-activity-7298697141957341186-mgrH",
+      "activity_status": null
+    },
+    {
+      "title": "Novos desafios Nos últimos anos, tive a oportunidade de contribuir para o crescimento do mercado de OOH ajudando o desenvolvimento e implementação…",
+      "link": "https://pt.linkedin.com/posts/sviriato_novos-desafios-nos-últimos-anos-tive-a-activity-7307501897630834688-vOKi",
+      "activity_status": null
+    },
+    {
+      "title": "Last evening was one for the books. An Iftar gathering with the Billups crew at Peranakan Bangsar, hosted by the ever-gracious Angie Cutter, MD of…",
+      "link": "https://www.linkedin.com/posts/claudiannavinstanislaus_itfar2025-billups-billupsmalaysia-activity-7307607938196508672-waQv",
+      "activity_status": null
+    },
+    {
+      "title": "The first day of the Dalebrook Media #MarketingCafe conference was full of inspiring insights. A key moment for me was hearing Helene Locke from…",
+      "link": "https://www.linkedin.com/posts/ruchellebarker_marketingcafe-marketingcafe2025-marketingroi-activity-7305604963869614080-gT1I",
+      "activity_status": null
+    },
+    {
+      "title": "🌙✨ Ramadan Kareem from LIVE BOARD,INC.! ✨🌙 As the holy month of #Ramadan begins, we extend our heartfelt wishes to all who celebrate and observe…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_ramadan-ramadan2025-liveboard-activity-7301146787468251136-5IN_",
+      "activity_status": null
+    },
+    {
+      "title": "This is what we do for clients . The 1st seamless multi-channel  integration on Outdoor Transit  with live TV + Social buzz . Full on multi sensory…",
+      "link": "https://www.linkedin.com/posts/stephanie-wong-84469330_this-is-what-we-do-for-clients-the-1st-activity-7311570303015391233-Axdw",
+      "activity_status": null
+    },
+    {
+      "title": "We’re just days out from the 2025 OOH Media Conference in Boston. Here are three trends that are reshaping the future of Out-of-Home, and where we…",
+      "link": "https://www.linkedin.com/posts/allunite-com_ooh2025-thepowerofpresence-outofhome-activity-7323677614659842049-w3Xp",
+      "activity_status": null
+    },
+    {
+      "title": "Next week BackLite Media will be in Boston to attend the OAAA Media Conference. Thoroughly looking forward to the event, please drop me a line if you…",
+      "link": "https://www.linkedin.com/posts/sean-gadsby-6649b668_next-week-backlite-media-will-be-in-boston-activity-7323274323773865984-tq9D",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Bold. 💡 Bright. 🎯 Unmissable. Bravo Media is proud to unveil our latest Citybus Limited bus body advertising campaign for OfferToday, now…",
+      "link": "https://www.linkedin.com/posts/petignaud_bravomedia-ooh-citybus-activity-7320955890646274048-VNRj",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to take the stage at OAAA's 2025 OOH Media Conference this May 5–7 in Boston. I’ll be speaking on Track 1: Innovation, diving into how…",
+      "link": "https://www.linkedin.com/posts/esbene_ooh2025-innovationtrack-adtech-activity-7322963728700792832-ksa6",
+      "activity_status": null
+    },
+    {
+      "title": "We're proud to be a sponsor of the 2025 OAAA Future Leaders Program, empowering the next generation of OOH talent in partnership with OOH UNITED  &…",
+      "link": "https://www.linkedin.com/posts/allunite-com_ooh2025-activity-7322922611506642944-Il42",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud to share this personal milestone- almost five years to the day since I arrived in the Netherlands 🇳🇱 I have achieved my B1 Diploma in…",
+      "link": "https://www.linkedin.com/posts/rafe-usher-harris-6b2251192_very-proud-to-share-this-personal-milestone-activity-7321478925044379648-29th",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to share AllUnite’s role at #OOH2025! From driving innovation with AI and real-time data to championing mentorship through the Future…",
+      "link": "https://www.linkedin.com/posts/esbene_ooh2025-futureofooh-adtech-activity-7321130223163400194-K-iT",
+      "activity_status": null
+    },
+    {
+      "title": "The future of OOH doesn’t just happen. It’s built by bold thinkers, supported by data-driven action, and shaped by collective mentorship. This…",
+      "link": "https://www.linkedin.com/posts/allunite-com_ooh2025-futureofooh-innovationtrack-activity-7321080487693664256-Qfcm",
+      "activity_status": null
+    },
+    {
+      "title": "At Broadsign, we’re always pushing the boundaries to stay at the forefront of the OOH industry. Let’s connect if you’d like to learn more about the…",
+      "link": "https://www.linkedin.com/posts/verono16_at-broadsign-were-always-pushing-the-boundaries-activity-7313790799626870785-Z5lj",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome aboard, Will. Let’s get started.",
+      "link": "https://www.linkedin.com/posts/welcome-aboard-will-lets-get-started-activity-7316314060122177536-mvsS",
+      "activity_status": null
+    },
+    {
+      "title": "博報堂DYグループ様に対談記事を取り上げていただています。 ここ数年で、デジタルOOHは「屋外にあるデジタル広告配信メディア」としての立場を強くしています。 広告主様のオムニチャネル戦略がよりスムーズになるよう、スクリーンの垣根をなくしていくこと。一方で、その中でデジタルOOHが担うべき役割、効果の…",
+      "link": "https://jp.linkedin.com/posts/shintarotakayama_デジタル広告配信メディアとしての屋外広告live-boardと博報堂ｄｙアウトドア-activity-7312695829494935553-JZL8",
+      "activity_status": null
+    },
+    {
+      "title": "I shared this line during an insightful talk: AI won’t replace you. But people using AI will. When you look at how work actually happens today…",
+      "link": "https://www.linkedin.com/posts/marilit-iligan_operations-systems-futureofwork-activity-7422213980749881344-JMG3",
+      "activity_status": null
+    },
+    {
+      "title": "After nearly 20 years in #InStoreRetailMedia, one lesson stands out: 📊 Measurement only matters if it unlocks real #IncrementalRevenue. Retailers…",
+      "link": "https://www.linkedin.com/posts/laetitia-lim_retail-media-why-measurement-must-drive-activity-7421551225524928512--IxC",
+      "activity_status": null
+    },
+    {
+      "title": "Sharing from a jobseeker. This journey is just as intense as expected, in many ways. Yet, something quite surprising happened. #1: Being a…",
+      "link": "https://www.linkedin.com/posts/sharing-from-a-jobseeker-this-journey-is-activity-7420147298225229824-XjHz",
+      "activity_status": null
+    },
+    {
+      "title": "You’re standing in front of a screen, looking at an ad. At first glance, it feels simple: a billboard, a cartop, a digital screen on a busy street.…",
+      "link": "https://www.linkedin.com/posts/allunite-com_allunite-dooh-audiencemeasurement-activity-7420370278158999552-QRPb",
+      "activity_status": null
+    },
+    {
+      "title": "Most marketing teams aren’t short on data. They’re short on clear answers, fast. OOH analytics often means digging through dashboards, exporting…",
+      "link": "https://www.linkedin.com/posts/allunite-com_allunite-audiencemeasurement-ai-activity-7419664009609572352-e_Bd",
+      "activity_status": null
+    },
+    {
+      "title": "Venice. During dinner with the people I’m traveling with, we found ourselves talking about the impact of the OOH advertising right in front of our…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_venice-during-dinner-with-the-people-i-activity-7418135006490865664-Q1J5",
+      "activity_status": null
+    },
+    {
+      "title": "Over the years, AllUnite has taken across continents with every region telling a different story, but the mission stays the same. Our competent…",
+      "link": "https://www.linkedin.com/posts/allunite-com_allunite-ooh-dooh-activity-7415425922570452993-ALrY",
+      "activity_status": null
+    },
+    {
+      "title": "While everyone’s eyes are on digital ads online, OOH is growing faster than most marketers realize with 8% Compound Annual Growth Rate (CAGR), year…",
+      "link": "https://www.linkedin.com/posts/allunite-com_adtech-dooh-ooh-activity-7414591648124506112-SeM7",
+      "activity_status": null
+    },
+    {
+      "title": "There’s always an elephant in the room. This time, it was literal. 🐘 Talking with South African OOH leaders revealed just how rapidly the industry…",
+      "link": "https://www.linkedin.com/posts/allunite-com_allunite-audiencemeasurement-ooh-activity-7410212786171092992-YQ5T",
+      "activity_status": null
+    },
+    {
+      "title": "📣 LIVE BOARD × MCDecaux | Upcoming Webinar LIVE BOARD and MCDecaux have been working closely to advance OOH in Japan by driving innovation, and…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_mcdecaux-liveboard-partnership-activity-7405160509726949376-VcPx",
+      "activity_status": null
+    },
+    {
+      "title": "What a week in New York — and what a year for AllUnite. Our trip to NYC last week was the perfect final chapter to an exceptional 2025. From…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_what-a-week-in-new-york-and-what-a-year-activity-7404551597349081088-VXDs",
+      "activity_status": null
+    },
+    {
+      "title": "This week in New York, we attended OOH NOW 2025 conference together with our CEO Esben Elmøe and CCO Kristina Rudoman. A great reminder that in a…",
+      "link": "https://www.linkedin.com/posts/galina-zirneeva_ooh2025-ooh-allunite-activity-7402715908135227392-xoRc",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, we had the pleasure of welcoming students from Suffolk University to our office. During the visit, Ahmed Albadwi from our global team led…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_omotesando-shibuya-industryvisit-activity-7440315515706912770-TyM8",
+      "activity_status": null
+    },
+    {
+      "title": "Last night, marketing stepped out of the boardroom and into the kitchen. The #MarketingCafé Experience Dinner, proudly sponsored by Tractor Outdoor,…",
+      "link": "https://www.linkedin.com/posts/ruchellebarker_marketingcafé-activity-7439969503406395392-43Q_",
+      "activity_status": null
+    },
+    {
+      "title": "\"These threats do not change our position: we cannot in good conscience accede to their request.\" Amodei said, Anthropic CEO. Yesterday I decided to…",
+      "link": "https://www.linkedin.com/posts/claude-jobmarket-activity-7433070746010193921-Lvgx",
+      "activity_status": null
+    },
+    {
+      "title": "🚖 200 Screens Live. 300 More Coming. We’re excited to announce that ROHM Media  is now integrated into the Uber Driver Support Ecosystem. This…",
+      "link": "https://www.linkedin.com/posts/oliver-hinton-5016a71b3_mobilitymedia-dooh-adtech-activity-7437136689078145024-UcS5",
+      "activity_status": null
+    },
+    {
+      "title": "The OOH Regional Seminar Shenzhen in association with World Out of Home Organization  successfully brought together 65 delegates from 11 countries…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_asiainitiative-kooha-bigstar-activity-7436720523423936512-b7Ec",
+      "activity_status": null
+    },
+    {
+      "title": "Idee che prendono forma. Eventi che diventano emozioni. Progetti che lasciano il segno. Ogni giorno ci sono donne creative, determinate e…",
+      "link": "https://www.linkedin.com/posts/annamariapisano_idee-che-prendono-forma-eventi-che-diventano-activity-7436334458192035840-NkXt",
+      "activity_status": null
+    },
+    {
+      "title": "🌍 Si è conclusa con successo la prima edizione del seminario OOH Asia a Shenzhen, organizzato in collaborazione con la World Out of Home…",
+      "link": "https://it.linkedin.com/posts/annamariapisano_si-è-conclusa-con-successo-la-prima-edizione-activity-7436065274690256896-alp_",
+      "activity_status": null
+    },
+    {
+      "title": "Today is the last day to apply for the OAAA Future Leader program, an experience I was lucky enough to have last year at the OAAA Media Conference!…",
+      "link": "https://www.linkedin.com/posts/dan-petersen-22229171_login-to-complete-an-application-or-to-access-activity-7435697194072080384-7aCJ",
+      "activity_status": null
+    },
+    {
+      "title": "🇬🇧 A great week in #London. Over the past few days, Shintaro Takayama and Pantip Rueangaphirak (Jurn) from our global team had the pleasure of…",
+      "link": "https://www.linkedin.com/posts/live-board-inc_london-london-partnerroadshow-activity-7435594864513187840-ihjR",
+      "activity_status": null
+    },
+    {
+      "title": "The future of marketing isn’t just smarter technology. It’s human insight, curiosity, trust and meaningful measurement working together. What a…",
+      "link": "https://www.linkedin.com/posts/ruchellebarker_pulseconference-activity-7435312891882356737-wORO",
+      "activity_status": null
+    },
+    {
+      "title": "London, March 2–6 🇬🇧 Looking forward to reconnecting and meeting new people while I’m in town. If you’re around, let’s catch up. (Yes, the photo…",
+      "link": "https://www.linkedin.com/posts/shintarotakayama_london-march-26-looking-forward-to-activity-7433196301485490176-oJa_",
+      "activity_status": null
+    },
+    {
+      "title": "Back in Tokyo visiting customers, partners and employees. We are working hard to launch the new measurement standard for Ooh in Japan 😀 Special…",
+      "link": "https://www.linkedin.com/posts/esbene_back-in-tokyo-visiting-customers-partners-activity-7433127544066838528-VeTC",
+      "activity_status": null
+    },
+    {
+      "title": "Asia’s OOH markets are evolving fast. However, are we moving forward together? The OOH Regional Seminar Shenzhen 2026 in association with WOO will…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_the-registration-fee-includes-activity-7430512740387082240-HlP2",
+      "activity_status": null
+    },
+    {
+      "title": "It's  OVER  ⚔️ ⚔️ After 4 long years of research - and plenty of coffee -  last week I have successfully defended my PhD thesis at Università Ca'​…",
+      "link": "https://www.linkedin.com/posts/nicologebbani_its-over-after-4-long-years-of-activity-7429457120523132929-6Bvh",
+      "activity_status": null
+    },
+    {
+      "title": "Over the past week, I’ve been really encouraged by the interest and thoughtful comments on my recent article about the “Measurement paradox” in OOH.…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_ooh-dooh-measurement-activity-7457689366971269122-9yKj",
+      "activity_status": null
+    },
+    {
+      "title": "Sorry to skip this one, but we’re sending a great team to represent AllUnite 😀",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_sorry-to-skip-this-one-but-were-sending-activity-7386680855978573824-6FhU",
+      "activity_status": null
+    },
+    {
+      "title": "This is making me excited for the future of AllUnite Analytics! We’re bringing clarity, intelligence, and a bit of magic to the world of OOH—with a…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_this-is-making-me-excited-for-the-future-activity-7328394652938584064-ICbr",
+      "activity_status": null
+    },
+    {
+      "title": "After so many productive discussions online, it’s great to finally share a meal in Tokyo with our partners. Exciting times ahead as we work together…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_after-so-many-productive-discussions-online-activity-7297816717206945792-aA2K",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible evening at the World Out of Home Organization Conference Gala Night! ✨I’m truly grateful for the opportunity to attend such a…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_what-an-incredible-evening-at-the-world-out-activity-7259697206780149762-7zvd",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to share the stage with these amazing professionals! If you're interested in the future of pDOOH and how to effectively measure its impact,…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_msafestival2024-pdooh-roi-activity-7226129484947574784-7_qH",
+      "activity_status": null
+    },
+    {
+      "title": "Yet another World Out of Home Organization Hong Kong Congress is over, and what a journey it has been! Managing global partnerships and leading…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_yet-another-world-out-of-home-organization-activity-7205248224301879296-8PIT",
+      "activity_status": null
+    },
+    {
+      "title": "It is with great respect and excitement that we at AllUnite share the news of our landmark partnership with OOH Capital. I am honoured to work…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_it-is-with-great-respect-and-excitement-that-activity-7159814624303853568-58Vs",
+      "activity_status": null
+    },
+    {
+      "title": "AllUnite Analytics keeps evolving and growing its functionality — yet another great release from our IT & Data teams! Galina Zirneeva Anatolii…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_allunite-analytics-campaign-management-activity-7155834614312296448-dave",
+      "activity_status": null
+    },
+    {
+      "title": "Canât you see the excitement on my face? Iâm so looking forward to represent my favorite AllUnite with the rockstar Jonathan M. ð",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_cant-you-see-the-excitement-on-my-face-activity-7125336814273376256-I83P",
+      "activity_status": null
+    },
+    {
+      "title": "Yet another announcement of our exciting partnership with RZK Digital in Brazil!",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_rzk-e-allunite-anunciam-parceria-activity-7102345943508762624-9np8",
+      "activity_status": null
+    },
+    {
+      "title": "For those of you who haven't heard the news - World Out of Home Organization is hosting the webinar \"The Next-Gen OOH Audience Measurement\", and I'm…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_the-next-gen-ooh-audience-measurement-how-activity-7046469596584779776-KBha",
+      "activity_status": null
+    },
+    {
+      "title": "A very exciting moment for AllUnite.com - we'll be finally sharing with the industry the OOH audience measurement tech that we worked on \"behind the…",
+      "link": "https://www.linkedin.com/posts/kristinarudoman_the-next-gen-ooh-audience-measurement-how-activity-7041781563885285376-R2Th",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:56:20Z"
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "public_identifier": "peter-lindstrom-0361094",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b1b61bdb4186006f05ee42b696b39dda",
+  "background_cover_image_url": null,
+  "first_name": "Peter",
+  "last_name": "Lindstrom",
+  "full_name": "Peter Lindstrom",
+  "follower_count": 2219,
+  "occupation": "OOH Manager at Park Advertising",
+  "headline": null,
+  "summary": "After spending the better part of 25 years within the OOH industry and advertising as a whole, it is now in my blood. OOH in South Africa must the be most competitive space out of all the ATL media with the highest number of competitors and an ever growing level of inventory, successful operating in this environment demonstrates once tenacity, strategic ability, depth of relationships and how one is able to analyze the market and trends.",
+  "location_str": "City of Johannesburg, Gauteng, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Johannesburg",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Park Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "OOH Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "Self-employed",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Self Employed",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "company": "Media Reign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-reign",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": "Focusing on the elements within the business to make it operate optimally.",
+      "location": "Johannesburg Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d2f669c6dd18ba5bfa3d1c6c95a87e33"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2023
+      },
+      "company": "Primedia Out Of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Executive: Sales and Marketing",
+      "description": "I am responsible for the sales for Primedia Outdoor and Primedia Outdoor Africa. Lead a team of 35 in sales and 5 in production. Achieve an annual sales target for the business through in-depth analysis of trends, product development and positioning, mentoring and leading a diverse team, building strong client relationships, negotiating favorable long term contracts and cementing the businesses position in the market.",
+      "location": "Johannesburg Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2010
+      },
+      "company": "Entrepreneur Magazine",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/entrepreneur-magazine",
+      "company_facebook_profile_url": null,
+      "title": "National Sales Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f4931b12498317bf02b81bfce40abc24"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Clear Channel Outdoor Botswana",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Gaborone, Botswana",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2003
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Client Service Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": "Management",
+      "degree_name": "B.Com Honours",
+      "school": "Rhodes University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rhodes-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c39bb5968f58080c8ddb7824f1001989",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1989
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Selborne College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": null,
+      "name": "BComm Honours: Management",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Rhodes University",
+      "url": null
+    }
+  ],
+  "connections": 2216,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lindilexoko",
+      "name": "Lindile Xoko",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelsoncamara",
+      "name": "Nelson Camara",
+      "summary": "Marketing Executive at Alula - Group Shared Services",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-hudson-south-africa",
+      "name": "Jennifer Hudson",
+      "summary": "Team Lead",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noziphojafta",
+      "name": "Nozipho Jafta",
+      "summary": "Chief Marketing Officer ★ Head: 2010 Fifa World Cup ★ Executive Manager (Marketing, Sponsorships & Events)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnbowlesafrica",
+      "name": "John Bowles",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tesssulaman",
+      "name": "Tess Sulaman",
+      "summary": "Business Management, Growth & Change Management Expert | Digital & Tech CEO | Writer",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-bekker-825a649b",
+      "name": "Megan Bekker",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-albertini",
+      "name": "Ricardo Albertini",
+      "summary": "Founder, Tomorrows Compass | The behavioural assessment that tells you if you’re ready for the future of work",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brenda-shezi-a4398a19",
+      "name": "Brenda Shezi",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gaopalelwe",
+      "name": "Gaopalelwe Moganetsi",
+      "summary": "Sales Executive at Bojanala Promotions",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylan-grewan-84a670269",
+      "name": "DYLAN GREWAN",
+      "summary": "Marketing Specialist at Institute Of Start-Up Enterprise SA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shayleen-dennis-canham-b996ab53",
+      "name": "Shayleen Dennis (Canham)",
+      "summary": "Chief Revenue Officer (CRO) | MBA (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorja-wilkins-mphil-mpsa-54b50330",
+      "name": "Jorja Wilkins - MPhil, MPSA",
+      "summary": "GM Future Media & Sustainability | Programmatic, Digital Transformation & ESG Strategy | Doctoral Candidate (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thandi-maphoto-952a12145",
+      "name": "Thandi Maphoto",
+      "summary": "Public Sector Claims Specialist",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brett-wood-584442a",
+      "name": "Brett Wood",
+      "summary": "Managing Director SALESGURU",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/s-khumbuzo-nkosi-58839711",
+      "name": "S'Khumbuzo Nkosi",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terri-friedman-pretorius",
+      "name": "Terri Pretorius",
+      "summary": "Strategic Relationships Executive | For Africa |For Good",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/siphindile-dlamini-a48b341b",
+      "name": "Siphindile Dlamini",
+      "summary": "Rights & Real Estate Administrator Primedia Outdoor.",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-bouwer-1226a620",
+      "name": "Graham Bouwer",
+      "summary": "CEO at Primedia Instore",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petri-kaparos-86210222",
+      "name": "Petri Kaparos",
+      "summary": "Sales & Marketing Executive at Apex Cordset Technologies",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodney-chivovo-80b46424",
+      "name": "Rodney Chivovo",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kagisho-pooe-663a5225",
+      "name": "Kagisho Pooe",
+      "summary": "General Manager: Primedia Outdoor (Rest of Africa)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-cassidy-24397327",
+      "name": "Joe Cassidy",
+      "summary": "Business Sales Director - Outernet Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deonne-roux-19b4412a",
+      "name": "Deonne Roux",
+      "summary": "Owner, Deonne le Roux Jewellers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauren-mather-0b013034",
+      "name": "Lauren Mather",
+      "summary": null,
+      "location": "Port Elizabeth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anke-nel-85609136",
+      "name": "Anke Nel",
+      "summary": "Client Lead: Strategy at Wavemaker",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henriette-harmse-5545a436",
+      "name": "Henriette Harmse",
+      "summary": "Sales Executive at Radio Active Media",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattkhasto",
+      "name": "Matt Nkanyiso Nkosi",
+      "summary": "National Sales and Marketing Executive at Independent Newspapers",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicky-read-25752446",
+      "name": "Nicky Read",
+      "summary": "Independent Business Owner at Innerbalance Pilates Studio",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moya-van-der-merwe-05abba47",
+      "name": "Moya van der Merwe",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mpho-rathole-8b997151",
+      "name": "Mpho Rathole",
+      "summary": "SHEQ",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dalene-williams-32091b54",
+      "name": "Dalene Williams",
+      "summary": "Marketing and Advertising Professional",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cecil-sambo-48006655",
+      "name": "Cecil Sambo",
+      "summary": "Multi-Store Operations and Retail Store Manager",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/travis-brown-305a3967",
+      "name": "Travis Brown",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yikita-padayachee-2770446a",
+      "name": "Yikita Padayachee",
+      "summary": "Sales & Marketing Executive  | Account Excecutive",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/takudzwa-hale-0b1a8270",
+      "name": "Takudzwa Hale",
+      "summary": "Head Of Sales Marketing at Platinum Corporate Media & Advertisng (Formerly Platinum Collection Corporate Gifts)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yousuf-cajee-57419571",
+      "name": "Yousuf Cajee",
+      "summary": "Director at SILVER SOLUTIONS MEDIA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meryl-bouwer-a3ba9275",
+      "name": "Meryl Bouwer",
+      "summary": null,
+      "location": "Bloemfontein"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sian-macgregor-82a29276",
+      "name": "Sian MacGregor",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roy-ravenscroft-5442a177",
+      "name": "Roy Ravenscroft",
+      "summary": "Sales at Nike Golf South Africa",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dwain-hargreaves-55a7857a",
+      "name": "Dwain Hargreaves",
+      "summary": "Acc Exec / Manager - Primedia Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terence-moodley-b7562a7b",
+      "name": "Terence Moodley",
+      "summary": "Dentist",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-hewett-4a679482",
+      "name": "Michelle Hewett",
+      "summary": "Media Sales",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-gibson-zgambo-3ab35a85",
+      "name": "Alice Gibson Zgambo",
+      "summary": "Founder @ A Class Events 1123",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/perseverance-mhlaba-23113b89",
+      "name": "Perseverance Mhlaba",
+      "summary": "Insurance Sales Representative at MKT Marketing SA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tania-smalberger-24490b8b",
+      "name": "Tania Smalberger",
+      "summary": "Key Accounts Executive @ Flighting Boyz",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-albert-94103290",
+      "name": "Dave Albert",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravi-naicker-b7a9ab94",
+      "name": "Ravi Naicker",
+      "summary": "Executive Operations at Primedia Outdoor",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-seymore-825a649b",
+      "name": "Megan Seymore",
+      "summary": "Senior Account Manager at Cinevation",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simba-takawira-52ba19a3",
+      "name": "Simba Takawira",
+      "summary": "Sales & Marketing Executive",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-montanari-634a53b0",
+      "name": "Marco Montanari",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rethabile-sibiya-49373bb9",
+      "name": "Rethabile Sibiya",
+      "summary": "Rights & Real Estate Account Manager",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yvette-seri-64300a100",
+      "name": "Yvette Seri",
+      "summary": null,
+      "location": "Centurion"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-roberts-927301101",
+      "name": "Dave Roberts",
+      "summary": "Primedia - Chairman of OOH and head of M+A",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-carsley-209534101",
+      "name": "Paul Carsley",
+      "summary": "Chief Operating Officer at Avidity",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-tshoane-170846111",
+      "name": "Samuel Tshoane",
+      "summary": "Insights Planner at Primedia Broadcasting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tebello-mokoena-38014b114",
+      "name": "Tebello Mokoena",
+      "summary": "Account Manager at Provantage",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-de-lima-rodrigues-272501140",
+      "name": "thiago de lima rodrigues",
+      "summary": null,
+      "location": "Belford Roxo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudette-ann-pillay-700604148",
+      "name": "Claudette-Ann Pillay",
+      "summary": "Creator of Opportunities at Mpowered Business Solutions",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/derick-mzoneli-474788151",
+      "name": "Derick Mzoneli",
+      "summary": "Director (A Media, Retail and Logistics Leader)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sindisa-smith-3b4ab6168",
+      "name": "Sindisa Smith",
+      "summary": "Finance Administration Lead",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylan-grewan-96833a17b",
+      "name": "Dylan Grewan",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nkaiseng-chantal-ledimo-5a864118b",
+      "name": "Nkaiseng Chantal Ledimo",
+      "summary": "Account executive  at Mpowered Business Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/terence-moodley-14a3a31b2",
+      "name": "Terence Moodley",
+      "summary": "Dentist at private dental studio",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Peter Lindstrom",
+      "link": "https://fi.linkedin.com/in/peter-lindstrom-7103116",
+      "summary": "Marketing Director at Orion Pharma",
+      "location": "Helsinki"
+    },
+    {
+      "name": "Peter Lindstrom",
+      "link": "https://ch.linkedin.com/in/peter-lindstrom-88aa47b",
+      "summary": "Dean, External Relations, University of St.Gallen",
+      "location": "St Gallen, Switzerland"
+    },
+    {
+      "name": "Peter Lindstrom",
+      "link": "https://dk.linkedin.com/in/peter-lindstrom-a3a6b863",
+      "summary": "Fotograf hos Inhouse Studios",
+      "location": "Horsens"
+    },
+    {
+      "name": "Peter Lindstrom",
+      "link": "https://www.linkedin.com/in/plindstrom",
+      "summary": "-",
+      "location": "Skokie, IL"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-11T00:00:00Z"
+  }
+}

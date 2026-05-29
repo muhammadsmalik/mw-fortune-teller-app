@@ -1,0 +1,845 @@
+{
+  "public_identifier": "cheng-qian-a3b36441",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/74e99df865b61dce248afc2fb5700f5b",
+  "background_cover_image_url": null,
+  "first_name": "Cheng",
+  "last_name": "Qian",
+  "full_name": "Cheng Qian",
+  "follower_count": 452,
+  "occupation": "Chief Product Architect at Media Resources Inc.",
+  "headline": null,
+  "summary": "Modern-day generalist with a very strong technical (engineering) background and aptitude for developing new skills. Deeply passionate about the process of innovation and creation: taking an abstract and novel idea and working it until a real product can be delivered to a customer. Revels in solving challenging problems with cross-disciplinary approaches but unfettered by any need to dive deep in specialized areas. Leads with confidence, empathy and loyalty, with a track record of building great technical teams. Well proven in all of the above.",
+  "location_str": "Toronto, Ontario, Canada",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Toronto",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Media Resources Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-resources-inc-",
+      "company_facebook_profile_url": null,
+      "title": "Chief Product Architect",
+      "description": null,
+      "location": "Ontario, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/942f1e37f5e9f99b783dffa7c7f492c6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2017
+      },
+      "company": "Media Resources Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-resources-inc-",
+      "company_facebook_profile_url": null,
+      "title": "Senior Engineering Product Manager",
+      "description": "Product Management and Development - Overall lead product manager for our 80% revenue product line VISIONiQ, defining product vision, competitive analysis, market positioning, and engineering deliverables. - One of three engineering team leaders for VISIONiQ, specialized in optics, data-distribution and controls networks, base-component manufacturing, and electrical systems. - Over 2.5 years, created product growth from an unknown product and brand, through 1.5 generations of major product overhauls, to becoming a preferred product to top tier customers in DOOH and sign manufacturing. Enabled several-fold increases in sales over this period. - Customer-collaborative product engineering. - Marketing, engineering sales support, and RFP preparation, with proven track record of winning bids. - In charge of government R&D grants, from proposal to final report. - Oversee Asian OEM and partners from R&D to mass-production deliverables. Customer Account Management - Expert in building customer relationships with depth of knowledge, trustworthiness and helpfulness. - Enabling customer success as a consultant and expert advisor; e.g. hosting industry workshops for decision makers and stakeholders, or presenting to city councils. Service Management - As interim Manager of Digital Services, transformed a small service department into a Network Operation Centre with advanced monitoring capabilities. - Developing and certifying network of subcontractor technicians across North America. - Resolving L3 escalations in engineering and customer management roles. Company Wide Roles - Transfer of available academic or theoretical knowledge to improve processes. - Driving the standardization/rationalization of VISIONiQ to reduce instructional, inventory and labour requirements. Realized substantial improvements in quality, turn-around time, and gross margins. - Dependable front-line leader for crisis resolution by application of technical depth and breadth, in the office or the field.",
+      "location": "Oakville",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/942f1e37f5e9f99b783dffa7c7f492c6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "company": "Luminautics Inc",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CTO and Co-founder",
+      "description": "Designed and developed state-of-the-art modular LED display tile product from initial concepts and requirements to production and delivery all within tight budget constraints. Led technology/product development and managed technical team of 5 to develop full system spanning from modular waterproof electronics to web-based control application. Successfully brought the product to market with sales at price points of >$300K per unit. Strong working knowledge in multidisciplinary array of technical and non-technical areas including mechanical and electronics engineering, web software architecture, distributed embedded software, network engineering, imaging algorithms, business development, technical sales, supply-chain and production management",
+      "location": "Toronto, Ontario",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2011
+      },
+      "company": "University of Toronto",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/university-of-toronto",
+      "company_facebook_profile_url": null,
+      "title": "PhD candidate (Sensory Cybernetics Engineering Researcher)",
+      "description": "While pursuing a PhD degree, developed the concept for a novel sensory augmentation device which employs operator eye-gaze to guide acoustic spatial filtering. Investigated across many disciplines including neurophysiology, cognitive psychology, eye-gaze estimation (EOG, corneal-reflection eye-tracking), control systems design, multi-sensor adaptive signal processing (beamforming), and low-power hardware/software implementation as a wearable device. Withdrew from PhD to pursue opportunity full-time with Luminautics.",
+      "location": "Toronto, Canada Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/32ae0da056034c069325516a5e73e778"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "University of Toronto",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/university-of-toronto",
+      "company_facebook_profile_url": null,
+      "title": "Head Teaching Assistant",
+      "description": "Led 2 other teaching assistants for 4th year ECE course in Sensory Communications to prepare/administer/grade tests, give lectures, and host tutorials and labs. Focused on the major design project aspect of the course, mentoring and advising over 40 teams in electronics, signal processing, programming, acoustics and experiment design.",
+      "location": "Toronto, Canada Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/32ae0da056034c069325516a5e73e778"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2007
+      },
+      "company": "IBM Canada Ltd.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Functional Verification Tester",
+      "description": "Two summer internships. Analyzed test coverage and designed/executed test cases for IBM.com e-Commerce engine in collaboration with IBM BA's. Specialized as team expert on testing of Configurator web application.",
+      "location": "Toronto, Canada Area",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Biomedical and Electrical Engineering",
+      "degree_name": "MASc",
+      "school": "University of Toronto",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "3.9/4.0 GPA",
+      "activities_and_societies": "Activities and Societies: OMGP Dragonboat team"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Engineering Science - Biomedical Option",
+      "degree_name": "BASc",
+      "school": "University of Toronto",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "3.5/4.0 GPA",
+      "activities_and_societies": "Activities and Societies: Engineering Science Class Representative, New College Vanier Vanguards, Formula SAE team, Mechatronics Design Association, Engineering Business Club, Victoria College ViCrew dragonboat team"
+    }
+  ],
+  "languages": [
+    "Chinese (Mandarin)"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Chinese (Mandarin)",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "NRC IRAP Small Project Grant",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "description": null
+    },
+    {
+      "title": "NSERC CREATE Academic Rehabilitation Engineering Scholarship (2 year)",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "description": null
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "description": null
+    },
+    {
+      "title": "CIHR Strategic Training Program Scholarship",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": null
+    },
+    {
+      "title": "Edward Rogers Sr. Department of ECE Fellowship",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": null
+    },
+    {
+      "title": "Engineering Science Honour Roll",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "description": null
+    },
+    {
+      "title": "Autonomous Underwater Vehicle Competition \"Best New Entry\"",
+      "issuer": "AUVSI",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "description": null
+    },
+    {
+      "title": "University of Toronto Engineering Entrance Scholarship",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [
+    {
+      "title": "SYSTEM AND METHODS FOR USER INSTALLATION OF MODULAR LED DISPLAYS",
+      "issuer": null,
+      "issued_on": {
+        "day": 3,
+        "month": 4,
+        "year": 2013
+      },
+      "description": null,
+      "application_number": null,
+      "patent_number": "EU PCT/CA2013/000318",
+      "url": null
+    }
+  ],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": null,
+      "title": "Bioengineering Science Course Project: “Augmenting Closed Loop Insulin Controllers”",
+      "description": "Explored the feasibility of using a secondary source of feedback, the autonomic nervous system (ANS), to improve current closed-loop insulin controllers. Implemented an extensive physiological model of diabetic patients and added in ANS pathway. Designed controllers with/without ANS feedback to compare performance. Invited to present at IBBME Scientific Day 2008.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": null,
+      "title": "4th Year Course Design Project: “Automated Music Transcription”",
+      "description": "Designed and implemented a computerized system to transcribe acoustical music into written form. Featured functionality of rhythm detection, pitch extraction and instrument detection.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": null,
+      "title": "Navigation System Leader for Autonomous Underwater Vehicle Competition",
+      "description": "Co-founded UofT Mechatronics Design Association and represented UofT in international competition against top schools such as MIT and Cornell. Won Best New Entry out of 5 new teams in the 9th annual AUVSI (Autonomous Unmanned Vehicle Systems International) Autonomous Underwater Vehicle competition in San Diego. Developed vehicle with passive sonar, magnetometer, pressure sensors, and underwater cameras with real-time algorithms. Spearheaded design of vehicle overall system architecture and control algorithms.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": null,
+      "title": "Engineering Science Undergraduate Design Project",
+      "description": "Developed an automated inventory-stocking robot to working prototype under strict constraints. Took charge of project planning as team leader for a team of 3. Implemented control algorithms in microcontroller and developed all electrical systems, having no prior experience with either.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 422,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ajeesh-sebastian",
+      "name": "Ajeesh Sebastian, P.Eng, PMP",
+      "summary": "Sr. Engineer/ Manager (Product/Design)",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olpai",
+      "name": "Olég Paikóff",
+      "summary": "Applications Engineer at Media Resources Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffrushton",
+      "name": "Jeff Rushton",
+      "summary": null,
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denys-trofymenko",
+      "name": "Denys Trofymenko",
+      "summary": "Product Engineer at Volvo",
+      "location": "Québec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/qianli2020",
+      "name": "Qian Li",
+      "summary": "Developer at Media Resources Inc.",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andresincennes",
+      "name": "Andre Sincennes",
+      "summary": "Director at Ghost Tree Consulting Inc.",
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miranda-b",
+      "name": "Miranda Wanja Buwalda",
+      "summary": "General and Electrical Assembler and Forklift Driver at Media Resources",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rana01",
+      "name": "Rana Bhattacharya",
+      "summary": "Strategic Engineering Leader | Transformative Capability Builder | Competitive Moat Enhancement | Architecture & Systems Eng. | Safety-critical Product Dev | CSSLP | CSM | Ex-Honeywell | Ex-GE | Ex-Tata",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/zadeh-amin",
+      "name": "Amin Zadeh",
+      "summary": "Senior Embedded Firmware/Hardware Engineer @ DwyerOmega",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garyswinkels",
+      "name": "Gary Swinkels",
+      "summary": null,
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jovith-kiran-rajappan",
+      "name": "Jovith Kiran Rajappan",
+      "summary": "Mechanical Designer | Product development | Software Quality Assurance | Data Integration | Informatica ETL | JIRA | Confluence | Automation Testing | Java | Python | Electro-Mechanical | SolidWorks | AutoCAD | GD&T",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-kwong-5a41b713",
+      "name": "Chris Kwong",
+      "summary": "retired CTO of Delta Controls Inc.",
+      "location": "Coquitlam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jay-hooper",
+      "name": "Jay Hooper  CRSP, GSC, B.A.",
+      "summary": "Senior Manager, Rapid Transit Construction Safety - Metrolinx",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carrie-morton-2b1775233",
+      "name": "Carrie Morton",
+      "summary": null,
+      "location": "Brockville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yifan-wang-p-e-p-eng-4328373a",
+      "name": "Yifan Wang, P.E., P.Eng.",
+      "summary": "Protection & Control | Smart Grid | Programming",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moe-mirzaalivandi-m-sc-p-eng-1b4a757",
+      "name": "Moe Mirzaalivandi ,M.Sc. , P.Eng",
+      "summary": "Lead Embedded Software Engineer / HVAC - BTMS Control Specialist",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clayton-lenz-574039252",
+      "name": "Clayton Lenz",
+      "summary": "Sr Structural Designer at Pride Signs Ltd.",
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elliottobrien",
+      "name": "Elliott O'Brien",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdelfattah-saafan-a4944010",
+      "name": "Abdelfattah Saafan",
+      "summary": "Staff Software Engineer @ Indeed",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-leonhardt-8b8b6692",
+      "name": "Megan Leonhardt",
+      "summary": "Logistics Coordinator at Pride Signs Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordan-w-61071916",
+      "name": "Jordan W.",
+      "summary": "Experienced Engineering and Product Management professional in the fixed and mobile surveillance industries.  Currently focused on providing hardware and software solutions to ensure fleet safety.",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keith-mcrae",
+      "name": "Keith McRae",
+      "summary": "3D Designer",
+      "location": "Pickering"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharth-kumar-614a3a230",
+      "name": "Sharth Kumar",
+      "summary": "Occupational Health and Safety Graduate with Diploma",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edward-zhao-670a79222",
+      "name": "Edward Zhao",
+      "summary": null,
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonfalbo",
+      "name": "Jason Falbo",
+      "summary": "Making the world safer, smarter, more livable leading R&D, Application Engineering & Product Management teams designing and delivering products for modern Smart Buildings.",
+      "location": "Vaughan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-smith-p-eng-8248b03",
+      "name": "Graham Smith, P.Eng",
+      "summary": null,
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierre-olivier-b877945",
+      "name": "Pierre Olivier",
+      "summary": "Technology executive",
+      "location": "St Redempteur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davekroetsch",
+      "name": "Dave Kroetsch",
+      "summary": "An experienced leader, helping companies navigate growth.",
+      "location": "Waterloo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrine-hart-691133b",
+      "name": "Katrine Hart",
+      "summary": "Account & Project Manager",
+      "location": "Milton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franklxc",
+      "name": "Frank Li",
+      "summary": "Strategic Product Manager , Cloud RAN",
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheena-weisman-94462319",
+      "name": "Sheena Weisman",
+      "summary": null,
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-townsend-2b990319",
+      "name": "Jeff Townsend",
+      "summary": "Facility Electrician, Global Manufacturing and Supply Division at GSK",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-iskander-4a1b5019",
+      "name": "John Iskander",
+      "summary": "Technical Support Engineer @ Rychiger Canada | Electronics Engineering Technologist",
+      "location": "Brampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-gallow-6488701a",
+      "name": "Steve Gallow",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-york-97212021",
+      "name": "Robert York",
+      "summary": "CSWP, CSWPA-SM\nProject Design / Solidworks",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kendoucet",
+      "name": "Ken Doucet",
+      "summary": "Retired",
+      "location": "Saint John"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-dufour-a1467329",
+      "name": "Simon Dufour",
+      "summary": "COO at Aperium,  Programmer",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-rudkin-a857b632",
+      "name": "Jennifer Rudkin",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-dj-houser-36b28238",
+      "name": "Donna (DJ) Houser",
+      "summary": "Project Manager at Media Resources Inc.",
+      "location": "Fort Mill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-anderson-6a14b539",
+      "name": "Matt Anderson",
+      "summary": "Director of Sales - Western USA at Media Resources Inc.",
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-j-davis",
+      "name": "William Davis",
+      "summary": "Chief Architect at Caseware",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/behzad-mahdavikhah-09356748",
+      "name": "Behzad Mahdavikhah",
+      "summary": "Director Of Engineering at Silanna",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zhaoyonglin-edward-zhao-8b425a49",
+      "name": "Zhaoyonglin(Edward) Zhao",
+      "summary": "Electrical Tester & Technician at Thermon Canada Inc.",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/troy-macavelia-6a29a951",
+      "name": "Troy MacAvelia",
+      "summary": "Manufacturing Engineering Manager at Media Resources Inc.",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikita-shah-73aa8a51",
+      "name": "Nikita Shah",
+      "summary": "Graphic Designer, Web Designer, Copy",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edward-zhao-a8603254",
+      "name": "Edward Zhao",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edward-zhao-a1b72156",
+      "name": "Edward Zhao",
+      "summary": null,
+      "location": "Richmond Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayton-wallace-9868b75b",
+      "name": "Jayton Wallace",
+      "summary": "Business Owner at Pine Box Contracting Inc.",
+      "location": "Stirling"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-johnstone-9472a760",
+      "name": "Brad Johnstone",
+      "summary": "fixture installations,  contractor, problem solutions",
+      "location": "Burlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dann-moggach-63333a62",
+      "name": "Dann Moggach",
+      "summary": "Shipping & Logistics Supervisor",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-thomson-a74a5162",
+      "name": "Will Thomson",
+      "summary": "SVP Operations at Media Resources Inc.",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-miller-6370b869",
+      "name": "Mark Miller",
+      "summary": "Firefighter at SJRFD",
+      "location": "St John’s"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-bhojani-29131079",
+      "name": "Phil Bhojani",
+      "summary": "Purchasing Manager at Media Resources Inc.",
+      "location": "Richmond Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thaer-haddad-85734284",
+      "name": "Thaer Haddad",
+      "summary": null,
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carina-yu-3904ab92",
+      "name": "Carina Yu",
+      "summary": "Project Manager & Photographer",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-abraham-6177b1a9",
+      "name": "Chris Abraham",
+      "summary": "Installation Manager at Media Resources Inc.",
+      "location": "Haldimand County"
+    },
+    {
+      "link": "https://www.linkedin.com/in/minal-soni-406b42a9",
+      "name": "Minal Soni",
+      "summary": "Financial Operations  | Trade Settlements | Custody Services | Process Optimization | Open to New Roles in Capital Markets",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yong-peng-373b42aa",
+      "name": "Yong Peng",
+      "summary": null,
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zhihong-feng-069016b2",
+      "name": "Zhihong Feng",
+      "summary": "Manager, Power System Studies at Powertech Labs Inc.",
+      "location": "Surrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-pinder-656842116",
+      "name": "Brad Pinder",
+      "summary": "Lead hand of Metal Fabrication at Media Resources Inc.",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sweta-desai-254840119",
+      "name": "SWETA DESAI",
+      "summary": "Senior Solutions Architect at RBC",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-kawasaki-58769111a",
+      "name": "Ashley Kawasaki",
+      "summary": "Manager for Customer Service Department",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jodi-billard-777aa612b",
+      "name": "Jodi Billard",
+      "summary": "Install Coordinator- Pride Signs",
+      "location": "Dundas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhi-patel-36b874160",
+      "name": "Abhi Patel",
+      "summary": null,
+      "location": "Etobicoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/media-resources-inc-human-resources-029129188",
+      "name": "Media Resources Inc. Human Resources",
+      "summary": null,
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lillian-xu-a259321a1",
+      "name": "Lillian Xu",
+      "summary": "Honors Actuarial and Financial Mathematics Co-op at McMaster University",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharanjeet-dhaliwal-a3251b204",
+      "name": "Sharanjeet Dhaliwal",
+      "summary": "--",
+      "location": "Etobicoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeet-patel-923655205",
+      "name": "Jeet Patel",
+      "summary": "SDET / QA Automation Engineer at Office Depot",
+      "location": "Greater Houston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashpreet-singh-351060215",
+      "name": "Ashpreet Singh",
+      "summary": "--",
+      "location": "Brampton"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Cheng Qian",
+      "link": "https://cn.linkedin.com/in/cheng-qian-9b639824",
+      "summary": "Analog Design Engineer",
+      "location": "Shanghai, China"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://sg.linkedin.com/in/cheng-qian-747b5192",
+      "summary": "Quantitative Analyst at Harveston Asset Management",
+      "location": "Singapore"
+    },
+    {
+      "name": "Cheng, Qian",
+      "link": "https://www.linkedin.com/in/cheng-qian-0b97623",
+      "summary": "engineer at amlogic",
+      "location": "San Jose, CA"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://www.linkedin.com/in/cheng-qian-22890625",
+      "summary": "Data Science | Machine Learning",
+      "location": "Greater Chicago Area"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://cn.linkedin.com/in/cheng-qian-b2321a183",
+      "summary": "Columbia Engineering｜M.S. in Operations Research Student at Columbia University | Business Intelligence, Strategic Research & Wealth Management Intern at Alibaba Group",
+      "location": "Hangzhou"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://cn.linkedin.com/in/cheng-qian-5648b886",
+      "summary": "Project Manager at Chengdu Aliben Science &amp;amp; Technology CO., LTD",
+      "location": "Jining"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://cn.linkedin.com/in/cheng-qian-b8801175",
+      "summary": "Professor at Southwest Hospital, Third Military Medical University,",
+      "location": "China"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://www.linkedin.com/in/sqian-cheng",
+      "summary": "Software Engineer at Google",
+      "location": "Mountain View, CA"
+    },
+    {
+      "name": "cheng qian",
+      "link": "https://ca.linkedin.com/in/cheng-qian-2a954a61",
+      "summary": "Data Science | Machine Learning and AI | Big Data | Cloud (AWS) | Advanced Data Analysis",
+      "location": "Canada"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://ca.linkedin.com/in/cheng-qian-72b196110",
+      "summary": null,
+      "location": "Toronto, ON"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://ca.linkedin.com/in/cheng-qian-0629",
+      "summary": "Bioprocess Expert in Scaling Vaccine Manufacturing, GMP Compliance",
+      "location": "Greater Montreal Metropolitan Area"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://ca.linkedin.com/in/cheng-qian-48a02a25",
+      "summary": null,
+      "location": "Richmond Hill, ON"
+    },
+    {
+      "name": "Cheng Qian",
+      "link": "https://ca.linkedin.com/in/cheng-qian-62618457",
+      "summary": "QA Actuary at Moody’s Analytics",
+      "location": "Toronto, ON"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-27T00:00:00Z"
+  }
+}

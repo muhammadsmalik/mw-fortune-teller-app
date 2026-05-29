@@ -1,0 +1,722 @@
+{
+  "public_identifier": "gabrielakco",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/eca2c522ac49252144db707b42540064",
+  "background_cover_image_url": null,
+  "first_name": "Gabriela",
+  "last_name": "Kostrzevicz Campos de Oliveira ",
+  "full_name": "Gabriela Kostrzevicz Campos de Oliveira",
+  "follower_count": 2878,
+  "occupation": "Proprietária at Localize Painéis",
+  "headline": null,
+  "summary": "Olá, meu nome é Gabriela, mais conhecida como Gabi! Formada em Administração na UEPG.  Atualmente faço o curso de Marketing na Unicesumar.<br>Apaixonada por mídia exterior 🏻✨<br>Proprietária da empresa Localize Painéis e sócia da empresa Publish-on. 🧡💜<br>Conselheira da ACIPG JOVEM.<br>Faço parte do grupo de Networking - BNI CG Vila Velha.",
+  "location_str": "Ponta Grossa, Paraná, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Ponta Grossa",
+  "state": "Parana",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Localize Painéis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/localizepaineis",
+      "company_facebook_profile_url": null,
+      "title": "Proprietária",
+      "description": null,
+      "location": "Ponta Grossa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/498eb898f80fa8f271a8dc33061b21c9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "PUBLISH ON MIDIA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/publish-on-midia",
+      "company_facebook_profile_url": null,
+      "title": "Sócia proprietária",
+      "description": null,
+      "location": "Ponta Grossa, Paraná, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8a11ab4455ad9606951758e615de0bed"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Curso Superior de Tecnologia (CST)",
+      "school": "UniCesumar",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unicesumaroficial",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b4f0e4d62d27d3f6cbb03a3e38b4eec",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Business Administration, Management and Operations",
+      "degree_name": "Bacharelado em Administração",
+      "school": "Universidade Estadual de Ponta Grossa",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/oficialuepg",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/43fd97f01327fe8a10b0c3a18855d7ff",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "title": "Conselheiro",
+      "cause": "Infantil",
+      "company": "Clube de Aventureiros Albatroz",
+      "company_linkedin_profile_url": null,
+      "description": "Trabalhamos com crianças de 6 a 9 anos com o objetivo de auxiliar pais, mães ou responsáveis na tarefa de desenvolver os aspectos físico, mental, espiritual e social de seus meninos e meninas, num ambiente seguro e agradável.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "title": "Instrutor",
+      "cause": "Serviço social",
+      "company": "Clube de Desbravadores",
+      "company_linkedin_profile_url": null,
+      "description": "Trabalhamos com a educação cultural, social de crianças e adolescentes situadas na faixa etária entre 10 e 15 anos, independentemente da raça, religião, cor e classe social. Desde de 2009 participo de atividades para ajudar o próximo, explorar a natureza e compartilhar o amor de Cristo para todas as pessoas.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 2777,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/annavictoria910",
+      "name": "Anna Victoria",
+      "summary": null,
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franciscoerdos",
+      "name": "Francisco Erdos",
+      "summary": null,
+      "location": "Arapongas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucas-cauan-wascoski",
+      "name": "Lucas Cauan Wascoski",
+      "summary": "Analista de crédito | CPA10",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/espacosmart",
+      "name": "Espaço Smart",
+      "summary": "A Espaço Smart comercializa produtos e serviços que promovem a industrialização e sustentabilidade na construção civil.",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrielidacosta",
+      "name": "Gabrieli Costa",
+      "summary": "Analista de Dados | SQL | Power BI",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-rafael-44a378165",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-mioduski-29440126b",
+      "name": "GUILHERME MIODUSKI",
+      "summary": "Engenheiro Agrônomo - UEPG",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luiza-kaminoski-386398274",
+      "name": "Luiza Kaminoski",
+      "summary": ".",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-souza-397b18289",
+      "name": "Michael Souza",
+      "summary": "Consultor de vendas na PUBLISH ON MIDIA",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/l%25C3%25ADvia-vasconcelos-03094759",
+      "name": "Lívia Vasconcelos",
+      "summary": "SDR/ Grupo BC Energia",
+      "location": "Goiânia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janetemorais",
+      "name": "Janete Morais",
+      "summary": "Fotógrafo na Doce Fotografia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/igor-farias-saldanha",
+      "name": "Igor Farias Saldanha",
+      "summary": null,
+      "location": "Cachoeira do Sul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amauri-levinski-45b97528",
+      "name": "Amauri Levinski",
+      "summary": "Diretor Administrativo na Rede Nova de Comunicação",
+      "location": "Mafra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreia-aparecida-alves-dos-santos-14190329",
+      "name": "Andreia Aparecida Alves dos Santos",
+      "summary": "Corretor imobiliário | Tavarnaro Consultoria Imobiliária",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiojfv",
+      "name": "Fabio Vieira",
+      "summary": "Diretor Garagem 470 Comunicação e Marketing",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-teixeira-96542530",
+      "name": "Camila Teixeira",
+      "summary": "Closer | Inside Salles | Business Development Consultant | Account Executive | SAAS | B2B",
+      "location": "Valença"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-corr%25C3%25AAa-9a321031",
+      "name": "Renato Corrêa",
+      "summary": "Ceo iD Impress e Construtora Palace Edificações",
+      "location": "Paracatu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lilian-benetti-87b01738",
+      "name": "Lilian Benetti",
+      "summary": null,
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiano-gutenberg-45016746",
+      "name": "Fabiano Gutenberg",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-bulos-3b217249",
+      "name": "Jorge Bulos",
+      "summary": "Diretor na Bullos Outdoor",
+      "location": "Feira de Santana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gilvan-pereira-14913150",
+      "name": "Gilvan Pereira",
+      "summary": "Diretor administrativo | ASSEJUR E T&A",
+      "location": "Florianópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gufonseca8",
+      "name": "Gustavo Fonseca",
+      "summary": "Operações & Sucesso do Cliente | Gestão de Processos, Atendimento e Projetos | Marketing Operacional e Tecnologia",
+      "location": "João Pessoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tais-acipg-89765057",
+      "name": "Tais Acipg",
+      "summary": null,
+      "location": "Carambeí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/herikison-dias-rodrigues-7aa0b759",
+      "name": "Herikison Dias Rodrigues",
+      "summary": "Pós-graduando em Fisiologia e Prescrição do Exercício",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-bueno-3320235b",
+      "name": "Marcelo Bueno",
+      "summary": "coordenador administrativo na publish-on",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristiane-tavares-4991546b",
+      "name": "Cristiane Tavares",
+      "summary": "Diretor Comercial | Acert Certificadora Digital",
+      "location": "Recife"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aciaa-comercial-80a87977",
+      "name": "Aciaa Comercial",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cleverson-dias-503a8777",
+      "name": "Cleverson Dias",
+      "summary": null,
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-fiori-85a44178",
+      "name": "Carlos Fiori",
+      "summary": "Executivo de Marketing",
+      "location": "Mogi das Cruzes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marina-sepinho-9ba92680",
+      "name": "Marina Sepinho",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-beltrao-carvalho-267b9385",
+      "name": "Marcio Beltrao Carvalho",
+      "summary": "Diretor administrativo na MAXNET - GEMINIANO",
+      "location": "Picos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anacarolinadalpizzol",
+      "name": "Ana Carolina Dal Pizzol",
+      "summary": "Arquiteta e Urbanista | Especialista em Arquitetura Infantil | Design de Interiores e Iluminação",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiane-somer-519441a0",
+      "name": "Fabiane Somer",
+      "summary": "Profissional de Recursos humanos",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clyciane-grzbielucha-112b91a2",
+      "name": "Clyciane Grzbielucha",
+      "summary": "ACIPG - Associação Comercial, Industrial e Empresarial de Ponta Grossa",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-gama-24b839a3",
+      "name": "Paula Gama",
+      "summary": "Relacionamento com Cliente",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karyn-tatsch-8bb45aa6",
+      "name": "Karyn Tatsch",
+      "summary": "Correspondente de Crédito e BPO Financeiro",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabr%25C3%25ADcia-ribeiro-068b01113",
+      "name": "Fabrícia Ribeiro",
+      "summary": "Indústria de alimentos - Qualidade - Graduada no curso de Tecnologia em Alimentos UTFPR",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-vezozzo",
+      "name": "Patricia Vezozzo",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gilmardenck",
+      "name": "Gilmar Denck",
+      "summary": "Associativismo | Empreendedorismo | Negócios & Inovação | Metodologias Produtivas | Programa Associar | Gerencia Institucional | Entidades Integradas",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-carolina-da-veiga-jandrey-borges-8a1579125",
+      "name": "Ana Carolina da Veiga Jandrey Borges",
+      "summary": "Diretora Administrativa no ClubedeMídia",
+      "location": "Santa Cruz do Sul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-generali-zafra-158664136",
+      "name": "Rodrigo Generali Zafra",
+      "summary": null,
+      "location": "Santo André"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monica-loris-68aa69139",
+      "name": "Monica Loris",
+      "summary": "Assistente Social",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-pacheco-995674144",
+      "name": "Juliana Pacheco",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nivaldo-marques-411ba5145",
+      "name": "Nivaldo Marques",
+      "summary": "EMPREENDEDOR",
+      "location": "Belém"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-kosinski-da-silva-308a58159",
+      "name": "Gabriel Kosinski da Silva",
+      "summary": "Engenheiro Civil - Coordenador de Obras",
+      "location": "Itu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ifagboala-monteiro-87446b160",
+      "name": "Ifagboala Monteiro",
+      "summary": "Diretor administrativo na egbe ase ifa gidi gidi - ijo orunmila",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/victor-teixeira-523222169",
+      "name": "victor teixeira",
+      "summary": null,
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lidiane-marilis-01910a175",
+      "name": "Lidiane Marilis",
+      "summary": "Team Leader | Operations",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-brito-507864180",
+      "name": "Vanessa Brito",
+      "summary": "Executiva de Vendas",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrianolourencoweb3",
+      "name": "Adriano Lourenço",
+      "summary": "Diretor de Arte | Growth Hacker",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-mendes-92b578187",
+      "name": "Eduardo Mendes",
+      "summary": "Arte Finalista | PRIMOR COMUNICAÇÃO VISUAL",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelica-kricheski-a29137190",
+      "name": "Angelica Kricheski",
+      "summary": "Analista de Controladoria",
+      "location": "Palmira"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-menezes-69717a195",
+      "name": "Alessandra Menezes",
+      "summary": "Branding e Criação de conteúdo são a minha área",
+      "location": "Boa Vista"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-godoi-dos-santos-9918a2195",
+      "name": "Eduardo Godoi dos Santos",
+      "summary": "TRADE MARKETING | ANALISTA DE MARKETING COMERCIAL | ORGANIZAÇÃO DE EVENTOS | CX",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raissa-machado-ramos-47b61919a",
+      "name": "Raissa Machado Ramos",
+      "summary": "Graduada em Ciências Contábeis e Administração.",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafaela-siqueira-1b83661a0",
+      "name": "Rafaela Siqueira",
+      "summary": "Desenvolvimento de negócios | Comercial AIDC | Projetos | Barcode  | Relacionamento Estratégico | Canais B2B",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-aparecida-alves-6317b51b9",
+      "name": "Patricia Aparecida Alves",
+      "summary": "CPA 10 | Gestão Administrativa e Financeira",
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/otavio-benvenutti-3781b91ba",
+      "name": "Otavio Benvenutti",
+      "summary": null,
+      "location": "Ponta Grossa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-menezes-b507b0204",
+      "name": "Rafael Menezes",
+      "summary": "Motorista Profissional",
+      "location": "Ponta Grossa"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Esse texto fala sobre as mudanças que está havendo nosso mercado de OOH, DOOH e pDOOH. Mas, o Outdoor clássico ainda tem a sua importância para os…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_o-outdoor-n%C3%A3o-morreu-o-futuro-da-m%C3%ADdia-ooh-activity-7225084955503038464-zD_m",
+      "activity_status": null
+    },
+    {
+      "title": "Essa semana tive o privilégio de falar sobre a Localize Painéis no BNI CG VILA VELHA para vários empresários da cidade. Foi incrível destacar a…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_localizepaineis-bnicgvilavelha-bnibrasil-activity-7225087323799973890-XT5f",
+      "activity_status": null
+    },
+    {
+      "title": "Este ano fizemos o Projeto Pense Grande - Outdoor Universitário na Unicesumar com os alunos de Publicidade e Propaganda. Fizemos 3 Palestras, sendo…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_este-ano-fizemos-o-projeto-pense-grande-activity-7225093832462278656-UsIb",
+      "activity_status": null
+    },
+    {
+      "title": "No finalzinho de Junho, fizemos a Festa do Mídia, que foi para os nossos queridos parceiros: para as Agências de Publicidade de Ponta Grossa ❤️",
+      "link": "https://www.linkedin.com/posts/gabrielakco_no-finalzinho-de-junho-fizemos-a-festa-do-activity-7225094717884047361-IFgk",
+      "activity_status": null
+    },
+    {
+      "title": "Sexta feira estive em Marechal Cândido Rondon e tive o privilégio de fazer visita técnica e de conhecer a empresa Independência Ferro e Aço do Sr.…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_sexta-feira-estive-em-marechal-c%C3%A2ndido-rondon-activity-7234196553219866624-Q1bo",
+      "activity_status": null
+    },
+    {
+      "title": "EPJE em Marechal Cândido Rondon com amigos do associativismo jovem da ACIPG - Associação Comercial, Industrial e Empresarial de Ponta Grossa 💚 ✨…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_epje-em-marechal-c%C3%A2ndido-rondon-com-amigos-activity-7234197949453369344-QJGN",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje, no EPJE de Umuarama (Conjove Umuarama) tivemos a oportunidade de fazer visita técnica na Chevrolet Uvel Umuarama com o Ivanildo Coutinho (um…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_hoje-no-epje-de-umuarama-conjove-umuarama-activity-7204948991128559616-3YRe",
+      "activity_status": null
+    },
+    {
+      "title": "Mais um EPJE (Encontro Paranaense de Jovens Empreendedores) para conta ✅ Umuarama ✨ 🤩 Conjove Umuarama Hoje teve palestra com o Mário Valério Gazin…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_mais-um-epje-encontro-paranaense-de-jovens-activity-7205235721551405056-yMWW",
+      "activity_status": null
+    },
+    {
+      "title": "Evento Best Mídia realizado na semana passada em Curitiba PR pelo Grupo de Mídia Paraná. Maior premiação de mídia do Paraná 🤩🤩🤩 Mais um evento…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_midiaooh-midiadooh-grupodemidiapr-activity-7212063234999132160-r_0o",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos #contratando Assistente de Marketing. Você conhece alguém que possa se interessar?",
+      "link": "https://www.linkedin.com/posts/gabrielakco_contratando-activity-7190748284724924416-cPPW",
+      "activity_status": null
+    },
+    {
+      "title": "Nesta terça feira (26/03), a Localize Painéis e a PUBLISH ON MIDIA marcaram presença no evento Media Experience do Grupo de Mídia do Paraná,…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_nesta-ter%C3%A7a-feira-2603-a-localize-pain%C3%A9is-activity-7179433073229324291-jI2u",
+      "activity_status": null
+    },
+    {
+      "title": "Semana passada, estive presente no EPJE (Encontro Paranaense dos Jovens Empreendedores), sendo uma das representantes da ACIPG Jovem (ACIPG -…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_semana-passada-estive-presente-no-epje-activity-7179434009649627137-PbgQ",
+      "activity_status": null
+    },
+    {
+      "title": "Representando as minhas empresas Localize Painéis e PUBLISH ON MIDIA no evento da ALOOH Latam 🫶🏻✨🇲🇽",
+      "link": "https://www.linkedin.com/posts/gabrielakco_representando-as-minhas-empresas-localize-activity-7186500822673801217-lwSI",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos em Maringá para o EPJE (Encontro Paranaense dos Jovens Empreendedores) e uma das dinâmicas do evento é fazer visita técnica nas empresas…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_estamos-em-maringá-para-o-epje-encontro-activity-7177069349050990593-FHih",
+      "activity_status": null
+    },
+    {
+      "title": "Semana passada na convenção da Central de Outdoor 💙 Localize Painéis e PUBLISH ON MIDIA como sempre marcando presença ✨✨✨",
+      "link": "https://www.linkedin.com/posts/gabrielakco_semana-passada-na-conven%C3%A7%C3%A3o-da-central-de-activity-7176383284656959488-Y3_g",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos #contratando. VocÃª conhece alguÃ©m que possa se interessar?",
+      "link": "https://www.linkedin.com/posts/gabrielakco_contratando-activity-7139973194366590976-iPA6",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos #contratando. VocÃª conhece alguÃ©m que possa se interessar?",
+      "link": "https://www.linkedin.com/posts/gabrielakco_contratando-activity-7139973965036376064-LtMS",
+      "activity_status": null
+    },
+    {
+      "title": "Segundo Tommy â(OOH) garante que o #anuncio continue sendo uma ferramenta para informar e se conectar com os consumidores, em vez de enganÃ¡-los.…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_anuncio-cgi-digital-activity-7120416229781110785-rzFP",
+      "activity_status": null
+    },
+    {
+      "title": "ReuniÃ£o Comemorativa de 3 anos do BNI CG VILA VELHA â¤ï¸",
+      "link": "https://www.linkedin.com/posts/gabrielakco_reunião-comemorativa-de-3-anos-do-bni-cg-activity-7114929494661959682-iEBg",
+      "activity_status": null
+    },
+    {
+      "title": "Workshop e PrÃªmio da Central de Outdoor que a Localize PainÃ©is participou ð¤©ð¤©ð¤©",
+      "link": "https://www.linkedin.com/posts/gabrielakco_workshop-e-prêmio-da-central-de-outdoor-que-activity-7114929414274002944-ml0S",
+      "activity_status": null
+    },
+    {
+      "title": "A informaÃ§Ã£o certa em tempo real Ã© a grande vantagem competitiva. A Midia OOH cada vez mais indo atrÃ¡s de informaÃ§Ãµes para mostrar a forÃ§a e o…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_a-informação-certa-em-tempo-real-é-a-grande-activity-7104908268405215232-hOxk",
+      "activity_status": null
+    },
+    {
+      "title": "O âFotografe PGâ jÃ¡ estÃ¡ na sua quinta ediÃ§Ã£o e, em 2023,Â o concurso serÃ¡ realizadoÂ atravÃ©s de uma parceria das empresas Localize…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_concurso-de-fotografia-comemora-os-200-anos-activity-7092484649851002881-5emv",
+      "activity_status": null
+    },
+    {
+      "title": "Campanha sensacional ð",
+      "link": "https://www.linkedin.com/posts/gabrielakco_campanha-sensacional-activity-7092485648086933504-Gz_N",
+      "activity_status": null
+    },
+    {
+      "title": "Evento Dia do Midia Localize Painéis PUBLISH ON MIDIA e Placas de Esquina 🤩❤️",
+      "link": "https://www.linkedin.com/posts/gabrielakco_evento-dia-do-midia-localize-painéis-publish-activity-7077480117555347457-nPY0",
+      "activity_status": null
+    },
+    {
+      "title": "Vídeo do Dia do Midia da Localize Painéis PUBLISH ON MIDIA e Placas de Esquina Super agradecimento ao Laércio Ferreira da Infooh e a todas as…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_vídeo-do-dia-do-midia-da-localize-painéis-activity-7080949344513724416-uMck",
+      "activity_status": null
+    },
+    {
+      "title": "Venha participar na nossa prÃ³xima reuniÃ£o BNI CG VILA VELHA o grupo de melhor performance do Brasil nos meses de marÃ§o e abril, e aproveite para…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_bnivilavelha-bnicgvilavelha-bnibrasil-activity-7060387274462572544-jL5C",
+      "activity_status": null
+    },
+    {
+      "title": "Ontem, a minha empresa Localize Painéis recebeu o prêmio de Exibidora do Ano 2022 da Central de Outdoor Nacional 🤩🧡 #centraldeoutdoor #outdoor…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_centraldeoutdoor-outdoor-midiaexterior-activity-6976203672586207232-cyZc",
+      "activity_status": null
+    },
+    {
+      "title": "Não desista de seus sonhos. Começamos com dvds. A Netflix, empresa pioneira de serviços de streaming de vídeos que revolucionou a televisão, está…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_n%C3%A3o-desista-de-seus-sonhos-come%C3%A7amos-com-activity-6850838237229916160-243z",
+      "activity_status": null
+    },
+    {
+      "title": "A campanha Outdoor vende é uma ação que a Central de Outdoor Nacional está promovendo com os seus associados. Essa campanha esta sendo veiculada no…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_midias-midiaexterior-outdoor-activity-6824153433176604672-2TJQ",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje apresentei o meu TCC (Trabalho de Conclusão de Curso) e fui aprovada! Realizando o meu sonho: me formar em Administração! ❤️ #uepg…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_uepg-administracao-administradora-activity-6794068723180298240-NUhm",
+      "activity_status": null
+    },
+    {
+      "title": "Saia na frente! Venda mais no dia dos pais! Outdoor em Ponta Grossa e na Região dos Campos Gerais é com Localize Painéis! Telefone: (42)3323-5005.…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_outdoor-pontagrossa-midiaexterior-activity-6828011246307045376-st1D",
+      "activity_status": null
+    },
+    {
+      "title": "O que dizer desta foto? Essa foto retrata, os meus últimos 4 anos...Pode parecer bem clichê, mas essa conquista representa a realização de um sonho,…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_administradora-administracao-uepg-activity-6824751187489763328-0JIt",
+      "activity_status": null
+    },
+    {
+      "title": "Que tal uma homenagem de aniversário em um outdoor? Esse foi o presente que dei para o meu pai ♥️ #midiaexterior #publicidade #propaganda #outdoor…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_midiaexterior-publicidade-propaganda-activity-6618883794202087424-EYHd",
+      "activity_status": null
+    },
+    {
+      "title": "Campanha no ar em todo o Brasil 🇧🇷 Localize Painéis",
+      "link": "https://www.linkedin.com/posts/gabrielakco_central-de-outdoor-incentiva-mensagens-de-activity-6661817878032982016-lfkt",
+      "activity_status": null
+    },
+    {
+      "title": "Nossa campanha com a Central de Outdoor Nacional ❤ #outdoor #painelrodoviario #midiaexterior #centraldeoutdoor #pontagrossa #parana",
+      "link": "https://www.linkedin.com/posts/gabrielakco_outdoor-painelrodoviario-midiaexterior-activity-6665386993326841856-Sto5",
+      "activity_status": null
+    },
+    {
+      "title": "Do Instagram para o Outdoor! Essa é uma das fotografias vencedoras do concurso Ponta Grossa 196 anos! #midiaexterior #propaganda #publicidade…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_midiaexterior-propaganda-publicidade-activity-6577552392324214784-qq1q",
+      "activity_status": null
+    },
+    {
+      "title": "Front Light é com a Localize Painéis! 😃 #pontagrossa #parana #midiaexterior #frontlight #outdoor #painelrodoviario #empena #propaganda #publicidade…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_pontagrossa-parana-midiaexterior-activity-6592238439926685696-LLAF",
+      "activity_status": null
+    },
+    {
+      "title": "Concurso de fotografia em homenagem ao aniversário de Ponta Grossa! As melhores fotos da cidades serão divulgadas em nossos outdoors!",
+      "link": "https://www.linkedin.com/posts/gabrielakco_concurso-de-fotografia-em-homenagem-ao-aniversário-activity-6572152907733487616-9yUM",
+      "activity_status": null
+    },
+    {
+      "title": "Feliz dia das mulheres ♥️🌺🌹🌸",
+      "link": "https://www.linkedin.com/posts/gabrielakco_feliz-dia-das-mulheres-activity-6642012733501947904-faQW",
+      "activity_status": null
+    },
+    {
+      "title": "A Localize Paineis além de estar no Instagram e no Facebook, também está no LinkedIn e Twitter! 🌎♥️ #outdoor #painelrodoviario #midiaexterior…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_outdoor-painelrodoviario-midiaexterior-activity-6633813174900580352-8J9x",
+      "activity_status": null
+    },
+    {
+      "title": "Anuncie em um dos melhores pontos da cidade. Ao lado da Uepg. Av.Bonifácio Vilela esquina com a Rua Penteado Almeida. #localizepaineis #empena…",
+      "link": "https://www.linkedin.com/posts/gabrielakco_localizepaineis-empena-frontlight-activity-6600557572355346432-qRMW",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-04T00:00:00Z"
+  }
+}

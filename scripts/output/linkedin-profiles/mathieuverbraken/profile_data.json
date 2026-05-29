@@ -1,0 +1,626 @@
+{
+  "public_identifier": "mathieuverbraken",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5f1353ca6f979b42cfb1fd4207953024",
+  "background_cover_image_url": null,
+  "first_name": "Mathieu",
+  "last_name": "Verbraken",
+  "full_name": "Mathieu Verbraken",
+  "follower_count": 909,
+  "occupation": "Development Manager ME - Africa - Western Asia at Daktronics",
+  "headline": "Husband | Father | Development Manager @ Daktronics | Passionate about classic cars and new ventures",
+  "summary": null,
+  "location_str": "دبي الإمارات العربية المتحدة",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Dubai",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "Development Manager ME - Africa - Western Asia",
+      "description": "Moved to Dubai to join the local Daktronics team to capture the (greater) region's potential.  Developing the business from Turkey to India and sub Sahara Africa, direct with customers and/or through sales partners.  Partners that have proven invaluable as from 2020 when travel became near to impossible. The industry has transformed over the last years, with the new technology opening up more applications to more customers. Joining the worldwide expat community has been transformative for our whole family, we are open to the world and enjoy every moment.",
+      "location": "Dubai",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2016
+      },
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "European Business Development",
+      "description": "I rejoined the fantastic team from OPEN nv after the company was acquired by Daktronics.  Back into the vibrant (d)OOH industry and with a special focus on bringing customers with traditional media to digital.  A very exciting journey to which I owe great friendships across Europe and Western Asia.",
+      "location": "Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2014
+      },
+      "company": "Manuchar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/manuchar",
+      "company_facebook_profile_url": null,
+      "title": "Polymer Trading",
+      "description": "Polymer Trader at Manuchar, buying polymers from the manufacturers in South East Asia, the Middle East and the Gulf region, selling to customers in Africa and CIS countries.",
+      "location": "Antwerp Area, Belgium",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b294fc7cf337b7bdbd3d2fae1b11799c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2011
+      },
+      "company": "OPEN nv",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": "OPEN nv developed and manufactured poster scrolling mechanisms for the OOH industry.  Being part of a fun and skilled team under great leadership/ownership was a formative experience.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2010
+      },
+      "company": "OPEN nv",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Master in General Management",
+      "degree_name": "Master's degree",
+      "school": "Vlerick Leuven-Gent Management School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vlerick-business-school",
+      "school_facebook_profile_url": null,
+      "description": "Vlerick Business School is a triple-accredited, international business school at the heart of Europe.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b6a2b3d5308e9b1a9076e267e617d9c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Electromechanics",
+      "degree_name": "Industrial Engineer",
+      "school": "KU Leuven Faculty of Engineering Technology - Group T Leuven Campus",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/kuleuven-campus-groept-leuven",
+      "school_facebook_profile_url": null,
+      "description": "Master in Electromechanical engineering at Groep T in Leuven. I did my thesis at the Ford Proving Ground in Lommel, comparing in-vehicle diagnostics to external sensors.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7896d31dcf5fa9f5dcad2a0e7ff08118",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "math, science",
+      "degree_name": null,
+      "school": "Onze-Lieve-Vrouwecollege Antwerpen",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/onze-lieve-vrouwecollege-antwerpen",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2856e4dc003b802186ae8dc441aba255",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Sint-Jozef-Klein-Seminarie",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/sint-jozef-klein-seminarie",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/34947bbfdc5ba0f3fba555fe308c1f50",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nele-delforche",
+      "name": "Nele Delforche",
+      "summary": "Deputy at AMEA Office of Flanders Investment & Trade (FIT) Dubai\nEmbassy of BELGIUM - Government of FLANDERS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dadefreeman",
+      "name": "Dade Freeman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hassandaoudi",
+      "name": "Hassan Daoudi",
+      "summary": null,
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thair-kayed-lxxxvi",
+      "name": "THAIR KAYED",
+      "summary": "Project Engineer at Daktronics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fasihqamar",
+      "name": "Fasih Muhammad Qamar",
+      "summary": "Business Development Manager at Nice Gulf FZE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aike-roodenburg",
+      "name": "Aike Roodenburg",
+      "summary": "Kunsthal Gent maak je samen | financieringsmix | relatiebeheer",
+      "location": "Ghent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliveralex",
+      "name": "Olivier Van Haver",
+      "summary": null,
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericpetitjean",
+      "name": "Eric Petitjean",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edbrownphotography",
+      "name": "Ed Brown",
+      "summary": "Co-founder at Lovely Creatures. We photograph people calmly and quietly.",
+      "location": "Hinckley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-bicknell-backlite",
+      "name": "James Bicknell",
+      "summary": "Chief Executive Officer at BackLite Media UAE | Helping brands be seen, appreciated, and desired in Dubai and Abu Dhabi.",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunoderaedt",
+      "name": "Bruno Deraedt",
+      "summary": "Director Risk Consulting at PwC",
+      "location": "Hoegaarden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurannelefebvre",
+      "name": "Lauranne LEFEBVRE",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annazora",
+      "name": "Anna Zora",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jsr80",
+      "name": "JS Srouji",
+      "summary": null,
+      "location": "Nice"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericsson-bacayo-a9713b39",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mathieucz",
+      "name": "Mat Crr",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/narjas-jas-22911b33",
+      "name": "Narjas Jas",
+      "summary": "Business Development Manager at Zen phone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nuremiishak",
+      "name": "Nuremi Ishak",
+      "summary": "Office & Protege Manager | Partner Relationship Specialist | Government Engagement | Event & Training Coordinator | Experienced Executive Assistant |",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hareeshkumar-nair-3080b941",
+      "name": "HAREESHKUMAR NAIR",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/madhu-kunnath-sankunni-47151954",
+      "name": "Madhu Kunnath Sankunni",
+      "summary": "Wesco Anixter•635 followers",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oohmedia",
+      "name": "Benjamin Milne",
+      "summary": "Chief Executive Officer - APAC at billups | Strategic Leader in Media and Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timvanheusden",
+      "name": "Tim van Heusden",
+      "summary": "UK head of packaging at CARLSBERG UK LIMITED",
+      "location": "Northampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willem-van-den-abeele-8b260b1",
+      "name": "Willem Van den Abeele",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-fauquette-2118b31",
+      "name": "Charles Fauquette",
+      "summary": null,
+      "location": "Ghent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabine-keersmaekers-80101a5",
+      "name": "Sabine Keersmaekers",
+      "summary": "Executive Office Project Manager at Seddiqi Holding",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tina-chikhani-nader",
+      "name": "Tina Chikhani Nader",
+      "summary": "P&L Executive & Growth Architect | Digital, eCommerce & Marketing Transformation | 25+ Years Driving Market Leadership",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-halliwell-2874546",
+      "name": "Patrick Halliwell",
+      "summary": null,
+      "location": "Portishead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pieter-heyman-6968027",
+      "name": "Pieter Heyman",
+      "summary": null,
+      "location": "Grimbergen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vallender-k-11555517",
+      "name": "Vallender K",
+      "summary": "Business Development Manager at Honeywell Life Safety ME",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-van-gorp-b6141918",
+      "name": "Peter Van Gorp",
+      "summary": "Principal and Discipline Lead - Fire Engineering / Expert Witness - Fire, Life Safety and Loss Prevention",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijn-de-kuyper-87028919",
+      "name": "Martijn De Kuyper",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuel-smet-82254819",
+      "name": "Emmanuel SMET",
+      "summary": "ERP administrator at SOLAREC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomhamers",
+      "name": "Tom Hamers",
+      "summary": "Partner bij McKinsey & Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/honey-tharwani-81216120",
+      "name": "Honey Tharwani",
+      "summary": "Founder, Chaashni Dubai | Redefining Indian Couture in the Middle East",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ehab-ashraf-a61b2a29",
+      "name": "Ehab Ashraf",
+      "summary": "Cluster Sales Manager at Nexans \nGeneral Manager Nexans PCABU DMCC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-pais-7776a132",
+      "name": "James Pais",
+      "summary": "Business Development Manager at IMTC (Ismail Musabbah Trading Co.LLC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhay-vidwans-32253433",
+      "name": "Abhay Vidwans",
+      "summary": "LV-MV Switchgear / AVL Program / Type Testing / Project management/ Business Development Manager / Sales / PM / Technical Marketing / Product Manager / IEC 61439 / IEC 62271",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-shaver-03875133",
+      "name": "John Shaver",
+      "summary": "Building Engineer at The  Ballantyne Hotel and Lodge",
+      "location": "Charlotte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bipin-kumar-456bb736",
+      "name": "Bipin Kumar",
+      "summary": "Country Manager at Cleveland Cable Company Trading | Sales, Marketing & Commercial Operations Expert | Business Planning & Strategy | Full P&L & General Management | Electrical Manufacturing & Distribution | Middle East",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajeev-nk-1781303a",
+      "name": "Rajeev NK",
+      "summary": "General manager -  Westinghouse MEA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mazen-zein-6559833a",
+      "name": "Mazen Zein",
+      "summary": "General Manager | Global Sales | Commercial | Leadership",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-bauhuis-6516053b",
+      "name": "Mark Bauhuis",
+      "summary": "Project Manager IT - Development & Delivery @ KLM Royal Dutch Airlines",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glenn-toms-85b3aa40",
+      "name": "Glenn Toms",
+      "summary": "Data & Analytics Leader | Enterprise BI, AI & Analytics Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivy-liu-1267b841",
+      "name": "Ivy Liu",
+      "summary": "Senior Manager, Global Payment Solution at HSBC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/husain-afser-7a32b950",
+      "name": "husain afser",
+      "summary": "Holsaler at Technical Trading",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoinette-tebbutt-92631455",
+      "name": "Antoinette Tebbutt",
+      "summary": "E-learning designer, writer, engaging trainer/facilitator, consultant and rock star teambuilder!",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mustansir-raghib-72739656",
+      "name": "Mustansir Raghib",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/josh-howardson-95b97856",
+      "name": "Josh Howardson",
+      "summary": null,
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arjun-k-r-1380aa59",
+      "name": "Arjun K R",
+      "summary": "Lighting & Electrical Components Sales Specialist | Home Automation |Smart Home|Client Relationship & Technical Support | 13+ Years sales professional",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaima-mallak-19ba3859",
+      "name": "Shaima Mallak",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/imad-al-zoubi-3ba75b60",
+      "name": "Imad Al-Zoubi",
+      "summary": "Cable Division Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-van-den-boogaert-a4246261",
+      "name": "Ian Van den Boogaert",
+      "summary": "zaakvoerder bij bvba vidan",
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-badran-58907966",
+      "name": "Christian Badran",
+      "summary": "Business Development Manager at Consort                                                                                     DipGAI, MGAI, RegGAI",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/panal-shimbwa-15238771",
+      "name": "Panal Shimbwa",
+      "summary": "MANAGING DIRECTOR / C.E.O at PANAL FREIGHTERS LTD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yehya-hewidy-503a4a75",
+      "name": "Yehya Hewidy",
+      "summary": "Area Sales Manager at WAGO Middle East FZC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/haissam-khcheich-7ba2148a",
+      "name": "Haissam Khcheich",
+      "summary": "Jubaili Bros•657 followers",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heba-samir-elsayed-b436a996",
+      "name": "Heba Samir Elsayed",
+      "summary": "Development Manager @ Novablue Industries |  Architecture /Engineering",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugene-hopper-1486a7b1",
+      "name": "Eugene Hopper",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/praveen-damodar-884298115",
+      "name": "Praveen Damodar",
+      "summary": "General Manager | ADCD-Approved Fire Protection Contractor | Delivering Compliant Fire & Life Safety Solutions Across the UAE",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rizza-reyes-pascua-93947015b",
+      "name": "rizza-reyes pascua",
+      "summary": "-",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/risa-pascual-3221a01a0",
+      "name": "risa pascual",
+      "summary": "Researcher at UP Manila",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Thank you, Benjamin Milne, for the fantastic moderation on this ever so important topic. Let’s all work together towards a sustainable OOH market.…",
+      "link": "https://www.linkedin.com/posts/mathieuverbraken_thank-you-benjamin-milne-for-the-fantastic-activity-7032035112145809408-VCpN",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful installation here in Dubai, thank you BackLite Media.",
+      "link": "https://www.linkedin.com/posts/mathieuverbraken_wonderful-installation-here-in-dubai-thank-activity-6903977710725451776-DSDh",
+      "activity_status": null
+    },
+    {
+      "title": "Great seeing these incredible displays now live, thanks BackLite Media for your continued confidence in Daktronics!",
+      "link": "https://www.linkedin.com/posts/mathieuverbraken_the-launch-of-the-triple-crown-activity-6852852819330969600-4SpN",
+      "activity_status": null
+    },
+    {
+      "title": "Rolf Bauer Daktronics",
+      "link": "https://www.linkedin.com/posts/mathieuverbraken_rolf-bauer-daktronics-activity-6334072937229967360-T31V",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/mathieuverbraken_a-new-visual-proof-that-digital-can-also-activity-6344622981473497088-WOrj",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-29T00:00:00Z"
+  }
+}

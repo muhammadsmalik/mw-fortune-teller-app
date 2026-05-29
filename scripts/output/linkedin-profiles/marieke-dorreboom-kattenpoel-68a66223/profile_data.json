@@ -1,0 +1,582 @@
+{
+  "public_identifier": "marieke-dorreboom-kattenpoel-68a66223",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Marieke",
+  "last_name": "Dorreboom-Kattenpoel",
+  "full_name": "Marieke Dorreboom-Kattenpoel",
+  "follower_count": 1078,
+  "occupation": "Concession & Operations Director at Global Nederland",
+  "headline": "Concession & Operations Director bij Global Media & Entertainment",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Concession & Operations Director",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2025
+      },
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Operations Director",
+      "description": null,
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Manager Operations",
+      "description": null,
+      "location": "Amsterdam en omgeving, Nederland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2018
+      },
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Business Support Manager",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "National Sales Manager",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands",
+      "company_facebook_profile_url": null,
+      "title": "Regional Sales Manager",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80bcbc7592ba0366ebcfa3c81e8230a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "The Operations Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-operations-company-nl",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": "Amsterdam, Noord-Holland, Nederland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f0961fd3259e61ec61bf26f2d55d8807"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "company": "OUTFRONT Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outfrontmediausa",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b717f2b7428ddba9efa084ac69d86edf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2007
+      },
+      "company": "CBS Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outfrontmediausa",
+      "company_facebook_profile_url": null,
+      "title": "Sales Assistant",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b717f2b7428ddba9efa084ac69d86edf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2005
+      },
+      "company": "TUI",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tuigroup",
+      "company_facebook_profile_url": null,
+      "title": "Intercontinental Travel Department",
+      "description": "Continents Asia &amp; Africa",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/499c3699a5772af80ae349f44fec3581"
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/suzanne-ketelaar",
+      "name": "Suzanne Ketelaar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirkzwageredwin",
+      "name": "Edwin Dirkzwager",
+      "summary": "Sales Manager bij Global Media & Entertainment",
+      "location": "Mijdrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dannythijssing",
+      "name": "Danny Thijssing",
+      "summary": "Head of Outdoor bij Abovomaxlead | Op een missie om van iedereen een Out of Home fan te maken",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartenduijne",
+      "name": "Maarten Duijne",
+      "summary": "Founder & CEO at adpaq",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karlijnebos",
+      "name": "Karlijne Bos",
+      "summary": "Team Lead Merk en Campagne",
+      "location": "Ede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/reinierkingma",
+      "name": "Reinier Kingma",
+      "summary": "Account Manager at 2BMade",
+      "location": "Leeuwarden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikenijssenmedia",
+      "name": "Mike Nijssen",
+      "summary": "Directeur bij de Media Balie",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/virginia-hickman",
+      "name": "Virginia Hickman",
+      "summary": "Concession Manager at Exterion Media NL",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margotveltman",
+      "name": "Margot Veltman",
+      "summary": "Client Service Manager",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joostschipperijn",
+      "name": "Joost Schipperijn",
+      "summary": "Digital Lead bij Global",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-keijzers",
+      "name": "Marco Keijzers",
+      "summary": "General Manager at PPD Instore",
+      "location": "Oss"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niels-geuze",
+      "name": "Niels Geuze",
+      "summary": "Partner | Notaris at N/P | Corporate | Governance",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandraspiekerman",
+      "name": "Sandra Spiekerman",
+      "summary": "Docent Beroepshavo | Marketing & Communicatie",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lidewijponsioen",
+      "name": "Lidewij Ponsioen",
+      "summary": "Projectmanager die teams verbindt, structuur brengt en resultaat levert op een mensgerichte manier.",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/els-franssen",
+      "name": "Els Franssen",
+      "summary": "Campagne Manager/ Managing Partner at TheMerge",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/birgittenhove",
+      "name": "Birgit ten Hove",
+      "summary": "Media | Marketing | Strategie | AI |",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heinluinstra",
+      "name": "Hein Luinstra ✪✪✪",
+      "summary": "Managing Director @ Duurzaam Advies Loket",
+      "location": "Groningen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-okker",
+      "name": "Marcel Okker",
+      "summary": "Traffic Manager",
+      "location": "Haarlem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-michiel-den-hoedt-8a51b5ba",
+      "name": "Paul Michiel den Hoedt",
+      "summary": null,
+      "location": "Leiderdorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wadedewit",
+      "name": "Wade de Wit",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mari%25C3%25ABlle-besselink-5354b18",
+      "name": "Mariëlle Besselink",
+      "summary": "Sales Director at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erwinvanrheenen",
+      "name": "Erwin van Rheenen",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-dorreboom-70b2a74",
+      "name": "Frank Dorreboom",
+      "summary": "Accountmanager at Giant ICT",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erik-husken-ab14b05",
+      "name": "Erik Husken",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-van-der-giessen-9725197",
+      "name": "Frank van der Giessen",
+      "summary": "Ik help je met het bereiken van jouw doelgroep in de regio Rijnmond",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rinze-russchen-5353458",
+      "name": "Rinze Russchen",
+      "summary": "Freelance Consultant",
+      "location": "Haarlem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemarie-van-der-heijden-6859369",
+      "name": "Annemarie van der Heijden",
+      "summary": "Event & Project Manager at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leon-van-der-velden-29705310",
+      "name": "Leon van der Velden",
+      "summary": "Operations Manager at Ocean Outdoor",
+      "location": "Breda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-dumartin-88725710",
+      "name": "Charlotte Dumartin",
+      "summary": "Grey Doha•3K followers",
+      "location": "Doha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-dekkers-24407212",
+      "name": "Thomas Dekkers",
+      "summary": "Sales Manager at Global",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-witt-9868a612",
+      "name": "Sandra Witt",
+      "summary": "Account Manager bij Global Media & Entertainment",
+      "location": "Hoofddorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petra-jongman-a3437113",
+      "name": "Petra Jongman",
+      "summary": "By Media",
+      "location": "Zwolle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarek-othman-53560213",
+      "name": "Tarek Othman",
+      "summary": "Senior Account Manager at Global Media & Entertainment",
+      "location": "Hoofddorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jean-paul-lesman-7a893514",
+      "name": "Jean-Paul Lesman",
+      "summary": "Customer Service, Hospitality and Sales",
+      "location": "Dongen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivette-stokkel-26204215",
+      "name": "Ivette Stokkel",
+      "summary": "Traffic / Operations bij Dentsu Creative Amsterdam",
+      "location": "Aalsmeer"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roy-van-der-vegt-227a3517",
+      "name": "Roy van der Vegt",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristina-torrijos-sanchez-b280991b",
+      "name": "Cristina Torrijos Sanchez",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eva-rozenbeek-8244831b",
+      "name": "Eva Rozenbeek",
+      "summary": "Commercieel Directeur Tonny Media & Dag en Nacht Media",
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-bergisch-b1578421",
+      "name": "Claire Bergisch",
+      "summary": "Senior Account Manager at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemieke-westphal-24480924",
+      "name": "Annemieke Westphal",
+      "summary": "Journalist en redacteur",
+      "location": "Almere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mink-zwolsman-92947227",
+      "name": "Mink Zwolsman",
+      "summary": "Business Development Director | Pioneering DOOH",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikki-van-rooij-59486930",
+      "name": "Nikki van Rooij",
+      "summary": "Account Director at Global Media & Entertainment",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rik-bloemberg-24123b34",
+      "name": "Rik Bloemberg",
+      "summary": null,
+      "location": "Arnhem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/koen-dorreboom-9226b036",
+      "name": "Koen Dorreboom",
+      "summary": "Erkend Financieel Adviseur & Erkend Hypotheekadviseur at doorKoen",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saskia-tollenaar-97901046",
+      "name": "Saskia Tollenaar",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-de-zwaan-64403147",
+      "name": "Vincent de Zwaan",
+      "summary": "Security Officer, DPO and Projectmanager bij  M+ Group BV",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantal-uiterwijk-winkel-81576855",
+      "name": "Chantal Uiterwijk Winkel",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-dames-08a63857",
+      "name": "Hans Dames",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lenie-van-marle-02128b66",
+      "name": "Lenie Van Marle",
+      "summary": "Moeder en oma bij Metropool Venue Hengelo",
+      "location": "Enschede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fenna-m-1b75a872",
+      "name": "fenna M.",
+      "summary": "Operations Assistant at Exterion Media",
+      "location": "Haarlem"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dick-vorkink-1b235877",
+      "name": "Dick Vorkink",
+      "summary": "Senior Kwaliteitsinspecteur bij Global Media en Entertainment",
+      "location": "Enschede"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sjaak-spruijt-63b9b18b",
+      "name": "Sjaak Spruijt",
+      "summary": null,
+      "location": "Geldermalsen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ineke-van-egmond-83701692",
+      "name": "Ineke Van Egmond",
+      "summary": "Global Media & Entertainment B.V.",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charita-zaal-hazeleger-b00a0a92",
+      "name": "Charita Zaal-Hazeleger",
+      "summary": "--",
+      "location": "Mijdrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-van-essen-a771a3b3",
+      "name": "Tim van Essen",
+      "summary": "Manager Operations at Unilash, a Maple Group Company | Special Cargo Engineer",
+      "location": "Randstad"
+    }
+  ],
+  "recommendations": [
+    "Mike Nijssen\n\nIk heb meer dan 10 jaar met Marieke samen mogen werken. Marieke gaat altijd voor het maximale resultaat. Inzet en oplossend vermogen zijn op zijn zachts uit te drukken als kernkwaliteiten. Marieke weet altijd overzicht te behouden en daaruit weer nieuwe verbeterpunten te formuleren voor haar zelf en haar team. Marieke is uiterst bekwaam in zowel het coachen als aansturen van haar teams. Daarnaast een prettige collega om mee samen te kunnen werken."
+  ],
+  "activities": [
+    {
+      "title": "Duurzaam reclamebeleid maken in gemeenten is vaak een complexe puzzel. Je wilt kwalitatieve, schone en veilige bushaltes in de openbare ruimte.…",
+      "link": "https://www.linkedin.com/posts/marieke-dorreboom-kattenpoel-68a66223_buitenreclame-gemeenten-ooh-activity-7435282787693174784-oCCM",
+      "activity_status": null
+    },
+    {
+      "title": "Deze week mocht ik namens Global Nederland een sollicitatietraining geven aan 3e jaars vmbo leerlingen op het CBurg College. Storm Poly ging buiten…",
+      "link": "https://www.linkedin.com/posts/marieke-dorreboom-kattenpoel-68a66223_deze-week-mocht-ik-namens-global-nederland-activity-7083353315849166848-Z-Hh",
+      "activity_status": null
+    },
+    {
+      "title": "Als je bij Exterion Media NL werkt, dan vliegt de tijd. Letterlijk. Dat blijkt uit het feit dat het in dit bijzondere jaar al weer november is, maar…",
+      "link": "https://www.linkedin.com/posts/marieke-dorreboom-kattenpoel-68a66223_als-je-bij-exterion-media-nl-werkt-dan-vliegt-activity-6729084994297323520-B55g",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-18T00:00:00Z"
+  }
+}

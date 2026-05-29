@@ -1,0 +1,878 @@
+{
+  "public_identifier": "burr-smith-b7161010",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/77be590681ca2675a03b654ad52a155c",
+  "background_cover_image_url": null,
+  "first_name": "Burr",
+  "last_name": "Smith",
+  "full_name": "Burr Smith",
+  "follower_count": 1496,
+  "occupation": "Chairman of the Board of Directors at Broadsign",
+  "headline": "Chairman of the Board, President and CEO at Broadsign",
+  "summary": "We invest a portfolio made up of equity and debt securities, foreign and domestic. We hold alternative investments in private equity, venture capital, real estate and hedge funds. We will  invest directly in specific opportunities.",
+  "location_str": "St Louis, Missouri, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "St Louis",
+  "state": "Missouri",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Chairman of the Board of Directors",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "BroadSign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Board of Directors",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2003
+      },
+      "ends_at": null,
+      "company": "Jedfam Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "President and Manager",
+      "description": "Jedfam is a family Investment Company. Portfolio includes publicly traded securities, private equity, real estate and direct investments.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": null,
+      "company": "Brisco-Davis Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": "BD Group is a family Investment company representing the family of Burr Smith",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Sverdrup Investments Inc.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vice President",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1981
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Sverdrup",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vice President",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1980
+      },
+      "field_of_study": "Taxation",
+      "degree_name": "LLM",
+      "school": "Washington University in St. Louis School of Law",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/washulaw",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f601a782e80f8a07e4a4cf51ef8eada7",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1976
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1979
+      },
+      "field_of_study": "Law",
+      "degree_name": "J.D.",
+      "school": "Emory University School of Law",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/emory-law",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9638d55dd0f7b2b33166595103a3fd97",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1972
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1976
+      },
+      "field_of_study": "English and Business Administration",
+      "degree_name": "B.A.",
+      "school": "Vanderbilt University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/vanderbilt-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/32554c765d4c989901312bab776a5e7a",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ryanpogy",
+      "name": "Ryan Pogy",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gagnonantoine",
+      "name": "Antoine Gagnon",
+      "summary": "Director of Engineering at Broadsign",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaroncburns",
+      "name": "Aaron Burns",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florianrotberg",
+      "name": "Florian Rotberg",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frankvallenga",
+      "name": "Frank Vallenga",
+      "summary": null,
+      "location": "Rosmalen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalil0honsali",
+      "name": "Khalil Honsali",
+      "summary": null,
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseldelgado",
+      "name": "Jose Luis Delgado",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mediamallrat",
+      "name": "Ashley Lyons",
+      "summary": "ashley dot lyons at broadsign dot com",
+      "location": "San Diego"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ianhaft",
+      "name": "Ian Haft",
+      "summary": "Executive Management | Strategic CFO | Public Company Board Member | Audit Committee Chair | Private Equity & Hedge Fund Investment and COO Experience | M&A | Startups | Fundraising",
+      "location": "Greenwich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amyjfyuan",
+      "name": "Amy Yuan",
+      "summary": "Driving up sales & operational efficiencies for OOH networks 📈 | Account Manager @ Broadsign | #DEI Advocate",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pjtimmins",
+      "name": "PJ Timmins",
+      "summary": "MD TAB Ireland",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mguerditchimamedjian",
+      "name": "Mguerditch Imamedjian",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joecotugno",
+      "name": "Giuseppe Cotugno",
+      "summary": "SVP, International Operations at Broadsign",
+      "location": "Starnberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartendollevoet",
+      "name": "Maarten Dollevoet",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benallman1",
+      "name": "Ben Allman",
+      "summary": "Head of Sales, ANZ at Broadsign",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bryanmongeau",
+      "name": "Bryan Mongeau",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liseanne-gillham",
+      "name": "Liseanne Gillham",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommcgowan",
+      "name": "Tom McGowan, DSCE",
+      "summary": ".",
+      "location": "Henderson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-dobrescu",
+      "name": "Alex Dobrescu",
+      "summary": "Director Technical Support",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kentliechty",
+      "name": "Kent Liechty",
+      "summary": "President/CEO",
+      "location": "Berne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mgmaas",
+      "name": "Michael Maas",
+      "summary": "CEO, AMI Entertainment & NSM Music;  Chairman, Vengo Labs;  Board, Broadsign",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rroques",
+      "name": "Remi Roques",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-reed-aifa%25C2%25AE-cima%25C2%25AE-ppc%25C2%25AE-56ba3410",
+      "name": "Scott Reed, AIFA®, CIMA®, PPC®",
+      "summary": "CEO of Hardy Reed, LLC",
+      "location": "Tupelo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-c-moore",
+      "name": "Charles C. Moore",
+      "summary": null,
+      "location": "Jackson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-mullett-branison",
+      "name": "Craig Mullett",
+      "summary": "President at Branison Group",
+      "location": "Guilford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/drewthachuk",
+      "name": "Drew Thachuk",
+      "summary": "Head of Channel Partnerships @ Broadsign | Strategic Leadership",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fred-frederick-baerenz",
+      "name": "Frederick Baerenz",
+      "summary": "President & Chairman of AOG Institutional Fund (AOGFX)",
+      "location": "Reston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evandash",
+      "name": "Evan Dash",
+      "summary": "Executive Turned Entrepreneur",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolinamoens",
+      "name": "Carolina Moens",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christiandion",
+      "name": "Christian Dion",
+      "summary": null,
+      "location": "Québec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexiscoulibaly",
+      "name": "Alexis COULIBALY",
+      "summary": "Programmatic Team Lead EMEA @ Broadsign",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hastingsmeghan",
+      "name": "Meghan Hastings, CRHA",
+      "summary": "Vice President of Human Resources at Broadsign",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chadiborghol",
+      "name": "Chadi Borghol",
+      "summary": null,
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-sturdivant",
+      "name": "Daniel Sturdivant",
+      "summary": null,
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amalia-quintanilla",
+      "name": "Amalia Quintanilla",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-casta%25C3%25B1%25C3%25B3n-13a070112",
+      "name": "Miguel Castañón",
+      "summary": "Evolving (D)OOH to drive sales growth & operational efficiency || Business Development EMEA at Broadsign",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annabager",
+      "name": "Anna Bager",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-bowman-5534781",
+      "name": "Ed Bowman",
+      "summary": "Private Equity, Board Member, Executive Partner",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francois-hechme-aaba063",
+      "name": "Francois Hechme",
+      "summary": "Leading Products at BroadSign",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donald-calcaterra-jr-cmb-amp-a61a713",
+      "name": "Donald Calcaterra Jr   CMB AMP",
+      "summary": null,
+      "location": "Roseville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-deutschman-6940774",
+      "name": "Rob Deutschman",
+      "summary": null,
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seth-hittman-67017a4",
+      "name": "Seth Hittman",
+      "summary": "Operator/Investor",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-geitz-17b3b34",
+      "name": "Martin Geitz",
+      "summary": "Retired Banker",
+      "location": "Glastonbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-schwanz-3020315",
+      "name": "Stephen Schwanz",
+      "summary": "President & CEO at ZEL Capital Partners",
+      "location": "Scottsdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-johnson-6958b17",
+      "name": "Jeff Johnson",
+      "summary": null,
+      "location": "River Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-malley-2573288",
+      "name": "Thomas Malley",
+      "summary": "Board of Directors at BeiGene, Kura Oncology, Kiniksa Pharmaceuticals, Project Cure",
+      "location": "Englewood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/myriam-bordeleau-a309359",
+      "name": "Myriam Bordeleau",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kent-sorrells-ab1291a",
+      "name": "Kent Sorrells",
+      "summary": "Private Equity Executive / Outdoor Products Business Owner",
+      "location": "Boulder"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoffrey-frazier-gfpc",
+      "name": "Geoffrey Frazier, CFP®, ChFC, CLU",
+      "summary": "UHNW family stewards preserve more of what they’ve built across generations | Tax mitigation, legal architecture, and wealth design | Founder-led, multi-family office | CEO, Global Financial Private Client | CFP®",
+      "location": "Sarasota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-reed-56ba3410",
+      "name": "Scott Reed",
+      "summary": "CEO Hardy/Reed, LLC",
+      "location": "Tupelo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edith-gagne",
+      "name": "Edith Gagne",
+      "summary": "Programmatic DOOH, Change Management and Sales Operations Leader",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-shimmerlik-19293813",
+      "name": "Brian Shimmerlik",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremy-dusho-a364a616",
+      "name": "Jeremy Dusho",
+      "summary": null,
+      "location": "Rocky River"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-parzick-2828a419",
+      "name": "Joe Parzick",
+      "summary": "Managing Partner at Teton Partners LLC",
+      "location": "Jackson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-rickard-6053221a",
+      "name": "Annie Rickard",
+      "summary": "Managing Partner at OOH Capital and Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-chouinard-7b991b20",
+      "name": "Maxime Chouinard",
+      "summary": "Broadsign Ads - Senior Product Manager",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adamkahansky",
+      "name": "Adam Kahansky",
+      "summary": "Regional VP, Sales, Canada at Broadsign",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claude-perreault-7ba4072b",
+      "name": "Claude Perreault",
+      "summary": null,
+      "location": "Lévis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ty-lesueur-450bb232",
+      "name": "Ty LeSueur",
+      "summary": "CEO at LeSueur Investments",
+      "location": "Mesa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonny-richardson-66660a37",
+      "name": "Jonny Richardson",
+      "summary": "Director of Business Development - APAC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-dolan-jr-30370737",
+      "name": "John Dolan Jr",
+      "summary": "VP,  Revenue and Partnerships, International",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tracy-anema-5b033250",
+      "name": "Tracy Anema",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pamela-breuckmann-2b555951",
+      "name": "Pamela Breuckmann",
+      "summary": null,
+      "location": "Leawood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-desabrais",
+      "name": "Maxime Desabrais",
+      "summary": "Senior Account Executive - North America at StackAdapt",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatiana-abondano",
+      "name": "Tatiana Abondano",
+      "summary": null,
+      "location": "Etobicoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nolan-j100",
+      "name": "Nolan Johnson",
+      "summary": "Helping brands reach household decision makers at Grocery TV",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harish-nataraj-10a701b3",
+      "name": "Harish Nataraj",
+      "summary": "Interim CEO, Cennox;\n\nManaging Director, York Capital",
+      "location": "Pelham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-ahmed-25b892168",
+      "name": "Ahmed Ahmed",
+      "summary": "Full Stack Software Developer with applied knowledge and experience in software development and programming using C#",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leila-rojas-stirman-242934178",
+      "name": "Leila Rojas-Stirman",
+      "summary": null,
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jmccorkle",
+      "name": "Joe McCorkle",
+      "summary": "Leading In-Store Retail Media for US @Broadsign",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelprovenzano",
+      "name": "Michael Provenzano",
+      "summary": "CEO & Co-Founder at Vistar Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinadobrean",
+      "name": "Corina Dobrean, LLM, LLB",
+      "summary": "Director, Legal & Contract Management at Broadsign",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/franco-romanelli-4752169",
+      "name": "Franco Romanelli",
+      "summary": "Vice President, Client Services at BroadSign",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dana-tunks-b9287715",
+      "name": "Dana Tunks",
+      "summary": "Chief Financial Officer, Member Board of Directors",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-casta%C3%B1%C3%B3n-13a070112",
+      "name": "Miguel Castañón",
+      "summary": "Evolving (D)OOH to drive sales growth & operational efficiency || Business Development Director EMEA at Broadsign",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Shared by Burr Smith",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_broadsign-ceo-smith-the-most-fun-ive-had-activity-7150193167206612994-yxUL",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful team. We’re excited to welcome them.",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_broadsign-acquires-netherlands-based-dooh-activity-7195786381397278720-Gxvz",
+      "activity_status": null
+    },
+    {
+      "title": "BIG NEWS: Broadsign acquires OutMoove! We’re thrilled to announce that we’ve acquired Netherlands-based DOOH ad-tech provider OutMoove! Building…",
+      "link": "https://www.linkedin.com/posts/broadsign_broadsign-acquires-netherlands-based-dooh-activity-7195741956486963201-bm10",
+      "activity_status": null
+    },
+    {
+      "title": "🎉  Earlier this week, we celebrated Broadsign's Director of Programmatic Operations, Joy Hines, who was honored at the Top Women in Media & Adtech…",
+      "link": "https://www.linkedin.com/posts/broadsign_earlier-this-week-we-celebrated-broadsigns-activity-7204889887467061248-Stm-",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to have been given the opportunity to share my views on the need for automation in OOH with the amazing Annie Rickard, Benjamin Milne and…",
+      "link": "https://www.linkedin.com/posts/emma-hegg-406a8813_wooconference-ooh-automation-activity-7204702834003484673-a1s0",
+      "activity_status": null
+    },
+    {
+      "title": "Just thought that I’d share some thoughts as I return to the US from Montreal following another busy but fulfilling Broadsign Leadership week. I…",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_just-thought-that-id-share-some-thoughts-activity-7308582274092961792-GvAH",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Michele Erskine for being honoured at AdClub of Toronto today! What a phenomal leader, colleague and friend. You have done so much…",
+      "link": "https://www.linkedin.com/posts/debbiebenadiba_ooh-leadership-adclub-activity-7259268651332116480-HRLj",
+      "activity_status": null
+    },
+    {
+      "title": "Very happy to announce Elevision's new partnership with Dubai World Trade Centre. After so many years of continued growth it's sometimes difficult…",
+      "link": "https://www.linkedin.com/posts/niall-sallam_elevision-and-dwtc-partner-to-expand-dooh-activity-7221595556991700993-C4U6",
+      "activity_status": null
+    },
+    {
+      "title": "I am honoured to share that I have been selected as a jury member for the inaugural Campaign Middle East Marketing Game Changers Awards 2025. This…",
+      "link": "https://www.linkedin.com/posts/jawad-hassan-25700537_gamechangers2025-marketingleadership-menamedia-activity-7367174389445984257-r4Ji",
+      "activity_status": null
+    },
+    {
+      "title": "I am truly honoured to have been invited to join the Board of the World Out of Home Organization (WOO). It’s a significant privilege to contribute to…",
+      "link": "https://www.linkedin.com/posts/jawad-hassan-25700537_wooboard-multiplygroup-medialeadership-activity-7336433403707232256-lHmJ",
+      "activity_status": null
+    },
+    {
+      "title": "An incredible three days of dialogue, new innovations and mutual collaboration at #WOO2025. My biggest takeaway? The future of media belongs to…",
+      "link": "https://www.linkedin.com/posts/jawad-hassan-25700537_woo2025-medialeadership-mmg-activity-7336857904215474178-xx8m",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group (MMG) was launched at the World Out of Home Organization (WOO) Annual Congress in Mexico City, and simultaneously it lit up the…",
+      "link": "https://www.linkedin.com/posts/2pointzerogroup_multiplygroup-multiplymediagroup-mmg-activity-7336515668709642240-ecnU",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Exciting news! Our very own Ruby Juchau has won the Rising Star Award at the World Out of Home Organization’s global congress in Mexico City!…",
+      "link": "https://www.linkedin.com/posts/ecndooh_risingstar-oohindustry-dooh-activity-7336677940409065472-66jz",
+      "activity_status": null
+    },
+    {
+      "title": "Great to have part of the team on the ground at Broadsign Connect in Barcelona today ☀️ Big thanks to Charles Parry-Okeden, Daniel Wunsch and…",
+      "link": "https://www.linkedin.com/posts/ecndooh_adtech-programmatic-broadsign-activity-7424855642147889153-D5II",
+      "activity_status": null
+    },
+    {
+      "title": "Very interesting read, and we’re lucky to have you Ari Buchalter",
+      "link": "https://www.linkedin.com/posts/maartendollevoet_meet-ari-buchalter-broadsigns-new-chief-activity-7422687468358930432-Tvr_",
+      "activity_status": null
+    },
+    {
+      "title": "Place Exchange is now part of the Broadsign family! Today marks a major milestone in the Place Exchange story, as we announce our acquisition by…",
+      "link": "https://www.linkedin.com/posts/place-exchange_place-exchange-is-now-part-of-the-broadsign-activity-7399126266068574208-gESx",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Huge news at Broadsign today with the acquisition of Place Exchange 🚀 This isn't just a transaction,  it's an acceleration of the evolution…",
+      "link": "https://www.linkedin.com/posts/jfranco4_broadsign-announces-acquisition-of-place-activity-7399120849796091906-SsO1",
+      "activity_status": null
+    },
+    {
+      "title": "Such an exciting moment for Broadsign - and I don't think we could have found   a better organization to help us grow both our business and the OOH…",
+      "link": "https://www.linkedin.com/posts/liseanne-gillham_broadsign-announces-acquisition-of-place-activity-7399117479719116800-CKAM",
+      "activity_status": null
+    },
+    {
+      "title": "We are so excited to welcome the PlaceEx team!!! Better together and getting better every day.",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_broadsign-acquires-place-exchange-as-the-activity-7399114562735681536-hKno",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 A major moment for DOOH. Broadsign’s acquisition of Place Exchange marks a new era of scale, transparency, and automation in our space. With our…",
+      "link": "https://www.linkedin.com/posts/john-dolan-jr-30370737_broadsign-acquires-place-exchange-as-the-activity-7399108909690687488-31Xw",
+      "activity_status": null
+    },
+    {
+      "title": "Bigger, brighter, stronger! This Cartier campaign takes over Riyadh’s Olaya Street with a presence that’s impossible to miss. Is The Kingdom of Saudi…",
+      "link": "https://www.linkedin.com/posts/damian-rezner-36309656_digitaloutofhome-advertising-brandexperience-activity-7381546416650911744-sWpS",
+      "activity_status": null
+    },
+    {
+      "title": "Well deserved!",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_well-deserved-activity-7196954476988022784-piIb",
+      "activity_status": null
+    },
+    {
+      "title": "Victor Yuen #Kudos I really appreciate you #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-makinganimpact-activity-7044638819156983808-Vojb",
+      "activity_status": null
+    },
+    {
+      "title": "Adam Green #Kudos Your creativity is out of this world! #OutsideTheBoxThinker",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-outsidetheboxthinker-activity-7043608936410710017-hDci",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_were-thrilled-to-share-that-frank-vallenga-activity-7039409501547991040-Qy1D",
+      "activity_status": null
+    },
+    {
+      "title": "CÃ©cile Roney, MSc. #Kudos You play a crucial role in our success #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-makinganimpact-activity-6989963393415729152-DDnd",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_wedotherightthing-activity-6997568714208411648-_Pm7",
+      "activity_status": null
+    },
+    {
+      "title": "Bruno Richard #Kudos There's no other way to say it: we'd be lost without you #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-makinganimpact-activity-6979449827642261504-O8Jw",
+      "activity_status": null
+    },
+    {
+      "title": "Frank Vallenga #Kudos There's no other way to say it: we'd be lost without you #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-makinganimpact-activity-6937803039135121409-9ovs",
+      "activity_status": null
+    },
+    {
+      "title": "Bruno Richard #Kudos There's no other way to say it: we'd be lost without you #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_kudos-makinganimpact-activity-6979139473678766080-IW92",
+      "activity_status": null
+    },
+    {
+      "title": "Alexandre Cossette-Pacheco #Kudos There's no other way to say it: we'd be lost without you #MakingAnImpact",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_broadsign-has-had-to-deal-with-the-challenges-activity-6844659370781933568-Fxig",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_ooh-nasdaq-startup-activity-6910698817755496449-5lKQ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_broadsign-board-of-directors-welcomes-ami-activity-6887834084312260608-irjH",
+      "activity_status": null
+    },
+    {
+      "title": "I just feel compelled to make the comment that the United States and the world at large has lost a great individual and a true leader with the death…",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_i-just-feel-compelled-to-make-the-comment-activity-6855960656600977408-_slS",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_were-excited-to-kick-off-ise2020-as-a-bigger-activity-6633289740739321856-ni3c",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_dooh-programmatic-ooh-activity-6612437273965404160-J9hY",
+      "activity_status": null
+    },
+    {
+      "title": "So great to be working with such an outstanding organization.",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_pattison-outdoor-advertising-chooses-broadsign-activity-6544765113566662656-8_6W",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_how-programmatic-dooh-can-extend-the-reach-activity-6516403654231101440-C431",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_the-future-is-now-the-future-of-digital-activity-6513460942066585600-MeWQ",
+      "activity_status": null
+    },
+    {
+      "title": "I agree with this almost completely",
+      "link": "https://www.linkedin.com/posts/burr-smith-b7161010_opinion-vote-against-the-gop-this-november-activity-6416680731531104256--io0",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Burr Smith",
+      "link": "https://www.linkedin.com/in/burr-smith-19829424",
+      "summary": "Providing Traffic Safety Services",
+      "location": "Grandville, MI"
+    },
+    {
+      "name": "Burr Smith",
+      "link": "https://ca.linkedin.com/in/burr-smith-067b66323",
+      "summary": "--",
+      "location": "Burnaby, BC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-19T00:00:00Z"
+  }
+}

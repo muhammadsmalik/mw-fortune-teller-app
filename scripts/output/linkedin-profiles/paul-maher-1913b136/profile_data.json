@@ -1,0 +1,794 @@
+{
+  "public_identifier": "paul-maher-1913b136",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/a81cfe214477e903d123b9e3d0083ac7",
+  "background_cover_image_url": null,
+  "first_name": "Paul",
+  "last_name": "Maher",
+  "full_name": "Paul Maher",
+  "follower_count": 1053,
+  "occupation": "Independent Chair at Out of Home Media Association Aotearoa",
+  "headline": "Business Advisor, Independent Director",
+  "summary": "Passionate about consumer behaviour, brands and businesses and how the interconnect. A career professional in Broadcast, digital platforms, media and communication agencies with leadership, strategy and broad commercial experience across geographies. A committed, performance driven team player who has risen to local, regional and global leadership positions through a passion for creating consumer and customer advantage from business assets to drive sustainable growth and stakeholder value. Demonstrated ability to challenge and effect transformation in organizations to achieve success and competitive advantage.",
+  "location_str": "New Zealand",
+  "country": "NZ",
+  "country_full_name": "New Zealand",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Out of Home Media Association Aotearoa",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oohmaa",
+      "company_facebook_profile_url": null,
+      "title": "Independent Chair",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b17d5fc33372f808537b2d472408d528"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2023
+      },
+      "company": "NZME",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief of OneRoof",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "TVNZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tvnz",
+      "company_facebook_profile_url": null,
+      "title": "Business Strategy Director",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ff99c6214e0314d520b6efd69701f0e9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2020
+      },
+      "company": "TVNZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tvnz",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": "Responsible for revenue for TVNZ across Television, digital video and diversified content services.",
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ff99c6214e0314d520b6efd69701f0e9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "ThinkTV NZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/thinktv-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Chair",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/51a03e5f185dd03778ca2c0bc83369b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "KPEX",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Member Board Of Directors",
+      "description": "Member of the Board for KPEX Kiwi Premium Advertising Exchange (KPEX) is a New Zealand advertising exchange established last year in joint partnership by Fairfax Media, MediaWorks, NZME and TVNZ. KPEX is an exciting business driving extraordinary results for New Zealand advertisers and publishers alike. For the first time, New Zealand media companies have pooled their digital inventory to provide the necessary scale for a private marketplace and enabling them to compete effectively for growing digital advertising budgets. KPEX offers the efficiency and targeting of real-time bidding for advertisers but with the security of knowing that the brand is going to appear in the trusted environment of New Zealand’s most loved media brands.",
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "company": "Paul Maher Consultancy",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Content and Communications Consultant",
+      "description": "Consulting services to content publishers and communication agencies. Principal of \"The Panel\" - providing thought leadership to Ogilvy NZ. Reviewed the Content and Broadcasting assets of The New Zealand Racing Board. Currently acting General Manager Broadcasting. Reviewed the divisional and regional assets of Market Pulse research - providing advice on business value and strategy.",
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "MediaWorks NZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediaworks-nz",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b329c57cada093c3f6fc4877adbb4e6d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2012
+      },
+      "company": "TVNZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tvnz",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales & Marketing",
+      "description": "Lead Sales, Marketing & Reseach for TVNZ. TVNZ is a multiple channel / multiple platform content business. Market Leader in broadcast and on-demand TV.",
+      "location": "New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ff99c6214e0314d520b6efd69701f0e9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "Starcom",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/starcom1",
+      "company_facebook_profile_url": null,
+      "title": "CEO North Asia",
+      "description": "Led SMG North Asia region. Region consisted of China, HK, Taiwan, Japan, Korea, Philippines. 10 offices and ~ 600+ people. Also sat on SMG Global Board.",
+      "location": "Hong Kong",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e91b515fc7dc03f5632bfa8e8b1c831e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "Starcom MediaVest Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/starcom1",
+      "company_facebook_profile_url": null,
+      "title": "CEO New Zealand",
+      "description": "led the establishment of Starcom NZ. Separating the media team from Saatchi. Very successful with significant growth. Recognized as agency of the year in second year of operation",
+      "location": "New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e91b515fc7dc03f5632bfa8e8b1c831e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "Starcom MediaVest Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/starcom1",
+      "company_facebook_profile_url": null,
+      "title": "CEO Canada",
+      "description": "A short secondment from HK to establish a single SMG operating entity from the two agencies: Starcom & Mediavest",
+      "location": "Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e91b515fc7dc03f5632bfa8e8b1c831e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Starcom MediaVest Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/starcom1",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director / COO Hong kong & China",
+      "description": "joined Starcom HK. Led the recovery of a business in financial  loss to profit over 2 years. Took over China after existing CEO left.",
+      "location": "Hong Kong",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e91b515fc7dc03f5632bfa8e8b1c831e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "company": "TVNZ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tvnz",
+      "company_facebook_profile_url": null,
+      "title": "GM Sales",
+      "description": null,
+      "location": "New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ff99c6214e0314d520b6efd69701f0e9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "Zenith",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/zenithinternational",
+      "company_facebook_profile_url": null,
+      "title": "Head of trading",
+      "description": "Part of leadership team that established Optimedia Australasia. With Simkn Rush moved to Melbourne to build Telstra account team following successful pitch of that business. Led trading for Australia.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/01916a0cda5ad99ede55bc1ec9a6db32"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Publicis Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/publicis-ww-aus",
+      "company_facebook_profile_url": null,
+      "title": "Media Director / Media Manager",
+      "description": "moved to Mojo with DB Breweries. Led account and was promoted to Media Director during tenure. Launched independent media group \"True North Media\" when mojo was owned by FCB.",
+      "location": "Auckland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2801a62d410ac693357de232467afb78"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "The University of Auckland",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": "General Management",
+      "degree_name": "ADP",
+      "school": "London Business School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Accelerated development short course (6 weeks)",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1981
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1984
+      },
+      "field_of_study": "Advertising & Communication",
+      "degree_name": "NZCA",
+      "school": "Auckland University of Technology",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1974
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1980
+      },
+      "field_of_study": "English, Maths, Geography, History, Economics,",
+      "degree_name": "UE",
+      "school": "Rosmini college",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/bjoern-spreitzer",
+      "name": "Bjoern Spreitzer",
+      "summary": "General Manager New Zealand & Business Events at Tourism New Zealand",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yoshimiohtake",
+      "name": "Yoshimi Ohtake",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/treenadrinnan",
+      "name": "Treena Drinnan",
+      "summary": "Chief Agency Officer at Ray White",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graciemackinlay",
+      "name": "Gracie MacKinlay",
+      "summary": "Governance",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evasherwood",
+      "name": "Eva Sherwood Hayter",
+      "summary": "Deloitte New Zealand•3K followers",
+      "location": "Wellington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelboggs",
+      "name": "Michael Boggs",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-manthel-0038a1102",
+      "name": "Sarah Manthel",
+      "summary": "Director at Thrive Media Limited, Director at Eva + Archie Limited, Marriage & Civil Union Celebrant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/regansavage",
+      "name": "Regan Savage",
+      "summary": null,
+      "location": "Wellington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-during",
+      "name": "Max During-Fonseca",
+      "summary": "Growth-Focused Banking Leader | Leading Teams & Driving Growth for NZ’s Most Productive Businesses",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ash-patel-0676b8a0",
+      "name": "Ash Patel",
+      "summary": "Property Manager Kiwibank",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauramaxwellnz",
+      "name": "Laura Maxwell",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoffcranko",
+      "name": "Geoff Cranko",
+      "summary": "Experienced Director, Business Strategist",
+      "location": "Christchurch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharonv1",
+      "name": "Sharon van Gulik",
+      "summary": "Commercial Director Commonwealth Sport, Director SvG Limited",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolyn-luey-923b133",
+      "name": "Carolyn Luey",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tonygardner",
+      "name": "Tony Gardner",
+      "summary": "Leadership Development, Leadership Team Coaching, Team Development",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-mills-6348934",
+      "name": "Katie Mills",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/waynebaird-nz",
+      "name": "Wayne Baird",
+      "summary": "The Alternative Board NZ•2K followers",
+      "location": "Dunedin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemarie-duff-5529268",
+      "name": "annemarie Duff",
+      "summary": "GM SEEK NZ at SEEK",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-fenner-aa56769",
+      "name": "Richard Fenner",
+      "summary": "Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gina-mills-b2645a14",
+      "name": "Gina Mills",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brent-king-92885615",
+      "name": "Brent King",
+      "summary": "Financier & Investment Banker | Provocateur | Assumption challenger | Analytical and creative thinker | Cricket tragic | Managing Director of General Capital Ltd | Publisher of Sharechat",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-malloy-59346119",
+      "name": "Kevin Malloy",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerry-leonard",
+      "name": "Kerry Leonard",
+      "summary": "Sales & Marketing Leader | Strategic Commercial Partnerships | People development",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-davis-7178a61a",
+      "name": "Sally Davis",
+      "summary": "Director, Jowett Consulting Ltd",
+      "location": "Tairua"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-barr-61a43926",
+      "name": "Jamie Barr",
+      "summary": "Partner at Simpson Western",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemarie-duff-21549329",
+      "name": "annemarie duff",
+      "summary": "GM Marketing TVNZ at TVNZ",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-holdsworth-07583632",
+      "name": "Anna Holdsworth",
+      "summary": "Head of People & Culture Head of Growth Opportunities Australia / New Zealand",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemarie-browne-40a37447",
+      "name": "Annemarie Browne",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickhammond1",
+      "name": "Nick Hammond",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-brewer-3b532a79",
+      "name": "Mike Brewer",
+      "summary": "Building Kiwi boys into Kiwi icons!",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-barnett-51b90683",
+      "name": "Rebecca Barnett",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-anderson-cormack-29579686",
+      "name": "Rachel Anderson Cormack",
+      "summary": "Group Managing Director NZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clinton-mount-postshop-45006492",
+      "name": "Clinton Mount Postshop",
+      "summary": "Managing Director at Kiwibank",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/justin-telfer-2b690a97",
+      "name": "Justin Telfer",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rick-mules-699b0b164",
+      "name": "Rick Mules",
+      "summary": "Sales Floor Team Member at Nut & Bolt Factory",
+      "location": "Toowoomba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hind-awsi-3883851a5",
+      "name": "Hind Awsi",
+      "summary": "Marketing Executive",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/spencer-holmes",
+      "name": "Spencer Holmes",
+      "summary": "Account Manager - London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josie-porterfield-04a287212",
+      "name": "Josie Porterfield",
+      "summary": null,
+      "location": "Christchurch"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "This is it people! A day to celebrate our small businesses. Get behind it and shop small on April 9. #smallbusinessday",
+      "link": "https://www.linkedin.com/posts/bridgetsnelling_smallbusinessday-activity-6783333011829219328-Emsw",
+      "activity_status": null
+    },
+    {
+      "title": "We’re embarking on a multi-year programme to transition from a broadcast-based business to a digital-first media organisation. Earlier this week we…",
+      "link": "https://www.linkedin.com/posts/tvnz_digitalfuture-activity-7065146029695766528-KAtl",
+      "activity_status": null
+    },
+    {
+      "title": "Merry Christmas and Happy New Year from the OneRoof team! 🎄 🌟 Wishing you all a wonderful and safe holiday season! Thank you for your support…",
+      "link": "https://www.linkedin.com/posts/oneroofnz_oneroof-christmas-video-2022-activity-7010712765610811392-xrwU",
+      "activity_status": null
+    },
+    {
+      "title": "Recently, the OOHMAA team has been engaged with agencies about our latest study, \"Aotearoa in Motion,\" which was conducted in collaboration with…",
+      "link": "https://www.linkedin.com/posts/oohmaa_outofhomeresearch-outofhomemedia-outdooradvertising-activity-7198436155384553473-v1R9",
+      "activity_status": null
+    },
+    {
+      "title": "In the first quarter of 2024, The Out of Home Industry proudly introduced its inaugural Awards – The Speccies, where we recognised and celebrated…",
+      "link": "https://www.linkedin.com/posts/oohmaa_oohmaa-announces-q1-finalists-of-the-oohmaa-activity-7193109121582153728-Cxu2",
+      "activity_status": null
+    },
+    {
+      "title": "We are excited to announce Alistair Duff will be joining us the Sir John Kirwan Foundation in the new role of Head of Commercial Development and…",
+      "link": "https://www.linkedin.com/posts/sir-john-kirwan-foundation_we-are-excited-to-announce-alistair-duff-activity-7191592538179342336-Mng7",
+      "activity_status": null
+    },
+    {
+      "title": "Honouring the courage, sacrifice, and resilience of our ANZAC heroes today and always. We will remember them 🇳🇿 🇦🇺",
+      "link": "https://www.linkedin.com/posts/lumodigital_honouring-the-courage-sacrifice-and-resilience-activity-7189020002153385984-4l0g",
+      "activity_status": null
+    },
+    {
+      "title": "🔊 A new report from Outsmart OOH, the trade body for the UK Out of Home (OOH) advertising industry, finds that Out of Home is the most sustainable…",
+      "link": "https://www.linkedin.com/posts/outsmart-out-of-home_news-activity-7178333718552465408-GxrK",
+      "activity_status": null
+    },
+    {
+      "title": "Wouldn't a pair of these look great on your awards shelf? Entries for the OOHMAA Awards - The Speccies are open until next Wednesday 10th…",
+      "link": "https://www.linkedin.com/posts/oohmaa_outofhomeadvertising-awards-outofhomemedia-activity-7181014927761981441-5oXQ",
+      "activity_status": null
+    },
+    {
+      "title": "Media, creative, and advertising teams—did your Out of Home campaign steal the spotlight between October and December 2024? Now’s your chance to…",
+      "link": "https://www.linkedin.com/posts/oohmaa_oohmaaawards-outofhome-ooh-activity-7289829359417274369-4umL",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you 2024. You brought opportunities, adventures, many firsts, growth, and joy. There were also challenges, difficult times, and even pain—but…",
+      "link": "https://www.linkedin.com/posts/graciemackinlay_thank-you-2024-you-brought-opportunities-activity-7275592341699092480-i2KZ",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Paul Maher",
+      "link": "https://au.linkedin.com/in/paul-maher-919a7535",
+      "summary": "Owner, Loxley on Bellbird Hill",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://au.linkedin.com/in/paul-maher-b4a5b270",
+      "summary": "Lawyer - General Manager, By Lawyers Australia",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://www.linkedin.com/in/paul-maher-a314886",
+      "summary": "Owner, Cremation & Trade Services, Inc.",
+      "location": "St Paul, MN"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://www.linkedin.com/in/paul-maher-21a7b522",
+      "summary": "Retired fellow that has been following the development of a number of new energy paradigms for about last 7 years.",
+      "location": "San Francisco Bay Area"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://ie.linkedin.com/in/paul-maher-49945124",
+      "summary": "Account Director | Marketing Solutions | at LinkedIn",
+      "location": "Ireland"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://ie.linkedin.com/in/paulmaher",
+      "summary": "Innovation Strategy, Business Development, Program Management and Sustainability",
+      "location": "County Clare, Ireland"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://www.linkedin.com/in/pauljmaher",
+      "summary": "General Manager (Partner), Cloud + AI, Microsoft",
+      "location": "Greater Seattle Area"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://uk.linkedin.com/in/pmaher",
+      "summary": "CEO and founder @ Categorical & Positive│Board Advisor│ Business mentor│Entrepreneur │ Driving board-level decisions │ Attract the right clients │ Communicate winning propositions │ Non-Executive Director",
+      "location": "East Sheen"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://uk.linkedin.com/in/paul-maher-8638965",
+      "summary": "UK CFO & Director of Group Finance - Gamma",
+      "location": "Winchester"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://uk.linkedin.com/in/paul-maher-9101b32",
+      "summary": null,
+      "location": "Nottinghamshire"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://uk.linkedin.com/in/paul-maher-65317512",
+      "summary": "Global Vice Chairman, Greenberg Traurig & Founding Chairman, Greenberg Traurig London",
+      "location": "London"
+    },
+    {
+      "name": "Paul Maher",
+      "link": "https://uk.linkedin.com/in/paul-maher-14ab4482",
+      "summary": "Director of Strategic Partnerships and Alliances | Achieving Social Impact",
+      "location": "United Kingdom"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-03-13T00:00:00Z"
+  }
+}

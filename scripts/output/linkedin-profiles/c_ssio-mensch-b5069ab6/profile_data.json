@@ -1,0 +1,244 @@
+{
+  "public_identifier": "cássio-mensch-b5069ab6",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/48bd825f0c6b285bb144abef8bdced96",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/98dcca9aaeefb80c86ba521d7c5363a1",
+  "first_name": "Cássio",
+  "last_name": "Mensch",
+  "full_name": "Cássio Mensch",
+  "follower_count": 1801,
+  "occupation": "Partner | Marketing, Communication & Creative at Imobi",
+  "headline": "Partner | Marketing, Communication & Creative at Imobi",
+  "summary": "Apaixonado por publicidade e propaganda e hoje atuando no mundo do marketing digital: a rua mais movimentada do mundo.<br>Pela Imobi,  conquistamos o Case do de Comunicação do Ano no Salão da Propaganda em 2020.<br>Em 2021, fomos eleita empresa do ano!<br>A partir de 2022 um novo sonho, um novo projeto, uma nova vertical de negócio do grupo: a Diigi - queremos ascender negócios digitalmente.",
+  "location_str": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Porto Alegre",
+  "state": "Rio Grande do Sul",
+  "experiences": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Imobi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-imobi",
+      "company_facebook_profile_url": null,
+      "title": "Partner | Marketing, Communication & Creative",
+      "description": null,
+      "location": "Porto Alegre e Região, Brasil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "company": "Ambev",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ambev",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Intern",
+      "description": "Membro do time Regional RS/SC de marketing e vendas.\nFunçoes: Apuração de resultados, análise de vendas e trade marketing, suporte a gerencia regional.",
+      "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2016
+      },
+      "field_of_study": "Marketing Internacional",
+      "degree_name": "Relações Internacionais",
+      "school": "Escola Superior de Propaganda e Marketing",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escola-superior-de-propaganda-e-marketing",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Atividades e grupos:Clube de Negócios, Graduando em Relações Internacionais com ênfase em Marketing e Negócios. Viagem Acadêmica Internacional ao Chile: Ciclo de palestras internacionais e experiências acadêmicas. \nRepresentante dos alunos do Curso de Relações Internacionais no Conselho Acadêmico 2012."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2014
+      },
+      "field_of_study": "Criatividade",
+      "degree_name": "Storytelling",
+      "school": "Complot Escuela de Creativos",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escuelacomplot",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "field_of_study": "Ensino Médio Completo",
+      "degree_name": "Diploma",
+      "school": "Colégio Leonardo da Vinci",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Eurocentres Language Schools",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "field_of_study": "Língua espanhola e cultura européia",
+      "degree_name": "Espanhol",
+      "school": "Enforex - Barcelona",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Perestroika",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escola-superior-de-propaganda-e-marketing",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2026
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "ESPM Escola Superior de Propaganda e Marketing",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/escola-superior-de-propaganda-e-marketing",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "title": "Presidente",
+      "cause": "Cultura e artes",
+      "company": "Gremio Estudantil Leonardo da Vinci",
+      "company_linkedin_profile_url": null,
+      "description": "Gestão das atividades voluntarias da agremiação. Incentivo cultural aos alunos, bem como suporte nas atividades escolares durante o ano letivo.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-25T00:00:00Z"
+  }
+}

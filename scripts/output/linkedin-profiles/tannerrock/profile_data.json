@@ -1,0 +1,549 @@
+{
+  "public_identifier": "tannerrock",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/409b073c92c9b46c7e007770934d2b99",
+  "background_cover_image_url": null,
+  "first_name": "Tanner",
+  "last_name": "Rock",
+  "full_name": "Tanner Rock",
+  "follower_count": 1279,
+  "occupation": "Commercial Director at Reveel.",
+  "headline": "Commercial Director | Reveel | Innovocean",
+  "summary": null,
+  "location_str": "City of Johannesburg, Gauteng, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Johannesburg",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Reveel.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/reveelooh",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": null,
+      "location": "Sandton, Johannesburg",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3cf65e7afad8c9def0a79ecf6864c52b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "company": "Relativ Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/relativinnovationgroup",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": null,
+      "location": "Johannesburg Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb6a12304fd7ea522baa17cd9ff374e6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2015
+      },
+      "company": "BOO! Surprising Media Solutions",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/boo-surprising-media-solutions",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7260db842bb15706122432ebc38c9d54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2010
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Strategy, Johannesburg",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Economics & Law",
+      "degree_name": "Bachelor of Commerce (B.Com.)",
+      "school": "University of Cape Town",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cape-town",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/001d89d15f2193a15ced721a6e9efe6c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": null,
+      "degree_name": "Media",
+      "school": "Red & Yellow Creative School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/redandyellowed",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/975896ce9f629c6a15957886f39907e3",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Kearsney College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Afrikaans"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Afrikaans",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1194,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/trevor-van-rensburg",
+      "name": "Trevor Van Rensburg",
+      "summary": "Enabling partnership opportunities to fuel growth",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrenmckinon",
+      "name": "Darren Mckinon",
+      "summary": "Commercial Director: Partnering with brands for impactful and innovative OOH solutions",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-bailie",
+      "name": "Greg Bailie",
+      "summary": "Building TikTok Africa 🚀 Agency Lead for SSA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remidupreez",
+      "name": "Remi Du Preez",
+      "summary": "Creating the largest network of programmatically connected digital-out-of-home screens throughout Africa through one point of contact",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diannejoseph",
+      "name": "Dianne Joseph",
+      "summary": "**Driving CX & Customer Value Propositions | Strategic Leadership & High-Performance Team Building | Digital Transformation & AI Enthusiast**",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/howardfoxmarketer",
+      "name": "Howard Fox Marketing-Commerical-Strategy",
+      "summary": "Marketing strategist with deep commercial acumen. \nMSc | MBA | PG-Dip Digital Business | PG-Dip Digital Marketing. \nChartered Marketer SA. \nFellow: Institute of Directors SA and Chartered Institute of Marketing UK.",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiltonfrancis",
+      "name": "Hilton Francis",
+      "summary": "Managing Partner Field Services and Direct Sales at PUBLICIS COMMERCE",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriella-pitt-8ba35961",
+      "name": "Gabriella Pitt",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonallenbergza",
+      "name": "Simon Allenberg",
+      "summary": "Sales & Business Development at Reveel.",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roan-mackintosh-a04a438",
+      "name": "Roan Mackintosh",
+      "summary": "Commercial Strategy | Retail Media | Revenue Growth | Sales Leadership | Open to senior commercial, retail media and growth roles",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-cloete-02a139b",
+      "name": "Rob Cloete",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-kelly-b4301214",
+      "name": "Lisa Kelly",
+      "summary": "General Manager: Sales and Marketing",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-mccullough-0a99a517",
+      "name": "Dave McCullough",
+      "summary": "CFO - EWT (Endangered Wildlife Trust)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marloe-wise-2b15671b",
+      "name": "Marloe Wise",
+      "summary": "Growing B2B Brands through effective marketing",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-coomer-a50a4625",
+      "name": "Ryan Coomer",
+      "summary": "Executive Agency & Strategy Director TLC Worldwide UK & GCC",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynne-krawchuk-00045726",
+      "name": "Lynne Krawchuk",
+      "summary": "C-Suite Executive",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caterina-pompa-27552433",
+      "name": "Caterina Pompa",
+      "summary": "Co-Owner Modular Living & Preloved Padel SA",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-badenhorst-190a1734",
+      "name": "Ian Badenhorst",
+      "summary": "Business Value creator & strategist | Business Developer | Network builder & operator | Aspiring Coach & Leader",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bulumko-nomoyi-8ab9414b",
+      "name": "Bulumko Nomoyi",
+      "summary": "--",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-bure-47959a77",
+      "name": "Chris Bure",
+      "summary": "Director of Business Development at Southern Cross Wine & Beverage Inc.",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zaid-isaacs-0b564b142",
+      "name": "Zaid Isaacs",
+      "summary": "Group Account Director",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "“This is another step forward in building a smarter, more accountable DOOH ecosystem, and we’re excited to bring our clients along for the journey.”",
+      "link": "https://www.linkedin.com/posts/tannerrock_this-is-another-step-forward-in-building-activity-7454803728852762624-6H3o",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing to be at the inaugural PULSE Conference. Unbelievable speakers and a fantastic panel discussion earlier. With some more powerhouse speakers…",
+      "link": "https://www.linkedin.com/posts/tannerrock_pulseconference2026-activity-7432753018598674432-OC7W",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely world class facility !! And awesome event 🥳💪🏻",
+      "link": "https://www.linkedin.com/posts/tannerrock_absolutely-world-class-facility-and-awesome-activity-7430258291336749056-7p74",
+      "activity_status": null
+    },
+    {
+      "title": "This is going to be PROPER !! 🤩",
+      "link": "https://www.linkedin.com/posts/tannerrock_this-is-going-to-be-proper-activity-7425475361179697152-ycJD",
+      "activity_status": null
+    },
+    {
+      "title": "This event is going to be incredible - some of the finest minds around, sharing what promises to be some amazing insights into the future of our…",
+      "link": "https://www.linkedin.com/posts/tannerrock_pulse2026-marketingtrends-futureofmedia-activity-7422604789739450369-q4Es",
+      "activity_status": null
+    },
+    {
+      "title": "When strategy meets storytelling ✨✨✨",
+      "link": "https://www.linkedin.com/posts/tannerrock_when-strategy-meets-storytelling-activity-7371883750449729536-yfHi",
+      "activity_status": null
+    },
+    {
+      "title": "Whilst we pride ourselves as leaders in Iconic digital, every now and then a smaller, more tactical opportunity comes across our laps - and we…",
+      "link": "https://www.linkedin.com/posts/tannerrock_dooh-activity-7371521564019769344-OVYQ",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you George Moolman (Dip ESA) and so well put - nothing worse than being put into the “imaginary friends” folder !",
+      "link": "https://www.linkedin.com/posts/tannerrock_thank-you-george-moolman-dip-esa-and-so-activity-7368938240332038144-gAMI",
+      "activity_status": null
+    },
+    {
+      "title": "5 times … 5 times … 5 times … 5 times … 5 times … 💪🏻💪🏻💪🏻💪🏻💪🏻 #ooh #dooh",
+      "link": "https://www.linkedin.com/posts/tannerrock_ooh-dooh-activity-7361278725184716802-pxB0",
+      "activity_status": null
+    },
+    {
+      "title": "Couldn’t be more chuffed for you, Annie! Anne Kairuz",
+      "link": "https://www.linkedin.com/posts/tannerrock_couldnt-be-more-chuffed-for-you-annie-activity-7351481620429733888-zPtY",
+      "activity_status": null
+    },
+    {
+      "title": "Huge opportunity for a world class brand/s to get involved - 👇🏻👇🏻👇🏻 NYE 2025 at the V&A Waterfront - can’t be beaten! 🎉 George Moolman (Dip…",
+      "link": "https://www.linkedin.com/posts/tannerrock_huge-opportunity-for-a-world-class-brand-activity-7351153700502958080-lo8z",
+      "activity_status": null
+    },
+    {
+      "title": "World class …",
+      "link": "https://www.linkedin.com/posts/tannerrock_world-class-activity-7343913299178065921-TR-Z",
+      "activity_status": null
+    },
+    {
+      "title": "\"A new study in association with Lumen Research, showing premium large format DOOH delivers 5x more attention than digital online channels.\" 5…",
+      "link": "https://www.linkedin.com/posts/tannerrock_a-new-study-in-association-with-lumen-research-activity-7338834869562572800-57QY",
+      "activity_status": null
+    },
+    {
+      "title": "Very chuffed to get the invite to share on this great podcast, and really enjoyed the session with you guys Liv & Kirst. Could've chatted on for…",
+      "link": "https://www.linkedin.com/posts/tannerrock_very-chuffed-to-get-the-invite-to-share-on-activity-7338506194208133120-B6Li",
+      "activity_status": null
+    },
+    {
+      "title": "Such incredible exposure for a much loved brand ❤️ @KFC for lunch it is !!",
+      "link": "https://www.linkedin.com/posts/tannerrock_such-incredible-exposure-for-a-much-loved-activity-7333386041967427585-KFDE",
+      "activity_status": null
+    },
+    {
+      "title": "Great article Robert Notrica couldn’t agree more !",
+      "link": "https://www.linkedin.com/posts/tannerrock_what-happened-to-the-people-first-approach-activity-7326519890754867200-dGmU",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing innovation 👏🏻",
+      "link": "https://www.linkedin.com/posts/tannerrock_amazing-innovation-activity-7326094953028239361-7YXI",
+      "activity_status": null
+    },
+    {
+      "title": "Lots to look forward too 💥🚀💪🏻",
+      "link": "https://www.linkedin.com/posts/tannerrock_lots-to-look-forward-too-activity-7316065790410031105-JqwY",
+      "activity_status": null
+    },
+    {
+      "title": "Awesome campaign 💥",
+      "link": "https://www.linkedin.com/posts/tannerrock_awesome-campaign-activity-7314880141678010368-XBUF",
+      "activity_status": null
+    },
+    {
+      "title": "We are nearing the end of our Virgin Active South Africa digital network design rollout, and we could not be more excited about the look & feel of…",
+      "link": "https://www.linkedin.com/posts/tannerrock_we-are-nearing-the-end-of-our-virgin-active-activity-7313551450876317696-mNoU",
+      "activity_status": null
+    },
+    {
+      "title": "So chuffed to be a small part of your journey Paddy Pat Mahlangu and watching the Top 16 Youth-Owned Brands Awards grow from strength to strength !…",
+      "link": "https://www.linkedin.com/posts/tannerrock_so-chuffed-to-be-a-small-part-of-your-journey-activity-7313540606192971777-wAju",
+      "activity_status": null
+    },
+    {
+      "title": "Well said, Si Simon Wall - what a ride it’s been… it’s a very special place that V&A Waterfront. As I have said from day one, feel very priveledged…",
+      "link": "https://www.linkedin.com/posts/tannerrock_cape-towns-iconic-r25-billion-precinct-is-activity-7305836276140728320-mHs3",
+      "activity_status": null
+    },
+    {
+      "title": "So good",
+      "link": "https://www.linkedin.com/posts/tannerrock_so-good-activity-7302992977776304128-peZs",
+      "activity_status": null
+    },
+    {
+      "title": "World class destination, world class OOH assets - come take a look !",
+      "link": "https://www.linkedin.com/posts/tannerrock_world-class-destination-world-class-ooh-activity-7299817122208137217-R6oM",
+      "activity_status": null
+    },
+    {
+      "title": "Very encouraging 💪🏻, thanks for the share Paul Rowett",
+      "link": "https://www.linkedin.com/posts/tannerrock_very-encouraging-thanks-for-the-share-activity-7230130790540484609-IDTU",
+      "activity_status": null
+    },
+    {
+      "title": "We have had some nice wins over the last couple years, but this one is right up there with them all! So proud to be associated with such an iconic…",
+      "link": "https://www.linkedin.com/posts/tannerrock_reveel-and-virgin-active-sa-launch-digital-activity-7225062152355647489-Z0kE",
+      "activity_status": null
+    },
+    {
+      "title": "World world class !!!",
+      "link": "https://www.linkedin.com/posts/tannerrock_world-world-class-activity-7267529545778368513-3rVI",
+      "activity_status": null
+    },
+    {
+      "title": "Looks incredible - definitely need to go and experience one of these for myself someday 🙏🏻🎉 well played George Moolman (Dip ESA) and team…",
+      "link": "https://www.linkedin.com/posts/tannerrock_looks-incredible-definitely-need-to-go-activity-7282658692649435138-rHN9",
+      "activity_status": null
+    },
+    {
+      "title": "Goosebumps every time",
+      "link": "https://www.linkedin.com/posts/tannerrock_goosebumps-every-time-activity-7233913887237054464-ThuW",
+      "activity_status": null
+    },
+    {
+      "title": "Captures this incredible destination beautifully ! Proud to be a part of it all !",
+      "link": "https://www.linkedin.com/posts/tannerrock_captures-this-incredible-destination-beautifully-activity-7218473686318608384-X0db",
+      "activity_status": null
+    },
+    {
+      "title": "“Normal is not something to aspire to, it’s something to get away from.” - Jodie Foster",
+      "link": "https://www.linkedin.com/posts/tannerrock_normal-is-not-something-to-aspire-to-it-activity-7168543752435712000-ITEw",
+      "activity_status": null
+    },
+    {
+      "title": "Truer words have never been spoken !",
+      "link": "https://www.linkedin.com/posts/tannerrock_truer-words-have-never-been-spoken-activity-7154899324219383809-AW1q",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing quite like it ðð»V&A Waterfront",
+      "link": "https://www.linkedin.com/posts/tannerrock_nothing-quite-like-it-va-waterfront-activity-7143530105850544128-3HkL",
+      "activity_status": null
+    },
+    {
+      "title": "Dynamic ads are here and hopefully here to stay !",
+      "link": "https://www.linkedin.com/posts/tannerrock_dynamic-ads-are-here-and-hopefully-here-to-activity-7112387670068109315-azPz",
+      "activity_status": null
+    },
+    {
+      "title": "Great night last night at the inaugural Top 16 Youth-Owned Brands Awards - massive well done to Pat Mahlangu and his team for putting on an fantastic…",
+      "link": "https://www.linkedin.com/posts/tannerrock_great-night-last-night-at-the-inaugural-top-activity-6943079192209035265-LaLN",
+      "activity_status": null
+    },
+    {
+      "title": "Really great to be working with Palesa and her team again! World class mall and we cant wait to get stuck in! Reveel. Nalesa Media",
+      "link": "https://www.linkedin.com/posts/tannerrock_nalesa-media-and-reveel-partnership-on-the-activity-6833640616065298432-fdEB",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tannerrock_she-just-decided-to-prank-them-sometimes-activity-6773085422508638208-knIA",
+      "activity_status": null
+    },
+    {
+      "title": "We will never stop trying to be different !",
+      "link": "https://www.linkedin.com/posts/tannerrock_we-will-never-stop-trying-to-be-different-activity-6711965167644614656-5SfE",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Tanner Rothrock",
+      "link": "https://www.linkedin.com/in/tanner-rothrock-705743140",
+      "summary": "Wind technician I",
+      "location": "Wichita Falls, TX"
+    },
+    {
+      "name": "Tanner Rock",
+      "link": "https://www.linkedin.com/in/tanner-rock-10334940",
+      "summary": "--",
+      "location": "United States"
+    },
+    {
+      "name": "Tanner Rock",
+      "link": "https://za.linkedin.com/in/tanner-rock-1b1a1152",
+      "summary": "Business Development Direction at BOO! Media",
+      "location": "City of Johannesburg"
+    },
+    {
+      "name": "Tanner Rock",
+      "link": "https://www.linkedin.com/in/tanner-rock-084890215",
+      "summary": "Accounting Intern at McKonly & Asbury",
+      "location": "Greencastle, PA"
+    },
+    {
+      "name": "Tanner Rock",
+      "link": "https://www.linkedin.com/in/tanner-rock-aa3b1826a",
+      "summary": "Student at University of Virginia",
+      "location": "Charlottesville, VA"
+    },
+    {
+      "name": "Tanner Rock",
+      "link": "https://www.linkedin.com/in/tanner-rock-a3a692279",
+      "summary": "Student at University of North Florida",
+      "location": "St Augustine, FL"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-08-28T00:00:00Z"
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "public_identifier": "sebastianophetveld",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/8d9f3b080c0b26e94f771cbf55a09cdc",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C4D16AQE06sHlZj3XoA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1523003995008?e=2147483647&v=beta&t=sXhLZLsKlyZBrcgRV1ebBCj1Sj8_sGyK48mjn84g8Ts",
+  "first_name": "Sebastian",
+  "last_name": "Op het Veld",
+  "full_name": "Sebastian Op het Veld",
+  "follower_count": 1388,
+  "occupation": "Head of Programmatic at MyAdbooker",
+  "headline": "Co-Founder at MyAdbooker",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "MyAdbooker",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/myadbooker",
+      "company_facebook_profile_url": null,
+      "title": "Head of Programmatic",
+      "description": "With MyAdbooker we developed the first SSP for DOOH enabling programmatic buying in Digital Out Of Home. With this we introduced Out Of Home advertising into the online realm by connecting leading demand side platforms. Programmatic out of home has enabled advertisers to be more flexible and more innovative with campaigns, allowing them to be highly adaptive and more cost efficient. http://www.myadbooker.com",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/348d243fdc1058492cdfd6d64e3a288c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "CS Advanced Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cs-advanced-technology",
+      "company_facebook_profile_url": null,
+      "title": "Business Development",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/hero-img/3522e519fea54fd99632a3176c5c5c5f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      },
+      "company": "Itsavirus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itsavirus",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager / Concept developer",
+      "description": "Concept development for websites and apps and online brand development. Project manager for multiple projects at Its a virus. This involved customer contact and instructing and managing the design team and the development team. Reference: Wereldhave - http://www.wereldhave.com Corporate website for Wereldhave. Fully responsive over all devices. Deukweg - http://www.deukweg.nl Tool for receiving offers for repairing minor car damage from car repair shops. (app + website) SPJ Financial & Corporate communication - http://www.spj.nl Responsive website with focus on newsroom. Walker Language Consulting - http://www.walkerlanguage.nl Multilingual, responsive website.",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/acde559a7595cbd50235d0dfd32d8492"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2014
+      },
+      "company": "Gearlimits Digital",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Online Marketing and Strategy",
+      "description": "GearLimits provides online marketing and online strategy solutions mainly for outdoor and actionsports. In my time working with Gearlimits I was involved in setting up the online marketing strategy and implementation of advertising on the website and trough social.",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2013
+      },
+      "company": "EBIC - European Business Incubator of California",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Media Coordinator / Europe",
+      "description": "EBIC is a non-profit organization enabling California companies to enter the European market. I was involved in setting up the strategic goals for Europe and arranging our appearance at networking events.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2012
+      },
+      "company": "Its a virus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itsavirus",
+      "company_facebook_profile_url": null,
+      "title": "Social Media",
+      "description": "Maintaining online social portfolio, market research, social media strategy and implementation",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/acde559a7595cbd50235d0dfd32d8492"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2010
+      },
+      "company": "Dutch Culture Centre",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dutch-culture-centre",
+      "company_facebook_profile_url": null,
+      "title": "Communications Officer",
+      "description": "Main contact in China for participants at the DCC. Collecting participant information and wishes and inform relevant team members. Contacts with Chinese Media (SMG, Xinmin evening news, That’s Shanghai, Hunan TV, etc.). Inviting and informing press contacts on Marcomms for performances and exhibitions.",
+      "location": "Shanghai City, China",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7442d7916ef7d128213ba485d56bf997"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2009
+      },
+      "company": "All Options",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/all-options",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Assistant",
+      "description": "Upholding relations with student associations for the benefit of recruitment. Communicating All Options brand among students, by use of advertising and sponsoring/participation in student events. Conceptualisation and realisation of overall communication strategy and marketing strategy. Internal comms. Assistant to Marketing Director.",
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bd77da0ea143489037f7bb083b13fd48"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2007
+      },
+      "company": "SierteeltNet BV",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Communications Intern",
+      "description": "Intern at SierteeltNet during my study Marketing Communications at Gilde Opleidingen in Venlo and employee after completion of study.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2006
+      },
+      "company": "Fancom BV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fancom-bv",
+      "company_facebook_profile_url": null,
+      "title": "Intern marketing",
+      "description": "Intern at Fancom BV's marketing department during my study Marketing Communications at Gilde Opleidingen in Venlo.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/67ddb8067d2b0860ea76c10a2244381c"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Chinese business, language and culture",
+      "degree_name": null,
+      "school": "北京工业大学",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/beijing-university-of-technology",
+      "school_facebook_profile_url": null,
+      "description": "Minor Chinese business, language and culture at Beijing University of Technology 北京工业大学",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/408f1a2e404e546edd7b97e7c7452024",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "International Communication & Media",
+      "degree_name": null,
+      "school": "Hogeschool Utrecht",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-utrecht",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2a5082410d2a4410ee8c830276b5b281",
+      "grade": null,
+      "activities_and_societies": "Activiteiten en verenigingen:2008/2009 Vice Chairman ICM Dialogue; Student organization for the benefit of ICM students. Providing social events for students, information about living and studying in Utrecht for international students and providing a link between student, education and business."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Marketing Communication",
+      "degree_name": null,
+      "school": "Gilde Opleidingen",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "4 year midlevel profesional education in the field of marketing communication.",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Bouwens van der Boije College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Highschool",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Chinese business, language and culture",
+      "degree_name": null,
+      "school": "Beijing University of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/beijing-university-of-technology/",
+      "school_facebook_profile_url": null,
+      "description": "Minor Chinese business, language and culture at Beijing University of Technology 北京工业大学",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "International Communication & Media",
+      "degree_name": null,
+      "school": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hogeschool-utrecht/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Dutch",
+    "Chinese (Mandarin)"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "German",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Dutch",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Chinese (Mandarin)",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1380,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/liesbethandressen",
+      "name": "Liesbeth Andressen",
+      "summary": "CXO Consultant bij iO | Digital Marketing Strategy| Domain lead Optimization | Personal Development Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinvoorzanger",
+      "name": "Martin Voorzanger",
+      "summary": "Digital marketer and strategist - available for cool freelance/interim assignments (as of Oct/Nov 2024)",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dionburer",
+      "name": "Dión Burer",
+      "summary": "Voor succesvolle webtrajecten, advies op conversiegebied en wanneer je resultaat wilt zien!",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lottedaalman",
+      "name": "Lotte Daalman",
+      "summary": "Owner @De Wichterij",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/segergeerars",
+      "name": "Seger Geerars",
+      "summary": "Managing Director at Daisycon (part of Linehub) | Affiliate Marketing | Partner Marketing",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marvingene",
+      "name": "Marvin Vacquier Droop",
+      "summary": "Founder at Confirm",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miavelova",
+      "name": "Mia Velova",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristelkodde",
+      "name": "Kristel Kodde",
+      "summary": "Teamlead Branded Content TUI",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimvanzonneveld",
+      "name": "Kim van Zonneveld",
+      "summary": "Senior IT Consultant Sales & Marketing",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/astoorvogel",
+      "name": "André Stoorvogel",
+      "summary": "B2B SaaS Marketing Lead at Workwize",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jwbesouw",
+      "name": "Jan-Willem Besouw",
+      "summary": "Online Marketing - Affiliate Marketing - Voordeeluitjes.nl",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjela-geerlings",
+      "name": "Anjéla Geerlings",
+      "summary": "Performance Marketing",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andredominikus",
+      "name": "André Dominikus",
+      "summary": "Digital en Marketing professional. Jouw aanjager en meewerkend voorman voor groei. O.a. ex bol.com - Leen Bakker - Interpolis - De Mandemakers Groep.",
+      "location": "Oss"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marjanstraathof",
+      "name": "Marjan Straathof",
+      "summary": "Global SVP of Marketing & Partner at DEPT® - a certified B Corp",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ritchiedoove",
+      "name": "Ritchie Doove",
+      "summary": "Talent Acquisition Interim | Recruitment Business Partner",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marloesvangelderen",
+      "name": "Marloes van Gelderen",
+      "summary": "Projectmanager bij Bosman & MediReva",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamieka-verschueren-28a078232",
+      "name": "Tamieka Verschueren",
+      "summary": "-",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-kalischnig-8aaba0194",
+      "name": "Sophie Kalischnig",
+      "summary": "--",
+      "location": "Woerden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcvanvenrooij",
+      "name": "Marc van Venrooij",
+      "summary": "Digital Commerce & Innovation Leader | ex-Coca-Cola Europacific Partners | E-commerce | Retail Media | Digital Marketing | Digitizing the Path to Purchase | Open to Senior Roles",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/radjenv",
+      "name": "radjen van wilsem",
+      "summary": "CEO at CS Digital Media",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinbruggink",
+      "name": "Kevin Bruggink",
+      "summary": "Founder @ Red Rocket | Nieuwe vakmensen 100% gekwalificeerd via Whatsapp Chatbots | AI | Meta | TIkTok",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabricio-herrera-20b83a183",
+      "name": "Fabricio Herrera",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sander-peek-48863b2a2",
+      "name": "Sander Peek",
+      "summary": "Teamleider Klantenservice bij fonQ",
+      "location": "Montfoort"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidwijland",
+      "name": "David Wijland",
+      "summary": "Global Sr. Director of Retail Media at HelloFresh",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erikvanderkooij",
+      "name": "Erik van der Kooij",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-veenman-3734827",
+      "name": "Mark Veenman",
+      "summary": "CS Digital Media B.V.•862 followers",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janneke-kragt-0b37b019",
+      "name": "Janneke Kragt",
+      "summary": "Founder Kerst Kringloopshop Utrecht\n@stichting kragtig",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ssemion",
+      "name": "Špela Semion",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-rodriguez-parente-2b577578",
+      "name": "Martina Rodriguez Parente",
+      "summary": "Assistent controller - Senior Administrateur bij Endemol Shine Nederland Producties B.V.",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yukselberberoglu",
+      "name": "Yuksel Berberoglu",
+      "summary": null,
+      "location": "Amsterdam"
+    }
+  ],
+  "recommendations": [
+    "Brant Emery\n\nSebastian is a fast learner, who is keen and positive in bringing innovation at every level to his work. He has a positive and forward looking personality, and connects to people well at all levels. He is creative and willing to invest personal time in ensuring he implements the best quality solution.",
+    "Brant Emery\n\n‘Sebastian is a fast learner, who is keen and positive in bringing innovation at every level to his work. He has a positive and forward looking personality, and connects to people well at all levels. He is creative and willing to invest personal time in ensuring he implements the best quality solution.’"
+  ],
+  "activities": [
+    {
+      "title": "Welcome back to ENGAGE Europe 2025, coming to you live from London! 🇬🇧 We kicked off the morning with a powerhouse AI panel exploring how to scale…",
+      "link": "https://www.linkedin.com/posts/backbase_engageeurope-backbaseengage-unlockgrowthmode-activity-7384517902202281984-fXDh",
+      "activity_status": null
+    },
+    {
+      "title": "London calling! Right now, thousands of bankers are walking past this message in London's financial heart at Bank Station: AI waits for no…",
+      "link": "https://www.linkedin.com/posts/timrutten_london-calling-right-now-thousands-of-activity-7383855254716567552-4S_q",
+      "activity_status": null
+    },
+    {
+      "title": "Er komt een plek vrij in het leukste retail media team van Nederland. Reageer vandaag nog en misschien tot snel!!",
+      "link": "https://nl.linkedin.com/posts/claudianijland_er-komt-een-plek-vrij-in-het-leukste-retail-activity-7384582518525575169-5ZIs",
+      "activity_status": null
+    },
+    {
+      "title": "Silver win! 🥈 MMD x Martini shining bright in Retail Media ✨",
+      "link": "https://www.linkedin.com/posts/degrez-olivier-7961441_silver-win-mmd-x-martini-shining-bright-activity-7384566736638935041-DQbv",
+      "activity_status": null
+    },
+    {
+      "title": "🔴 𝗟𝗜𝗩𝗘: 𝗥𝗲𝗱 𝗕𝘂𝗹𝗹 𝘅 𝗧𝗲𝘁𝗿𝗶𝘀 𝗼𝗽 𝗔𝗺𝘀𝘁𝗲𝗿𝗱𝗮𝗺 𝗖𝗲𝗻𝘁𝗿𝗮𝗮𝗹 🔵 Sinds gisteren is onze nieuwste activatie live op 𝘩𝘦𝘵…",
+      "link": "https://nl.linkedin.com/posts/cs-digital-media_redbulltetris-dooh-digitaloutofhome-activity-7383773233357180929-zqjb",
+      "activity_status": null
+    },
+    {
+      "title": "Mall DOOH is no longer the future - it is the frontline of modern retail media. Why? Because mall environments give us a rare gift: captive…",
+      "link": "https://www.linkedin.com/posts/najeeb-baig-6a478716_mall-dooh-is-no-longer-the-future-it-activity-7376530563471523840-BimU",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Laatste kans: nog maar een paar plekken vrij voor Retail Media Eats #1! Op 16 oktober trapt de Taskforce Retail Media af met een gloednieuw…",
+      "link": "https://nl.linkedin.com/posts/via-nederland_event-retailmedia-offsite-activity-7383497112661098496-qf4J",
+      "activity_status": null
+    },
+    {
+      "title": "𝗖𝗮𝗺𝗽𝗮𝗴𝗻𝗲 𝗿𝗲𝗰𝗮𝗽: 𝗦𝘁𝗮𝗮𝘁𝘀𝗹𝗼𝘁𝗲𝗿𝗶𝗷 | 𝗦𝘁𝗮𝘁𝗶𝗼𝗻 𝗕𝗲𝘂𝗿𝘀, 𝗥𝗼𝘁𝘁𝗲𝗿𝗱𝗮𝗺🎯 Voor de trekking van 𝟭𝟬…",
+      "link": "https://nl.linkedin.com/posts/cs-digital-media_staatsloterij-outdooradvertising-giantformats-activity-7381674914505834496-Kb0I",
+      "activity_status": null
+    },
+    {
+      "title": "Zo hoor je DOOH toch in te zetten!? Je creatie aanpassen naar de locatie. 🏃 Basic-Fit Retail Media leuke campagne! In dit geval kan je zeggen…",
+      "link": "https://nl.linkedin.com/posts/dannythijssing_zo-hoor-je-dooh-toch-in-te-zetten-je-creatie-activity-7382118959090651137-BjWY",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday, Frank Kok and I had the opportunity to share our story at the egta in Helsinki for a diverse group of industry leaders from across Europe,…",
+      "link": "https://www.linkedin.com/posts/maartenduijne_digitalaudio-networking-europeanmarket-activity-7382323737091817472-rV_Z",
+      "activity_status": null
+    },
+    {
+      "title": "...𝙩𝙝𝙚𝙮 𝙟𝙪𝙨𝙩 𝙠𝙚𝙚𝙥 𝙤𝙣 𝙘𝙤𝙢𝙞𝙣𝙜 🚀 𝗡𝗲𝘄 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 𝗥𝗲𝗹𝗲𝗮𝘀𝗲 𝗮𝘁 𝗮𝗱𝗽𝗮𝗾.𝗰𝗼𝗺! We’re excited to announce that users…",
+      "link": "https://www.linkedin.com/posts/adpaq_programmatic-audioadvertising-innovation-activity-7379425001059360768-wWzO",
+      "activity_status": null
+    },
+    {
+      "title": "I'm very pleased to announce that on October 9th, I will be speaking alongside my colleague Frank Kok at the egta Marketing & Sales Meeting 2025 in…",
+      "link": "https://www.linkedin.com/posts/maartenduijne_digitalaudio-programmatic-activity-7379106291396345856-t_NW",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible couple of days at DMEXCO 2025! I enjoyed discussing how we can add a new dimension to our digital campaigns and bring content from…",
+      "link": "https://www.linkedin.com/posts/martinehammink_digital-outofhome-programmatic-activity-7375785058860687360-xKLN",
+      "activity_status": null
+    },
+    {
+      "title": "CleansDay X JCDecaux NL 🧹 🗑️ 🏙️ 🌳 Al zeker een week lang zijn de CleansDay uitingen te zien op onze schermen door de stad om zoveel mogelijk…",
+      "link": "https://nl.linkedin.com/posts/jcdecauxnl_cleansday-amsterdam-ooh-activity-7374811323643088896-2jku",
+      "activity_status": null
+    },
+    {
+      "title": "𝗦𝘁𝗮𝘁𝗶𝗼𝗻 𝗗𝗼𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝗼𝗽 𝗦𝘁𝗮𝘁𝗶𝗼𝗻 𝗪𝗲𝗲𝘀𝗽𝗲𝗿𝗽𝗹𝗲𝗶𝗻? 👀 Voor de nieuwste 𝗭𝗮𝗹𝗮𝗻𝗱𝗼-𝗰𝗮𝗺𝗽𝗮𝗴𝗻𝗲 verzorgde CSDM…",
+      "link": "https://nl.linkedin.com/posts/cs-digital-media_zalando-csdm-stationdomination-activity-7374417115908562945-6aRZ",
+      "activity_status": null
+    },
+    {
+      "title": "Dit was 'm dan, de eerste editie van het OOH CAFÉ! ✨ Het nieuwe netwerkconcept van de VIA (D)DOOH Taskforce. Een plek waar vakgenoten samenkomen voor…",
+      "link": "https://nl.linkedin.com/posts/via-nederland_dit-wasm-dan-de-eerste-editie-van-het-activity-7372192696444092416-Mnuj",
+      "activity_status": null
+    },
+    {
+      "title": "Very happy to announce the integration between Hawk (an Azerion company) and MyAdbooker. This is great news for our media owners who can now expand…",
+      "link": "https://www.linkedin.com/posts/sebastianophetveld_very-happy-to-announce-the-integration-between-activity-7245017394828447746-lc_4",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-04T00:00:00Z"
+  }
+}

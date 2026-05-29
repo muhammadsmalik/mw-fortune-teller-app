@@ -1,0 +1,687 @@
+{
+  "public_identifier": "bob-leroux-b792b29",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/766417e624f9ba9986242be436a5e9b1",
+  "background_cover_image_url": null,
+  "first_name": "Bob",
+  "last_name": "Leroux",
+  "full_name": "Bob Leroux",
+  "follower_count": 1603,
+  "occupation": "Chair, COMMB Board at COMMB",
+  "headline": null,
+  "summary": "Accomplished Executive / Strategic Thinker / Successful Sales Career / Bad Pun Master",
+  "location_str": "Mississauga, Ontario, Canada",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Mississauga",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "COMMB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/commb",
+      "company_facebook_profile_url": null,
+      "title": "Chair, COMMB Board",
+      "description": null,
+      "location": "Toronto, ON",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/007a0fbecabdb9481933cf770db098cc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2004
+      },
+      "ends_at": null,
+      "company": "PATTISON Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pattison-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Vice-President / General Manager, National Sales",
+      "description": null,
+      "location": "Mississauga, Ontario, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d50ef6eb16679f06db0c959e96b73613"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Astral Media Outdoor",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vice-President, National Sales",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "company": "Urban Outdoor Trans Ad",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "company": "Reader's Digest Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/reader's-digest",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/10c6fb21c86d2c98ff88cce69dafca3a"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1980
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1985
+      },
+      "field_of_study": "HBA - Business, MA - Journalism",
+      "degree_name": "HBA, MA",
+      "school": "Western University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/westernuniversity",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4df6031e8917afbdcc53c1ffb980a951",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/dinesh-k-678040dk",
+      "name": "Dinesh K.",
+      "summary": "CyberSecurity Advocate | CISSP, CISM, GCED, CFR, ITIL",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisramey",
+      "name": "Chris Ramey",
+      "summary": "Manager, Client Partnerships at CarGurus I 3x President’s Club Winner",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melaniekomlos",
+      "name": "Melanie Komlos",
+      "summary": "Talon OOH Canada - Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jpdesmarais",
+      "name": "Jean-Paul Desmarais",
+      "summary": "Vice President, Cantactix Sales & Marketing at Crisp Inc.",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshuagbarber",
+      "name": "Josh Barber",
+      "summary": "Regional Sales Manager, Local Sales – English Canada at Astral Out-of-Home",
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharpechris",
+      "name": "Chris Sharpe",
+      "summary": "Sr Sales and Agency Executive, ex-Amazon, ex-Yahoo, ex-MSN/Microsoft",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katiewilson3",
+      "name": "Katie Wilson",
+      "summary": "Marketing Professional",
+      "location": "Tiny"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harley-allain",
+      "name": "Harley Allain",
+      "summary": "Account Executive at PATTISON Outdoor Advertising",
+      "location": "Moncton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoriapetrolo",
+      "name": "Victoria Petrolo",
+      "summary": "Brand Leader | Sales | New Business Development",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aweisfeld",
+      "name": "Adam Weisfeld",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielatarantelli",
+      "name": "Daniela Tarantelli",
+      "summary": "Media Strategy & Partnerships Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kateplowman",
+      "name": "Kate Plowman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/s-connell",
+      "name": "Scott Connell",
+      "summary": "President/Owner,  Essential Link Inc.",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifersmith11",
+      "name": "Jennifer Smith, CIMBS,EMBA",
+      "summary": "Founder/CEO @ everythingpodcasts.com | 25+ years experience, Marketing Communications",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melodywarman",
+      "name": "Melody Warman",
+      "summary": "Vice President Sales and Revenue Strategies | New Business Development, CRM",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrickjmazza",
+      "name": "Patrick Mazza",
+      "summary": "Account Executive at Pattison Outdoor | Strategic Thinker | Media Professional | OOH Specialist",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniell5",
+      "name": "Daniel La Porta",
+      "summary": "Vice President at Glacier Media Digital",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ncampney",
+      "name": "Nicholas Campney",
+      "summary": "Director, Leasing and Legislation - Central Region at PATTISON Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brycegcollins",
+      "name": "Bryce Collins",
+      "summary": "National Account Manager at PATTISON Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoffcoutts",
+      "name": "Geoff Coutts",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandy-brdar-humphrey-3b328117",
+      "name": "Sandy (Brdar) Humphrey",
+      "summary": "Media, Marketing, Sales  |  Creative Thinker, Creative Writer",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-a-corsetti-0492b619",
+      "name": "Robert A. Corsetti",
+      "summary": "Executive Vice President & Chief Operating Officer Canada at Pattison Sign Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brandonkirk10",
+      "name": "Brandon Kirk",
+      "summary": "Vice President, Client Solutions, Rogers Sports & Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandy-d-amico-658513243",
+      "name": "Sandy D'Amico",
+      "summary": "Director, Client Solutions at PATTISON Outdoor",
+      "location": "North York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-gaggi-5363a",
+      "name": "Laura Gaggi",
+      "summary": "Advisor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aarongreenberg10",
+      "name": "Aaron Greenberg",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-girgis-1395703",
+      "name": "Michael Girgis",
+      "summary": "Entrepreneur / Investor Media Innovation \n/ Dive Billboards / Big Digital",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-maxwell-3197643",
+      "name": "Angela Maxwell",
+      "summary": "Enthusiastic Digital Media Professional in the Media, Content and Tech Space.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-cummins-1308a63",
+      "name": "Paul Cummins",
+      "summary": "National Account Manager, Airport Advertising at PATTISON Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sherry-kirwin-0959773",
+      "name": "Sherry Kirwin",
+      "summary": "GM Atlantic, Pattison Outdoor.  Passionate Advertising Sales Professional with a desire to make things happen!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/barry-wilde-361a523",
+      "name": "Barry Wilde",
+      "summary": null,
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kellerbeth",
+      "name": "Beth Keller",
+      "summary": "Marketing Consultant",
+      "location": "Victoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-bentler-a989358",
+      "name": "Christopher Bentler",
+      "summary": "President @ ALLVISION Digital Out-of-Home | Board Member @ COMMB",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-bidwell-0789428",
+      "name": "Jennifer Bidwell",
+      "summary": "Senior-Level Media Leadership - Sales & Media Strategist",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-crouse-536a808",
+      "name": "Stuart Crouse",
+      "summary": "General Manager/General Sales Manager",
+      "location": "Nanaimo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tracy-miller-beachesmum",
+      "name": "Tracy Miller",
+      "summary": "Principal, TMM Sales",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonn-sohl-52a206b",
+      "name": "Jonn Sohl",
+      "summary": null,
+      "location": "Abbotsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadinecole",
+      "name": "Nadine Cole",
+      "summary": "Managing Director of Connelly Partners West (formerly known as VRX Studios) \nTransformational Business Executive & Board Director.",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikerelliott",
+      "name": "Mike Elliott",
+      "summary": "Senior Advertising Sales Professional",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-hunter-jones-ba964113",
+      "name": "Andrea Hunter Jones",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-lawson-31b28914",
+      "name": "Mark Lawson",
+      "summary": "Director, Business Development",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irene-dorosh-28b58714",
+      "name": "Irene Dorosh",
+      "summary": "Account Executive at PATTISON Outdoor  - Helping customers leverage the power of technology, location, and creativity to drive impact and engagement where it matters.🇺🇦",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-gibb-17777215",
+      "name": "Scott Gibb",
+      "summary": "Marketing and Advertising Executive - Helping businesses realize their potential.",
+      "location": "Edmonton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-gibson-b97a2115",
+      "name": "Mark Gibson",
+      "summary": "Effective Team Leader, Builder, and Champion Maker for Toronto Retail, at Pattison Outdoor",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-novosel-03442119",
+      "name": "Tom Novosel",
+      "summary": "Vice President, Sales & Marketing at Abcon Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-randall-2447a819",
+      "name": "Jason Randall",
+      "summary": "Country Manager, VP Sales Canada @LG Ad solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-borg-332a391a",
+      "name": "Dan Borg",
+      "summary": "Sales Consultant Ontario-Vendo Media",
+      "location": "St. Davids"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heather-earle-7b59b51b",
+      "name": "Heather Earle",
+      "summary": "Sales and Advertising Executive",
+      "location": "Nanaimo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameron-milne-b99b521b",
+      "name": "Cameron Milne",
+      "summary": "Vice President / General Manager Central Region  at PATTISON Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesco-chimienti-a0229020",
+      "name": "Francesco Chimienti",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-kispal-7776b425",
+      "name": "Joseph Kispal",
+      "summary": "Canadian Out of Home Specialist",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-bansavatar-8332a026",
+      "name": "Steve Bansavatar",
+      "summary": "Director, National Sales - Astral Out of Home",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-petrie",
+      "name": "Nicola Petrie",
+      "summary": "Sales talent developer | Revenue Driver | Expert in B2B Relationship Building | Strategic approach to solving business challenges.",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-webber-24878928",
+      "name": "Rob Webber",
+      "summary": "Vice President, General Manager The Hunt Group | thegiftcardgroup.com (div. Hunt Diversified Marketing Inc.)",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-l-heureux-83a03229",
+      "name": "Robert L Heureux",
+      "summary": "a.m. chief at sundancer bar and grill",
+      "location": "Apache Junction"
+    },
+    {
+      "link": "https://www.linkedin.com/in/devon-tschritter-1a69a530",
+      "name": "Devon Tschritter",
+      "summary": "Vice President of Sales – Western Canada Major Markets",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicoletta-mcdonald-83b22033",
+      "name": "Nicoletta McDonald",
+      "summary": "Vice President, General Manager - Prairie Region at PATTISON Outdoor.                          Chief Operating Officer, PATTISON Outdoor, U.S",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marilyn-king-0453a636",
+      "name": "Marilyn King",
+      "summary": "Vice President Production & Creative Services at Pattison Outdoor",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-leslie-18132537",
+      "name": "Kevin Leslie",
+      "summary": "Vice President ,  Operations and Production at Clear Channel Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncangardner",
+      "name": "Duncan Gardner",
+      "summary": "Senior Media Sales Leader | Driving Growth in OOH & Digital OOH | National Agency & Programmatic Expertise",
+      "location": "Burlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-spratt-30795239",
+      "name": "Darren Spratt",
+      "summary": "Director of Sales | Business Development & Partnerships | Solutions Selling Strategies | Market Share Expansion & Business Growth | Team Leadership & Coaching",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-mcmurray-7250913b",
+      "name": "Brian McMurray",
+      "summary": null,
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicoleta-gowan-06639b42",
+      "name": "Nicoleta Gowan",
+      "summary": "Broadcast Manager at Dentsu International",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-rodkin-01754842",
+      "name": "Brian Rodkin",
+      "summary": "Seasoned Operator | Advisor | Investor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-hughes-4b1a0b42",
+      "name": "James Hughes",
+      "summary": "Director of Sales, Ontario Regional\nPattison Outdoor Advertising",
+      "location": "Milton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-chappell-67697747",
+      "name": "Greg Chappell",
+      "summary": "Helping partners thrive | Channel Champion | Vice President Global Sales and Partner Success at Think On, Inc.",
+      "location": "Pickering"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gyl-toshack-0079144a",
+      "name": "Gyl Toshack",
+      "summary": "General Sales Manager at Pattison Broadcast Group Winnipeg",
+      "location": "Winnipeg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-braun-41227a52",
+      "name": "Jennifer Braun",
+      "summary": "National Account Manager - Pattison Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-weinberger-aa63b163",
+      "name": "tim weinberger",
+      "summary": "Retired-General sales manager at Jim Pattison Broadcast Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ralph-de-adder-33762268",
+      "name": "Ralph De Adder",
+      "summary": "National Sales Manager- Promotional Products",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynda-clayton-bb182270",
+      "name": "Lynda Clayton",
+      "summary": "National Account Manager at OUTFRONT Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cory-glew-21206275",
+      "name": "Cory Glew",
+      "summary": "Director Operations at Pattison Outdoor",
+      "location": "Edmonton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-larue-0a567493",
+      "name": "Robert Larue",
+      "summary": "Skeet Shooting Instructor, NSSA Zone Instructor Canada",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominic-loporcaro-a4b7b0107",
+      "name": "Dominic Loporcaro",
+      "summary": "--",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-jakji-843294127",
+      "name": "George Jakji",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/evangough",
+      "name": "Evan Gough",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patti-turcotte-b5438b142",
+      "name": "Patti Turcotte",
+      "summary": null,
+      "location": "Edmonton"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "My sincere thanks to the AdClub of Toronto to be selected as the recipient of this year’s OOH Merit Award. I am humbled and truly appreciative of…",
+      "link": "https://www.linkedin.com/posts/bob-leroux-b792b29_my-sincere-thanks-to-the-adclub-of-toronto-activity-7393302650164928513-i3_8",
+      "activity_status": null
+    },
+    {
+      "title": "I started my career in OOH in March 1993. Industry colleague and friend Ann McDonagh had joined Urban Outdoor Trans Ad as their Research Manager. Ann…",
+      "link": "https://www.linkedin.com/posts/bob-leroux-b792b29_i-started-my-career-in-ooh-in-march-1993-activity-7370602012754808832--oLO",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to everyone for the anniversary notes. 20 years at Pattison Outdoor and 31 years in out-of-home advertising sales. It continues to be a…",
+      "link": "https://www.linkedin.com/posts/bob-leroux-b792b29_thank-you-to-everyone-for-the-anniversary-activity-7284300903786979328-xU28",
+      "activity_status": null
+    },
+    {
+      "title": "Snowflake EY This is what AI thinks I look like. Does this mean AI is blind? I could never look this good.",
+      "link": "https://www.linkedin.com/posts/bob-leroux-b792b29_snowflake-ey-this-is-what-ai-thinks-i-look-activity-7169061248523812864-hBdB",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Bob LeRoux",
+      "link": "https://www.linkedin.com/in/bob-leroux-76953472",
+      "summary": "Owner/Operating Engineer at Special-Train Services LLC",
+      "location": "Alma, MI"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-2b08b9",
+      "summary": "-",
+      "location": "Ottawa, ON"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-16166042",
+      "summary": "Chief Instructor / Pilot Examiner at NavPath Aviation Ltd",
+      "location": "Canada"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-37762a36",
+      "summary": "Service Manager at Ste-Foy Mitsubishi",
+      "location": "L'ancienne-Lorette, QC"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-b8348",
+      "summary": null,
+      "location": "Toronto, ON"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-725ab5182",
+      "summary": null,
+      "location": "Capitale-Nationale, QC"
+    },
+    {
+      "name": "Bob Leroux",
+      "link": "https://ca.linkedin.com/in/bob-leroux-827b4430",
+      "summary": null,
+      "location": "Vaudreuil-Dorion, QC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-14T00:00:00Z"
+  }
+}

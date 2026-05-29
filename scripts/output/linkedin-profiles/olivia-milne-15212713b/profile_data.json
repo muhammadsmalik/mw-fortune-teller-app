@@ -1,0 +1,952 @@
+{
+  "public_identifier": "olivia-milne-15212713b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/41b39e8e26ff4eebbf3af45e5a6bb39c",
+  "background_cover_image_url": null,
+  "first_name": "Olivia",
+  "last_name": "Milne",
+  "full_name": "Olivia Milne",
+  "follower_count": 1346,
+  "occupation": "Head of Marketing at London Lites",
+  "headline": "Head of Marketing @ London Lites | BSc in Business",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "London Lites",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/london-lites",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fe0892337f28950073ed116592306f3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Goodstuff",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goodstuff-communications",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/094aa5a3b1c49b0beee8f25d28c5bed5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2021
+      },
+      "company": "Kinetic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kinetic-worldwide",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cc8fe20df7c24fc26d7a093fe5ae900e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2021
+      },
+      "company": "Kinetic Worldwide",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kinetic-worldwide",
+      "company_facebook_profile_url": null,
+      "title": "Account Executive",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cc8fe20df7c24fc26d7a093fe5ae900e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Private",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "French/English Tutor",
+      "description": "Tutored French for GCSE and A-Level french students",
+      "location": "United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2018
+      },
+      "company": "Maximus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/maximusooh",
+      "company_facebook_profile_url": null,
+      "title": "Administrative Assistant",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/618fedfacd68a1a19e398d988478f48e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "Maison Chance",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Teacher Assistant",
+      "description": "Volunteered as an english teacher assistant for young vietnamese children",
+      "location": "Vietnam",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "FatFace",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fat-face",
+      "company_facebook_profile_url": null,
+      "title": "Sales Assistant",
+      "description": null,
+      "location": "Edinburgh, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/aa88e804536a6e858e3bcd55d2a910dc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Grassmarket Community Project",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grassmarket-community-project",
+      "company_facebook_profile_url": null,
+      "title": "Volunteer",
+      "description": "I had the pleasure of working with The Grassmaket community project for just under a year. Once or twice a week I would help make and serve food to the members of the community. This organisation helps bring together disadvantaged individuals and enables them to take part in various projects such as carpentery, computing, cooking, gardening and much more.",
+      "location": "Edinburgh, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/49f05377b8be0e328faefdd3731dc75c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "Hollister Co.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hollister-co.",
+      "company_facebook_profile_url": null,
+      "title": "Model",
+      "description": null,
+      "location": "Edinburgh, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5a6e0a4992e6358ad19c80db719c8359"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2025
+      },
+      "field_of_study": "Business and Management",
+      "degree_name": "BSc",
+      "school": "The London School of Economics and Political Science (LSE)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/london-school-of-economics",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/df125dda05c3cc496bf9a8ff08ac39b2",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": "French Language and Literature",
+      "degree_name": null,
+      "school": "King's College London",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/king's-college-london",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3d532796fbb98b785c01074a0aeca369",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "George Heriot's School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English and French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English and French",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "title": "Volunteer",
+      "cause": "Poverty Alleviation",
+      "company": "Grassmarket Community Project",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2015
+      },
+      "title": "Teaching Assistant",
+      "cause": "Children",
+      "company": "Maison Chance",
+      "company_linkedin_profile_url": null,
+      "description": "Whilst travelling through Vietnam I volunteered at a school called Maison Chance in Ho Chi Minh City. With a good understanding of languages, I was quickly able to get the children there to learn basic English. It was incredibly rewarding and an experience that added great value to my personal and professional life.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Digital Performance Certificate",
+      "license_number": null,
+      "display_source": null,
+      "authority": "IPA (Institute of Practitioners in Advertising)",
+      "url": "http://www.ipa.co.uk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Marketing Foundations",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.youracclaim.com/badges/280888ea-e2e7-480c-a1cb-bf213bae2301?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "name": "IPA Foundation Certificate",
+      "license_number": null,
+      "display_source": null,
+      "authority": "IPA (Institute of Practitioners in Advertising)",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/chiara-crawford",
+      "name": "Chiara Crawford",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cheungcarmen",
+      "name": "Carmen Cheung",
+      "summary": "Business Director at Goodstuff Communications // Campaign Faces to Watch 2020 // Campaign Media Awards & Media Week Awards Grand Prix Winner 2020",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/constance-white-design",
+      "name": "Constance White",
+      "summary": "Print Designer | Illustrator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexroyer",
+      "name": "Alexandra Royer",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rubysandler",
+      "name": "Ruby Sandler",
+      "summary": "Creative Video Editor @ OK COOL",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zacharyjdeal",
+      "name": "Zachary Deal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/asha-aarti-purohit",
+      "name": "Asha Aarti Purohit",
+      "summary": "PR and Marketing Manager at VinciWorks",
+      "location": "Leicester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nguyensabine",
+      "name": "Sabine Nguyen",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuellaibrahim",
+      "name": "Emmanuella Ibrahim",
+      "summary": "Senior Account Manager at PURPLE PR | Lifestyle",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/holly-ingram1",
+      "name": "Holly Ingram",
+      "summary": "Account Manager at CCGroup - B2B tech marketers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leticiaperezp",
+      "name": "Leticia Pérez Perales",
+      "summary": "Strategic Advisor to Finance Leaders | Empowering CFOs to Lead Finance Transformation & Accelerate Business Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dorcas-s-b8920310a",
+      "name": "Dorcas S.",
+      "summary": "Growth Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoriafarley",
+      "name": "Victoria Farley",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megankgubler",
+      "name": "Megan Gubler 🇺🇦",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayden-waller-a826bb283",
+      "name": "Hayden Waller",
+      "summary": "Student at University of Warwick",
+      "location": "Slough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-webb-1076782b2",
+      "name": "Sarah Webb",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/molly-coultish-83a3a923a",
+      "name": "Molly Coultish",
+      "summary": "Senior AV Executive",
+      "location": "Grays"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dantperry",
+      "name": "Dan Perry",
+      "summary": "Head of Digital Planning at Goodstuff Communications",
+      "location": "Sawbridgeworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tivvy-black-418746b0",
+      "name": "Tivvy Black",
+      "summary": "Senior Account Manager - Emperor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fenix-m-22b577178",
+      "name": "Fenix M.",
+      "summary": "Memorial consultant at Sandalwood Memorials Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/henry-bullett-561a9421b",
+      "name": "Henry Bullett",
+      "summary": "Business Development Executive at Entourage",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-dayeh-96941a4",
+      "name": "Sam Dayeh",
+      "summary": "Group Strategy Director and UK Board Member",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobby-din-00269225",
+      "name": "Bobby Din",
+      "summary": "Chief Investment Officer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-english-2384642a",
+      "name": "David English",
+      "summary": "CEO at London Lites",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/liv-wicks-33951430",
+      "name": "Liv Wicks",
+      "summary": "People Engagement/HR Business Partner at Goodstuff Communications & Adoptions Volunteer for Street Hearts BG",
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/boyd-moore-98954735",
+      "name": "Boyd Moore",
+      "summary": "Business Director @ London Lites",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jemma-samuelson23",
+      "name": "Jemma Samuelson",
+      "summary": "Media Planning Lead - UK and EU at Sky",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-baker-wyse-39a78650",
+      "name": "Beth Baker-Wyse",
+      "summary": "Blending Art & Advertising | Account Director in Creative OOH at JACK ARTS",
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/becky-hulme-3b0b7951",
+      "name": "Becky Hulme",
+      "summary": "--",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tara-walters-4a3b4452",
+      "name": "Tara Walters",
+      "summary": "Senior Global Account Manager | Marketing | Harper's Bazaar, ELLE, Esquire, Women's Health, Men's Health +",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-bryce-a9216554",
+      "name": "Charlotte Bryce",
+      "summary": null,
+      "location": "Letchworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-o-dwyer-3a2a5762",
+      "name": "Katherine O'Dwyer",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniella-nankivell-84593a65",
+      "name": "Daniella Nankivell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-hall-b589276b",
+      "name": "Natasha Hall",
+      "summary": "Head of Partnerships & Made By Client Services at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-shepherd-2a297984",
+      "name": "Daniel Shepherd",
+      "summary": "Digital Group Director at Goodstuff Communications",
+      "location": "Dartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevieve-tompkins-b93a6888",
+      "name": "Genevieve Tompkins",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-pountain-5996448b",
+      "name": "Amy Pountain",
+      "summary": "Head of Media at Miroma Founders Network | Campaign Faces To Watch UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-jones-5b65779a",
+      "name": "Sarah Jones",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amber-story-1a115ba0",
+      "name": "Amber Story",
+      "summary": "The Mortgage Story•1K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrina-williams-407195a0",
+      "name": "katrina williams",
+      "summary": "Team Manager (Self-employed)",
+      "location": "Maidenhead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-mcgee-266199a0",
+      "name": "Paul McGee",
+      "summary": "Goodstuff•427 followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sadie-weatherhead-b95aa8a0",
+      "name": "Sadie Weatherhead",
+      "summary": "Driving Growth & Compliance Efficiency- Marketplace Solutions",
+      "location": "Basingstoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaun-loveridge-111080aa",
+      "name": "Shaun Loveridge",
+      "summary": "Planning Director at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandra-himina-a2106ab3",
+      "name": "aleksandra himina",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloe-wood-549b47b3",
+      "name": "Chloe Wood",
+      "summary": "Group Planning Director at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josie-innes-87b213b4",
+      "name": "Josie Innes",
+      "summary": "Science Lead and Primary School Teacher at Hampstead Parochial School",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anya-shashkova-932749103",
+      "name": "Anya Shashkova",
+      "summary": "Client Director at The Specialist Works",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-quach-6137b6107",
+      "name": "Michelle Quach",
+      "summary": "Affiliate Marketing Specialist at Just Eat Takeaway",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-berger-993437110",
+      "name": "Francesca Berger",
+      "summary": "Senior Agency Partner at Ozone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-o-brien-3a6684113",
+      "name": "Kevin O'Brien",
+      "summary": "Graphic Designer at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-english-586a10115",
+      "name": "Mike English",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anabel-robson-207101117",
+      "name": "Anabel Robson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paige-spencer-1b411a128",
+      "name": "Paige Spencer",
+      "summary": "Group G-Force Director at Goodstuff Communications | Media Week 2024 30 Under 30",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edward-ayton-831557131",
+      "name": "Edward Ayton",
+      "summary": "Project Development Lead at National Grid | Strategic Infrastructure",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-morrison-340112136",
+      "name": "Sarah Morrison",
+      "summary": "Senior Account Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonia-keraudren-216a14138",
+      "name": "Sonia Keraudren",
+      "summary": "Spa Therapist | Sales & Marketing experienced",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-mullings-99b246141",
+      "name": "Liam Mullings",
+      "summary": "TfL - Customer Service Advisor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meghan-morrell-7b6a40141",
+      "name": "Meghan Morrell",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-boerenbeker-8b2711146",
+      "name": "Beth Boerenbeker",
+      "summary": null,
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raul-hedea-9a8671149",
+      "name": "Raul Hedea",
+      "summary": "Warehouse Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-payne-330774151",
+      "name": "Hannah Payne",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloe-coggin-84596b152",
+      "name": "Chloe Coggin",
+      "summary": "Client Services at Bakehouse Factory",
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-haron-756765153",
+      "name": "Rachel Haron",
+      "summary": "Publishing Director at Goodstuff Communications",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-jones-585296157",
+      "name": "Hannah Jones",
+      "summary": "Account Director at M&C Saatchi",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tessa-harding-736a45162",
+      "name": "Tessa Harding",
+      "summary": "Associate Planning Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ella-basra-711651169",
+      "name": "Ella Basra",
+      "summary": "Digital Director at Goodstuff",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phoebe-flys-24836716b",
+      "name": "Phoebe Flys",
+      "summary": "Client Manager at Talon",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danny-lynch-a01a70170",
+      "name": "Danny Lynch",
+      "summary": "Helping Compliance & Quality Teams Accelerate ISO Certification with Operational Video | Founder of ISO View Media | Video Evidence for 9001, 14001, 45001, 27001",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annabelle-edward-786b97193",
+      "name": "Annabelle Edward",
+      "summary": "Communications Manager at UM London - Dyson",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolina-peres-920447194",
+      "name": "Carolina Peres",
+      "summary": "AV Account Manager | Master’s in Security and Terrorism",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lola-leach-b8ba82196",
+      "name": "Lola Leach",
+      "summary": "Marketing and Social Media Manager At The Celtic Club, Melbourne Australia",
+      "location": "Carlton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heather-macpherson-4764691a6",
+      "name": "Heather MacPherson",
+      "summary": "Managing Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-smart-64a7b61b8",
+      "name": "Natasha Smart",
+      "summary": "Student at City, University of London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilygeorgeemj",
+      "name": "Emily George",
+      "summary": "Global Neurology & Psychiatry Lead @ EMJ | \nElevating the quality of healthcare globally | All views expressed here are my own",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-vincq-wilkinson-0822bb200",
+      "name": "Charles Vincq-Wilkinson",
+      "summary": "Account Manager at Bountiful Cow",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-stewart-685967204",
+      "name": "Sophie Stewart",
+      "summary": "New Business & Marketing Manager at Goodstuff Communications",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maisie-james-816a28205",
+      "name": "Maisie James",
+      "summary": "Media Week 30 Under 30 2025 • Senior Executive at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/langson-jr-phiri-7b446b207",
+      "name": "Langson Jr Phiri",
+      "summary": "Published Author - Will o' The Wisp",
+      "location": "City of London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-hamer-62385b214",
+      "name": "Charlie Hamer",
+      "summary": "Senior Planning Executive",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "London Lites becomes BackLite UK. Huge congratulations to everyone involved, looking forward to the opportunities ahead.",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_london-lites-becomes-backlite-uk-huge-activity-7416860365889904640-Ko7q",
+      "activity_status": null
+    },
+    {
+      "title": "Huge moment for London Lites! Well done team!",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_huge-moment-for-london-lites-well-done-team-activity-7387399861232644096-zQkN",
+      "activity_status": null
+    },
+    {
+      "title": "Great work London Lites team!💚 🍋🟩",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_great-work-london-lites-team-activity-7371861430620573696-MrGd",
+      "activity_status": null
+    },
+    {
+      "title": "Is it too early to talk about Christmas?",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_the-festive-period-activity-7374024270022352897-46PS",
+      "activity_status": null
+    },
+    {
+      "title": "What a year it’s been since we launched our premium Large Format Digital screen on Oxford Street! And this is just the beginning, there’s plenty more…",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_a-year-of-oxford-street-a-street-in-motion-activity-7335955686406692864-QFQ9",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting stuff!",
+      "link": "https://www.linkedin.com/posts/olivia-milne-15212713b_exciting-stuff-activity-7074770309479813120-PSp_",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Olivia Milne",
+      "link": "https://uk.linkedin.com/in/olivia-milne-1a6633206",
+      "summary": "Accountancy and Finance Specialist Recruitment Consultant",
+      "location": "London"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://www.linkedin.com/in/olivia-milne-b91b7a74",
+      "summary": "Pop Artist | Songwriter | Music Teacher",
+      "location": "Nashville, TN"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://www.linkedin.com/in/oliviamilne",
+      "summary": "Open to job opportunities that will utilize my experience in supply chain coordination.",
+      "location": "Monte Rio, CA"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://sg.linkedin.com/in/olivia-milne-7abb2855",
+      "summary": "APAC Sales and Marketing Director",
+      "location": "Singapore"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://uk.linkedin.com/in/olivia-milne-2a6582241",
+      "summary": "Social Media Marketing Apprentice 🌟",
+      "location": "Manchester Area, United Kingdom"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://www.linkedin.com/in/olivia-milne",
+      "summary": "Development Coordinator at Harvard Business School",
+      "location": "Cambridge, MA"
+    },
+    {
+      "name": "Olivia Milne",
+      "link": "https://uk.linkedin.com/in/olivia-milne-9b54231a9",
+      "summary": "Actor and Brit School Alumni.",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "name": "Olivia Price-Milne",
+      "link": "https://uk.linkedin.com/in/olivia-price-milne-27b8b12a8",
+      "summary": "Renovation",
+      "location": "Leominster"
+    },
+    {
+      "name": "Olivia (Liv) Milne",
+      "link": "https://uk.linkedin.com/in/olivia-liv-milne-2a6582241",
+      "summary": "Recruitment Marketing Executive at The Talent Crowd ⭐ | Content Marketing | Social Media | SEO | Lover of Emojis💗",
+      "location": "Manchester Area, United Kingdom"
+    },
+    {
+      "name": "Olivia Milne-Day",
+      "link": "https://uk.linkedin.com/in/olivia-milne-day-b1402431",
+      "summary": "Marketing at University of Oxford, Department for Continuing Education",
+      "location": "Greater Oxford Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-10-18T00:00:00Z"
+  }
+}

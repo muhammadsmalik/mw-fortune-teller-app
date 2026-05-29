@@ -1,0 +1,552 @@
+{
+  "public_identifier": "kath-mitchell-a8a9a910",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/640f6bb278a102bf3a5cfccb0ae8f4b9",
+  "background_cover_image_url": null,
+  "first_name": "Kath",
+  "last_name": "Mitchell",
+  "full_name": "Kath Mitchell",
+  "follower_count": 1746,
+  "occupation": "Chief Executive Officer at Out of Home Media Association Aotearoa",
+  "headline": "CEO - Out of Home Media Association Aotearoa.",
+  "summary": "Wife, mum, passionate foodie, loyal consumer of rosé and generally keen on working hard and having FUN doing it. <br><br>Wise to the ways of media, measurement and marketing with a creative approach to the use of research, data and insights. <br><br>I am driven by finding balance between the art and science of our industry, particularly now! <br><br>Prior to joining OOHMAA I had the privilege of leading IMANZ and working closely with media providers and indie agencies across Aotearoa. I have worked in senior leadership roles across various categories with some outstanding local and global brands; including TVNZ, Yellow, American Express, Air NZ, Sky City and Fullers Auckland.  All in commercial marketing, media and insights roles.",
+  "location_str": "Auckland, Auckland, New Zealand",
+  "country": "NZ",
+  "country_full_name": "New Zealand",
+  "city": "Auckland",
+  "state": "Auckland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Out of Home Media Association Aotearoa",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oohmaa",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": null,
+      "location": "New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b17d5fc33372f808537b2d472408d528"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2025
+      },
+      "company": "Independent Media Agencies New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/independent-media-agencies-nz",
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a2a3a332c1fc70faee0f6f622f5c57cb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "TVNZ",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager Trade Marketing",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Yellow New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yellow-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Head of Customer Strategy & Insights",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efa26119a18c96d5c26c8cc1c8dd9540"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2012
+      },
+      "company": "Yellow New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yellow-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Senior Marketing Delivery Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efa26119a18c96d5c26c8cc1c8dd9540"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2011
+      },
+      "company": "Yellow New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/yellow-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Senior Product Manager - Contract",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efa26119a18c96d5c26c8cc1c8dd9540"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "MyMarketer",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mymarketer",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager (Contract)",
+      "description": "Marketing Agency",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c14ec53b70a4fb660848584b9d16fc06"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2010
+      },
+      "company": "Personalised Plates",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager (Contract)",
+      "description": "Marketing Contract",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "American Express",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/american-express",
+      "company_facebook_profile_url": null,
+      "title": "Head of Partnerships & Small Business Products",
+      "description": "Direct Marketing, Online, Acquisition, Retention, Customer Engagement, Marketing Communications, Project Management",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e060b33ec7d1b195f6ac528ae4205641"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2006
+      },
+      "company": "Air New Zealand",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/air-new-zealand",
+      "company_facebook_profile_url": null,
+      "title": "Loyalty Partner Manager - Airpoints",
+      "description": "Direct Marketing, Online, Acquisition, Retention, Customer Engagement, Marketing Communications, Project Management",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/03b4fe4cc4cd804931a2785dbd64a0ce"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2004
+      },
+      "company": "SkyCity Entertainment Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/skycityentertainmentgroup",
+      "company_facebook_profile_url": null,
+      "title": "Product Manager - Food & Beverage",
+      "description": "Marketing Communications, Brand Management, Product Management, Loyalty, Event Management",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cc32593288ae437e7079c3917af6edfb"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Auckland Institute of Technology",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Marketing Association - Direct Marketing",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Epsom Girls Grammar School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "TVNZ AdEffect Series",
+      "description": "A selection of case studies built around media and creative effectiveness testing to support TVNZ's sales team in conversation with advertisers around the value of TV and other media - primarily digital - in the integrated marketing mix.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1733,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/radders007",
+      "name": "Alex Radford",
+      "summary": "Partner & Co-Founder at D3 | Chairperson of IMANZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garthbray",
+      "name": "Garth Bray",
+      "summary": "Presenter and business journalist",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoriakum",
+      "name": "Victoria Kum",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelly-bennett",
+      "name": "Kelly Bennett",
+      "summary": "Founder and Managing Director at One Plus One Communications",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jameshurman",
+      "name": "James Hurman",
+      "summary": "Creativity, Innovation, Advertising Effectiveness, Kindness. Founder/Co-founder of Previously Unavailable, Tracksuit, AF Drinks and Caffeine…",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bridget-bucknell-whalley-28976730",
+      "name": "Bridget Bucknell-Whalley",
+      "summary": "Strategy & Consulting lead at Together | IMANZ Leadership Team",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-hayden-43768110a",
+      "name": "Melissa Hayden",
+      "summary": "--",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maripazadonis",
+      "name": "Maripaz Adonis",
+      "summary": "Executive Assistant at Unitywater",
+      "location": "Parrearra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-moore-7872a1218",
+      "name": "Hannah Moore",
+      "summary": "Senior Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brent-mcanulty-541a16",
+      "name": "Brent McAnulty",
+      "summary": "Executive",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-mccready-8634157",
+      "name": "Sean McCready",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanne-martin-90691ba",
+      "name": "Susanne Martin",
+      "summary": "CEO PRINZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-lendrum-10121010",
+      "name": "Simon Lendrum",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-symons-a2587827",
+      "name": "Jonathan Symons",
+      "summary": "Commercial focus, sustained growth outcomes, highly engaged participation and leadership",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lance-hipkins-93412289",
+      "name": "Lance Hipkins",
+      "summary": "Commercial Partnerships Director at TVNZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chanel-clark",
+      "name": "Chanel Clark",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-collins-b2820ab3",
+      "name": "Rachel Collins",
+      "summary": "Business Manager at TVNZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-vroegrijk-9725a5123",
+      "name": "Mark Vroegrijk",
+      "summary": "Lead Science & Analytics @ DVJ Insights",
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/grace-meyer-25b048164",
+      "name": "Grace Meyer",
+      "summary": "Client Success Manager",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aarin-parfitt-02b91018b",
+      "name": "Aarin Parfitt",
+      "summary": "Senior Account Manager | Radio + Social Partnerships",
+      "location": "Auckland"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "JCDecaux is proud to be part of the new  unified audience measurement system for Out-of-Home in New Zealand. A great step forward for transparency…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-new-zealand_jcdecaux-is-proud-to-be-part-of-the-new-activity-7313388038661754883-x-td",
+      "activity_status": null
+    },
+    {
+      "title": "Young Lions Aotearoa WINNERS 2025! THEY DID IT! 🥇🙌🙌 A massive congratulations to Gabriella Smith and Lucy Anderson, who will represent New…",
+      "link": "https://www.linkedin.com/posts/lassoo-media-&-pr_younglions-canneslions2025-creativeexcellence-activity-7310856922876784641-uETj",
+      "activity_status": null
+    },
+    {
+      "title": "If you've ever ranted about potholes, rates, or rubbish collection—this is your moment. Right now, you get to have your say on how Council spends…",
+      "link": "https://www.linkedin.com/posts/mayor-wayne-brown-31b40b272_auckland-city-budget-activity-7309638820398866432-XZiu",
+      "activity_status": null
+    },
+    {
+      "title": "Had a really great time with this smart and switched on team this week!",
+      "link": "https://www.linkedin.com/posts/matthew-bale-b90b731_had-a-really-great-time-with-this-smart-and-activity-7308640114287484928-MBlR",
+      "activity_status": null
+    },
+    {
+      "title": "Kia ora koutou 😆 Exciting news for some of our amazing Independent Media Agencies New Zealand member agencies.  We talked last year about the need…",
+      "link": "https://www.linkedin.com/posts/independent-media-agencies-nz_hemisphere-and-big-river-creatives-unique-activity-7307922389688860672-rCrv",
+      "activity_status": null
+    },
+    {
+      "title": "A HUGE thank you to the amazing team at Warner Bros. Discovery ANZ for sponsoring and hosting the inaugural IMANZ Leaders Lunch.  We were so…",
+      "link": "https://www.linkedin.com/posts/independent-media-agencies-nz_a-huge-thank-you-to-the-amazing-team-at-warner-activity-7307916522465697792-6_4m",
+      "activity_status": null
+    },
+    {
+      "title": "Awesome podcast featuring two industry legends, sharing their thoughts with Duncan Greive on the growth within OOH in Aotearoa. Enjoy! 🙂",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_the-one-local-media-form-defying-gravity-activity-7363392012340899840-qUaA",
+      "activity_status": null
+    },
+    {
+      "title": "Getting a bit excited now 😁 see you soon Independent Media Agencies New Zealand",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_getting-a-bit-excited-now-see-you-soon-activity-7333268666999812096-Yl7d",
+      "activity_status": null
+    },
+    {
+      "title": "Nice touch News Publishers' Association - the team and members of Independent Media Agencies New Zealand think this is pretty darn cool! 😀 Brook…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_nice-touch-news-publishers-association-activity-7236544384240918530-pA7A",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely stoked to be a part of this epic showcase of creative awesomeness! Not to mention the fab judges…. Thanks LUMO Digital Outdoor for the…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_absolutely-stoked-to-be-a-part-of-this-epic-activity-7234710925453205504-_HIv",
+      "activity_status": null
+    },
+    {
+      "title": "Well this is exciting! Bring it on Sam Buchanan - MAICD, JP Rebecca (Bec) Coulson and Melissa Hayden. Such fantastic news for our associations!",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_imaa-launches-first-affiliate-programme-with-activity-7219549321979940865-PixO",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic afternoon with such an amazing industry!!!! Thank you Commercial Communications Council for an awesome event! A lot of honest and open…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_fantastic-afternoon-with-such-an-amazing-activity-7214378299114803200-uV8f",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for the write up StopPress 😀 Last Thursday Melissa Hayden and I had our first big event for Independent Media Agencies New Zealand members…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_indies-promote-the-power-of-collaboration-activity-7198120733850419200-ESxu",
+      "activity_status": null
+    },
+    {
+      "title": "What a week, month, year in media, advertising, journalism in Aotearoa. The proposed closure of Newshub this week was such a shock, absolutely…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_what-a-week-month-year-in-media-advertising-activity-7169047949421867008-F6un",
+      "activity_status": null
+    },
+    {
+      "title": "I’m happy to share that I’m starting a new position as General Manager at Independent Media Agencies New Zealand!",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_im-happy-to-share-that-im-starting-a-new-activity-7169045732547657729-tOXD",
+      "activity_status": null
+    },
+    {
+      "title": "We had the best few days with the amazing Professor Karen Nelson-Field PhD in market, sharing her incredible knowledge of media, attention,…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_we-had-the-best-few-days-with-the-amazing-activity-7041267067068575744-wnRD",
+      "activity_status": null
+    },
+    {
+      "title": "Oooh this is exciting. Philly is right, not often there is an opening in team Trade TVNZ.. We are a small, but mighty team, we are lucky enough to…",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_trade-marketing-manager-sales-activity-7079563180351373312-6MmP",
+      "activity_status": null
+    },
+    {
+      "title": "Oh yeah - bring it on - TVNZ Marketing Awards 2021!",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_tvnz-marketing-awards-2021coming-your-activity-6869811292983693312-DSHH",
+      "activity_status": null
+    },
+    {
+      "title": "Media isn't competitive at all! We take our commitment to sport seriously at TVNZ!",
+      "link": "https://www.linkedin.com/posts/kath-mitchell-a8a9a910_media-isnt-competitive-at-all-we-take-our-activity-6828876111489982464-GD7C",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Kath Mitchell",
+      "link": "https://uk.linkedin.com/in/kath-mitchell-7324703b",
+      "summary": "General Manager at Notcutts Garden Centres",
+      "location": "Crewe"
+    },
+    {
+      "name": "Kath Mitchell",
+      "link": "https://au.linkedin.com/in/kath-mitchell-bb94b821",
+      "summary": "Freelance - small business support services",
+      "location": "Coober Pedy, SA"
+    },
+    {
+      "name": "Kath Mitchell",
+      "link": "https://nz.linkedin.com/in/kath-mitchell-67a98362",
+      "summary": "Operations Manager at Total Telecommunications Ltd",
+      "location": "Wellington, New Zealand"
+    },
+    {
+      "name": "Kath Mitchell",
+      "link": "https://uk.linkedin.com/in/kath-mitchell-34419215",
+      "summary": "Marketing Officer at University of Salford",
+      "location": "Greater Manchester"
+    },
+    {
+      "name": "Kath Mitchell",
+      "link": "https://uk.linkedin.com/in/kath-mitchell-3a392840",
+      "summary": "Registered Manager at Crssway Services",
+      "location": "Warrington"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-22T00:00:00Z"
+  }
+}

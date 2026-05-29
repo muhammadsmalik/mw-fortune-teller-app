@@ -1,0 +1,1166 @@
+{
+  "public_identifier": "jayyoung1",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/10e5a84362cfb6721caead660ae495bb",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQG2UUr3jKAeBg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729091376358?e=2147483647&v=beta&t=p0H992iFJnuO4YQYkv8daXvkCPcWCA8SgLtGFYyd2Z0",
+  "first_name": "Jay",
+  "last_name": "Young ",
+  "full_name": "Jay Young",
+  "follower_count": 4030,
+  "occupation": "Managing Director at Grand Visual",
+  "headline": null,
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Grand Visual",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grand-visual",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": "The Creative OOH Studio",
+      "location": "Greater London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ab30b982b945361b1750e96eea2fa50f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "company": "Grand Visual",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grand-visual",
+      "company_facebook_profile_url": null,
+      "title": "Chief Client Officer",
+      "description": null,
+      "location": "Greater London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ab30b982b945361b1750e96eea2fa50f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2022
+      },
+      "company": "Talon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head of Creative Solutions",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "Talon Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Creative Solutions Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "Talon Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Innovations Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "company": "ENERGY",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/thisisenergy",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1947ee6dd5cc54a9ff950997b701ae88"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "Pixel Artworks",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pixelartworks",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": null,
+      "location": "London",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/370f196f996569f4c8e4264efdf82b75"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "Rough Hill",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rough-hill",
+      "company_facebook_profile_url": null,
+      "title": "Wales & South West Regional Manager",
+      "description": null,
+      "location": "Cardiff",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52ce5b0f83be8287136dbff4eaef8ed8"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "MBA Essentials Course",
+      "school": "The London School of Economics and Political Science (LSE)",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "Distinction",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "International Business Management",
+      "degree_name": "Bsc",
+      "school": "Cardiff University / Prifysgol Caerdydd",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Achieved 2:1",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Cardiff Business Society\nCardiff Student Panel\nCardiff Marketing Circle"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Hele’s School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Rising Star 2018",
+      "issuer": "Outdoor Media Awards",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "description": "https://cc.clearchannel.co.uk/l/304181/2018-06-27/6ckgv"
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "IPA AdNet Zero",
+      "number": null
+    },
+    {
+      "name": "Introduction to Counselling",
+      "number": "Minster Centre, London"
+    },
+    {
+      "name": "Mental Health First Aid",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": null,
+      "title": "LGBT Youth Mentor",
+      "cause": "Children",
+      "company": "The Duke of Edinburgh's Award",
+      "company_linkedin_profile_url": "https://uk.linkedin.com/company/the-duke-of-edinburgh's-award",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C4E0BAQERmHizNbIz9w/company-logo_100_100/company-logo_100_100/0/1673014829047/the_duke_of_edinburghs_award_logo?e=2147483647&v=beta&t=BYJPEaXUxY22LJOqevfzKteSP_xvfIh6Iaz_ZQ1aLJQ"
+    }
+  ],
+  "certifications": [],
+  "connections": 2910,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lisa-portman",
+      "name": "Lisa Portman",
+      "summary": "Creativity | Innovation @ Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbaracevallos",
+      "name": "Barbara Cevallos",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andsoup",
+      "name": "Andreas Soupliotis",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-graft",
+      "name": "Ryan Graft",
+      "summary": "IT Support Specialist & Product Manager",
+      "location": "Batavia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mymatedan",
+      "name": "Dan Dawson",
+      "summary": "Creative Leader & Podcaster (Behind the Billboard)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefanevans",
+      "name": "Stefan Evans",
+      "summary": "Freelance Social Media Consultant (ex Social Chain director)",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leegrasby",
+      "name": "Lee Grasby",
+      "summary": "Group Creative Director. Multi-channel marketing strategist.",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gpugh",
+      "name": "Graham Pugh",
+      "summary": "3 things: good at words, not bad at ideas, great at brand building, rubbish at maths.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bonnerluke",
+      "name": "Luke Bonner",
+      "summary": null,
+      "location": "Bournemouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-hamblin",
+      "name": "Andrew Hamblin",
+      "summary": "Digital Transformation, Automation, Retail Media Screen Networks, D/OOH",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-hamp",
+      "name": "Georgia Hamp",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tudorferaru",
+      "name": "Tudor Feraru",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/retouchingwire",
+      "name": "Retouching Wire",
+      "summary": null,
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rroques",
+      "name": "Remi Roques",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrutyunjaysingh",
+      "name": "MK Singh",
+      "summary": "Team Leader at SBI Card",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricmotti",
+      "name": "Ric Motti",
+      "summary": "Strategy at 3 Chillies 🌶️🌶️🌶️",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoe-haig-64516843",
+      "name": "Zoe Haig",
+      "summary": null,
+      "location": "Roslin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-cummings",
+      "name": "Neil Cummings",
+      "summary": "ECD, Head of Creative, Managing Partner at Zag",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardomotti",
+      "name": "Ricardo Motti",
+      "summary": "Global Growth @ Spotify",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidjlnorris",
+      "name": "David Norris",
+      "summary": "European Head of Creative Strategy at Snap Inc | ex TBWA\\Media Arts Lab - Apple | Dyslexic Thinker | Mentor | Keynote Speaker | Leader",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danwcm",
+      "name": "Daniel Wong-Chi-Man",
+      "summary": "Global Service Line Leader, Audience Measurement",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-glasspool",
+      "name": "Ben Glasspool",
+      "summary": "Motion Graphic Designer at Grand Visual",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunofcjardim",
+      "name": "Bruno Jardim",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/verono16",
+      "name": "Veronica Ong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadia-di-vuono-372214b",
+      "name": "Nadia Di Vuono",
+      "summary": "♟️Strategic, 👩‍🎨Creative (D)OOH specialist l🫀DEI Advocate because humanity is THE most important agenda l Status Quo challenger (aka ADHD thinker)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-banlaki-8bb01320b",
+      "name": "George Banlaki",
+      "summary": "Junior Full Stack Developer @ Grand Visual",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dom-sweeney-085278b",
+      "name": "Dom Sweeney",
+      "summary": "Head of Creative. Face of a potato.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-fisher-8188b711",
+      "name": "Ryan Fisher",
+      "summary": "President at Wieden + Kennedy London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-martin-aba78613",
+      "name": "Graham Martin",
+      "summary": "Head of Video Production DP World",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauracampbell83",
+      "name": "Laura Campbell",
+      "summary": "Founder & CEO Hackerlily | Mum Central Best Baby Product Winner | Bounty Parents Editors Choice Award | Marketing & Sales Consultant  | Social Impact | Innovation | Partnerships | Mentor |",
+      "location": "Hope Island"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-wall-56040419",
+      "name": "Chris Wall",
+      "summary": "Creative Director / Consultant / ECD",
+      "location": "Reigate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-gianakos-9408a719",
+      "name": "Thomas Gianakos",
+      "summary": "Product Manager",
+      "location": "Durham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevenatty",
+      "name": "Steven Atty",
+      "summary": "Creative Designer at HH Global",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-osborn-aaa40820",
+      "name": "Caroline Osborn",
+      "summary": "Co-Founder, Ann Squared Events",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nataliereiss",
+      "name": "Natalie R.",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agung-prihambodo-94b48a25",
+      "name": "Agung Prihambodo",
+      "summary": "connecting the dots",
+      "location": "Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-taylor-06684525",
+      "name": "Mike Taylor",
+      "summary": "Company Director at Production and Touring LTD",
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-byrne-16302426",
+      "name": "Anna Byrne",
+      "summary": "Writer | Creative Strategist | Brand Marketer | ex-Vogue",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaun-musgrove-5a695129",
+      "name": "Shaun Musgrove",
+      "summary": "Head of Operations - Havas London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jon-jones-11584135",
+      "name": "Jon Jones",
+      "summary": "Creative Technology Director at Grand Visual",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lara-worthington-6ab20140",
+      "name": "Lara Worthington",
+      "summary": "Campaign Management Lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoe-schmid-64516843",
+      "name": "Zoe Schmid",
+      "summary": "Brand Development & Growth Strategist",
+      "location": "Roslin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-yates-08515846",
+      "name": "Caroline Yates",
+      "summary": "Transformation Communications & Executive Storytelling Director @ EY | Change, Culture, AI Adoption | Ex Coca-Cola & Samsung | Mentor | Creative Effectiveness Judge",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheila-shanmugam-28316a49",
+      "name": "Sheila Shanmugam",
+      "summary": "WPP Media \n Chief Executive Officer Mindshare Malaysia\nPresident Malaysia Media Specialist Association",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damian-rezner-36309656",
+      "name": "Damian Rezner",
+      "summary": "COO & Board Member at Screen Network | Driving Innovation in Digital OOH Advertising🌐",
+      "location": "Warsaw"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jadehartland",
+      "name": "Jade Beasley",
+      "summary": null,
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bamisebi-babatope-olalekan-74102163",
+      "name": "BAMISEBI BABATOPE OLALEKAN",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasha-belousova-2a127865",
+      "name": "Sasha Belousova",
+      "summary": "Founder and Creative Director at Malina Jewellery",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jai-piper-69a59283",
+      "name": "Jai Piper",
+      "summary": "Head of Marketing & Growth | Audience & Fan Engagement | Live Experiences & Experiential Brands | Driving Ticket Revenue & Community Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-worden-72b0008b",
+      "name": "Jason Worden",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariel-hernandez-0b163aa0",
+      "name": "Mariel Hernandez",
+      "summary": "VP, Client Services, Grand Visual NA",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheree-edwards-3aa176a3",
+      "name": "Sheree Edwards",
+      "summary": "Front Of House Manager at 245 Hammersmith",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-watt-700a80a4",
+      "name": "Caroline Watt",
+      "summary": "Global Senior Brand Manager - Innovation, Pernod Ricard",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corey-fogo-72ab6b100",
+      "name": "Corey Fogo",
+      "summary": "Sports Coach at SG SPORTS COACHING LIMITED",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-fox-865853102",
+      "name": "Nicola Fox",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ric-albert-225161113",
+      "name": "Ric Albert",
+      "summary": "Executive Creative Director at Grand Visual",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olalekan-babatope-007636162",
+      "name": "Olalekan Babatope",
+      "summary": "online trader at Blockchain",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-agbeyegbe",
+      "name": "Hannah Agbeyegbe",
+      "summary": "Co-Founder & Director",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daewonjameskim",
+      "name": "Daewon Kim",
+      "summary": "CEO at PODO Media | Programmatic DOOH & Audience Measurement | Korea OOH Association",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/freddie-pearce-a349b3171",
+      "name": "Freddie Pearce",
+      "summary": "Motion Graphics Director at Grand Visual",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/millie-tipple-a1603119a",
+      "name": "Millie Tipple",
+      "summary": "Client Strategy Director at Talon | The Media Leader Future 100 Club 2025",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ellie-thurley-2298441b3",
+      "name": "Ellie Thurley",
+      "summary": "Associate Director at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harry-armstrong-bb56b9202",
+      "name": "Harry Armstrong",
+      "summary": null,
+      "location": "Hounslow"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "🏆 Very excited to be back judging Media Week's 30 under 30 award for 2025! I've seen first hand how winning this award can not only be a timely…",
+      "link": "https://www.linkedin.com/posts/dilki-weerakoon-9b3795a1_mediaweek30u30-activity-7313618655932465153-QpAB",
+      "activity_status": null
+    },
+    {
+      "title": "Oh my! OH my!! OH MY!!! WPP’s full-time back-to-office mandate started yesterday, and from what their employees are saying, it’s a mess!🌪️ A ping…",
+      "link": "https://www.linkedin.com/posts/tamaraalesi_nyc-welovewhatwedo-webuildbestbrands-activity-7313238069858500608-ESgK",
+      "activity_status": null
+    },
+    {
+      "title": "The Icon returns. Renault 5 makes its London debut at Future Stores, starting Saturday 22 March at 10 AM. A bold new take on the classic, brought to…",
+      "link": "https://www.linkedin.com/posts/engin-celikbas-9ba32a_renault5-futurestores-retailinnovation-activity-7308886299787096064-fvGV",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to step into this next chapter, driving the development and implementation of cutting-edge AI tools that deliver growth for our clients…",
+      "link": "https://www.linkedin.com/posts/marcosangelides_excited-to-step-into-this-next-chapter-driving-activity-7308214531112034304-tmv5",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to welcome Aaron Henderson to the GV team!",
+      "link": "https://www.linkedin.com/posts/jayyoung1_super-excited-to-welcome-aaron-henderson-activity-7308162785379561474-XYkZ",
+      "activity_status": null
+    },
+    {
+      "title": "Skyspace by James Turrell: A New Immersive Light Experience in Lech 🫧 Artist: James Turrell Project: Skyspace Location: Lech am Arlberg, Austria…",
+      "link": "https://www.linkedin.com/posts/mathieu-france-artcrush_skyspace-by-james-turrell-a-new-immersive-activity-7303411553695936512-1Wp4",
+      "activity_status": null
+    },
+    {
+      "title": "ENESS’s Immersive Art at Quoz Arts Fest 2025 🌈 Artist: ENESS Location: Quoz Arts Fest, Dubai ENESS’s Forest Dancer at Quoz Arts Fest 2025 in…",
+      "link": "https://www.linkedin.com/posts/mathieu-france-artcrush_enesss-immersive-art-at-quoz-arts-fest-2025-activity-7302258949938941952-tQ6q",
+      "activity_status": null
+    },
+    {
+      "title": "Emmanuelle’s Vibrant Installation 🇯🇵 Artist: Emmanuelle Moureaux Location: Dogo Onsen, Matsuyama, Japan As part of DOGO ART 2023, Emmanuelle…",
+      "link": "https://www.linkedin.com/posts/mathieu-france-artcrush_emmanuelles-vibrant-installation-artist-activity-7305526213425381376-4zMh",
+      "activity_status": null
+    },
+    {
+      "title": "Final judging of the #Grand Indies - some outstanding creative work from the Worldwide Partners, Inc. agencies - looking forward to May and…",
+      "link": "https://www.linkedin.com/posts/sarahlparkes_grand-grandindies-wpigrandindes-activity-7305239409036005378-41sp",
+      "activity_status": null
+    },
+    {
+      "title": "As the DECOL team, together with the Renaixance team, we had the privilege of creating an extraordinary real-time AV performance for the Experience…",
+      "link": "https://www.linkedin.com/posts/decollective_as-the-decol-team-together-with-the-renaixance-activity-7304842007846293504-uJe_",
+      "activity_status": null
+    },
+    {
+      "title": "Not 1. Not 2. But 3 phases to the big reveal 👀🍟 For the Trading Cards campaign, McDonald’s dialled up the anticipation with a three‑phase mural…",
+      "link": "https://www.linkedin.com/posts/grand-visual_not-1-not-2-but-3-phases-to-the-big-reveal-activity-7457705893455941632-ElBl",
+      "activity_status": null
+    },
+    {
+      "title": "Bring on the vibes 🌴 From Cardiff to London to Manchester, Pepsi MAX went full TROPICAL! Bold, bright and impossible to ignore, the campaign…",
+      "link": "https://www.linkedin.com/posts/grand-visual_bring-on-the-vibes-from-cardiff-to-london-activity-7458078139663990784-WhBi",
+      "activity_status": null
+    },
+    {
+      "title": "Data boosts incoming 🚀📶 From Liverpool to Leeds, Eduardo the pigeon is flying high and stealing the spotlight Perched proudly above the…",
+      "link": "https://www.linkedin.com/posts/grand-visual_data-boosts-incoming-from-liverpool-activity-7459587479554293760--E1J",
+      "activity_status": null
+    },
+    {
+      "title": "We made popcorn fly over Times Square. 🍿 For the premiere of The Mandalorian & Grogu, Airstage.de brought something truly magical to life. A moment…",
+      "link": "https://www.linkedin.com/posts/nils-schlenther_we-made-popcorn-fly-over-times-square-activity-7457316977590841344-RgzN",
+      "activity_status": null
+    },
+    {
+      "title": "Now this is a line up 👊 👊",
+      "link": "https://www.linkedin.com/posts/jayyoung1_now-this-is-a-line-up-activity-7454815507460997120-pRyD",
+      "activity_status": null
+    },
+    {
+      "title": "OOH of the day: by Nike ‘What doesnt break you, makes you a Londoner.’ At the London Marathon last weekend.",
+      "link": "https://www.linkedin.com/posts/phil-blondé-6287257_ooh-of-the-day-by-nike-what-doesnt-break-activity-7454423155802198016-OnfZ",
+      "activity_status": null
+    },
+    {
+      "title": "New Balance steps into Waterloo with a standout TfL partnership 👟 To celebrate and promote the launch of New Balance’s Ellipse trainer, the brand…",
+      "link": "https://www.linkedin.com/posts/transport-for-london_new-balance-steps-into-waterloo-with-a-standout-activity-7442601199444463617-VLY0",
+      "activity_status": null
+    },
+    {
+      "title": "Sometimes the best ads are the ones that look like they’re falling apart. Literally. 🤯 If you don't speak French, let me give you the context…",
+      "link": "https://www.linkedin.com/posts/petignaud_marketing-advertising-ooh-activity-7451875748711202816-sH4r",
+      "activity_status": null
+    },
+    {
+      "title": "It’s been exactly a month since we delivered our vehicle to Ukraine—and the mission was a success. We hit our target, got the vehicle there safely…",
+      "link": "https://www.linkedin.com/posts/samantha-alsemgeest_its-been-exactly-a-month-since-we-delivered-activity-7450636451396042752-AV83",
+      "activity_status": null
+    },
+    {
+      "title": "This is amazing. We are incredibly proud to have you on the team Samantha. Truly inspiring 👊🏼👊🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_this-is-amazing-we-are-incredibly-proud-activity-7450908749126537216-g2Ul",
+      "activity_status": null
+    },
+    {
+      "title": "A really cool example of the joy of mixing physcial effort with a digital response. Like it.",
+      "link": "https://www.linkedin.com/posts/jayyoung1_a-really-cool-example-of-the-joy-of-mixing-activity-7462801491150622720-0xT5",
+      "activity_status": null
+    },
+    {
+      "title": "We’re looking for a freelance Studio Traffic Manager to join us immediately. This is a key role in the heart of our studio – keeping projects moving,…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_were-looking-for-a-freelance-studio-traffic-activity-7449474936001245185-xfdy",
+      "activity_status": null
+    },
+    {
+      "title": "Stunning use of drones 👊",
+      "link": "https://www.linkedin.com/posts/jayyoung1_stunning-use-of-drones-activity-7447249341947346946-DcGi",
+      "activity_status": null
+    },
+    {
+      "title": "Still not over this one! Taking a simple billboard and turning it into something genuinely distinctive. A great example of how creative thinking can…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_still-not-over-this-one-taking-a-simple-activity-7447604693712691200-yRu2",
+      "activity_status": null
+    },
+    {
+      "title": "Theres so much love for this campaign and for good reason. We're telling the campaign story perfectly and making the audience on the street feel…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_theres-so-much-love-for-this-campaign-and-activity-7422262281696100353-vDsv",
+      "activity_status": null
+    },
+    {
+      "title": "Seven months off and I'm finally back with the Grand Visual team! Paternity leave turned out to be less “time off” and more “intensive leadership…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_seven-months-off-and-im-finally-back-with-activity-7415059285740724224-K11P",
+      "activity_status": null
+    },
+    {
+      "title": "Keeping those fingers crossed 🤞",
+      "link": "https://www.linkedin.com/posts/jayyoung1_keeping-those-fingers-crossed-activity-7304903140300980224-7dep",
+      "activity_status": null
+    },
+    {
+      "title": "Walkers Worcester Sauce is back and they taste so nostalgic for me! To celebrate we turned Worcester purple and floated a 6-metre crisp packet down…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_walkers-worcester-sauce-is-back-and-they-activity-7305175476103245825-AoH_",
+      "activity_status": null
+    },
+    {
+      "title": "When a client asks you to park a car on the side of an iconic tower, you know you’re in for a ride. 🚗💨 This campaign wasn’t just about making a…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-brandactivation-nissan-activity-7244722003553714176-JeeF",
+      "activity_status": null
+    },
+    {
+      "title": "Nat is the absolute superstar that keeps the GV cogs turning. So bloody well deserved 🙌🏼🙌🏼🙌🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_nat-is-the-absolute-superstar-that-keeps-activity-7244280244986155009-aFPd",
+      "activity_status": null
+    },
+    {
+      "title": "Client: “Wild idea, but can we make our poster sweat?” GV: “Abso-bloody-lutely” 🌶️🤘🏻",
+      "link": "https://www.linkedin.com/posts/jayyoung1_client-wild-idea-but-can-we-make-our-poster-activity-7242118672398319616-M3OM",
+      "activity_status": null
+    },
+    {
+      "title": "OOH and experiential have merged. They are no longer two seperate channels. Plan the two in tandem and you’ll almost certainly increase your ROI 🤘🏻…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-and-experiential-have-merged-they-are-activity-7237799465393299457-wCgs",
+      "activity_status": null
+    },
+    {
+      "title": "Are TfL tube station takeovers the new ‘floating things down the Thames’? I gave some of my thoughts to Hannah Bowler at The Drum.…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_are-tfl-tube-station-takeovers-the-new-floating-activity-7226920733468196864-tS9f",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible project to be part of and deliver alongside some seriously talented people!",
+      "link": "https://www.linkedin.com/posts/jayyoung1_lenovo-aura-edition-launch-at-the-london-activity-7270747785086255104-ySaM",
+      "activity_status": null
+    },
+    {
+      "title": "Come and join the crew! We are #hiring a Creative Strategist to join the amazing team in New York. If you know anyone who might be interested or…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_hiring-activity-7221159239166169088-Tznq",
+      "activity_status": null
+    },
+    {
+      "title": "* NEW CREATIVE OOH SHOWREEL DROP* Incredibly proud to share our latest showreel with you guys! What a privilege to work with such a talented team.…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_creativeooh-ooh-advertising-activity-7221165021219696641-oz2e",
+      "activity_status": null
+    },
+    {
+      "title": "This is an epic role based in our London studio. Shout for more info 🤘",
+      "link": "https://www.linkedin.com/posts/jayyoung1_junior-creative-strategist-grand-visual-activity-7221449723700748288-ASJ4",
+      "activity_status": null
+    },
+    {
+      "title": "Grand Visual delivered 3 of the Campaign UK top 10 Out-of-Home campaigns in 2024. Very proud moment after a year of insane work from the team 🥳 🥳…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_the-lists-2024-top-10-out-of-home-activity-7269663236671647744-yq96",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to announce that I am a speaker at MG OMD's MG UNLOCKS: Media Summit 2024. Looking forward to sharing the stage with Paddy Adams and…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_mediamatters-mgunlocks-creatingdifferencethatmatters-activity-7205921458567430146-XSzE",
+      "activity_status": null
+    },
+    {
+      "title": "Ad of the day! https://lnkd.in/enGJmhKp",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ad-of-the-day-habitat-celebrates-60-years-activity-7196519501918519298-ACJy",
+      "activity_status": null
+    },
+    {
+      "title": "Brilliant female and non-binary talent - GET ON IT 👇",
+      "link": "https://www.linkedin.com/posts/jayyoung1_brilliant-female-and-non-binary-talent-activity-7255163247455092736-T_Dl",
+      "activity_status": null
+    },
+    {
+      "title": "One of my favourite Grand Visual projects of the year for Warner Brothers. A stunning 3D Wonka animation running on 16 different screens across the…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_one-of-my-favourite-grand-visual-projects-activity-7137719487771852802-Av5S",
+      "activity_status": null
+    },
+    {
+      "title": "🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_waitrose-advert-fenced-off-by-overzealous-activity-7190322192637665280-vmL6",
+      "activity_status": null
+    },
+    {
+      "title": "4.5 mins on stage to add some value. Challenge set 👊",
+      "link": "https://www.linkedin.com/posts/jayyoung1_45-mins-on-stage-to-add-some-value-challenge-activity-7184475906319486977-E2GT",
+      "activity_status": null
+    },
+    {
+      "title": "It doesn't get better than receiving a brief for Specsavers \"Should've Gone to...\". You're not starting from scratch, you're building on 22 years of…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_it-doesnt-get-better-than-receiving-a-brief-activity-7179062269262077952-1uhi",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_grand-visual-is-revolutionising-creative-activity-7176977892596158464-TUvL",
+      "activity_status": null
+    },
+    {
+      "title": "\"We Must DOOH Better\" I'm hitting the stage alongside this wonderful bunch at the World Out of Home Organization's first Africa forum in Capetown…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_we-must-dooh-better-im-hitting-the-stage-activity-7172899615774593024-jU5T",
+      "activity_status": null
+    },
+    {
+      "title": "#ThirstyForMore drones 🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_thirstyformore-activity-7169398694377680896-erSo",
+      "activity_status": null
+    },
+    {
+      "title": "Our latest campaign for Quaker. Thermal imaging cameras and live temperature feeds being used to ramp up engagement and relevancy. Powerful stuff!",
+      "link": "https://www.linkedin.com/posts/jayyoung1_our-latest-campaign-for-quaker-thermal-imaging-activity-7167821494834708480-pGd6",
+      "activity_status": null
+    },
+    {
+      "title": "We're looking for a new marketing manager to take the lead at Grand Visual. See application details on the link below: https://lnkd.in/eNMBkrnz",
+      "link": "https://www.linkedin.com/posts/jayyoung1_were-looking-for-a-new-marketing-manager-activity-7164193808639848448-6fsQ",
+      "activity_status": null
+    },
+    {
+      "title": "Can't find a billboard to the fit the brief? We'll build one 👊",
+      "link": "https://www.linkedin.com/posts/jayyoung1_cant-find-a-billboard-to-the-fit-the-brief-activity-7160225521220378627-HnOW",
+      "activity_status": null
+    },
+    {
+      "title": "What a start to the year 🙌🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_what-a-start-to-the-year-activity-7151150722225487872-HONw",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to share that I’m starting a new position as Managing Director at Grand Visual. I couldn’t ask for a better bunch of people to do more…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_super-excited-to-share-that-im-starting-activity-7150828660390785024-nKtu",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for having me team 🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_thanks-for-having-me-team-activity-7150438053822509056-jF3L",
+      "activity_status": null
+    },
+    {
+      "title": "Come work for us at Grand Visual or Talon. Lots of roles available across creative, production, account management and planning 🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_come-work-for-us-at-grand-visual-or-talon-activity-7153768140181577728-wejU",
+      "activity_status": null
+    },
+    {
+      "title": "The TLDR: If we fail to make creative impact, no amount of audience optimisation can deliver the ROI our clients need and deserve 🔥",
+      "link": "https://www.linkedin.com/posts/jayyoung1_talons-team-2024-out-of-home-predictions-activity-7147904965397676032-YIln",
+      "activity_status": null
+    },
+    {
+      "title": "Bravo 🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_bravo-activity-7148232046996332545-JqUZ",
+      "activity_status": null
+    },
+    {
+      "title": "Simple execution. Big impact 🤟🏼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_simple-execution-big-impact-activity-7148662250378055680-XkXg",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-dooh-activity-7126167214549823488-m0NN",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-dooh-activity-7125297762228670464-umE4",
+      "activity_status": null
+    },
+    {
+      "title": "This couldnât be better deserved. Iâm so pumped for Benâs recognition. World class creativity and leadership, all delivered with passion and a…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_this-couldnt-be-better-deserved-im-so-activity-7110605547560660993-Y1IR",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this! Iâll be talking all things creative OOH. Let me know if youâre heading out ð¤ð¼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_young-to-speak-asia-forum-activity-7113604444105101314-P8Xj",
+      "activity_status": null
+    },
+    {
+      "title": "Jamie Clements speaking some wise words ð",
+      "link": "https://www.linkedin.com/posts/jayyoung1_specsavers-activity-6905205465936908288-cKlQ",
+      "activity_status": null
+    },
+    {
+      "title": "I'll be taking to the AdWeek Europe stage with the our incredibly talented Head of Programmatic, Nicola Fox. How can creativity and data come…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ill-be-taking-to-the-adweek-europe-stage-activity-7062420314927820800-iIKS",
+      "activity_status": null
+    },
+    {
+      "title": "\"Can we turn a building into Nissan Formula E helmet?\" Yes we can!",
+      "link": "https://www.linkedin.com/posts/jayyoung1_can-we-turn-a-building-into-nissan-formula-activity-7090699118875926528-X5ms",
+      "activity_status": null
+    },
+    {
+      "title": "Simple. Impactful. Scalable ðð¼",
+      "link": "https://www.linkedin.com/posts/jayyoung1_shadowart-dracula-ooh-activity-6618498874107539456-rQNG",
+      "activity_status": null
+    },
+    {
+      "title": "These billboards for John Lewis & Partners' new 'Family Life' campaign are super examples of creative OOH. Why? Becuase they follow the 2 simples…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_these-billboards-for-john-lewis-partners-activity-7059123157277798400-6shS",
+      "activity_status": null
+    },
+    {
+      "title": "So so true!",
+      "link": "https://www.linkedin.com/posts/jayyoung1_so-so-true-activity-7033453351132352512-K9SB",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-is-fun-part-two-how-do-you-launch-freeze-activity-6922623786336829440-m3tb",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_projectmaybach-mercedesbenz-showcar-activity-6868556201710411776-xSqW",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jayyoung1_4creative-talon-argylestreet-activity-6846786569148391424-jVBK",
+      "activity_status": null
+    },
+    {
+      "title": "As the latest series of BBC 3 Glow Up arrives at the half-way point, we gave new host Maya Jama her very own mural 'glow up'. Big projection and…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_ooh-activity-6801095575262507008-b1DU",
+      "activity_status": null
+    },
+    {
+      "title": "This billboard’s on firrrreee 🔥🔥🔥 An unmissable production to drive a very important message The hard work paid off guys Emma Lang Talon Outdoor…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_this-billboards-on-firrrreee-an-activity-6761931507121627136-zTq_",
+      "activity_status": null
+    },
+    {
+      "title": "Another awesome collab! 🙌🏽",
+      "link": "https://www.linkedin.com/posts/jayyoung1_another-awesome-collab-activity-6550770006370598912-29PN",
+      "activity_status": null
+    },
+    {
+      "title": "Super chuffed to have been awarded Rising Star at this years Outdoor Media Awards! Thanks Clear Channel Outdoor for a brilliant night. You can check…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_super-chuffed-to-have-been-awarded-rising-activity-6420699357657522176-E_hj",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jay-young-06341a83",
+      "summary": "3D Animator and Motion Graphics Designer at Aquent Studios",
+      "location": "Greater Cleveland"
+    },
+    {
+      "name": "Jay Yang",
+      "link": "https://cn.linkedin.com/in/yjmade",
+      "summary": "Senior Self-Driving System (Perception, Simulation) Software Engineer at NVIDIA",
+      "location": "Shanghai, China"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://ca.linkedin.com/in/jay-young-00058a27",
+      "summary": "--",
+      "location": "Canada"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/seattlerentals",
+      "summary": "Co Founder at Real Property Associates",
+      "location": "Greater Seattle Area"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jay-young-84b00416",
+      "summary": "President at Hailey Realty Company",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-3870674",
+      "summary": "Product Development Consultant/Fine Artist, Former VP Creative/Product Development Warner Bros. Discovery Consumer Products EMEA",
+      "location": "London Area, United Kingdom"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-45722548",
+      "summary": "Head of Safety and Compliance",
+      "location": "Keyworth"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-9a280012a",
+      "summary": null,
+      "location": "Stonehouse"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-09578218a",
+      "summary": null,
+      "location": "Greater Guildford Area, United Kingdom"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-52a89b198",
+      "summary": "Cinematographer/ Videographer",
+      "location": "London"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jay-young-518720b6",
+      "summary": null,
+      "location": "London Area, United Kingdom"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://uk.linkedin.com/in/jayyoung01",
+      "summary": "Global headhunter | Driving industry leading executive search solutions for the Plastics & Polymers sector",
+      "location": "Leeds"
+    },
+    {
+      "name": "Jay B.",
+      "link": "https://www.linkedin.com/in/jay-b-137b3ab3",
+      "summary": null,
+      "location": "Greater Tampa Bay Area"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jay-young-278864",
+      "summary": null,
+      "location": "New York, NY"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jaycyoungwma",
+      "summary": null,
+      "location": "Las Vegas Metropolitan Area"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jaysyoung86",
+      "summary": null,
+      "location": "Denver, CO"
+    },
+    {
+      "name": "Jay Young",
+      "link": "https://www.linkedin.com/in/jarvieryoung",
+      "summary": null,
+      "location": "Charlotte, NC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:54:23Z"
+  }
+}
