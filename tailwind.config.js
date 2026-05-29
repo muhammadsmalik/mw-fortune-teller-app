@@ -22,6 +22,15 @@ module.exports = {
         'mw-white': 'var(--mw-white-hex, #FFFFFF)',
         'mw-gradient-blue-darker': 'var(--mw-gradient-blue-darker-hex, #3A7BBF)',
         'mw-gold': '#FEDA24',
+        // Agent WALLi brand-sheet palette (booth-flow revamp). `mw-gold` above stays
+        // the legacy bright yellow; the WALLi flow uses the antique gold below.
+        'mw-gold-antique': '#D4AF37',
+        'mw-gold-antique-deep': '#BF9530',
+        'mw-navy-void': '#0A0F1C',
+        'mw-navy-gunmetal': '#111827',
+        'mw-navy-deep': '#1B2740',
+        'mw-blue-electric': '#1E88E5',
+        'mw-parchment': '#F5EAD3',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {

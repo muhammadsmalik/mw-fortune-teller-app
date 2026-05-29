@@ -8,7 +8,7 @@ export default function BrandFooter() {
 
   return (
     <footer
-      className={`w-full ${footerHeight} bg-gradient-to-r from-[#2554A2] to-[#1B1E2B] flex flex-col justify-end relative z-10`}
+      className={`w-full ${footerHeight} bg-gradient-to-b from-mw-navy-gunmetal to-mw-navy-void flex flex-col justify-end relative z-10`}
     >
       <div className="flex flex-row overflow-hidden">
         {Array.from({ length: numUnits }).map((_, index) => (

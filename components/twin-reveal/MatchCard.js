@@ -12,7 +12,7 @@ function ConfidencePill({ confidence }) {
       className={`inline-flex items-center rounded-full border px-2 py-0.5 text-[11px] font-semibold ${
         high
           ? 'border-emerald-300/40 bg-emerald-300/15 text-emerald-100'
-          : 'border-[#FEDA24]/40 bg-[#FEDA24]/15 text-[#FFF4A7]'
+          : 'border-mw-gold-antique/40 bg-mw-gold-antique/15 text-mw-parchment'
       }`}
     >
       {confidence}
@@ -38,7 +38,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
   return (
     <div
       className={`bg-white/10 border rounded-xl overflow-hidden transition ${
-        selectable && selected ? 'border-mw-gold ring-1 ring-mw-gold/60' : 'border-white/15'
+        selectable && selected ? 'border-mw-gold-antique ring-1 ring-mw-gold-antique/60' : 'border-white/15'
       }`}
     >
       <div className="flex items-start gap-3 p-4">
@@ -51,7 +51,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
             onClick={() => onToggleSelect?.()}
             className={`mt-0.5 h-6 w-6 shrink-0 rounded-md border flex items-center justify-center text-sm font-bold transition ${
               selected
-                ? 'bg-mw-gold border-mw-gold text-mw-dark-navy'
+                ? 'bg-mw-gold-antique border-mw-gold-antique text-mw-dark-navy'
                 : 'border-white/40 text-transparent hover:border-white/70'
             }`}
           >
@@ -96,7 +96,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
             target="_blank"
             rel="noreferrer"
             aria-label={`Open ${name || 'profile'} on LinkedIn`}
-            className="mt-0.5 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-white/15 bg-white/5 text-white/80 transition hover:border-mw-gold/60 hover:text-mw-gold"
+            className="mt-0.5 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-white/15 bg-white/5 text-white/80 transition hover:border-mw-gold-antique/60 hover:text-mw-gold-antique"
           >
             <ArrowUpRight className="h-4 w-4" />
           </Link>
@@ -109,7 +109,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
           <ul className="space-y-1.5">
             {talkingPoints.map((t, i) => (
               <li key={i} className="flex gap-2 text-sm text-white/85 leading-relaxed">
-                <span className="text-mw-gold">•</span>
+                <span className="text-mw-gold-antique">•</span>
                 <span>{t}</span>
               </li>
             ))}

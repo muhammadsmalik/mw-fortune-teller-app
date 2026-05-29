@@ -86,7 +86,7 @@ function ConfidencePill({ confidence }) {
   const classes =
     confidence === 'High'
       ? 'border-emerald-300/40 bg-emerald-300/15 text-emerald-100'
-      : 'border-[#FEDA24]/40 bg-[#FEDA24]/15 text-[#FFF4A7]';
+      : 'border-mw-gold-antique/40 bg-mw-gold-antique/15 text-mw-parchment';
 
   return (
     <span className={`inline-flex items-center rounded-full border px-2.5 py-1 text-xs font-semibold ${classes}`}>
@@ -105,7 +105,7 @@ function InitialsBadge({ name, size = 'md' }) {
 
   const dims =
     size === 'lg'
-      ? 'h-20 w-20 text-2xl sm:h-24 sm:w-24 border-[#FEDA24]/70'
+      ? 'h-20 w-20 text-2xl sm:h-24 sm:w-24 border-mw-gold-antique/70'
       : 'h-14 w-14 text-base border-[#5BADDE]/40';
 
   return (
@@ -124,7 +124,7 @@ export default function TwinMatchesPreview() {
             <div className="flex items-center gap-4">
               <InitialsBadge name={sourceProfile.name} size="lg" />
               <div className="min-w-0">
-                <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-[#FEDA24]/30 bg-[#FEDA24]/15 px-3 py-1 text-xs font-semibold uppercase tracking-normal text-[#FFF4A7]">
+                <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-mw-gold-antique/30 bg-mw-gold-antique/15 px-3 py-1 text-xs font-semibold uppercase tracking-normal text-mw-parchment">
                   <Sparkles className="h-3.5 w-3.5" />
                   Twin preview
                 </div>
@@ -162,7 +162,7 @@ export default function TwinMatchesPreview() {
               <ul className="mt-4 space-y-2">
                 {sourceProfile.evidence.map((item) => (
                   <li key={item} className="flex gap-2 text-sm leading-relaxed text-white/76">
-                    <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-[#FEDA24]" />
+                    <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-mw-gold-antique" />
                     <span>{item}</span>
                   </li>
                 ))}
@@ -173,7 +173,7 @@ export default function TwinMatchesPreview() {
           <div className="flex flex-col justify-center gap-4">
             <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
               <div>
-                <p className="text-sm font-semibold uppercase tracking-normal text-[#AFDFF6]">Recommended twins</p>
+                <p className="text-sm font-semibold uppercase tracking-normal text-[#AFDFF6]">People you should meet</p>
                 <h2 className="mt-1 text-2xl font-bold text-white sm:text-3xl">Matches with ready-to-use talking points</h2>
               </div>
               <div className="inline-flex w-fit items-center gap-2 rounded-full border border-white/12 bg-white/10 px-3 py-2 text-xs text-white/78">
@@ -210,7 +210,7 @@ export default function TwinMatchesPreview() {
                           href={match.linkedinUrl}
                           target="_blank"
                           rel="noreferrer"
-                          className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-md border border-white/14 bg-white/8 text-white/82 transition hover:border-[#FEDA24]/60 hover:text-[#FEDA24]"
+                          className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-md border border-white/14 bg-white/8 text-white/82 transition hover:border-mw-gold-antique/60 hover:text-mw-gold-antique"
                           aria-label={`Open ${match.name} on LinkedIn`}
                         >
                           <ArrowUpRight className="h-4 w-4" />
@@ -228,7 +228,7 @@ export default function TwinMatchesPreview() {
                       <div className="mt-4 grid gap-2">
                         {match.talkingPoints.map((point) => (
                           <div key={point} className="flex gap-2 rounded-md border border-white/8 bg-[#151E43]/42 px-3 py-2 text-sm leading-relaxed text-white/82">
-                            <MessageSquareText className="mt-0.5 h-4 w-4 shrink-0 text-[#FEDA24]" />
+                            <MessageSquareText className="mt-0.5 h-4 w-4 shrink-0 text-mw-gold-antique" />
                             <p>{point}</p>
                           </div>
                         ))}
