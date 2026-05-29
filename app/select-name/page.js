@@ -57,6 +57,13 @@ export default function SelectNamePage() {
   const handlePick = (a) => setSelected(a);
   const handleBack = () => setSelected(null);
 
+  // Back out of the walk-in path → return to the name search, clean.
+  const handleWalkinBack = () => {
+    setShowWalkin(false);
+    setLinkedinUrl('');
+    setWalkinError('');
+  };
+
   const handleConfirm = () => {
     if (!selected) return;
     if (typeof window !== 'undefined') {
@@ -115,7 +122,7 @@ export default function SelectNamePage() {
         <div className="w-full max-w-xl">
           <p className="text-sm uppercase tracking-[0.2em] text-mw-light-blue text-center mb-3">WOO London</p>
 
-          {!selected ? (
+          {!selected && !showWalkin ? (
             <>
               <div className="flex justify-center mb-5">
                 <WalliAvatar pose="greeting" size={96} />
@@ -164,44 +171,85 @@ export default function SelectNamePage() {
                 </div>
               )}
 
-              {/* Walk-in path — anyone not in the precomputed directory */}
+              {/* Entry to the walk-in path — anyone not in the precomputed directory */}
               <div className="mt-8 text-center">
-                {!showWalkin ? (
-                  <button
-                    onClick={() => setShowWalkin(true)}
-                    className="text-sm text-mw-light-blue underline decoration-mw-light-blue/40 hover:decoration-mw-light-blue"
-                  >
-                    Not on the list? Match with your LinkedIn
-                  </button>
-                ) : (
-                  <form onSubmit={handleWalkin} className="text-left">
-                    <p className="mb-2 text-center text-sm text-mw-white/70">
-                      Paste your LinkedIn and WALLi will find your matches live.
-                    </p>
-                    <Input
-                      type="url"
-                      inputMode="url"
-                      placeholder="https://www.linkedin.com/in/your-name"
-                      value={linkedinUrl}
-                      onChange={(e) => setLinkedinUrl(e.target.value)}
-                      className="bg-white/10 border-white/20 text-white placeholder:text-white/50 h-12 text-base"
-                      autoFocus
-                    />
-                    {walkinError && <p className="mt-2 text-sm text-red-300">{walkinError}</p>}
-                    <Button
-                      type="submit"
-                      disabled={walkinLoading}
-                      size="lg"
-                      className="mt-4 w-full px-10 py-7 text-lg font-bold
-                                 bg-gradient-to-r from-mw-gold-antique to-mw-gold-antique-deep
-                                 text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg
-                                 transition-all duration-150 hover:shadow-xl active:scale-95
-                                 disabled:opacity-60"
-                    >
-                      {walkinLoading ? 'WALLi is reading your LinkedIn…' : 'Find my matches'}
-                    </Button>
-                  </form>
-                )}
+                <button
+                  onClick={() => setShowWalkin(true)}
+                  className="text-sm text-mw-light-blue underline decoration-mw-light-blue/40 hover:decoration-mw-light-blue"
+                >
+                  Not on the list? Match with your LinkedIn
+                </button>
+              </div>
+            </>
+          ) : showWalkin ? (
+            <>
+              <div className="flex justify-center mb-5">
+                <WalliAvatar pose="greeting" size={96} />
+              </div>
+              <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2">Paste your LinkedIn</h1>
+              <p className="text-base text-mw-white/70 text-center mb-8">
+                WALLi will read your profile and find your matches live.
+              </p>
+
+              <form onSubmit={handleWalkin}>
+                <Input
+                  type="url"
+                  inputMode="url"
+                  placeholder="https://www.linkedin.com/in/your-name"
+                  value={linkedinUrl}
+                  onChange={(e) => setLinkedinUrl(e.target.value)}
+                  className="bg-white/10 border-white/20 text-white placeholder:text-white/50 h-12 text-base"
+                  autoFocus
+                />
+                {walkinError && <p className="mt-2 text-sm text-red-300">{walkinError}</p>}
+                <Button
+                  type="submit"
+                  disabled={walkinLoading}
+                  size="lg"
+                  className="mt-4 w-full px-10 py-7 text-lg font-bold
+                             bg-gradient-to-r from-mw-gold-antique to-mw-gold-antique-deep
+                             text-mw-dark-navy hover:opacity-90 rounded-lg shadow-lg
+                             transition-all duration-150 hover:shadow-xl active:scale-95
+                             disabled:opacity-60"
+                >
+                  {walkinLoading ? 'WALLi is reading your LinkedIn…' : 'Find my matches'}
+                </Button>
+              </form>
+
+              <details className="group mt-4 text-center">
+                <summary className="cursor-pointer list-none text-sm text-mw-light-blue underline decoration-mw-light-blue/40 hover:decoration-mw-light-blue marker:hidden">
+                  How do I find my LinkedIn URL?
+                </summary>
+                <div className="mt-3 text-left text-sm text-mw-white/70 leading-relaxed rounded-lg bg-white/5 border border-white/10 p-4">
+                  <p className="font-semibold text-white mb-2">
+                    On the LinkedIn app (iPhone or Android — same steps):
+                  </p>
+                  <ol className="list-decimal pl-5 space-y-1.5 mb-3">
+                    <li>Tap your <span className="text-white">photo</span> (top-left).</li>
+                    <li>Tap your <span className="text-white">name / photo again</span> to open your profile.</li>
+                    <li>
+                      Tap the <span className="text-white">⋯ menu</span> near your name → choose{' '}
+                      <span className="text-white">Copy URL</span> (or{' '}
+                      <span className="text-white">Share via…</span> then <span className="text-white">Copy</span>).
+                    </li>
+                    <li>Paste it in the box above.</li>
+                  </ol>
+                  <p>
+                    <span className="font-semibold text-white">On desktop:</span> open your profile and
+                    copy the address bar — it ends in{' '}
+                    <span className="text-white">/in/your-name</span>.
+                  </p>
+                </div>
+              </details>
+
+              <div className="mt-4 text-center">
+                <button
+                  onClick={handleWalkinBack}
+                  disabled={walkinLoading}
+                  className="text-sm text-white/60 hover:text-white disabled:opacity-50"
+                >
+                  ← Back to name search
+                </button>
               </div>
             </>
           ) : (
