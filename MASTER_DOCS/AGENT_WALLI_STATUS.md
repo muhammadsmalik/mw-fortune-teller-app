@@ -1,6 +1,6 @@
 # Agent WALLi — Booth Flow Status
 
-_Last updated: 2026-05-29 · Branch: `integration/woo-e2e`_
+_Last updated: 2026-05-30 · Branch: `integration/woo-e2e`_
 
 "Agent WALLi, the AI concierge wizard" — a self-serve booth experience for **WOO London**.
 An attendee picks their name, sees the 3 people WALLi thinks they should meet (with talking
@@ -97,6 +97,11 @@ briefs the marketing DRI to make the intro at the booth.
 - ~~**On-the-fly / live matching** for walk-ups not in the precomputed set.~~ ✅ **DONE** — wired via `POST /api/match` + `lib/match_embeddings.json` (see §2 "Live walk-in matching").
 - **Talking points for the other 20 mapped attendees** (currently only Guillermo). Costly LLM run — batch with the CRM re-run.
 - ~~**Meeting-slot assignment** from networking breaks (system assigns, manual fallback).~~ ✅ **DONE (simplified)** — replaced per-match assignment with a single shared window list (`lib/meeting-slots.js`) shown in the email + confirmation. Only the **actual times** remain to confirm (preliminary in the programme).
+- **Twin-match exposure cap (CEO ask, 2026-05-30):** "same people showed up as twins for too many participants last time — cap it so one person can't show up more than **5 times**." **Implement during the CRM re-run** (bake the cap into the generation step, don't post-patch the JSON). _Plan deferred per CEO until CRM data lands._
+  - Measured on current `lib/twin_matches.json`: in-degree is heavily skewed — top people appear **12×**; **65 people exceed 5**; but only **161 edges (11.9%)** need to move and there are **999 spare slots** at cap-5, so it's a small, low-risk fix.
+  - **Approach:** capacity-constrained greedy reassignment using existing embeddings (`lib/match_embeddings.json`) — walk each person's cosine-ranked candidates, skip anyone already at 5 inbound, fall to next-best. Everyone keeps 3 twins; ~88% of pairings untouched. **Not** truncation (which would delete people's best twin and drop them below 3).
+  - **Open decision (deferred):** the ~161 reassigned pairs need a `matchReason` — regenerate via LLM for changed pairs (leading option) vs. generic/blank vs. drop overflow.
+  - **Inverse problem to raise with CEO:** 84 people (18%) are currently matched to **nobody**. A cap fixes over-exposure but not under-exposure; if balanced networking is the goal, add a min-coverage guarantee (everyone matched ≥1×) alongside the cap.
 - **DRI email** in production (`NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` is unset → falls back to hardcoded gmail).
 - **Scorecard end-screen** (deferred).
 - ~~**Direct "X wants to meet you" emails to matches**~~ ✅ **DONE** — `matchIntro` emails each selected match that has an `email` (meeting slot + talking points, reply-to the attendee). Still gated on **real match emails** (test data only so far — see §4). Meeting slots now ship as a shared list (`lib/meeting-slots.js`); only the final times need confirming.
@@ -110,7 +115,7 @@ briefs the marketing DRI to make the intro at the booth.
 ### ⛔ Blocked on the team
 | Blocked item | Waiting on |
 |---|---|
-| **Final re-match** (apply same-country rule + fold in new people) + talking-points re-run | **CRM media-owner list** — Deewakshi / Sukriti |
+| **Final re-match** (apply same-country rule + **cap any twin at 5 appearances** + fold in new people) + talking-points re-run | **CRM media-owner list** — Deewakshi / Sukriti |
 | **Final meeting-slot times** | **Networking schedule / local times** — Deewakshi. Slots ship as a shared list (`lib/meeting-slots.js`); only the times are preliminary. |
 | **Match-intro emails to real recipients** | the matches' **email addresses** (from the CRM list) — code is done; `twin_matches.json` has test emails only |
 | Matches for the **18 unmapped RSVP people** | their LinkedIn data (or live matching) — folds into the re-run |
