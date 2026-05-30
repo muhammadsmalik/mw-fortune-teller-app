@@ -82,11 +82,14 @@ export default function SelectNamePage() {
   const handleWalkin = async (e) => {
     e.preventDefault();
     setWalkinError('');
-    const url = linkedinUrl.trim();
+    let url = linkedinUrl.trim();
     if (!/linkedin\.com\/in\//i.test(url)) {
       setWalkinError('Paste a LinkedIn profile URL (linkedin.com/in/…).');
       return;
     }
+    // Accept a scheme-less paste (linkedin.com/in/… or www.linkedin.com/in/…) —
+    // the API's new URL() and our own normalizer both need a scheme.
+    if (!/^https?:\/\//i.test(url)) url = `https://${url}`;
     setWalkinLoading(true);
     try {
       const res = await fetch('/api/match', {
@@ -193,7 +196,7 @@ export default function SelectNamePage() {
 
               <form onSubmit={handleWalkin}>
                 <Input
-                  type="url"
+                  type="text"
                   inputMode="url"
                   placeholder="https://www.linkedin.com/in/your-name"
                   value={linkedinUrl}
