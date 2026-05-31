@@ -29,12 +29,18 @@ const CONCIERGE_CC_EMAILS = (process.env.CONCIERGE_CC_EMAILS || '')
   .filter(Boolean);
 
 // Single chokepoint every send passes through: in test mode it swaps the real
-// recipient for the test list and prefixes the subject with the intended target
-// so you can still see where it WOULD have gone.
-function resolveDelivery(emailTo, subject) {
-  if (EMAIL_TEST_MODE && EMAIL_TEST_RECIPIENTS.length > 0) {
-    console.log(`[send-email] TEST MODE — rerouting ${emailTo} -> ${EMAIL_TEST_RECIPIENTS.join(', ')}`);
-    return { to: EMAIL_TEST_RECIPIENTS, subject: `[TEST→${emailTo}] ${subject}` };
+// recipient for the test target and prefixes the subject with the intended
+// recipient so you can still see where it WOULD have gone. `rerouteTo` lets a
+// tester collect every email from one submit (attendee + DRI + match-intros) in
+// their OWN inbox — the address they typed at the booth — falling back to the
+// fixed EMAIL_TEST_RECIPIENTS list when none is supplied. Ignored in production.
+function resolveDelivery(emailTo, subject, rerouteTo) {
+  if (EMAIL_TEST_MODE) {
+    const target = rerouteTo ? [rerouteTo] : EMAIL_TEST_RECIPIENTS;
+    if (target.length > 0) {
+      console.log(`[send-email] TEST MODE — rerouting ${emailTo} -> ${target.join(', ')}`);
+      return { to: target, subject: `[TEST→${emailTo}] ${subject}` };
+    }
   }
   return { to: [emailTo], subject };
 }
@@ -247,7 +253,7 @@ export async function POST(request) {
       if (!emailTo || !subject) {
         return NextResponse.json({ message: 'Missing required fields: emailTo or subject' }, { status: 400 });
       }
-      const { to, subject: finalSubject } = resolveDelivery(emailTo, subject);
+      const { to, subject: finalSubject } = resolveDelivery(emailTo, subject, body.testRerouteTo);
       const { data, error } = await resend.emails.send({
         from: `Agent WALLi <${FROM_EMAIL}>`,
         to,

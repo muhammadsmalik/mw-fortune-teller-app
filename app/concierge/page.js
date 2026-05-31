@@ -133,6 +133,7 @@ export default function ConciergePage() {
           postJson('/api/send-email', {
             template: 'twinConfirmation',
             emailTo: email,
+            testRerouteTo: email, // test mode: all of this submit's emails land in the tester's own inbox (no-op in prod)
             subject: 'Your WOO London matches — Moving Walls',
             fullName: ctx.name,
             matches,
@@ -146,6 +147,7 @@ export default function ConciergePage() {
           postJson('/api/send-email', {
             template: 'salesRepNotification',
             emailTo: DRI_EMAIL,
+            testRerouteTo: email, // test mode: reroute to the tester instead of the DRI inbox
             subject: `[WOO Concierge] ${ctx.name} — ${ctx.company || ''}`.trim(),
             fullName: ctx.name,
             email,
@@ -171,6 +173,7 @@ export default function ConciergePage() {
           postJson('/api/send-email', {
             template: 'matchIntro',
             emailTo: m.email,
+            testRerouteTo: email, // test mode: reroute to the tester instead of the match's inbox
             replyTo: email,
             subject: `${ctx.name} would like to meet you at WOO London`,
             matchName: m.name,
