@@ -29,7 +29,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Fortune Cookie Lead Gen by Moving Walls',
+  title: 'Agent WALLi by Moving Walls',
   description: 'Discover your business future!',
 };
 

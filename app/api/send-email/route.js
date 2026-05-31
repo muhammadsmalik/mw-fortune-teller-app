@@ -20,6 +20,14 @@ const EMAIL_TEST_RECIPIENTS = (process.env.EMAIL_TEST_RECIPIENTS || '')
   .map((s) => s.trim())
   .filter(Boolean);
 
+// Internal MW staff CC'd on every concierge email (twinConfirmation, matchIntro,
+// salesRepNotification) so they can follow up with attendees. Comma-separated in
+// .env. Suppressed in test mode so booth test runs don't hit their inboxes.
+const CONCIERGE_CC_EMAILS = (process.env.CONCIERGE_CC_EMAILS || '')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
+
 // Single chokepoint every send passes through: in test mode it swaps the real
 // recipient for the test list and prefixes the subject with the intended target
 // so you can still see where it WOULD have gone.
@@ -245,6 +253,8 @@ export async function POST(request) {
         to,
         subject: finalSubject,
         html: BOOTH_TEMPLATES[template](body),
+        // CC internal MW staff on live concierge sends; skipped in test mode.
+        ...(!EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0 && { cc: CONCIERGE_CC_EMAILS }),
         // matchIntro passes replyTo so the match can respond straight to the attendee.
         ...(body.replyTo && { replyTo: body.replyTo }),
       });
