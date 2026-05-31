@@ -1,0 +1,792 @@
+{
+  "public_identifier": "nick-long-aba90275",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Nick",
+  "last_name": "Long",
+  "full_name": "Nick Long",
+  "follower_count": 315,
+  "occupation": "Head of Product Implementation - Audience Measurement at Ipsos",
+  "headline": "Head of Product Implementation at Ipsos",
+  "summary": null,
+  "location_str": "Bury St Edmunds, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "Bury St Edmunds",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Head of Product Implementation - Audience Measurement",
+      "description": null,
+      "location": "Cambridge, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "Curvestone AI",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/curvestone",
+      "company_facebook_profile_url": null,
+      "title": "Chief Technology Officer",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8f44461115576f82de9985a1aa6d2755"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "Curvestone",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/curvestone",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Technology",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8f44461115576f82de9985a1aa6d2755"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "Checkit",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/checkit-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Lead Software Engineer",
+      "description": null,
+      "location": "Cambridge, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/51a6387843d5e6f5757b1245f58ba6a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2020
+      },
+      "company": "ClicknClear",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clicknclearmusic",
+      "company_facebook_profile_url": null,
+      "title": "Lead Developer",
+      "description": null,
+      "location": "Cambridge, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9df4b07e220436403d85a9b8f8dc852"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Intrasonics, an Ipsos Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intrasonics-ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Engineering",
+      "description": null,
+      "location": "Cambridge, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6569dfc2d8d6ebb3910bee7c422270b5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2017
+      },
+      "company": "Intrasonics Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intrasonics-ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Principal Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6569dfc2d8d6ebb3910bee7c422270b5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "Siemens",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/siemens",
+      "company_facebook_profile_url": null,
+      "title": "Broadcast Technology Manager",
+      "description": "Whilst working at Siemens I worked on a number of high profile projects including: * Technical design and project management for components of BBC iPlayer * Technical lead for the monitoring strand of Freeview and Freesat coding and multiplexing * Technical lead for the Radio Production systems of the BBC Scotland Pacific Quay building",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4ca38328e961344700932283809212d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "BBC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bbc",
+      "company_facebook_profile_url": null,
+      "title": "Broadcast Project Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/228e46bd339fba9e0ffd411b7bd1501a"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "Artificial Intelligence and Computer Science",
+      "degree_name": "Bachelor of Science (BSc)",
+      "school": "Birmingham University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-birmingham",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b87ddc4a3a116a88c42ed37241d4a860",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [
+    {
+      "title": "Bookmarking system",
+      "issuer": null,
+      "issued_on": {
+        "day": 10,
+        "month": 3,
+        "year": 2010
+      },
+      "description": null,
+      "application_number": null,
+      "patent_number": "EU WO2010103325 A3",
+      "url": "https://www.google.com/patents/WO2010103325A3"
+    }
+  ],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 276,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/qatest",
+      "name": "WΞSLΞY B.",
+      "summary": null,
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-laxton-ta",
+      "name": "Graham Laxton",
+      "summary": "Agile Delivery Consultant | Technology at Blair West. | graham@blairwest.co.uk",
+      "location": "Durham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amywoodcock",
+      "name": "Amy Woodcock",
+      "summary": "Head of Customer Success | Curvestone AI",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jrhwillis",
+      "name": "Joe Willis",
+      "summary": "Senior Technology Manager, BBC Engineering.",
+      "location": "Bromley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jakubbaranowski",
+      "name": "Jakub Baranowski",
+      "summary": "Senior .NET Developer at Curvestone",
+      "location": "Poznan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-mizrachi",
+      "name": "Daniel Mizrachi",
+      "summary": null,
+      "location": "Ottignies-Louvain-la-Neuve"
+    },
+    {
+      "link": "https://www.linkedin.com/in/breannayen",
+      "name": "Breanna Yen",
+      "summary": "Co-founder at Curvestone AI & WorkflowGPT | EY Entrepreneurial Winning Women",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnlowe2",
+      "name": "John Lowe",
+      "summary": "Project Broadcast Television Engineer: configuration, installation, repairs, upgrades",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leskirby",
+      "name": "Les Kirby",
+      "summary": "Trying on retirement to see if it's a good fit at LesCo",
+      "location": "Bexley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaronmgomez",
+      "name": "Aaron Gomez",
+      "summary": "Chief Technology Officer @ OnTrack Retail | Team Leadership, Scala",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aa-morgan",
+      "name": "Alexandre Morgan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shuhenabegum",
+      "name": "Shuhena B.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/torhellebostad",
+      "name": "Tor-Håkon Hellebostad",
+      "summary": null,
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-bourne",
+      "name": "Tom Bourne",
+      "summary": "Chief Technology Officer",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikayla-marie-dilay-17797627b",
+      "name": "Mikayla Marie Dilay",
+      "summary": "--",
+      "location": "Cardiff"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-jane-cowles-1a571b269",
+      "name": "Sara-Jane Cowles",
+      "summary": "Project Surveyor at SDM FABRICATION LTD",
+      "location": "March"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-dykes-25751123a",
+      "name": "Andrew Dykes",
+      "summary": null,
+      "location": "Merton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dkotur",
+      "name": "Dawid Robert Kotur",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lea-montfajon",
+      "name": "Lea Montfajon",
+      "summary": "Project Manager & Consultant at Curvestone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rhea-beattie",
+      "name": "Rhea Beattie",
+      "summary": "🚀 Tech Talent Acquisition | Scaling teams at the Intersection of Blockchain & Finance",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marineguard-cto-964a95233",
+      "name": "MarineGuard CTO",
+      "summary": "CTO at MarineGuard",
+      "location": "Nursling"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markgilpin",
+      "name": "Mark Gilpin",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katarzyna-cha%25C5%2582kowska-2b235394",
+      "name": "KATARZYNA CHAŁKOWSKA",
+      "summary": "Software Tester",
+      "location": "Gdansk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clindberg",
+      "name": "Christian Lindberg",
+      "summary": "Customer Solutions Advocate at Persequor",
+      "location": "Gentofte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-miller-9047391",
+      "name": "Tim Miller",
+      "summary": null,
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liz-collyer-158a353",
+      "name": "Liz Collyer",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-winters-a811374",
+      "name": "David Winters",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/technical-zamir-5612046",
+      "name": "Technical Zamir",
+      "summary": "CTO at Zamir Telecom Ltd.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pat-hoyle-3a6ab88",
+      "name": "Pat Hoyle",
+      "summary": null,
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregory-brown-a85a9910",
+      "name": "Gregory Brown",
+      "summary": "GREG BROWN CONSULTANT",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-kirkpatrick-726a5b17",
+      "name": "Jamie Kirkpatrick",
+      "summary": "Senior product and technology leader",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-allen-05519223",
+      "name": "David Allen",
+      "summary": "Sales Operations and strategy leader within a major Information Technology company with a passion to build teams that will deliver on corporate objectives",
+      "location": "Southampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharon-pegg-b8677123",
+      "name": "Sharon Pegg",
+      "summary": null,
+      "location": "Acle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/spencer-brett-83483025",
+      "name": "Spencer Brett",
+      "summary": "Senior Structural Engineering Technician at Peter Dann Ltd",
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-olojede-85374126",
+      "name": "Charles Olojede",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-baits-22a8b628",
+      "name": "John Baits",
+      "summary": "Independent Venture Capital & Private Equity Professional",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shirley-taperell-b97a7a45",
+      "name": "Shirley Taperell",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarrod-gorman-a6024047",
+      "name": "Jarrod Gorman",
+      "summary": "Commercial Executive",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jean-shum-281a0647",
+      "name": "Jean Shum",
+      "summary": "Head of IT at StoneShot Ltd",
+      "location": "Stevenage"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-smith-12900052",
+      "name": "Paul Smith",
+      "summary": "Income Officer at Lincolnshire Housing Partnership",
+      "location": "Grimsby"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-jubb-53158754",
+      "name": "Peter Jubb",
+      "summary": null,
+      "location": "Churchdown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jon-wareing-b7b63758",
+      "name": "Jon Wareing",
+      "summary": "Managing Director at G & J Peck Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maximilian-olive-195b816b",
+      "name": "Maximilian Olive",
+      "summary": "Product Designer | Crafting experiences that help businesses automate talent acquisition",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gillian-o-callaghan-b7633874",
+      "name": "Gillian O'Callaghan",
+      "summary": "Database Administrator",
+      "location": "Newport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-douglas-6960697b",
+      "name": "Greg Douglas",
+      "summary": null,
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahul-puri-20bb3380",
+      "name": "rahul puri",
+      "summary": "IT HEAD at Cellcast",
+      "location": "Ghaziabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/somesh-gangapuri-55399b88",
+      "name": "Somesh Gangapuri",
+      "summary": "Head Of Technology at KeyPoint Technologies",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-woodcock-a9a22090",
+      "name": "Amy Woodcock",
+      "summary": "Eagle Labs Transformation Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-gnyp-40652691",
+      "name": "Greg Gnyp",
+      "summary": null,
+      "location": "Warrington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-baker-92b85293",
+      "name": "Emma Baker",
+      "summary": "UK HR Business Partner EMEA",
+      "location": "North Aston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-starr-0435b394",
+      "name": "Steve Starr",
+      "summary": "Engineer at Cullum Starr LTD",
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vladislav-kovacevic-339087109",
+      "name": "Vladislav Kovacevic",
+      "summary": "Head of Publisher Engineering at Glide Publishing Platform",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/devesh-umre-83795b10a",
+      "name": "devesh umre",
+      "summary": null,
+      "location": "Washim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prinpillay",
+      "name": "Prin Pillay",
+      "summary": "Co-founder, CEO | Teraflow.ai | MSc, EMBA",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcin-kolankowski-0a2b96124",
+      "name": "Marcin Kolankowski",
+      "summary": "Director of PreSales at Advanco SA",
+      "location": "Gdansk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/szymon-piechaczek-4a7129137",
+      "name": "Szymon Piechaczek",
+      "summary": "Tidio•489 followers",
+      "location": "Katowice"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-magpantay-757b2b1a9",
+      "name": "Stephanie Magpantay",
+      "summary": null,
+      "location": "Makati"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shalom-splendor-brown-b2a017204",
+      "name": "Shalom-Splendor Brown",
+      "summary": "Eden AI Brand Marketer (Artificial Intelligence Consultants) | Medical Intern",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasie-browne-65232b214",
+      "name": "Yasie Browne",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Amy Woodcock\n\nI had the pleasure of being managed by and working with Nick for over three years at Curvestone. During this time, I was consistently impressed by his professionalism, calm demeanour, and considered leadership style. Nick has a remarkable ability to foster trust, creating an environment where everyone feels valued and empowered.\n\nAs a CTO Nick extends these qualities to client relationships as well, becoming a trusted point of contact for technical leaders, addressing questions offering advice to ensure the seamless and successful delivery of Curvestone-built solutions. \n\nHis leadership is grounded in empowering teams and building their confidence. Nick is unflappable, handling challenges with empathy and reason, which inspires those around him to approach problems with the same level-headedness. \n\nNick is always on the lookout for opportunities to help his team develop and grow. He encourages us to take on new challenges, ensuring we feel confident without causing panic. His exceptional communication skills are key to his success as a leader. Nick understands that motivating high-performing teams requires keeping them informed about company strategy and goals, and he excels at highlighting how each team’s efforts contribute to the bigger vision.\n\nThrough Nick’s mentorship and leadership, I have made significant leaps in my professional development. His guidance has been invaluable, and I am grateful for the positive impact he has had on my career.",
+    "Marcin Polak\n\nI had the privilege of working under Nick's leadership, and I can confidently say that he is an exceptional leader and an invaluable asset to any team. Nick possesses remarkable leadership qualities that inspire and motivate those around him. He has an innate ability to handle uncomfortable and inconvenient situations with grace and composure, ensuring that challenges are met with effective solutions. His technical knowledge is unparalleled, allowing him to navigate complex issues with ease and precision.\n\nWorking with Nick has been a true pleasure. He is always eager to help and consistently demonstrates a proactive approach to problem-solving. His dedication to his team and his willingness to support and guide others make him not only a great manager but also a genuinely great person.\n\nI am confident that Nick is the perfect candidate for any head or C-level role. His expertise, leadership skills, and commitment to excellence will undoubtedly drive success and innovation within any organization.",
+    "Amy Woodcock\n\nI had the pleasure of being managed by and working with Nick for over three years at Curvestone. During this time, I was consistently impressed by his professionalism, calm demeanour, and considered leadership style. Nick has a remarkable ability to foster trust, creating an environment where everyone feels valued and empowered.As a CTO Nick extends these qualities to client relationships as well, becoming a trusted point of contact for technical leaders, addressing questions offering advice to ensure the seamless and successful delivery of Curvestone-built solutions. His leadership is grounded in empowering teams and building their confidence. Nick is unflappable, handling challenges with empathy and reason, which inspires those around him to approach problems with the same level-headedness. Nick is always on the lookout for opportunities to help his team develop and grow. He encourages us to take on new challenges, ensuring we feel confident without causing panic. His exceptional communication skills are key to his success as a leader. Nick understands that motivating high-performing teams requires keeping them informed about company strategy and goals, and he excels at highlighting how each teams efforts contribute to the bigger vision.Through Nicks mentorship and leadership, I have made significant leaps in my professional development. His guidance has been invaluable, and I am grateful for the positive impact he has had on my career."
+  ],
+  "activities": [
+    {
+      "title": "Did you know that Reddit is the fourth biggest social media platform in the UK? 🤖 The release of the Ofcom Media Nation report, and trended Ipsos…",
+      "link": "https://www.linkedin.com/posts/matt-patchett-18aa9812a_did-you-know-that-reddit-is-the-fourth-biggest-activity-7417143502565744641-4dJ9",
+      "activity_status": null
+    },
+    {
+      "title": "If you are trying to understand the wealthy and the powerful (behaviours & attitudes), and want harmonised global insights that are readily…",
+      "link": "https://www.linkedin.com/posts/tracyallnutt_if-you-are-trying-to-understand-the-wealthy-activity-7416426597223886849-6x95",
+      "activity_status": null
+    },
+    {
+      "title": "In an exciting start to the year, we're thrilled to be named a finalist for ‘Research, Data or Measurement Company of the Year’ at the Adwanted Media…",
+      "link": "https://www.linkedin.com/posts/ipsos-uk_adwanted-awards-marketresearch-activity-7414680306361896960-pET5",
+      "activity_status": null
+    },
+    {
+      "title": "🤝 Meet the Experts Behind the Insights! 💡 At Ipsos, our Audience Measurement experts play a key role in shaping the future of our industry. Nuno…",
+      "link": "https://www.linkedin.com/posts/sandra-zlotagora-pessini-12a6111_audiencemeasurement-research-innovation-activity-7406981507375853569-A237",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Celebrating two of our Ipsos values: Collaboration and Curiosity 🌍 As 2025 comes to a close, I would like to extend my heartfelt thanks to all my…",
+      "link": "https://www.linkedin.com/posts/sandra-zlotagora-pessini-12a6111_ipsos-audiencemeasurement-themeasureoftomorrow-activity-7405208931545010176-K_U7",
+      "activity_status": null
+    },
+    {
+      "title": "I’m incredibly excited to share that I've joined Anthropic as a Solutions Architect in London.  It's a great privilege and responsibility to…",
+      "link": "https://www.linkedin.com/posts/anddwilson_im-incredibly-excited-to-share-that-ive-activity-7402892981755863042-ryZ-",
+      "activity_status": null
+    },
+    {
+      "title": "This is really impressive stuff Dawid Robert Kotur Looks like you guys are getting some real traction.",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_this-is-really-impressive-stuff-dawid-robert-activity-7396173886028992512-q_l3",
+      "activity_status": null
+    },
+    {
+      "title": "I'm incredibly proud to share that yesterday we launched the latest release of Ipsos Global Influentials. This study tracks the attitudes and…",
+      "link": "https://www.linkedin.com/posts/danwcm_ipsos-globalinfluentials-marketresearch-activity-7395002467081695233-wC1X",
+      "activity_status": null
+    },
+    {
+      "title": "While many advertisers chase short term digital metrics, out-of-home continues to prove its long-term value through both efficiency and…",
+      "link": "https://www.linkedin.com/posts/campaignme_turning-attention-into-business-impact-activity-7391482049724825600-tbeG",
+      "activity_status": null
+    },
+    {
+      "title": "I've just returned from one of the most rewarding assignments of my career—working with the incredible team at Afghanistan International Bank. When…",
+      "link": "https://www.linkedin.com/posts/nick-twigg-7baa9a_leadershipdevelopment-afghanistan-globalmindset-activity-7348805765987512321-oChF",
+      "activity_status": null
+    },
+    {
+      "title": "I am very proud to have been appointed as one of the inaugural Managing Directors at PwC UK. It’s hard to believe it has been 24 years since I first…",
+      "link": "https://www.linkedin.com/posts/benjamin-gasson-a315a844_i-am-very-proud-to-have-been-appointed-as-activity-7345742800216354817--x4u",
+      "activity_status": null
+    },
+    {
+      "title": "Is “No one gets fired for buying Microsoft” still true today, and in the context of AI? I see lots of organisations having invested significant 💰…",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_is-copilot-the-end-of-no-one-gets-fired-activity-7254458665083047937-G2n7",
+      "activity_status": null
+    },
+    {
+      "title": "Wow, speaking truth to power. This is a cold dose of reality about why the UK misses the boat on building unicorns despite having some of the best…",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_wow-speaking-truth-to-power-this-is-a-activity-7265350367293444096-kC-D",
+      "activity_status": null
+    },
+    {
+      "title": "Really excited that we can finally share this.",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_really-excited-that-we-can-finally-share-activity-7259234987697225728-Nk_u",
+      "activity_status": null
+    },
+    {
+      "title": "Very excited to have the piece that Dawid Robert Kotur and I wrote on the recent shenanigans at Open Ai published in Verdict! https://lnkd.in/eTTmAzQX",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_five-things-tech-leaders-who-are-too-reliant-activity-7134937440611381252-4sFm",
+      "activity_status": null
+    },
+    {
+      "title": "After two great years with the best team you could wish for I’m happy to share that I will be moving up to the role of CTO at Curvestone! It's such…",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_after-two-great-years-with-the-best-team-activity-7099425379177611264-mCOm",
+      "activity_status": null
+    },
+    {
+      "title": "I've just written a new post on the Curvestone blog about how Generative AI can allow us to realise Fred Brooks conception of becoming \"Code Surgeons\"",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_can-chatgpt-turn-us-into-code-surgeons-activity-7072887566689001473-pYro",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_curvestones-ai-team-compared-the-optical-activity-6861696357883752448-9mki",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_the-growing-necessity-of-data-analytics-activity-6869589827344441345-1J3i",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_ideation-hangovers-how-to-identify-them-activity-6918098727211581440-ZSIL",
+      "activity_status": null
+    },
+    {
+      "title": "Curvestone are looking for a Lead developer with experience of C# Join our awesome team and work on cutting edge AI and digital transformation…",
+      "link": "https://www.linkedin.com/posts/nick-long-aba90275_curvestone-are-looking-for-a-lead-developer-activity-6892505944752734209-DvTM",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Nick Long",
+      "link": "https://uk.linkedin.com/in/nicholaslong2",
+      "summary": "Founder",
+      "location": "Chelmsford"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nick-long-b192877a",
+      "summary": "Customer Success Group @ ServiceNow",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://uk.linkedin.com/in/nicklongsnapaccount",
+      "summary": "European Network Manager",
+      "location": "Greater Norwich Area, United Kingdom"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nicklong1",
+      "summary": "Sales Manager, Renovation Lending at Amerifirst Home Mortgage 6,000+ connections",
+      "location": "Winter Park, FL"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://au.linkedin.com/in/nick-long-05872916",
+      "summary": "National Sea Logistics Development Manager at Kuehne+Nagel",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://uk.linkedin.com/in/nicklong99",
+      "summary": "Covid Testing Coordinator at Disney Media & Entertainment Distribution",
+      "location": "London"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nick-long-a872ab42",
+      "summary": "General manager at Lakes Media LLC WHLF-FM",
+      "location": "South Boston, VA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nick-long-a5301a30",
+      "summary": "General Manager at Lakes Media LLC",
+      "location": "South Boston, VA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/konubanick",
+      "summary": "Media Buyer at Konuba Media, LLC",
+      "location": "Export, PA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nicklong365",
+      "summary": null,
+      "location": "Newport Beach, CA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://www.linkedin.com/in/nick-long-3078851",
+      "summary": null,
+      "location": "Kennewick, WA"
+    },
+    {
+      "name": "Nick Long",
+      "link": "https://uk.linkedin.com/in/the-nick-long",
+      "summary": null,
+      "location": "London"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-25T00:00:00Z"
+  }
+}

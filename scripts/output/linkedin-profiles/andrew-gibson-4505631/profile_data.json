@@ -1,0 +1,599 @@
+{
+  "public_identifier": "andrew-gibson-4505631",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Andrew",
+  "last_name": "Gibson",
+  "full_name": "Andrew Gibson",
+  "follower_count": 1422,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "location_str": "Rickmansworth, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "Rickmansworth",
+  "state": "England",
+  "experiences": [],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1399,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mannsderek",
+      "name": "Derek Manns",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helenbeacham",
+      "name": "Helen Haines",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-n%25C3%25B8hr-christensen",
+      "name": "Kim Nøhr Christensen",
+      "summary": "Senior Consultant hos FORCE Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherinekershaw",
+      "name": "Katherine Kershaw",
+      "summary": "Group Head at Ocean Outdoor.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierkeenan",
+      "name": "Xavier H Keenan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rutgervandewiel",
+      "name": "Rutger van de Wiel",
+      "summary": "Creative Director at Indicia Digital Storytellers (IDS) ⚡ High quality animation videos to boost your business 🚀 Initiatiefnemer Illustrada Festival",
+      "location": "Tilburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robhesketh1",
+      "name": "Rob Hesketh",
+      "summary": "Freelance Sailor, Yacht Master os qualified, sail boats are me. Love a good crew environment - as Deckhand or Skipper, I bring good energy to a boat. Experience with charters, deliveries and a lot of cruising.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelamuckle",
+      "name": "Angela Green née Muckle",
+      "summary": null,
+      "location": "Ashford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jagharrison",
+      "name": "James Harrison",
+      "summary": "COO, Editor in Chief and Data Junkie - IAB MENA",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrscottwebster",
+      "name": "Scott Webster",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hal-kayali",
+      "name": "Hal Kayali",
+      "summary": "Global Commercial & Trading Leader | Strategic Advisor | Built $B+ Media Trading Ecosystems at Snap, Meta, WPP | Platform–Agency–Advertiser Expert | NED Candidate",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-james-read",
+      "name": "Daniel Read",
+      "summary": "Customer Success / Client Solutions / Measurement & Insights / Digital Marketing / Revenue Growth / Trading Deals / Negotiation / Commercial Strategy / Operational Excellence / Client Development / Customer Experience",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanie-blood",
+      "name": "Melanie Blood",
+      "summary": "Head of Ocean Labs, UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunofcjardim",
+      "name": "Bruno Jardim",
+      "summary": "Creative Technologist at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dancullenshute",
+      "name": "Dan Cullen-Shute",
+      "summary": "Negroni Breakfast founder. Consultant/advisory voice to brilliant folk. Forbes/IPA Council Member, ITAFC Coach, TalkTV Contributor, SxSW keynoter, writer, restaurant critic, dad. Made Creature happen, back in the day.",
+      "location": "Ilkley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salih-k-110514140",
+      "name": "Salih K",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-ward-79a744254",
+      "name": "John Ward",
+      "summary": null,
+      "location": "Shrewsbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adel-azzouz-96a744168",
+      "name": "Adel Azzouz",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alisonhiggs70",
+      "name": "Alison Higgs",
+      "summary": "Office Manager at Sentec Ltd",
+      "location": "Witchford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-evason-72602443",
+      "name": "Paul Evason",
+      "summary": null,
+      "location": "West Hyde"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romulusstoian",
+      "name": "Romulus Stoian",
+      "summary": "Globally Connected DOOH Leader, Programmatic, Sales and Business Development, Strategy & Operations, EMBA",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-le-hur-a3300135",
+      "name": "Marie Le Hur",
+      "summary": "UK Marketing Director at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavier001",
+      "name": "Xavier Tilman",
+      "summary": "CEO Ocean Outdoor Netherlands (personal channel)",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-brown-0648343",
+      "name": "Amy Brown",
+      "summary": "Commercial Director  at Hearst UK, NABs 100 Member, Media Trust Mentor, NABs Mentor, School Governor, WITN Committee member",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haldun-kayali-2539184",
+      "name": "Haldun Kayali",
+      "summary": "Global Head of Trading at Snap Inc.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eve-archer-9432675",
+      "name": "Eve Archer",
+      "summary": "Product Manager, Salesforce & CRM at Global",
+      "location": "Stratford-upon-Avon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-chalmers-3444085",
+      "name": "Ed Chalmers",
+      "summary": "Head of Trading at Channel 4",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-cowell-ba87395",
+      "name": "Stephen Cowell",
+      "summary": "Associate Partner at The Out of Home Media Consultancy Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo-blake-8080416",
+      "name": "Jo Blake",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-algar-8554989",
+      "name": "Katie Algar",
+      "summary": "Account Director at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-o-neill-2ab303a",
+      "name": "Paul O'Neill",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dougal-deakin-766893a",
+      "name": "Dougal Deakin",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeroen-visser-407403b",
+      "name": "Jeroen Visser",
+      "summary": "★ PodcastJunkies, wij zijn zoooo VERSLAAFD AAN AUDIO ★ ViVo Media ★",
+      "location": "Heusden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-williams-cc241079",
+      "name": "Nicola Williams",
+      "summary": "Specialist Partner at Bauer Media Outdoor UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/artibabbar",
+      "name": "Arti Babbar",
+      "summary": "Commercial Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bill-vidal-266a4415",
+      "name": "Bill Vidal",
+      "summary": "Head of Commercial Optimisation at JCDecaux",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-bailes-9a47b116",
+      "name": "Chris Bailes",
+      "summary": "Microsoft AI•4K followers",
+      "location": "Buckhurst Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glyn-williams-942b7b1a",
+      "name": "Glyn Williams",
+      "summary": "Head of Trading & Accountability at PHD Media UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anchalee-yupamake-1577581b",
+      "name": "Anchalee Yupamake",
+      "summary": "CCO at GroupM",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-counsell-35a30021",
+      "name": "David Counsell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-conway-02575621",
+      "name": "Paul Conway",
+      "summary": "Sales Group Head Clear Channel Outdoor",
+      "location": "Watford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-hall-82421822",
+      "name": "Phil Hall",
+      "summary": "Group COO at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-hall-38871823",
+      "name": "Stuart Hall",
+      "summary": "Head of Trading at Goodstuff Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-mahoney1",
+      "name": "Phil Mahoney",
+      "summary": "Partnerships / Investment / Trading / Commercial / UK / EMEA / Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ronald-krol-57791924",
+      "name": "Ronald Krol",
+      "summary": null,
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adel-azzouz-74457826",
+      "name": "Adel Azzouz",
+      "summary": "Projects Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ola-johansson-a7319627",
+      "name": "Ola Johansson",
+      "summary": "Senior Development Project Manager på Ocean Outdoor Sweden",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leeanne-lil-couch",
+      "name": "Lil Couch",
+      "summary": "Senior Manager - Digital Product & Strategy at Landsec",
+      "location": "Dartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-malton-2582472b",
+      "name": "Richard Malton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-dessain-2209482b",
+      "name": "Charles Dessain",
+      "summary": "Group Finance Manager at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-cunningham-69a16330",
+      "name": "Sophie Cunningham",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-mcnulty-958a2931",
+      "name": "James McNulty",
+      "summary": "Planning & Investment Partner at Ocean Outdoor",
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-tait-a723a533",
+      "name": "David Tait",
+      "summary": "Group Creative Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hedley-perkins-2183a135",
+      "name": "Hedley Perkins",
+      "summary": "-",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-keenan-32a19636",
+      "name": "Marc Keenan",
+      "summary": "Managing Director, Ocean Scotland. Partner, Forrest Hotels",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-foy-48343637",
+      "name": "Lucy Foy",
+      "summary": "Business Director at I-media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-mulrenan-89065138",
+      "name": "Dave Mulrenan",
+      "summary": "Chief Investment Officer for Publicis Media Exchange",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mdonnellymedia",
+      "name": "Martin Donnelly",
+      "summary": "Media Investment Lead | Client Director, Leadership, Media Strategy and implementation, Negotiation and Media Consultant",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-sharp-ba74943b",
+      "name": "Dan Sharp",
+      "summary": "Director of Product & Operations DAX",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-marden-70631642",
+      "name": "James Marden",
+      "summary": "Ocean Outdoor",
+      "location": "Haddenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-evason-mba-72602443",
+      "name": "Paul Evason MBA",
+      "summary": "Head of Trading at Sky",
+      "location": "West Hyde"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evita-salas-chambi-5b619448",
+      "name": "Evita Salas-Chambi",
+      "summary": "Managine Partner - Investment at Publicis Imagine",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-capleton-3b593649",
+      "name": "Paul Capleton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-ballantine-68095349",
+      "name": "Tom Ballantine",
+      "summary": "Development Director, UK at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-tulip-28851152",
+      "name": "Matthew Tulip",
+      "summary": "Group Head at Ocean Outdoor | Owner of BUTTER UP Coffee",
+      "location": "Croydon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-sadler-a867435b",
+      "name": "David Sadler",
+      "summary": "Director of Specialist",
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-brooman-58665361",
+      "name": "Joe Brooman",
+      "summary": "Principal Engineer at Telefónica - Smart Metering",
+      "location": "High Wycombe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-barton-b548316a",
+      "name": "Steve Barton",
+      "summary": "Ocean Outdoor",
+      "location": "Leicester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ferry-fauzy-syarief-27397371",
+      "name": "ferry fauzy syarief",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-dunleavy-03044a72",
+      "name": "dave dunleavy",
+      "summary": "CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-downing-32b05b73",
+      "name": "Anna Downing",
+      "summary": "Pricing Specialist I love my family and my job! Please take care of your mental health.",
+      "location": "Ulysses"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-cocks-39118b74",
+      "name": "Sarah Cocks",
+      "summary": "Client Partner at Bloomberg LP",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexjamesmills",
+      "name": "Alex Mills",
+      "summary": "Head of International Ecommerce at Dunelm",
+      "location": "Wilmslow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-dunlavy-7955867b",
+      "name": "Dave Dunlavy",
+      "summary": "Investor at \"Self Employed\"",
+      "location": "Fort Pierce"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-cupples-80069082",
+      "name": "Stuart Cupples",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/iwodaro-imoukhuede-86303387",
+      "name": "Iwodaro Imoukhuede",
+      "summary": "Finance Assistant at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-mccallum-96259a93",
+      "name": "Jan McCallum",
+      "summary": "Sales/Finance Manager",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-ford-63b05b94",
+      "name": "Rob Ford",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-sutton-532b3aa4",
+      "name": "Rachel Sutton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-smith-5a118aa7",
+      "name": "Mike Smith",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erik-wingfors-7ab7aaaa",
+      "name": "Erik Wingfors",
+      "summary": "Copywriter & Creative Director",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjamin-cummings-832468136",
+      "name": "Benjamin Cummings",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-racine-059bb614a",
+      "name": "James Racine",
+      "summary": "Account Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-breen-275876166",
+      "name": "Olivia Breen",
+      "summary": "Agency Partner at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e9%2592%25b0%25e5%259d%25a4-%25e9%2583%25ad-5a6143176",
+      "name": "Ivan Kwow",
+      "summary": "Marketing Manager-Zhongshan YEDA Plastic Co., Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-mondiwa-117359197",
+      "name": "Christian Mondiwa",
+      "summary": "Account Manager",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-adams-37b1b3215",
+      "name": "Mark Adams",
+      "summary": "UK Investment Director WPP Media",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I'm incredibly excited to share that Ocean Outdoor has teamed up with Creator by Infinitum, combining the power of premium Digital Out-of-Home (DOOH)…",
+      "link": "https://www.linkedin.com/posts/andrew-gibson-4505631_ocean-outdoor-and-creator-by-infinitum-launch-activity-7425205297855717376-Mh6f",
+      "activity_status": null
+    },
+    {
+      "title": "The Worlds biggest Star and Europes biggest Banner! Awesome!! https://lnkd.in/e6-UeNgs #MissionImpossible #TomCruise #BFIIMAX",
+      "link": "https://www.linkedin.com/posts/andrew-gibson-4505631_paramount-pictures-uk-on-instagram-a-moment-activity-7327950843943546880-Uk9J",
+      "activity_status": null
+    },
+    {
+      "title": "At Ocean Outdoor we're all about big branding activations in DOOH, and they don't get much bigger than this. Tom Ford with the first-ever…",
+      "link": "https://www.linkedin.com/posts/andrew-gibson-4505631_tom-ford-live-stream-the-united-feb-activity-7170744878459527169-LlSX",
+      "activity_status": null
+    },
+    {
+      "title": "Netflix has transformed the iconic BFI IMAX for the premiere of its latest drama, \"Griselda.\" Utilising 3.5-meter tall LEDs and our Edison Lighting…",
+      "link": "https://www.linkedin.com/posts/andrew-gibson-4505631_why-the-bfi-imax-wins-the-battle-of-the-banners-activity-7151208344286896129-oP7b",
+      "activity_status": null
+    },
+    {
+      "title": "We're excited about The British Army's recent DeepScreen® ALIVE activation, featuring the animated Lance Sergeant Natty Ngwenya. Built-in Unreal…",
+      "link": "https://www.linkedin.com/posts/andrew-gibson-4505631_british-soldier-turned-boxing-champion-stars-activity-7147961564623499264-zJMu",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-29T00:00:00Z"
+  }
+}

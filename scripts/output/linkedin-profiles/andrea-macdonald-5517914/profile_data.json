@@ -1,0 +1,812 @@
+{
+  "public_identifier": "andrea-macdonald-5517914",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Andrea",
+  "last_name": "MacDonald",
+  "full_name": "Andrea MacDonald",
+  "follower_count": 1570,
+  "occupation": "Founder at Honcha",
+  "headline": "Honcha, LLC",
+  "summary": "Specialties: Out-of-Home and Non-Traditional Media",
+  "location_str": "New York, New York, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "New York",
+  "state": "New York",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Honcha",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": null,
+      "location": "New York, NY",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "MacDonald Media",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder, CEO",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "Ogilvy",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ogilvy",
+      "company_facebook_profile_url": null,
+      "title": "Senior Partner",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bbe477a040ababcd2d7730d8b40cddd0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1991
+      },
+      "company": "OAAA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oaaa-org",
+      "company_facebook_profile_url": null,
+      "title": "Director of Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b8576ffc497de120d18f8a998f8271af"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Baruch College, City University of New York (CUNY)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/baruch-college",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Baruch College",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/baruch-college/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/kim-bates",
+      "name": "Kim Bates",
+      "summary": "Digital Media Supervisor at PHD",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/akelg",
+      "name": "Ara Ghanbarian",
+      "summary": "Entrepreneur. Founder. Marketer. Philanthropist.",
+      "location": "Glendale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottwitt",
+      "name": "Scott Witt",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/darnellhodges",
+      "name": "Darnell Hodges",
+      "summary": "CEO of DLH Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aweitzer",
+      "name": "Andy Weitzer",
+      "summary": "President at Outdoor Solutions Group",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevehunsicker",
+      "name": "Steve Hunsicker",
+      "summary": "Senior Agency Team Leader | Local Media and Marketing | Restaurant and Franchisee Depth |  Certified Professional Coach | Forever Curious | Results Driven",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mmoorecso",
+      "name": "Marianne Moore",
+      "summary": "Senior Strategist - Building iconic brands and driving revenue - Disruptive innovator",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keithkaplan",
+      "name": "Keith \"Kappy\" Kaplan",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cheryl-lehmann-joyaccounting",
+      "name": "Cheryl Lehmann",
+      "summary": "Controller at acKnowledge",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/devincherry",
+      "name": "Devin Cherry",
+      "summary": "NULL",
+      "location": "Scottsdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mccoymedia",
+      "name": "Shannon Armstrong",
+      "summary": "McCoy Media LED & Static Mobile Billboards Nationwide",
+      "location": "Sarasota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregtayloradvertising",
+      "name": "Greg Taylor",
+      "summary": "Senior Director | Business at Billups",
+      "location": "Chattanooga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/billylooper",
+      "name": "Billy Looper",
+      "summary": "Network Marketing Professional and Real Estate Broker",
+      "location": "Orlando"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonburby",
+      "name": "Jason Burby",
+      "summary": "Executive / Leadership Coach, Advisor & Board Member. Former Agency, Data, and SaaS Executive. Investor in Early Stage Startups. Co-Author of two books. Retired from full time corporate work.",
+      "location": "Lake Oswego"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesse-sugarman",
+      "name": "Jesse Sugarman",
+      "summary": null,
+      "location": "West Hartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johngmillerpitchperfect",
+      "name": "John G. Miller",
+      "summary": "President, PitchPerfect Consulting, LLC",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karaannkenney",
+      "name": "Kara Kenney",
+      "summary": "Event Production and Marketing Professional",
+      "location": "Watertown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fyedavid",
+      "name": "David Fye",
+      "summary": null,
+      "location": "Colleyville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandro-kahan-1480771a",
+      "name": "Alejandro Kahan",
+      "summary": "CEO at iKahan media, Inc.",
+      "location": "Santa Monica"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pacosta",
+      "name": "Paco Acosta",
+      "summary": "Seasoned experience and expertise in audience development in magazine media.",
+      "location": "Easton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ssharan",
+      "name": "Santosh Sharan",
+      "summary": "COO at RB2B.com & Retention.com",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-short-720953272",
+      "name": "Thomas Short",
+      "summary": "Student at Union College",
+      "location": "Schenectady"
+    },
+    {
+      "link": "https://www.linkedin.com/in/billherriott",
+      "name": "Bill Herriott",
+      "summary": "Design Consultant at Renewal by Andersen",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marci-avrutis-052ba7232",
+      "name": "Marci Avrutis",
+      "summary": "Home Health Aide at Horizon Home Care & Hospice",
+      "location": "Mastic Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matmildenhall",
+      "name": "Mat Mildenhall",
+      "summary": "Chief Client Officer at Omnicom Production",
+      "location": "Tarrytown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mayne702",
+      "name": "David Mayne",
+      "summary": "A solution has been found for Women over 40 - 30tolife.org",
+      "location": "Deep River"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandykolkey",
+      "name": "Sandy Kolkey",
+      "summary": "Executive Client Business Lead at OKRP",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanonealgear",
+      "name": "Susan O'Neal",
+      "summary": null,
+      "location": "Tampa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilywheelerhagan",
+      "name": "Emily Hagan",
+      "summary": "VP, Client Services at CTI Media",
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-krupp-a720772",
+      "name": "David Krupp",
+      "summary": null,
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-butler-7504442",
+      "name": "Jane Butler",
+      "summary": "Advisory Director  at Media Advisory Partners",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-mcdonald-92a75b3",
+      "name": "Kevin McDonald",
+      "summary": "CEO & Founder AgencyX Inc",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andie-lynne-743a083",
+      "name": "Andie Lynne",
+      "summary": "Radio Personality, Script Writer, Voice over actor, Comedian, Personal Assistant, Business Owner & superhero",
+      "location": "Nashville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-campolongo-b8a1044",
+      "name": "Susan Campolongo",
+      "summary": "Economist at Bureau of Labor Statistics",
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stewart-marks-a7b20b5",
+      "name": "Stewart Marks",
+      "summary": "Logistics Director, The Meehan Group",
+      "location": "Chandler"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-shih-0153325",
+      "name": "Patricia Shih",
+      "summary": "Multiple national award-winning artist in many disciplines - visual art, music, theater, film, video, photography and TV",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jay-zitz-6647245",
+      "name": "Jay Zitz",
+      "summary": "President/CEO at Newspapers First",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/be615",
+      "name": "Brandon Edwards",
+      "summary": "Seasoned healthcare growth executive and advisor",
+      "location": "Nashville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-dunham-31b7986",
+      "name": "Lisa Dunham",
+      "summary": "Marketing and Finance",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahul-chahal-867ab67",
+      "name": "Rahul Chahal",
+      "summary": null,
+      "location": "Dallas–Fort Worth metroplex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iamrandycooke",
+      "name": "Randy Cooke",
+      "summary": null,
+      "location": "Dallas–Fort Worth metroplex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-hickey-01472aa",
+      "name": "Eric Hickey",
+      "summary": "Director at The Meehan Consulting Group",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-rezmovic-cohen-099299b",
+      "name": "Susan Rezmovic-Cohen",
+      "summary": "Executive Director",
+      "location": "Merrick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-kavounas-taylor-34851911",
+      "name": "Alice Kavounas Taylor",
+      "summary": "Senior Lecturer at University Coll Falmouth",
+      "location": "Truro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-kavounas-taylor-91601012",
+      "name": "Alice Kavounas Taylor",
+      "summary": "Freelance Writer and Tutor",
+      "location": "Coverack"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-gonzales-02b30815",
+      "name": "Danielle Gonzales",
+      "summary": "CEO, Marketing Data & Tech, Board Member",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/randygress",
+      "name": "Randy Gress",
+      "summary": "Managing Director & Chief Client Officer at NEXT/NOW",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-kahan-1480771a",
+      "name": "Alex Kahan",
+      "summary": "CEO at iKahan media, Inc.",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-bolnick-30362520",
+      "name": "Jennifer Bolnick",
+      "summary": "Creating Special Builds for Extraordinary Brands | SVP Business Development",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angie-bosma-02a34621",
+      "name": "Angie Bosma",
+      "summary": "Strategic Marketing Executive at Learfield IMG College",
+      "location": "Lincoln"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-p-digiovanna-50b18b24",
+      "name": "Charles P.DiGiovanna",
+      "summary": null,
+      "location": "Paramus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melrodriguez25",
+      "name": "Carmen Rodriguez",
+      "summary": "Global Chief Growth Officer / Partner at GUT. AdAge Women to Watch 2020. Adweek 50.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-mccarthy-09359127",
+      "name": "nicole mccarthy",
+      "summary": "CEO and Founder at The Wolrd WideHonor Society",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hardy-kalisher",
+      "name": "Hardy Kalisher",
+      "summary": "Fractional CMO & Chief Growth Officer | Embedded, Accountable to Revenue",
+      "location": "Boulder"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marvin-shipley-196b9035",
+      "name": "Marvin Shipley",
+      "summary": null,
+      "location": "Palm Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-corrado-6b5b5339",
+      "name": "Mark corrado",
+      "summary": null,
+      "location": "Levittown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ex-felon-jobs-b6986341",
+      "name": "Ex Felon Jobs",
+      "summary": "ceo at Outlaws Online Prison Penpals",
+      "location": "Indianapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-haggerty-40625b43",
+      "name": "Ann Haggerty",
+      "summary": "Owner at Design Consultants",
+      "location": "Tallahassee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alyssa-chianese-a5640345",
+      "name": "Alyssa Chianese",
+      "summary": ".",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-long-5372b046",
+      "name": "Rebecca Long",
+      "summary": "Fulfillment Coordinator",
+      "location": "Daytona Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meghan-connelly-361b6147",
+      "name": "Meghan Connelly",
+      "summary": "Insights Analyst | Social Media Specialist | Program Manager",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-gentile-8422354b",
+      "name": "Amy Gentile",
+      "summary": "Professional",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-turner-11557655",
+      "name": "Stephanie Turner",
+      "summary": "Director of Education, Tilles Center for the Performing Arts",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ross-schiff-62230463",
+      "name": "Ross Schiff",
+      "summary": "Customer service at Office max",
+      "location": "Baldwin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maurice-hoffmann-9647737a",
+      "name": "Maurice Hoffmann",
+      "summary": null,
+      "location": "Palm Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donald-reycroft-45423181",
+      "name": "Donald Reycroft",
+      "summary": "Operations Manager - Special Projects Division at The Meehan Consulting Group, Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-haggerty-63b10385",
+      "name": "Anne Haggerty",
+      "summary": "CCO and Director of Operations at AlphaMark Advisors",
+      "location": "Fort Mitchell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abe-bochman-7140a386",
+      "name": "Abe Bochman",
+      "summary": "Vice President of Strategy",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-grimshaw-b75aba95",
+      "name": "Christian Grimshaw",
+      "summary": "National Account Executive at OUTFRONT Media",
+      "location": "Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-petersen",
+      "name": "Caroline Petersen",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-golia-59a60397",
+      "name": "anna golia",
+      "summary": null,
+      "location": "Novara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zachary-avrutis-5836539b",
+      "name": "Zachary Avrutis",
+      "summary": "Pre-Med",
+      "location": "Queens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wintress-johnson-6a0938a6",
+      "name": "Wintress Johnson",
+      "summary": "--",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tylar-wilson-708034b3",
+      "name": "Tylar Wilson",
+      "summary": "Accountant",
+      "location": "Portland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-hagerty-9b5a87b3",
+      "name": "Ann Hagerty",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-lowrey-909011b6",
+      "name": "Dan Lowrey",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/diane-ostendorf-992685108",
+      "name": "Diane Ostendorf",
+      "summary": "Vice President Personal/Private Banking Officer at Clear Lake Bank and Trust Company",
+      "location": "Clear Lake"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jena-cool-945a94111",
+      "name": "Jena Cool",
+      "summary": "Client Service - Area Director Services Team",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-hagarty-207263114",
+      "name": "Ann Hagarty",
+      "summary": "Teacher at East Meadow School District",
+      "location": "Bellmore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-miller-8700831b1",
+      "name": "Adam Miller",
+      "summary": null,
+      "location": "Sheridan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-conway-1b160842",
+      "name": "Jonathan Conway",
+      "summary": "Chief Commercial Officer, North America at Talon",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marci-werlinich-5667233",
+      "name": "Marci Werlinich",
+      "summary": "OOH Industry Leader | 39 Years Championing Out of Home Advertising | Former EVP at OAAA | Advocate for Industry Growth & Innovation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-koppelman-54578a",
+      "name": "David Koppelman",
+      "summary": "Managing Director at Billups",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/enza-v-chiodi",
+      "name": "Enza Chiodi",
+      "summary": "US Chief Client Officer at Talon North America",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandrachaparro17e",
+      "name": "Alejandra Chaparro",
+      "summary": "CEO and Founder at 17 Entertainment",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-cuyler-75738321",
+      "name": "Brian Cuyler",
+      "summary": "National Sales at OUTFRONT Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sk-k-89832213",
+      "name": "SK K.",
+      "summary": "Founder of OAKBUYSELL Global Network",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amandavthomas",
+      "name": "Amanda Thomas",
+      "summary": "Healthcare Clinician | Nurse Practitioner; former Clinical Sub Investigator ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-catherman-35308b111",
+      "name": "Amanda Catherman",
+      "summary": "Licensed School Psychologist \nPennsylvania, Virginia ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kori-kokenes-arthur-714930106",
+      "name": "Kori Kokenes Arthur",
+      "summary": "Funeral Director Apprentice",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/leapawlowski",
+      "name": "Lea Pawlowski",
+      "summary": "VP Market Development",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobby-karas-8561b5175",
+      "name": "Bobby Karas",
+      "summary": "Owner at NYCOM electrical Corp ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/paizis-john-026b9341",
+      "name": "Paizis John",
+      "summary": "Early Childhood Specialist at Department of Education NYC",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-zogan-47197b2a",
+      "name": "Robert Zogan",
+      "summary": "Senior Project Manager--2 decades of experience",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-lincoln-1b5867161",
+      "name": "Jamie Lincoln",
+      "summary": "Massage Therapy",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/arianna-a-644872312",
+      "name": "Arianna A",
+      "summary": "My name is Arianna, I’m eagerly looking to work for an entry level remote position; I’m experienced in the front desk. I’m very punctual regarding emails, I have experienced phone etiquette, I can also manage inquiries.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-rutty-3415615a",
+      "name": "Amanda Rutty",
+      "summary": "DSP at Chemung ARC",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimberly-weber-64927478",
+      "name": "Kimberly Weber",
+      "summary": "LPN at Arnot Health",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-fernando-merino-7999476",
+      "name": "Juan Fernando Merino",
+      "summary": "Media relations manager",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://uk.linkedin.com/in/andrea-macdonald-594b4358",
+      "summary": "Editorial Director for Picture Books at Penguin Random House Children's UK",
+      "location": "London"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://ca.linkedin.com/in/andrea-macdonald-b41b6a2b",
+      "summary": "Executive Director at Historic Sites Association of NL",
+      "location": "St John’s, NL"
+    },
+    {
+      "name": "Andrea Macdonald",
+      "link": "https://uk.linkedin.com/in/andrea-macdonald-ideaxme",
+      "summary": "Founder, ideaXme a unique global network which operates with the help & support of innovators & creators who move the human story forward™. Creator series. Global Podcasters. Mentors.",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://ca.linkedin.com/in/macdonaldandrea",
+      "summary": "Head of Tech & Telco at Twitter Canada",
+      "location": "Toronto, ON"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://www.linkedin.com/in/andrea-macdonald-4ba9032",
+      "summary": null,
+      "location": "Harrisburg, PA"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://www.linkedin.com/in/andrea-golden",
+      "summary": null,
+      "location": "Danvers, MA"
+    },
+    {
+      "name": "Andrea Holden",
+      "link": "https://www.linkedin.com/in/andrea-m-holden",
+      "summary": "Higher Education Leader| Non-Profit Management | Grant Oversight | Event Planning | Volunteer Management | Onboarding | Budget & Project Management | Professional Development",
+      "location": "Springfield, Massachusetts Metropolitan Area"
+    },
+    {
+      "name": "Andrea Warfield",
+      "link": "https://www.linkedin.com/in/andreawarfield",
+      "summary": "Senior Training Coach @ Medtronic",
+      "location": "Greater Minneapolis-St. Paul Area"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://www.linkedin.com/in/andrea-macdonald-250289140",
+      "summary": "Clinical Operations Manager at Home Aides of CNY",
+      "location": "Liverpool, NY"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://www.linkedin.com/in/andrea-macdonald-721751125",
+      "summary": "Lead Business Systems Analyst",
+      "location": "Tinley Park, IL"
+    },
+    {
+      "name": "Andrea MacDonald",
+      "link": "https://www.linkedin.com/in/andrea-macdonald-a36a7a5",
+      "summary": null,
+      "location": "Charlotte, NC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-17T00:00:00Z"
+  }
+}

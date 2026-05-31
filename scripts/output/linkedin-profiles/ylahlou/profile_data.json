@@ -1,0 +1,847 @@
+{
+  "public_identifier": "ylahlou",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C5616AQHNeLcuveOlRQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1551459483985?e=2147483647&v=beta&t=gp-m7Wr7UrzNkGJ0W6GzakWHpNYn8Y2Zr86gPfoUblA",
+  "first_name": "Yassine",
+  "last_name": "Lahlou",
+  "full_name": "Yassine Lahlou",
+  "follower_count": 6793,
+  "occupation": "Private Equity Investments & Value Creation at 2PointZero",
+  "headline": "Private Equity Investments & Value Creation at 2PointZero | INSEAD MBA",
+  "summary": null,
+  "location_str": "أبو ظبي الإمارات العربية المتحدة",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Abu Dhabi",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "2PointZero",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/2pointzerogroup",
+      "company_facebook_profile_url": null,
+      "title": "Private Equity Investments & Value Creation",
+      "description": null,
+      "location": "United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f4a5b835db23fccc00b40024f6080d6c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "Strategy&",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/strategyand",
+      "company_facebook_profile_url": null,
+      "title": "Strategy Consultant",
+      "description": "Selected engagements include:\n- Private Equity Investment fund setup (sector focus & investment strategy, opportunities appraisal, financial modelling, due diligence)\n- Real Estate\n- Venture Capital / Corporate Venture Capital\n- Telecom (Growth Strategy, Go-to-Market)\n- Gaming, E-Sports\n- Fintech, Open Banking",
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f5bcc910ee20f8f8a96a82b71714399a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "company": "Tern Capital",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tern-capital",
+      "company_facebook_profile_url": null,
+      "title": "Private Equity Investment Professional",
+      "description": "Private Equity / Turnaround / Special Situations - Technology & Tech-enabled Businesses",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/85003a14f76d4e5a2bf936d5ae5ae7ca"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2019
+      },
+      "company": "Citi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/citi",
+      "company_facebook_profile_url": null,
+      "title": "Associate - Investment Banking",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e720babfb917556910746858d67c4e2d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "S&P Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/spglobal",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Vice President - Private Equity",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/818585bfe6f153aa10fb94a055e085b7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      },
+      "company": "Deloitte",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte",
+      "company_facebook_profile_url": null,
+      "title": "Associate - M&A Transaction Services",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cbe541cc8d8cb6f4912320d31eded8de"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "MyBschoolCoach",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mybschoolcoach",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2142fca316979ece8053ed3fdd2c23d1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "CFJC - Compagnie Financière Jacques Coeur",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/compagniefinancierejacquescoeur",
+      "company_facebook_profile_url": null,
+      "title": "Analyst - Investment Banking",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3023df80e4d1edf5a8f685e234a95a8a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2013
+      },
+      "company": "Natixis Corporate & Investment Banking",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/natixis-corporate-investment-banking",
+      "company_facebook_profile_url": null,
+      "title": "Analyst - Equity Research",
+      "description": "Equity Research analyst covering the healthcare sector",
+      "location": "Paris Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/797840d85deb2705b91ae6945d142605"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2019
+      },
+      "field_of_study": null,
+      "degree_name": "Master of Business Administration - MBA",
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f11767653a405609bf4c7f8df86b9608",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "field_of_study": "Business law",
+      "degree_name": "Master In Business Law",
+      "school": "Université Panthéon Assas (Paris II)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/assasuniversite",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/be827006a5d873653a6bddb0ff73d0d0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "field_of_study": "Finance, Accounting, Strategy, Marketing",
+      "degree_name": "Master in Management & Msc in Financial Management",
+      "school": "EDHEC Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/edhec-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/60228b1b301426fd46fbff03fac6aa51",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "field_of_study": "Law",
+      "degree_name": "Bachelor of Laws (LL.B.)",
+      "school": "Université Panthéon Assas (Paris II)",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/assasuniversite",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/be827006a5d873653a6bddb0ff73d0d0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": "Gestión de empresas en Europa",
+      "degree_name": null,
+      "school": "ESADE Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/esade",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e29edf81a6e3e000e5fb3cfb4555a5fb",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "field_of_study": "International Business law",
+      "degree_name": null,
+      "school": "Bucerius Law School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/bucerius-law-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/339b4477a31684a6860eb7402cada6a6",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "METALBAT",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/metalbat",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "field_of_study": "Law",
+      "degree_name": "Bachelor of Laws (LL.B.)",
+      "school": "Paris-Pantheon-Assas University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/assasuniversite",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": "Gestión de empresas en Europa",
+      "degree_name": null,
+      "school": "Esade",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/esade",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Business law",
+      "degree_name": "Master In Business Law",
+      "school": "Paris-Pantheon-Assas University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/assasuniversite/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Arabic",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "MiFID's Best Execution requirements under French law",
+      "publisher": null,
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "description": null,
+      "url": null
+    },
+    {
+      "name": "Valuation of an early-stage biotechnology firm",
+      "publisher": null,
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2012
+      },
+      "title": "Derby Deloitte",
+      "description": "Teamed and participated in the Derby Deloitte in 2012: orienteering, trail running, biking, canoeing and kayaking during 2 full days.\nRanked #2 out of 10 in Grande Ecole category and #13 out of 90 overall.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "title": "Visiting Lecturer - Finance Department",
+      "description": "M&A Due Diligence class",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": null,
+      "name": "Financing and Investing in Infrastructure",
+      "license_number": "HHJDB834NV",
+      "display_source": "coursera.org",
+      "authority": "Coursera Verified Certificates",
+      "url": "https://www.coursera.org/signature/certificate/HHJDB834NV"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "ends_at": null,
+      "name": "Evaluation financière de l'entreprise",
+      "license_number": null,
+      "display_source": "coursera.org",
+      "authority": "Coursera",
+      "url": "https://www.coursera.org/course/evaluation"
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/redafarran",
+      "name": "Reda Farran, CFA",
+      "summary": "Head of Content & Global Markets Analyst at Finimize | Ex-Equity Analyst | Featured: CNBC, CityAM, Asharq (Bloomberg), Barron's | Posts about investing, finance, markets & more 📈",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kwaku-nortey",
+      "name": "Kwaku Nortey",
+      "summary": "Equities Sales Trading / Venture Capital / Co-founder of Prime Planit",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ankush-jain-cfa-5b724680",
+      "name": "Ankush Jain, CFA",
+      "summary": "Chief Investment Officer | Digital Assets | Forbes 30 Under 30",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/viktoria-oushatova",
+      "name": "Viktoria Oushatova",
+      "summary": "Venture Builder at NN Ventures",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nilay-rocga",
+      "name": "Nilay Samir",
+      "summary": "Helping you make better investment decisions using our Cash Flow Returns On Investments based company valuation and analysis platform",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielegualdani",
+      "name": "Daniele Gualdani",
+      "summary": "Investment Professional at MARK Capital Management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ankushjain93",
+      "name": "Ankush Jain, CFA",
+      "summary": "Chief Investment Officer | Digital Assets | Forbes 30 Under 30",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasdadashi",
+      "name": "Thomas Dadashi",
+      "summary": "Investor in technologies",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewsterett",
+      "name": "Matt Sterett",
+      "summary": "VP, Treasury & Investor Relations | Glow",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bahar-yarmohammad",
+      "name": "Bahar Yarmohammad",
+      "summary": "Venture Capitalist | LSE | UCL| Business Elite 40 Under 40",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aris-mastorakis-b953b818",
+      "name": "Aris Mastorakis",
+      "summary": "Business Development  @Signal | ex-Sefair | ex-Revolut 🦄",
+      "location": "Glyfada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheldon-sussman",
+      "name": "Sheldon Sussman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-hueffer-9783445",
+      "name": "Johan Hueffer",
+      "summary": "Head of Growth Investments (interim) & Senior Partner, Principal Investments at Novo Holdings",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-sloane-56a92a7",
+      "name": "Andrew Sloane",
+      "summary": "Investment Director - Venture Capital, Legal & General",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rameez-zafar-65646814",
+      "name": "Rameez Zafar",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jay-katatumba-08676618",
+      "name": "Jay Katatumba",
+      "summary": "Senior Investment Director | Private Equity",
+      "location": "Casablanca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brettofarrell",
+      "name": "Brett O'Farrell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-schlumpf-45962748",
+      "name": "Patrick Schlumpf",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lun-nie-38606755",
+      "name": "Lun Nie",
+      "summary": "Senior Vice President | Oaktree Capital Management - GFI Energy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elenautrera",
+      "name": "Elena Utrera",
+      "summary": "Private Equity Executive Coach | ex-Goldman Sachs M&A, TowerBrook, Keensight Capital",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sogo-akintaro-05351269",
+      "name": "Sogo Akintaro",
+      "summary": "Director, Private Credit at OTPP",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "It is with great pride that I would like to point out that my first divestment in the Search Funds environment, Vozitel, a company acquired at the…",
+      "link": "https://www.linkedin.com/posts/paz-ambrosy-eyzaguirre-33957316_it-is-with-great-pride-that-i-would-like-activity-7307884338967175168-YNSy",
+      "activity_status": null
+    },
+    {
+      "title": "Read Alain de Botton’s Why You Will Marry the Wrong Person. Then read it again. Not because it’s pessimistic, but because it’s liberating. He doesn’t…",
+      "link": "https://www.linkedin.com/posts/shashank-sharma2016_read-alain-de-bottons-why-you-will-marry-activity-7306650954957787137--NbA",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 The next wave of generative AI is all about specialization. Our CPO, Mehdi Ghissassi, shares his perspective in the latest European Deep Tech…",
+      "link": "https://www.linkedin.com/posts/ai71tech_generativeai-deeptech-aiinnovation-activity-7307730791688540160-_JIt",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to share my INSEAD experience!",
+      "link": "https://www.linkedin.com/posts/simonedoro_looking-forward-to-share-my-insead-experience-activity-7307741841959911425-6AFs",
+      "activity_status": null
+    },
+    {
+      "title": "Sorabh and I are excited to embark on a new journey with our first cohort of Rumi Capital interns! Cheers to learning, exploring great businesses…",
+      "link": "https://www.linkedin.com/posts/parsasamavati_entrepreneurship-privatequity-searchfund-activity-7307528904628412417-xIzo",
+      "activity_status": null
+    },
+    {
+      "title": "Didn't expect to add \"Billboard Author\" to my resume, but here we are. I won an internal competition to write the copy for our billboards now up in…",
+      "link": "https://www.linkedin.com/posts/michael-palisano_didnt-expect-to-add-billboard-author-to-activity-7307453198762446848-H_Qx",
+      "activity_status": null
+    },
+    {
+      "title": "3 mois après la scission de Vivendi, il n’y a aucun doute que la scission a été destructrice de valeur pour les actionnaires, comme l’avait anticipé…",
+      "link": "https://fr.linkedin.com/posts/pascal-quiry-6a944915_3-mois-après-la-scission-de-vivendi-il-n-activity-7306600529210556416-zNg4",
+      "activity_status": null
+    },
+    {
+      "title": "📜 I’m excited to share that I’ve just obtained my certificate in the Behavioral Science in Public Policy course from the World Bank Development…",
+      "link": "https://www.linkedin.com/posts/mayaelghossein_im-excited-to-share-that-ive-just-obtained-activity-7306200119924649984-TqLW",
+      "activity_status": null
+    },
+    {
+      "title": "J’ai refusé la dotation de mon sponsor principal ? Cette année marque ma 4ᵉ saison avec Brooks. Quatre ans aux côtés d’une marque qui me soutient…",
+      "link": "https://fr.linkedin.com/posts/mathieu-delpeuch-939a22155_jai-refusé-la-dotation-de-mon-sponsor-principal-activity-7305130276249059328-IJUd",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, we had the opportunity to gather in Milan, for an exclusive INSEAD Alumni event focused on Search Funds and Entrepreneurship Through…",
+      "link": "https://www.linkedin.com/posts/carlo-salizzoni-157113_last-week-we-had-the-opportunity-to-gather-activity-7303696053613006848-BTeE",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Group held its General Assembly Meeting (GAM) at the company’s headquarters to review its strong financial performance, successful vertical…",
+      "link": "https://www.linkedin.com/posts/multiplygroupae_multiplygroup-investorrelations-financialgrowth-activity-7305612077518233600-JRoc",
+      "activity_status": null
+    },
+    {
+      "title": "Having a great time with colleagues! Grateful for the laughs, good vibes, and great company at our group Iftar. #MMG #BackLite #ViolaMedia…",
+      "link": "https://www.linkedin.com/posts/pierrebreton1_mmg-backlite-violamedia-activity-7305571070336524288-7AMY",
+      "activity_status": null
+    },
+    {
+      "title": "VIOOH teams up with London Lites to grow programmatic DOOH in London’s premium spots. Read more - https://lnkd.in/gqg3jGwe #advertisingreporter…",
+      "link": "https://www.linkedin.com/posts/advertising-reporter_advertisingreporter-viooh-teamsup-activity-7387040184028028928-XILa",
+      "activity_status": null
+    },
+    {
+      "title": "Je quitte le M&A… pour faire des chansons. [Partie 4] Aussi, pour répondre une bonne fois pour toutes à la question : Pourquoi le M&A ? Comme ça,…",
+      "link": "https://fr.linkedin.com/posts/ilyasbaba_lazard-barclays-groupama-activity-7387050792895012865-YhNM",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to see our continued collaboration with the African Development Bank delivering tangible impact across Africa — Partnerships that truly move…",
+      "link": "https://www.linkedin.com/posts/myriam-ouazzani-6869bb1_proud-to-see-our-continued-collaboration-activity-7387478982918742016-AESj",
+      "activity_status": null
+    },
+    {
+      "title": "We promised and we delivered. In her interview with CNBC Arabia, our GCEO & MD, Samia Bouazza, reflected on Multiply Group’s growth journey since…",
+      "link": "https://www.linkedin.com/posts/multiplygroupae_multiplygroup-abudhabi-adx-activity-7387435824692408320-ukcq",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you The Spotlight Magazine for the mention 🙏🏽",
+      "link": "https://www.linkedin.com/posts/hind-akel-5061712b_thank-you-the-spotlight-magazine-for-the-activity-7387197128109867010-zK-O",
+      "activity_status": null
+    },
+    {
+      "title": "The media landscape is transforming at a pace we have never seen before, and digital out-of-home (DOOH) stands at the forefront of this…",
+      "link": "https://www.linkedin.com/posts/jawad-hassan-25700537_digital-out-of-home-dooh-advertising-market-activity-7387413578276028416-QQs6",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday our CEO, Reda Nidhakou, participated in a panel called Abu Dhabi and AI: Driving Impactful Momentum at Hub71’s successful Impact Event…",
+      "link": "https://www.linkedin.com/posts/ventureoneuae_ventureone-atrc-impactabudhabi-activity-7387006740262899712-bRPr",
+      "activity_status": null
+    },
+    {
+      "title": "Big Abu Dhabi news: Samia Bouazza, CEO of Multiply Group, shares insights on the company’s strategic acquisition of Ghitha Holding and 2PointZero…",
+      "link": "https://www.linkedin.com/posts/emma-graham-aa26954a_multiply-group-ceo-unveils-global-investment-activity-7386377941951258624-F1RJ",
+      "activity_status": null
+    },
+    {
+      "title": "I am delighted to join the brilliant leadership team at Purespring Therapeutics to transform the trajectory of kidney disease and help patients live…",
+      "link": "https://www.linkedin.com/posts/drnicholasdeakin_i-am-delighted-to-join-the-brilliant-leadership-activity-7386358773746987008-NXiP",
+      "activity_status": null
+    },
+    {
+      "title": "🇲🇦 Félicitations à notre équipe nationale du Maroc U20, Champions du Monde 🏆 Vous faites rayonner le Maroc dans le Monde ☀️ et 💨 insufflez la…",
+      "link": "https://fr.linkedin.com/posts/masen_maroc-victoire-coupedumondeu20-activity-7386007750272770049-QHeA",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you LaSource and World Football Summit for selecting me to be part of the jury assessing the 10 finalists chosen out of 80+ sportech…",
+      "link": "https://www.linkedin.com/posts/-mohamedberrada-_thank-you-lasource-and-world-football-summit-activity-7385918008407437312-5Sir",
+      "activity_status": null
+    },
+    {
+      "title": "Small and medium enterprises in the UAE and KSA face two BIG problems that have nothing to do with the quality of their business. Problem one is the…",
+      "link": "https://www.linkedin.com/posts/tristanbrandt_small-and-medium-enterprises-in-the-uae-and-activity-7384497426541346817-KIYf",
+      "activity_status": null
+    },
+    {
+      "title": "Our subsidiary, Emirates Driving, has formally closed a transaction to acquire a 22.5% stake in Mwasalat Holdings, with the option to increase its…",
+      "link": "https://www.linkedin.com/posts/multiplygroupae_multiplygroup-emiratesdrivingcompany-edc-activity-7386047530372993024-0bQO",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting line-up at the next INSEAD Africa Business Conference on October 5th in Paris. Get your last early bird tickets on https://bit.ly/2lY4Fr7…",
+      "link": "https://www.linkedin.com/posts/ylahlou_insead-africa-business-activity-6574637290457440256-sHZX",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://fr.linkedin.com/in/yassine-lahlou-29509776",
+      "summary": "Corporate Finance",
+      "location": "Greater Paris Metropolitan Region"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://ma.linkedin.com/in/yassine-lahlou-306398b5",
+      "summary": "INGENIEUR D’ETAT EN ARCHITECTURE D`INTERIEUR & DESIGN",
+      "location": "Fez"
+    },
+    {
+      "name": "Yassine LAHLOU",
+      "link": "https://ma.linkedin.com/in/yassinelahlou",
+      "summary": "CEO /  Founder chez VEOSMART",
+      "location": "Morocco"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://ma.linkedin.com/in/yassine-lahlou-3b47a049",
+      "summary": "Partner chez Corniche",
+      "location": "Marrakesh"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://ma.linkedin.com/in/yassine-lahlou-821a10102",
+      "summary": "Directeur Administratif et Financier",
+      "location": "Prefecture of Casablanca"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://es.linkedin.com/in/lahlouyassine",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "name": "YASSINE LAHLOU",
+      "link": "https://ma.linkedin.com/in/yassine-lahlou-29303a236",
+      "summary": "CONSULTANT IT",
+      "location": "Casablanca"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://fr.linkedin.com/in/yassine-lahlou-30209b154/en",
+      "summary": "Student in Neoma Business School",
+      "location": "France"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://de.linkedin.com/in/yassine-lahlou-a1b879314",
+      "summary": "Studium an der Hochschule Fachhochschule Dortmund",
+      "location": "Dachau"
+    },
+    {
+      "name": "Yassine Lahlou",
+      "link": "https://uk.linkedin.com/in/yassine-lahlou-8573a519",
+      "summary": null,
+      "location": "Cambridge"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

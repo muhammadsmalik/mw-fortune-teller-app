@@ -1,0 +1,837 @@
+{
+  "public_identifier": "stephany-villarreal-45a75b3b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/152d709b2a6de12480f69f971df7c333",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/74c55e293355c83cfc95762d77bac487",
+  "first_name": "Stephany",
+  "last_name": "Villarreal",
+  "full_name": "Stephany Villarreal",
+  "follower_count": 1098,
+  "occupation": "Design Engineering Manager at Dematic",
+  "headline": "Controls Manager | Automation | Digitalization | OT Sacurity | FS Eng (TÜV Rheinland)",
+  "summary": "Controls Manager with 13 years of professional experience in Automation, Controls and Digital transformation. Abilities such as high proactivity, commitment, and problem resolution thinking.<br><br>Working experience on international multidisciplinary group leadership during start-up of new plant, transfer of production lines between sites and innovation processes. <br><br>Development and coordination of strategies looking for Digital transformation of the company. Management of Projects based on new technologies focused on optimization and innovation. Implementation of Cybersecurity on Operational Technologies.",
+  "location_str": "Monterrey, Nuevo León, Mexico",
+  "country": "MX",
+  "country_full_name": "Mexico",
+  "city": "Monterrey",
+  "state": "NL",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Dematic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dematic",
+      "company_facebook_profile_url": null,
+      "title": "Design Engineering Manager",
+      "description": null,
+      "location": "Monterrey, Nuevo León, Mexico",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f4575747e935845c1e95a87f7c377a7c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "company": "Dematic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dematic",
+      "company_facebook_profile_url": null,
+      "title": "R&D Controls Manager",
+      "description": "Resource management for international projects in disciplines of process control development, firmware development and hardware development.\n\nLead the implementation of processes based on best practices and standards and solution quality, as well as innovation workshops to allow creativity to flow within our team.",
+      "location": "Nuevo León, México",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f4575747e935845c1e95a87f7c377a7c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2022
+      },
+      "company": "Essity",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/essity",
+      "company_facebook_profile_url": null,
+      "title": "Digitalization & OT Security Leader",
+      "description": "Operational Technologies Monterrey site responsible, assessing architecture and infrastructure opportunities to achieve company standards in cybersecurity and IT interactions.\n\nCoordination of Digitalization roadmap to have Key basic standards on process information, visualization, and development on the MES. Development of site standards and people capability on Process Control.\n\nImplementation of site obsolescence data base and multi-year plan for upgrades on Software and Hardware.",
+      "location": "San Nicolás de los Garza, Nuevo León, México",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0e64173eda1b5877c143b91a9fe33725"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2020
+      },
+      "company": "Braskem",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/braskem",
+      "company_facebook_profile_url": null,
+      "title": "Control and Automation Eng.",
+      "description": "Controls design Validation, functional test and startup of new Production Plant and an Electrical Cogeneration plant.\nResponsible for control systems Availability and Reliability, functional safety management and control systems improvement\n\nSecond role as a Plant lead for digital transformation projects and benchmarking. Main plant project with Machine Learning for Hypercompresor.\n\nSuccess project of Reconfiguration of automated process, avoiding 3 plant shutdown per year.",
+      "location": "Coatzacoalcos Area, Mexico",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b605fc6c68b8234ce0b0f94432c6510e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Rockwell Automation",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rockwell-automation",
+      "company_facebook_profile_url": null,
+      "title": "Test Engineer",
+      "description": "Installation and startup of Mexico-United States transfer production lines program. Responsible for Functional Test equipment, including maintenance, software changes and procedures Implementation. Management and training of technicians leading preventive and corrective activities and troubleshooting on electronic boards.\nManagement of spare parts and improvements.\n\nBlack Belt project implementation in test equipment, reducing an 80% of spurious failures in high voltage test.",
+      "location": "Monterrey, Nuevo León, Mexico",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/085f73ed08649580e3ccdea9b4e2fb70"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "company": "Luleå tekniska universitet / Luleå University of Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lulea-university-of-technology",
+      "company_facebook_profile_url": null,
+      "title": "Intern in Electronics Research and Development",
+      "description": "Teamwork with PhD students developing new projects, performing activities such a Design and Programming, handling C++. Test and Compilation of data and changes required.",
+      "location": "Lulea, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ec0bf6bc7405e6654f6e4363fb35358e"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Electronics and Automation",
+      "degree_name": "Eng",
+      "school": "Universidad Autonoma de Nuevo Leon",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Actividades y grupos:Student Societies"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "field_of_study": "Administración y gestión de empresas,  general",
+      "degree_name": "Big Data and Business Analytics",
+      "school": "Universidad Anáhuac",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "In Progress",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Universidad Anáhuac México",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-anahuac_50453",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Portugués"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Portugués",
+      "proficiency": "LIMITED_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Allen Bradly",
+      "number": null
+    },
+    {
+      "name": "BlackBelt",
+      "number": null
+    },
+    {
+      "name": "DeltaV",
+      "number": null
+    },
+    {
+      "name": "Industrial communication",
+      "number": null
+    },
+    {
+      "name": "Innovation and creativity",
+      "number": null
+    },
+    {
+      "name": "Mark VI",
+      "number": null
+    },
+    {
+      "name": "Scrum Product Owner",
+      "number": null
+    },
+    {
+      "name": "Triconex",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Being a Good Mentor",
+      "license_number": "Ver credencial",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/ccf56c844f143991016649cf2149026b2556a86ad9d4956782bdedb1655869cf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2022
+      },
+      "name": "FS Engineer TÜV Rheinland",
+      "license_number": null,
+      "display_source": null,
+      "authority": "TÜV Rheinland North America",
+      "url": null
+    }
+  ],
+  "connections": 1075,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jose-miguel-espinoza-2017",
+      "name": "Jose Miguel Espinoza",
+      "summary": "Manufacturing Engineering Manager at ETHICON Johnson & Johnson",
+      "location": "Ciudad Juárez"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuelalvarez1509",
+      "name": "Samuel Alvarez",
+      "summary": "Automation Engineer at Amazon",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlosivancortescruz",
+      "name": "Carlos Cortés",
+      "summary": "Project Management Professional (PMP)® |  Machine Learning and Data Science (Evolving) |  Passionate about solving business challenges with data | Commercial Strategy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/augusto-deggeller",
+      "name": "Augusto Deggeller",
+      "summary": "Diseño web y SEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcoinclan",
+      "name": "Marco Inclan",
+      "summary": "Sales Manager at Emerson",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/o-gt",
+      "name": "Oscar Gómez Torres",
+      "summary": "800xA Specialist - Process Automation at ABB",
+      "location": "San Luis Potosí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katya-murillo-godinez-4a152a293",
+      "name": "Katya Murillo Godinez",
+      "summary": "Unit Controller en Essity",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aldo-martinez-936bb9265",
+      "name": "Aldo Martinez",
+      "summary": "Engineering Project Leader || Control Engineer || FS Technician TUV Rheinland",
+      "location": "Hermosillo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-almaraz-4719622a",
+      "name": "Francisco Almaraz",
+      "summary": "I&E Tech at Servicios Midstream",
+      "location": "Monterrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diegoayala-",
+      "name": "Diego Ayala",
+      "summary": "Renewable Energy Engineer | Project Manager | Solar Energy Projects, O&M & Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-antonio-martinez-navas-19a4664b",
+      "name": "Marco Antonio Martinez Navas",
+      "summary": "Senior Engineering Manager, Technology & Innovation",
+      "location": "Hartland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-juarez-233213235",
+      "name": "Mario Juarez",
+      "summary": "--Controls Engineer",
+      "location": "Benito Juárez"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanny-ramos-villarreal-538033207",
+      "name": "Stephanny Ramos Villarreal",
+      "summary": "Profesional en Marketing y Negocios Internacionales",
+      "location": "Bucaramanga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-landa-984562267",
+      "name": "Sandra Landa",
+      "summary": "Supervisor de contabilidad en Agencia Aduanera de América",
+      "location": "Gustavo A. Madero"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dantefjaime709219203",
+      "name": "Dante Espinoza Jaime",
+      "summary": "Lic. Informatica Administrativa",
+      "location": "Ecatepec de Morelos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oscar-vargas-fallas-1b0096236",
+      "name": "Oscar Vargas Fallas",
+      "summary": "Ingeniería Operativa, Centro Nacional de Control de Electricidad - Instituto Costarricense de Electricidad",
+      "location": "Cartago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-alejandro-rodr%25C3%25ADguez-s%25C3%25A1nchez-740865156",
+      "name": "Eric Alejandro Rodríguez Sánchez",
+      "summary": "Posgrado en Ingeniería, ingeniero en mecatrónica, en ambos titulado",
+      "location": "Guadalupe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/g%25C3%25A9nesis-ben%25C3%25ADtez-nieblas-258495165",
+      "name": "Génesis Benítez Nieblas",
+      "summary": "Functional Safety Engineer || TÜV Rheinland || Senior Controls Engineer",
+      "location": "Hermosillo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorgeape%25C3%25B1aa",
+      "name": "Jorge Peña",
+      "summary": "Love to Learn",
+      "location": "San Nicolás de los Garza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yessid-vargas-2839136",
+      "name": "Yessid Vargas",
+      "summary": "Engineering Manager | Senior Project Manager | Expert in Industrial Automation, Energy & Mining Projects | PMP-Oriented | LATAM & Global Operations | FS Engineer (TÜV Rheinland)",
+      "location": "Macedonia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/santos-alejandro-aguilar-g-79baba7",
+      "name": "Santos Alejandro Aguilar G",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-ing-maupome-carvantes-4b118110",
+      "name": "Olivia, Ing. Maupome Carvantes",
+      "summary": "en Grupo Petroquímico Beta",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/reginaldo-faistauer-mendes-1614b016",
+      "name": "Reginaldo Faistauer Mendes",
+      "summary": "Senior Process Engineer & Automation",
+      "location": "Urubici"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesus-espinosa-2336b325",
+      "name": "Jesus Espinosa",
+      "summary": "Electronic Hardware Sr Design Engineer at Schneider Electric R&D",
+      "location": "Reynosa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saul-espinosa-397b5926",
+      "name": "Saul Espinosa",
+      "summary": "R&R Manager en OmniOn Power",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-parker-73345231",
+      "name": "Steve Parker",
+      "summary": null,
+      "location": "Westlake"
+    },
+    {
+      "link": "https://www.linkedin.com/in/israel-ibarra-92bb5336",
+      "name": "Israel Ibarra",
+      "summary": "Global Integrated Planning Process Expert Manager @ Corning Incorporated CoE",
+      "location": "Monterrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnathan-flores-9635ab40",
+      "name": "Johnathan Flores",
+      "summary": "Service Manager CAC & Mexico",
+      "location": "Ciudad Madero"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorena-castellanos-34171141",
+      "name": "Lorena Castellanos",
+      "summary": "CEFEMEX",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-garcia-cisne-89a49b42",
+      "name": "Jorge Garcia Cisne",
+      "summary": "AE Controls, North America",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-torres-69a44144",
+      "name": "Luis Torres",
+      "summary": "SureService Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandro-pelayo-garza-a0365046",
+      "name": "Alejandro Pelayo Garza",
+      "summary": "Jefe de mantenimiento de dados",
+      "location": "San Nicolás de los Garza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-carlos-alvarez-72744747",
+      "name": "Juan Carlos Alvarez",
+      "summary": null,
+      "location": "Coatzacoalcos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enrique-villarreal-877a7a47",
+      "name": "Enrique Villarreal",
+      "summary": "Manufacturing Engineer III at Siemens",
+      "location": "Monterrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-andres-pichardo-zamudio-39043349",
+      "name": "JOSE ANDRES PICHARDO ZAMUDIO",
+      "summary": null,
+      "location": "Coatzacoalcos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/israel-cerrano-hernandez-51481b50",
+      "name": "Israel Cerrano Hernandez",
+      "summary": null,
+      "location": "Atizapán de Zaragoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-reyes-65012651",
+      "name": "Ricardo Reyes",
+      "summary": "Electromechanical Design Engineer at Schneider Electric",
+      "location": "Ciudad Apodaca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergio-vega-0b316655",
+      "name": "Sergio Vega",
+      "summary": "Senior Developer Engineer / Cybersecurity / CHFI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robinson-marquez-u-5033b355",
+      "name": "Robinson Marquez U.",
+      "summary": "Global Program Manager at Emerson Electric CR Ltd.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-mora-ventura-62238a57",
+      "name": "Rafael Mora Ventura",
+      "summary": "Director en Servicio En Mentenimiento Eléctrico",
+      "location": "Atizapán de Zaragoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ing-hugo-martiradoni-a0572065",
+      "name": "Ing. Hugo Martiradoni",
+      "summary": "Gerente de DSSSTPA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-wong-boren-ba680a70",
+      "name": "Ana Wong Boren",
+      "summary": "Ing. Electronica",
+      "location": "San Nicolás de los Garza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesus-sotomayor-58888874",
+      "name": "Jesus Sotomayor",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-alberto-garcia-marquez-a7011a88",
+      "name": "Mario Alberto Garcia Marquez",
+      "summary": "supervisor en Grupo Modelo S.A. de C.V.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yarelly-lizbeth-mendez-farias-6551098a",
+      "name": "Yarelly Lizbeth Mendez Farias",
+      "summary": "Offshore Production|Control Room Operator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugo-oropeza-ramirez-a904b192",
+      "name": "Hugo Oropeza Ramirez",
+      "summary": null,
+      "location": "Mexico City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/homero-silva-a8732196",
+      "name": "Homero Silva",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesus-roberto-chapa-tamez-2a157b96",
+      "name": "Jesus Roberto Chapa Tamez",
+      "summary": null,
+      "location": "Monterrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duane-rayl-45a35b97",
+      "name": "Duane Rayl",
+      "summary": "EHS Manager",
+      "location": "Howell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eliseo-badillo-1bba4697",
+      "name": "Eliseo Badillo",
+      "summary": "Sr. Electronics Engineer at Johnson Controls",
+      "location": "Matamoros"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-alberto-fern%25C3%25A1ndez-mart%25C3%25ADnez-2211139a",
+      "name": "Luis Alberto Fernández Martínez",
+      "summary": "ADMINISTRADOR DE PROYECTOS en Braskem Idesa",
+      "location": "Coatzacoalcos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-miguel-galindo-diez-76b98b9a",
+      "name": "José Miguel Galindo Diez",
+      "summary": "Cangrejera Site Director at Celanese",
+      "location": "Coatzacoalcos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-luisa-araiza-445162a5",
+      "name": "Ana Luisa Araiza",
+      "summary": "Advance process engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ra%25C3%25BAl-castillo-b44320b9",
+      "name": "Raúl Castillo",
+      "summary": "Engineering and Manufacturing Manager  en Novares Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-arturo-cruz-ramirez-661891b9",
+      "name": "Luis Arturo Cruz Ramirez",
+      "summary": "Technical Support Specialist en ABB",
+      "location": "Toluca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guadalupe-arroyo-fierro-ba2495100",
+      "name": "Guadalupe Arroyo Fierro",
+      "summary": "Ayudante Técnico Administrativo en Pemex",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-angel-palomo-b77a06100",
+      "name": "Miguel Angel Palomo",
+      "summary": "Process Automation & Control Engineer",
+      "location": "Ciudad Apodaca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-villalba-61a170102",
+      "name": "Carlos Villalba",
+      "summary": "ACCIONA Energía•893 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fatima-rivera-a66092112",
+      "name": "Fatima Rivera",
+      "summary": "Associate Project Manager en Electrification Services ABB Mexico",
+      "location": "San Luis Potosí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-ismael-c%25C3%25A1rdenas-ayala-52746a114",
+      "name": "José Ismael Cárdenas Ayala",
+      "summary": "Controls Engineer at proAutomation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arnulfo-ortiz-chairez-46b72b115",
+      "name": "Arnulfo Ortiz CHairez",
+      "summary": "lider de mantenimiento en Danfoss",
+      "location": "Montemorelos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-romero-59881a123",
+      "name": "Jorge Romero",
+      "summary": "technician diagnostic ABB",
+      "location": "Matamoros"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-comett-128525127",
+      "name": "Miguel Comett",
+      "summary": null,
+      "location": "Poza Rica"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-garcia-18a019131",
+      "name": "Gustavo Garcia",
+      "summary": "Gerente de cuentas en ABB",
+      "location": "Guadalupe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rogelio-gorozpe-67a270136",
+      "name": "Rogelio Gorozpe",
+      "summary": null,
+      "location": "San Luis Potosí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aurelio-monroy-delgado-462505144",
+      "name": "Aurelio Monroy Delgado",
+      "summary": "Sr Automation / LV&MV Drives Specialist at Schneider Electric",
+      "location": "Villa Nicolás Romero"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-manuel-inzunza-ruiz-71a293148",
+      "name": "Luis Manuel Inzunza Ruiz",
+      "summary": "Gerente de proyectos de automatización || Industria de proceso || Instrumentación y Control ||",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardo-rodriguez-05551816a",
+      "name": "Eduardo Rodriguez",
+      "summary": null,
+      "location": "San Nicolás de los Garza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omar-mu%25C3%25B1oz-rincon-47777b179",
+      "name": "Omar Muñoz Rincon",
+      "summary": null,
+      "location": "Tlalnepantla"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suni-uziel-morales-garc%25C3%25ADa-b20851181",
+      "name": "Suni Uziel Morales García",
+      "summary": null,
+      "location": "Coatzacoalcos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-guevara-094600183",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-bajonero-hernandez-b14694188",
+      "name": "Rafael Bajonero Hernandez",
+      "summary": null,
+      "location": "Veracruz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nery-isabel-espinoza-toledo-8b70921a2",
+      "name": "Nery Isabel Espinoza Toledo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-campos-martinez-234916208",
+      "name": "Linda Campos Martinez",
+      "summary": "Education & Training specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorenzo-santiago-gonzalez-03b033220",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Happy to share that I finished my Big Data and Business Analytics certification at Universidad Anáhuac. It has been a very rewarding experience! AI…",
+      "link": "https://www.linkedin.com/posts/stephany-villarreal-45a75b3b_big-data-y-business-analytics-stephany-activity-7219028861873729537-b6dH",
+      "activity_status": null
+    },
+    {
+      "title": "Just finished the course âBeing a Good Mentorâ! #mentoring",
+      "link": "https://www.linkedin.com/posts/stephany-villarreal-45a75b3b_certificate-of-completion-activity-7062225491012796416-iGLO",
+      "activity_status": null
+    },
+    {
+      "title": "Agree! Si te sientes comod@ dejas de buscar mejorar, en la vida y en el Ã¡mbito profesional!",
+      "link": "https://www.linkedin.com/posts/stephany-villarreal-45a75b3b_agree-si-te-sientes-comod-dejas-de-buscar-activity-6991423156481638401-sUyg",
+      "activity_status": null
+    },
+    {
+      "title": "Gran evento el #EmersonExchange...! Mi primera experiencia como speaker compartiendo los avances de TransformaciÃ³n Digital que vivimos en Braskem.…",
+      "link": "https://www.linkedin.com/posts/stephany-villarreal-45a75b3b_emersonexchange-braskemidesa-transformaci%C3%B3ndigital-activity-6582342270916407296-cbrm",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://pe.linkedin.com/in/stephany-villarreal",
+      "summary": "Gerente de desarrollo de Soluciones y Co-Fundadora de INVIAN - Intelligence Video Analytics",
+      "location": "Perú"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://mx.linkedin.com/in/stephany-villarreal-70176656",
+      "summary": "Asistente Maxtracker",
+      "location": "Ciudad de México"
+    },
+    {
+      "name": "Mishelle Stephany Villarreal Falcón",
+      "link": "https://pe.linkedin.com/in/mishelle-stephany-villarreal-falcón-49b198210",
+      "summary": "Estudiante en UTEC - Universidad de Ingeniería y Tecnología",
+      "location": "Lima"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://es.linkedin.com/in/stephany-villarreal-209076192",
+      "summary": "--",
+      "location": "Candelaria"
+    },
+    {
+      "name": "Stephany Zoe Sepúlveda Villarreal",
+      "link": "https://mx.linkedin.com/in/stephany-zoe-sepúlveda-villarreal-05a365205",
+      "summary": "Asistente Ejecutiva de Consultorio y proveeduría médica en Swiss Láser y Uroclinic",
+      "location": "Monterrey, NLE"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://mx.linkedin.com/in/stephany-villarreal-341b021ab",
+      "summary": "Import Analyst",
+      "location": "Guadalupe, NLE"
+    },
+    {
+      "name": "Karla Stephany Chapa Villarreal",
+      "link": "https://mx.linkedin.com/in/karla-stephany-chapa-villarreal-82a8b4147",
+      "summary": "Coordinadora Mesa de Control en Farmacias Benavides",
+      "location": "Guadalupe, NLE"
+    },
+    {
+      "name": "Stephany Abigail Villarreal Ruiz",
+      "link": "https://mx.linkedin.com/in/stephany-abigail-villarreal-ruiz-b030052aa",
+      "summary": "--",
+      "location": "Piedras Negras, COA"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://pe.linkedin.com/in/steph-villarreal/en",
+      "summary": null,
+      "location": "Peru"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://ve.linkedin.com/in/stephany-villarreal-2609078a",
+      "summary": null,
+      "location": "Caracas"
+    },
+    {
+      "name": "Stephany Villarreal",
+      "link": "https://co.linkedin.com/in/stephany-villarreal-aa8a37326",
+      "summary": null,
+      "location": "Cali"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:55:09Z"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "public_identifier": "diego-antonio-santos-37208471",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6b3f9c9b1015ca04b6cc484408946962",
+  "background_cover_image_url": null,
+  "first_name": "Diego Antonio",
+  "last_name": "Santos",
+  "full_name": "Diego Antonio Santos",
+  "follower_count": 1135,
+  "occupation": "Diretor financeiro at Grupo Inteli",
+  "headline": "Gerente no Grupo Inteli",
+  "summary": "Com uma trajetória profissional solidificada em gestão de pessoas e finanças, destaco-me no desenvolvimento e implementação de estratégias administrativas. No Grupo Inteli, a minha atuação como Gerente nos últimos 7 meses permitiu-me aprimorar habilidades analíticas e reforçar minha competência em liderar equipes para a excelência operacional. <br><br>Como sócio proprietário da ES Outdoor por mais de um ano e meio, tenho demonstrado uma gestão eficaz e inovadora, com foco em resultados financeiros positivos e na otimização de processos. Minha experiência anterior na Rodalog também reflete minha habilidade em reverter cenários financeiros e gerir passivos trabalhistas, garantindo eficiência e conformidade legal.",
+  "location_str": "Blumenau, Santa Catarina, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Blumenau",
+  "state": "Santa Catarina",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Grupo Inteli",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-inteli",
+      "company_facebook_profile_url": null,
+      "title": "Diretor financeiro",
+      "description": null,
+      "location": "Blumenau, Santa Catarina, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4af80f3b59759587a2505bcd01014706"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Grupo Inteli",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grupo-inteli",
+      "company_facebook_profile_url": null,
+      "title": "Gerente",
+      "description": null,
+      "location": "Blumenau, Santa Catarina, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4af80f3b59759587a2505bcd01014706"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "ESOUTDOOR",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/esoutoor",
+      "company_facebook_profile_url": null,
+      "title": "Sócio proprietário",
+      "description": null,
+      "location": "Espírito Santo, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/afbf3eebda26b4bff239d52f93689723"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "Rodalog Soluções em Logística e Transporte Ltda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rodalog-logistica",
+      "company_facebook_profile_url": null,
+      "title": "Gerente administrativo",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a5d6a5c6d52b6334de4848c6acbbb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "Rodalog Soluções em Logística e Transporte Ltda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rodalog-logistica",
+      "company_facebook_profile_url": null,
+      "title": "Gerente financeiro",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a5d6a5c6d52b6334de4848c6acbbb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Rodalog Soluções em Logística e Transporte Ltda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rodalog-logistica",
+      "company_facebook_profile_url": null,
+      "title": "Gerente Juridico/DP",
+      "description": null,
+      "location": "Joinville e Região, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a5d6a5c6d52b6334de4848c6acbbb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "company": "Rodalog Soluções em Logística e Transporte Ltda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rodalog-logistica",
+      "company_facebook_profile_url": null,
+      "title": "Gerente de Filial",
+      "description": null,
+      "location": "Caxias do Sul e Região, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a5d6a5c6d52b6334de4848c6acbbb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Rodalog Soluções em Logística e Transporte Ltda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rodalog-logistica",
+      "company_facebook_profile_url": null,
+      "title": "Coordenador de RH/DP",
+      "description": null,
+      "location": "JOINVILLE",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a5d6a5c6d52b6334de4848c6acbbb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "company": "BgmRodotec",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bgmrodotec",
+      "company_facebook_profile_url": null,
+      "title": "Analista Implantação",
+      "description": "\tAtuação na implantação e treinamento do software Globus a área de RH;\n\tElaboração da conversão de dados, exportação e importação  do banco de dados.\n\tApoio na negociação de venda do software quando necessário, prospectando e apresentando as melhorias do software.\n\tAnalise e utilização das informações das áreas de operações e serviços, para promover melhorias na gestão destes aspectos, influenciando na melhoria da rentabilidade da empresa (ferramentas BI)\n\tIntermediação do relacionamento entre Cliente e funcionários, no aspecto de Gerenciamento na rotina de RH e Departamento Pessoal\n\tSuporte geral as dúvidas de ordem Pessoal dos clientes em RS – SC - PR",
+      "location": "Blumenau",
+      "logo_url": "https://assets.enrichlayer.com/pp/hero-img/e75945371440345b473e968860563a93"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Acon Contabilidade",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Assistente Departamento pessoal",
+      "description": "\tResponsável pelas declarações acessórias (CAGED, SEFIP, DIRF, RAIS, PAT) e apuração de Impostos e tributos (FGTS , INSS, INSS PATRONAL , IRRF , SINDICATOS ) de 40 empresas em média.\n\tExecução e orientação das atividades inerentes a rotina trabalhista, benefícios, gestão de pessoas, seguindo as leis trabalhistas.\n\tAtuação no Projeto de implantação sistema integrado em cada cliente.\n\tExecução em cálculos de passivo trabalhista – Perito contábil.\n\tTrabalho em prevenção de passivo trabalhista, acompanhando e orientando aos clientes.\n\tResponsável pelas CND ‘ CERTIDÃO NEGATIVA DEBITO’ de todos os clientes na área  previdenciária.",
+      "location": "Blumenau",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Relações Trabalhistas e Sindicais",
+      "degree_name": "Bacharelado em Direito",
+      "school": "UNISOCIESC - Universidade Sociedade Educacional de Santa Catarina",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unisociescoficial",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6a9e2ad729fbb76f461efd2c2212a8b0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "DIREITO TRABALHISTA",
+      "degree_name": "MBA DIREITO DO TRABALHO E GESTÃO DE PESSOAS",
+      "school": "INPG Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/inpg-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/323c84b35dc83cda7543cd5592692e3c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Contabilidade",
+      "degree_name": "BACHARELADO EM CIENCIAS CONTABEIS",
+      "school": "UNIASSELVI",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Contabilidade",
+      "degree_name": "TECNICO CONTABILIDADE",
+      "school": "CEDUP HERMAN HERING",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Inglês",
+    "Português"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglês",
+      "proficiency": null
+    },
+    {
+      "name": "Português",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Vibe Coding",
+      "license_number": null,
+      "display_source": null,
+      "authority": "LOVABLE",
+      "url": null
+    }
+  ],
+  "connections": 1130,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tais-areias-33a091226",
+      "name": "Tais Areias",
+      "summary": "Coordenadora de Sinistros na Bradesco Auto/RE",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franciele-fagundes-461a1095",
+      "name": "Franciele Fagundes",
+      "summary": "Diretora Administrativa-Financeira | Controladoria, Finanças, Compras & TI | Gestão de Times Multidisciplinares",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucianaorlandinofranco",
+      "name": "Luciana Orlandino Franco",
+      "summary": "Internacionalista, Historiadora / Gestora Administrativa",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neriane-gon%25C3%25A7alves-54996458",
+      "name": "Neriane Gonçalves",
+      "summary": "Agente de Vendas | Wiser Educação | WSP",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/f%25C3%25A1bio-chaves-branco-5424b0a4",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/maur%25C3%25ADcio-pozzi-de-carvalho-664b36220",
+      "name": "Maurício Pozzi de Carvalho",
+      "summary": "Gerente de Sinistros/Bradesco Seguros",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/priscila-ver%25C3%25ADssimo-alves-damann-82110421",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/wagner-rocha-b34675230",
+      "name": "Wagner Rocha",
+      "summary": "Rede Da Figueira - Postos de…•1K followers",
+      "location": "Rio Grande"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandro-moraro-4111282b",
+      "name": "Sandro Moraro",
+      "summary": "Coordenador de logística (Autônomo)",
+      "location": "Guarulhos"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafael-de-oliveira-zara-47547430",
+      "name": "Rafael de Oliveira Zara",
+      "summary": null,
+      "location": "Salto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helder-pimentel",
+      "name": "Helder Pimentel",
+      "summary": "Logistics Project Supervisor / Warehouse Management / Continuous Improvement Specialist (TPS)",
+      "location": "Itu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinicius-iaronka-54535968",
+      "name": "Vinicius Iaronka",
+      "summary": "Profissional de Recursos Humanos apaixonado por desenvolver pessoas e equipes",
+      "location": "Canoas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gisele-muller-38564968",
+      "name": "Gisele Muller",
+      "summary": "Analista de logística | Transportes Bertolini Ltda.",
+      "location": "Bento Gonçalves"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigomsecco",
+      "name": "Rodrigo Mazon Secco",
+      "summary": "Construindo o futuro sustentável de sua Empresa!",
+      "location": "Concórdia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-domingos-82a75aa3",
+      "name": "Daniel Domingos",
+      "summary": "Gerente Corporativo| Horiminas Transportes",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-tonon-kinasz-208034117",
+      "name": "Patricia Tonon Kinasz",
+      "summary": "Coordenadora de Gente e Gestão | Psicóloga | Business Partner | Subsistemas de RH | T&D | Gestão por Competências | R&S",
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-goncalves-4740aa141",
+      "name": "Guilherme Goncalves",
+      "summary": "Head de operações /Supply Chain (Transportation, Distribution & Warehous",
+      "location": "Palmas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-rocha-machado",
+      "name": "Thiago Machado",
+      "summary": "Rodalog Soluções em Logística…•826 followers",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-valadares-2a68b0143",
+      "name": "Thiago Valadares",
+      "summary": "Coordenador de Operações",
+      "location": "Itajaí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alissandra-soares",
+      "name": "Alissandra Soares",
+      "summary": "Conecto pessoas e processos / Especialista em processos de Gente e Gestão /T&D / RS Estratégico / Clima Organizacional / Avaliação de Desempenho / Mapeamento Comportamental / PDI",
+      "location": "Alvorada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-goulart-308947159",
+      "name": "Alessandra Goulart",
+      "summary": "Importação / Controladoria / Logística",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9-medeiros-324198168",
+      "name": "André Medeiros",
+      "summary": "Team Leader no Mercado Livre | Gestão de Operações Logísticas | Liderança de Pessoas e Performance | MBA em Supply Chain Management",
+      "location": "Itajaí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucas-pires-borges-168a1a170",
+      "name": "Lucas Pires Borges",
+      "summary": "Consultoria em Gestão | Planejamento Estratégico | Performance Empresarial | Gestão de Pessoas",
+      "location": "Lages"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-lima-5886b718b",
+      "name": "Patrick Lima",
+      "summary": "Gestão de Operações Logísticas | Planejamento Estratégico | Cadeia de Suprimentos (Supply Chain) | Melhoria Contínua | Análise de Indicadores (KPIs)",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-righi",
+      "name": "Patricia Righi",
+      "summary": null,
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelvin-weslen-3a31361a6",
+      "name": "Kelvin Weslen",
+      "summary": "Supervisor de frota | Rodalog Soluções em Logística e Transporte Ltda",
+      "location": "Rio Grande"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipe-paludo-64b8131a8",
+      "name": "Felipe Paludo",
+      "summary": "Logística na Transportes Bertolini Ltda.",
+      "location": "Bento Gonçalves"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-roberto-neckel-5788a9206",
+      "name": "Paulo Roberto Neckel",
+      "summary": "Analista de Recursos Humanos, com foco em treinamento corporativo.",
+      "location": "Joinville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrews-chaves-4370b821b",
+      "name": "Andrews Chaves",
+      "summary": "Supervisor de Operações",
+      "location": "Guaíba"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/diego-antonio-santos-37208471_estamos-de-casa-nova-activity-6684214341316833280-tdEl",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Diego Antonio Vale dos Santos",
+      "link": "https://br.linkedin.com/in/diego-antonio-vale-dos-santos-a608ab15a",
+      "summary": "Analista Jurídico/ Bancário",
+      "location": "São Paulo, SP"
+    },
+    {
+      "name": "ANTONIO DIEGO DAVID DOS SANTOS",
+      "link": "https://br.linkedin.com/in/antonio-diego-david-dos-santos-192b8882",
+      "summary": "OPERADOR PLENO na SANTO ANTONIO ENERGIA",
+      "location": "Porto Velho, RO"
+    },
+    {
+      "name": "ANTONIO DIEGO DAVID DOS SANTOS",
+      "link": "https://br.linkedin.com/in/antonio-diego-david-dos-santos-9b4740165",
+      "summary": "Eletrotécnico.",
+      "location": "Porto Velho, RO"
+    },
+    {
+      "name": "antonio diego santos",
+      "link": "https://br.linkedin.com/in/antonio-diego-santos-6a60b850",
+      "summary": "Profissional de Bens de consumo",
+      "location": "Belém, PA"
+    },
+    {
+      "name": "Diego Antonio Santos",
+      "link": "https://br.linkedin.com/in/diego-antonio-santos-42a020228",
+      "summary": "--",
+      "location": "Itapetininga, SP"
+    },
+    {
+      "name": "Diego Antônio Santos",
+      "link": "https://br.linkedin.com/in/diego-antônio-santos-575722270",
+      "summary": "Assistente na Padaria Rosa",
+      "location": "Maceió, AL"
+    },
+    {
+      "name": "Diego Antonio Ribeiro dos Santos",
+      "link": "https://br.linkedin.com/in/diego-antonio-ribeiro-dos-santos-9a7282203",
+      "summary": "Analista de Sistemas | Analista de Dados | Qualidade de Dados | Tratamento de dados com Excelência.",
+      "location": "São Paulo, SP"
+    },
+    {
+      "name": "Diego Antonio Santos",
+      "link": "https://br.linkedin.com/in/diego-antonio-santos-447b97278",
+      "summary": "Operador de ETE na Grupo Penha",
+      "location": "Santo Amaro, BA"
+    },
+    {
+      "name": "Diego Antonio Santos",
+      "link": "https://br.linkedin.com/in/diego-antonio-santos-756051194",
+      "summary": "Coordenador de Produção",
+      "location": "Joinville, SC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-24T00:00:00Z"
+  }
+}

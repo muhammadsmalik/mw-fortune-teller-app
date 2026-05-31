@@ -1,0 +1,740 @@
+{
+  "public_identifier": "nico-m-mueller",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/9e665e1c4fbb1230ade6cd1e16ad1200",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C5616AQFREebyPStNvg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1560238935094?e=2147483647&v=beta&t=E3_wH2AoRQ2LVHIs_rFq_1mt4MBGKu5gzZpriDzzkb8",
+  "first_name": "Nico",
+  "last_name": "Benz-Müller",
+  "full_name": "Nico Benz-Müller",
+  "follower_count": 1078,
+  "occupation": "CFO at APG|SGA AG",
+  "headline": "CFO at APG/SGA",
+  "summary": "Passionate and result driven leader with 10 years of experience in international environment and with strong financial background. Entrepreneurial personality combined with hands-on mentality and pragmatism.",
+  "location_str": "Zurich, Switzerland",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Zurich",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "APG|SGA AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apgsga.ch",
+      "company_facebook_profile_url": null,
+      "title": "CFO",
+      "description": null,
+      "location": "Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c1e69433176a685014af4d576b4f20e6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2024
+      },
+      "company": "Acino",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/acino-swiss",
+      "company_facebook_profile_url": null,
+      "title": "Head of Group Finance",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a0c208a819c4bf55b18997ffc2f2b9f5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "KPMG Switzerland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kpmg-switzerland",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": null,
+      "location": "Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cb8d16c911035644f7acfed8b5f6b263"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2020
+      },
+      "company": "Sabbatical",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sabbatical_20",
+      "company_facebook_profile_url": null,
+      "title": "Sabbatical",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Technical Components – Datwyler",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/technical-components-datwyler",
+      "company_facebook_profile_url": null,
+      "title": "Head of Business Insights and Acquisition",
+      "description": null,
+      "location": "Nänikon",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6bee806454be3718527e5a17df575c00"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      },
+      "company": "Nedis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nedisbv",
+      "company_facebook_profile_url": null,
+      "title": "Interim CEO",
+      "description": null,
+      "location": "'s-Hertogenbosch",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/02eb13c7a1aeb82df20443f1d2462099"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Distrelec",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/distrelec-distrelec-schuricht-and-elfa-distrelec_",
+      "company_facebook_profile_url": null,
+      "title": "Head of Business Controlling",
+      "description": "Member of Distrelec Group Leadership team\nResponsible for Business Controlling and Finance Controlling\nTeam of 4 responsible for: \nMonthly reporting\nFunctional analysis and reporting\nBudgeting \nStrategic planning\nWeb analytics",
+      "location": "Nänikon",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecac8271804b591b81d151d68abba034"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Technical Components – Datwyler",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/technical-components-datwyler",
+      "company_facebook_profile_url": null,
+      "title": "Financial Controller / Business Analyst",
+      "description": "Financial controlling\nMonthly closing of Technical components division\nProjects (VAT, Merger of Group entities)\nCentralization of Finance function into a Shared Service Center",
+      "location": "Nänikon",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6bee806454be3718527e5a17df575c00"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2014
+      },
+      "company": "KPMG Switzerland",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Assistant Manager",
+      "description": "Audit Industries\nGroup audit\nAudit of internal control systems\nAgreed upon procedures",
+      "location": "Zürich und Umgebung, Schweiz",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2007
+      },
+      "company": "OLZ & Partners Asset and Liability Management LTD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Consultant",
+      "description": "Risk Management\nCorporate Finance\nSet up Accounting for a debt collection company",
+      "location": "Murten",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "BWL / VWL (Business Administration,  Economics)",
+      "degree_name": "Lic.rer.pol / Master in Business Administration and Economics",
+      "school": "Universität Bern",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-bern",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb4080d1d6eb408882b2fa8611c448de",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": null,
+      "degree_name": "Chartered Financial Analyst",
+      "school": "CFA Institute",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cfa-institute-usa",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": null,
+      "degree_name": "Dipl. Wirtschaftsprüfer / Swiss CPA",
+      "school": "EXPERTsuisse",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/expertsuisse",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e58dea2bc23c67d533c728c8872dba2a",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "BWL / VWL (Business Administration,  Economics)",
+      "degree_name": "Lic.rer.pol / Master in Business Administration and Economics",
+      "school": "University of Bern",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-bern",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/annikaferacioli",
+      "name": "Annika Feracioli",
+      "summary": "International tax",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niklaushaas",
+      "name": "Niklaus Haas",
+      "summary": "Associate Director | Strategy & Business Development",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudius-rueegsegger-8b508371",
+      "name": "Claudius Rueegsegger",
+      "summary": null,
+      "location": "Hua Hin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-zuerrer",
+      "name": "David Zürrer",
+      "summary": "Partner at Oaklins Switzerland",
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-buffet",
+      "name": "Daniel Buffet",
+      "summary": "IT Manager, Project Manager, Business Analyst",
+      "location": "Oberrieden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilce-vega-law",
+      "name": "Emilce Vega",
+      "summary": "Board Member | Seasoned Cross-Border Transactional Lawyer |  \nDriving Growth through Strategic Partnerships",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-truessel-headhunter",
+      "name": "Paul Trüssel",
+      "summary": "Director Executive Search @ Kienbaum AG | Suche und Auswahl von Fach- und Führungskräften | international.kienbaum.com/switzerland",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samanthaschermer",
+      "name": "Samantha Schermer",
+      "summary": "Commercial Controlling Analyst at Acino",
+      "location": "Wil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-ettlin-cfa-a2164194",
+      "name": "Daniel Ettlin, CFA",
+      "summary": "Director at Strategy&",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-birger-steinmeier-70968299",
+      "name": "Dr. Birger Steinmeier",
+      "summary": "Partner bei Strategy&, part of the PwC network",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-philippe-w%25C3%25BCst-4015261b",
+      "name": "Dr. Philippe Wüst",
+      "summary": "Head Group Finance and Deputy Group CFO bei VP Bank AG",
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andybird3003",
+      "name": "Andrew Bird",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-naumann-z%25C3%25BCrich",
+      "name": "Frank Naumann",
+      "summary": "Executive Director | CEO | Unternehmensberater | Projektleiter | Business Analyst | Tennistrainer | Animateur",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-sorokin-02a3701",
+      "name": "Max Sorokin",
+      "summary": "Chief Financial Officer, Remedica",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-asif-aca-icaew-fca-icap-8455a413",
+      "name": "Muhammad Asif, ACA (ICAEW),FCA (ICAP)",
+      "summary": "C-Suite Finance & General Management Leader | Driving Strategy, Performance & Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-galimberti-35344b18",
+      "name": "Laura Galimberti",
+      "summary": "Vice President in Healthcare | Global Strategy | Transformation | Commercial Excellence | Leadership",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/achimschwichtenberg",
+      "name": "Achim Schwichtenberg",
+      "summary": "The COO who built the tool he always needed · Founder AskAchim · Growth Partner vonPeach · Supply Chain Intelligence · 418 Vendors · 32 Countries · Executive Mentor",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-philippe-w%25C3%25BCst",
+      "name": "Dr. Philippe Wüst",
+      "summary": "Group CFO I Capital Market I M&A I Technology & Digitalisation I Transformation I Stakeholder Management",
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefano-di-biase-67762b20",
+      "name": "Stefano Di Biase",
+      "summary": "Vice President - Value Creation",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christoph-knoblinger-01035027",
+      "name": "Christoph Knoblinger",
+      "summary": "Industrial Value Creation & Transformation Leader | Industrials & B2B Services | Private Equity & Owner Mindset",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-weber-a1a47532",
+      "name": "Daniel Weber",
+      "summary": "Freiberuflich•385 followers",
+      "location": "Rapperswil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saad-mammo-cfa-cpa-ca-b6201734",
+      "name": "Saad Mammo, CFA, CPA, CA",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juergen-klingenstein-5a38564a",
+      "name": "Juergen Klingenstein",
+      "summary": "Retired: Enjoying an active life, exploring new challenges, sharing knowledge and experience",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-moreno-de-liche-cfa-74950952",
+      "name": "Daniel Moreno de Liche, CFA",
+      "summary": "MDSA, Chief of Staff to the COO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hanspeter-ischi-86a72962",
+      "name": "Hanspeter Ischi",
+      "summary": "Director at Ischi Consulting GmbH",
+      "location": "Bern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-lachenmeier-2114a167",
+      "name": "Florian Lachenmeier",
+      "summary": "CFO CFG, Member of the Executive Committee",
+      "location": "Zollikon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katarina-kurtin-aa957870",
+      "name": "Katarina Kurtin",
+      "summary": "Director bei KPMG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudius-r%25C3%25BCegsegger-8b508371",
+      "name": "Claudius Rüegsegger",
+      "summary": "Director bei KPMG",
+      "location": "Wollerau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yves-bohren-29734975",
+      "name": "Yves Bohren",
+      "summary": null,
+      "location": "Kleinandelfingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-borrelli",
+      "name": "Luca Borrelli",
+      "summary": "PwC Switzerland•2K followers",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-veit-32598881",
+      "name": "David Veit",
+      "summary": "Executive Director UHNW Switzerland",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniela-st%25C3%25BCssi-d%25C3%25BCblin-ba569498",
+      "name": "Daniela Stüssi (Düblin)",
+      "summary": "Advising for impact - working with clients and advisors on the path to sustainability",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-manders-avanzini-9123a7b6",
+      "name": "Claire Manders Avanzini",
+      "summary": null,
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claude-bolliger-466126b9",
+      "name": "Claude Bolliger",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-biland",
+      "name": "Stefan Biland",
+      "summary": "dipl. Wirtschaftsprüfer",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sibylle-graf-6bb1681a3",
+      "name": "Sibylle Graf",
+      "summary": "Head of Out-Licensing bei Acino International AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasmin-bruder-6b0917201",
+      "name": "Jasmin Bruder",
+      "summary": null,
+      "location": "Küttigen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andriyana-tsvetkova-49a480208",
+      "name": "Andriyana Grbevski",
+      "summary": "MSc in Real Estate @HSLU",
+      "location": "Zurich"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Imagine being friends with Steve Jobs before he launched the Macintosh or meeting Albert Einstein before he formulated the theory of…",
+      "link": "https://www.linkedin.com/posts/juan-carlos-moreno-a9024b6_imagine-being-friends-with-steve-jobs-before-activity-7303777449023008769-Mlia",
+      "activity_status": null
+    },
+    {
+      "title": "I'm sooo excited to finally announce what we've been working on for the past few months. 🤩 The launch of the \"AI Local Guides project\"! (Link to…",
+      "link": "https://www.linkedin.com/posts/darius-barmettler-0b97838b_im-sooo-excited-to-finally-announce-what-activity-7295801851256467458-vBb7",
+      "activity_status": null
+    },
+    {
+      "title": "It’s about time I finally find my voice and start speaking up - and posting. About what? Well, I’ve been up to a lot of things and building my…",
+      "link": "https://www.linkedin.com/posts/nadine-hunkeler_finance-switzerland-retirementplanning-activity-7297196836929298432-mIR-",
+      "activity_status": null
+    },
+    {
+      "title": "Goldene Zeiten für die APG|SGA AG ✨ 🟡 Die APG|SGA AG|SGA feiert 2025 ein bemerkenswertes Jubiläum: 125 Jahre prägende Geschichte und…",
+      "link": "https://de.linkedin.com/posts/ooh-medien_goldene-zeiten-für-die-apgsga-ag-activity-7298328143298244608-77cM",
+      "activity_status": null
+    },
+    {
+      "title": "Siegfried continued its profitable growth journey in 2024. Our strong underlying business with above-market growth has more than offset the phasing…",
+      "link": "https://www.linkedin.com/posts/reto-suter_siegfried-reports-continued-profitable-growth-activity-7298021292283170816-hbaL",
+      "activity_status": null
+    },
+    {
+      "title": "𝐋𝐢𝐝𝐥 𝐒𝐜𝐡𝐰𝐞𝐢𝐳 ü𝐛𝐞𝐫𝐳𝐞𝐮𝐠𝐭 𝐦𝐢𝐭 𝐤𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐫 𝐖𝐞𝐢𝐡𝐧𝐚𝐜𝐡𝐭𝐬𝐤𝐚𝐦𝐩𝐚𝐠𝐧𝐞! 🎄🏆 Unsere Kampagne «Magische…",
+      "link": "https://de.linkedin.com/posts/lidl-schweiz_teamlidl-apgsga-teamlidl-activity-7292859551375130624-g4jR",
+      "activity_status": null
+    },
+    {
+      "title": "Schweizer Premiere Wir sind stolz darauf, in der vergangenen Woche eine «Schweizer Premiere» durchgeführt zu haben. In der Berner Hirslanden-Klinik…",
+      "link": "https://de.linkedin.com/posts/viscera-ag_schweizer-premiere-wir-sind-stolz-darauf-activity-7292545869554352129-qxEl",
+      "activity_status": null
+    },
+    {
+      "title": "Transformation is human. Business transformation starts with the change in people. When we put the individuals and the change in people first, there…",
+      "link": "https://www.linkedin.com/posts/andreeastanescu-change_transformationtalks-shiftdialogues-businesstransformation-activity-7283375010377785344-G6s1",
+      "activity_status": null
+    },
+    {
+      "title": "Back from #Davos where I had the pleasure to be part of the amazing FGS Global WEF Team, supporting our clients on the ground and hosting several…",
+      "link": "https://www.linkedin.com/posts/maya-kunz-bb045457_davos-wef2025-activity-7288548160770043905-3zdY",
+      "activity_status": null
+    },
+    {
+      "title": "Great colleagues and great conversations inspire and motivate me every day - cheers Michael Sutter",
+      "link": "https://www.linkedin.com/posts/dciaravolo_great-colleagues-and-great-conversations-activity-7288088108447715329-6g6J",
+      "activity_status": null
+    },
+    {
+      "title": "Keine 5 Jahre nach dem Nein zur Konzernverantwortungsinitiative kommt nun die zweite Auflage. Obwohl der Gegenvorschlag erst seit 3 Jahren in Kraft…",
+      "link": "https://de.linkedin.com/posts/yannickberner_keine-5-jahre-nach-dem-nein-zur-konzernverantwortungsinitiative-activity-7282448407539900416-bw2G",
+      "activity_status": null
+    },
+    {
+      "title": "In diesem Whitepaper erfahren Sie: ✅ warum die digitale Transformation wichtig ist ✅ welche strategischen Vorteile Sie sich sichern können ✅…",
+      "link": "https://de.linkedin.com/posts/floqast_floqast-accounting-workflow-and-close-management-activity-7137495980530167808-GkwJ",
+      "activity_status": null
+    },
+    {
+      "title": "Zum 100-Jahr-Jubiläum lancieren wir ein weiteres Highlight: die Merci Box-Sammelaktion. 🎉 MERCI an alle treuen Kundinnen und Kunden, die an…",
+      "link": "https://de.linkedin.com/posts/remymueller_zum-100-jahr-jubiläum-lancieren-wir-ein-weiteres-activity-7284838729381285888-hECs",
+      "activity_status": null
+    },
+    {
+      "title": "Vom schönsten Flughafen der Schweiz zur schönsten Zugfahrt (wenn ihr mich fragt) der Schweiz. Eine tolle Kampagne des Bernina Express die…",
+      "link": "https://de.linkedin.com/posts/aaroneichhorn_outofhome-airportadvertising-activity-7274375963398881281-Ch4D",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to start the year at JPM in San Francisco. After skiing and relaxing in the Swiss mountains, I'm energized for a new year in Pharma and Life…",
+      "link": "https://www.linkedin.com/posts/luca-borrelli_pwc-pwcdeals-m-activity-7283211381389070338-z6Mu",
+      "activity_status": null
+    },
+    {
+      "title": "OOHA! Außenwerbung wächst gegen den Trend. Das hat natürlich das Wirtschaftsmagazin trend auf den Plan gerufen, um beim Marktführer Gewista…",
+      "link": "https://de.linkedin.com/posts/franzsolta_ooh-dooh-data-activity-7282798944802267136-mnnu",
+      "activity_status": null
+    },
+    {
+      "title": "Vor einem Monat haben wir Pro-Plakat lanciert! 💪 Gemeinsam mit Michelle Katja Sameli und Goldbach Neo OOH AG setzen wir uns dafür ein, dass das…",
+      "link": "https://de.linkedin.com/posts/pro-plakat_proplakat-proplakat-werbung-activity-7384954854219091968-n8ov",
+      "activity_status": null
+    },
+    {
+      "title": "Wir blicken zurück auf einen Abend voller Filmkunst und tollen Gesprächen. Bühne frei für die KPMG Movie Night 2025!  ✨ Die KPMG Movie Night im…",
+      "link": "https://de.linkedin.com/posts/franziska-hofmann-609086ba_kpmgzff-movienight-stiller-activity-7384520115427659776-tQeO",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 New Chapter 🌟 I’m excited to share that I’ve taken on additionally the role of Head of the Regional Market Zurich at KPMG Switzerland. Over…",
+      "link": "https://www.linkedin.com/posts/martin-stevka-337396_leadership-zurich-regionalmarket-activity-7380511844932931584-VyxX",
+      "activity_status": null
+    },
+    {
+      "title": "14 von 17 Studierenden sind bis zum Schluss geblieben – eine solide Bilanz für einen Mittwochnachmittag 😉! Gestern durften wir eine Gastvorlesung…",
+      "link": "https://de.linkedin.com/posts/mario-köpfli-1b426a_zhaw-wissenteilen-zukunftgestalten-activity-7379403263613222912-obCY",
+      "activity_status": null
+    },
+    {
+      "title": "Gemeinnützige Organisationen erhalten über Plakatfirmen kostenlose Visibilität. Ohne diese Möglichkeit verlieren NGOs eine wichtige Stimme. Deswegen…",
+      "link": "https://de.linkedin.com/posts/pro-plakat_proplakat-activity-7375894128955461632-YaRD",
+      "activity_status": null
+    },
+    {
+      "title": "Mit einem Plakatwerbeverbot würde der Stadtzürcher Schuldenberg nochmals um 28 Millionen Franken wachsen - Jahr für Jahr. 👇…",
+      "link": "https://de.linkedin.com/posts/pro-plakat_zürich-stadtrat-warnt-vor-wachsendem-schuldenberg-activity-7376518261217132544-yiKI",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome to EASD 2025! Take a look inside the Omnipod booth with Nuray Misteli, our VP & General Manager for the DACH region at Insulet. This week we…",
+      "link": "https://www.linkedin.com/posts/omnipod-for-hcps-europe_omnipod5-diabetes-t1d-activity-7373700979424272384-zLPQ",
+      "activity_status": null
+    },
+    {
+      "title": "Today is the first day of a new beginning! Moving to the French part of Switzerland and staring a new adventure in Becton Dickinson as Head of…",
+      "link": "https://www.linkedin.com/posts/laura-galimberti-35344b18_today-is-the-first-day-of-a-new-beginning-activity-7373284290689851392-j9QN",
+      "activity_status": null
+    },
+    {
+      "title": "Heute durften wir ein ganz besonderes Erfolgserlebnis feiern: Die erste Person, von der wir Kenntnis haben, hat ihren neuen Arbeitsvertrag…",
+      "link": "https://de.linkedin.com/posts/jean-paul-saija-38187767_plenio-activity-7364676940613451777-zhIM",
+      "activity_status": null
+    },
+    {
+      "title": "Heute musste ich als CCO des FC Basel eine schwierige Mail an 128 FCB-Fans schreiben. Darin musste ich mitteilen, dass mir und meinem Team im…",
+      "link": "https://de.linkedin.com/posts/jean-paul-saija-38187767_heute-musste-ich-als-cco-des-fc-basel-eine-activity-7371928489408581632-2tL7",
+      "activity_status": null
+    },
+    {
+      "title": "𝐃𝐚𝐬 𝐏𝐥𝐚𝐤𝐚𝐭 𝐯𝐞𝐫𝐛𝐢𝐞𝐭𝐞𝐧 𝐳𝐮 𝐰𝐨𝐥𝐥𝐞𝐧 𝐢𝐬𝐭 𝐮𝐧𝐝𝐞𝐦𝐨𝐤𝐫𝐚𝐭𝐢𝐬𝐜𝐡 📢 Heute haben wir als Goldbach Neo OOH AG gemeinsam…",
+      "link": "https://de.linkedin.com/posts/𝐃𝐚𝐬-𝐏𝐥𝐚𝐤𝐚𝐭-𝐯𝐞𝐫𝐛𝐢𝐞𝐭𝐞𝐧-𝐳-activity-7371606257193095168-xKaP",
+      "activity_status": null
+    },
+    {
+      "title": "Medicines for Europe is thrilled to start 2026 with a special announcement: Steffen Saltofte, CEO of Zentiva, will serve as our new President. With…",
+      "link": "https://www.linkedin.com/posts/medicines-for-europe_medicines-for-europe-is-thrilled-to-start-activity-7414624842617872385-9dP2",
+      "activity_status": null
+    },
+    {
+      "title": "I am delighted to share that I have been appointed as President of Medicines for Europe for the period 2026-2028. My thanks goes to the members who…",
+      "link": "https://www.linkedin.com/posts/steffensaltofte_i-am-delighted-to-share-that-i-have-been-activity-7414708403467395072-EPwe",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Nico Mueller",
+      "link": "https://de.linkedin.com/in/nico-mueller-4157522",
+      "summary": "-",
+      "location": "Erlangen"
+    },
+    {
+      "name": "Nico Mueller",
+      "link": "https://de.linkedin.com/in/nico-mueller-41435279",
+      "summary": "Sr. Business Analyst at Amazon, Payments Business Operations",
+      "location": "Regensburg"
+    },
+    {
+      "name": "Nico Mueller",
+      "link": "https://ch.linkedin.com/in/nico-mueller-a930155b",
+      "summary": "official AUDI works driver & racing in Formula E for Dragon Penske Autosport",
+      "location": "Bern"
+    },
+    {
+      "name": "Nico Mueller",
+      "link": "https://de.linkedin.com/in/nico-mueller-061079aa",
+      "summary": "Senior IT Architect at BCG Platinion",
+      "location": "Berlin"
+    },
+    {
+      "name": "Nico Müller",
+      "link": "https://de.linkedin.com/in/nico-mueller",
+      "summary": "Product Manager Truck mixers & Conveyors bei Liebherr Group",
+      "location": "Ulm"
+    },
+    {
+      "name": "Nico Mueller",
+      "link": "https://de.linkedin.com/in/nico-mueller-55ba37100",
+      "summary": "Informationssicherheit (ISO 27001), VDA-ISA TiSAX und Datenschutz bei PeriCo Solutions GmbH",
+      "location": "Chemnitz und Umgebung"
+    },
+    {
+      "name": "Nico Mueller",
+      "link": "https://de.linkedin.com/in/nico-mueller-514182113",
+      "summary": null,
+      "location": "Munich"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-07T00:00:00Z"
+  }
+}

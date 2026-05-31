@@ -1,0 +1,942 @@
+{
+  "public_identifier": "daranasr",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/75f1d085d391c82227e4458656c2b7b7",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D5616AQEKcmxYGVkCsg/profile-displaybackgroundimage-shrink_200_800/B56Z38pnJ3KcAU-/0/1778060260644?e=2147483647&v=beta&t=Q7An0Ti09U4uHogz-W6rrL2Bf8tJuEUBKLk3J1ZNTpU",
+  "first_name": "Dara",
+  "last_name": "Nasr",
+  "full_name": "Dara Nasr",
+  "follower_count": 5647,
+  "occupation": "Managing Director, Commercial Outdoor at Global",
+  "headline": "Managing Director/NED",
+  "summary": null,
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director, Commercial Outdoor",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "SILVER BULLET DATA SERVICES LIMITED",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/silver-bullet-data-services-limited",
+      "company_facebook_profile_url": null,
+      "title": "Non Executive Director",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2026
+      },
+      "company": "DAZN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dazn",
+      "company_facebook_profile_url": null,
+      "title": "Strategic Consultant",
+      "description": null,
+      "location": "London",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d77ec181ae6f781feaece67a379c7130"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "WeTransfer",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wetransfer",
+      "company_facebook_profile_url": null,
+      "title": "Vice President of Global Sales",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fc4b5394be7e64e633baff4f5ee28004"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "company": "Twitter",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/twitter",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director Twitter UK",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/113564a870a3f4609758a91c041f32d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Twitter",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/twitter",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/113564a870a3f4609758a91c041f32d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2014
+      },
+      "company": "Twitter",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/twitter",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales, UK",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/113564a870a3f4609758a91c041f32d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+      "company_facebook_profile_url": null,
+      "title": "Head - YouTube & Display",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57ef9922f8484ada3bd6001d1c68afa1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2010
+      },
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+      "company_facebook_profile_url": null,
+      "title": "Senior Industry Manager",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57ef9922f8484ada3bd6001d1c68afa1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2007
+      },
+      "company": "Eurosport",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eurosport",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/231cf54069913a4f76bc76d3ff2d3fa3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2005
+      },
+      "company": "IDS",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group Head",
+      "description": null,
+      "location": "United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Law",
+      "degree_name": "LPC",
+      "school": "The College Of Law",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Law",
+      "degree_name": "LLB (Hons)",
+      "school": "University of London",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-london",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e52c3756354f16f9128c1cb67024b82d",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "London Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/london-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4f8225ebaa70b43c6dd4b98e2e489163",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 5307,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/demiabiola",
+      "name": "Demi Abiola",
+      "summary": "Campaign 40 over 40| Founder I Keynote Speaker I Mentor I Diversity Champion I  Consultant I The Marketing academy alumni 2021 |  DJ",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/crystaleisinger",
+      "name": "Crystal Eisinger",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wbonaddio",
+      "name": "Will Bonaddio",
+      "summary": "CMO at August - the UK’s next tech unicorn 🦄",
+      "location": "Newbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marieouttier",
+      "name": "Marie Outtier",
+      "summary": "Optimist. Entrepreneur. Tech Investor (AI first startups). Prev: Co-founder & CEO Aiden.ai (acquired by Twitter).",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yongranglee",
+      "name": "Yongrang Lee",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinosaw",
+      "name": "Dino Myers-Lamptey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niamhspelledthatway",
+      "name": "Niamh OReilly",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabeth-buna",
+      "name": "Elizabeth Anyaegbuna",
+      "summary": "Advertising Media Exec | 16x9media Co-Founder | Campaign 40 Over 40 '24 | Join Our Table Co-Founder | Bloom UK '23/24 President | Bloom in Colour Co-Founder | MEFA, WACL, CAN Board | Speaker, DEI Advocate | IPA iList '24",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/debarshi",
+      "name": "Debarshi Pandit",
+      "summary": "Commercial leader / Cultural Anthropologist / Board advisor on Inclusion in generating incremental revenue",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjaminampen",
+      "name": "Benjamin Ampen",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ariasrinivasan",
+      "name": "Aria Srinivasan",
+      "summary": "Product @ Stripe",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-firth",
+      "name": "Natalie Fisher-Brown (Firth)",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dangee1",
+      "name": "Dan Gee",
+      "summary": "Paid media expertise | Building Media Futures Market",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mihirhariashah",
+      "name": "Mihir Haria-Shah",
+      "summary": "Commercial Leader at Channel 4 | Winner of Mediaweek Awards Rising Star of the Year (agency) 2019 | Media 30 Under 30 2019 | European Video Awards Rising Star 2022 | Marketing Academy Scholar 2022 | MEFA Mentor | Trustee",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophietrinder",
+      "name": "Sophie Trinder",
+      "summary": "Head of Brand Strategy UK at Twitter",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brandbycollette",
+      "name": "Collette Philip",
+      "summary": "Award-winning, anti-racist brand consultancy | IPA iList 2024 | Chair of Trustees",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheziqbal",
+      "name": "Shez Iqbal",
+      "summary": null,
+      "location": "South Croydon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolamendelsohn1",
+      "name": "Nicola Mendelsohn CBE",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelmaslona",
+      "name": "Michael Maslona",
+      "summary": "DAC - a global media buying agency that specialises in search & local optimisation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brucedaisley",
+      "name": "Bruce Daisley",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rbthudson",
+      "name": "Robert Hudson",
+      "summary": "Head of Agency Sales, Group M at Mail Metro Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulcarolan",
+      "name": "Paul Carolan",
+      "summary": null,
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fiammazarife",
+      "name": "Fiamma Zarife",
+      "summary": "Managing Director at Twitter",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/programmaticsales",
+      "name": "Neil Robinson",
+      "summary": "Programmatic Sales Manager at StackAdapt",
+      "location": "Weybridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avassilev1",
+      "name": "Alexandar Vassilev",
+      "summary": "CEO at WeTransfer",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/drwilding",
+      "name": "David Wilding",
+      "summary": "Strategist. Former Director of Planning at Twitter UK.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danbmcnamara",
+      "name": "Dan McNamara",
+      "summary": "Business Director at Freestyle | Digital Experience Expert | Optimizely Gold Partner",
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevewing",
+      "name": "Steve Wing",
+      "summary": "Retired•3K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leegibson1",
+      "name": "Lee Gibson",
+      "summary": "EMEA Advertising @WeTransfer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-fisher-brown",
+      "name": "Natalie Fisher-Brown",
+      "summary": "RVP EMEA OpenX | Buyer Development | Media & Advertising Leader | Mentor | Speaker",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clairevaloti",
+      "name": "Claire Valoti",
+      "summary": "Tech Executive | Founding Partner at Haylo | Non-Executive Director & Angel Investor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattjbush",
+      "name": "Matt Bush",
+      "summary": "SVP Global Agency Partnerships, SVP EMEA Revenue | ex-Google | Trustee and Board member",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beritblock",
+      "name": "Berit Block",
+      "summary": "Global Marketing Director at WeTransfer | Marketing Academy 2020 Alumni | ex-Meta",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielmartindj",
+      "name": "Daniel Martin",
+      "summary": "CCO at Papirfly",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/socialheather",
+      "name": "Heather B.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samlljones",
+      "name": "Sam Jones",
+      "summary": "Managing Director at Clothes2order",
+      "location": "Trafford Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebeccawelley",
+      "name": "Rebecca Welley",
+      "summary": "EMEA Event Marketing Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-vigebo-46596569",
+      "name": "Alexander Vigebo",
+      "summary": "Ad Sales, Marketing & Tech",
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kstacey",
+      "name": "Karen Stacey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fpaderni",
+      "name": "Federico Paderni",
+      "summary": null,
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gianluca-gl-ena-85187128",
+      "name": "Gianluca (GL) Ena",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/williamsfelicia",
+      "name": "Felicia Williams",
+      "summary": "Design Director at Google",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markevans-",
+      "name": "Mark Evans",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-marker-3097593",
+      "name": "Claire Marker",
+      "summary": "Chief Experience Officer at Manning Gottlieb OMD",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-couchman-0389b13",
+      "name": "Ed Couchman",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-davies-229a883",
+      "name": "Victoria Davies",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-leborgne",
+      "name": "Lee LeBorgne",
+      "summary": "Head of Video Sales",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/westowen",
+      "name": "Owen West",
+      "summary": "Fusion Applications Account Executive @ Oracle",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annette-el-khoury-a569254",
+      "name": "Annette El Khoury",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allison-chiaramonte",
+      "name": "Allison Chiaramonte",
+      "summary": "Co-Founder, The ATelier Team at Compass | NYC Luxury Specialist | $150M+ in 2024 | Top 0.5% Nationwide | Stylish, Strategic & Savvy | Native New Yorker & Mom | Featured in WSJ, NYT, Forbes | @allilovesnyc",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuart-flint-848b375",
+      "name": "Stuart Flint",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ross-macdonald-0595a66",
+      "name": "Ross MacDonald",
+      "summary": "Senior Client Partner 🎬 -  Media & Entertainment \n@ Reddit | ex. Twitter, Disney",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-campbell-3525377",
+      "name": "Anna Campbell",
+      "summary": "Global MD & Client President at Carat",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-turner-b747287",
+      "name": "Ed Turner",
+      "summary": "SVP @ VaynerMedia",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robverheul",
+      "name": "Rob Verheul",
+      "summary": "CEO at Graphite Digital - The Health and Pharma Digital Experience Agency",
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eimear-lambe-364b567",
+      "name": "Eimear Lambe",
+      "summary": "Head of Brand Strategy, ServiceNow",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felicity-long-930396b",
+      "name": "felicity long",
+      "summary": "Partner @ Bain & Company | IPA Woman of Tomorrow",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/theo-luke-2a68ba10",
+      "name": "Theo Luke",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cassy-toomey-42105713",
+      "name": "Cassy Toomey",
+      "summary": "Connecting People-Ex AOL/ Ex Yahoo/ Ex Amazon",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-emmerson-07ba3814",
+      "name": "Louise Emmerson",
+      "summary": "SVP Global Sales - DAZN",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-camp-1463b515",
+      "name": "Natasha Camp",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayrajdev",
+      "name": "Jayesh Rajdev",
+      "summary": "New role imminent",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-bailes-9a47b116",
+      "name": "Chris Bailes",
+      "summary": "Microsoft AI•4K followers",
+      "location": "Buckhurst Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-chalcraft-a46b7116",
+      "name": "Ben Chalcraft",
+      "summary": "Experienced Leader in Technology | Diversity & Inclusion Champion | Business Strategist | Sustainability | Net Zero Carbon",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-collard",
+      "name": "Neil Collard",
+      "summary": null,
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-mele-67a38519",
+      "name": "Peter Mele",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/audienceobsessed",
+      "name": "Neil Robinson",
+      "summary": "StackAdapt•7K followers",
+      "location": "Weybridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-gilbody-00810b22",
+      "name": "Chris Gilbody",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-mchenry-03426027",
+      "name": "Lucy McHenry",
+      "summary": "Director, EMEA Brand Partnerships at Zefr",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paragagr",
+      "name": "Parag Agrawal",
+      "summary": "Founder at Parallel. Previously, CEO/CTO at Twitter.",
+      "location": "Palo Alto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-mills-57914632",
+      "name": "Hannah Mills",
+      "summary": "Client Partner Apple News UK",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-robinson-25a16935",
+      "name": "Chris Robinson",
+      "summary": "Managing Director at Adtrak",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samairah-maqsood-9a465335",
+      "name": "Samairah Maqsood",
+      "summary": "Group Sales Director | Commercial GTM Leader | Scaling Teams, Strategy & Culture",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzy-ryder-371ab938",
+      "name": "Suzy Ryder",
+      "summary": "CEO at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-hankinson-94651641",
+      "name": "Stephen Hankinson",
+      "summary": "Managing Director at Ignition Group | Go Home Direct | Ecostrad | Zapper Media",
+      "location": "Killinghall"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shalom-michaeli",
+      "name": "Shalom Michaeli",
+      "summary": "MD | Ex-Fyber/DT ($250M ARR UK hub) | Monetization & Alternative App Ecosystems",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaun-brown-7875985b",
+      "name": "Shaun Brown",
+      "summary": "UK Agency Lead, Amazon Ads",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruben-burton-2512b16a",
+      "name": "Ruben Burton",
+      "summary": null,
+      "location": "Salfords"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmin-ibrahim-37b14170",
+      "name": "Yasmin Ibrahim",
+      "summary": "Dean (Acting), School of Business and Management, Professor of Digital Economy and Culture, Queen Mary, University of London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/r-f-p-6b652395",
+      "name": "Ryan Fraser Pearce",
+      "summary": "Head of Talent @Kittl",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beau-jackson-067525105",
+      "name": "Beau Jackson",
+      "summary": "Media editor at Campaign UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zehra-chatoo-8b226611b",
+      "name": "Zehra Chatoo",
+      "summary": "Founder at Code For Good Now I Keynote Speaker | Board Director UN Women UK | Campaign 40 over 40",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frederic-v",
+      "name": "Frederic V.",
+      "summary": "Operations Manager at FATTON",
+      "location": "New York"
+    }
+  ],
+  "recommendations": [
+    "Annette El Khoury\n\nDara, Is a surprising character. He combines humour with very hard work and is quick at coming up with a solution. He is dedicated to his work and has strong relationships with his peers.\r\nAnnette"
+  ],
+  "activities": [
+    {
+      "title": "This April, approaching my mid 50's, I will be undertaking my first attempt at the London Marathon. This may prove to be reckless, brave, ambitious…",
+      "link": "https://www.linkedin.com/posts/philiphmiles_this-april-approaching-my-mid-50s-i-will-activity-7414320519455653888-6UHY",
+      "activity_status": null
+    },
+    {
+      "title": "I’m grateful and touched to be awarded a CBE in the King’s New Year’s Honours, for services to technology and digital skills. There are so very many…",
+      "link": "https://www.linkedin.com/posts/matt-brittin-cbe-5aa6391_im-grateful-and-touched-to-be-awarded-a-activity-7412620632045150208-zzYW",
+      "activity_status": null
+    },
+    {
+      "title": "Everything about this event next week at Channel 4 will be brilliant with the exception of one small detail - I've been asked to host it. And I'm…",
+      "link": "https://www.linkedin.com/posts/drwilding_blanketyblank-activity-7395066539718332416-3UqN",
+      "activity_status": null
+    },
+    {
+      "title": "Relationships matter – sounds pretty simple, right? But so many people underestimate that superpower in business. Business can be, and often is…",
+      "link": "https://www.linkedin.com/posts/marcusorme_relationshipsmatter-partnersforgrowth-activity-7395121024800956416-WK-U",
+      "activity_status": null
+    },
+    {
+      "title": "💬 \"Unless you find another big job, you'll need to step back from membership.\" That's what the prestigious members' club told me. The same club I…",
+      "link": "https://www.linkedin.com/posts/nishmapatelrobb_unless-you-find-another-big-job-youll-activity-7352654108186529792-X2FB",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Delighted to share some personal news and my next chapter 🚀 I’m joining PMG  as President, EMEA — at a time of great momentum, as the company…",
+      "link": "https://www.linkedin.com/posts/josh-krichefski-6828425_delighted-to-share-some-personal-news-and-activity-7384185276123779072-we2W",
+      "activity_status": null
+    },
+    {
+      "title": "I’m just a boy, sitting in front of a Media Agency of the Year award, asking it if it would like a hash brown. #AgencyoftheYear",
+      "link": "https://www.linkedin.com/posts/euan-hudghton-59464b13_agencyoftheyear-activity-7384875900816789504-UpBj",
+      "activity_status": null
+    },
+    {
+      "title": "След осем години в Google Alex Vassilev израства като лидера, който води технологични компании като Joyn GmbH и WeTransfer към растеж. В Sport…",
+      "link": "https://www.linkedin.com/posts/forbesbulgaria_forbesbulgaria-business-activity-7381621948746981376-L-4M",
+      "activity_status": null
+    },
+    {
+      "title": "3 years ago today I started my job back at the Guardian. It was the day of the Queen’s funeral and I was almost the only person in the office. These…",
+      "link": "https://www.linkedin.com/posts/anna-bateson-2762638_3-years-ago-today-i-started-my-job-back-at-activity-7374837422427369473-1z1F",
+      "activity_status": null
+    },
+    {
+      "title": "✨ An exciting new chapter at The Up Group… After almost 18 incredible years under Clare Johnston/Turner’s leadership, Up is moving into a new…",
+      "link": "https://www.linkedin.com/posts/jamesburrows_an-exciting-new-chapter-at-the-up-group-activity-7374706905795162112-yRfB",
+      "activity_status": null
+    },
+    {
+      "title": "Turns out I’ve been shortlisted for Agency Media Leader of the Year at Campaign UK’s Media Week Awards... I know - I double-checked it wasn’t a…",
+      "link": "https://www.linkedin.com/posts/marcusorme_oneteam-growthjourney-medialabgroup-activity-7368590347196661760-7pAt",
+      "activity_status": null
+    },
+    {
+      "title": "Big news. Bold leap. The news is out! After an incredible journey at Meta, leading strategy and planning, building frameworks to minimise bias in AI,…",
+      "link": "https://www.linkedin.com/posts/zehrachatoo_codeforgoodnow-repiq-representationmatters-activity-7359222856016138240-PiAY",
+      "activity_status": null
+    },
+    {
+      "title": "As Gary Barlow said in the 1996 press conference, ‘the rumours are true’. After 25 years , I’m leaving Channel 4. Hitting the silver jubilee means of…",
+      "link": "https://www.linkedin.com/posts/chris-braithwaite-36b5b016_as-gary-barlow-said-in-the-1996-press-conference-activity-7353368517359935488-4etn",
+      "activity_status": null
+    },
+    {
+      "title": "Judges at the ready... All Mediaweek Awards 2025 submissions are in and now the judging begins. My fellow co-chair Kelly Parker and I couldn't be…",
+      "link": "https://www.linkedin.com/posts/rak-patel-513b642_mediaweekawards2025-activity-7355133908776067073-fFn5",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news alert! After 3 fantastic years I am hanging up the Reddit, Inc. jersey and donning the purple colors of Smartly. Reddit was an…",
+      "link": "https://www.linkedin.com/posts/alex-underwood-revenue_exciting-news-alert-after-3-fantastic-activity-7354197152354471936-A0Z_",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to share that I’ve expanded my role from U.S. to Global CEO, PMX at Publicis Media. It’s been two years since I returned to Publicis…",
+      "link": "https://www.linkedin.com/posts/joellunenfeld_im-excited-to-share-that-ive-expanded-my-activity-7427455671962345472-2DJd",
+      "activity_status": null
+    },
+    {
+      "title": "I am so happy to announce that I've started at the Trade Desk as the SVP of FP&A. Two days in, and I'm surprised at how much it already feels like…",
+      "link": "https://www.linkedin.com/posts/julianna-g-hayes_i-am-so-happy-to-announce-that-ive-started-activity-7437286745458581504-UHgr",
+      "activity_status": null
+    },
+    {
+      "title": "Some big news from me! I couldn’t be more delighted to announce that I am joining Mail Metro Media as Chief Client Officer in May. Working in…",
+      "link": "https://www.linkedin.com/posts/claudine-collins_some-big-news-from-me-i-couldnt-be-more-activity-7439261834186170368-a2Ju",
+      "activity_status": null
+    },
+    {
+      "title": "I've joined Fallow Restaurant | Certified B Corp as Senior Commercial Manager, and can't stop pinching myself. This role is a true combination of…",
+      "link": "https://www.linkedin.com/posts/georginaparnell_ive-joined-fallow-restaurant-certified-activity-7429481232209649664-j2YA",
+      "activity_status": null
+    },
+    {
+      "title": "Lunchbox packed, shoes shined, shirt ironed. It’s day one for me at LinkedIn. When I get up there I’ll be helping brands and agencies connect with…",
+      "link": "https://www.linkedin.com/posts/samwaymont_lunchbox-packed-shoes-shined-shirt-ironed-activity-7436755939371945984-i9-p",
+      "activity_status": null
+    },
+    {
+      "title": "So today was official day one and what a magnificent day it was. Thank you all for your lovely words of support and special thanks to the tremendous…",
+      "link": "https://www.linkedin.com/posts/daranasr_global-welcomes-dara-nasr-incoming-managing-activity-7452079505436741632-d0vv",
+      "activity_status": null
+    },
+    {
+      "title": "If you fancy leading all trading with our amazing agency and client friends globally as well as leading relationships our equally amazing Sales…",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_if-you-fancy-leading-all-trading-with-our-activity-7206676147332333570-bj88",
+      "activity_status": null
+    },
+    {
+      "title": "Please come and join. It would be great to see you. For more details please message the amazing Berit.",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_please-come-and-join-it-would-be-great-to-activity-7193524893370466305-SfYt",
+      "activity_status": null
+    },
+    {
+      "title": "Come and join the team…",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_come-and-join-the-team-activity-7166813957427552256-DssA",
+      "activity_status": null
+    },
+    {
+      "title": "Over the last year, since leaving Twitter, I’ve had time to reflect and explore opportunities. This has really helped me think about what I would…",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_ex-twitter-chief-dara-nasr-to-lead-advertising-activity-7153320389002067969-E8rE",
+      "activity_status": null
+    },
+    {
+      "title": "In 2015 I was fortunate enough to be part of a team at Twitter that appointed the agencies to lead our first foray into consumer marketing. The pitch…",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_in-2015-i-was-fortunate-enough-to-be-part-activity-7108127491914969088-UTBD",
+      "activity_status": null
+    },
+    {
+      "title": "Dear LinkedIn Crew You may well know already but if you donât, in November I resigned from Twitter. Iâve had the most magnificent 10 years at the…",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_lovewhereyouworked-activity-7018248218433966080-hnro",
+      "activity_status": null
+    },
+    {
+      "title": "Buy this book (please)",
+      "link": "https://www.linkedin.com/posts/dara-nasr-33396a6_buy-this-book-please-activity-6477251303830626304-Krgy",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-24T00:00:00Z"
+  }
+}

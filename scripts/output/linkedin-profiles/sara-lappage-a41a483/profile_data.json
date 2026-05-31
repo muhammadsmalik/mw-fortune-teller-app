@@ -1,0 +1,802 @@
+{
+  "public_identifier": "sara-lappage-a41a483",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Sara",
+  "last_name": "Lappage",
+  "full_name": "Sara Lappage",
+  "follower_count": 1604,
+  "occupation": "Chief Operating Officer at QMS",
+  "headline": "Chief Operating Officer at QMS Media",
+  "summary": "An extensive leadership career in the OOH sector, my commitment to the growth and success of the industry has seen me play a pivotal role in the creation and management of some its most well known brands - Eye Corp, oOh! Media and QMS Media.<br><br>In my current role as Chief Operating Officer at QMS , I have the privilege to oversee all functions of the business outside of sales, and help guide our incredible talent to work together to achieve a high performance culture.  <br><br>I am exceptionally proud of all we have achieved at QMS since its inception 10 years ago. From a start up to a publicly listed company on the ASX, to successfully delisting and selling to private equity in a little over five years.  It has been an incredible story so far, that still has so many exciting chapters to be written and I am grateful to be able to be a part of it.",
+  "location_str": "Melbourne, Victoria, Australia",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Melbourne",
+  "state": "Victoria",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "QMS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/qms-media",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe88381f32e648dda1ae6a1bd588850c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "QMS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/qms-media",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer - Customer",
+      "description": null,
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe88381f32e648dda1ae6a1bd588850c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "QMS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/qms-media",
+      "company_facebook_profile_url": null,
+      "title": "Chief Marketing Officer",
+      "description": "Responsible for the brand development and management of QMS in Australia and its associated entities in Indonesia and New Zealand.  Overseeing all trade marketing activities, events and promotions, as well as the implementation of our business and corporate communications strategy.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe88381f32e648dda1ae6a1bd588850c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Verve Marketing Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/verve-marketing-australia",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Verve is a marketing consultancy business specialising in developing and managing specific marketing projects for businesses to help build brand equity and quality client engagement.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/efba4448c40520ea35211aeaa018fbba"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2013
+      },
+      "company": "oOh!",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Group Director - Marketing",
+      "description": "Responsible for creating and developing the oOh! brand following the merge of two outdoor media businesses - Network Outdoor & Media Puzzle. Consistently delivered engaging go-to-market strategies and effective communications that helped shape the business as a leader in the industry.\n\nKey Outcomes:\n- Successful, well recognised and highly engaged brand\n- Business achieved 12% growth during the GFC in 2009 while rest of the outdoor industry declined by 12%\n- EBITDA grew from $4m to $23m during my time overseeing marketing & communications at oOh!\n\nKey Responsibilities:\n- Creation of oOh! brand\n- Responsible for all go-to-market strategies and communications for both the brand and products\n- Trade marketing strategies and creative direction\n- Oversaw the development of social media strategies\n- Oversaw the development of online and multimedia strategies \n- Key liaison with brand and creative agencies\n- Budget development, reconciliation and reporting\n- Effective people management and mentoring skills across a team of 8\n- Developed and delivered numerous trade promotions\n- Event management\n- Overall business strategy development as part of senior management team\n- Responsible for brand refresh following acquisition of EYE Corp in 2012",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "EYE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "State Sales Manager - VIC",
+      "description": "Led the Melbourne sales team to effectively market and sell all outdoor solutions including billboards, airports and shopping centres.\n\nKey responsibilities:\n- Managed the Melbourne sales team\n- Developed, monitored and reconciled the team and individual sales budgets\n- Set targets and KPI's\n- Developed sales collateral and promotions for all products\n- Created product integration strategies and concepts",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "EYE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Group Sales Manager - Eye Drive",
+      "description": "Led the Melbourne Drive sales team to effectively market and sell large format billboards to advertisers and advertising agencies.\n\nKey responsibilities:\n- Managed a team of four sale representatives in Melbourne\n- Developed, monitored and reconciled the team and individual sales budgets\n- Set targets and KPI's\n- Developed sales collateral and promotions for the Drive product",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "EYE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Key Accounts Manager - Eye Shop",
+      "description": "Responsible for the development and launching of 'mall media' or retail shopping centre advertising in Australia.  Included development of key sales collateral and materials, promotions and selling to key clients.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "company": "EYE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Strategic Marketing Analyst",
+      "description": "Responsible for creating and developing the EYE brand following the rebrand of outdoor media business - NLD Outdoor. Developed initial launch and go-to-market strategies, prior to the acquisition of EYE by Network Ten which led to all marketing functions being relocated to Sydney.",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "company": "Clemenger BBDO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clemenger-bbdo",
+      "company_facebook_profile_url": null,
+      "title": "Media Planner/Buyer",
+      "description": "Senior Planner/Buyer on the following accounts:\n- Yellow Pages\n- RACV",
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bde001c5bff7049c1be5f8d30dca9970"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "company": "VML",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vml",
+      "company_facebook_profile_url": null,
+      "title": "Media Planner/Buyer",
+      "description": "Senior Planner/Buyer on the following accounts:\n- Nintendo\n- Converse\n- Vox Retail Group\n- Mattel",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d682c047d6a296b05618fac4c4c6b1d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "George Patterson Y&R",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vml",
+      "company_facebook_profile_url": null,
+      "title": "Media Buyer",
+      "description": null,
+      "location": "Melbourne, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d682c047d6a296b05618fac4c4c6b1d4"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Bachelor of Business Management, Marketing",
+      "school": "Monash University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/monash-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Mentone Girls Grammar School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1548,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/sophiepaulin",
+      "name": "Sophie Paulin",
+      "summary": "Chief Marketing Officer at Ordermentum Pty Ltd",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyhayes",
+      "name": "Ty Hayes",
+      "summary": "Chief Growth Officer",
+      "location": "Mount Hawthorn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alicassim",
+      "name": "Alexandra (Ali) Cassim",
+      "summary": "Marketing | Digital Native | Strategy | Product | Growth | Customer Centric Cultures",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevebovey",
+      "name": "Steve Bovey",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanieobrienme",
+      "name": "Melanie O'Brien",
+      "summary": null,
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariacrews",
+      "name": "Maria Crews",
+      "summary": "General Manager - PR, content, events, stategy",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmasmart",
+      "name": "Emma Charles",
+      "summary": "Sales Planning Manager",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jemmaenright",
+      "name": "Jemma Enright",
+      "summary": "Executive GM - Product, Strategic Leader, Innovation, Tech Entrepreneur, GAICD",
+      "location": "Newport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebeccashears",
+      "name": "Rebecca Shears",
+      "summary": "Fractional Chief Marketing Officer with The Marketing Centre. Providing part-time Marketing Director support to ambitious businesses.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisavitaris",
+      "name": "Lisa Vitaris, MBA GAICD CompIEAust EngExec",
+      "summary": "Strategic Advisor, Indo-Pacific | Bid Director, IAC 2029 Houston, AIAA; Founder & CEO, Indo-Pacific Space; Board Director, Engineers Australia; Founder of 10 Pieces",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erikderoos1",
+      "name": "Erik de Roos",
+      "summary": "CMO | AMI National Marketing Team of the Year 2023 | GAICD",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonkibsgaard",
+      "name": "Jason Kibsgaard",
+      "summary": "Head Of Marketing at NTI",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-w-forrester",
+      "name": "Jonathan W. Forrester",
+      "summary": "Helping DTC & Ecommerce Brands Scale Faster | $3.6B+ in Sales | Architect of Brand Legacies | AI & Blockchain for Next-Gen Growth | Forbes 30 | Pioneering the Future of Brand Experience | Let’s Build Something Iconic",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andyfyffe",
+      "name": "Andy Fyffe",
+      "summary": "Founder, marketer, writer.",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-sinforosa-76432b6a",
+      "name": "Daniel Sinforosa",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/callysagepedersen",
+      "name": "Cally Pedersen",
+      "summary": "Google Ads Specialist | CEO of The Sage Agency: Grow your business's profits with Google Ads | Keynote Speaker | Outstanding Leadership Award Marketing 2.0 Conference",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-zavecz-785a8958",
+      "name": "Jessica Zavecz",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuki-randerson-27418950",
+      "name": "Yuki Randerson",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-colter-4838211b",
+      "name": "Chris Colter",
+      "summary": "Managing Director, Media Strategy, Accenture Song A/NZ",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-barnes-78b979a",
+      "name": "Rebecca Barnes",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bill-athanassiou-297ba51",
+      "name": "Bill Athanassiou",
+      "summary": "Sales & Media Leader | Out‑of‑Home | Mentor \n| Strategic Solutions | Strong Partnerships | Scalable Results",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/reneesalaberry",
+      "name": "Renee Salaberry",
+      "summary": "Chief Customer Marketing Growth Officer | Strategy | Commercialisation | Brand | Customer Experience | Product | Digital Transformation | Healthcare | Consumer | Technology | Financial svcs | Prof services | MBA | GAICD",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-murphy-8bbaa29",
+      "name": "Tim Murphy",
+      "summary": "Chief Sales Officer- QMS",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-pullinger-630884a",
+      "name": "David Pullinger",
+      "summary": "GM - Independent Agencies & Direct Sales at QMS Media",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lara-thom-967564b",
+      "name": "Lara Thom",
+      "summary": "Global Chief Marketing Officer | Global Marketing Leadership | Revenue Driver | #1 CMO of the Year - 2025 | Board Director",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoe-styles-6069b513",
+      "name": "Zoe Styles",
+      "summary": "Experienced sales professional - events, media & wellness | Relationship Management | Business Development | Event Coordination",
+      "location": "Sunshine Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-zavecz-a6768019",
+      "name": "Christian Zavecz",
+      "summary": "Chief Strategy Officer at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanie-andrews-96a6541a",
+      "name": "Melanie Andrews",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-mcgrath-46555623",
+      "name": "Matt McGrath",
+      "summary": "Global Chief Marketing Officer",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sue-szylvester",
+      "name": "Sue Szylvester",
+      "summary": "Marketing Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brent-smart-71308037",
+      "name": "Brent Smart",
+      "summary": null,
+      "location": "Bondi Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-allison-2763a441",
+      "name": "Claire Allison",
+      "summary": "Sales Director at TorchMedia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-pennells-11568541",
+      "name": "Nicole Pennells",
+      "summary": "Group Business Director at QMS Media",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heather-ware-8bb68349",
+      "name": "Heather Ware",
+      "summary": "Strategist & Activator for Branding, Marketing and Team Building",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jess-tarpey-42074752",
+      "name": "Jess Tarpey",
+      "summary": "Chief Marketing Officer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-clements-49113b55",
+      "name": "Karen Clements",
+      "summary": "Victoria / South Australia State Sales Manager - QMS",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-fairhurst-58150259",
+      "name": "Mark Fairhurst",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandervmorrison",
+      "name": "Alexander Morrison",
+      "summary": "Large Format Product Director",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ianrichards-richards-7126b766",
+      "name": "Ianrichards Richards",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-coonan-08053271",
+      "name": "Gary Coonan",
+      "summary": "Managing Director Canvas Creative Agency",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-solomon-7a053279",
+      "name": "Kate Solomon",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaclyn-mckeown-9699b589",
+      "name": "Jaclyn McKeown",
+      "summary": "Leader l Visionary I Collaborator l Connector l Strategic Marketer I Communication composer I Engagement and CX Led",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glen-newland-b28b1696",
+      "name": "Glen Newland",
+      "summary": "Director at Southern USI",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pam-burnett-83b61198",
+      "name": "Pam Burnett",
+      "summary": "Marketing - Brands - Strategy - Coaching - Growth",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordana-sherlock-35367898",
+      "name": "Jordana Sherlock",
+      "summary": "National Product Strategy, Data & Research Director at QMS Media",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-o-neill-3a0056a1",
+      "name": "John O'Neill",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tara-o-keefe-aa4439aa",
+      "name": "Tara O'Keefe",
+      "summary": "Sales Operations Director at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoff-noonan-b75108b0",
+      "name": "Geoff Noonan",
+      "summary": "QMS Media - General Manager QLD",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-johnson-336b10b1",
+      "name": "Danielle Johnson",
+      "summary": "Director, Creative Strategy & Content ASEAN & South Pacific",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-nettlefold-422360b7",
+      "name": "James Nettlefold",
+      "summary": "Head of Data & Insights, QMS Media | Data-led OOH Strategy, Planning, Audience Measurement & Insights",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harmony-grant-b73123101",
+      "name": "Harmony Grant",
+      "summary": "Senior Account Manager at QMS",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-stanaway-1b821311a",
+      "name": "Karen Stanaway",
+      "summary": "Inhouse Legal Counsel  at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-riewoldt-a89ba8127",
+      "name": "Jack Riewoldt",
+      "summary": "Ex-Richmond Tigers Premiership Player | Founder | Keynote Speaker | Sports Broadcaster & Analyst | Leadership & Culture Advocate | Dad to 3 Chaos Machines",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/courtney-johnson-425085137",
+      "name": "Courtney Johnson",
+      "summary": "Senior Account Manager at QMS Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/harrison-pearce-7b3a95140",
+      "name": "Harrison Pearce",
+      "summary": "Audience Data Manager at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-edmonds-a3a083164",
+      "name": "David Edmonds",
+      "summary": "Executive Director at QMS Media",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-bowd-b94a5616a",
+      "name": "Matthew Bowd",
+      "summary": "Senior Account Manager at QMS Media",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/madison-symonds-92920516b",
+      "name": "Madison Symonds",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-kerrin-681027186",
+      "name": "Michelle Kerrin",
+      "summary": "Youth Worker, First Nations Cultural Engagement and Advisor, Storyteller",
+      "location": "Malak"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shanae-cooper-8261321a3",
+      "name": "Shanae Cooper",
+      "summary": "Group Business Director at QMS Media",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-rudich-281b39210",
+      "name": "Jack Rudich",
+      "summary": "Group Sales Manager at OA Collective | Outdoor Media Specialist",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eliza-banks-476976216",
+      "name": "Eliza Banks",
+      "summary": null,
+      "location": "Kellyville"
+    }
+  ],
+  "recommendations": [
+    "Brendon Cook\n\nSara was employed by oOh! Media as Marketing Director for more than seven years after the business purchased Media Puzzle (MP). Prior to acquiring MP, I had seen from afar the excellent brand and marketing communications work Sara had delivered in the creation of the Eye Corp brand. Whilst at oOh!, Sara was responsible for creating what has been considered in the media industry as one of the preeminent brands and positioning. The oOh! brand was developed to re-position Network Outdoor and Media Puzzle as a combined new business with scale, and to be seen as an entrepreneurial, can-do business in the out-of-home industry. Sara excelled in the development and ongoing brand building of oOh! that saw the business become the only media company with over $50 million in sales to grow by 12% during the GFC (note the outdoor sector was down 12%). During her time at oOh!, Sara was also an integral part of the senior management team and active in business development and strategies that enabled oOh! to grow to $130 million in revenue, with EBITDA growth from $4m to $23m. Through strategic go-to-market trade activities and communications that delivered positive engagements with our clients, oOh!’s brand equity has also grown in line with the business. Overseeing a team of nine people, Sara has experience in nurturing and mentoring people to achieve their best and to work at the highest level, with the enthusiasm and passion required to be successful. I have nothing but the highest praise for Sara and her brand and marketing achievements, and her overall business skill set.",
+    "Stephanie Gasperini\n\nI had the pleasure of working closely with Sara on an intensive large-scale project that spanned many months. Without a doubt, Sara is a dedicated marketing professional who sets the bar high for herself and those around her. Sara is intuitive, collaborative and open to the ideas of others. She is an excellent communicator, with an eye for detail, who builds long term relationships based on trust."
+  ],
+  "activities": [
+    {
+      "title": "Reflecting on this milestone moment for QMS, it is hard to believe that only 12 years ago we consisted of a handful of people, a couple of digital…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_reflecting-on-this-milestone-moment-for-qms-activity-7445285209882890240-rFAY",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to bring the QMS brand back to New Zealand, bigger and better than ever, and work with the incredibly talented team at MediaWorks NZ to…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_super-excited-to-bring-the-qms-brand-back-activity-7371344693823193088-x24M",
+      "activity_status": null
+    },
+    {
+      "title": "I am proud to be a part of the Cerebral Palsy Alliance community who are currently raising funds to accelerate ground-breaking technologies that will…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_car-raffle-activity-7356886986558754816-2ZTt",
+      "activity_status": null
+    },
+    {
+      "title": "Outstanding news for the entire MediaWorks NZ team on securing all four Auckland Transport contracts!! Huge congrats to Barclay Nettlefold, Adam…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_mediaworks-qms-activity-7350714459251728384-vHYf",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this next exciting chapter to provide our clients and partners with key strategic opportunities and best in class OOH across both…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_looking-forward-to-this-next-exciting-chapter-activity-7314843257983680513-g1PQ",
+      "activity_status": null
+    },
+    {
+      "title": "So proud of our incredible QUBE team on this #outoftheordinary campaign 👏",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_outoftheordinary-activity-7274615800164982785--SgM",
+      "activity_status": null
+    },
+    {
+      "title": "Very excited, humbled and honoured to be a part of this wonderful Mentoring program made possible by the IMAA - Independent Media Agencies Australia.…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_very-excited-humbled-and-honoured-to-be-activity-7265153396767109120-cCfd",
+      "activity_status": null
+    },
+    {
+      "title": "This is epic! So proud of our QUBE creative services team and our Olympics Project team on helping to bring this fantastic campaign to life. Makes me…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_this-is-epic-so-proud-of-our-qube-creative-activity-7226818254000771073-3UZ-",
+      "activity_status": null
+    },
+    {
+      "title": "So grateful to be able to play a part in bringing this wonderful new event 'The Retreat' to Melbourne. It is bound to be an incredible couple of days…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_australias-biggest-media-organisations-come-activity-7114389755106099200-jFxm",
+      "activity_status": null
+    },
+    {
+      "title": "After 20+ years in the fabulous OOH industry helping build and grow a number of businesses and working with some incredibly talented people along the…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_qms-oma-activity-7059703603153833984-JQqB",
+      "activity_status": null
+    },
+    {
+      "title": "What a way for brands to make an impact in the heart of Sydney! So proud of the team bringing this epic digital network to life. #OutoftheOrdinary…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_qms-reveals-first-city-of-sydney-communication-activity-6937974533567983617-skut",
+      "activity_status": null
+    },
+    {
+      "title": "What an historic moment for QMS, as we celebrated with our valued clients and partners, the incredible efforts of so many talented people who have…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_qms-officially-launches-new-city-of-sydney-activity-6966635534970474496-iFSp",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic work by our incredibly talented QUBE team to ensure awareness of the AFL's Festival of Footy is front and centre with fans. 3DOOH designed…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_afl-adds-new-dimension-to-season-launch-activity-6906851949707182080-nT-R",
+      "activity_status": null
+    },
+    {
+      "title": "An incredibly exciting moment as we welcome our amazing partners onto the brand new City of Sydney street furniture network!",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_qms-signs-full-suite-of-launch-partners-for-activity-6894104928613228544-68Hb",
+      "activity_status": null
+    },
+    {
+      "title": "Come and join this awesome team and help lead QMS in this next exciting chapter!",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_come-and-join-this-awesome-team-and-help-activity-6800261923150663682-YMIN",
+      "activity_status": null
+    },
+    {
+      "title": "Very humbled to be named a finalist in the Mentor category at this years’ B&T Women in Media Awards amongst some incredible company. And a huge…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_the-wait-is-over-shortlist-revealed-for-activity-6824246947159924736-Sn0V",
+      "activity_status": null
+    },
+    {
+      "title": "It's been a long time coming, and today we finally get to unveil the new look QMS. Built on our passion for digital and our desire to challenge the…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_out-of-the-ordinary-activity-6853175610521595905-0Ohl",
+      "activity_status": null
+    },
+    {
+      "title": "Taking a bit of a deep dive with Jaid Hulsbosch and James Manning as we chat about the refreshed QMS and what is to come for the business. #qmsmedia…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_inside-a-corporate-rebrand-qms-explains-activity-6859260622069207040-CLER",
+      "activity_status": null
+    },
+    {
+      "title": "The sensational Annie Parsons on all things DOOH and the exciting way forward!",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_feisty-anne-parsons-on-harold-mitchell-activity-6644030161333379072-YZbX",
+      "activity_status": null
+    },
+    {
+      "title": "Such an amazing experience with so many fabulous women sharing their stories, ideas and inspirations. Biggest take out for me - \"I am enough!\"…",
+      "link": "https://www.linkedin.com/posts/sara-lappage-a41a483_businesschicks-moversandbreakers-activity-6463877040092344320-KylE",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Sarah Lappage",
+      "link": "https://uk.linkedin.com/in/sarah-lappage-43a558142",
+      "summary": "Bioganix Ltd",
+      "location": "Stamford"
+    },
+    {
+      "name": "Sarah Lappage",
+      "link": "https://ca.linkedin.com/in/sarah-lappage-18b42598",
+      "summary": "Director, Independent Brand Partner at Nerium International",
+      "location": "Cochrane, AB"
+    },
+    {
+      "name": "Sarah Lappage",
+      "link": "https://uk.linkedin.com/in/sarah-lappage-500a9980",
+      "summary": "--",
+      "location": "City Of Peterborough"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-19T00:00:00Z"
+  }
+}

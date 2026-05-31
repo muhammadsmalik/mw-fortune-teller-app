@@ -1,0 +1,755 @@
+{
+  "public_identifier": "leojullien",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/2a59802131eb98b27d870764d25fbade",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4D16AQG8sRSf0uDhmA/profile-displaybackgroundimage-shrink_200_800/B4DZZkyMgUGgAU-/0/1745447607889?e=2147483647&v=beta&t=f1LAEw6Uou-Ji7Iu1dDssxPxTyySN0I3VjxCh8s1mC4",
+  "first_name": "Léo",
+  "last_name": "Jullien",
+  "full_name": "Léo Jullien",
+  "follower_count": 1026,
+  "occupation": "Business & Strategy Lead - Yield Management Software for Out-of-Home Media at mereo",
+  "headline": "Clients & Partnerships Manager @mereo",
+  "summary": null,
+  "location_str": "Greater Marbella Metropolitan Area",
+  "country": "ES",
+  "country_full_name": "Spain",
+  "city": "Marbella",
+  "state": "Andalusia",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "mereo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mereo",
+      "company_facebook_profile_url": null,
+      "title": "Business & Strategy Lead - Yield Management Software for Out-of-Home Media",
+      "description": "At MEREO, a specialist in yield management solutions for media owners, I drive strategic initiatives and business development at an international level, with a specific focus on the Out of Home advertising industry. My role began with leading proprietary software sales and prospecting efforts in complex, long-cycle B2B environments.\n\nOver time, I expanded my responsibilities to include strategic partnerships, financial planning, and organizational alignment. I chair the company’s Vision & Strategy circle — a key forum where all major functions and projects converge to shape MEREO’s direction.\n\nI also oversee budgeting, forecasting, and funding strategies, and I represent the company in key interactions with shareholders and strategic stakeholders.",
+      "location": "Marbella y alrededores · Remote",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8d517b6692e3535068a1e89090bc95d3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2021
+      },
+      "company": "Aage Hempel Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aage-hempel-international",
+      "company_facebook_profile_url": null,
+      "title": "Satcom Business Unit Manager - Maritime Satellite Communications",
+      "description": "At Aage Hempel Group, a Grupo Arbulu company, I led the Satcom Division's business across several international entities, serving maritime clients worldwide. My responsibilities covered business development, offer design, account management, contract negotiation, and supplier relationship management.\n\nI structured and implemented sales and support processes, defined roles and responsibilities, and oversaw both commercial performance and cost control for the division. I was also actively involved in strategic SATCOM meetings within Grupo Arbulu, collaborating with sister companies and technology partners to drive synergies.",
+      "location": "Algeciras y alrededores, España · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6034d46aa80e1b6b48a7b7b3976ca410"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2015
+      },
+      "company": "Essilor Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/essilor",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager - Optical Industry",
+      "description": "At Essilor, I led operational improvement projects within the Spanish subsidiary to enhance supply chain performance and support commercial growth. My work focused on optimizing transport flows and launching efficient logistics solutions for new product introductions and key account clients.\n\nI also played an active role in a major IT systems migration project, driving the transformation of supply chain and production workflows to align with the new infrastructure and improve overall operational efficiency.",
+      "location": "Région de Barcelone, Espagne · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cd41e3b55646e167f1c8fbcefc940821"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Thales Cyber and Digital",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/thalesdis",
+      "company_facebook_profile_url": null,
+      "title": "Process Engineer Intern - Business Process Management (Digital Security)",
+      "description": "At Gemalto, I worked on Lean Six Sigma projects within the Business Process Management department, implementing KPIs and streamlining workflows to enhance clarity and efficiency across a key business division.",
+      "location": "Région de Marseille, France · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f63a238b03afabb0ca3028e30614ed8e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2011
+      },
+      "company": "SAMARO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/samaro",
+      "company_facebook_profile_url": null,
+      "title": "Process Engineer Intern - Supply Chain Optimization (Chemical Solutions Distribution)",
+      "description": "At Samaro, I audited core operations and pinpointed quick-win opportunities, then delivered targeted recommendations that improved supply chain performance and supported business growth.",
+      "location": "Région de Lyon, France · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6c9229bf3dcfce6984318f01b564da2c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2011
+      },
+      "company": "Villeurbanne Handball Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/villeurbannehandballassociation",
+      "company_facebook_profile_url": null,
+      "title": "Professional team handball player",
+      "description": "Four seasons as a professional player – French 2nd National League (2007–2011)",
+      "location": "Région de Villeurbanne, France · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb7b52690c7f6938c653ee699ddccbde"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2010
+      },
+      "company": "Holcim",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/holcim",
+      "company_facebook_profile_url": null,
+      "title": "Project Engineer Intern - Production Engineering (Building Materials)",
+      "description": "At Lafarge Plasterboard, I diagnosed and resolved condensation issues on a production line, implementing costed ventilation and insulation solutions to improve safety, operational reliability, and performance.",
+      "location": "Bristol, Royaume-Uni · On-site",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/69260274fe599beb71fd18338d9b05d2"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": "High level sport section",
+      "degree_name": "Master of Sciences in Industrial Engineering ",
+      "school": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insa-lyon",
+      "school_facebook_profile_url": null,
+      "description": "Multidisciplinary program combining technical, organizational, and strategic dimensions of engineering. Trained to design, implement, and lead complex industrial systems with a focus on performance, sustainability, and operational excellence. Key focus areas: Supply Chain, Logistics, Project Management, Production & Process Management, Lean Manufacturing, Budget & Cost Control, Decision Support Systems, Problem Solving.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9fec7b37059a6761b994ee26485a25d5",
+      "grade": "Master's Degree",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": "Operations and Innovation Management – Exchange Semester (Denmark)",
+      "degree_name": "Operations and Innovation Management – Exchange Semester (Denmark)",
+      "school": "Aalborg University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/aalborg-universitet",
+      "school_facebook_profile_url": null,
+      "description": "Specialized in organizational strategy, innovation, and change management. Developed strategic thinking and leadership skills to manage technological and organizational transformation.\n\nKey subjects: Strategic Planning & Management, Innovation & Technology Management, Integrated Problem Solving, Change Management, Continuous Innovation, Organizational Design & Culture.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ca42f7329382ea80c040ea16a97259fc",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [
+    {
+      "name": "TOEIC",
+      "score": "965/990",
+      "date_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "description": "Test Of English for International Communication (TOEIC)"
+    }
+  ],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2009
+      },
+      "title": "Member of the association",
+      "cause": "Derechos civiles y acción social",
+      "company": "Handizgoud Student Association",
+      "company_linkedin_profile_url": null,
+      "description": "Member of Handizgoud association at INSA Lyon. Design, preparation and conduction of activities, workshops and conferences to develop the awareness about disability at work.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": null,
+      "name": "Label Handimanager",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Companieros",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/hectorvilaseca",
+      "name": "Héctor Vilaseca",
+      "summary": "Ingeniero en Organización Industrial | Especialista en Supply Chain Management | +15 años de experiencia en Transporte Terrestre.",
+      "location": "Sant Carles de la Ràpita"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agustinlechuga",
+      "name": "Agustin L.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/inventorymanager",
+      "name": "Almudena Morla",
+      "summary": "Ingeniero Agrónomo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristinahidalgoglez",
+      "name": "Cristina Hidalgo González",
+      "summary": "Site Leader @ Amazon | PMP® | Operations & Project Management | Process Excellence | Six Sigma Black Belt",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-c-pichot",
+      "name": "Ana C Pichot",
+      "summary": "Storyteller  | Data-driven Supply Chain | SaaS S&OP Product Owner | Innovation & Creativity",
+      "location": "La Garriga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rociomartinezcueto",
+      "name": "Rocio Martinez Cueto",
+      "summary": "Service Coordinator Aage Hempel Group",
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicenteramirezrubio",
+      "name": "Vicente Ramírez Rubio",
+      "summary": "Director de Proyectos de Logística",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoniogutierrezubierna",
+      "name": "Antonio Gutierrez Ubierna",
+      "summary": "SCM Europe Process Improvement Leader",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pablosanromanrubio",
+      "name": "Pablo San Román Rubio",
+      "summary": "Ingeniero de Electrónica Naval",
+      "location": "Santander"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-arbabi-b4b860287",
+      "name": "Steve Arbabi",
+      "summary": "Consultant formateur junior",
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%25A2%2593%25E5%2581%25A5-%25E7%25A5%259D-b4b502271",
+      "name": "祝梓健",
+      "summary": "Marketing Assistant/ LED Manufacturer/ OEM and ODM service",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/noa-clement-b69945272",
+      "name": "Noa Clement",
+      "summary": "--",
+      "location": "Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fran%25C3%25A7ois-candassamy-9168b6244",
+      "name": "François CANDASSAMY",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatianamikhaleva",
+      "name": "Таtiana Мikhaleva",
+      "summary": null,
+      "location": "Bilbao"
+    },
+    {
+      "link": "https://www.linkedin.com/in/th%25C3%25A9o-clavier-2b914520a",
+      "name": "Théo Clavier",
+      "summary": "Étudiant à Charles-Gabriel Pravaz",
+      "location": "Saint-Ondras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juli%25C3%25A1n-lanaja-tejero-garc%25C3%25A9s-59ba6b80",
+      "name": "Julián Lanaja Tejero-Garcés",
+      "summary": "Real Estate Operations Manager - Logistics Division",
+      "location": "Zaragoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pablo-su%25C3%25A1rez-goitia-16655b111",
+      "name": "Pablo Suárez Goitia",
+      "summary": "Projects Management EMEA en AR Storage Solutions",
+      "location": "Algorta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-pontus-41a9351a2",
+      "name": "Martin Pontus",
+      "summary": null,
+      "location": "Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albert-gay-gonz%25C3%25A0lez-77206272",
+      "name": "Albert Gay Gonzàlez",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/germ%25C3%25A1n-alvarez-lorenzo-6528a228",
+      "name": "Germán Alvarez Lorenzo",
+      "summary": "Indirect Sales Channel Coordinator",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sauraya-essono-mengue-59a4141b2",
+      "name": "Sauraya Essono Mengue",
+      "summary": "Étudiant(e) à Université de Tours",
+      "location": "Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samer-chaaya-9149269",
+      "name": "Samer Chaaya",
+      "summary": "Senior Solution Architect",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-ferrer-bosch-62357414",
+      "name": "Marc Ferrer Bosch",
+      "summary": "Project Manager | Retail Operations | IT & Supply Chain | MBA",
+      "location": "Sant Cugat del Vallès"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-de-paz-50446615",
+      "name": "David de Paz",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-hitos-garcia-57034318",
+      "name": "Francisco Hitos Garcia",
+      "summary": "Project Operations Manager",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carissa-dupont-0059b021",
+      "name": "carissa dupont",
+      "summary": "Consultante medias chez i&e Consultants",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/berta-jarillo-castro-b355a030",
+      "name": "Berta Jarillo Castro",
+      "summary": null,
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rub%25C3%25A9n-acosta-lapuente-2733a933",
+      "name": "Rubén Acosta Lapuente",
+      "summary": "Maintenance Manager in Yilport Ferrol",
+      "location": "A Coruña"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-rojo-93292b33",
+      "name": "Daniel Rojo",
+      "summary": "Team Leader Canary Islands Office, Aage Hempel Group",
+      "location": "Las Palmas de Gran Canaria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandro-diaz-lopez",
+      "name": "Alejandro Diaz Lopez",
+      "summary": "Technical Manager at SELENE MARINE.",
+      "location": "Marbella"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lara-miranda-santana-43aa1b3b",
+      "name": "Lara Miranda Santana",
+      "summary": "Coordinadora  en Aage Hempel International",
+      "location": "Las Palmas de Gran Canaria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aitxiber-ram%25C3%25B3n-85b21448",
+      "name": "Aitxiber Ramón",
+      "summary": "Senior Marine Electronics Engineer",
+      "location": "Los Barrios"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-cox-4836ba5a",
+      "name": "Marc Cox",
+      "summary": "RoRo Manager en Noatum Maritime",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavimoral",
+      "name": "Xavi Moral Dalmau",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-cabanes-sanchez-61632160",
+      "name": "Luis Cabanes Sanchez",
+      "summary": "Operations Manager en DACHSER",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/santiago-vaquero-12684462",
+      "name": "Santiago Vaquero",
+      "summary": "deugro•2K followers",
+      "location": "Oviedo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/borjateruelo",
+      "name": "Borja Teruelo",
+      "summary": "Product Owner | Data & AI | Digital Transformation | Business Intelligence",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elias-bauguil-b95b756a",
+      "name": "Elias Bauguil",
+      "summary": "CEO, Mereo | Optimisation des revenus (D)OOH & Retail Media | Management & Leadership régénératif",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/youcef-haroug-9766b18b",
+      "name": "Youcef Haroug",
+      "summary": "site manager",
+      "location": "Gijón"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergio-garcia-a7a0a794",
+      "name": "Sergio Garcia",
+      "summary": "Senior Electronics technician / Levante Area Team Leader",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arturo-mart%25C3%25ADnez-angulo-romero-5444aa94",
+      "name": "Arturo Martínez-Angulo Romero",
+      "summary": "Supply Manager & Quality Conformance Management",
+      "location": "El Puerto de Santa María"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irene-urbina-6478a695",
+      "name": "Irene Urbina",
+      "summary": "Service coordinator",
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-garcia-de-movell%25C3%25A1n-fernandez-192924b1",
+      "name": "Carlos Garcia de Movellán Fernandez",
+      "summary": "Supply Chain & Procurement Services",
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierre-lelarge-7a316b100",
+      "name": "Pierre Lelarge",
+      "summary": "Consultant chez Groupe HTC",
+      "location": "Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/norberto-alonso-sim%25C3%25B3n-5a4bb1114",
+      "name": "Norberto Alonso Simón",
+      "summary": "UEFA PRO (RFEF)\nMálaga CF - Infantil División Honor",
+      "location": "Marbella"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aage-hempel-marine-electronics-5182b0122",
+      "name": "Aage Hempel - Marine Electronics",
+      "summary": "Marine Electronics",
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hasnaa-ferraje-5a6156128",
+      "name": "Hasnaa Ferraje",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-fundora-2898b7133",
+      "name": "Javier Fundora",
+      "summary": "Service Engineer at JASON MARINE ELECTRONICS SPAIN",
+      "location": "Torrent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafa-mu%25C3%25B1oz-45b378140",
+      "name": "Rafa Muñoz",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roi-villar-soto-4676b814b",
+      "name": "Roi villar soto",
+      "summary": "Técnico electrónico en Aage Hempel Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25A1lvaro-ayala-fern%25C3%25A1ndez-813920162",
+      "name": "Álvaro Ayala Fernández",
+      "summary": "Administrativo en Elcome Europe",
+      "location": "Tomares"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manon-paquereau-89a286166",
+      "name": "Manon Paquereau",
+      "summary": null,
+      "location": "Lorient"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yanis-caron-0a461b18a",
+      "name": "Yanis Caron",
+      "summary": "Étudiant à Lycée Golf Hôtel",
+      "location": "Toulon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/delphine-de-canzio-185589198",
+      "name": "Delphine De Canzio",
+      "summary": "Chef des ventes",
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/floriane-bierlaire-0129b01a1",
+      "name": "Floriane Bierlaire",
+      "summary": "Professeur des écoles 🏫",
+      "location": "Veigné"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanie-page-883a991a3",
+      "name": "Melanie Page",
+      "summary": null,
+      "location": "Bonneville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilie-grimont-5645a21a5",
+      "name": "Emilie Grimont",
+      "summary": null,
+      "location": "Montlouis-sur-Loire"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanguy-dupuy-11a3561a7",
+      "name": "Tanguy Dupuy",
+      "summary": null,
+      "location": "Nice"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arthur-bertin-0b57021aa",
+      "name": "arthur bertin",
+      "summary": null,
+      "location": "Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yannis-caron-4200a91b7",
+      "name": "yannis CARON",
+      "summary": "électricien de maintenance des systèmes automatisés",
+      "location": "Montpellier"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julien-fronteau-69347b1ba",
+      "name": "julien fronteau",
+      "summary": "Opérateur logistique chez Lidl France",
+      "location": "Joué-lès-Tours"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mehdi-alim-54a3031bb",
+      "name": "mehdi alim",
+      "summary": null,
+      "location": "Tours"
+    }
+  ],
+  "recommendations": [
+    "Mathieu Cros\n\nI really enjoy collaborating with Léo. He is a very good listener and always accurate . We have been promoting maritime connectivity services over the last 2 years within sister companies. His proactive mindset and ready to help/share is really appreciable.",
+    "Erwan Ménard\n\nLeo has been able to build his network in few weeks to manage without hierarchical link the supply chain team. He has a good social and communication skills oriented to the result.",
+    "Mathieu Cros\n\n«I really enjoy collaborating with Léo. He is a very good listener and always accurate . We have been promoting maritime connectivity services over the last 2 years within sister companies. His proactive mindset and ready to help/share is really appreciable.»",
+    "Elvis PUSCHMANN\n\n«I worked with Leo during 2 years, and I can definitely say that his outstanding contribution led us straight to our target consisting in rationalizing and optimizing BBGRI business processing. Tenacity, autonomy, curiosity, open-minded, action and result oriented, enthusiasm, are just few Leo’s strengths I strongly appreciated throughout this 2 years critical program. Leo shows strong motivation in his day to day activities, and he never hesitates to bring his support anytime it is necessary, even beyond his scope of activities. He always keeps a sharp sense of workload allocation, preserving team efficiency, and contributors’ responsibilities. I would also praise his flexibility and his social intelligence, making Leo able to ease and to reinforce transversal team synergy, crucial point in any big company. Finally, Leo knows perfectly how to work under high pressure, keeping the right distance between his professional and personal life. During this 2 years program, I never noticed any drop of efficiency, even during rush periods. In conclusion, I do recommend Leo, to any company looking for synergy and efficiency in its project management processing.»"
+  ],
+  "activities": [
+    {
+      "title": "A huge thank you to the entire DPAA team for hosting such a vibrant and impactful event! 👏 A special shout-out to Nick Brien for delivering a truly…",
+      "link": "https://www.linkedin.com/posts/elias-bauguil-b95b756a_crisisasopportunity-leadership-digitaloutofhome-activity-7384588239258427393-zyro",
+      "activity_status": null
+    },
+    {
+      "title": "Met een grote glimlach kijken we terug op de foto’s van de Digital Creative Competition 2025! 🌟 #dcc2025 #dccamsterdam #theartofoutdoor",
+      "link": "https://nl.linkedin.com/posts/ocean-outdoor-nederland_dcc2025-dccamsterdam-theartofoutdoor-activity-7387124015280173056-2w5P",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to it Miguel Castañón!",
+      "link": "https://www.linkedin.com/posts/leojullien_looking-forward-to-it-miguel-castañón-activity-7449394767563702272-ro5Q",
+      "activity_status": null
+    },
+    {
+      "title": "Elias Bauguil, quel plaisir de vivre des projets collectifs à tes côtés depuis bientôt 30 ans...merci pour ta présence et all the best dans ce…",
+      "link": "https://www.linkedin.com/posts/leojullien_elias-bauguil-quel-plaisir-de-vivre-des-activity-7356300869539131392-sn1v",
+      "activity_status": null
+    },
+    {
+      "title": "What an honor!! A big thank you to Angela Green née Muckle, Tony Ridd, Phil Hall and Stephen Joseph and the entire Ocean Outdoor UK team for the…",
+      "link": "https://www.linkedin.com/posts/leojullien_what-an-honor-a-big-thank-you-to-angela-activity-7356298402294329345-wbEd",
+      "activity_status": null
+    },
+    {
+      "title": "Fier et heureux de contribuer au projet \"Mon Jardin CNV\" avec mereo pour développer et faire vivre la Communication Non Violente dans les relations…",
+      "link": "https://www.linkedin.com/posts/leojullien_mon-jardin-cnv-bienvenue-activity-7117781974492008448-0OO0",
+      "activity_status": null
+    },
+    {
+      "title": "Preparing my suitcase before heading to Lisbon with my dear friend Elias Bauguil to attend the annual World Out of Home Organization conference!…",
+      "link": "https://www.linkedin.com/posts/leojullien_woo-global-congress-lisbon-june-7th-9th-activity-7071827279210762240-BCyk",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to it, see you in Amsterdam!",
+      "link": "https://www.linkedin.com/posts/leojullien_home-activity-7002970449080893440-3QKd",
+      "activity_status": null
+    },
+    {
+      "title": "Bravo Elias! #revenuemanagement #pricingoptimization #mereo",
+      "link": "https://www.linkedin.com/posts/leojullien_revenuemanagement-pricingoptimization-activity-6946013821299814400-tT7s",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/leojullien_cv-activity-6912482253814034432-1CwO",
+      "activity_status": null
+    },
+    {
+      "title": "#maritime #digitalplatform #AageHempel",
+      "link": "https://www.linkedin.com/posts/leojullien_maritime-digitalplatform-aagehempel-activity-6752863831489294336-7JsO",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Léonard Jullien",
+      "link": "https://fr.linkedin.com/in/jullien-leonard",
+      "summary": "Étudiant(e) à Institut de Science Financière et d'Assurances (I.S.F.A)",
+      "location": "Paris"
+    },
+    {
+      "name": "Leo Jullien",
+      "link": "https://fr.linkedin.com/in/leo-jullien-31b94a194",
+      "summary": "Étudiant en bts à Epseco Valence",
+      "location": "Grenoble"
+    },
+    {
+      "name": "Léo Drouin-Jullien",
+      "link": "https://fr.linkedin.com/in/léo-drouin-jullien-6502a0214",
+      "summary": "--",
+      "location": "Francia"
+    },
+    {
+      "name": "Leonard Jullien",
+      "link": "https://mt.linkedin.com/in/leonard-jullien-963433189",
+      "summary": "E-commerce | Building DTC brand |",
+      "location": "Malta"
+    },
+    {
+      "name": "Leo Jullien",
+      "link": "https://fr.linkedin.com/in/leo-jullien-1b3a3014b",
+      "summary": "Chauffeur routier chez Adecco",
+      "location": "Villeneuve-le-Roi"
+    },
+    {
+      "name": "Léo JULLIEN",
+      "link": "https://fr.linkedin.com/in/léo-jullien-132340278",
+      "summary": "recherche d'un contrat d'alternance pour une année de licence\"Gestion de la Production Industrielle\" dans le domaine de l'amélioration continu de la production industrielle",
+      "location": "Nantes"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-23T00:00:00Z"
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "public_identifier": "diogo-henrique-vogel-93aa9062",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/add8033c6f6bae1cd48a3a6582ddeaff",
+  "background_cover_image_url": null,
+  "first_name": "Diogo",
+  "last_name": "Henrique Vogel",
+  "full_name": "Diogo Henrique Vogel",
+  "follower_count": 148,
+  "occupation": "Diretor at SP Outdoor",
+  "headline": "SP OUTDOOR COMUNICAÇÃO E MARKETING LTDA | GRUPO INTELI",
+  "summary": null,
+  "location_str": "São Paulo, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": null,
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "SP Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sp-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Diretor",
+      "description": "Locação mídia out of home - OOH Outdoor Busdoor Front light Painéis rodoviários Mobiliário urbano Construção de estruturas metálicas | totens front light | back light | painéis digitais Impressões em grandes formatos",
+      "location": "São Paulo, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1d1d603f49240ad07f700a8bc3ad1dc8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      },
+      "company": "Seara",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/-seara",
+      "company_facebook_profile_url": null,
+      "title": "Customer Service Representative (Corporate Quality Assurance)",
+      "description": null,
+      "location": "Itapiranga, SC",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/58e0b51b83534641076acc4c4fceeced"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "Seara Alimentos LTDA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/-seara",
+      "company_facebook_profile_url": null,
+      "title": "Quality Assurance Analyst",
+      "description": null,
+      "location": "Itapiranga, Santa Catarina, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/58e0b51b83534641076acc4c4fceeced"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Skills & Enterprise Development Academy SEDA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Student",
+      "description": "General English Student",
+      "location": "Dublin, Ireland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "company": "Skills & Enterprise Development Academy SEDA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Student Support",
+      "description": null,
+      "location": "Dublin, Ireland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2012
+      },
+      "company": "Taste of Brazil",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Cooking Chef",
+      "description": null,
+      "location": "Dublin, Ireland",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Engenharia de Segurança do Trabalho",
+      "degree_name": "Especialização",
+      "school": "Unoesc",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Gestão Ambiental",
+      "degree_name": "Pós Graduação",
+      "school": "Sei Fai Faculdades de Itapiranga",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Atividades corelacionadas a Gestão de Meio Ambiente",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Agronomia",
+      "degree_name": "Bacharel em Agronomia",
+      "school": "Fai Faculdades de Itapiranga",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Inglês",
+    "Português"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglês",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Português",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 141,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/arianenogueirasantos",
+      "name": "Ariane Nogueira",
+      "summary": "Continuous Improvement | Lean Manufacturing | Quality Management",
+      "location": "Chapadão do Céu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janaine-dias-borges",
+      "name": "Janaine Dias Borges",
+      "summary": "Supervisora de Qualidade| Coordenadora de Qualidade | Garantia e Controle de Qualidade | Auditoria Interna | Melhoria Contínua | LSS - Green Belt",
+      "location": "Luziânia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonardomichelonconnect",
+      "name": "Leonardo Michelon",
+      "summary": "Coordenador de Crédito e Seguros | Profissional Anbima CPA-20 | CPC-S100",
+      "location": "São Lourenço d’Oeste"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruno-da-silva08",
+      "name": "Bruno da Silva",
+      "summary": "Especialista  | Sustentabilidade | Meio ambiente | ESG",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robbarbosa",
+      "name": "Robert Barbosa",
+      "summary": "Sócio, Customer Experience & Events Coordinator | Eu ajudo a gerar empregos no G4 Educação",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/agnaldo-bergamo-7241a62b6",
+      "name": "Agnaldo Bergamo",
+      "summary": "Diretor comercial e de marketing na Eucatex",
+      "location": "Salto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-de-jesus-falasca-3b0371225",
+      "name": "Diego de Jesus Falasca",
+      "summary": "Head de Vendas",
+      "location": "Barra Bonita"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunojosesantos",
+      "name": "Bruno Santos",
+      "summary": "Growth Marketing | Business | Sales | Revenue | Tech",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-silv%25C3%25A3%25C2%25A9rio-bispo-dos-santos-00362610a",
+      "name": "Gabriela Silvério Bispo dos Santos",
+      "summary": "Analista de Garantia da Qualidade Jr. na JBS",
+      "location": "Lins"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-clara-marques-nolasco",
+      "name": "Ana Clara Marques Nolasco",
+      "summary": "Gerente de Qualidade | Food Safety | Supply Chain | Auditorias | P&D | Gestão de Pessoas | Gestão de KPIs | Pesquisa & Desenvolvimento",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-souza-392255146",
+      "name": "Thiago Souza",
+      "summary": "Gerente Comercial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonas-santos-96a4631b5",
+      "name": "Jonas Santos",
+      "summary": "Chefe de Vendas Energia Solar GD - WEG",
+      "location": "Jaraguá do Sul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francielle-da-silva-a23ab256",
+      "name": "Francielle da Silva",
+      "summary": "Food Engineer | Quality Assurance | Product Development | Continuous Improvement",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-silv%25C3%25A9rio-bispo-dos-santos-00362610a",
+      "name": "Gabriela Silvério Bispo dos Santos",
+      "summary": null,
+      "location": "Lins"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-de-carvalho-3513551b6",
+      "name": "Charles de Carvalho",
+      "summary": "Gerente Comercial na Spark",
+      "location": "Nova Prata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evandroluizoliveira",
+      "name": "Evandro Oliveira",
+      "summary": "Gerente de Operações & Logística | Redução de Custos | Eficiência em Transporte & Distribuição | Liderança de Grandes Equipes |",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-fl%25C3%25A1via-dos-santos-gurgel-30b03197",
+      "name": "Ana Flávia dos Santos Gurgel",
+      "summary": "Senior Manager | Engineering | Procter & Gamble",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janne-s%25C3%25B6the-33b5b348",
+      "name": "Janne Söthe",
+      "summary": "Analista da Garantia da Qualidade na Seara Alimentos LTDA",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wellington-borelli-92385222a",
+      "name": "Wellington Borelli",
+      "summary": "Head Of Sales| Gestor | Inside Sales | Saas | Inbound | Lean | Yellow Belt | Customer Experience | Cx | Customer Centricity | Melhoria Contínua | Suporte Técnico | Data Analytics | Outsourcing |",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miri%25C3%25A3-medina-de-%25C3%25A1vila-gon%25C3%25A7alves-719134150",
+      "name": "Miriã Medina de Ávila Gonçalves",
+      "summary": null,
+      "location": "Dourados"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tain%25C3%25A1-nogueira-falleiros-3984942b",
+      "name": "Tainá Nogueira Falleiros",
+      "summary": "Gestão da Qualidade, Auditor Líder FSSC 22000 / Auditor Food Safety / Auditor Segurança de Alimentos, Especialista Food Safety / Especialista Segurança de Alimentos, Consultora Food Safety Qualidade",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fl%25C3%25A1via-maria-spajari-cimenton-415a8450",
+      "name": "Flávia Maria Spajari Cimenton",
+      "summary": "Gerente de Controle e Garantia de Qualidade na Sustentare Produtos Alimentícios Ltda",
+      "location": "Amparo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aline-dias-de-almeida",
+      "name": "Aline Dias de Almeida",
+      "summary": "Operacional de Garantia da Qualidade - GxP no Instituto Butantan | Auditora de Qualidade Global Sênior",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliamm25",
+      "name": "Julia M.",
+      "summary": "Building the future",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandro-reis-33382326",
+      "name": "Leandro Reis",
+      "summary": "RevOps/Sales Excellence/ Planejamento Comercial/Go to Market",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariana-gradnauer-47778831",
+      "name": "Mariana Gradnauer",
+      "summary": "Diretora de Fábrica Nestlé",
+      "location": "Montes Claros"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-levorato-8a978332",
+      "name": "Juliana Levorato",
+      "summary": "Especialista em Sistemas de Gestão  da Qualidade e Segurança de Alimentos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodriguespedroh",
+      "name": "Pedro Rodrigues",
+      "summary": "Lidero os times que levam a Alice para novos clientes e garantem uma experiencia de pós-venda incrível",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-costa-56505540",
+      "name": "Juliana Costa",
+      "summary": "Supervisora de Higienização na JBS",
+      "location": "Lins"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-augusto-scalon-84195247",
+      "name": "Thiago Augusto Scalon",
+      "summary": "Analista de transporte na Seara Alimentos LTDA",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisangela-petzold-4a294260",
+      "name": "Elisangela Petzold",
+      "summary": "Sócio e fundador do Grupo Intelicom",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liandra-sartor-7a356763",
+      "name": "Liandra Sartor",
+      "summary": "Programa de Extensão ODS: Conscientização e Práticas",
+      "location": "Criciúma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-clara-fraire-cardoso-ba141565",
+      "name": "Ana Clara Fraire Cardoso",
+      "summary": "Coamo Agroindustrial…•2K followers",
+      "location": "Dourados"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aline-schorr-guarienti-bba71769",
+      "name": "Aline Schorr Guarienti",
+      "summary": "Diretora",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marciele-cividini-55057a74",
+      "name": "Marciele Cividini",
+      "summary": "Recrutamento e Seleção/Headhunter",
+      "location": "Itajaí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernando-e-orsi-156b447a",
+      "name": "Fernando E. Orsi",
+      "summary": "Quality Manager (Commercial  & Logistics)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariane-ferreira-silva-73459180",
+      "name": "Mariane Ferreira Silva",
+      "summary": "Food Engineering | Regulatory Affairs | Labelling | Quality Assurance | Quality Control | Scientific Affairs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-kappaun-66719587",
+      "name": "Vanessa Kappaun",
+      "summary": "Founder & CEO Pronttia | Inteligência operacional com IA para e-commerce | 15 anos liderando operação digital em grandes marcas de moda | Founder Joinly",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/douglas-flach-a04aa593",
+      "name": "Douglas Flach",
+      "summary": "Professor na UCEFF Itapiranga, Orientador de Laboratório de Matemática na EEB Madre Benvenuta de São João do Oeste, professor de Automação e Robótica.",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sormani-rodrigues-284690b3",
+      "name": "Sormani Rodrigues",
+      "summary": "Gerente Comercial  | Penna Off-Road Para-Choques E Acessorios",
+      "location": "São José do Rio Preto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvaro-zonta-07a6a2b4",
+      "name": "Alvaro Zonta",
+      "summary": "Eng. Ambiental e Sanitarista | Licenciamento Ambiental | Setor de Energia",
+      "location": "Chapecó"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucas-moitinho-542554101",
+      "name": "Lucas Moitinho",
+      "summary": "DRM Equipamentos",
+      "location": "Maringá"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeovane-selle-94b2b6129",
+      "name": "Jeovane Selle",
+      "summary": null,
+      "location": "São Miguel d’Oeste"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-gesing-b8b8ba147",
+      "name": "Alexandre Gesing",
+      "summary": "Supervisor de produção  na Seara Alimentos",
+      "location": "Nuporanga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/orlando-zagatto-396a3814a",
+      "name": "Orlando Zagatto",
+      "summary": "Head National - Auditoria Tributária / Consultoria Tributária / Compliance Fiscal / Liderança Comercial / Gestão de Relacionamentos / Crescimento Estratégico / Gestão de Riscos / Contábil",
+      "location": "Ribeirão Preto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erick-lu%25C3%25ADs-pereira-299a9b154",
+      "name": "Erick Luís Pereira",
+      "summary": "Consultor de Vendas",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leide-laura-da-rosa-1b1489160",
+      "name": "Leide Laura da Rosa",
+      "summary": "Gerente Técnica de Biologia na Eurofins do Brasil Análises de Alimentos e Ambientais",
+      "location": "Missal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvio-tiago-cosman-7b9378165",
+      "name": "Silvio Tiago Cosman",
+      "summary": "Supervisor de Agropecuária II",
+      "location": "Xanxerê"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliano-de-avila-06673b16b",
+      "name": "Juliano de Avila",
+      "summary": "Fundiário",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-paula-campos-godoy-049776180",
+      "name": "Ana Paula Campos Godoy",
+      "summary": "Farmacêutica Oncológica/Gestão Hospitalar/Pregoeira/Licitações/Green Belt Lean Six Sigma",
+      "location": "Portimão"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipe-bagno-52233a189",
+      "name": "Felipe Bagno",
+      "summary": "Fundador da Ligdata | Comunicação em massa com foco em vendas.",
+      "location": "Niterói"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipe-luis-henkes-7b9b71194",
+      "name": "Felipe Luis Henkes",
+      "summary": "Médico Veterinário",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julio-ritterbusch-3526a4198",
+      "name": "Julio Ritterbusch",
+      "summary": "ENG. AGRÔNOMO",
+      "location": "Nova Ramada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-caye-1a23b1199",
+      "name": "Guilherme Caye",
+      "summary": "Médico Veterinário | Extensionista | Auxiliar de Inspeção (SIF)",
+      "location": "Garibaldi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-morais-2bba9b1a4",
+      "name": "Juliana Morais",
+      "summary": "Servico de Inspeção Federal | JBS AVES LTDA",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-christi-tuffek-726a6b1ab",
+      "name": "Emily Christi Tuffek",
+      "summary": "Coordenadora Comercial na TM Máquinas Ltda",
+      "location": "Rio Negrinho"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodolfo-fabiano-7291631b4",
+      "name": "Rodolfo Fabiano",
+      "summary": "Supervisor de Manutenção",
+      "location": "Jaguapitã"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bianca-schuck-2622281b5",
+      "name": "Bianca schuck",
+      "summary": "Frequentou a UCEFF",
+      "location": "Itapiranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-fernando-jata%25C3%25AD",
+      "name": "Luis Fernando Jataí",
+      "summary": "Diretor Executivo | CBO | Gestão de Risco | Estrategista Comercial e Operacional",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henrique-barros-71b006214",
+      "name": "Henrique Barros",
+      "summary": "Backend Developer | Ruby on Rails | Node.js | Postgresql | Nestjs",
+      "location": "Pará de Minas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nathanluizkloch",
+      "name": "Nathan Luiz Kloch",
+      "summary": null,
+      "location": "Rio Verde"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-30T00:00:00Z"
+  }
+}

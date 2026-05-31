@@ -1,0 +1,22 @@
+{
+  "message": "EnrichLayer profile request failed: 404 Not Found",
+  "status": 404,
+  "body": {
+    "code": 404,
+    "description": "Person profile does not exist or has been deleted or marked as private by the user.",
+    "name": "Not Found"
+  },
+  "profile": {
+    "normalizedUrl": "https://www.linkedin.com/in/susannjerry-1aa58b3",
+    "username": "susannjerry-1aa58b3",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 426,
+    "attendee": {
+      "fullName": "Susann Jerry",
+      "company": "Ocean Outdoor",
+      "email": "",
+      "country": "United Kingdom"
+    }
+  },
+  "scrapedAt": "2026-05-31T06:16:15.214Z"
+}

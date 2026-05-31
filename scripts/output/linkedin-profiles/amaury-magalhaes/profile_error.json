@@ -1,0 +1,22 @@
+{
+  "message": "EnrichLayer profile request failed: 404 Not Found",
+  "status": 404,
+  "body": {
+    "code": 404,
+    "description": "Person profile does not exist or has been deleted or marked as private by the user.",
+    "name": "Not Found"
+  },
+  "profile": {
+    "normalizedUrl": "https://www.linkedin.com/in/amaury-magalhaes",
+    "username": "amaury-magalhaes",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 52,
+    "attendee": {
+      "fullName": "Amaury Magalhaes",
+      "company": "NEOOH",
+      "email": "amaury.magalhaes@neooh.com.br",
+      "country": "Brazil"
+    }
+  },
+  "scrapedAt": "2026-05-31T06:14:58.740Z"
+}

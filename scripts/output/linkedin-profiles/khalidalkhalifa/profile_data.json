@@ -1,0 +1,690 @@
+{
+  "public_identifier": "khalidalkhalifa",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Khalid",
+  "last_name": "Al Khalifa",
+  "full_name": "Khalid Al Khalifa",
+  "follower_count": 3846,
+  "occupation": "Co-founder/CTO at Mubashir",
+  "headline": "Co-founder/CTO @ Mubashir",
+  "summary": null,
+  "location_str": "مسقط مسقط عمان",
+  "country": "OM",
+  "country_full_name": "Oman",
+  "city": "Muscat",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Mubashir",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mubashir",
+      "company_facebook_profile_url": null,
+      "title": "Co-founder/CTO",
+      "description": null,
+      "location": "Sultanate of Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/277ac34f2e8241cc69d936a85f5a6ab7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "Mubashir",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mubashir",
+      "company_facebook_profile_url": null,
+      "title": "Co-founder/Technical Director",
+      "description": null,
+      "location": "Muscat, Masqaţ, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/277ac34f2e8241cc69d936a85f5a6ab7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2017
+      },
+      "company": "Mubashir",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mubashir",
+      "company_facebook_profile_url": null,
+      "title": "Co-founder/Managing Director",
+      "description": null,
+      "location": "Muscat, Masqaţ, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/277ac34f2e8241cc69d936a85f5a6ab7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "VentureBnk",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/venturebnk",
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": null,
+      "location": "Muscat, Masqaţ, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04ad617bbe5caaa398abc766f9e8bdc0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "icoms",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icomsworld",
+      "company_facebook_profile_url": null,
+      "title": "Founder/CEO",
+      "description": null,
+      "location": "Muscat, Masqaţ, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c4e6b59896a12e568bd0d39830a6949a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2007
+      },
+      "company": "Infoline",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/infolineoman",
+      "company_facebook_profile_url": null,
+      "title": "Senior Exective - Operations",
+      "description": null,
+      "location": "Muscat, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/619dfea6c1703462ee035d6f7499fbe1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2007
+      },
+      "company": "Bahwan CyberTek",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bctglobal",
+      "company_facebook_profile_url": null,
+      "title": "Senior Trainer - Systems Analysis & Design (Contract)",
+      "description": null,
+      "location": "Muscat, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d1238178b065c6af26a739e0312bcaf4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Macro Software Systems LLC MSS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/macro-software-systems-llc",
+      "company_facebook_profile_url": null,
+      "title": "Web Developer",
+      "description": "Web Design\nWeb Development\nInterface Design\nApplication Localization",
+      "location": "Muscat, Masqaţ, Oman",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f678bf798a36c2bf5714aa53ba3a6f1b"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Information Technology",
+      "degree_name": "Bachelors of Applied Science in IT",
+      "school": "RMIT University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rmit-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4863a3c9bd266f1fa3a06f11f8d7dbfc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Associate Degree",
+      "school": "Modern College of Business and Science",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Arabic",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 3210,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/abdullahalzaabi",
+      "name": "Abdullah Al-Zaabi",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omaralbulushi",
+      "name": "Omar Al Bulushi, CIM, ETIMAD",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/talal-hasan",
+      "name": "Talal Hasan",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/qais-aljedyani",
+      "name": "Qais Al Jedyani",
+      "summary": "Entrepreneurship | Digital Transformation | Venture Capital | Impact-driven",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saifalmaluk",
+      "name": "Saifal Maluk",
+      "summary": "CTO at Bima",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zeynep-baskirt",
+      "name": "Zeynep B.",
+      "summary": "Mubashir | Driving Impact Through Digital OOH Advertising",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mr-binary",
+      "name": "Mohammad Akbari",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marwaalhabsi44979b98",
+      "name": "Marwa Alhabsi",
+      "summary": "Software Engineer at Diwan of Royal Court",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/radhwan-abdi-al-balushi-405901257",
+      "name": "Radhwan Abdi Al Balushi",
+      "summary": "Creative Specialist at Mubashir",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muralisagarpalani-cto",
+      "name": "Murali Sagar Palani",
+      "summary": "CTO at National Energy Centre -                                \n  Leadership Strategist - Technology Whiz -  Thought Leader with 20 years of Experience",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauriciopretto",
+      "name": "Mauricio Pretto",
+      "summary": "Sales Jedi | Angel Investor | Advisor | Writer | xBA | Futurist | +100 Countries | Photographer",
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maher-al-saqri-b78589252",
+      "name": "Maher Al Saqri",
+      "summary": "Architectural Engineer | Project coordinator at F&M middle east engineering consultancy",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wadhha-al-balushi-01760b170",
+      "name": "Wadhha Al Balushi",
+      "summary": "Sales Specialist at Mubashir",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mennamagdy-m",
+      "name": "Menna Magdy",
+      "summary": "Business Analyst",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/manar-almanji-8ba166253",
+      "name": "Manar Almanji",
+      "summary": "Sales and Marketing Specialist at Mubashir",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maher-alsaqri-b78589252",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalid-alkhalifa-25111723a",
+      "name": "khalid Alkhalifa",
+      "summary": "Financial Analyst",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalifa-khalid-al-khalifa-b89356188",
+      "name": "Khalifa Khalid Al Khalifa",
+      "summary": "Sr. Government Relations Specialist Corporate Comms. & Sustainability",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/omar-al-namaani-a85382254",
+      "name": "Omar Al Namaani",
+      "summary": "Senior Sales Specialist | Advertising & Marketing  @Mubashir",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-alrasbi",
+      "name": "Mohammed Al Rasbi",
+      "summary": "Founder & GP at R&D Capital & Labs | Venture Builder | Startup Mentor & Strategist",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jyotsnat",
+      "name": "Jyotsna T.",
+      "summary": "Senior Marketing Manager at Mubashir",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wahid-hossain-sony",
+      "name": "Wahid Hossain",
+      "summary": "🎨 Designer Turned E-Commerce Professional | Amazon FBA, eBay & Marketplace Management | Industrial Design Background + 9 Yrs Project Leadership | Skilled in Branding, Marketplace Growth & Business Operations",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sushind-parakandy-766411162",
+      "name": "Sushind Parakandy",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdulghani-al-harthi-8b71b353",
+      "name": "Abdulghani Al Harthi",
+      "summary": "Deputy General Manager at Seven Seas Petroleum",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jkiahhochstetler",
+      "name": "Kiah Hochstetler",
+      "summary": null,
+      "location": "Missoula"
+    },
+    {
+      "link": "https://www.linkedin.com/in/faisal-alhadhrami-5532a4232",
+      "name": "Faisal Alhadhrami",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdullah-alhinai-mba-etimad-489044100",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anwar-al-asmi-6423675",
+      "name": "Anwar Al-Asmi",
+      "summary": "Director/DOP/VFX GENERALIST",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-peiries-0bb7527",
+      "name": "BRIAN PEIRIES",
+      "summary": "Director of Communications | Client Servicing | Project & Event Management\n🔹 30+ Years of Expertise in Client Relations, Special Projects, Event Execution & Experiential Marketing",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kozyrkov",
+      "name": "Cassie Kozyrkov",
+      "summary": "CEO, Google's first Chief Decision Scientist, AI Adviser, Decision Strategist, Keynote Speaker (makecassietalk.com), LinkedIn Top Voice",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamed-tamami",
+      "name": "Mohammed Al-Tamami",
+      "summary": "Chief Commercial Officer at Mamun",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/priyanka-bohidar-b6bb7711",
+      "name": "Priyanka Bohidar",
+      "summary": "Network Expansion | Partnership Growth | Commercial Real Estate | Ex-Media Sales",
+      "location": "Bhubaneshwar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasim-mohammed-09a16328",
+      "name": "JASIM MOHAMMED",
+      "summary": "CEO and Co-Founder of Durian Steel",
+      "location": "Al Khaburah"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muhammad-alsalmy-2b9bba2b",
+      "name": "Muhammad AlSalmy",
+      "summary": "Managing Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-al-issaei-a970a33a",
+      "name": "Ahmed Al-Issaei",
+      "summary": "Co-Founder & CTO @ mamun",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yousuf-al-yahmadi-61ab5345",
+      "name": "Yousuf Al Yahmadi",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hanan-rasheed-a5894b4b",
+      "name": "Hanan Rasheed",
+      "summary": "Head of Development at icoms",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saleh-al-tamami-28a5ab54",
+      "name": "Saleh Al-Tamami",
+      "summary": "CEO & Cofounder at Mamun",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/musab-almuniri-9a920456",
+      "name": "Musab Almuniri",
+      "summary": "Crafting Innovative Solutions | Strategic Technology Consultant | Business Leader",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wael-hosni-a3020556",
+      "name": "Wael Hosni",
+      "summary": "Managing Director and CTO @ TBS",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kiranmai-machavaram-14095b61",
+      "name": "Kiranmai Machavaram",
+      "summary": "Senior Application Developer with 13 years of experience in GCC and India",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saidalazri",
+      "name": "Said Alazri",
+      "summary": "Education for All Anytime Anywhere",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ekrema-ziaullah-28a18868",
+      "name": "Ekrema Ziaullah",
+      "summary": "Senior Technical Manager at Mubashir/Touchpoynts",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-al-wahaibi-40496a79",
+      "name": "Mohammed Al-Wahaibi",
+      "summary": "Phaze Ventures•2K followers",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nasser-al-musalhi-50945095",
+      "name": "Nasser Al Musalhi",
+      "summary": "CEO & founder at Bariq tech",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alka-rani-8b334196",
+      "name": "Alka Rani",
+      "summary": "Program Manager | CEO Office Management",
+      "location": "Santa Clara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-al-raisi-13a50396",
+      "name": "Ali Al Raisi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdul-gafoor-551a8598",
+      "name": "Abdul Gafoor",
+      "summary": "Product & Solution  Director at ORIONEDGE Consulting & Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marwa-albarwani-09a2369b",
+      "name": "Marwa AlBarwani",
+      "summary": "Co Founder at Miss Independent",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nafil",
+      "name": "Nafil Al-Alawi",
+      "summary": "AI || CTO || Certified TensorFlow || ML Developer || Full Stack Developer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/taghreed-al-yahmadi-509aa5122",
+      "name": "Taghreed Al Yahmadi",
+      "summary": "Accounting Specialist | Ensuring Financial Accuracy & Compliance While Supporting Data-Driven Business Decisions.\nBachelor's degree in Accounting | CMA P1",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laila-al-harthi-b293b5124",
+      "name": "Laila Al Harthi",
+      "summary": "Co-Founder, CEO at Waqt dawam",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hajir-al-maskri",
+      "name": "Hajir A.",
+      "summary": null,
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/waheed-ali-1a7842158",
+      "name": "Waheed Ali",
+      "summary": "Director & CTO at Global Network Services Co. LLC - ERP Consultant Unified Communications, VoIP Cloud & Video Collaboration",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahaa-al-badri-b9b8b7173",
+      "name": "Mahaa Al-Badri",
+      "summary": "Co-Founder at WearView",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ghadeer-alhadhrami-90331918b",
+      "name": "Ghadeer Alhadhrami",
+      "summary": "Marketing • Communications • Digital",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ibrahim-elmalky-297961190",
+      "name": "Ibrahim Elmalky",
+      "summary": "Vast Menu•7K followers",
+      "location": "Alexandria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/muna-al-balushi-4504191a0",
+      "name": "Muna Al-balushi",
+      "summary": "Software engineer ‘ Scintific Researcher and Mobile app developer trainer",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noor-a-1987841a4",
+      "name": "Noor A.",
+      "summary": "Treasury Operation at Bank Muscat",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nusreen-moideen-0180b81b5",
+      "name": "Nusreen Moideen",
+      "summary": "Founder of The Social Circle Oman",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-dsouza-61a943207",
+      "name": "Natasha Dsouza",
+      "summary": "Ad Operations | Wellness Advocate",
+      "location": "Muscat"
+    }
+  ],
+  "recommendations": [
+    "Mamoun Abdelrahim\n\nWorking with Khalid it was always a pleasure. He is the rare individual that combines intelligence, common sense, integrity, passion, sincerity and humor. He would probably prefer to be remembered for his professionalism and his spirit of inclusion for the concerns and interests of all involved in the projects, and he is truly outstanding in these regards, but I remember him best for his sense of humor (He always seemed to have a big smile on his face), his intellectual curiosity and his willingness to see all sides of an issue, even if by doing so he discovered things that made his own path harder. I always admired that about Khalid and I'm sure I'm not the only person who could say so.",
+    "Mohamed Al-Harthy\n\nKhalid Khalifa’s leadership performance is expressed through his achievements through the years. His is a visionary business leader and a founder of applied technology companies supporting, influencing and advising various businesses and specially ad-tech business. Khalid has been a pro of high quality in strategy, planning and driving the technology part in mubashir to the performance of excellence. His influence also goes to other related companies including icons...\nI have seen Khalid as a strategic leader as a founding member in strategy meetings and a practical implementer of the agreed plans in execution phase. I have known Khalid since day zero of mubashir…"
+  ],
+  "activities": [
+    {
+      "title": "✨ Great Events. Great People. Great Moments. ✨ Attending the Qatar Economic Forum alongside my co-founder Raif Al-Harthy, an incredible platform full…",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_qatareconomicforum-qef-entrepreneurship-activity-7330954553292439552-agyK",
+      "activity_status": null
+    },
+    {
+      "title": "Are you attending #leap2024? Are you interested in the #future of #webdevelopment? Lets talk about #nocode.. Lets talk about the future!! Everyone…",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_leap2024-future-webdevelopment-activity-7170698068047118336-vat7",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to be a part of this incredible journey with Mubashir and the visionary team behind this venture. Completing this investment deal, with the…",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_adtech-ai-brands-activity-7179847472637239296-6gMw",
+      "activity_status": null
+    },
+    {
+      "title": "What an amazing coincidence to end up sharing a taxi ride with most powerful woman in #ai Cassie Kozyrkov. We had a wonderful conversation about…",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_ai-artificialintelligence-leap2023-activity-7028744887512481792-w5s4",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you very much Khalid Al Huraibi (Impact Integrated ) and Authority for SME Developmentfor an amazing session and series #wujha. I truly enjoyd…",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_بث-مباشر-جلساتوجهة-عن-أفضل-ممارسات-التسويق-activity-6894892633236586496-Fq08",
+      "activity_status": null
+    },
+    {
+      "title": "كل عام وأنتم بخير Eid Mubarak",
+      "link": "https://www.linkedin.com/posts/khalidalkhalifa_كل-عام-وأنتم-بخير-eid-mubarak-activity-6926575110627684352-Y8dp",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Khalid Al-Khalifa",
+      "link": "https://bh.linkedin.com/in/khalid-al-khalifa-b205a310",
+      "summary": "Board Member at art marine bahrain",
+      "location": "Capital Governorate, Bahrain"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://uk.linkedin.com/in/khalid-al-khalifa-5a9716148",
+      "summary": "-",
+      "location": "Strand"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://bh.linkedin.com/in/khalid-al-khalifa-9885348",
+      "summary": "Project Director at Supreme Council of Health - Bahrain",
+      "location": "Southern Governorate, Bahrain"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://bh.linkedin.com/in/khalid-al-khalifa-5b876632",
+      "summary": "Manage relationship between Batelco and technology partners.",
+      "location": "Bahrain"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://bh.linkedin.com/in/khalid-al-khalifa-88283622a",
+      "summary": "Student at St Christopher's School Bahrain",
+      "location": "Manama"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://uk.linkedin.com/in/khalidalkhalifaa",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "Khalid Al Khalifa",
+      "link": "https://uk.linkedin.com/in/khalid-al-khalifa-276293236",
+      "summary": null,
+      "location": "London"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-22T00:00:00Z"
+  }
+}

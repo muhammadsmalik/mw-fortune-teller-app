@@ -1,0 +1,1683 @@
+{
+  "public_identifier": "mehul-mandalia",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c92700a7e636dea1811fd4d6dbb76e3c",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/99dfae398b1bd5f036c0fe6d900a09ff",
+  "first_name": "Mehul",
+  "last_name": "Mandalia",
+  "full_name": "Mehul Mandalia",
+  "follower_count": 3631,
+  "occupation": "Cofounder & Head of Product at Moving Walls",
+  "headline": "Co-founder @ Moving Walls | Building the operating system for OOH & Retail Media | Insights on scaling physical media with data, AI, and automation",
+  "summary": "Most out-of-home media businesses don’t have a demand problem. They have an…",
+  "location_str": "Malaysia",
+  "country": "MY",
+  "country_full_name": "Malaysia",
+  "city": "Kuala Lumpur",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls",
+      "company_facebook_profile_url": null,
+      "title": "Cofounder & Head of Product",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/410ebb3f71ae7e6f77b170a5f9404c0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      },
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/410ebb3f71ae7e6f77b170a5f9404c0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Lead",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/410ebb3f71ae7e6f77b170a5f9404c0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2018
+      },
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls",
+      "company_facebook_profile_url": null,
+      "title": "Digital Marketing Specialist",
+      "description": "For a period of three years, I was responsible for building the Moving Walls brand from website management and email marketing to media and industry event presence. Today, Moving Walls operates in six markets across three continents.",
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/410ebb3f71ae7e6f77b170a5f9404c0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "company": "Limkokwing University of Creative Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/limkokwing",
+      "company_facebook_profile_url": null,
+      "title": "Writer",
+      "description": "Content developer for the media relations department and in-house creative agency",
+      "location": "Cyberjaya",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/acc6cf8d5a85d0c0c50945e17850213c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder, Chief Marketing & Growth Officer",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Moving Walls",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/moving-walls/",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & Head of Platforms",
+      "description": null,
+      "location": "Kuala Lumpur, Malaysia",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Universiti Teknologi Kreatif Limkokwing",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universiti-teknologi-kreatif-limkokwing",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Mass Communication/Media Studies",
+      "degree_name": "Bachelor of Arts (BA)",
+      "school": "Limkokwing University of Creative Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universiti-teknologi-kreatif-limkokwing/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Aktiviti dan Persatuan:Football & Futsal Team"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": null,
+      "degree_name": "IGCSE",
+      "school": "Kisumu Senior Academy",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Public Relations, Advertising, and Applied Communication",
+      "degree_name": "Master of Business Administration (MBA)",
+      "school": "Limkokwing University of Creative Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universiti-teknologi-kreatif-limkokwing/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "Swahili",
+    "Malay",
+    "Indonesian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Gujarati",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Swahili",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Malay",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Indonesian",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": null,
+      "org_name": "Moving Walls",
+      "title": "Digital Media Specialist",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2015
+      },
+      "org_name": "Malaysia Design Innovation",
+      "title": "Writer",
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [
+    {
+      "name": "Is offline media becoming the biggest driver of online engagement? A review of recent trends and opportunities",
+      "publisher": "Journal of Digital & Social Media Marketing by Henry Stewart Publications",
+      "published_on": {
+        "day": 14,
+        "month": 6,
+        "year": 2021
+      },
+      "description": "As advertising spend continues to shift online, out-of-home (OOH) advertising has bucked the trend by transforming itself using digital technologies. Indeed, in all types of locations, the age-old billboard is proving to be an effective driver of online engagement. This article examines how this offline channel has intertwined itself with online media and the various ways in which marketers can use it to drive digital campaign performance. It also looks at OOH’s pivotal role at different stages of the marketing funnel.",
+      "url": "https://www.henrystewartpublications.com/jdsm/v9"
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Certificate in the English Legal System",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "title": "Store Assistant",
+      "cause": "Pembasmian Kemiskinan",
+      "company": "Oxfam",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oxfam/",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C560BAQGxggEAfTho3A/company-logo_100_100/company-logo_100_100/0/1630594753447/oxfam_logo?e=2147483647&v=beta&t=7QNlpkZkCjHO_6iwljonxEGNgwdrq78Nx4YO2ipYzSs"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "name": "Content Marketing",
+      "license_number": "Lihat bukti kelayakan",
+      "display_source": "hubspot-academy.s3.amazonaws.com",
+      "authority": "HubSpot Academy",
+      "url": "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/5c23561ed3074f218c473b73028545cc-1610352366699.png"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "name": "Email Marketing",
+      "license_number": "Lihat bukti kelayakan",
+      "display_source": "hubspot-academy.s3.amazonaws.com",
+      "authority": "HubSpot Academy",
+      "url": "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/da3c3ebf926c4c3aad02138199a7f6d3-1605866122216.png"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "name": "Inbound Marketing",
+      "license_number": "Lihat bukti kelayakan",
+      "display_source": "hubspot-academy.s3.amazonaws.com",
+      "authority": "HubSpot Academy",
+      "url": "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/59f603f8c5b647cb9dab3623d4ada254-1604220288944.png"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "name": "Display & Video 360 Certification",
+      "license_number": "ID Bukti Kelayakan 76883237",
+      "display_source": null,
+      "authority": "Google",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "name": "Google Analytics Certification",
+      "license_number": "ID Bukti Kelayakan 77015218",
+      "display_source": null,
+      "authority": "Google",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2022
+      },
+      "name": "HubSpot Sales Software",
+      "license_number": "Lihat bukti kelayakan",
+      "display_source": "hubspot-academy.s3.amazonaws.com",
+      "authority": "HubSpot Academy",
+      "url": "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/c92f77a9f7be4a2d9f8a4f2f9348c23b-1610356374549.png"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2021
+      },
+      "name": "Scrum Fundamentals Certified",
+      "license_number": "ID Bukti Kelayakan 618740",
+      "display_source": null,
+      "authority": "SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(381 pages)",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2021
+      },
+      "name": "Scrum Fundamentals Certified",
+      "license_number": "618740",
+      "display_source": null,
+      "authority": "SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(381 pages)",
+      "url": null
+    }
+  ],
+  "connections": 3206,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/shyamravishankar",
+      "name": "Shyam Ravishankar",
+      "summary": "FIFA+ | Performance | OOH | Digital | Commerce | AdTech | Data | Consulting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashhong",
+      "name": "Ash Hong",
+      "summary": "Marketing, Brand & Communications Lead",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexchaiherngsheng",
+      "name": "Chai Herng Sheng (Alex)",
+      "summary": "Head of Product Development (Digital) at Astro CX & Digital Business",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laiyangjie",
+      "name": "Lai Yang Jie",
+      "summary": "Digital Marketer | Data Analyst",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/riteshsinha",
+      "name": "Ritesh S.",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/airportseoul",
+      "name": "Hyun Lee",
+      "summary": "Seoul Incheon Airport Advertising Specialist / Mental Wellness Advocate",
+      "location": "Seoul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kumarramkrishnan",
+      "name": "Kumar Ramkrishnan Achari",
+      "summary": "Presenting OOH globally with data + innovations + programmatic deliveries",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kennethtant31",
+      "name": "Kenneth Tan",
+      "summary": "Co-founder, CEO at BeLive Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartendollevoet",
+      "name": "Maarten Dollevoet",
+      "summary": "Chief Revenue Officer at Broadsign",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nimeshsinghal",
+      "name": "Nimesh Singhal",
+      "summary": "Senior Product Leader | AI & ML Products | B2C Apps & B2B Platforms | 0→1 & Scaling | Virgin Mobile | Ex-Accor, AirAsia, Central Retail, Flipkart, Ola, ADFG | MEA, SEA, EU",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/quinn-amalore-38683b87",
+      "name": "Quinn Amalore",
+      "summary": "Innovative B2B marketeer with nearly 10 years’ experience, passionate about creating strategic campaigns that drive business objectives.",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanchit-neema-35033",
+      "name": "Sanchit Neema",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimlucy-mazza",
+      "name": "Kim Lucy Mazza",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/janice-chin-20ba6938",
+      "name": "Janice Chin",
+      "summary": "Driving Sales Growth & Operational Excellence at Newswav",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kugendren-puranavalu-093b24239",
+      "name": "Kugendren Puranavalu",
+      "summary": null,
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riley-rian-55791922a",
+      "name": "Riley Rian",
+      "summary": "Content Marketer by Day, Community Organizer by Night",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/milindsattur",
+      "name": "Milind S.",
+      "summary": "Media Research, Audience Measurement - Invidi Technologies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nsanthoshkumar",
+      "name": "Santhosh Kumar",
+      "summary": "Head Of Service Delivery at Moving Walls",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darshvini-malar-0a56b3224",
+      "name": "Darshvini Malar",
+      "summary": "Senior Branding & Marketing Analyst",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/winniechenhead",
+      "name": "Winnie Chen-Head",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravena-hundal",
+      "name": "Ravena Hundal",
+      "summary": "Head of Marketing (Malaysia) at Kind Kones",
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/narayan-murthy",
+      "name": "Narayan Murthy Ivaturi",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heng-aw-b498025",
+      "name": "Heng AW",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abbasalvi",
+      "name": "Abbas Alvi",
+      "summary": "Product Manager, Pickles Auctions - Socar, Etisalat, Startups",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yantinading",
+      "name": "Yanti Nading",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farha-khan-6699b913",
+      "name": "Farha Khan",
+      "summary": "DOOH | pDOOH | Programmatic DOOH | DV360 | TTD | Ad tech | Media Tech | Data & Analytics | OOH measurement | Customer Success | Project Delivery",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/racheltan88",
+      "name": "Rachel Tan",
+      "summary": "Founder of The Nurts |  Malaysian CMO Awards 2019 Gold - Best Marketer in E-Commerce",
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salil-goel-8513b826",
+      "name": "Salil Goel",
+      "summary": "Assistant Professor, IIT Kanpur",
+      "location": "Kanpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phyllis-lim-9b624627",
+      "name": "Phyllis Lim",
+      "summary": "Product Manager at Fimaco Sdn Bhd",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hellotammylim",
+      "name": "Tammy Lim",
+      "summary": "Content Creation / KOL Management / ex-Head Creative Coms Althea Korea",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brucemundell16",
+      "name": "Bruce Mundell",
+      "summary": "Market SHIFT Consultants•3K followers",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leefen",
+      "name": "LeeFen Chong",
+      "summary": "U Mobile Head Of Digital",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wongww15",
+      "name": "Wong Weng Wai",
+      "summary": "Head Of Marketing at iCar Asia Limited (CARSOME Group)",
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nayanika-basu",
+      "name": "Nayanika Basu",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omarhakimo",
+      "name": "Omar Hakim Omar",
+      "summary": "AVP Product Management | Astro | NJOI I Prepaid | 15 Years Media & Product | OTT · Pay-TV · Digital Platforms | Malaysia",
+      "location": "Petaling Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-tessy-b9aab886",
+      "name": "Michelle Tessy",
+      "summary": "Global Policy Program Lead - Advertiser Experience",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandakini-negi-4044638a",
+      "name": "Mandakini Negi",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/din-yahya-b6668193",
+      "name": "Din Yahya",
+      "summary": "Product Manager",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eungyu-q-park",
+      "name": "Eungyu(Q) Park",
+      "summary": "Country Manager, South Korea for Polymerize | AI | Revolutionizing material R&D through System of Intelligence",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wazeer-hyder-syed-a44941108",
+      "name": "Wazeer Hyder Syed",
+      "summary": "Innovating OOH Advertising",
+      "location": "Dar es-Salaam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacknewenham",
+      "name": "Jack Newenham",
+      "summary": "Growth & Performance Marketing Manager | Marketing & Growth Mentor | Startup & Tech Enthusiast | Lover of all things food, travel and fitness. Let’s grab a coffee! ☕️",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahamed-noor-a1a783111",
+      "name": "Ahamed Noor",
+      "summary": "Head of Programmatic Operations",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-andre-widjaja-287016133",
+      "name": "Jonathan Andre Widjaja",
+      "summary": "Supply Lead at Moving Walls",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/veann-chia-475774148",
+      "name": "Veann Chia",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tankinfoo",
+      "name": "Kin Foo Tan",
+      "summary": "Product Manager | Co-Founder at Hon Kei Kopitiam, and Hon Kei Spicy Soup",
+      "location": "Subang Jaya"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-lim-773100185",
+      "name": "Charles L.",
+      "summary": null,
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/syeda-vizarath-6116a0194",
+      "name": "Syeda Vizarath",
+      "summary": "Client Executive at Moving Walls",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/metty-aristyana-142291198",
+      "name": "Metty Aristyana",
+      "summary": "A seasoned Sales & Marketing Prof.360campaign|20years Beyond Placement|Print,TV,Cinema,Activity,DigitalMarketing(ContentMarketing&eCommerce),SearchEngine&SocialMedia,MCN(Affiliate,KOL,MarketPlace),Tech(Programmatic,DOOH)",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dileep-udayanan-928a541a4",
+      "name": "Dileep Udayanan",
+      "summary": "Aspiring Cybersecurity Professional | Currently Pursuing PGP in Cybersecurity | Cybersecurity Analyst  | Information Security | Network Security | Geospatial Engineer \n| GIS | Image Processing | Drone Pilot",
+      "location": "Chennai"
+    }
+  ],
+  "recommendations": [
+    "Chanratanak R.\n\nMr. Mandalia is known for his calm and strategic focus. His calm and collected composure is in fact charismatic. It has been a great pleasure for me to know Mr. Mandalia in both professional capacity as well as a friend. I am confident that any client or organisation would benefit from having Mr. Mandalia on board.",
+    "Maureen Lim\n\nMehul has an aptitude for leadership, always encouraging others to do their best and is open to communicating with everyone; so that the task at hand can be completed.Easy going yet assertive, he has been so helpful to me in many projects that we have worked on ."
+  ],
+  "activities": [
+    {
+      "title": "MTR digital media is now available for every consumer.   As Valentine's Day is just around the corner, try it to confess your love creatively along…",
+      "link": "https://www.linkedin.com/posts/linda-lam-2766b615_mtr-digital-media-is-now-available-for-every-activity-7293425469029326850-xrOX",
+      "activity_status": null
+    },
+    {
+      "title": "🖋️ Less is More – ESPECIALLY in Japanese Advertising Japanese copywriters have a unique way of crafting messages that go beyond words, using…",
+      "link": "https://www.linkedin.com/posts/jeki-marketplace-mastrum_advertising-copywriting-billboarddesign-activity-7295275431174291458-1ULp",
+      "activity_status": null
+    },
+    {
+      "title": "ICYMI - Heathrow featuring in a Super Bowl ad for Salesforce, with not a bad cast either! The Heathrow App is very good too, super helpful for when…",
+      "link": "https://www.linkedin.com/posts/richard-simkins_icymi-heathrow-featuring-in-a-super-bowl-activity-7294999686187282433-reST",
+      "activity_status": null
+    },
+    {
+      "title": "How much I spend on AI tools every month? #ravisbook",
+      "link": "https://www.linkedin.com/posts/ravisbook_ravisbook-activity-7294715504819126272-sPdU",
+      "activity_status": null
+    },
+    {
+      "title": "In less than 5 hrs Today, #GlassDome will be having their 5th iteration of BIG IMPACT, A LEADERSHIP SERIES TO EMPOWER CHANGE ! \"WOMEN SHAPING…",
+      "link": "https://www.linkedin.com/posts/garytensquare_glassdome-philanthropy-world-activity-7294976809773797376-g3jH",
+      "activity_status": null
+    },
+    {
+      "title": "DFI Retail Group has appointed Yoep Man (pictured left) as CEO for 7-Eleven for South China, Hong Kong, Macau and Singapore, succeeding Danni Peirce…",
+      "link": "https://www.linkedin.com/posts/marketinginteractive_dfi-retail-group-names-new-ceo-for-hk-and-activity-7294912268729819136-i1xb",
+      "activity_status": null
+    },
+    {
+      "title": "What happens when diverse perspectives come together? ✨ A conversation that challenges ideas, sparks innovation, and sets the stage for what’s next!…",
+      "link": "https://www.linkedin.com/posts/yagika_exploring-the-role-of-connected-tv-in-shaping-activity-7294965904663097344-L1mY",
+      "activity_status": null
+    },
+    {
+      "title": "Great to see that whilst I am away the team are on it!  So proud of Jacob Moses for keeping the ops on the ground running so efficiently on a daily…",
+      "link": "https://www.linkedin.com/posts/asher-moses-3970856_great-to-see-that-whilst-i-am-away-the-team-activity-7292593578202005504-TDaT",
+      "activity_status": null
+    },
+    {
+      "title": "KFC Malaysia has named Hanim Mazam (pictured) as its new chief marketing officer (CMO). Prior to her role as KFC's CMO, Mazam was the company's…",
+      "link": "https://www.linkedin.com/posts/marketinginteractive_kfc-malaysia-names-new-cmo-activity-7294927944068542464-i5Ih",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Maud Moawad Anna Maria Pisano for the brilliantly organized industry regroup!",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_thank-you-maud-moawad-anna-maria-pisano-for-activity-7295843640680103936-LQds",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Exciting news! I'm attending the Retail Technology Show 2025 - the ultimate carnival for retail innovation & tech 🚀 Experience the spectacular…",
+      "link": "https://www.linkedin.com/posts/ricky-murray_rts2025-retailtech-retailinnovation-activity-7295811503306297345-HdIl",
+      "activity_status": null
+    },
+    {
+      "title": "Pos Malaysia Berhad is thrilled to announce the arrival of our first Pos Shop in East Malaysia, located in the Land Beneath the Wind! The launch…",
+      "link": "https://www.linkedin.com/posts/pos-malaysia-berhad_poswira-posmalaysia-posshop-activity-7295607620000722945-zUwY",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Welcoming the Year of the Snake at Our KL Office! ✨ Our KL team came together to celebrate Chinese New Year with joy, prosperity, and of course…",
+      "link": "https://www.linkedin.com/posts/moving-walls_cny2024-yearofthedragon-teamcelebration-activity-7295745618977636353-MqJW",
+      "activity_status": null
+    },
+    {
+      "title": "Just wrapped up an incredible day at Connected Retail 2025—a premier event organised by MARKETING-INTERACTIVE in partnership with adm Group. We…",
+      "link": "https://www.linkedin.com/posts/raushidavasaiwala_connectedretail-womenintech-beingpanelist-activity-7295676355206098944-C99W",
+      "activity_status": null
+    },
+    {
+      "title": "What a fortunate meeting for Cinépolis Cinemas Indonesia, as it coincides with the birthday of Ibu Bernarita Wahyudi Implementation Director UM…",
+      "link": "https://www.linkedin.com/posts/metty-aristyana-142291198_what-a-fortunate-meeting-for-cinépolis-cinemas-activity-7295627092090568705-MwMS",
+      "activity_status": null
+    },
+    {
+      "title": "Driving Retail Engagement with Primedia Malls Moving Walls powered a multi-market Digital Out-of-Home (DOOH) campaign across Africa, strengthening…",
+      "link": "https://www.linkedin.com/posts/moving-walls_retaildooh-africaadvertising-mallscreens-activity-7295607617698021376-Aq6p",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Digital Travel APAC 2025 is back! 🚀 On 12-13 August 2025, we’re bringing together APAC’s top airlines, hotels, OTAs, and travel innovators at…",
+      "link": "https://www.linkedin.com/posts/nadiah-jamaludin_digitaltravelapac-travelmarketing-paymentsinnovation-activity-7295288906319548417-UIV5",
+      "activity_status": null
+    },
+    {
+      "title": "Appreciate the shoutout OUTFRONT Media We had a blast bringing this campaign to life and making sure our customer's brand was front and center during…",
+      "link": "https://www.linkedin.com/posts/nick-ortega-20914019_appreciate-the-shoutout-outfront-media-we-activity-7295478285717651456-LcdZ",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve started to run my owned Yourube channel to talk about global digital marketing service.  Please check and follow me:)",
+      "link": "https://www.linkedin.com/posts/kazuya-naraoka-87b81b41_ive-started-to-run-my-owned-yourube-channel-activity-7290298455564894209-Am2A",
+      "activity_status": null
+    },
+    {
+      "title": "It's time for Eye Spy Saturday, even though I caught this beauty Friday night. Eye Spy a 55\" inch front and back digital display at the Southwest…",
+      "link": "https://www.linkedin.com/posts/nick-coston-9780123_its-time-for-eye-spy-saturday-even-though-activity-7316833141686497280-bH-B",
+      "activity_status": null
+    },
+    {
+      "title": "Fancy joining the fastest growing OOH network in the UK? 🚀  During this exciting period of growth at 75Media, I'm looking for an experienced…",
+      "link": "https://www.linkedin.com/posts/chris-ball-31651a26_fancy-joining-the-fastest-growing-ooh-network-activity-7316770442931765248-7IHq",
+      "activity_status": null
+    },
+    {
+      "title": "\"Hakuna mkate ngumu mbele ya Chai\" There is trouble in Paradise, but when the Bush is on fire, the chameleon must abandon the walking style of his…",
+      "link": "https://www.linkedin.com/posts/rehan-anwar-a7b257bb_pepsi-paintingthenationblue-activity-7316392237498531840-ZOLj",
+      "activity_status": null
+    },
+    {
+      "title": "When the interviewer becomes the interviewee... This a clip from one of my conversations with my dear friend Simon Sinek who gave me some honest…",
+      "link": "https://www.linkedin.com/posts/stevenbartlett-123_when-the-interviewer-becomes-the-interviewee-activity-7316131331774574592-piPs",
+      "activity_status": null
+    },
+    {
+      "title": "Who’s headed to POSSIBLE? My calendar is below. Would LOVE to meet up!",
+      "link": "https://www.linkedin.com/posts/laurenrogat_whos-headed-to-possible-my-calendar-is-activity-7316637980557733888-IcDb",
+      "activity_status": null
+    },
+    {
+      "title": "The City Becomes the Stadium. In today’s fast-paced, hyperconnected world, fans crave real-time updates, shared experiences, and emotional highs as…",
+      "link": "https://www.linkedin.com/posts/fearne-gilson-66694975_dooh-programmaticadvertising-sportsmarketing-activity-7316344132967251970-zgDS",
+      "activity_status": null
+    },
+    {
+      "title": "Not only am I selling hyperlocal marketing solutions to law firms… Now I look like I’m ready to represent one in court. 🧑‍⚖️💼 Swipe for the…",
+      "link": "https://www.linkedin.com/posts/nickelyticsooh_ooh-legalmarketing-communitytrust-activity-7316105235414810626-AtRD",
+      "activity_status": null
+    },
+    {
+      "title": "With the global surge in fitness culture — from wearable tech and boutique gyms to wellness influencers and lifestyle content — it’s a bold and…",
+      "link": "https://www.linkedin.com/posts/miriam-waititu-82b12465_mimifitness-innovations-ashtonhill-activity-7316424770399481856-l8UK",
+      "activity_status": null
+    },
+    {
+      "title": "Day #3 IBOUSA - Independent Billboard Operators Spring 2025 Conference. Last full day. Photos say it all. Final wrap party on Friday. Stay tuned…",
+      "link": "https://www.linkedin.com/posts/nick-coston-9780123_day-3-ibousa-independent-billboard-operators-activity-7316467420393525249-pFpJ",
+      "activity_status": null
+    },
+    {
+      "title": "When Sticky Rice was formed in 2023, I didn’t expect we’d be winning regional accounts so soon (let alone two!) and such big ones at that: Kia APAC…",
+      "link": "https://www.linkedin.com/posts/elfeeraroseman_sticky-rice-wins-regional-social-media-mandate-activity-7316309864316575744-D5WA",
+      "activity_status": null
+    },
+    {
+      "title": "True leadership is not about having all the answers or wielding authority, but rather helping others unlock their potential. It’s sometimes easier…",
+      "link": "https://www.linkedin.com/posts/derek-low_leadership-reflection-activity-7316268794157363200--xVL",
+      "activity_status": null
+    },
+    {
+      "title": "🫶 #MajorThrowback to an Exclusive DOOH Tour in Tokyo! 🫶 Two months ago, the jeki MASTRUM team had the pleasure of hosting international guests –…",
+      "link": "https://www.linkedin.com/posts/jeki-marketplace-mastrum_majorthrowback-shinjuku-shibuya-activity-7316293933414641665-25Zj",
+      "activity_status": null
+    },
+    {
+      "title": "디지털 마케팅 서밋 2025(Digital Marketing Summit 2025)에 다녀왔습니다. 최근 업계의 흐름을 반영하듯, 올해 행사에서도 인공지능(AI)이 모든 세션의 중심 주제로 자리 잡고 있었습니다. 다양한 흥미로운 주제들이 논의되었지만, 그 중에서도…",
+      "link": "https://kr.linkedin.com/posts/junsu-bae-97a53127_dms2025-marketing60-activity-7316080063811108864-2BAf",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing team!",
+      "link": "https://www.linkedin.com/posts/reginazye_amazing-team-activity-7316177429390065664-ZiZh",
+      "activity_status": null
+    },
+    {
+      "title": "Hey folks 👋🏼 Today, I had the incredible opportunity to attend the #TalentUnplugged event hosted by LinkedIn at ITC Grand Chola. The session…",
+      "link": "https://www.linkedin.com/posts/kushpu-s112_talentunplugged-talentacquisition-aiinhr-activity-7316147260977750019-n6_8",
+      "activity_status": null
+    },
+    {
+      "title": "A big thank you from all of us at Unifi Marketing for the warm welcome and insightful session. It was a real treat to go behind the curtain and see…",
+      "link": "https://www.linkedin.com/posts/andrew-pinto-b219a433_a-big-thank-you-from-all-of-us-at-unifi-marketing-activity-7390067000972107776-B_Wu",
+      "activity_status": null
+    },
+    {
+      "title": "CELEBRATING DIGITAL MEDIA EXCELLENCE : 2024-2025 Last night was a special one as several companies/ teams won their awards at  Digital Media…",
+      "link": "https://www.linkedin.com/posts/kushalsanghvi_digitalmarketing-socialmedia-influencermarketing-activity-7395311948227219456-bX-h",
+      "activity_status": null
+    },
+    {
+      "title": "Last Friday's sharing on Transforming from Caterpillar to Butterfly: The Power of Becoming I was deeply moved by Elise Tan Yee Ling sharing last…",
+      "link": "https://www.linkedin.com/posts/charmaintan_faithdrivenentrepreneur-digitalmissionventures-activity-7390938074417119232-8pJ_",
+      "activity_status": null
+    },
+    {
+      "title": "#Roadside #Signs Don’t Just Show #Directions — They Prove the Power of #OOH When we’re driving through unfamiliar roads, direction signages guide…",
+      "link": "https://www.linkedin.com/posts/charanjeetarora_roadside-signs-directions-activity-7389296971754192896-OZye",
+      "activity_status": null
+    },
+    {
+      "title": "India is the perfect place for WOM.fm: 400M+ QR users, 500M+ on WhatsApp, and a love for quick, local-language content. Think of it as audio at the…",
+      "link": "https://www.linkedin.com/posts/marcelheyne_india-is-the-perfect-place-for-womfm-400m-activity-7395109761018462208-QN3V",
+      "activity_status": null
+    },
+    {
+      "title": "My last speaking engagement for the year at the 51st Top Level Management conference organized by the Kapisanan ng mga Brodkaster ng Pilipinas…",
+      "link": "https://www.linkedin.com/posts/jay-bautista-mba-a3b22713_my-last-speaking-engagement-for-the-year-activity-7395105962036150273-APFN",
+      "activity_status": null
+    },
+    {
+      "title": "Been trying out different notetakers and the unparalleled ones would defo be Google Gemini and a recent favourite, Granola. Got to know about the…",
+      "link": "https://www.linkedin.com/posts/jane-peh_been-trying-out-different-notetakers-and-activity-7395059445820645376-1vzK",
+      "activity_status": null
+    },
+    {
+      "title": "Really excited to be joining this panel to talk about one of the biggest shifts happening in our industry right now. The move from traditional…",
+      "link": "https://www.linkedin.com/posts/dylan-temple-heald_really-excited-to-be-joining-this-panel-to-activity-7395062120775684096-fTXp",
+      "activity_status": null
+    },
+    {
+      "title": "Wow! What a day! Yesterday we welcomed over 100 people to the Aura connected workspace in London. A great mix of presentations around digital…",
+      "link": "https://www.linkedin.com/posts/adam-wilson-5821b912_wow-what-a-day-yesterday-we-welcomed-over-activity-7395042943419510785-RvID",
+      "activity_status": null
+    },
+    {
+      "title": "Korea Tourism Organization ✨🇰🇷 I filmed 6 screens sync in Shibuya! #DOOH #OOH #SHIBUYA #KOREA",
+      "link": "https://www.linkedin.com/posts/anna-ooh-97b185345_dooh-ooh-shibuya-activity-7395022645869797376-LoyF",
+      "activity_status": null
+    },
+    {
+      "title": "look at all the trophies on stage! pictured 15 golds in the form of amazing teammate and clients and 2 shiny pieces of plastic for best of Innovation…",
+      "link": "https://www.linkedin.com/posts/woeihern_look-at-all-the-trophies-on-stage-pictured-activity-7394964389784657920-D83d",
+      "activity_status": null
+    },
+    {
+      "title": "BloomingTerra(Askim) will be joining the World Out of Home Organization #WOO APAC Forum 2025 in Seoul (Nov 5–7) as an official exhibitor. With the…",
+      "link": "https://www.linkedin.com/posts/anna-yoon-2142a4298_woo-woo-seoulforum2025-activity-7386310676417282048-2HuM",
+      "activity_status": null
+    },
+    {
+      "title": "New Site Alert | Musgrave Centre LED | Durban 📍 Location highlights •⁠ ⁠Strategically positioned on Level 3, between Dis-Chem and Cardies, facing…",
+      "link": "https://www.linkedin.com/posts/the-media-factory-za_themediafactoryza-mallmedia-digitaloutofhome-activity-7420097932022120449-MMgv",
+      "activity_status": null
+    },
+    {
+      "title": "The \"Retail Mesh\" will be the 2026 GOAT of Marketing 🐐 🛒 Ever see an ad on the train and then forget about it by the time you're at the store? In…",
+      "link": "https://www.linkedin.com/posts/jeki-marketplace-mastrum_retailmedia-smartretail-jekimastrum-activity-7423941992818102272-s4uf",
+      "activity_status": null
+    },
+    {
+      "title": "Proud and privileged to be part of this dream team. My first VIOOH Week was an outstanding one ! Congratulations to everyone for contributing with…",
+      "link": "https://www.linkedin.com/posts/romulusstoian_proud-and-privileged-to-be-part-of-this-dream-activity-7423781482625888257--gWn",
+      "activity_status": null
+    },
+    {
+      "title": "Billions of people rely on WhatsApp every day to talk to friends and family – but most brands are barely scratching the surface of what’s possible on…",
+      "link": "https://www.linkedin.com/posts/lisa-tan-xin-qi_strategy-session-boost-revenue-with-whatsapp-activity-7423943506139885568-Hnwg",
+      "activity_status": null
+    },
+    {
+      "title": "I am often struck by how proactively the Indian Government has been engaging with the creator economy. Long before many global policymakers began…",
+      "link": "https://www.linkedin.com/posts/ankurmehra_i-am-often-struck-by-how-proactively-the-activity-7423945799203586048-zSea",
+      "activity_status": null
+    },
+    {
+      "title": "To all my friends and connections who celebrate: Happy Thaipusam to those celebrating! Wishing you a day filled with devotion and joy. May the year…",
+      "link": "https://www.linkedin.com/posts/robertocallejafernandez_to-all-my-friends-and-connections-who-celebrate-activity-7423538007850520576-TGAa",
+      "activity_status": null
+    },
+    {
+      "title": "I am attending #ISE2026. If you're there, let's find a time to catch up. 📍ISE 2026 | Fira de Barcelona | 3 - 6 February…",
+      "link": "https://www.linkedin.com/posts/satisht_ise2026-activity-7423077614942281728-6efD",
+      "activity_status": null
+    },
+    {
+      "title": "Dark screens don’t drive engagement. XEN spots issues before stores ever notice, so your teams stay focused on customers, not…",
+      "link": "https://www.linkedin.com/posts/ground-support-labs_xenplatform-proactivemonitoring-retailuptime-activity-7423002259300716545-s404",
+      "activity_status": null
+    },
+    {
+      "title": "\"I know half my ad spend is wasted... I just don't know which half.\" Not anymore📉 ❌ The old OOH mystery is officially being solved. In 2026, jeki…",
+      "link": "https://www.linkedin.com/posts/jeki-marketplace-mastrum_roi-mastrum-performancemarketing-activity-7430461205816832000--Rzn",
+      "activity_status": null
+    },
+    {
+      "title": "Asia’s OOH markets are evolving fast. However, are we moving forward together? The OOH Regional Seminar Shenzhen 2026 in association with WOO will…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_the-registration-fee-includes-activity-7430512740387082240-HlP2",
+      "activity_status": null
+    },
+    {
+      "title": "The Future of OOH won't be Just Digital — It’s (getting) Agentic 🏙️ 🤖 It’s 2026. If you’re still manually booking OOH slots or treating screens…",
+      "link": "https://www.linkedin.com/posts/jeki-marketplace-mastrum_agenticai-genzmarketing-adtech2026-activity-7424662994917355521-v43L",
+      "activity_status": null
+    },
+    {
+      "title": "Just the other day, I was driving around beautiful downtown Lagos, puffing on a non-filter Camel heater listening to some Skynyrd and I couldn't help…",
+      "link": "https://www.linkedin.com/posts/nick-coston-9780123_just-the-other-day-i-was-driving-around-activity-7430261896496279552-x_CW",
+      "activity_status": null
+    },
+    {
+      "title": "In 2026, Attention is the most expensive currency in advertising. Want to know where the exchange rate is best? The stadium parking lot. 🚗💨 Great…",
+      "link": "https://www.linkedin.com/posts/barryfrey1_from-billboards-to-scoreboards-why-ooh-is-activity-7430254591046438912-fv5i",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH doesn’t need more screens.  It needs more intelligence. The industry is growing fast — programmatic expansion, premium inventory partnerships…",
+      "link": "https://www.linkedin.com/posts/mritunjay-kumar-a505aa9_digital-out-of-home-dooh-market-forecast-activity-7430199022306377729-Hapg",
+      "activity_status": null
+    },
+    {
+      "title": "Ramadan Kareem✨",
+      "link": "https://www.linkedin.com/posts/ashtonmediatz_ramadan-kareem-activity-7430139297913036800-v9tx",
+      "activity_status": null
+    },
+    {
+      "title": "As the holy month of Ramadan begins, I extend my warm wishes to my Muslim colleagues and connections. May this season of reflection, discipline, and…",
+      "link": "https://www.linkedin.com/posts/izra-izzuddin-9a0b688b_ramadhankareem-activity-7429856277662662656-_A2a",
+      "activity_status": null
+    },
+    {
+      "title": "The AI Sameness Trap: Why Renting Intelligence can't be a Strategy As AI becomes increasingly prevalent in product development, it's essential to…",
+      "link": "https://www.linkedin.com/posts/mritunjay-kumar-a505aa9_ai-tools-could-make-companies-less-competitive-activity-7465557609895444481-Jg82",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing everyone a blessed Eid al-Adha! May this time of reflection and gratitude bring peace, prosperity, and renewed energy to you and your loved…",
+      "link": "https://www.linkedin.com/posts/jas-yong-hrbp_eidaladha-gratitude-movingwalls-activity-7465233276597706752-yDa5",
+      "activity_status": null
+    },
+    {
+      "title": "Cannes stands out as a prime example of in-real-life (IRL) media, bringing together a wealth of experiences in one location. Many memorable moments…",
+      "link": "https://www.linkedin.com/posts/premeshpurayil_outfront-irl-dooh-activity-7465348581391245312-VtTt",
+      "activity_status": null
+    },
+    {
+      "title": "The home of Sydney’s ultra-high-net-worth traveller. Bankstown Airport is at the centre of private aviation in Sydney, the key domestic hub…",
+      "link": "https://www.linkedin.com/posts/alexhaddad86_privatejetmedia-bankstownairport-uhnw-activity-7465167040903839745-t-St",
+      "activity_status": null
+    },
+    {
+      "title": "Eid Al Adha Mubarak from all of us at Moving Walls. Wishing you and your loved ones a blessed celebration filled with joy, gratitude, and…",
+      "link": "https://www.linkedin.com/posts/moving-walls_eid-al-adha-mubarak-from-all-of-us-at-moving-activity-7465069294469582848-NqtT",
+      "activity_status": null
+    },
+    {
+      "title": "Wahid O. & Victoria de la Calle Fernández  represented Voise Tech Ltd on the ground at MAU Vegas 2026, driving meaningful conversations, strategic…",
+      "link": "https://www.linkedin.com/posts/voisetech_mauvegas-mau2026-adtech-activity-7464991897023864832-9t1n",
+      "activity_status": null
+    },
+    {
+      "title": "Publicis acquiring LiveRamp feels bigger than a typical adtech acquisition. It’s a signal that identity and data connectivity are becoming the real…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_publicis-acquiring-liveramp-feels-bigger-activity-7462013936125771776-sHxT",
+      "activity_status": null
+    },
+    {
+      "title": "Spent a morning at Eden Hall, the British High Commissioner’s Residence in Singapore, as part of the UK Foundations Programme by Founders Forum…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_spent-a-morning-at-eden-hall-the-british-activity-7459868698489724928-uTVS",
+      "activity_status": null
+    },
+    {
+      "title": "AI is no longer just a productivity tool. And it’s scary to think how quickly this shift happened. It’s already starting to reshape how organisations…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ai-is-no-longer-just-a-productivity-tool-activity-7458687862943850497-D1fH",
+      "activity_status": null
+    },
+    {
+      "title": "Part 3: AI-driven media buying won’t stop at digital. It’s coming for physical media next. If AI starts to control how budgets are allocated, the…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_part-3-ai-driven-media-buying-wont-stop-activity-7457947203127472128-yuSm",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls is hosting Learnings from Carbon Emission Tracking for Marketing Activities. Please join!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-is-hosting-learnings-from-carbon-activity-7457609649547264001-oSc7",
+      "activity_status": null
+    },
+    {
+      "title": "What happens when AI decides how your media budget is spent? We’re getting closer to this than most people think. I attended Reuben Ch'ng's Underdog…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_what-happens-when-ai-decides-how-your-media-activity-7455446730457866240-o_vR",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for dropping by Dennis Macharia and the Suss Ads || Suss Digital team. It seems like just yesterday we caught up in Nairobi and now you are…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_thanks-for-dropping-by-dennis-macharia-and-activity-7455537135723593728-6I-B",
+      "activity_status": null
+    },
+    {
+      "title": "Pleased to return to the IAB SEA+India councils - this time to the Programmatic cohort. It's no secret we're moving from: → human-led planning +…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_pleased-to-return-to-the-iab-seaindia-councils-activity-7454722271547604992-TI_C",
+      "activity_status": null
+    },
+    {
+      "title": "A sub-2 hour marathon once felt impossible. Now it’s been done—more than once. In the same race. 🇰🇪 If you want to feel this pace yourself—set a…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_a-sub-2-hour-marathon-once-felt-impossible-activity-7454487726642315264-7IJZ",
+      "activity_status": null
+    },
+    {
+      "title": "Most media networks don’t fail because they can’t sell. They fail because they can’t deliver at scale. And most teams don’t realize this until it’s…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_most-media-networks-dont-fail-because-they-activity-7454054229884915714-Paxz",
+      "activity_status": null
+    },
+    {
+      "title": "OOH doesn’t have a demand problem. It has a workflow problem. There’s no shortage of advertisers attracted to the reach and engagement possibilities…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-doesnt-have-a-demand-problem-it-has-activity-7453344513353494528-gUxc",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls 2.0 unifies Planning, Booking, Ad Serving, and Measurement across all physical media formats. Over the next few weeks, we will be…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-20-unifies-planning-booking-activity-7449672751340208128-5XTH",
+      "activity_status": null
+    },
+    {
+      "title": "Excited and grateful to have industry leaders from across the world believe in and join the Moving Walls journey. Welcome Raja Kanniappan, Eric H.…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_excited-and-grateful-to-have-industry-leaders-activity-7445818999579320320-vOGj",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls is excited to attend GITEX AI ASIA - Asia’s Largest & Most Global Tech, AI & Startup Event on 9-10 April 2026. Click here 👉…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_gitexaiasia-activity-7446746938735165440-5nfm",
+      "activity_status": null
+    },
+    {
+      "title": "We are proud to add our tech to AdDIG Digital Advertising's full-stack offering as we continue to expand into Europe.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_we-are-proud-to-add-our-tech-to-addig-digital-activity-7432064183300521984-dm5b",
+      "activity_status": null
+    },
+    {
+      "title": "Egypt stands out as a rare OOH ecosystem where scale meets street-level commerce. With one of the highest concentrations of outdoor assets and…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_egypt-stands-out-as-a-rare-ooh-ecosystem-activity-7431892740931584000-WuHf",
+      "activity_status": null
+    },
+    {
+      "title": "Activating multi-market and multi-screen DOOH screens across the African continent on a mix of established and new media operator assets. Well done…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_activating-multi-market-and-multi-screen-activity-7429153660821041152-sH7T",
+      "activity_status": null
+    },
+    {
+      "title": "Grateful to have Moving Walls technology powering the next big moving media network in the region.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_grateful-to-have-moving-walls-technology-activity-7428052020307316736-gCxz",
+      "activity_status": null
+    },
+    {
+      "title": "Extending TikTok moments to the real world on screens everywhere - Moving Walls is excited to be one the partners enabling this in APAC and beyond.…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_extending-tiktok-moments-to-the-real-world-activity-7425152548107407360-43wB",
+      "activity_status": null
+    },
+    {
+      "title": "The quickest way to kill a new place-based screen network? Trying to monetize before your infrastructure is stable. At Moving Walls, we frequently…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-silent-killer-of-new-screen-networks-activity-7417661532962213889-S8ZC",
+      "activity_status": null
+    },
+    {
+      "title": "CES 2026 📍 I’ll be in Las Vegas with the Moving Walls Americas team, meeting partners and operators shaping the next phase of OOH and retail media.…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ces-2026-ill-be-in-las-vegas-with-the-activity-7410574286756884480-1p9f",
+      "activity_status": null
+    },
+    {
+      "title": "More blessings, good luck, and prosperity to you and your loved ones in 2026 from all of us at Moving Walls 💙",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_more-blessings-good-luck-and-prosperity-activity-7412318803478474752-8Uod",
+      "activity_status": null
+    },
+    {
+      "title": "At Moving Walls, this is the direction we have been investing in for years. A Full-Stack Future, Built Around Outcomes and Able to Support Every OOH…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-great-reset-in-ooh-why-our-industry-activity-7402581422068457472-nppR",
+      "activity_status": null
+    },
+    {
+      "title": "We had a great time addressing the diverse DMAP (Formerly IMMAP) members to share updates on OOH Media’s Digital Transformation. They are an…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_we-had-a-great-time-addressing-the-diverse-activity-7399724334409261057-ACsT",
+      "activity_status": null
+    },
+    {
+      "title": "OOH media today is a connected canvas that reaches every audience moment in the real world. It is the last and only growing mass medium that directly…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-media-today-is-a-connected-canvas-that-activity-7401869046830587905-540S",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls (Moving Walls Philippines) and The Out-of-Home Advertising Association of the Philippines organised a fantastic discussion on The Great…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-moving-walls-philippines-and-activity-7398967036770697216-8JWE",
+      "activity_status": null
+    },
+    {
+      "title": "OOH media owners in the Philippines have always been quick to adopt emerging technologies - particularly the use of signals for dynamic creatives.…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-media-owners-in-the-philippines-have-activity-7396070142692163584-Hvih",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to be speaking at the Media Specialists Association of the Philippines' Media Congress 2026 happening this November 26-27, 2025, Live at…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_im-excited-to-be-speaking-at-the-media-specialists-activity-7394252308219342848-N6bz",
+      "activity_status": null
+    },
+    {
+      "title": "All roads lead home this week as Moving Walls joins Gigastream Media Tech Ltd at their Future of OOH event in Nairobi. I'm excited to connect with…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_all-roads-lead-home-this-week-as-moving-walls-activity-7383325345271394306-s-8k",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls has always been about the where and when. Now, InsightzClub adds the who and why. OOH media is getting an upgrade and it was was great…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-has-always-been-about-the-where-activity-7381686046121582592-BLkX",
+      "activity_status": null
+    },
+    {
+      "title": "Since we're reflecting, Srikanth Ramachandran, I will share mine here: There are some lessons you are taught, see in action, and then experience in…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_since-were-reflecting-srikanth-ramachandran-activity-7378812670830940160-to7K",
+      "activity_status": null
+    },
+    {
+      "title": "Steven Bartlett didn't miss a beat. It must have been challenging for The Diary Of A CEO team to pull together just a handful of stories from their…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_steven-bartlett-didnt-miss-a-beat-it-must-activity-7375730331754119168-Swjc",
+      "activity_status": null
+    },
+    {
+      "title": "Great feature by Hyun Lee highlighting the trend in cross-border OOH placements - especially K-Beauty and K-Content Brands showcasing themselves on…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_great-feature-by-hyun-lee-highlighting-the-activity-7356964305012969473-cjMD",
+      "activity_status": null
+    },
+    {
+      "title": "It was great to see all the finalists pitch their solutions from initial idea to prototype. Laying your idea out for everyone to see and getting…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_it-was-great-to-see-all-the-finalists-pitch-activity-7352909595515785216-m2Q7",
+      "activity_status": null
+    },
+    {
+      "title": "Woke up to some good news from the Malaysian Digital Association - luckily the award was for me and not my digital twin (yet)! In all honesty, I had…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_woke-up-to-some-good-news-from-the-malaysian-activity-7339425661637357569-UhNC",
+      "activity_status": null
+    },
+    {
+      "title": "The NRF 2025: Retail's Big Show Asia Pacific is for Big Ideas - and we’re showcasing the Last Mile media opportunity alongside our industry friends.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-nrf-2025-retails-big-show-asia-pacific-activity-7326455623481524224-rW2L",
+      "activity_status": null
+    },
+    {
+      "title": "This year's conference is aptly titled \"The Power of Presence\", and nothing does presence like OOH media. Unlike any other medium, OOH has…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh2025-activity-7324634816497246208-bR05",
+      "activity_status": null
+    },
+    {
+      "title": "This has been the year of Global Out-of-Home campaigns. These would not be possible without collaboration and connectivity. We’re proud to have…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_meet-our-members-mehul-mandalia-moving-activity-7325712747336204288-hTOM",
+      "activity_status": null
+    },
+    {
+      "title": "OOH media is experienced by all of us across every venue we visit, just about every day. It is only right that we all commit to making every campaign…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-media-is-experienced-by-all-of-us-across-activity-7322004788013867011-Hd24",
+      "activity_status": null
+    },
+    {
+      "title": "OOH, Retail Media, and Much More - Let’s explore what’s POSSIBLE in Miami!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-retail-media-and-much-more-lets-activity-7318893011814215681-HVzI",
+      "activity_status": null
+    },
+    {
+      "title": "Join Moving Walls at POSSIBLE 2025 the most impactful event for the marketing industry. To join me, click here: https://lnkd.in/gNeKdREj…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_meetmeatpossible2025-activity-7313823011558567938-ezUm",
+      "activity_status": null
+    },
+    {
+      "title": "A staggering achievement that makes sense when you realise 18 of the top 20 most visited train stations in the world are in Japan! Congratulations to…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_most-digital-signage-screens-operated-by-activity-7310559314333601792-F8hs",
+      "activity_status": null
+    },
+    {
+      "title": "ZUS Coffee continues to impact online activity with its physical billboards. Even with classic posters, playing on the current context environment…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_zus-coffees-playful-billboard-takes-jab-activity-7309812416362487808-vkjL",
+      "activity_status": null
+    },
+    {
+      "title": "I'm proud to see Moving Walls' solutions hit a home run for me - literally. We're looking forward to seeing this dynamic market grow with measurement…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_im-proud-to-see-moving-walls-solutions-activity-7287858545482506240-YhLe",
+      "activity_status": null
+    },
+    {
+      "title": "With our roots in Asia, we've always been committed to establishing an on-ground presence across this region. Moving Walls embarks on another journey…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_with-our-roots-in-asia-weve-always-been-activity-7239899824215445504-t94c",
+      "activity_status": null
+    },
+    {
+      "title": "I could not agree more that \"To achieve its maximum potential, retail media needs to make a series of moves, rather like solving a Rubik’s Cube, that…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_why-were-getting-closer-to-solving-the-retail-activity-7237298150816768001-jFdc",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you XNode 创极无限 for inviting Moving Walls to showcase our journey so far.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_thank-you-xnode-%E5%88%9B%E6%9E%81%E6%97%A0%E9%99%90-for-inviting-moving-activity-7224622157798985728--9pp",
+      "activity_status": null
+    },
+    {
+      "title": "It's the last day of 2024, one that has been transformative for all of us at Moving Walls. Yes, we'll have one of those year-in-review videos out…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_its-the-last-day-of-2024-one-that-has-been-activity-7279691343877062656-29jd",
+      "activity_status": null
+    },
+    {
+      "title": "When you can't fathom how far and wide this idea has come, you know you did some things right. We greatly appreciate the Moving Walls team and…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_when-you-cant-fathom-how-far-and-wide-this-activity-7213747898281254915-hF_t",
+      "activity_status": null
+    },
+    {
+      "title": "It was great to share about Moving Walls’ LATAM journey. We emphasised the importance of working with the right partners. In our case, we could not…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_it-was-great-to-share-about-moving-walls-activity-7174307872267272192-0x87",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is powerful for local businesses. Well done to FC MEDIA for making their network easily accessible to direct advertisers!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-is-powerful-for-local-businesses-well-activity-7202579730041085953-W0Vc",
+      "activity_status": null
+    },
+    {
+      "title": "The only truly global OOH media congress and it never disappoints. Looking forward to seeing the best and brightest industry leaders in Hong Kong…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-only-truly-global-ooh-media-congress-activity-7202581137884405760-5Clg",
+      "activity_status": null
+    },
+    {
+      "title": "Along with the rest of the Moving Walls team, I had the great pleasure of attending yet another World Out of Home Organization Global Congress this…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_along-with-the-rest-of-the-moving-walls-team-activity-7205835113236955136-fv_V",
+      "activity_status": null
+    },
+    {
+      "title": "The only way to progress is to keep moving. Recognition tends to remind us that we are moving in the right direction. Honoured to be part of the…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-only-way-to-progress-is-to-keep-moving-activity-7176188626412732416-LlY3",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls is #hiring in Kuala Lumpur",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_hiring-activity-7191007752188497920-2Ncy",
+      "activity_status": null
+    },
+    {
+      "title": "Location Media Xchange is now live with StackAdapt!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_location-media-xchange-is-now-live-with-stackadapt-activity-7181230081166508033-sWX-",
+      "activity_status": null
+    },
+    {
+      "title": "Selamat Hari Raya to everyone celebrating with family and friends. Safe travels to those who are on the road or in the air for the holidays.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_selamat-hari-raya-to-everyone-celebrating-activity-7183658231569788928-RckK",
+      "activity_status": null
+    },
+    {
+      "title": "A truly inspiring story about an Indonesian company that has successfully built a global brand. Ricky’s radical marketing tactics always make for an…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_a-truly-inspiring-story-about-an-indonesian-activity-7184891898124201986-YWtm",
+      "activity_status": null
+    },
+    {
+      "title": "Throughout India, new developments are being planned with digital signage in mind. The missing development is around a common measurement standard,…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_reinvent-activity-7173503767944912897-FM2z",
+      "activity_status": null
+    },
+    {
+      "title": "Committing to inspire inclusion should be a core value not just in business but in everyday life. Moving Walls will continue to do its part to ensure…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_noboundaries-activity-7171874426362228737-9pX2",
+      "activity_status": null
+    },
+    {
+      "title": "Here's to a happy and prosperous Chinese New Year for you and your loved ones from all of us at Moving Walls and Location Media Xchange. Having spent…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_heres-to-a-happy-and-prosperous-chinese-activity-7161541418090479616-lBTS",
+      "activity_status": null
+    },
+    {
+      "title": "Several years ago, we just had ideas for #ooh #marketing automation. Today we've got software that is used across the world. None of us imagined such…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-marketing-activity-7155386615475978241-pzu8",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to be part of what is a really diverse group of Geospatial World Rising Stars. Congratulations to everyone else! The recognition is really…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_geospatial-world-50-rising-stars-2024-nominations-activity-7155526054143479808-OoCi",
+      "activity_status": null
+    },
+    {
+      "title": "The Programmatic DOOH ecosystem continues to expand in MENA and Moving Walls and Location Media Xchange are proud to be partners of some of these…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_mena-pdooh-ecoscape-iab-mena-activity-7151393408912101377-ooR1",
+      "activity_status": null
+    },
+    {
+      "title": "It has been a year of great progress for all of us at Moving Walls and Location Media Xchange. None of this would be possible without the constant…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_it-has-been-a-year-of-great-progress-for-activity-7147142989075656704-uOp4",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH for Immediate Conversions - a wonderful Christmas surprise from GCash (Mynt - Globe Fintech Innovations, Inc.) in the Philippines.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_dooh-for-immediate-conversions-a-wonderful-activity-7143440712791908352-tSyJ",
+      "activity_status": null
+    },
+    {
+      "title": "Merry Christmas and Happy Holidays from all of us at Moving Walls and Location Media Xchange! 🥳",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_merry-christmas-and-happy-holidays-from-all-activity-7144914579448283136-zmDR",
+      "activity_status": null
+    },
+    {
+      "title": "I'm looking forward to sharing more about our experiences in Korea alongside Rainmaking APAC. It's still early days but we've met some terrific…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_im-looking-forward-to-sharing-more-about-activity-7132920621277073409-RXgy",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to sharing Moving Wallsâ journey (so far) in Korea - a market full of contrasts, opportunities, and so much optimism.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_looking-forward-to-sharing-moving-walls-activity-7130096373965750272-JEo8",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls and Location Media Xchange landed at The World Out of Home Organization APAC Forum in Bali, Indonesia last week. It was amazing to…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-and-location-media-xchange-landed-activity-7127877375622594562-AHWK",
+      "activity_status": null
+    },
+    {
+      "title": "It's always exciting to be back on the Island of Gods. There isn't a better venue for an \"out-of-home\" conference than here! We're looking forward to…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_its-always-exciting-to-be-back-on-the-island-activity-7124589929778614272-r7U3",
+      "activity_status": null
+    },
+    {
+      "title": "Our partners continue to remove boundaries for advertisers to activate DOOH media everywhere. We're delighted to have Pikasso on board!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_pikasso-integrates-with-location-media-xchange-activity-7122400323322707968-UpyG",
+      "activity_status": null
+    },
+    {
+      "title": "Interesting CTV POV from Sean B. of Magnite. Just like CTV, DOOH requires a bespoke approach as publishers onboard multiple SSPs. At Moving Walls, we…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_the-rules-of-header-bidding-dont-apply-to-activity-7114845280922963969-_UzO",
+      "activity_status": null
+    },
+    {
+      "title": "Interestingly enough, the message by Emirates in our first PDOOH campaign run on this magnificent site says it all - ââ¦itâs how you get…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_interestingly-enough-the-message-by-emirates-activity-7119615199094992896-Z7xg",
+      "activity_status": null
+    },
+    {
+      "title": "Great to get this over the line! Moving Walls users can now expand their reach to new markets and environments on DOOH networks powered by Place…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_great-to-get-this-over-the-line-moving-walls-activity-7110900916739837952-6Brt",
+      "activity_status": null
+    },
+    {
+      "title": "Reach Matters: Omnicom Media Group and The Trade Desk run neighbourhood-specific \"Love Notes\" on residential DOOH screens to reach the right…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_reach-matters-omnicom-media-group-and-the-activity-7100853930825269249-Ob-K",
+      "activity_status": null
+    },
+    {
+      "title": "Last-minute promotion plus DOOH everywhere drives results. We're happy to have played a small part in AirAsia's efforts to integrate dynamic creative…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_airasia-soars-with-programmatic-dooh-unlocking-activity-7082534418946396160-jHrh",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I attended the first-ever Advertising Week Africa in Johannesburg. It was an incredible experience to witness the thoughts, energy, and…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_last-week-i-attended-the-first-ever-advertising-activity-7034037509818892288-aCnk",
+      "activity_status": null
+    },
+    {
+      "title": "This has been a long time in the making - finally, an open-source framework for OOH media measurement in APAC and, specifically, the impression…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_this-has-been-a-long-time-in-the-making-activity-7070236920223567872-RhQX",
+      "activity_status": null
+    },
+    {
+      "title": "Moving Walls had a great discussion with jeki on the Future of OOH in Japan at Advertising Week Asia in Tokyo. the key highlight from the Day 1…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-had-a-great-discussion-with-activity-7073863489823408128-dMBy",
+      "activity_status": null
+    },
+    {
+      "title": "Apparently, this year's World Out of Home Organization Global Congress in Lisbon had the best attendance and its membership has grown to close to 200…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_apparently-this-years-world-out-of-home-activity-7074623634438328320-HWev",
+      "activity_status": null
+    },
+    {
+      "title": "\"Even in advanced DOOH markets where common OOH measurement currencies exist, they do not yet cover emerging venue types. In markets where DOOH…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_council-post-addressing-the-engagement-opportunity-activity-7066981494723923969-bZpY",
+      "activity_status": null
+    },
+    {
+      "title": "Advertising Week in Tokyo: So excited to be part of this as jeki, the largest multi-format physical advertising provider in Japan and Moving Walls…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_advertising-week-in-tokyo-so-excited-to-activity-7070809193573715968-FHog",
+      "activity_status": null
+    },
+    {
+      "title": "It was a year full of uncertainty in our industry and at Moving Walls and Location Media Xchange but the best kind of growth happens when we learn to…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_it-was-a-year-full-of-uncertainty-in-our-activity-7014791998368870400-g5ot",
+      "activity_status": null
+    },
+    {
+      "title": "Live Counter + User Generated Content by Ponds and GroupM Indonesia. Do more with Dynamic DOOH.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_live-counter-user-generated-content-by-activity-7003532637097123840-VxcI",
+      "activity_status": null
+    },
+    {
+      "title": "Gong Xi Fa Cai! The Rabbit is a symbol of longevity, peace, and prosperity. We hope all of you experience these both in your professional and…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_gong-xi-fa-cai-the-rabbit-is-a-symbol-activity-7022584233202253824-NOIk",
+      "activity_status": null
+    },
+    {
+      "title": "\"In contrast to the global trend of shifting towards DOOH advertising, India has predominantly relied on traditional hoardings for its OOH…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_in-contrast-to-the-global-trend-of-shifting-activity-7060181983561207808-Z8Tr",
+      "activity_status": null
+    },
+    {
+      "title": "An announcement that points to a transformative time for OOH media in one of the world's largest markets. The Moving Walls Group is proud to be part…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_moving-walls-jeki-team-up-in-launching-platform-activity-7057281793690914816-6l6r",
+      "activity_status": null
+    },
+    {
+      "title": "May this Eid bring you and yours joy, happiness, and prosperity. Happy Holidays and best wishes from all of us at the Moving Walls Group!",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_may-this-eid-bring-you-and-yours-joy-happiness-activity-7055188357575806976-FC0H",
+      "activity_status": null
+    },
+    {
+      "title": "OOH has no boundaries. While Tim started OOH Insider just three years ago, it seems like the show has been around forever simply because of the…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_ooh-has-no-boundaries-while-tim-started-activity-6973821787553902592-XVPL",
+      "activity_status": null
+    },
+    {
+      "title": "\"Lights\" come in every form. They could be your family, loved ones, best friends, colleagues, or anyone who inspires you. As we celebrate the…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_lights-come-in-every-form-they-could-be-activity-6990223400493355008-JZ9v",
+      "activity_status": null
+    },
+    {
+      "title": "Colgate’s new #SmileOutLoud brand campaign is championing authentic smiles. The multi-media campaign is now running on #pdooh screens across…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_smileoutloud-pdooh-activity-6931808485932220416-3vF2",
+      "activity_status": null
+    },
+    {
+      "title": "During the forced downtime on the business front last year, our product and engineering team knuckled down and added some amazing capabilities to our…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_during-the-forced-downtime-on-the-business-activity-6788281500308705280-VUUJ",
+      "activity_status": null
+    },
+    {
+      "title": "The sun's out so dessert's on the menu! Proud to work with foodpanda and Metropolis Media Solutions on this. Digital brands continue to be the…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_dooh-programmatic-activity-6689732786808586240-WHA2",
+      "activity_status": null
+    },
+    {
+      "title": "\"The population is much more respectful of infectious diseases than many perhaps more affluent countries or countries that don't see as much…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_how-vietnam-managed-to-keep-its-coronavirus-activity-6672502928093265920-Tt22",
+      "activity_status": null
+    },
+    {
+      "title": "We’ve already seen #ooh audiences pick up by up to 70% when compared to the pre-MCO benchmark. Beyond this, you’ll automatically get a higher share…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_five-reasons-why-youll-get-the-highest-roi-activity-6669518772484763648-EvX4",
+      "activity_status": null
+    },
+    {
+      "title": "We had great fun at Programmatic Malaysia 2019. A special thanks to The Star Media Group for giving us a platform to show how good old Out-of-Home is…",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_we-had-great-fun-at-programmatic-malaysia-activity-6590403955233177600-IkdX",
+      "activity_status": null
+    },
+    {
+      "title": "Creativity and effectiveness - they go hand in hand. Congratulations to everyone involved in this.",
+      "link": "https://www.linkedin.com/posts/mehul-mandalia_creativity-and-effectiveness-they-go-hand-activity-6532432089873166336-E7c2",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Mehul Mandalia",
+      "link": "https://in.linkedin.com/in/mehul-mandalia-3b75b616",
+      "summary": "--",
+      "location": "India"
+    },
+    {
+      "name": "mehul mandalia",
+      "link": "https://in.linkedin.com/in/mehul-mandalia-563b9662",
+      "summary": "--",
+      "location": "India"
+    },
+    {
+      "name": "Mehul Mandalia",
+      "link": "https://ca.linkedin.com/in/mehulmandalia",
+      "summary": "Augmenting technology solutions to drive growth and solve business problems",
+      "location": "Canada"
+    },
+    {
+      "name": "Mehul Mandalia",
+      "link": "https://uk.linkedin.com/in/mehul-h-mandalia",
+      "summary": "iOS Developer at News UK",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Mehul Mandalia",
+      "link": "https://in.linkedin.com/in/mehul-mandalia-036301245",
+      "summary": "Resident Doctor at Ashirwad critical care unit",
+      "location": "Mumbai"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Silent Killer of New Screen Networks: Why You Need Infrastructure Before Monetisation",
+      "link": "https://www.linkedin.com/pulse/silent-killer-new-screen-networks-why-you-need-before-mehul-mandalia-g3etc",
+      "published_date": {
+        "day": 15,
+        "month": 1,
+        "year": 2026
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQG_zvrChnw6ow/article-cover_image-shrink_720_1280/B56ZvDSFtUGQAI-/0/1768507873026?e=2147483647&v=beta&t=gO-LykUlkb-Cc7YBiKAixdO5hux2SYDfX1ZCCsS8hh0"
+    },
+    {
+      "title": "The Efficiency Filter: Why Physical Media Must Adapt to an Agent-First Economy",
+      "link": "https://www.linkedin.com/pulse/efficiency-filter-why-physical-media-must-adapt-economy-mandalia-rzv9c",
+      "published_date": {
+        "day": 22,
+        "month": 12,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQG4gx5z1SRs2w/article-cover_image-shrink_720_1280/B56ZtG4E2_IkAI-/0/1766420670518?e=2147483647&v=beta&t=CH0ZUX1VHbUCq_iXlvqd_ueE-Eo9RVCMdYvg0wmMqQs"
+    },
+    {
+      "title": "The Great Reset in OOH: Why Our Industry Is Consolidating — and What Comes Next",
+      "link": "https://www.linkedin.com/pulse/great-reset-ooh-why-our-industry-consolidating-what-comes-mandalia-pshsc",
+      "published_date": {
+        "day": 5,
+        "month": 12,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQHxipLZt1VmLg/article-cover_image-shrink_600_2000/B56ZrtANAuL0AQ-/0/1764912845495?e=2147483647&v=beta&t=H41uhozE8UXmbWqQpIxul2UU6IP8QouraG_GzZ_TpbA"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:56:01Z"
+  }
+}

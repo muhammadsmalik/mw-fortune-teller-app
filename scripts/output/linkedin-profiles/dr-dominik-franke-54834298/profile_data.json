@@ -1,0 +1,617 @@
+{
+  "public_identifier": "dr-dominik-franke-54834298",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Dr. Dominik",
+  "last_name": "Franke",
+  "full_name": "Dr. Dominik Franke",
+  "follower_count": 701,
+  "occupation": "Chief Information & Technology Officer at APG|SGA AG",
+  "headline": "Chief Information & Technology Officer bei APG|SGA",
+  "summary": null,
+  "location_str": "Zurich, Switzerland",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Zurich",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "APG|SGA AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/apgsga.ch",
+      "company_facebook_profile_url": null,
+      "title": "Chief Information & Technology Officer",
+      "description": null,
+      "location": "Zürich, Schweiz",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c1e69433176a685014af4d576b4f20e6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "company": "Embility GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Advisory Board",
+      "description": null,
+      "location": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Embility GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "V-ZUG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/v-zug",
+      "company_facebook_profile_url": null,
+      "title": "Head of Digital Products and Services",
+      "description": null,
+      "location": "Zug, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4fec19eddacbb8eeb80b949a9e21e66a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Tchibo Coffee Service GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tchibo-coffee-service-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Head of IT",
+      "description": null,
+      "location": "Hamburg und Umgebung, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0ad8dcb2b4321c69829309ec02a23cd0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Tchibo GmbH, Qbo Coffee",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Head of IT & IoT Development",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2015
+      },
+      "company": "ComConsult Beratung und Planung GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Consultant, Head of \"Mobile Applications & IoT\"",
+      "description": null,
+      "location": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Informatik",
+      "degree_name": "Dipl.-Inform.",
+      "school": "RWTH Aachen University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rwth-aachen-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/175fbf2539323f20c04b794c61b99fee",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Informatik",
+      "degree_name": "Dr. rer. nat.",
+      "school": "RWTH Aachen University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rwth-aachen-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Computer Science",
+      "degree_name": "Doktor (Ph.D.)",
+      "school": "University of Limerick",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universityoflimerick",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ad36402b3d158476fbd85d6e94e32963",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jean-claude-flury",
+      "name": "Jean-Claude Flury",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cestasandro",
+      "name": "Sandro Cesta",
+      "summary": null,
+      "location": "Thalwil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/byronvargasherzberg",
+      "name": "Byron Vargas Herzberg",
+      "summary": "Head of Business Development, OBO BETTERMANN Holding GmbH",
+      "location": "Lippstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreasphilipp1975",
+      "name": "Andreas Philipp",
+      "summary": "Geschäftsführer bei P2/ | strategische und operative Kommunikation",
+      "location": "Biel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasm%25C3%25A4rz",
+      "name": "Thomas März",
+      "summary": "Head of Product Management, Innovation & Strategic Integration at CKW",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roman-bleichenbacher",
+      "name": "Roman Bleichenbacher",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sflueckiger",
+      "name": "Sebastian Flückiger",
+      "summary": null,
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasgresch",
+      "name": "Thomas Gresch",
+      "summary": null,
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joeamberg",
+      "name": "Dr. Joe Amberg",
+      "summary": "Senior Project Lead and Project Portfolio Manager",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philiphonegger",
+      "name": "Philip Honegger",
+      "summary": null,
+      "location": "Kloten"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carole-g%25C3%25A4chter",
+      "name": "👾Carole Jeanne Yvonne Gächter👾",
+      "summary": "🚀 Holistic Innovation CoachSultant for Companies, Executives & Neurodivergent Game-Changers💡",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-buffet",
+      "name": "Daniel Buffet",
+      "summary": "IT Manager, Project Manager, Business Analyst",
+      "location": "Oberrieden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noerobert",
+      "name": "Noé Robert",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaihildebrandt",
+      "name": "Kai Hildebrandt",
+      "summary": "Head Of Digital Marketing bei Geberit",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timo-schaffner",
+      "name": "Timo Schaffner",
+      "summary": "Head of DIGITAL",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mustafa-kilic-06081019b",
+      "name": "Mustafa Kilic",
+      "summary": "Dualer Student bei STRABAG Property and Facility Services Unternehmensgruppe (STRABAG PFS)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonashonegger",
+      "name": "Jonas Honegger 🌍",
+      "summary": null,
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sgart",
+      "name": "Samuel Gartmann",
+      "summary": "Klassen- und Betreuungsassistenz",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taibi-hatim-69163391",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/desiree-poffet",
+      "name": "Désirée Poffet",
+      "summary": "Chief Marketing Officer & Mitglied Geschäftsleitung bei AVANTEC",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasneuhaus",
+      "name": "Thomas Neuhaus",
+      "summary": null,
+      "location": "Olten"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-schwetje",
+      "name": "Thomas Schwetje",
+      "summary": "Mitglied der Geschäftsleitung, Coop Schweiz",
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelzeyen",
+      "name": "Michael Zeyen",
+      "summary": "Marketing Automation & Conversion Specialist | Gründer @ PageTrust (Social Proof SaaS) | B2B & E-Commerce Marketing",
+      "location": "Basel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-keller-313b0a7",
+      "name": "Stephan Keller",
+      "summary": "Passion for Mechatronics",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guidostillhard",
+      "name": "Guido Stillhard",
+      "summary": "Head Schindler Business Innovation",
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camille-bamert-3a135314",
+      "name": "Camille Bamert",
+      "summary": "Head of Software Engineering bei BELIMO Automation AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-von-freeden-3b769117",
+      "name": "Martin von Freeden",
+      "summary": "head of design at V-ZUG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-bruwer-8b498023",
+      "name": "Andre Bruwer",
+      "summary": "Head of Product Legal at Man Investments",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chikara-minomo-9476a62b",
+      "name": "Chikara Minomo",
+      "summary": "Senior Software Developer at Private Flight Global Limited",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/perrine-j%25C3%25A9r%25C3%25B4me-47a78231",
+      "name": "perrine Jérôme",
+      "summary": "HEAD OF HW Secure Asic chez Nagravision",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/urs-reimann",
+      "name": "Urs Reimann",
+      "summary": "Senior Industrial Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-beer-1041b848",
+      "name": "Samuel Beer",
+      "summary": null,
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-galliker",
+      "name": "Andreas Galliker",
+      "summary": "Technologie verstehen und nutzen | Visionen entwickeln und umsetzen | Menschen verbinden und vernetzen | mit Herz, Verstand und Begeisterung für Bewegung",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rolf-hesseling-886b6352",
+      "name": "Rolf Hesseling",
+      "summary": "Head Of Information Technology",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-masannek-0a5a1353",
+      "name": "Christian Masannek",
+      "summary": "Software Developer bei Eviden",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-bamford-7b039355",
+      "name": "Mike Bamford",
+      "summary": "Retired from Siemens Schweiz",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-stones-41a79b56",
+      "name": "Darren Stones",
+      "summary": "Department Leader",
+      "location": "Baar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabian-karlen-404a7464",
+      "name": "Fabian Karlen",
+      "summary": "Solution & Enterprise Architekt V-ZUG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ojenni",
+      "name": "Oliver Jenni",
+      "summary": "Deliver with passion.",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denis-muriset-36765673",
+      "name": "Denis Muriset",
+      "summary": "Support service surfaces chez Société Générale d'Affichage",
+      "location": "Neuchâtel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvia-kurtz-ab653b77",
+      "name": "Silvia Kurtz",
+      "summary": null,
+      "location": "Gossau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrik-rechsteiner-64521583",
+      "name": "Patrik Rechsteiner",
+      "summary": "Positive Menschen bewirken mehr",
+      "location": "Roggwil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-sabatino-4b058b87",
+      "name": "Fabio Sabatino",
+      "summary": null,
+      "location": "St Gallen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mirko-jazbec-51265787",
+      "name": "Mirko Jazbec",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annunziata-passarello-57b0908a",
+      "name": "Annunziata Passarello",
+      "summary": "Founder Ohana Media Marketing | Freelance Digital Marketing Strategist | Turning Data into Growth",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennis-gies",
+      "name": "Dennis Gies",
+      "summary": "Building brighter tomorrows 🌞 through playful learning  and innovative toys 🚀🌱",
+      "location": "Stansstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monika-heuscher-b317239b",
+      "name": "Monika Heuscher",
+      "summary": null,
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexhildbrand",
+      "name": "Alex Hildbrand",
+      "summary": "Head of Applications bei APG|SGA",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernando-baptista-7997a9ab",
+      "name": "Fernando Baptista",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominic-schmalz-089b3ab1",
+      "name": "Dominic Schmalz",
+      "summary": "SAP S/4HANA Application Manager Service",
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-kumar-nandigama-1b83a9107",
+      "name": "ANIL KUMAR NANDIGAMA",
+      "summary": "Senior Software Engineer at PRIME BIZ SOLUTIONS LTD",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-heldner-953092110",
+      "name": "Linda Heldner",
+      "summary": "Agilist.in mit Liebe zum Produkt",
+      "location": "Schmerikon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lise-eisele-156b91112",
+      "name": "Lise Eisele",
+      "summary": "Project Manager Investment & Accountability bei Omnicom Media Group Schweiz",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yvonne-fischer-b6b88511a",
+      "name": "Yvonne Fischer",
+      "summary": null,
+      "location": "Schwyz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-zeidler-25807612a",
+      "name": "Andreas Zeidler",
+      "summary": "Vice President / Head of Business Development & Digital Tools Direct Sales",
+      "location": "Wollerau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/schuler-mathias-51053912a",
+      "name": "Mathias Schuler",
+      "summary": null,
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/schmid-petra-976a9a135",
+      "name": "Schmid Petra",
+      "summary": "Interne Druckerei bei V-ZUG AG",
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-killing-309257137",
+      "name": "Marc Killing",
+      "summary": "Inhaber bei MK PC-Doktor",
+      "location": "Lenz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-rogenmoser-807a84142",
+      "name": "Stefan Rogenmoser",
+      "summary": null,
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beat-sidler-0b5157151",
+      "name": "Beat Sidler",
+      "summary": "SIMO Innovation Services",
+      "location": "Zug"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-traxler-8bb202159",
+      "name": "Stefan Traxler",
+      "summary": "Softwareingenieur bei Dataphone AG",
+      "location": "Winterthur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raphael-lindegger-a19932175",
+      "name": "Raphael Lindegger",
+      "summary": null,
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-isoz",
+      "name": "Oliver Isoz",
+      "summary": "Steakhouse Bahnhof•885 followers",
+      "location": "Mettmenstetten"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roman-kaufmann-ab294918a",
+      "name": "Roman Kaufmann",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandra-djordjevic-23ba861b3",
+      "name": "Aleksandra Djordjevic",
+      "summary": "Executive Assistant to the CFO bei V-ZUG AG",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-rohrer-b74315201",
+      "name": "Samuel Rohrer",
+      "summary": "Software E2E vom Treiber bis APP der V-ZUG AG",
+      "location": "Dietwil"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-22T00:00:00Z"
+  }
+}

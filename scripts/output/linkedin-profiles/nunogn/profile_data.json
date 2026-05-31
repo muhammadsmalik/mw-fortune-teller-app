@@ -1,0 +1,857 @@
+{
+  "public_identifier": "nunogn",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Nuno",
+  "last_name": "Gonçalves",
+  "full_name": "Nuno Gonçalves",
+  "follower_count": 848,
+  "occupation": "Diretor de Estratégia e Revenue at MOP",
+  "headline": null,
+  "summary": null,
+  "location_str": "Lisboa, Lisbon, Portugal",
+  "country": "PT",
+  "country_full_name": "Portugal",
+  "city": "Lisbon",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "MOP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mop-multimedia-outdoors-portugal",
+      "company_facebook_profile_url": null,
+      "title": "Diretor de Estratégia e Revenue",
+      "description": null,
+      "location": "Lisboa, Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/db3103e906413eeff23040fd1b8b774f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "company": "MOP - Multimedia Outdoors Portugal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mop-multimedia-outdoors-portugal",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/db3103e906413eeff23040fd1b8b774f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2018
+      },
+      "company": "CTT - Correios de Portugal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ctt-correios-de-portugal-s-a",
+      "company_facebook_profile_url": null,
+      "title": "Innovation & business development",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b578a3f603f490d1cdf7b681f2728f52"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2017
+      },
+      "company": "CTT - Correios de Portugal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ctt-correios-de-portugal-s-a",
+      "company_facebook_profile_url": null,
+      "title": "PMO Banco CTT",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b578a3f603f490d1cdf7b681f2728f52"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": "Major in Strategy and Entrepreneurship",
+      "degree_name": "International Master of Science in Business Administration",
+      "school": "CATÓLICA-LISBON School of Business and Economics",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "Gestão de Informação",
+      "degree_name": "Licenciatura",
+      "school": "Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Pitch by Start Up Programme - Junior Achievement Portugal - Católica School of Business and Economics - Mentoring by Accenture Lisbon Portugal",
+      "description": "Team work aimed at developing a business idea, the start up Insight App.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2014
+      },
+      "title": "Strategic Management Consulting Project",
+      "description": "Consulting project for a Telecommunications and Office supplies company in order to see the potential of creating new business areas and the creation of tools to measure employee prductivity",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tiagoveigarodrigues",
+      "name": "Tiago Rodrigues",
+      "summary": null,
+      "location": "Almada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anapscosta",
+      "name": "Ana Paula Costa",
+      "summary": "Project Developer",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanacastroamorim",
+      "name": "Joana Castro Amorim",
+      "summary": "Trade Marketing Manager | FMCG",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nunosgpereira",
+      "name": "Nuno Pereira",
+      "summary": "Business Development",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernanda-sgai",
+      "name": "Fernanda Sgai",
+      "summary": "Terapeuta Integrativa Sistêmica",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vitor-pacheco",
+      "name": "Vitor Pacheco",
+      "summary": "PS Business Manager | Strategic Partnerships | Optimizing Processes and Results",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catarina-gs-pereira",
+      "name": "Catarina Pereira",
+      "summary": "Senior Capabilities & Insights Analyst at McKinsey & Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedroalves3009",
+      "name": "Pedro Alves",
+      "summary": "Sr. Manager at Avanade (Accenture & Microsoft)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-miguel-azevedo",
+      "name": "Pedro Azevedo",
+      "summary": "Sales Director, Digital Payments | Global Payments | Cross-Border Payments | e-Commerce | EMEA, LATAM, APAC, NORTH AMERICA | Online Payments",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuelcebola",
+      "name": "Samuel Cebola",
+      "summary": "Data Analyst | Power BI | MicroStrategy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/msfaria",
+      "name": "Miguel Sousa Faria",
+      "summary": null,
+      "location": "Funchal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matildelimalencastre",
+      "name": "Matilde Lima de Lencastre",
+      "summary": "MBA | Finance",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunofbteixeira",
+      "name": "Bruno Teixeira",
+      "summary": "Senior Commercial Manager",
+      "location": "Santo Tirso"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maira-tomasoni",
+      "name": "Maira Tomasoni",
+      "summary": "Advogada no Rocha Tomasoni Advogados Associados e Diretora Jurídica AAPSA PR",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diogo-sousa-340544180",
+      "name": "Diogo Sousa",
+      "summary": "Team Manager B Feminino | SC Braga",
+      "location": "Santo Tirso"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruno-ramalho-459004224",
+      "name": "Bruno Ramalho",
+      "summary": "Account Manager @ Spreading Advertising | Sales, Marketing and Advertising",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-nave-de-almeida-4bb2921bb",
+      "name": "Francisco Nave de Almeida",
+      "summary": "Junior Art Director",
+      "location": "Oeiras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patr%25C3%25ADcia-ferreira-04989431",
+      "name": "Patrícia Ferreira",
+      "summary": "Account supervisor na Initiative",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linacardosoalmeida",
+      "name": "Lina Almeida",
+      "summary": "Senior Account at FUSE Portugal (Omnicom Media Group)",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fl%25C3%25A1via-ferreira-022097117",
+      "name": "Flávia Ferreira",
+      "summary": null,
+      "location": "Vila Nova de Gaia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3o-arbu%25C3%25A9s-moreira-bba86b12",
+      "name": "João Arbués Moreira",
+      "summary": "Director comercial at MOP - Multimedia Outdoors Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julianacunhapereira",
+      "name": "Juliana Pereira",
+      "summary": "Media Services Supervisor",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lu%25C3%25ADs-archer-de-carvalho-8b59611b7",
+      "name": "Luís Archer de Carvalho",
+      "summary": "Programmatic Specialist | MOP - Multimedia Outdoors Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/figueiredofernando",
+      "name": "Fernando Figueiredo",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-d%25C3%25A2maso-97414669",
+      "name": "José Dâmaso",
+      "summary": "Produtos dos Açores - Azorean Products",
+      "location": "Ponta Delgada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandrajcpereira",
+      "name": "Alexandra Pereira",
+      "summary": null,
+      "location": "Proença-a-Nova"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lu%25C3%25ADs-miguel-oliveira-6550704",
+      "name": "Luís Miguel Oliveira",
+      "summary": null,
+      "location": "Paredes de Coura"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3o-pedro-mendes-30696273",
+      "name": "João Pedro Mendes",
+      "summary": "Director Comercial na MOP - Multimedia Outdoors Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anabela-pir%25C3%25A3o-26642416b",
+      "name": "Anabela Pirão",
+      "summary": "Business Development AUTO | Banco BNP Paribas Personal Finance",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josemcmonteiro",
+      "name": "José Maria Monteiro",
+      "summary": "Founder Qaestum Capital",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-felipe-l%25C3%25B3pez-rodr%25C3%25ADguez-a4536626",
+      "name": "Luis Felipe López Rodríguez",
+      "summary": "Product Manager EMEA & MENA / Digital Makerting Strategy",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/s%25C3%25B3nia-pereira-55289539",
+      "name": "Sónia Pereira",
+      "summary": "Outsourcing CFO | Project manager | Internal control procedures",
+      "location": "Famões"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-graciano-088b21b",
+      "name": "Miguel Graciano",
+      "summary": "Key Account Manager na Staples",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anarvmachado",
+      "name": "Ana Machado",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sofia-carvalho-2435ba29",
+      "name": "Sofia Carvalho",
+      "summary": "Técnica de Gestão de Eventos na Ordem dos Enfermeiros",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-cancella-de-abreu-19764632",
+      "name": "Francisco Cancella de Abreu",
+      "summary": "CFO & Business Development Director na MOP - Multimedia Outdoors Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helder-reis-oliveira-837b7032",
+      "name": "Helder Reis Oliveira",
+      "summary": "Deputy Director - Collections B2C na EDP Comercial",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-duran-41340834",
+      "name": "Camila Duran",
+      "summary": "Account Planner executive | Media planner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiago-leiria-de-brito-57b90b48",
+      "name": "Tiago Leiria de Brito",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-abade-6904424b",
+      "name": "Miguel Abade",
+      "summary": "Coordenador na MOP - Multimedia Outdoors Portugal",
+      "location": "Coimbra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-pinheiro-71b27952",
+      "name": "Francisco Pinheiro",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-miguel-frias-35404067",
+      "name": "Luis Miguel Frias",
+      "summary": "Diretor de Contas na MOP - Multimédia Outdoors Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-maia-e-castro-990a6367",
+      "name": "Pedro Maia e Castro",
+      "summary": "Co-Founder & Manager na EXEN Solutions",
+      "location": "Porto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lu%25C3%25ADs-de-almeida-35634b71",
+      "name": "Luís de Almeida",
+      "summary": "Consultor imobiliário na ZOME PR1ME",
+      "location": "Mafra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-pedroso-b1575582",
+      "name": "Pedro Pedroso",
+      "summary": "Comercial na JCDecaux",
+      "location": "Porto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-csl-martins",
+      "name": "Luis Martins",
+      "summary": "Software Developer @ Telenor",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raquel-ramos-53586086",
+      "name": "Raquel Ramos",
+      "summary": "Suporte Administrativo e Financeiro na Italtempo Brindes Lda",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasco-perestrelo-8aa81393",
+      "name": "Vasco Perestrelo",
+      "summary": "MOP, CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/altairsobrinho",
+      "name": "Altair Sobrinho",
+      "summary": null,
+      "location": "Goiânia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dina-rosado-04a9a3a8",
+      "name": "Dina Rosado",
+      "summary": "Senior Amplification Associate (Offline Services)",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rui-pires-b58152109",
+      "name": "Rui Pires",
+      "summary": "Cabin Crew at TAP Air Portugal",
+      "location": "Seixal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thiago-carneiro-9780b311b",
+      "name": "Thiago Carneiro",
+      "summary": "Business Development Manager",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-cabral",
+      "name": "Luís Cabral",
+      "summary": "Investment Banking at Evercore",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-miguel-lobo-santiago",
+      "name": "Jose Miguel Lobo Santiago",
+      "summary": "Programatic Sales Director",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-borges-323255150",
+      "name": "Ricardo Borges",
+      "summary": null,
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dulce-rodrigues-35101a164",
+      "name": "Dulce Rodrigues",
+      "summary": null,
+      "location": "Algeciras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nuno-salvador-costa-a510b81a9",
+      "name": "Nuno Salvador Costa",
+      "summary": "Event Manager || Sports Ventures || Sports Tours & Events",
+      "location": "Paço de Arcos"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "O meu trabalho é falar com pessoas. Com muitas pessoas. De diferentes empresas, setores, cargos. E se há algo que me assusta, é o nível de…",
+      "link": "https://pt.linkedin.com/posts/diogobalmeida_o-meu-trabalho-é-falar-com-pessoas-com-muitas-activity-7315837297235509249-DIfH",
+      "activity_status": null
+    },
+    {
+      "title": "💼 - SENIOR BUSINESS ANALYST - Estamos a recrutar alguém com: - Interesse em estruturação de investimentos e financiamentos, sobretudo na área da…",
+      "link": "https://pt.linkedin.com/posts/japcatalao_senior-business-analyst-estamos-a-activity-7313499534565777408-co5e",
+      "activity_status": null
+    },
+    {
+      "title": "Os dias 3, 4 e 5 de Abril ficarão para sempre na memória dos 20 mais rápidos que apanharam a vaga neste #AMG Road & Track Experience by C. Santos VP…",
+      "link": "https://pt.linkedin.com/posts/joão-viegas-b2313149_amg-lisboa-madrid-activity-7315277075404222464-b1CZ",
+      "activity_status": null
+    },
+    {
+      "title": "Ainda sobre o evento da passada Quinta Feira e, como prometido, o vídeo resumo do evento! 📺 #digitalmorning #addressability https://lnkd.in/db_S6taH",
+      "link": "https://pt.linkedin.com/posts/programmatic-portugal_addressability-2025-by-programmatic-portugal-activity-7312762589103448064-das1",
+      "activity_status": null
+    },
+    {
+      "title": "A MOP vai transmitir nos seus ecrãs digitais poemas da obra Untitled Poem (Horizon), do artista João Motta Guedes (1995), em jeito de comemoração do…",
+      "link": "https://pt.linkedin.com/posts/revista-marketeer_mop-assinala-dia-mundial-da-poesia-com-poemas-activity-7308826786052673537-35Io",
+      "activity_status": null
+    },
+    {
+      "title": "As Ogilvy used to say... \"the best ideas come as jokes.\" From VML for Leroy Merlin. Made with Vieira Pedro and the help of Judite Mota, José…",
+      "link": "https://www.linkedin.com/posts/inoffensive_as-ogilvy-used-to-say-the-best-ideas-activity-7310315556241338368-C7qz",
+      "activity_status": null
+    },
+    {
+      "title": "Esta é a campanha mais Linkedin que já publicamos aqui! 👏 Muitos Parabéns Auchan Retail Portugal pela aposta no desenvolvimento dos colaboradores!…",
+      "link": "https://pt.linkedin.com/posts/marketingtuga_marketingtuga-marketingportugal-activity-7298347965176279040-qVIh",
+      "activity_status": null
+    },
+    {
+      "title": "MOP celebra dia mundial da poesia nos mupis digitais. A MOP comemora este dia, que se assinala esta sexta-feira, 21 de março, com a transmissão nos…",
+      "link": "https://pt.linkedin.com/posts/ricardo-romeiro-10ab85248_mop-celebra-dia-mundial-da-poesia-nos-mupis-activity-7308854021786681344-f_BI",
+      "activity_status": null
+    },
+    {
+      "title": "Apostamos num crescimento sustentado que nos permita potenciar diferentes targets com cobertura nacional mas com enfoque nas cidades com maior poder…",
+      "link": "https://pt.linkedin.com/posts/vera-paulino_mop-activity-7303935824130117632-bMXQ",
+      "activity_status": null
+    },
+    {
+      "title": "É com grande entusiasmo que recebemos a Betano na nossa agência Initiative Portugal. A Initiative Portugal está pronta para elevar a Betano a novos…",
+      "link": "https://pt.linkedin.com/posts/mediabrands-portugal_winningtogether-activity-7303804143440203779-LeKX",
+      "activity_status": null
+    },
+    {
+      "title": "Este ano marcamos presença no maior evento nacional de moda! Um evento que vai para além da moda - é uma celebração da criatividade, inovação e…",
+      "link": "https://pt.linkedin.com/posts/vera-paulino_mop-modalisboa-activity-7303171036936650752-gp4i",
+      "activity_status": null
+    },
+    {
+      "title": "No final do mês passado, tivemos a Convenção de Vendas da Makro Portugal. Foi um momento especial de energia, união e alinhamento, onde reafirmámos o…",
+      "link": "https://pt.linkedin.com/posts/salvadormathias_no-final-do-mês-passado-tivemos-a-convenção-activity-7297910346885824512-1f_Q",
+      "activity_status": null
+    },
+    {
+      "title": "Portugal selou, na tarde deste domingo, no Restelo, a qualificação para o Mundial de 2027, a disputar na Austrália. Frente à Alemanha, os Lobos…",
+      "link": "https://pt.linkedin.com/posts/cnnportugal_portugal-selou-na-tarde-deste-domingo-no-activity-7294443411971973120-JyzK",
+      "activity_status": null
+    },
+    {
+      "title": "#AMG #Experiencie on #Track — Mais do que um evento, uma experiência memorável. Nos dias 25 e 26 de maio, o C. Santos VP levou 30 clientes ao…",
+      "link": "https://pt.linkedin.com/posts/joão-viegas-b2313149_amg-experiencie-track-activity-7335209418868899840-j3E_",
+      "activity_status": null
+    },
+    {
+      "title": "Foi dia de levar a turma #ooh #dooh #prdooh ao CCB para um enorme desafio. Juntar pela primeira vez 4 media owners de exterior e conversar sobre o…",
+      "link": "https://pt.linkedin.com/posts/ricardopiresmonteiro_ooh-dooh-prdooh-activity-7336498762128723969-IlGE",
+      "activity_status": null
+    },
+    {
+      "title": "Estarei, no dia 5 de Junho, no #ccb, a convite do PROGRAMMATIC PORTUGAL, para participar no painel que vai discutir o futuro do #DOOH. Integram o…",
+      "link": "https://pt.linkedin.com/posts/davidpereirasantos_ccb-dooh-digital-activity-7335701941244641281-QcTG",
+      "activity_status": null
+    },
+    {
+      "title": "Nuno Matos , diretor de Digital, New Channels and Innovation dos CTT, participou no painel de Digital Stamps no NFC Summit, na companhia de Leonard…",
+      "link": "https://pt.linkedin.com/posts/ctt-correios-de-portugal-s-a_nft-nfcsummit-cryptostamp-activity-7336074284177461250-pWmM",
+      "activity_status": null
+    },
+    {
+      "title": "Estou muito entusiasmado por participar no painel de discussão sobre o estado do Digital-Out-of-Home em Portugal, num evento 100% dedicado ao DOOH,…",
+      "link": "https://www.linkedin.com/posts/nunogn_estou-muito-entusiasmado-por-participar-no-activity-7336053965442162693-VOlB",
+      "activity_status": null
+    },
+    {
+      "title": "💥  É já esta semana que teremos o nosso próximo evento obre #DOOH (Quinta-Feira, dia 5 de Junho)! Contaremos com a presença do Ricardo Pedro, Head…",
+      "link": "https://pt.linkedin.com/posts/programmatic-portugal_dooh-digitalmornings-dooh-activity-7335308516884164608--JVy",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje foi daqueles! Daqueles dias que te sentes rodeado de mentes brilhantes, de histórias de sucesso e grandes contadores de histórias. Fico…",
+      "link": "https://pt.linkedin.com/posts/ricardopiresmonteiro_programmatic-activity-7333152037854941184-MC4G",
+      "activity_status": null
+    },
+    {
+      "title": "Uma das coisas que mais me fascina nos GenAIs é a forma como rapidamente geram diferentes cenários estratégicos. Desta vez decidir aplicar neste…",
+      "link": "https://pt.linkedin.com/posts/joaopissarra_uma-das-coisas-que-mais-me-fascina-nos-genais-activity-7331417160176533505-Zrit",
+      "activity_status": null
+    },
+    {
+      "title": "No próximo dia 5 de junho, marcamos presença no evento PROGRAMMATIC PORTUGAL para falar sobre um dos temas mais entusiasmantes do marketing atual: o…",
+      "link": "https://es.linkedin.com/posts/paola-angulo-zegarra-825608b6_no-próximo-dia-5-de-junho-marcamos-presença-activity-7331318121133162497-mp3W",
+      "activity_status": null
+    },
+    {
+      "title": "Uma manteiga gigante no Cais do Sodré? Sim, é real. E é da Primor. A marca decidiu celebrar a tradição portuguesa com uma instalação imersiva no…",
+      "link": "https://pt.linkedin.com/posts/mop---multimedia-outdoors-portugal_uma-manteiga-gigante-no-cais-do-sodré-sim-activity-7330180401124061184-rOJf",
+      "activity_status": null
+    },
+    {
+      "title": "📢  Já temos data e tópico para o nosso próximo evento: DOOH (Digital Out-of-Home) 🗓️ 5 de Junho 2025 📍 CCB Mais novidades em breve aqui 👉…",
+      "link": "https://pt.linkedin.com/posts/programmatic-portugal_evento-dooh-2025-programmatic-portugal-activity-7322985001459826690-2Jgr",
+      "activity_status": null
+    },
+    {
+      "title": "Picture of the Week: Negative #powerprices across #Europe as 50m customers across #Spain and #Portugal have no #electricity.  How crazy is…",
+      "link": "https://www.linkedin.com/posts/gerard-reid-62164b9_powerprices-europe-spain-activity-7322643343635607553-aHIk",
+      "activity_status": null
+    },
+    {
+      "title": "Com a MOP, levamos a publicidade programática a espaços premium no metro de Lisboa e Porto. A sua marca pode impactar audiências urbanas em estações,…",
+      "link": "https://pt.linkedin.com/posts/mop---multimedia-outdoors-portugal_com-a-mop-levamos-a-publicidade-programática-activity-7318590331938074626-g0vD",
+      "activity_status": null
+    },
+    {
+      "title": "We have partnered with MOP this year, enabling even more access to programmatic sales in Portugal's top cities! 🇵🇹 Advertisers can now tap into…",
+      "link": "https://www.linkedin.com/posts/viooh_newpartnership-dooh-ooh-activity-7318575018378989568-Or5y",
+      "activity_status": null
+    },
+    {
+      "title": "Regina celebra a Páscoa com os mupis mais confortáveis do país. Depois do arranque em digital e social media, a campanha de Regina para esta época…",
+      "link": "https://pt.linkedin.com/posts/imperialprodutosalimentares_imperial-regina-chocolate-activity-7317843638770647040-jf0z",
+      "activity_status": null
+    },
+    {
+      "title": "E de repente já passaram 7 anos desde que comecou a Powerdot. A Powerdot esteve reunida a semana passada com quase 200 pessoas no offsite anual. Foi…",
+      "link": "https://pt.linkedin.com/posts/josé-maria-sacadura-7476a984_e-de-repente-já-passaram-7-anos-desde-que-activity-7337898282913861632-ZTuU",
+      "activity_status": null
+    },
+    {
+      "title": "O futuro do DOOH passa por Portugal — e já esteve presente no PROGRAMMATIC PORTUGAL . Num painel intenso e esclarecedor, os principais operadores de…",
+      "link": "https://pt.linkedin.com/posts/carlos-costa-85430724_dreammedia-jcdecaux-mop-activity-7336879020992516096-mf-D",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Insights and Connections at Programmatic Morning DOOH- Portugal✨ Yesterday, I had the privilege of attending Programmatic Morning - DOOH event…",
+      "link": "https://www.linkedin.com/posts/paola-angulo-zegarra-825608b6_dooh-programmaticadvertising-adtech-activity-7336740538253041664-l3VQ",
+      "activity_status": null
+    },
+    {
+      "title": "Na semana passada tive o prazer de participar no evento de DOOH & CommerceMedia da PROGRAMMATIC PORTUGAL e partilhar a minha visão sobre o papel do…",
+      "link": "https://www.linkedin.com/posts/nunogn_pdooh-dooh-digitaloutofhome-activity-7455214381547720704-2a2k",
+      "activity_status": null
+    },
+    {
+      "title": "A MOP e a Galp juntam-se para revolucionar o digital outdoor em Portugal. Um novo meio de comunicação para marcas que combina: 📍 Capilaridade…",
+      "link": "https://www.linkedin.com/posts/nunogn_mop-galp-dooh-activity-7389818692752216064-WGrV",
+      "activity_status": null
+    },
+    {
+      "title": "Mais uma grande campanha em Programático, agora com Mentos! Obrigado WPP Media pela confiança na MOP. Continuamos o nosso caminho de digitalização…",
+      "link": "https://www.linkedin.com/posts/nunogn_dooh-pdooh-programmatic-activity-7358614440646193153-jPdk",
+      "activity_status": null
+    },
+    {
+      "title": "No passado dia 5 de junho, tive o privilégio de partilhar a visão da MOP sobre o presente e o futuro do Digital Out of Home (DOOH) em Portugal, num…",
+      "link": "https://www.linkedin.com/posts/nunogn_mop-jcdecaux-dreammedia-activity-7340388044631429120-gl1G",
+      "activity_status": null
+    },
+    {
+      "title": "A publicidade da MOP chega à Rede Nacional de + 12.500 caixas Multibanco e ATM Express da SIBS Um excelente meio de comunicação para marcas e…",
+      "link": "https://www.linkedin.com/posts/nunogn_a-publicidade-da-mop-chega-à-rede-nacional-activity-7251710841878700032-OWWB",
+      "activity_status": null
+    },
+    {
+      "title": "Para bom entendedor, meio logo basta.",
+      "link": "https://www.linkedin.com/posts/nunogn_para-bom-entendedor-meio-logo-basta-activity-7214378545228238848-4_6t",
+      "activity_status": null
+    },
+    {
+      "title": "É com grande entusiasmo que começo uma nova etapa na MOP como Diretor de Estratégia e Revenue.",
+      "link": "https://www.linkedin.com/posts/nunogn_%C3%A9-com-grande-entusiasmo-que-come%C3%A7o-uma-nova-activity-7140089840150237184-5J2Z",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to announce the success of our recent Programmatic DOOH campaign with a major clothing retailer. The campaign ran in more than 100…",
+      "link": "https://www.linkedin.com/posts/nunogn_how-hm-portugals-campaign-boosted-brand-activity-7128387342377074691-cKSm",
+      "activity_status": null
+    },
+    {
+      "title": "A tão esperada chegada às ruas de Lisboa, desta vez com Mupis de papel e digitais!! 🚀🚀MOP",
+      "link": "https://www.linkedin.com/posts/nunogn_mop-entra-em-lisboa-e-investe-25-milh%C3%B5es-activity-7098353828843917312-LkTc",
+      "activity_status": null
+    },
+    {
+      "title": "A MOPestá de volta à CP - Comboios de Portugal, EPE! Uma concessão muito importante que nos permite fortalecer a nossa presença em Portugal e a nossa…",
+      "link": "https://www.linkedin.com/posts/nunogn_ooh-outofhome-dooh-activity-6919400298272681984-kL8j",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos a contratar!",
+      "link": "https://www.linkedin.com/posts/nunogn_estamos-a-contratar-activity-6979181136539185152-sQ7t",
+      "activity_status": null
+    },
+    {
+      "title": "Nova série do Sport Lisboa e Benfica na Prime Video & Amazon Studios a tomar conta da estação de Metro do Colégio Militar! 🔴⚪️🦅",
+      "link": "https://www.linkedin.com/posts/nunogn_factory-of-dreams-d%C3%A1-pontap%C3%A9-de-sa%C3%ADda-na-activity-6999757432327417856-ENUm",
+      "activity_status": null
+    },
+    {
+      "title": "🌳🌳🌳",
+      "link": "https://www.linkedin.com/posts/nunogn_todas-as-campanhas-em-papel-da-mop-passam-activity-6792393269713129472-8Kga",
+      "activity_status": null
+    },
+    {
+      "title": "Não dá para não reparar! Go Getir!! #ooh #outofhome #oohadvertising",
+      "link": "https://www.linkedin.com/posts/nunogn_ooh-outofhome-oohadvertising-activity-6890214054187933697-tQxu",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje é um dia muito importante para nós, para o Out-Of-Home e para o mercado publicitário em Portugal. Lançámos três novos suportes digitais que…",
+      "link": "https://www.linkedin.com/posts/nunogn_ooh-dooh-outdooradvertising-activity-6721756270606503936-t8ZA",
+      "activity_status": null
+    },
+    {
+      "title": "Nova imagem da MOP no Imagens de Marca. Um novo posicionamento que passa pela digitalização de 20% das nossas Redes. Podem também ver o resultado do…",
+      "link": "https://www.linkedin.com/posts/nunogn_uma-marca-fora-do-formato-activity-6603310032283062272-fbk3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nuno-gonçalves-bb7565aa",
+      "summary": "CEO na NG Consultadoria em Seguros Ltd.",
+      "location": "Portugal"
+    },
+    {
+      "name": "Nuno G.",
+      "link": "https://pt.linkedin.com/in/nuno-g-30b344a5",
+      "summary": "STAC,SL- Portugal e África",
+      "location": "Aveiro"
+    },
+    {
+      "name": "Nuno Goncalves",
+      "link": "https://lu.linkedin.com/in/nuno-goncalves-70774576",
+      "summary": "Délégué Commercial chez Neuberg S.A.",
+      "location": "Luxemburgo"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nuno-gonçalves-54573117",
+      "summary": "CEO - Owner, Biporto Retail Technology (ex Scalnet)",
+      "location": "Braga"
+    },
+    {
+      "name": "Nuno Goncalves",
+      "link": "https://es.linkedin.com/in/nuno-goncalves-0121b534",
+      "summary": "Fontend developer en Cognizant",
+      "location": "Alicante"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nuno-gonçalves-57a5422b",
+      "summary": null,
+      "location": "Monsanto"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nunojfg",
+      "summary": "iOS Software Engineer",
+      "location": "Porto"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nunosoaresgoncalves",
+      "summary": "CEO of Constant Circle",
+      "location": "Lisbon"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nunogoncalves24",
+      "summary": "Manager | M&A - FIG | KPMG",
+      "location": "Lisboa"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nunomgoncalves",
+      "summary": "The Solutions Architect | Building open-source software & Polygon Porto Guild. Posts about web3, self-sovereignity, self-hosting and kubernetes.",
+      "location": "Porto"
+    },
+    {
+      "name": "Nuno Goncalves",
+      "link": "https://pt.linkedin.com/in/nuno-goncalves-0b2a53b",
+      "summary": null,
+      "location": "Lisboa"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nuno--gonçalves",
+      "summary": "Project & Sponsorship Manager | Events & Brand Activation - PLACARD - Jogos Santa Casa - Portuguese Lottery",
+      "location": "Lisboa"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/ng01",
+      "summary": "Innovative IT/OT Systems Leader with 23+ Years of Experience in Urban Rail & Utilities, Specializing in Technological Integration, Project Management, and Strategic Planning",
+      "location": "Porto Metropolitan Area"
+    },
+    {
+      "name": "Nuno Gonçalves",
+      "link": "https://pt.linkedin.com/in/nuno-gonçalves-632b9712b",
+      "summary": "novobanco - Retail Banking Diretor North Portugal",
+      "location": "Portugal"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:50:41Z"
+  }
+}

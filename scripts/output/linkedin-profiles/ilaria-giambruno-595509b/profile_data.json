@@ -1,0 +1,701 @@
+{
+  "public_identifier": "ilaria-giambruno-595509b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ad5b93b15274799c41934971748aff3f",
+  "background_cover_image_url": null,
+  "first_name": "Ilaria",
+  "last_name": "Giambruno",
+  "full_name": "Ilaria Giambruno",
+  "follower_count": 2821,
+  "occupation": "GLOBAL BUSINESS DEVELOPER MANAGER at GDS Global Display Solutions",
+  "headline": "Global Expert / Consultant Digital Out of Home /DOOH-Display- Retail- Advertising/",
+  "summary": null,
+  "location_str": "Milan, Lombardy, Italy",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Milan",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "GDS Global Display Solutions",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gds-global-display-solutions",
+      "company_facebook_profile_url": null,
+      "title": "GLOBAL BUSINESS DEVELOPER MANAGER",
+      "description": "Global Display Solutions (GDS), an Italian company on the market for 45 years, an international manufacturer of professional displays for indoor, semi outdoor and full outdoor applications. GDS is a leader in the design and manufacture of screens dedicated to each of the sectors it deals with, from transportation to advertising, from retail to medical, or E-ink products, the range is really wide. GDS operates in over 20 countries boasting the most important companies and projects among its references. We keep the promises we make to our customers: a real customized and tailored turnkey solution that lasts the life of our products http://displays.gds.com/gds-displays/",
+      "location": "Milano",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/27d1c995ee57810dbb6a4d4b61ef795b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "company": "Aesys",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aesys",
+      "company_facebook_profile_url": null,
+      "title": "Global Business Development manager",
+      "description": null,
+      "location": "Bergamo Area, Italy",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3ed4167a16fb7e36bc1f0969a6c662e4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "GDS HANTAREX",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "GLOBAL BUSINESS DEVELOPPER MGR.",
+      "description": null,
+      "location": "Biassono / Vicenza",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2012
+      },
+      "company": "HANTAREX",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "EXPORT AREA MANAGER",
+      "description": null,
+      "location": "Biassono",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2002
+      },
+      "company": "Mast Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mast-global",
+      "company_facebook_profile_url": null,
+      "title": "MERCHANDISER ASSISTANT",
+      "description": null,
+      "location": "Milano",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b7baca0d0590789f1069623fe08f4af"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor of Arts - BA",
+      "school": "Nottingham Trent University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/nottingham-trent-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1c0144aedd2d4ec354cf9ddc0886e29d",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "ISTITUTO DI LINGUE ORIENTALI",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": null,
+      "degree_name": "Maturità Linguistica",
+      "school": "Liceo Linguistico Alessandro Manzoni",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/liceo-linguistico-alessandro-manzoni",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c412a89b4b03d2970b4a626b6f1e6149",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "College A.Daudet, Nizza - Francia",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Italiano",
+    "Inglese",
+    "Francese",
+    "Spagnolo",
+    "Cinese"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Italiano",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Inglese",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Francese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spagnolo",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Cinese",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ita-italian-trade-agency-sydney",
+      "name": "ITA - Italian Trade Agency - Sydney",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enricocora",
+      "name": "Enrico Cora",
+      "summary": "System engineering presso Design & Development office",
+      "location": "Valdagno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/reneblamey",
+      "name": "Rene Blamey",
+      "summary": null,
+      "location": "Swindon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivano-pozza",
+      "name": "Ivano Pozza",
+      "summary": null,
+      "location": "Trissino"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrianoberetta",
+      "name": "Adriano Beretta",
+      "summary": "Business intelligence, Business manager, Sales & Marketing Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentino-stabile",
+      "name": "Valentino Stabile",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riccardo-cariolato",
+      "name": "Riccardo Cariolato",
+      "summary": "Smart City Business Development Manager",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rheise",
+      "name": "Robert Heise",
+      "summary": "Helping companies achieve Digital Engagement in QSR, Transportation, Advertising, Retail and Medical Industries",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilioliuzza",
+      "name": "Emilio Liuzza",
+      "summary": "General Director & New Business Developer   - FAE Srl - Industrial Automation - SIEMENS Solution Partner",
+      "location": "Busto Garolfo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/v%25C3%25ADctor-castillo-zamora-34239973",
+      "name": "Víctor Castillo Zamora",
+      "summary": "“SOLUTIONS tailored to your needs” \nBusiness Development Manager Amer Group",
+      "location": "Valdagno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteo-berti-consulting",
+      "name": "Matteo Berti, EMBA",
+      "summary": "Strategic Product & Innovation Leader | Executive MBA | Electromechanics Business Development | Global Markets | EMEA/North America",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/massimo-arlotti-aa3b9",
+      "name": "Massimo Arlotti",
+      "summary": "IT Infrastructure & Networking - BU Manager",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-lecci-24858b6",
+      "name": "Andrea Lecci",
+      "summary": null,
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-franzelli",
+      "name": "Nicola Franzelli",
+      "summary": "Aiutiamo aziende a proteggere persone, infrastrutture e dati attraverso soluzioni di sicurezza integrata: controllo accessi, videosorveglianza e cybersecurity",
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-byrne-48322911",
+      "name": "Matt Byrne",
+      "summary": null,
+      "location": "Longueville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniele-traferro-99029717",
+      "name": "Daniele Traferro",
+      "summary": "Commercial Director Golden A/S",
+      "location": "Viareggio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davide-bosi-1aa4531a",
+      "name": "Davide Bosi",
+      "summary": "Responsabile Area Vendite presso Simat Antincendi Srl",
+      "location": "Mantua"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-de-felip-19973623",
+      "name": "Andrea De Felip",
+      "summary": "Italian Ministry of Foreign Affairs and International Cooperation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-bacchiavini-4b377623",
+      "name": "Alessandro Bacchiavini",
+      "summary": "Export  & Business Developer Manager",
+      "location": "Parma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-villan-62844a24",
+      "name": "Nicola Villan",
+      "summary": "Certification Approval Engineer  presso GDS Global Display Solutions",
+      "location": "Camisano Vicentino"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincenzo-ranghetti-57309426",
+      "name": "Vincenzo Ranghetti",
+      "summary": "Business Development Manager",
+      "location": "Martinengo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciano-de-ruvo-64335328",
+      "name": "Luciano De Ruvo",
+      "summary": "Warehouse Supervisor presso GDS Global Display Solutions",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gian-luigi-salbego-36252528",
+      "name": "Gian Luigi Salbego",
+      "summary": "Business Division Manager",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clayton-fulmar-a753322a",
+      "name": "Clayton Fulmar",
+      "summary": "Service Technician",
+      "location": "Hook"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoran-obradovic-6096042b",
+      "name": "Zoran Obradovic",
+      "summary": null,
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovanni-cariolato-5236b72b",
+      "name": "Giovanni Cariolato",
+      "summary": "Founder & CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maurizio-armand-6912b834",
+      "name": "Maurizio Armand",
+      "summary": null,
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauro-turnu-b4573236",
+      "name": "mauro turnu",
+      "summary": "Business Developer presso Direma srl",
+      "location": "Varese"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ettore-lecchi-b4385a39",
+      "name": "Ettore Lecchi",
+      "summary": "EMEA Sales Manager",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-guidetti-2411303a",
+      "name": "Alan Guidetti",
+      "summary": "Head of Commercial Development AUS/NZ at GDS Australia - Consultant Digital Out of Home & Transportation / DOOH-Display- Retail- Advertising / TRANSPORTATION- Rail- Metro- Bus- Smart Cities",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riccardo-tessari-17ab6a3a",
+      "name": "Riccardo Tessari",
+      "summary": null,
+      "location": "Verona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-rota-69a96745",
+      "name": "Andrea Rota",
+      "summary": "Sales Manager South East Europe End User & VAR presso ISEO | Ultimate Access Technologies | End Users Solutions | Real Estate SOFIA | Utilities , Telco & Transportation LOCKEN | Industry & Public | Customers Satisfaction",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/flavio-alberghini-12046453",
+      "name": "Flavio Alberghini",
+      "summary": "EWS Channel Sales Manager Eaton",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-manfrini-28689159",
+      "name": "Andrea Manfrini",
+      "summary": null,
+      "location": "Verona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enzo-macchi-86803160",
+      "name": "Enzo Macchi",
+      "summary": "Business Developer Manager presso Scame Parre spa",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinson-liao-96484963",
+      "name": "Vinson Liao",
+      "summary": null,
+      "location": "New Taipei City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvia-zarantonello-a6584b63",
+      "name": "Silvia Zarantonello",
+      "summary": "IMPIEGATA UFF. FINANZA presso GDS Global Display Solutions",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marta-tognato-01388763",
+      "name": "Marta Tognato",
+      "summary": "Key Account Manager presso GDS Global Display Solutions Spa",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-pranovi-73194a63",
+      "name": "Michael Pranovi",
+      "summary": "Project Engineer presso GDS Global Display Solutions",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-bagni-18620964",
+      "name": "ANDREA BAGNI",
+      "summary": "Product Manager presso WUERTH ELEKTRONIK STELVIO KONTEK S.P.A.",
+      "location": "Bollate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petre-c%25C3%25A3%25C2%25A2tea-31b71464",
+      "name": "Petre Câtea",
+      "summary": "Warehouse Manager at GDS Global Display Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cem-kara-858bbb7a",
+      "name": "Cem Kara",
+      "summary": "Business Development Manager  presso JBC Soldering Tools",
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-slavi-ero-258ab78b",
+      "name": "Alessandra Slavi ero",
+      "summary": "Impiegata Amministrativa - Invoicing at GDS Global Display Solutions",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sohel-shaikh-12566591",
+      "name": "Sohel Shaikh",
+      "summary": "IQT at GDS Manufacturing Services SA",
+      "location": "Arad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramona-mican-790281a3",
+      "name": "Ramona Mican",
+      "summary": "Planning Manager at GDS Global Display Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/salvatore-leanza-91b60ba9",
+      "name": "Salvatore Leanza",
+      "summary": "Wurth Italia - Divisione Industria",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deb-king-878165ab",
+      "name": "Deb King",
+      "summary": "Buyer/Planner and Customer Service Manager",
+      "location": "Rockford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrio-zavattin-993737b2",
+      "name": "Gabrio Zavattin",
+      "summary": "PCB Designer",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salvatore-auzino-25b123117",
+      "name": "Salvatore Auzino",
+      "summary": null,
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lupan-sorin-812448120",
+      "name": "Lupan Sorin",
+      "summary": "Engineering Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-marodin-073a0013a",
+      "name": "Samuel Marodin",
+      "summary": "Procurement & Purchasing",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-savegnago-70a877169",
+      "name": "Alberto Savegnago",
+      "summary": "Ingegnere Meccanico | Esperto in progettazione 3D e sviluppo soluzioni industriali | Specializzato in CAD e gestione progetti tecnici | Laurea magistrale in Ingegneria Meccanica",
+      "location": "Valdagno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-ongaro-548174185",
+      "name": "Martina Ongaro",
+      "summary": "Digital Out Of Home Consultant / DOOH - Display- Retail- Advertising",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-zanirato-21a23319a",
+      "name": "Nicola Zanirato",
+      "summary": "Supplier Quality",
+      "location": "Vicenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/veronica-ceccarelli-262572219",
+      "name": "Veronica Ceccarelli",
+      "summary": "chef enogastronomico presso GDS Global Display Solutions",
+      "location": "San Biagio di Callalta"
+    }
+  ],
+  "recommendations": [
+    "Filipe Gomes\n\nIlaria is an excellent professional.I enjoyed working and learning with Ilaria.",
+    "Gianpaolo Mattana\n\nAppena ho conosciuto Ilaria, già nei primi minuti di colloquio, non ho avuto dubbi che sarebbe stata lei la persona giusta al posto giusto: eravamo alla ricerca di un professionista con cui vagliare un esperimento di diversificazione e che ci potesse dare un solido punto di vista su un mercato per noi nuovo, caratterizzato da un mix di clienti e prodotti ancora non esplorato. La prima ottima impressione è divenuta certezza quando Ilaria, da parte integrante della nostra squadra, si è effettivamente rivelata determinante nel metterci nelle migliori condizioni di fare scelte strategiche corrette, grazie al suo ottimo mix di competenze professionali e doti umane: il suo studio e il suo apporto ci hanno dato la certezza di avere esplorato e acquisito piena consapevolezza di rischi e opportunità delliniziativa.Limmagine professionale più vivida che ho di Ilaria riguarda il suo approccio imprenditoriale che la porta a concepire idee, a valutarne la portata e ad attuare iniziative che vanno ben oltre il semplice sviluppo commerciale del mercato: la visione dinsieme e il pensiero laterale con cui ha approcciato i temi oggetto del suo mandato hanno sempre reso il nostro confronto su argomenti di sviluppo strategico estremamente interessante e fruttuoso. Cè inoltre in Ilaria una dote eccezionale che la rende incredibilmente efficace: la spontaneità con cui lei tesse, gestisce e mantiene i rapporti umani che travalica ampiamente il suo mestiere ed è totalmente connaturata nel suo essere."
+  ],
+  "activities": [
+    {
+      "title": "Venerdì ho avuto il privilegio di intervenire a \"Obiettivo Parità: aziende e territorio per un futuro sostenibile”, un evento che mi ha permesso di…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_obiettivoparità-leadershipfemminile-inclusione-activity-7436789063514456065-sSOj",
+      "activity_status": null
+    },
+    {
+      "title": "Working in DOOH at GDS Global Display Solutions, I see every day that clients don’t simply need displays, they need reliable, engineered…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_working-in-dooh-at-gds-global-display-solutions-activity-7429476255873495040-vXY7",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to be part of the team at ISE Barcelona this year. Outdoor projects come with unique challenges, and I’m here together with our experts to…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_proud-to-be-part-of-the-team-at-ise-barcelona-activity-7424418539123490816-BYbF",
+      "activity_status": null
+    },
+    {
+      "title": "In DOOH, true readability comes from contrast, not just brightness. Fewer reflections mean clearer messages and real visibility in any light. G+Bond…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_in-dooh-true-readability-comes-from-contrast-activity-7415076877842677760-SpLr",
+      "activity_status": null
+    },
+    {
+      "title": "This report tells the story of a company driven by purpose, evolving with consistency, and placing people and the planet at the heart of its strategy.",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_this-report-tells-the-story-of-a-company-activity-7371080253261205505-0-xP",
+      "activity_status": null
+    },
+    {
+      "title": "To learn more about how GDS is addressing these critical issues of #sustainability and #energy efficiency, we invite you to join us in our journey…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_sustainability-energy-activity-7337877591829151745-wTzF",
+      "activity_status": null
+    },
+    {
+      "title": "Every journey begins with a choice, and with GDS's brilliant solutions, every choice becomes an opportunity for an extraordinary experience",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_every-journey-begins-with-a-choice-and-with-activity-7334194143503474689-pZMJ",
+      "activity_status": null
+    },
+    {
+      "title": "From June 4–6, we’ll be joining over 500 delegates to talk about innovation, sustainability, and digital transformation: a great opportunity to…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_from-june-46-well-be-joining-over-500-activity-7330633719591944192-V_JE",
+      "activity_status": null
+    },
+    {
+      "title": "Imagine a world where your displays not only last longer but also save you money and support sustainability. At GDS Global Display Solutions, we make…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_imagine-a-world-where-your-displays-not-only-activity-7323246452623720450-EgIE",
+      "activity_status": null
+    },
+    {
+      "title": "Today, everyone talks about eco-friendliness and sustainability, but we know how challenging it is to turn these words into actions. The real…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_today-everyone-talks-about-eco-friendliness-activity-7325778222074183681-W4H2",
+      "activity_status": null
+    },
+    {
+      "title": "I am proud to be part of a company that has been pioneering electronic solutions for over four decades. At GDS, we combine international expertise…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_dooh-glocal-activity-7300421331064360962-IutJ",
+      "activity_status": null
+    },
+    {
+      "title": "In the world of digital signage, reliability and fast service make all the difference. That’s why our displays are designed for on-field modular…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_dooh-activity-7298332246661341184-6bEL",
+      "activity_status": null
+    },
+    {
+      "title": "Sono orgogliosa di condividere le immagini dell'installazione di totem 75” presso il centro commerciale BariBlu a Bari. Grazie a Pikasso Italia per…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_sono-orgogliosa-di-condividere-le-immagini-activity-7287416082984804353-J0nE",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to be at the World Out of Home Organization’s 𝗘𝘂𝗿𝗼𝗽𝗲 𝗙𝗼𝗿𝘂𝗺 in Milan from November 4-6! It’s great to be in a city where GDS…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_im-excited-to-be-at-the-world-out-of-home-activity-7256618970902892544-dv3S",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to bring our Italian innovation to the heart of Venice, a city as iconic and unique as GDS Global Display Solutions itself! Our solutions…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_proud-to-bring-our-italian-innovation-to-activity-7237723764879224835-kUUH",
+      "activity_status": null
+    },
+    {
+      "title": "Last day at World Out of Home Organization in Milan..",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_last-day-at-world-out-of-home-organization-activity-7259857787130630144-R-1R",
+      "activity_status": null
+    },
+    {
+      "title": "Live from the WOO Europe Forum in Milan! Visit our booth to discover how we bring together Italian style, cutting-edge technology, and…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_wooeuropeforum-milan-gds-activity-7259576333477822464-pYlP",
+      "activity_status": null
+    },
+    {
+      "title": "We are less than 2 weeks away from InfoComm, the largest Pro AV trade show in North America, and I couldn't be more thrilled to be a part of it!…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_infocomm-proav-greensignage-activity-7201596087453773824-wV98",
+      "activity_status": null
+    },
+    {
+      "title": "Our success wouldn't be possible without an incredible team and invaluable customers and partners. As we pay tribute to our heritage, we anticipate a…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_gds-45-years-anniversary-activity-7188542197485453312-pQTt",
+      "activity_status": null
+    },
+    {
+      "title": "Meet the GDS team! We're excited to showcase our latest display solutions at DSE 2023. Don't miss the opportunity to meet us in person @booth607 on…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_dse-2023-mixer-sponsor-profiles-how-gds-activity-7133010309945917440-Kp0V",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_australia-sydney-digital-activity-7037433896107454464-OJG0",
+      "activity_status": null
+    },
+    {
+      "title": "Orgogliosa di aver collaborato con COIMA per il progetto innovativo di Porta Nuova e aver contribuito con i nostri Totem digitali a creare…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_innovazione-design-portanuova-activity-7076490775345139712-2HDI",
+      "activity_status": null
+    },
+    {
+      "title": "We are ready to reveal the secret of the best outdoor technology for the #DOOH by GDS Global Display Solutions We look forward to seeing you at our…",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_midas-aria-the-outdoor-digital-display-activity-6997532309667106816-gsFr",
+      "activity_status": null
+    },
+    {
+      "title": "GDS Global Display Solutions understands and is really able to correctly respond to the challenges of outdoor diplay.",
+      "link": "https://www.linkedin.com/posts/ilaria-giambruno-595509b_dse-digital-signage-expo-gds-activity-6382168681098678272-6RJW",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-10-31T00:00:00Z"
+  }
+}

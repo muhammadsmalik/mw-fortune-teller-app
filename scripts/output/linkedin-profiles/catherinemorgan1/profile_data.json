@@ -1,0 +1,540 @@
+{
+  "public_identifier": "catherinemorgan1",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/ba3ae25cd2cfe9f3c958e9fda996550a",
+  "first_name": "Catherine",
+  "last_name": "Morgan",
+  "full_name": "Catherine Morgan",
+  "follower_count": 1830,
+  "occupation": null,
+  "headline": null,
+  "summary": null,
+  "location_str": "Greater London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "name": "The Business of Creativity - Autumn 2023",
+      "license_number": "cinfw0t8rg",
+      "display_source": null,
+      "authority": "The Business of Creativity",
+      "url": "https://academy.businessofcreativity.com/certificates/cinfw0t8rg"
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/killian-barrins",
+      "name": "Killian Barrins",
+      "summary": "Commercial Leader",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leegrasby",
+      "name": "Lee Grasby",
+      "summary": "Group Creative Director. Multi-channel marketing strategist.",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gvjones",
+      "name": "Gareth Vaughan Jones",
+      "summary": "Head of Advertising Sales & Operations at Virgin Media O2",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierkeenan",
+      "name": "Xavier H Keenan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-henson",
+      "name": "Mark Henson",
+      "summary": "Commercial Strategy | Media Sales | Media Planning & Buying | Business Development  | Media Barter",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michellestoodley",
+      "name": "Michelle Stoodley",
+      "summary": "Marketing Director at 1Rebel UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erikcarrasco",
+      "name": "Erik Carrasco",
+      "summary": "Key Account Manager på Ocean Outdoor Sweden",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnkilfeather",
+      "name": "John Kilfeather",
+      "summary": "Director of Operations & Technology at Ocean Outdoor",
+      "location": "Amersham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoe-haig-64516843",
+      "name": "Zoe Haig",
+      "summary": null,
+      "location": "Roslin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sallydeane",
+      "name": "Sally Deane",
+      "summary": "Associate Director at Ocean Outdoor, Digital Out of  Home Advertising, @oceanoutdoorUK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucyodwyer",
+      "name": "Lucy O'Dwyer",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alisonlomaxgoogle",
+      "name": "Alison Lomax",
+      "summary": "MD YouTube UK and Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenzjoseph",
+      "name": "Stephen Joseph",
+      "summary": "CFO/COO at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthieulorrain",
+      "name": "Matthieu Lorrain",
+      "summary": "AI & Creativity, Google DeepMind",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindabeigart",
+      "name": "Linda Beigart",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadiaholmes4",
+      "name": "Nadia Holmes",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanie-blood",
+      "name": "Melanie Blood",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clare-elder-creative-strategy",
+      "name": "Clare Elder",
+      "summary": "Director of Strategy at Republic of Media",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katiewarrentic",
+      "name": "Katie Warren",
+      "summary": "Volunteer fundraiser, engagement and corporate partnerships at The Henry Allen Trust",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleanor-greszczuk",
+      "name": "Ellie Greszczuk",
+      "summary": "Head of Partner Management at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clare-milner-bowen-5185a936",
+      "name": "Clare Milner (Bowen)",
+      "summary": "Inbetweener (Freelance)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavier001",
+      "name": "Xavier Tilman",
+      "summary": "CEO Ocean Outdoor Netherlands (personal channel)",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raphael-mingam-b60750",
+      "name": "Raphael Mingam",
+      "summary": "CMO // Global Chief Marketing & Communications Officer at CHAUMET - LVMH Group\n (ex Cartier, Van Cleef Arpels, Hermès)\n@LVMH @Richemont @Hermès)",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-coldham-22b0257",
+      "name": "Paul Coldham",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadiaholmes82",
+      "name": "Nadia Holmes",
+      "summary": "Commercial Director, Podcasts - audioXi at Bauer Media Group",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachid-ait-addi-866ab89",
+      "name": "Rachid Ait Addi",
+      "summary": "Founder & CEO | Helping Brands Monitor, Analyze & Optimize Visibility in LLMs",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richwright79",
+      "name": "Richard Wright",
+      "summary": "Growth Marketing Manager",
+      "location": "Knutsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirsty-sullivan-19087015",
+      "name": "Kirsty Sullivan",
+      "summary": "Sales and Marketing Manager",
+      "location": "Holmes Chapel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monica-born-a6203118",
+      "name": "Monica Born",
+      "summary": "Superfront.com / Founder / Gold winner in \"Founder of the Year\" at the Entrepreneurs Gala Sweden 2021 / Ranked on the Inc. 5000 list of the fastest growing privately held companies. / Member of 17nätverket.",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-kaye-0654a618",
+      "name": "Mark Kaye",
+      "summary": "SVP, Beonic - International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-hall-82421822",
+      "name": "Phil Hall",
+      "summary": "Group COO at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-malton-2582472b",
+      "name": "Richard Malton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-tait-a723a533",
+      "name": "David Tait",
+      "summary": "Group Creative Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo-sutch-3a0a1534",
+      "name": "Jo Sutch",
+      "summary": "Co Founder & Director // Three Thirteen Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoe-schmid-64516843",
+      "name": "Zoe Schmid",
+      "summary": "Brand Development & Growth Strategist",
+      "location": "Roslin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ed-harvey-a848b644",
+      "name": "Ed Harvey",
+      "summary": "Industry Manager - Retail @ Google",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-ballantine-68095349",
+      "name": "Tom Ballantine",
+      "summary": "Development Director, UK at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damian-cox-baa6014a",
+      "name": "Damian Cox",
+      "summary": "Global CEO & Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-richardson-0734405b",
+      "name": "Will Richardson",
+      "summary": "Head of Agency Sales",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-hillyer-24100890",
+      "name": "Paul Hillyer",
+      "summary": "Senior Creative | Digital, Video & Audio Ads Creative @ Amazon",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-sutton-532b3aa4",
+      "name": "Rachel Sutton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecka-persson-1380b1a9",
+      "name": "Rebecka Persson",
+      "summary": "Client Solutions & Creative Manager at Ocean LABS",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-reilly-b76848111",
+      "name": "Rebecca Reilly",
+      "summary": "Associate Director at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silla-levin-4087b2118",
+      "name": "Silla Levin",
+      "summary": "Creative leadership | Brand & Marketing | Ex. CEO Forsman & Bodenfors, ex CEO Kurppa Hosk",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-banning-177186176",
+      "name": "Joseph Banning",
+      "summary": "Co-Founder at Long Distance Locations | Freelance Photography & Videography services",
+      "location": "London"
+    }
+  ],
+  "recommendations": [
+    "Dino Burbidge\n\nThere are two ways to write a recommendation for Cat. The first goes something like “I’ve worked with Cat on several projects over many years. Cat it a consummate professional. I’d want her on any and every project I’m involved in.”\nThe other is something like “Cat is bloody awesome! I’ve asked for things that seemed both unreasonable and impossible and yet Cat delivers. I know that I can phone Cat with a request and she’ll answer the phone… and I know I’ll answer my phone if Cat’s name appears on the screen. It means something interesting is about to happen. She has the gravitas to be an industry leader and he subtly to find solutions where others would self-implode. If you’re re in a fix…or in a party, you want Cat to be there. Cat is bloody awesome!",
+    "Sarah Parkes\n\nCatherine is undoubtedly somebody you want to have on your team, hard working, eager to learn and happy to take on new challenges – developing her skills in the process. \r\nShe is excellent at building long-lasting and profitable business relationships and her creative mind brings an abundance of new ideas to client pitches. \r\nShe has a tenacious character and takes full responsibility for the job in hand – always going that extra step to ensure campaigns are delivered on brief.  \r\nCatherine is an asset to any business and very much hope our paths cross again in the future.",
+    "Dino Burbidge\n\nThere are two ways to write a recommendation for Cat. The first goes something like I’ve worked with Cat on several projects over many years. Cat it a consummate professional. I’d want her on any and every project I’m involved in. The other is something like Cat is bloody awesome! I’ve asked for things that seemed both unreasonable and impossible and yet Cat delivers. I know that I can phone Cat with a request and she’ll answer the phone… and I know I’ll answer my phone if Cat’s name appears on the screen. It means something interesting is about to happen. She has the gravitas to be an industry leader and he subtly to find solutions where others would self-implode. If you’re re in a fix…or in a party, you want Cat to be there. Cat is bloody awesome!"
+  ],
+  "activities": [
+    {
+      "title": "A proud moment for me and for Ocean Labs + Studio. What started as a team of one has grown into an incredibly talented multi award-winning team…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-oceanstudio-activity-7463162057878556672-TXMq",
+      "activity_status": null
+    },
+    {
+      "title": "All the gear, ready for your idea. Ocean Portal is a fully immersive, portable platform powered by next-gen tech. Where stories aren’t told, they’re…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-oceanstudio-activity-7452436414257860611-SYLz",
+      "activity_status": null
+    },
+    {
+      "title": "Outstanding work from the #OceanLabs teams in Ocean Outdoor Sweden and Ocean Outdoor Norway!",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-activity-7400130004417728512-g_oe",
+      "activity_status": null
+    },
+    {
+      "title": "Stand out. Impact. Quality. The core ingredients that were behind the development of the Ocean Showcase. We’ve used all our years of expertise of…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_stand-out-impact-quality-the-core-ingredients-activity-7348805244404822017-Kd9y",
+      "activity_status": null
+    },
+    {
+      "title": "An outstanding and inspiring presentation by the one and only Tim Bleakley on how the OOH industry has to play to its strengths as a one to many…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_one-to-many-ways-to-growth-pinpointed-in-activity-7336829734749638657-MJLF",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Kristina Riley, Fredrik Hermansson and the rest of the Ocean Outdoor Sweden team for winning the Technical Innovation award at…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_ooh-oceanlabs-activity-7336736268032135168-gRAD",
+      "activity_status": null
+    },
+    {
+      "title": "It was such a joy to be part of the 80th Anniversary Creative Circle Awards Gold Press & Outdoor judging panel yesterday. There were some fantastic…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_it-was-such-a-joy-to-be-part-of-the-80th-activity-7331703723074752512-wwsW",
+      "activity_status": null
+    },
+    {
+      "title": "I absolutely love this DeepScreen campaign for Sky. It plays to all of OOH super powers, using scale and context to surprise and delight the audience…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_i-absolutely-love-this-deepscreen-campaign-activity-7317566657705435137-tsVS",
+      "activity_status": null
+    },
+    {
+      "title": "Bringing home the bling! Huge congratulations to Adidas, Accenture Song and Ocean Outdoor Sweden for winning Silver at the #OBIEAwards for the Adidas…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_obieawards-dcc-oceanlabs-activity-7325829032590172160-Kcpe",
+      "activity_status": null
+    },
+    {
+      "title": "What a week for OCEAN Outdoor Germany GmbH! First the grand opening of Westfield Hamburg-Überseequartier and our stunning new screens, and last night…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceansummit-dreamteam-activity-7316393451946692620-akXi",
+      "activity_status": null
+    },
+    {
+      "title": "The best things are worth waiting for, and the people of Hamburg certainly agreed - just look at those crowds! A big day for OCEAN Outdoor Germany…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_the-best-things-are-worth-waiting-for-and-activity-7315766634298691585-WXF4",
+      "activity_status": null
+    },
+    {
+      "title": "As we say at Ocean Outdoor, not all impacts are equal, in this case for Netflix, some are even electrifying. Great work by our German team to bring…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_as-we-say-at-ocean-outdoor-not-all-impacts-activity-7308419683613900801-RMmv",
+      "activity_status": null
+    },
+    {
+      "title": "Last week marked a new chapter in the Ocean Outdoor Finland story as we celebrated the stunning new locations and the range of creative possibilities…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-activity-7307415406086938624-nh5X",
+      "activity_status": null
+    },
+    {
+      "title": "Honoured to judge the Creative Circle Awards, celebrating the bold ideas shaping our industry. Creativity fuels everything we do at Ocean Outdoor,…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_creativecircleawards-theartofoutdoor-activity-7304875627021561857-PpdI",
+      "activity_status": null
+    },
+    {
+      "title": "Creativity and innovation have long been hallmarks of the Nordics, and at Ocean Outdoor, we see these qualities shine through in our #OceanLabs team.…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_spotlight-the-nordics-activity-7287061222724648961-17ix",
+      "activity_status": null
+    },
+    {
+      "title": "Ocean Outdoor is thrilled to be one of just eight presenters on stage at #TheGoodstuffMediaShowcase! Step into Wonderland with us on the 13th…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_thegoodstuffmediashowcase-activity-7252635724213055489-kJw1",
+      "activity_status": null
+    },
+    {
+      "title": "#OceanLabs shining a light on a great creative idea for IKEA. Fantastic work Richard Stiller, Rebecka Persson and Kristina Riley and team Ocean…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-activity-7211414343077249024-85gK",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Christa Topp Prevost, Pia Petersen, Wavemaker Denmark and the #OceanLabs team at Ocean Outdoor Denmark for winning The Creative…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-activity-7204407855276371970-kijq",
+      "activity_status": null
+    },
+    {
+      "title": "I'm incredibly proud of the #OceanLabs team for winning 🏆 Gold for The Best Coke Ever, and 🏆 Bonze for Vodafone Business - Work From Anywhere…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_obie-winners-activity-7192145751727124482-Tvhn",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely love this! There is nothing fake about that Magnum or the DeepScreen for that matter. A great example of #DontFakeItWhenYouCanMakeIt…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_tiktok-magnum-ice-cream-activity-7193903010052218880-WYLR",
+      "activity_status": null
+    },
+    {
+      "title": "It was a honour to be part of GroupM Sverige’s #NextM event this year and to be able to share my top tips on how create award winning OOH campaigns.…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_nextm-activity-7188944465271635968-AIpD",
+      "activity_status": null
+    },
+    {
+      "title": "I am incredibly excited to part of the line up for The Goodstuff Media Showcase event. Mark the 13th November in your diaries now, this event is not…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_i-am-incredibly-excited-to-part-of-the-line-activity-7242576761916395521-BidX",
+      "activity_status": null
+    },
+    {
+      "title": "It was fantastic to get together in person with the Heads of Labs across our markets and spend some quality time discussing the plans for year.…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_obie-oceanlabs-activity-7176259681101709312-hShx",
+      "activity_status": null
+    },
+    {
+      "title": "I want to take a moment to reflect on 2023 and recognise the #OceanLabs team’s unwavering hard work, perseverance, and dedication across all our…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_labs-best-of-2023-activity-7155569709961084928--O-8",
+      "activity_status": null
+    },
+    {
+      "title": "In an increasingly busy market, standout and talkability matters more than ever. We live and breathe it, so it was great to see MarketingWeek prove…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_in-an-increasingly-busy-market-standout-activity-7153090259180822531-sjlG",
+      "activity_status": null
+    },
+    {
+      "title": "It was an absolute honour to be a keynote speaker at the NextM conference in Stockholm today. A wonderful and inspiring event hosted by the team at…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_oceanlabs-activity-7057007921942933505-Hg00",
+      "activity_status": null
+    },
+    {
+      "title": "Great to be back in Stockholm with Ocean Outdoor Sweden and I was delighted to talk at the #NextM conference and share the news we’re launching Ocean…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_nextm-activity-6917830691023945729-pb_Z",
+      "activity_status": null
+    },
+    {
+      "title": "I’m absolutely thrilled to see the #MyHeroes campaign win GOLD at the #MediaWeekAwards in the media collaboration during Covid category! It was a…",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_myheroes-mediaweekawards-strongertogether-activity-6722564508855885824-kWhJ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/catherinemorgan1_really-proud-to-announce-the-next-stage-of-activity-6374950818990288896-9pjG",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Catherine Morgan",
+      "link": "https://www.linkedin.com/in/catherine-morgan-9240b21a",
+      "summary": "Vice President Media at Publicis Media",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-67864287",
+      "summary": "Director/Interior Designer at Strudwick Consultants Limited",
+      "location": "Sutton"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-376ba534",
+      "summary": "Business Manager at Steve Morgan Associates Ltd",
+      "location": "Newport"
+    },
+    {
+      "name": "CATHERINE MORGAN",
+      "link": "https://www.linkedin.com/in/catherine-morgan-2a528220",
+      "summary": "Owner, MLC INDUSTRIES",
+      "location": "Plymouth County, MA"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-a8327751",
+      "summary": "Audit Manager at Mazars UK",
+      "location": "Greater Brighton and Hove Area"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan",
+      "summary": "Financial Wellbeing Speaker on the emotions of money, International #1Amazon Author of ‘It’s Not About The Money,’ Financial Coach Trainer & Top 1% Global Podcaster Its not about the money. Motivational Speaker",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-22a6981a",
+      "summary": "Head of Projects & Engineering",
+      "location": "Greater Aberdeen Area"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-23309210",
+      "summary": "Human Resources",
+      "location": "Doncaster"
+    },
+    {
+      "name": "Catherine Morgan",
+      "link": "https://uk.linkedin.com/in/catherine-morgan-25812b13",
+      "summary": null,
+      "location": "United Kingdom"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-02T00:00:00Z"
+  }
+}

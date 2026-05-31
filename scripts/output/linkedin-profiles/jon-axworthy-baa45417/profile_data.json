@@ -1,0 +1,571 @@
+{
+  "public_identifier": "jon-axworthy-baa45417",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Jon",
+  "last_name": "Axworthy",
+  "full_name": "Jon Axworthy",
+  "follower_count": 104,
+  "occupation": "Client Services Director at Key Systems OOH Ltd",
+  "headline": "Client Services Director at Key Systems",
+  "summary": null,
+  "location_str": "West Midlands, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2006
+      },
+      "ends_at": null,
+      "company": "Key Systems OOH Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Client Services Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2006
+      },
+      "company": "Touch Vision Systems Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": null,
+      "location": "Stratford on Avon",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": "Architecture",
+      "degree_name": "BA Hons",
+      "school": "Plymouth School of Architecture",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Architecture",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 103,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/williamfranklin1",
+      "name": "William Franklin 富伟",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sammeadows1",
+      "name": "Samantha M.",
+      "summary": null,
+      "location": "Newport Pagnell"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marsh80",
+      "name": "Chris Marsh",
+      "summary": "Freelance Business Development / Lead Generation & Sales <Managing Director at Agents Of> Tech, Digital & Creative",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsayspink",
+      "name": "Lindsay Spink",
+      "summary": "at",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gileswarburton",
+      "name": "Giles Warburton",
+      "summary": null,
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamiehayden",
+      "name": "Jamie Hayden",
+      "summary": "Managing Director - at Intelligent Solutions",
+      "location": "Colchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philipnyoung",
+      "name": "Philip Young",
+      "summary": "Director",
+      "location": "Euxton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mambjo",
+      "name": "Marc Ambasna-Jones",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantalhaines",
+      "name": "Chantal Haines",
+      "summary": "Editor || Copywriter ||  Marine journalist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martindsmith",
+      "name": "Martin Smith",
+      "summary": "Managing Director - Bid Solutions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/theosav",
+      "name": "Theodora Savlovschi-Wicks",
+      "summary": "Vice President @ Proclinical Group | Global Client Services",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neilhoskins",
+      "name": "Neil Hoskins",
+      "summary": "Helping companies recruit, make more money, increase win rates & improve efficiency in International Trade ★",
+      "location": "East Grinstead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sorrelmiller",
+      "name": "Sorrel Miller FCMA MCIM",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markweirsearch",
+      "name": "Mark Taylor-Weir BSc(hons), Dip Soc Pol, MIoD",
+      "summary": "International Talent Acquisition. C-Suite, Board and Senior Hires. Retained Search. Global Staffing Expert.",
+      "location": "Amesbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stacey-cortez-41410614",
+      "name": "Stacey Cortez",
+      "summary": null,
+      "location": "Bournemouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/onelondon",
+      "name": "Michael London",
+      "summary": "Chief Technology Officer | One London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steveslater",
+      "name": "Steve Slater",
+      "summary": "Managing Director at Ateca Consulting",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rhodri-marsden",
+      "name": "Rhodri Marsden",
+      "summary": "Writer, Musician, Author, Musical Director, Producer, Composer, Copywriter, Idiot",
+      "location": "Braintree"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rhodri-marsden-623472274",
+      "name": "Rhodri Marsden",
+      "summary": "Driving Customer Satisfaction",
+      "location": "Deeside"
+    },
+    {
+      "link": "https://www.linkedin.com/in/4michaeldillon",
+      "name": "Michael Dillon",
+      "summary": null,
+      "location": "Minneapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sallypallaris",
+      "name": "Sally Pallaris",
+      "summary": "Taking time out",
+      "location": "Orpington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craiggh0911",
+      "name": "Craig Hamilton",
+      "summary": null,
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markballard1",
+      "name": "Mark Ballard",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-dillon-6409576",
+      "name": "Mike Dillon",
+      "summary": "Accounting",
+      "location": "Scranton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anton-bash-78a16b139",
+      "name": "Anton Bash",
+      "summary": "co-founder @Blanc Technologies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigelcjones",
+      "name": "Nigel Jones BA(Hons)",
+      "summary": "Cloud Happi - Making a real difference in education with Cloud Solutions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/austinawadzi",
+      "name": "Austin Awadzi",
+      "summary": "Helping commercial landlords, asset managers and commercial agents make their properties more marketable and significantly reduce void periods. How does your building shape up?",
+      "location": "Evesham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-lee-2a98285",
+      "name": "Alice Lee",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-cole-raconteur",
+      "name": "Neil Cole",
+      "summary": "Chief sub-editor at the Institution of Civil Engineers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kay-maguire-4922088",
+      "name": "Kay Maguire",
+      "summary": "Horticultural Editor at BBC Worldwide",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-brittan-a105938",
+      "name": "Richard Brittan",
+      "summary": "Managing Director at ALCIS Holdings Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonard-howley-2053249",
+      "name": "Leonard Howley",
+      "summary": null,
+      "location": "Ormskirk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-cody-69769aa",
+      "name": "David Cody",
+      "summary": "Independent Business Owner at DCO Media",
+      "location": "Buckhurst Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-gatta-101346b",
+      "name": "Anthony Gatta",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-dennington-a0a96317",
+      "name": "Michael Dennington",
+      "summary": "Director Identity",
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-billingham-11621318",
+      "name": "Dan Billingham",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-leiper-81b6091a",
+      "name": "Craig Leiper",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/madeleine-lim-34475324",
+      "name": "Madeleine Lim",
+      "summary": "Food and Drink Editor, Deputy Editor, Independent Magazine at The Independent",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-johnson-64295928",
+      "name": "Thomas Johnson",
+      "summary": null,
+      "location": "Bannister"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tina-mcguigan-2b6a722a",
+      "name": "Tina McGuigan",
+      "summary": "Live, laugh, love!",
+      "location": "Hertford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-berryman-a4101633",
+      "name": "Matt Berryman",
+      "summary": "Director of multiple companies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-chapman-a2357a47",
+      "name": "Dave Chapman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabeth-dodd-5497714a",
+      "name": "Elizabeth Dodd",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/theoswicks",
+      "name": "Theodora Savlovschi-Wicks",
+      "summary": "Global Life Sciences Recruiter | Partnerships | Talent Strategy",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malvinkamara",
+      "name": "Malvin Kamara",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-ballard-262b8b60",
+      "name": "Mark Ballard",
+      "summary": "Journalist at Freelance / Computer Weekly",
+      "location": "Dartford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-payne-b3a38765",
+      "name": "Jason Payne",
+      "summary": "Senior General Manager at UpCountry Garden and Country Stores",
+      "location": "Haywards Heath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-bilmen-69b25868",
+      "name": "Darren Bilmen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/madeleinehowell",
+      "name": "Madeleine Howell",
+      "summary": "Journalist at The Telegraph",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-maith-39168486",
+      "name": "John Maith",
+      "summary": "Consultant",
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurie-clarke-5468358a",
+      "name": "Laurie Clarke",
+      "summary": "Working at Bright lives Colchester",
+      "location": "Colchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-meadows-77185593",
+      "name": "Sam Meadows",
+      "summary": "International Journalist | Investigations, Environment, Wildlife Crime, Politics, Finance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robbie-greig-smith-b01447a0",
+      "name": "Robbie Greig Smith",
+      "summary": null,
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-meadows-248207a4",
+      "name": "Sam Meadows",
+      "summary": "Shareholder at Reminger Co. LPA",
+      "location": "Cleveland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-avellano-0959b4aa",
+      "name": "Andrea Avellano",
+      "summary": "Account Manager at Boutinot Wines",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/uwais-ali-27469ab5",
+      "name": "Uwais Ali",
+      "summary": "Pre-reg Optometrist",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-vaudrey-558b58b6",
+      "name": "Helen Vaudrey",
+      "summary": "Editor in Chief at The Townie Magazine",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thelondonnexus",
+      "name": "Michael London",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liz-dodd-079952106",
+      "name": "Liz Dodd",
+      "summary": "Finance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-sutton-26bb0a10a",
+      "name": "James Sutton",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tsend-badam-b62179112",
+      "name": "Tsend Badam",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurabithell",
+      "name": "Laura Bithell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-weale-333278122",
+      "name": "James Weale",
+      "summary": "Business Partner at Specsavers",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edwin-ellis-4655b9125",
+      "name": "Edwin Ellis",
+      "summary": null,
+      "location": "Leek"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mrs-jane-molloy-307179126",
+      "name": "Mrs jane Molloy",
+      "summary": "Optical consultant at Boots Opticians",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/henna-inkinen",
+      "name": "Henna Inkinen",
+      "summary": "Customer Service Expert | Accomplished Inside Sales Rep | Administrative Pro | Making Every Interaction Count | 💼",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aaron-atkins-b787a9155",
+      "name": "Aaron Atkins",
+      "summary": "Digital Service Specialist at Vodafone",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-wells-3a125015b",
+      "name": "Richard Wells",
+      "summary": "General Manager at Squire's Garden Centres Milford",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elysia-sturdy-b8b675167",
+      "name": "Elysia Sturdy",
+      "summary": "Front Desk Receptionist at Mitie",
+      "location": "Newbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-evans-018848187",
+      "name": "John Evans",
+      "summary": "Area Sales Executive @ Taylors Bulbs",
+      "location": "Sandbach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harrison-laing-861b7a197",
+      "name": "Harrison Laing",
+      "summary": "A Leasing Consultant for the Grosvenor Group, partnered with Select Car Leasing specialising in Personal Contract Hire and Business Contract Hire offering the best deals on cars and vans.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-bay-axworthy-3130681a4",
+      "name": "John Bay-Axworthy",
+      "summary": null,
+      "location": "Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-winder-7646611b5",
+      "name": "Liam Winder",
+      "summary": "Leasing Consultant @ Select Van Leasing Wales at Leasewell (UK) Ltd",
+      "location": "Tonypandy"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Jon Axworthy",
+      "link": "https://uk.linkedin.com/in/jon-axworthy-70033641",
+      "summary": "Independent Health, Wellness and Fitness Professional",
+      "location": "Plymouth"
+    },
+    {
+      "name": "Jonathan Axworthy",
+      "link": "https://uk.linkedin.com/in/jaxworthy",
+      "summary": "-",
+      "location": null
+    },
+    {
+      "name": "Jonathan Axworthy",
+      "link": "https://www.linkedin.com/in/jonathan-axworthy-72a599170",
+      "summary": "--",
+      "location": "United States"
+    },
+    {
+      "name": "Jon Axworthy",
+      "link": "https://uk.linkedin.com/in/jon-axworthy-18580013a",
+      "summary": "--",
+      "location": "United Kingdom"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-08-21T00:00:00Z"
+  }
+}

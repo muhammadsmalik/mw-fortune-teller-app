@@ -1,0 +1,924 @@
+{
+  "public_identifier": "andreas-prasse-aa0190112",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/a8aa03957c62f24451ac5d27fc3fb081",
+  "background_cover_image_url": null,
+  "first_name": "Andreas",
+  "last_name": "Prasse",
+  "full_name": "Andreas Prasse",
+  "follower_count": 723,
+  "occupation": "Geschäftsführer Vertrieb & Marketing & Digital & Data at Wall GmbH",
+  "headline": "CSMO Wall GmbH; Aufsichtsrat Media Frankfurt, Vorstand FAW, Vorstand IDOOH, Board Member Sales&Marketing Committee JCDecaux ",
+  "summary": null,
+  "location_str": "Berlin Metropolitan Area",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": "Berlin",
+  "state": "Berlin",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": null,
+      "company": "Wall GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Geschäftsführer Vertrieb & Marketing & Digital & Data",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "IDOOH Institute for Digital Out of Home Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/institute-for-digital-out-of-home-media-idooh-gmbh-i-g",
+      "company_facebook_profile_url": null,
+      "title": "Vorstand",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6074e00daea6f58327589c02b26ba9fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Sales & Marketing Committee JCDecaux",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": "Berlin, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": null,
+      "company": "Fachverband Aussenwerbung e.V.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vorstand",
+      "description": null,
+      "location": "Frankfurt/Rhein-Main",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": null,
+      "company": "Media Frankfurt GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-frankfurt",
+      "company_facebook_profile_url": null,
+      "title": "Aufsichtsrat",
+      "description": null,
+      "location": "Frankfurt/Rhein-Main",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bf8741ecf62f3d8e59a00dfac3e3caaf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "JCDecaux OneWorld",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "International Sales Director",
+      "description": null,
+      "location": "London, Großbritannien",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "VVR-Wall GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Geschäftsführer",
+      "description": null,
+      "location": "Berlin",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2006
+      },
+      "company": "Media Frankfurt GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Geschäftsführer",
+      "description": null,
+      "location": "Frankfurt am Main",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Georg-August-Universität Göttingen",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1993
+      },
+      "field_of_study": "Sozialwissenschaften",
+      "degree_name": "Diplom",
+      "school": "The University of Göttingen",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/-university-of-goettingen/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/alexander-stotz",
+      "name": "Alexander Stotz",
+      "summary": null,
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimalexandranotz",
+      "name": "Kim Alexandra Notz",
+      "summary": "CEO / Partner bei KNSK",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/korosec",
+      "name": "Martin Korosec",
+      "summary": "Managing Director",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julia-staudt",
+      "name": "Julia Staudt",
+      "summary": "Marketing Manager bei Media Frankfurt",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lenaromanenko",
+      "name": "Olena Romanenko 🇺🇦",
+      "summary": "Data Analyst / Data Scientist",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ralphhekmat",
+      "name": "Ralph Hekmat",
+      "summary": null,
+      "location": "Landsberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikeboedger",
+      "name": "Mike Bödger",
+      "summary": "\"Man muss das Unmögliche versuchen, um das Mögliche zu erreichen.\" (Hermann Hesse)",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominikmatyka",
+      "name": "Dominik Matyka",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kratz",
+      "name": "Stefan Kratz",
+      "summary": "eHealth & IT-Lösungen für Gesundheit und Soziales",
+      "location": "Wetter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eva-maria-schmidt-horizont",
+      "name": "Eva-Maria Schmidt",
+      "summary": "Chefredakteurin bei HORIZONT - Zeitung für Marketing, Werbung und Medien bei dfv Mediengruppe (Deutscher Fachverlag GmbH)",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kleebinder",
+      "name": "Hans-Peter Kleebinder",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sigrid-evelyn-nikutta",
+      "name": "Dr. Sigrid Evelyn Nikutta",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steffen-fisel",
+      "name": "Steffen Fisel",
+      "summary": "Wachstum durch Digitalisierung | Business Software aus der Cloud | Digital Business Development",
+      "location": "Heilbronn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jochen-maetje",
+      "name": "Jochen Maetje",
+      "summary": "Geschäftsführer bei S-Communication Services",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christianpongratz",
+      "name": "Christian Pongratz",
+      "summary": "Wolf Bavaria GmbH•4K followers",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-wiege",
+      "name": "Sebastian Wiege",
+      "summary": "Senior Content Marketing Manager bei WallDecaux (JCDecaux Group)",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-jansen-82406523b",
+      "name": "Angela Jansen",
+      "summary": "Unternehmensjurist bei Media Frankfurt GmbH",
+      "location": "Nieder Olm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marionwitters",
+      "name": "Marion Witters",
+      "summary": "Co-Founder & Managing Director @BROADALY. | a Berlin based Media-Agency with focus on Programmatic Mass-Media",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/walter-naumann-etienne",
+      "name": "Walter Naumann-Etienne",
+      "summary": "Geschäftsführer I Personalberater I Headhunter I Digital bei naumann talents GmbH",
+      "location": "Oberhaching"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frauke-bank-30032014",
+      "name": "Frauke Bank",
+      "summary": "Leitung Kommunikation und Marketing",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maximilian-gr%25C3%25A4ubig-2098ab31",
+      "name": "Maximilian Gräubig",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-holzm%25C3%25BCller-343759137",
+      "name": "Alexander Holzmüller",
+      "summary": null,
+      "location": "Bayreuth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-sch%25C3%25A4fer-ab9008224",
+      "name": "Kevin Schäfer",
+      "summary": null,
+      "location": "Hochheim am Main"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joepawlas",
+      "name": "Joe Pawlas",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25B6rg-hetzel-047b0986",
+      "name": "Jörg Hetzel",
+      "summary": "Leiter Personal, Prokurist bei Wall GmbH",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ulrike-muu%25C3%259F-04030464",
+      "name": "Ulrike Muuß",
+      "summary": "xxx bei xxxxxxxc",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lars-bl%25C3%25A4ser-396961159",
+      "name": "Lars Bläser",
+      "summary": "Geschäftsführer bei APM Agentur für Public Relations & Marketing Services GMBH",
+      "location": "Mainz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-m%25C3%25B6ller-589357120",
+      "name": "Patrick Möller",
+      "summary": "Geschäftsführer Wall GmbH - Out of Home - analoge und digitale Außenwerbung für bundesdeutsche Metropolen - qualitativ hochwertige Stadtmöblierung",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julia-layer-3a0290153",
+      "name": "Julia Layer",
+      "summary": "Stellv. Leitung Verkaufsbüro München bei WallDecaux",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christoph-schwennicke",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/harriet-vahldieck",
+      "name": "Harriet Vahldieck",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernd-seibold-aa03835",
+      "name": "Bernd Seibold",
+      "summary": "GF at awk",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadia-abou-el-ela-6a19279",
+      "name": "Nadia Abou El Ela",
+      "summary": "Institute for digital Out of Home Media GmbH",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-kleber-67501a13",
+      "name": "Martin Kleber",
+      "summary": null,
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chr-seidl",
+      "name": "Christian Seidl",
+      "summary": "Geschäftsführer | SaaS & IT Transformation | Sales & Business Development | B2B / B2G | Building scalable businesses",
+      "location": "Grafrath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peer-schmitz-kuo-a7036a20",
+      "name": "Peer Schmitz-Kuo",
+      "summary": null,
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leon-bauer-69486828",
+      "name": "Leon Bauer",
+      "summary": "Onea Care GmbH•5K followers",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rika-schreiber-86ab1437",
+      "name": "Rika Schreiber",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joerg-gerbig-49b63342",
+      "name": "Joerg Gerbig",
+      "summary": "CCDO Just Eat Takeaway.com B.V. / Gründer Lieferando",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-dieter-worch-34548446",
+      "name": "Hans-Dieter Worch",
+      "summary": "CEO of CTA GmbH",
+      "location": "Ludwigsburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-krause-43820348",
+      "name": "Thomas Krause",
+      "summary": "Geschäftsführer bei Amplitude GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernd-vogt-38780153",
+      "name": "Bernd Vogt",
+      "summary": null,
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julien-walter-69540054",
+      "name": "Julien Walter",
+      "summary": "Geschäftsführer // Headmatch",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hansj%25C3%25B6rghosp",
+      "name": "Hansjörg Hosp",
+      "summary": "Strategic Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-warnecke",
+      "name": "Florian Warnecke",
+      "summary": "Arbeitsplätze der Zukunft für einen besseren Alltag. \nLangfristige Beziehungen. \n| Geschäftsführer bei workidentity GmbH | Happy to connect",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-kriesche-aa796564",
+      "name": "Sven Kriesche",
+      "summary": "Flächenakquisiteur, Spezialist für PV-Speicher (BESS auch größer 100MWh), Speicherkonzepte für Grundbesitzer und Industriegebiete",
+      "location": "Passau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-gradl",
+      "name": "Martin Gradl",
+      "summary": "Geschäftsführer RTL News und ntv bei RTL Deutschland",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-stalter-69ab3371",
+      "name": "Helen Stalter",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-schega-78881572",
+      "name": "Michael Schega",
+      "summary": "Mediaberater",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wolfram-junge-46444977",
+      "name": "Wolfram Junge",
+      "summary": null,
+      "location": "Chemnitz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-uhrig-06038b80",
+      "name": "Christian Uhrig",
+      "summary": "Marketing Automotive Expert",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanne-platzer-13539284",
+      "name": "Susanne Platzer",
+      "summary": "Geschäftsführer bei Culinarium Bavaricum GmbH",
+      "location": "Planegg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/axel-franz-1327b884",
+      "name": "Axel Franz",
+      "summary": "Zeitweise bei HABS GmbH meistens Rentner",
+      "location": "Mogendorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-roeckerath-02884490",
+      "name": "Angela Roeckerath",
+      "summary": null,
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-saul-b9594891",
+      "name": "Oliver Saul",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-linker-2aa0b092",
+      "name": "Peter Linker",
+      "summary": "Mediamotor GmbH•2K followers",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hermann-meyersick",
+      "name": "Hermann Meyersick",
+      "summary": "Geschäftsführer bei Ströer",
+      "location": "Efferen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rainer-hansj%25C3%25BCrgens-174246b9",
+      "name": "Rainer Hansjürgens",
+      "summary": "Head of Business Unit Large Parts Machining Systems / Managing Director Starrag Technology GmbH",
+      "location": "Bielefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steffen-matheis-43a913b9",
+      "name": "Steffen Matheis",
+      "summary": null,
+      "location": "Reutlingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ole-ternes-b74b94101",
+      "name": "Ole Ternes",
+      "summary": "livewelt GmbH & Co KG",
+      "location": "Gütersloh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-ruhfus-0729b4111",
+      "name": "Thomas Ruhfus",
+      "summary": "Ehemaliger Präsident des Fachverbands Aussenwerbung",
+      "location": "Dortmund"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hartmut-brandt-0bab89142",
+      "name": "Hartmut Brandt",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louisa-pinke-586b62149",
+      "name": "Louisa Pinke",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25BCrgen-kornmann-a26533155",
+      "name": "Jürgen Kornmann",
+      "summary": "Leiter Kommunikation DB-Infrastruktur",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-von-naguschewski-3735441a3",
+      "name": "Stephan von Naguschewski",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/volkmar-giehl-24b6431bb",
+      "name": "Volkmar Giehl",
+      "summary": "Sales Director bei WallDecaux",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nils-schubmann-78924a207",
+      "name": "Nils Schubmann",
+      "summary": "meinPERSONALBERATER Menschen. Unternehmen. Möglichkeiten.",
+      "location": "Hannover"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-gessner-0ba604208",
+      "name": "Dirk Gessner",
+      "summary": "Geschäftsführer bei Ströer Media Deutschland GmbH",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-dittrich-2a2519225",
+      "name": "Martin Dittrich",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jochen-beckmann-44b1b322a",
+      "name": "Jochen Beckmann",
+      "summary": "Geschäftsführer Funke National Brands GmbH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jicky-von-bechtolsheim",
+      "name": "Jicky von Bechtolsheim",
+      "summary": "COOH - Out of Home Specialist | Creative Enabler | Missing Link between your idea and Premium OOH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-kai-marcus-th%C3%A4sler-98774988",
+      "name": "Dr. Kai-Marcus Thäsler",
+      "summary": "FAW Hauptgeschäftsführer / Ex-Professor Digitales Marketing / IDOOH Vorstand / agma Vorstand / WOO Board Member / Olivenbauer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nils-gr%C3%A4f-375aba",
+      "name": "Nils Gräf",
+      "summary": "Managing Director Amazon Ads Germany | W&V Top100 2025, 2024 and 2022",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-m%C3%B6ller-589357120",
+      "name": "Patrick Möller",
+      "summary": "Geschäftsführer Wall GmbH - Out of Home - analoge und digitale Außenwerbung für bundesdeutsche Metropolen - qualitativ hochwertige Stadtmöblierung",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/fritz-mares-frey-860642164",
+      "name": "Fritz Mares Frey",
+      "summary": "FOUNDER & CHAIRMAN HYGH / MARES MEDIA SE",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/benny-folkmann-601650211",
+      "name": "Benny Folkmann",
+      "summary": "Geschäftsführer bei FC Bayern München eV",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydia-staltner",
+      "name": "Lydia Staltner",
+      "summary": "Vorstand bei LichtBlick Seniorenhilfe e.V. | Gemeinnütziger Verein gegen Altersarmut",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jochen-gutzeit-439288156",
+      "name": "Jochen Gutzeit",
+      "summary": "Geschäftsführer bei awk AUSSENWERBUNG GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-tauber-koch",
+      "name": "Andrea Tauber-Koch",
+      "summary": "Media Management",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Malik ROUMANE \"We are pleased to announce our entry in the programmatic DOOH market in Japan, which has rapidly expanded and is a major growth factor…",
+      "link": "https://www.linkedin.com/posts/sylvainleborgne_viooh-and-mcdecaux-japan-branch-office-of-activity-7312753300876021761-Ai9j",
+      "activity_status": null
+    },
+    {
+      "title": "The biggest pot of gravy in the world right now! Excellent work Phoebe Syms, Mindshare UK and Mother Believe in chicken. All hail gravy. KFC…",
+      "link": "https://www.linkedin.com/posts/kate-tipper-née-wall-b6a46920_the-biggest-pot-of-gravy-in-the-world-right-activity-7310382392215494656-qA3d",
+      "activity_status": null
+    },
+    {
+      "title": "Mit Erfolgsbewährtem zu neuen Ufern oder If it ain’t broke, don’t fix it… but improve it! Dieser Grundsatz steht im Fokus der Neuausrichtung von…",
+      "link": "https://de.linkedin.com/posts/christian-g-hirsch-8247b_mit-erfolgsbewährtem-zu-neuen-ufern-oder-activity-7312881508237635586-P2Oo",
+      "activity_status": null
+    },
+    {
+      "title": "In eigener Sache: Ab 1. April geben wir unserer Abteilung Corporate Communications & Affairs eine neue Struktur. Als Doppelspitze werden Christian…",
+      "link": "https://de.linkedin.com/posts/wall-gmbh_wall-wallgmbh-corporatecommunications-activity-7312736970005217280-288s",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting times for #fashion in #Berlin! 🌸 The launch of H&M ’s Spring Fashion Campaign was nothing short of a city takeover. With high visibility…",
+      "link": "https://www.linkedin.com/posts/mikeboedger_fashion-berlin-ooh-activity-7312712190032031744-iv1n",
+      "activity_status": null
+    },
+    {
+      "title": "@RTL Deutschland: It's happening – ich freue mich riesig auf Euch! 🚀 Ein großes Danke geht zuerst an Stephan für Dein Vertrauen – und an die…",
+      "link": "https://de.linkedin.com/posts/carsten-schwecke-2b872b2_rtl-adalliance-rtladalliance-activity-7312705354541281280-hLzE",
+      "activity_status": null
+    },
+    {
+      "title": "Mit einer OoH-Kampagne Werbung gegen OoH bzw. Werbung machen - genau mein Humor. Und das Ganze auch noch in der Werbe- und Medienhochburg Hamburg…",
+      "link": "https://de.linkedin.com/posts/reinhard-patzschke-43206439_torzurwelt-freieundhansestadt-activity-7312212521363431424-Hlr4",
+      "activity_status": null
+    },
+    {
+      "title": "Tschüss Weischer – es war eine tolle Zeit! Ende letzter Woche hatte ich bei strahlendem Sonnenschein in Hamburg meine Verabschiedung nach über 16…",
+      "link": "https://de.linkedin.com/posts/jorgherms_tschüss-weischer-es-war-eine-tolle-zeit-activity-7312368150363164672-cZ-8",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Außenwerbung: Die größte Bühne für Marken! 🚀 Die Plakadiva-Jurysitzung steht an – und damit die Frage: Welche Kampagnen haben Außenwerbung in…",
+      "link": "https://de.linkedin.com/posts/esther-busch_dooh-plakadiva-houseofcommunicationköln-activity-7310226034090467328-TMjV",
+      "activity_status": null
+    },
+    {
+      "title": "H&M what an eye-catcher! WallDecaux, VIOOH, Shannon-Lea Olszewski, Fabian Streich, Mike Bödger",
+      "link": "https://www.linkedin.com/posts/dorota-karc_hm-what-an-eye-catcher-walldecaux-viooh-activity-7310955881657982976-IyJI",
+      "activity_status": null
+    },
+    {
+      "title": "In unserer zunehmend vernetzten Welt setzen immer mehr Marken auf Brand Collaborations. Das Schöne an dieser Art der Kooperation ist, dass sie auch…",
+      "link": "https://de.linkedin.com/posts/walldecaux_outofhome-powerofwalldecaux-outofhome-activity-7303010673293160450-gUtq",
+      "activity_status": null
+    },
+    {
+      "title": "Zürich soll leuchten: Nach dem Entscheid des Zürcher Gemeinderates für ein Verbot von Screens und eine drastische Einschränkung der Plakatstellen in…",
+      "link": "https://de.linkedin.com/posts/apgsga.ch_zürich-soll-leuchten-nach-dem-entscheid-activity-7310974181511208960-Pn3R",
+      "activity_status": null
+    },
+    {
+      "title": "Eine tolle PlakaDiva-Jury! Eine super Shortlist und - sicherlich - ausgezeichnete Ausgezeichnete. Am 27.5. auf der diesjährigen Award-Verleihung im…",
+      "link": "https://de.linkedin.com/posts/awards-plakadiva-ooh-activity-7310930482567733248-m6RO",
+      "activity_status": null
+    },
+    {
+      "title": "Unverständlich: Bürgerliche lassen Werbeeinschränkung im öffentlichen Raum Zürichs zu. Der grünliberale Gemeinderatspräsident Guy Krayenbühl brachte…",
+      "link": "https://de.linkedin.com/posts/ralph-hermann-73656910_unverständlich-bürgerliche-lassen-werbeeinschränkung-activity-7309309880094330880-LoA3",
+      "activity_status": null
+    },
+    {
+      "title": "Im Alter von 14 Jahren hören doppelt so viele Mädchen wie Jungen mit dem Sport auf. Warum? Weil es an sichtbaren Vorbildern fehlt. Gemeinsam mit…",
+      "link": "https://de.linkedin.com/posts/serviceplan-group_wallofwill-wecreate-activity-7309966194751528962-QtYH",
+      "activity_status": null
+    },
+    {
+      "title": "Next week d3con! Zusammen mit Anja Jeremias, Kathrin Franssen, Yvonne Niesar und Tobias Henning - moderiert von Daniel Distler - werde ich im…",
+      "link": "https://de.linkedin.com/posts/jonas-kofahl_weischer-d3con-activity-7303372025459281920-6-c8",
+      "activity_status": null
+    },
+    {
+      "title": "🔥 Es ist soweit: Ich starte mit BROADALY. in die Selbstständigkeit! 🚀 Nach vielen erfolgreichen Jahren bei WallDecaux ist jetzt der perfekte…",
+      "link": "https://de.linkedin.com/posts/mfritzonline_programmaticdooh-programmatic-ooh-activity-7313057300275974144-cKxG",
+      "activity_status": null
+    },
+    {
+      "title": "World premiere of the most powerful production 911 ever! What a weekend. Porsche just presented the top-of-the-range model of the 911 series at the…",
+      "link": "https://www.linkedin.com/posts/robert-ader_iaamobility-porsche-activity-7370489272979861504-t2EU",
+      "activity_status": null
+    },
+    {
+      "title": "🚨📢 𝐀𝐛 𝐡𝐞𝐮𝐭𝐞 𝐬𝐢𝐧𝐝 𝐰𝐢𝐫 𝐖𝐞𝐢𝐬𝐜𝐡𝐞𝐫.𝐎𝐎𝐇 🚨📢 𝐖𝐚𝐫𝐮𝐦 𝐝𝐢𝐞𝐬𝐞𝐫 𝐒𝐜𝐡𝐫𝐢𝐭𝐭? Die Out of Home Branche erlebt ein…",
+      "link": "https://de.linkedin.com/posts/stephan-dahm_weischerooh-weareooh-outofhome-activity-7371108370310733824-rW8W",
+      "activity_status": null
+    },
+    {
+      "title": "🚨📢 𝐀𝐛 𝐡𝐞𝐮𝐭𝐞 𝐬𝐢𝐧𝐝 𝐰𝐢𝐫 𝐖𝐞𝐢𝐬𝐜𝐡𝐞𝐫.𝐎𝐎𝐇 🚨📢 𝐖𝐚𝐫𝐮𝐦 𝐝𝐢𝐞𝐬𝐞𝐫 𝐒𝐜𝐡𝐫𝐢𝐭𝐭? Die Out of Home Branche erlebt ein…",
+      "link": "https://de.linkedin.com/posts/jonas-kofahl_weischerooh-weareooh-outofhome-activity-7371092869534785536-WauD",
+      "activity_status": null
+    },
+    {
+      "title": "Zurück aus dem Urlaub und vermutlich der Letzte aus dem Team, der es postet, aber wie heißt es so schön: besser spät als nie. Dafür steigt die…",
+      "link": "https://de.linkedin.com/posts/jeremy-venus_programmatic-dmexco-dooh-activity-7370849929369649152-eFNM",
+      "activity_status": null
+    },
+    {
+      "title": "Was für ein inspirierender Abend! Die WOOHW!-Konferenz und die Swiss Out of Home Awards 2025 haben eindrucksvoll gezeigt, wie kraftvoll Kommunikation…",
+      "link": "https://de.linkedin.com/posts/thomas-macho_woohw-swissoohawards-outofhome-activity-7369601360113172481-MsQ3",
+      "activity_status": null
+    },
+    {
+      "title": "🥅⚽🦶 As the Premier League kicks back into action, I'm a fan of this programmatic DOOH campaign Uber Eats celebrating the nail-biting art of extra…",
+      "link": "https://www.linkedin.com/posts/dallas-wiles-319b6228_programmatic-dooh-premierleague-activity-7366090323862765568-cMTp",
+      "activity_status": null
+    },
+    {
+      "title": "🌊🎡I love this latest Out-of-Home campaign from IKEA celebrating the opening of its new store in Brighton, and starring the city's (in)famous…",
+      "link": "https://www.linkedin.com/posts/mark-bucknell-1ba63113_jcduk-ikea-creativeadvertising-activity-7366067929194442752-YFi8",
+      "activity_status": null
+    },
+    {
+      "title": "Die US-amerikanischen Plattformen und TikTok sind längst auch in Deutschland zu den dominierenden Anbietern von Werbung geworden. Was das für die…",
+      "link": "https://de.linkedin.com/posts/ooh-medien_werbung-medien-werbewirtschaft-activity-7369326475474415620-Xhza",
+      "activity_status": null
+    },
+    {
+      "title": "US Open. Game, Set, Match for OOH #dooh #ooh Polo Ralph Lauren® evian Aperol Spritz CZ KA-EX® Lacoste Gucci IBM Mercury Bacardi Ralph Lauren",
+      "link": "https://www.linkedin.com/posts/jean-luc-decaux-0a097459_dooh-ooh-activity-7369111679378309122-gm_F",
+      "activity_status": null
+    },
+    {
+      "title": "𝗗𝗲𝗺𝗼𝗸𝗿𝗮𝘁𝗶𝗲 𝗯𝗿𝗮𝘂𝗰𝗵𝘁 𝗦𝗶𝗰𝗵𝘁𝗯𝗮𝗿𝗸𝗲𝗶𝘁. ❤️ Deshalb freue ich mich von Herzen, dass die Kampagne „DNA of Democracy jetzt auf…",
+      "link": "https://de.linkedin.com/posts/jicky-von-bechtolsheim_demokratiemuss-dnaofdemocracy-grundgesetz-activity-7369065576180248577-vT8Z",
+      "activity_status": null
+    },
+    {
+      "title": "„Demokratie gelingt nur gemeinsam schreibt die Initiative DNA of Democracy und fordert uns mit einer Plakatkampagne dazu auf die Geschichte unserer…",
+      "link": "https://de.linkedin.com/posts/bundesweite-plakatkampagne-dna-of-democracy-activity-7368641642502852612-BMlY",
+      "activity_status": null
+    },
+    {
+      "title": "Seit 13 Jahren bringt HORIZONT  gemeinsam mit unserem Partner WallDecaux CMOs und führende Köpfe aus der Marketing- und Kommunikationsbranche viermal…",
+      "link": "https://de.linkedin.com/posts/seit-13-jahren-bringt-horizont-gemeinsam-activity-7368756671063564290-ynw6",
+      "activity_status": null
+    },
+    {
+      "title": "Was eine erschreckende Statistik! Da gehen 72 % der digitalen Werbegelder, verdient von der inländischen Nachfrage komplett raus aus dem…",
+      "link": "https://de.linkedin.com/posts/christoph-eck-schmidt-064188100_was-eine-erschreckende-statistik-da-gehen-activity-7368895635426652161-6KIv",
+      "activity_status": null
+    },
+    {
+      "title": "zwei wochen noch, ich freu mich auf euch und unser nächstes klassentreffen!",
+      "link": "https://de.linkedin.com/posts/stefan-b-müller-91687712_zwei-wochen-noch-ich-freu-mich-auf-euch-activity-7368950088955531265-itS0",
+      "activity_status": null
+    },
+    {
+      "title": "WOW – wir haben es schon immer gesagt: DOOH, oder wie wir es bei #Ströer nennen, #PublicVideo, muss in den Bewegtbild-Mix! Jetzt haben wir den…",
+      "link": "https://de.linkedin.com/posts/andreas-heintze-31b9515_ströer-publicvideo-activity-7369014524017885184-3bey",
+      "activity_status": null
+    },
+    {
+      "title": "Die Bewegbild Äquivalenz Studie (BÄM), einen Meilenstein der Werbewirkungsforschung, durfte ich heute gemeinsam mit Andrea Malgara von Mediaplus…",
+      "link": "https://de.linkedin.com/posts/media-werbung-dooh-activity-7369029050654277633-O2t1",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Dallas Wiles for being shortlisted for Media Leader of the Year in the Media Week awards. The award recognises the impact that…",
+      "link": "https://www.linkedin.com/posts/mark-bucknell-1ba63113_jcduk-ooh-awards-activity-7368212804442419201-Tgvn",
+      "activity_status": null
+    },
+    {
+      "title": "𝗞𝗘𝗜𝗡 𝗣𝗥𝗢𝗝𝗘𝗞𝗧 𝗢𝗛𝗡𝗘 𝗗𝗥𝗔𝗠𝗔 – und HORNBACH Baumarkt AG feiert es – und ich feiere Ihre aktuelle Plakatkampagne. 🧡 Visuell…",
+      "link": "https://de.linkedin.com/posts/jicky-von-bechtolsheim_𝗞𝗘𝗜𝗡-𝗣𝗥𝗢𝗝𝗘𝗞𝗧-𝗢𝗛𝗡𝗘-𝗗𝗥𝗔𝗠-activity-7361690802982469632-O_ev",
+      "activity_status": null
+    },
+    {
+      "title": "10 %. Here we go! Weiter so 👍 #10prozent #outofhome #dooh",
+      "link": "https://www.linkedin.com/posts/andreas-prasse-aa0190112_10prozent-outofhome-dooh-activity-7353701228628893697-yeWV",
+      "activity_status": null
+    },
+    {
+      "title": "#demokratiemuss sichtbar sein. Sichtbarkeit schafft Transparenz und damit Vertrauen. Vertrauen ist die Grundlage jedes offenen Dialogs. Offene…",
+      "link": "https://www.linkedin.com/posts/andreas-prasse-aa0190112_demokratiemuss-activity-7315252085560610816-O0Qw",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andreas Prasse",
+      "link": "https://uk.linkedin.com/in/andreas-prasse-57668b83",
+      "summary": "--",
+      "location": "Vereinigtes Königreich"
+    },
+    {
+      "name": "Andreas Prasse",
+      "link": "https://de.linkedin.com/in/andreas-prasse-676601117",
+      "summary": "--",
+      "location": "Germany"
+    },
+    {
+      "name": "Andreas Prasse (wall)",
+      "link": "https://de.linkedin.com/in/andreas-prasse-wall-28328b2b",
+      "summary": "--",
+      "location": "Deutschland"
+    },
+    {
+      "name": "Andreas Prasse",
+      "link": "https://de.linkedin.com/in/andreas-prasse-56b0a785",
+      "summary": "Verabschiedungen von lieben Menschen - persönlich und individuell",
+      "location": "Ober Schmitten"
+    },
+    {
+      "name": "Andreas Prasse",
+      "link": "https://de.linkedin.com/in/andreas-prasse-5bb87328b",
+      "summary": "Teacher at General secondary school",
+      "location": "Oldenburg"
+    },
+    {
+      "name": "Andreas Prasse",
+      "link": "https://de.linkedin.com/in/andreas-prasse-25489b331",
+      "summary": "--",
+      "location": "Büdingen"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-18T00:00:00Z"
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "public_identifier": "pranit-bhor-0050573b",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c5429eea8c677cb289bf192f38c67484",
+  "background_cover_image_url": null,
+  "first_name": "Pranit",
+  "last_name": "Bhor",
+  "full_name": "Pranit Bhor",
+  "follower_count": 486,
+  "occupation": "Agentic Solutions & Experience Lead at Adzymic",
+  "headline": "Agentic Solutions & Experience Lead | Product | AdTech Specialist",
+  "summary": null,
+  "location_str": "Pune, Maharashtra, India",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Adzymic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adzymic",
+      "company_facebook_profile_url": null,
+      "title": "Agentic Solutions & Experience Lead",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cf8a3614238cfd2374a11cbb9e5000a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2026
+      },
+      "company": "Adzymic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adzymic",
+      "company_facebook_profile_url": null,
+      "title": "Front End and Creative Tech Lead",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cf8a3614238cfd2374a11cbb9e5000a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "company": "Adzymic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adzymic",
+      "company_facebook_profile_url": null,
+      "title": "Senior Frontend Engineer",
+      "description": null,
+      "location": "India",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cf8a3614238cfd2374a11cbb9e5000a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "company": "Adzymic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adzymic",
+      "company_facebook_profile_url": null,
+      "title": "Frontend Engineer",
+      "description": null,
+      "location": "India",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cf8a3614238cfd2374a11cbb9e5000a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Bonzai – Creative Tech Platform",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bonzai-ai",
+      "company_facebook_profile_url": null,
+      "title": "Associate Software Engineer",
+      "description": null,
+      "location": "Pune, Maharashtra, India",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6056aedac00b962fddec3ef8dde62fc1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2017
+      },
+      "company": "Twig Software Solutions Pvt.Ltd",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/twig-software-solutions-pvt-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Wordpress Developer",
+      "description": null,
+      "location": "Pune, Maharashtra, India",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7eeb287c4f357e583664ed1d4b3a07dd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "company": "Freelance",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Freelance",
+      "description": null,
+      "location": "India",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": "Computer Engineering",
+      "degree_name": "Bachelor’s Degree, Computer Engineering",
+      "school": "Savitribai Phule Pune University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-pune",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5240d3b8044724d406afb39ecddc4a77",
+      "grade": "First Class",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    },
+    {
+      "name": "Hindi",
+      "proficiency": null
+    },
+    {
+      "name": "Marathi",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 464,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/someshthorat",
+      "name": "Somesh Thorat",
+      "summary": "Test Analyst II at TSYS",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rgovil",
+      "name": "Ravi Govil",
+      "summary": "Entrepreneur | Technology Leader | Enterprise Architect | Digital Transformation | Innovator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/satotom",
+      "name": "Tomoyuki Sato",
+      "summary": "Co-Founder",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/quynhanhnguyen243",
+      "name": "Quynh Anh Nguyen",
+      "summary": "Client Servicing at Adzymic",
+      "location": "Ho Chi Minh City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mbohdarmo",
+      "name": "Dharma Prakoso",
+      "summary": "Interactive Designer at Adzymic",
+      "location": "Greater Jakarta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/venkatramanansrinivasan",
+      "name": "Venkatramanan Srinivasan",
+      "summary": "Associate at AMAZON DEVELOPMENT CENTRE (INDIA) PRIVATE LIMITED",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ifazil",
+      "name": "Fazil Mohammed",
+      "summary": "Product Engineering Specialist at Accenture",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/soumitramahakul",
+      "name": "Soumitra Mahakul",
+      "summary": "Senior Salesforce Developer at Salesforce || 15X Certified Application Architect",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuvhapriya",
+      "name": "Yuvhapriya Ravatharen",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kavinkumar-subramani",
+      "name": "Kavinkumar Subramani",
+      "summary": null,
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rmaryha",
+      "name": "Rosemary Hadiwidjaja",
+      "summary": "Adzymic",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mraniketshahane",
+      "name": "Aniket Shahane",
+      "summary": "Sr. Software Developer at Prosot",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohana-k-463b90114",
+      "name": "Mohana K",
+      "summary": "Senior SAS Consultant at Luxoft Malaysia",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ram2ganesh",
+      "name": "Ram Ganesh",
+      "summary": "HR leader at CHUBB",
+      "location": "Tiruvallur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saurabh-kumar3434",
+      "name": "Saurabh Kumar",
+      "summary": "Senior Software Engineer",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/garimasingh409",
+      "name": "Garima Singh",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pratham-d-402184283",
+      "name": "Pratham D.",
+      "summary": "Pravideon Pvt. Ltd•2K followers",
+      "location": "Thane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jyotikiran",
+      "name": "Jyoti Kiran",
+      "summary": "Design And Development Engineer at Siemens Healthineers",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/praneshbhavnani",
+      "name": "Pranesh Bhavnani",
+      "summary": "Infosys Consulting | Gold Medalist (Rank 3) at SBM, NMIMS, Mumbai| India's Top 50 Most Employable MBA Graduate 2022 | NMIMS 2020-21 & 2021-22 Dean's List | Ex-MBA Intern at SBI Capital Markets | Ex-BNP Paribas",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeevan-bajare-31948a25b",
+      "name": "Jeevan Bajare",
+      "summary": "Facility Executive at PhonePe",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roshni-gawande-0b931a264",
+      "name": "Roshni Gawande",
+      "summary": "Research Analyst at Practical Eduskills Pvt Ltd.",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinay-verma",
+      "name": "Vinay Verma",
+      "summary": "Full Stack Developer | Java | React | Angularjs | Ruby On Rails",
+      "location": "Lucknow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saurabh-ramdin",
+      "name": "Saurabh Ramdin",
+      "summary": "Generative AI Engineer | LLMs | NLP | RAG | Python | AWS | FinTech",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maja-m-045415103",
+      "name": "Maja M.",
+      "summary": "Regional Manager, HR and Corporate Affairs at Adzymic (Next Generation Dynamic Creative Management Platform)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/likitha-m-06022083",
+      "name": "LIKITHA M",
+      "summary": "Product Owner | SAFE APM | SAFE PO/PM | PMC Level 1 | PMC Level II",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amruta-mulay-00a55ab",
+      "name": "Amruta Mulay",
+      "summary": "Lead Instructional Designer at Hurix",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amruta-mulay-3219871a",
+      "name": "amruta mulay",
+      "summary": "Assistant at Maharashtra academy of Engineering",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amruta-mulay-203b1224",
+      "name": "Amruta Mulay",
+      "summary": "Sr. IT Recruiter at BOB Technologies",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nagarajan-nagamani-a6045225",
+      "name": "Nagarajan Nagamani",
+      "summary": "Programmatic Lead | RTB |Digital Strategy & Planning|  13+ Yrs Exp | DV360 & TTD Expert | Immediate Joiner",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/swapnil-sonawane-26374452",
+      "name": "Swapnil Sonawane",
+      "summary": "Cenior Design Executive at Seven Twenty Ten Network",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ankit-raut-8507a255",
+      "name": "Ankit Raut",
+      "summary": "Technology Lead",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roshni-gawande-5b220657",
+      "name": "Roshni Gawande",
+      "summary": "Ass.Prof. at STC",
+      "location": "Buldhana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mangala-pansare-03514459",
+      "name": "Mangala Pansare",
+      "summary": "no at college",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahendran-m-a1849a60",
+      "name": "Mahendran M",
+      "summary": "Having 12+ years of experience in digital marketing industry with vast experience in Social and programmatic platforms and with team handling experience",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhargavee-singh-57344066",
+      "name": "Bhargavee Singh",
+      "summary": "Senior Consultant at Capgemini | Oracle BRM Specialist | OSS & BSS Professional |Migration Lead | OCI & GCP Certified | Experienced on SFMC | Ex-Accenture",
+      "location": "Varanasi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yogesh-kumar-a7223778",
+      "name": "yogesh kumar",
+      "summary": "STUDENT AT SRI BALAJI SOCIETY",
+      "location": "Virudunagar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riddhi-mishra-18435379",
+      "name": "Riddhi Mishra",
+      "summary": "Senior Product Manager| SAFe PO/PM 5",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vaishnavi-ram-b5a95180",
+      "name": "Vaishnavi Ram",
+      "summary": null,
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pratik-kamble-073bb688",
+      "name": "Pratik Kamble",
+      "summary": "UI Developer at Insightheroes",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjali-bhat-3923228b",
+      "name": "Anjali Bhat",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mangal-pansare-6a8b2999",
+      "name": "Mangal Pansare",
+      "summary": null,
+      "location": "Ahilyanagar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mukund-survase-0861839b",
+      "name": "Mukund Survase",
+      "summary": "Java Trainer + Developer",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prasad-kuna-205b0ba1",
+      "name": "Prasad Kuna",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sneha-jatti-562239a2",
+      "name": "Sneha Jatti",
+      "summary": "Deputy manager at Vodafone",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-gore1",
+      "name": "Amit G.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rupali-patil-618690a9",
+      "name": "rupali patil",
+      "summary": null,
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vaibhav-pathare-8b1285aa",
+      "name": "Vaibhav Pathare",
+      "summary": null,
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ranjana-chavan-75605bb4",
+      "name": "Ranjana Chavan",
+      "summary": "Consultant at Capgemini",
+      "location": "Thane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sakethraj",
+      "name": "Saketh Raj",
+      "summary": "Full Stack Java Developer |Senior Software Engineer | Senior Software Developer| Java | Micro-services | Angular | Reactjs | Java 8",
+      "location": "Trivandrum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nanasaheb-karande-0aa089b7",
+      "name": "Nanasaheb karande",
+      "summary": "Senior Software Engineer at Wipro Technologies.",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prabhakaran-deivasigamani-a41104bb",
+      "name": "Prabhakaran Deivasigamani",
+      "summary": "Business Relations Director ! Enthusiastically helping independent business drive revenue by Digital transformation.",
+      "location": "Coimbatore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sirisha-k-bab338100",
+      "name": "Sirisha K",
+      "summary": "Software Engineer at Conduent",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohana-reddy-463b90114",
+      "name": "Mohana Reddy",
+      "summary": "Senior Software Developer at Luxoft Malaysia",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/niketan-tote-a4b464126",
+      "name": "Niketan Tote",
+      "summary": "Sr. Web Developer at Malpani Group",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/poorna-chandru-649943128",
+      "name": "poorna chandru",
+      "summary": null,
+      "location": "Coimbatore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/awanish-singh-787499142",
+      "name": "awanish singh",
+      "summary": "IEC college of Engineering & Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karthick-dhayalan-a42ba7152",
+      "name": "Karthick Dhayalan",
+      "summary": "Adzymic - Adtech | Programmatic | Display Advertising | Ex-Dentsu",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deepti-mane-8a0013165",
+      "name": "Deepti Mane",
+      "summary": null,
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arpit-rasyara-93b71016b",
+      "name": "Arpit Rasyara",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prakash-raj-9655a0171",
+      "name": "Prakash Raj",
+      "summary": null,
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdulmalik-quadri-708374175",
+      "name": "Abdulmalik Quadri",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sapna-erande-078a04184",
+      "name": "Sapna Erande",
+      "summary": "Senior Accountant at insteel engineers pvt ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/teong-zhe-chua-2b3b92202",
+      "name": "Teong Zhe Chua",
+      "summary": "Graduate from Toyohashi University of Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarun-raja-2a53a0203",
+      "name": "Tarun Raja",
+      "summary": "Attended Savitribai Phule Pune University",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajay-shewale-659013204",
+      "name": "Ajay Shewale",
+      "summary": "Founder of DigiEat Pvt Ltd, I love crafting visuals that make brands shine. Whether it's photography or video, I’m all about telling stories that connect and create a lasting impact. Let's make your brand unforgettable!",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pranali-patil-7a3159220",
+      "name": "Pranali Patil",
+      "summary": "Software Quality Engineer At Infosys | Automation Testing - Selenium WebDriver |  Manual Testing | TestNG | BDD Cucumber |  Rest Assured | SQL | API Integration Testing | Database Testing | Agile | Core JAVA",
+      "location": "Pune"
+    }
+  ],
+  "recommendations": [
+    "Neeraj Deshmukh\n\nPranit is a very hard-working and dedicated person. I closely worked with him on many projects.He was easy to approach and our collaboration was smoother. He has a good knowledge of front-end technologies.He is a nice happy person and also a good photographer.I really enjoyed working with him and hope we'll work together again in the future.",
+    "Shruti Satkar\n\nPranit is an exceptional developer. He is so dedicated to his work. He has been a great resource to the company, He is a highly-skilled, experienced, and helpful professional with a positive attitude. Moreover, I have seen him working his way through challenges and crises. He is truly an inspiration to me."
+  ],
+  "activities": [
+    {
+      "title": "The agentic era of advertising is here. 🚀 Thanks Enterprise IT News for spotlighting our launch of AgenX Creative Agent, the first of three agents…",
+      "link": "https://www.linkedin.com/posts/adzymic_adzymic-launches-agenx-creative-agent-first-activity-7464968866994094080-E2E5",
+      "activity_status": null
+    },
+    {
+      "title": "Finally the wave of Agentic Advertising is coming to Asia. AgenticAdvertising.org will have the first event in Asia. Agentic Advertising Connect -…",
+      "link": "https://www.linkedin.com/posts/scenz_agenticadvertisingorg-the-open-standard-activity-7464892352768319490-AztQ",
+      "activity_status": null
+    },
+    {
+      "title": "One thing that sets AgenX Creative Agent apart: rich media HTML5 creatives – from a single brief. And the second? Omnichannel activation where you…",
+      "link": "https://www.linkedin.com/posts/adzymic_rich-media-html5-ad-units-from-a-single-brief-activity-7464457716850143232-VulR",
+      "activity_status": null
+    },
+    {
+      "title": "I’m super excited to share Roger Dunn is joining Thrad as Chief Commercial Officer!!!🚀🚀🚀 Roger is an industry titan having spent twenty years…",
+      "link": "https://www.linkedin.com/posts/andrea-tortella_im-super-excited-to-share-roger-dunn-is-activity-7460756845675114497-4jPB",
+      "activity_status": null
+    },
+    {
+      "title": "I just vibe coded a Meta Ads creative analytics tool in Claude Code 🤯 It plugs into your ad accounts, AI-analyzes every creative you've ever run…",
+      "link": "https://www.linkedin.com/posts/mike-futia-108709126_i-just-vibe-coded-a-meta-ads-creative-analytics-activity-7461503980054134784-2D4Z",
+      "activity_status": null
+    },
+    {
+      "title": "Advertising has gone through 3 big shifts. Mad Men → Math Men → AI Men It started with creativity. Big ideas, relationships, brand storytelling. The…",
+      "link": "https://www.linkedin.com/posts/vinaybelani_advertising-has-gone-through-3-big-shifts-activity-7463943203575201793-yfRv",
+      "activity_status": null
+    },
+    {
+      "title": "Great meeting with Melita Ltd. team during ANGA COM 2026 in Cologne! Always nice to move from virtual meetings to face-to-face conversations and…",
+      "link": "https://www.linkedin.com/posts/hannaoberemok_harmonic-angacom2026-broadband-activity-7463623871867379712-DbvP",
+      "activity_status": null
+    },
+    {
+      "title": "Honored to be invited by Gary Hong, owner of Ten Square, Landmark of Good  for the launch of the world's first Sky Photobooth by bubio.ai. A truly…",
+      "link": "https://www.linkedin.com/posts/scenz_honored-to-be-invited-by-gary-hong-owner-activity-7463596364497596417-FC4x",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to support MDDI’s latest nationwide public education campaign on the responsible use of NRIC numbers, an important initiative aimed at…",
+      "link": "https://www.linkedin.com/posts/mediacorp-outdoor_mddi-mediacorpoutdoor-oggang-activity-7463385667046252545-DKfY",
+      "activity_status": null
+    },
+    {
+      "title": "Every channel, every format — one AgenX creative agent. 🖤💚🤍",
+      "link": "https://www.linkedin.com/posts/sallysally_every-channel-every-format-one-agenx-creative-activity-7463404141034254336-NYX9",
+      "activity_status": null
+    },
+    {
+      "title": "AgenX Creative Agent takes a single brief and delivers rich media across display, high-impact formats, CTV, and DOOH — in minutes. Here’s how: 🎨…",
+      "link": "https://www.linkedin.com/posts/adzymic_agenx-creative-agent-takes-a-single-brief-activity-7463396883185557504-2UsC",
+      "activity_status": null
+    },
+    {
+      "title": "Day 1 was powerful and packed with great conversations and live demos. This is only the beginning. We’re ready for Day 2! See you there at Hall 8…",
+      "link": "https://www.linkedin.com/posts/hannaoberemok_day-1-was-powerful-and-packed-with-great-activity-7462606463203676161-eCdm",
+      "activity_status": null
+    },
+    {
+      "title": "Hoje começa um novo capítulo para o time do Aqui Ads. A partir de agora, passamos a atuar ainda mais próximos da Globo, em um movimento que…",
+      "link": "https://pt.linkedin.com/posts/lucianegarcia_hoje-começa-um-novo-capítulo-para-o-time-activity-7463233072071766016-aVkD",
+      "activity_status": null
+    },
+    {
+      "title": "\"Adzymic announced the launch of the AgenX Creative Agent, the first release in its agentic suite, marking a structural shift in the digital…",
+      "link": "https://www.linkedin.com/posts/adzymic_adzymic-launches-agenx-creative-agent-first-activity-7463159154732412928-UYRD",
+      "activity_status": null
+    },
+    {
+      "title": "And that's a wrap. Day 2 of Campaign360. Thank you everyone that share a moment with us. And also we invented our new cheesy AgenX sign. Need a…",
+      "link": "https://www.linkedin.com/posts/scenz_and-thats-a-wrap-day-2-of-campaign360-activity-7463166114269712384-UKDs",
+      "activity_status": null
+    },
+    {
+      "title": "Real talk from someone who manages creative accounts daily: The hardest brief isn't the complicated one. It's the vague one — where the client knows…",
+      "link": "https://www.linkedin.com/posts/thuyvinh93_agenx-the-agentic-suite-for-omnichannel-activity-7463099045587169280-an6x",
+      "activity_status": null
+    },
+    {
+      "title": "Our official PR of AgenX launch. ... One of AgenX’s pioneering adopters is Cathay Pacific. Karen Cheung, performance marketing manager at Cathay…",
+      "link": "https://www.linkedin.com/posts/scenz_adzymic-launches-agenx-creative-agent-first-activity-7463032722811420673-dJ1U",
+      "activity_status": null
+    },
+    {
+      "title": "BIG NEWS: Proud to have lead and managed the development journey of AgenX at Adzymic 🚀 What started as an idea around AI-powered creative automation…",
+      "link": "https://www.linkedin.com/posts/pranit-bhor-0050573b_agenx-the-agentic-suite-for-omnichannel-activity-7462711432124686336-4h6I",
+      "activity_status": null
+    },
+    {
+      "title": "AI Agents to real world scenarios! After few months trail and error, finally we made it! Proudly can say that Adzymic is powered by agentic…",
+      "link": "https://www.linkedin.com/posts/pranit-bhor-0050573b_adcp-adzymic-adcp-activity-7453397416248078336-vTBH",
+      "activity_status": null
+    },
+    {
+      "title": "From screens to the streets, our Grimace campaign is now live on DOOH SG. Seeing it perform in the real world hits different! As always amazing job…",
+      "link": "https://www.linkedin.com/posts/pranit-bhor-0050573b_from-screens-to-the-streets-our-grimace-activity-7444279405360713728-Uv7n",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Pranit Bhor",
+      "link": "https://in.linkedin.com/in/pranit-bhor-821668167",
+      "summary": "Sr. Executive of Information Technology at National Cancer Institute, Nagpur",
+      "location": "Nagpur"
+    },
+    {
+      "name": "Pranit Bhor",
+      "link": "https://in.linkedin.com/in/pranit-bhor-538600195",
+      "summary": "Student at Jai Hind College of Engineering, Kuran, Tal. Junnar, Dist. Pune",
+      "location": "Pune"
+    },
+    {
+      "name": "Pranit Bhor",
+      "link": "https://in.linkedin.com/in/pranit-bhor-4b41b121b",
+      "summary": "Student at ICE College of Hotel Management and Catering Technology",
+      "location": "Pune"
+    },
+    {
+      "name": "Pranit Bhor",
+      "link": "https://in.linkedin.com/in/pranit-bhor-989564278",
+      "summary": "Attended Savitribai Phule Pune University",
+      "location": "Pune"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:56:03Z"
+  }
+}

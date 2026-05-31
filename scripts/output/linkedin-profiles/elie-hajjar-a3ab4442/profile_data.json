@@ -1,0 +1,986 @@
+{
+  "public_identifier": "elie-hajjar-a3ab4442",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c32485b6721793105ae35a9d239c34a6",
+  "background_cover_image_url": null,
+  "first_name": "Elie",
+  "last_name": "Hajjar",
+  "full_name": "Elie Hajjar",
+  "follower_count": 5706,
+  "occupation": "Chief Operating Officer at Multiply Media Group",
+  "headline": "COO | Leadership | Strategic | Management | Marketing | Media | Advertising",
+  "summary": "Leadership is a life style not a job! +17 years of dynamic experience in management, media, and advertising accross multiple countries in the Gulf. I bring a wealth of knowledge and expertise in navigating the challenges of the Saudi market. Throughout my career, I have successfully led teams and executed strategic initiatives that drive growth and deliver impactful results. Passionate about leveraging the power of media and advertising to connect with audiences and drive business success, I thrive in fast-paced environments where innovation and creativity are paramount.",
+  "location_str": "دبي الإمارات العربية المتحدة",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": "Dubai",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "Multiply Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mmg-global",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": null,
+      "location": "Dubai, United Arab Emirates",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f9708b5f540b8eb43e33ffa3eee01a5b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2026
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Riyadh, Saudi Arabia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2024
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Regional Commercial Director - KSA, BAH & KWT",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director - KSA & Bahrain",
+      "description": null,
+      "location": "Riyadh, Saudi Arabia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2023
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director KSA",
+      "description": null,
+      "location": "Saudi Arabia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2018
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales",
+      "description": null,
+      "location": "Western & Eastern Regions, KSA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "Jeddah & Dammam",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Executive",
+      "description": null,
+      "location": "Jeddah",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "JCDecaux Middle East",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux-middle-east",
+      "company_facebook_profile_url": null,
+      "title": "Sales Executive",
+      "description": null,
+      "location": "Dammam, Eastern, Saudi Arabia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ecbf0571dac92a38540de763b0455722"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "Expeditors",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/expeditors",
+      "company_facebook_profile_url": null,
+      "title": "District sales executive",
+      "description": null,
+      "location": "Dammam, Saudi Arabia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8f9d529d391de7ce6de67398a7f4e690"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "Encyclomedia",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Executive",
+      "description": null,
+      "location": "Bahrain",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "field_of_study": "Marketing & Advertising",
+      "degree_name": "BA",
+      "school": "American University College of Science and Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/american-university-of-science-and-technology",
+      "school_facebook_profile_url": null,
+      "description": "Business administration, Marketing & Advertising",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05166adbe50fdd520b89823be2ef783d",
+      "grade": null,
+      "activities_and_societies": "الأنشطة والجمعيات:basketball team"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2004
+      },
+      "field_of_study": "Humanities/Humanistic Studies",
+      "degree_name": "Humanities Diploma",
+      "school": "Sagesse - Beirut",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Humanities studies",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "الأنشطة والجمعيات:Basketball team"
+    }
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "French",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "Arabic",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "BA Marekting",
+      "license_number": null,
+      "display_source": null,
+      "authority": "-",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rabihh",
+      "name": "Rabih Houri",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kamranmansoor",
+      "name": "Kamran Mansoor, FCIM",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmedrafat966",
+      "name": "Ahmed Rafat",
+      "summary": "Sales Director at ADCO Media House",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/boutrosaya",
+      "name": "Boutros Al-Aya",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bassamalaujan",
+      "name": "Bassam Hamed Alaujan",
+      "summary": "On the path of consciousness",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmadshatila",
+      "name": "Ahmad Chatila",
+      "summary": "Brand & Communication Director | Cannes Lions Award Winner | Ad School Mentor | Marketing Game Changer ’23 & ’25 | Master’s in Digital Transformation Leadership",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bechirchehab",
+      "name": "Bechir Chehab",
+      "summary": "Managing Director at JCDecaux",
+      "location": "Muscat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hassan-lzeik",
+      "name": "Hassan Lzeik",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmedrafathelmy",
+      "name": "Ahmed Rafat",
+      "summary": "Sales Director at ADCO Media House",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/islam-mobarak-9736b767",
+      "name": "Islam Mobarak",
+      "summary": "Director of Sales | Entertainment | Merchant Acquisition | Activities |Ticketing & Booking | Startups |  Partnerships | B2B & B2C | Daily & Weekly Deals | E-Commerce | Team Lead | Automotive | Used Cars Pricing Expert |",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurannelefebvre",
+      "name": "Lauranne LEFEBVRE",
+      "summary": "Marketing Director Dubai & Middle East Advisor @JCDecaux/ Retail - Data - Media / Team leader / Driving Human & Business growth /Sport as passion/ Speaking French, English & Italian",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmedrafat84",
+      "name": "Ahmed Rafat",
+      "summary": "Sales Director at ADCO Media House",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jad-salhab-emba-796bba38",
+      "name": "Jad Salhab, EMBA",
+      "summary": "Senior Sales Manager KSA - Private Sector at Ain Al Arabia Executive MBA at Lebanese American University",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/altoukhi",
+      "name": "Waleed Al Toukhi",
+      "summary": "Revenue-Driven Marketing Leader | Commercial Growth & Business Development | Building Scalable Marketing Functions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdullah-ballout-7b494140",
+      "name": "Abdullah Ballout",
+      "summary": "Media Partnerships Director - KSA",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hadi-balaa",
+      "name": "Hadi Balaa",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdullah-alotaik-%25D8%25B9%25D8%25A8%25D8%25AF%25D8%25A7%25D9%2584%25D9%2584%25D9%2587-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25AA%25D9%258A%25D9%2583-803978233",
+      "name": "Abdullah AlOtaik عبدالله العتيك",
+      "summary": "Sales Manager",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ziad-al-haj-mohammed-35778862",
+      "name": "Ziad Al Haj Mohammed",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anju-anna-shaji-7563b021a",
+      "name": "Anju Anna Shaji",
+      "summary": "Human Resources Specialist | MBA in HR | AI-HR | PMP",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramzi-assaf-mba-603a6761",
+      "name": "Ramzi Assaf, MBA",
+      "summary": "Media Consultant Manager | Outdoor Advertising Professional",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/umniah-alzahery-%25D8%25A3%25D9%2585%25D9%2586%25D9%258A%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B8%25D8%25A7%25D9%2587%25D8%25B1%25D9%258A-b3483474",
+      "name": "Umniah AlZahery أمنية الظاهري",
+      "summary": "“The best way to predict your future is to create it.”",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wissamrayess",
+      "name": "Wissam Rayess",
+      "summary": "Head Of Agencies & SF Divisions @ JCDecaux | MBA, Leadership, Marketing Communications & Advertising Expert",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/radwane-ammali",
+      "name": "Radwane Ammali",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdulrahman-alzaid-6234b63",
+      "name": "AbdulRahman Alzaid",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vikram-ranadive",
+      "name": "Vikram Ranadive",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-sabanekh-a295118",
+      "name": "Daniel Sabanekh",
+      "summary": "Marcom strategist helping companies transform and unleash their full potential for growth. | Consulting | Marketeer | Digital transformation | Real estate",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/azhar-khan-152bba10",
+      "name": "Azhar Khan",
+      "summary": "Sales Director at FOUR 1 MARKETING",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasser-khoj-84458511",
+      "name": "Yasser Khoj",
+      "summary": "Director General of Strategic Studies and Transformation | Public Sector Executive Leadership | Service Quality & Regulatory Oversight",
+      "location": "Medina"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-spezzotto-simacourbe-27082a1a",
+      "name": "Alexandre Spezzotto-Simacourbe",
+      "summary": "Sales Director at Flick Global - Premium OOH solutions in Dubai and Private Jet Terminals (Dubai - Abu Dhabi - London - Paris - Geneva - Marrakesh)",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bassel-fayad-a1b19b26",
+      "name": "Bassel Fayad",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/slim-saad-08a7a526",
+      "name": "Slim Saad",
+      "summary": "CA, Finance Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-choumar",
+      "name": "Samer Choumar",
+      "summary": "Transforming Africa’s traditional retail ecosystem | ex-BCG | Columbia MBA",
+      "location": "Casablanca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hammad-ahmed-2004a029",
+      "name": "Hammad Ahmed",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bashar-al-natour-1a068729",
+      "name": "Bashar Al Natour",
+      "summary": "at",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-sabbagh-6474642b",
+      "name": "Martin Sabbagh",
+      "summary": "CEO Middle East & Africa chez JCDecaux",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-bahmishan-b7b78130",
+      "name": "Mohammed Bahmishan",
+      "summary": "Founder of RAW Humancast. Writer. Artist.",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jean-pierre-noun-74631033",
+      "name": "Jean- Pierre Noun",
+      "summary": "Regional Partnership Director",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jihad-nicolas-haddad-52385837",
+      "name": "Jihad Nicolas Haddad",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-mikhaell",
+      "name": "Joseph Mikhael",
+      "summary": "Head of Sales & Business Development | Advertising & Media Projects | High-Value Client Acquisition & Retention | Cross-Platform Sales (TV, Digital, OOH, Radio) | Revenue Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/feras-makarem-90088843",
+      "name": "Feras Makarem",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wael-zeidan-29275246",
+      "name": "Wael Zeidan",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philippe-infante",
+      "name": "Philippe Infante",
+      "summary": "Managing Director JCDecaux Portugal",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramzi-assaf-603a6761",
+      "name": "Ramzi Assaf",
+      "summary": "Head of Media & Partnerships -  Business Development",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-ibrahim-maalbaki-58371563",
+      "name": "Dr.Ibrahim Maalbaki",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rawsam-al-hanafi-83b03067",
+      "name": "Rawsam Al-Hanafi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-abensour-8bb92a74",
+      "name": "Alexandra ABENSOUR",
+      "summary": "HR Director - EDF Middle East",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamad-toufic-tabch-6465a476",
+      "name": "Mohamad Toufic Tabch",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jalal-khanfour-1b541290",
+      "name": "Jalal Khanfour",
+      "summary": "Chief Commercial Officer at Arabian Contracting Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arij-madi-46150aa8",
+      "name": "Arij Madi",
+      "summary": "Sales Director | Self-Employed at Volt Media and Production",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bilal-al-masri-032154114",
+      "name": "Bilal Al Masri",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rima-howayek-5131aa119",
+      "name": "Rima Howayek",
+      "summary": "Account Manager",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sultan-biary-17b908119",
+      "name": "Sultan Biary",
+      "summary": "Client Partner @ Snapchat",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suhel-molvi-31a07b120",
+      "name": "Suhel Molvi",
+      "summary": "farmer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rami-itani-286730143",
+      "name": "Rami Itani",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rofida-suliman-066196155",
+      "name": "Rofida Suliman - CDMP",
+      "summary": "Creative Marketer | CDMP Certified | FinTech Enthusiast | Expert in Marketing Strategy, Content Creation & Brand Development | Helping Startups Scale & Succeed",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmad-hroub-8a9921159",
+      "name": "ahmad hroub",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bashayer-al-yami-0b0a5815b",
+      "name": "Bashayer AL-yami",
+      "summary": "Recruitment | Humen Resource | Talent Acquisition| Headhunter",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodolph-rabbat-82b492194",
+      "name": "Rodolph Rabbat",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdulmajeed-al-sayary-b12bb81ab",
+      "name": "Abdulmajeed AL-Sayary",
+      "summary": "copywriter at kijamii",
+      "location": "Riyadh"
+    }
+  ],
+  "recommendations": [
+    "AbdulRahman Alzaid\n\nI had the pleasure of working with Elie for over 7 years during my tenure at JCDecauxATA, and he was the consummate professional. He helped establish the company’s presence in Saudi Arabia, and managed to skillfully employ his sales expertise throughout the Kingdom; relocating from Khobar to Jeddah and then to Riyadh. In addition to having the rare ability to adapt perfectly well to change, he is also an overachiever with a great personality.",
+    "Daniel Sabanekh\n\nIt’s rare that you come across standout talent like Elie, \nWith his new role @ jcdecaux people will have the opportunity to report to a real manager who is also a coach and mentor. \nI personally enjoyed working with Elie being our outdoor solution supplier. He comes across as a trusted partner & professional solutions provider to his clients all the time. \nRidiculously efficient ... is the phrase that comes to mind when I think about Him 😂",
+    "AbdulRahman Alzaid\n\nI had the pleasure of working with Elie for over 7 years during my tenure at JCDecauxATA, and he was the consummate professional. He helped establish the companys presence in Saudi Arabia, and managed to skillfully employ his sales expertise throughout the Kingdom; relocating from Khobar to Jeddah and then to Riyadh. In addition to having the rare ability to adapt perfectly well to change, he is also an overachiever with a great personality.",
+    "Daniel Sabanekh\n\nIts rare that you come across standout talent like Elie, With his new role @ jcdecaux people will have the opportunity to report to a real manager who is also a coach and mentor. I personally enjoyed working with Elie being our outdoor solution supplier. He comes across as a trusted partner & professional solutions provider to his clients all the time. Ridiculously efficient ... is the phrase that comes to mind when I think about Him 😂"
+  ],
+  "activities": [
+    {
+      "title": "Thought for a snowy Monday... Sometimes all you need is a lil help... This is the perfect example of not what but who...There is still GOOD in the 🌎",
+      "link": "https://www.linkedin.com/posts/mikekingsr_thought-for-a-snowy-monday-sometimes-all-activity-7421583954157125632-HahW",
+      "activity_status": null
+    },
+    {
+      "title": "Such an Elegant solution...The Oryx!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_such-an-elegant-solutionthe-oryx-activity-7460629035765813248--sVe",
+      "activity_status": null
+    },
+    {
+      "title": "Elevated, upgraded, and officially live! Thrilled to see the Landmark Series continue to push boundaries in such a startegic location.…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_elevated-upgraded-and-officially-live-activity-7450498306452955137-09Q9",
+      "activity_status": null
+    },
+    {
+      "title": "Defining presence and driving scale! Proud of the work we’re doing at Multiply Media Group to ensure maximum visibility in the UAE's most strategic…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_defining-presence-and-driving-scale-proud-activity-7448332761977012224-IL83",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news! I’m thrilled to officially start my journey as Chief Operating Officer at Multiply Media Group. It’s an honor to join such a dynamic…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_exciting-news-im-thrilled-to-officially-activity-7444371198932836352-F_SA",
+      "activity_status": null
+    },
+    {
+      "title": "After 5,114 days - long enough to survive approximately 15,000 \"quick\" status meetings and more espressos than I can legally disclose - it’s time to…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_after-5114-days-long-enough-to-survive-activity-7425121464812736512-jtcE",
+      "activity_status": null
+    },
+    {
+      "title": "Had a nice pickup basketball game few days ago. It felt awesome to win, but what was more important is the realization that winning as a team is far…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_had-a-nice-pickup-basketball-game-few-days-activity-7381218261046034433-Z4tj",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Saudi 95th National day! كل عام والمملكة العربية السعودية وشعبها الكريم بالف خير!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_happy-saudi-95th-national-day-كل-عام-والمملكة-activity-7376305151340527616-KTnC",
+      "activity_status": null
+    },
+    {
+      "title": "Great partnership with Queen Alia International airport, Jordan!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_great-partnership-with-queen-alia-international-activity-7357809064761819136-_vVE",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing you a blessed Eid Al-Adha! عيدكم مبارك وكل عام وانتم بخير!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_wishing-you-a-blessed-eid-al-adha-عيدكم-activity-7337222725821739009-NOG4",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Breaking news! Our programmatic offering is now live across the region, Saudi Arabia, UAE, Bahrain, Qatar and very soon to Oman.🚀",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_breaking-news-our-programmatic-offering-activity-7315990634941575169-Y6v5",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux ATA is thrilled to collaborate with DACO team, as we delve into cutting-edge advertising technologies to elevate our offerings at King Fahd…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-ata-is-thrilled-to-collaborate-with-activity-7315101386252152832-x-yA",
+      "activity_status": null
+    },
+    {
+      "title": "Eid Mubarak, wishing you a blessed one! عيد مبارك، كل عام وانتم بخير!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_eid-mubarak-wishing-you-a-blessed-one-activity-7312050012421603328-gTsI",
+      "activity_status": null
+    },
+    {
+      "title": "I'm thrilled to announce that we've officially signed the advertising contract for Dammam Airports after being awarded the tender, renewing the…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_im-thrilled-to-announce-that-weve-officially-activity-7297870618232778752-n8vB",
+      "activity_status": null
+    },
+    {
+      "title": "Integrating ESG principles into OOH advertising is no longer optional, it’s Essential! In Saudi Arabia, this shift is particularly important as the…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_pioneering-sustainability-in-outdoor-advertising-activity-7259152136813379584-Yg6L",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome to Saudi 34 🇸🇦",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_welcome-to-saudi-34-activity-7272883515812139010-UpNa",
+      "activity_status": null
+    },
+    {
+      "title": "What an exciting collaboration with Netflix! Can't wait for season 2... Kudos to Jeddah airport operation and JCDecaux ATA teams who worked hard to…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_what-an-exciting-collaboration-with-netflix-activity-7273250529554677760-np_L",
+      "activity_status": null
+    },
+    {
+      "title": "Here’s to 2025! May this year bring fresh perspectives and innovative ideas to your businesses. Wishing you health, prosperity, and inner peace!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_heres-to-2025-may-this-year-bring-fresh-activity-7279900378073100288-PX-w",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Exciting times at JCDecaux ATA & the Saudi market: We listened and always ready to invest! As we celebrate 60 years of innovation and leadership…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_global-partnerships-and-marketing-innovation-activity-7275486684463452163-GmpY",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, I had the privilege of representing JCDECAUX at the Saudi French Investment Forum. The discussions were incredibly insightful, showcasing…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_last-week-i-had-the-privilege-of-representing-activity-7271405861317595136-d3Zg",
+      "activity_status": null
+    },
+    {
+      "title": "Reflecting on an incredible day spent with our amazing team! We gathered to celebrate not only our recent achievements but also the dedication, hard…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_teamjcdecauxata-activity-7274726491228119040-crfu",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing exposure for D&G at King Fahd Causeway!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_amazing-exposure-for-dg-at-king-fahd-causeway-activity-7266804962091814914-uHX2",
+      "activity_status": null
+    },
+    {
+      "title": "Pleased to have attended the World Investment Conference in Riyadh, where we witnessed a strong interest from global investors in Saudi Arabia's…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_pleased-to-have-attended-the-world-investment-activity-7267410242567585792-xdgA",
+      "activity_status": null
+    },
+    {
+      "title": "What an exciting journey's going to be and am proud to be part of it! #Saudi2034bid",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_saudi2034bid-activity-7225509503629238273-8SYs",
+      "activity_status": null
+    },
+    {
+      "title": "📣 JCDecaux is proud to illuminate the King Fahd Causeway, connecting over 24 million annual travelers (+30 Million forecasted in 2024) between Saudi…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-ooh-kingfahdcauseway-activity-7206170575583559681-MAPm",
+      "activity_status": null
+    },
+    {
+      "title": ".",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_igpdecaux-wins-a-13-year-contract-for-rome-activity-7208567943113146369-4p2_",
+      "activity_status": null
+    },
+    {
+      "title": "\"𝗪𝗶𝘀𝗵𝗶𝗻𝗴 𝘆𝗼𝘂 𝗮𝗻𝗱 𝘆𝗼𝘂𝗿 𝗳𝗮𝗺𝗶𝗹𝘆 𝗮 𝗯𝗹𝗲𝘀𝘀𝗲𝗱 𝗘𝗶𝗱, 𝗔𝗱𝗵𝗮 𝗠𝘂𝗯𝗮𝗿𝗮𝗸! May this special occasion bring peace,…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_eidadhamubarak-activity-7207625494316433408-Jp46",
+      "activity_status": null
+    },
+    {
+      "title": "After New York, Paris, London, Milan, Madrid, and Shanghai, The opening of ''OneWorld'' office in Riyadh this year! 🔥 Offering the opportunity to…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_from-airports-to-roadside-ooh-advertising-activity-7205458056439042049-Gyez",
+      "activity_status": null
+    },
+    {
+      "title": "\"Discovering Excellence at the Saudi-Bahrain Causeway! 🌉 Engaging with our dedicated technical team, we prioritize Health & Safety procedures,…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-causewayinnovation-outdooradvertising-activity-7204477342369353728-Yk_t",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating Saudi National Day with pride and gratitude! Here's to a bright future for Saudi Arabia and all who call it home! 🇸🇦",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_celebrating-saudi-national-day-with-pride-activity-7243543198340464641-KTTL",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome to JEDDAH! Jeddah airport is the top airport in Saudi Arabia with over 43 million passengers travelling during 2023 (38.5% of total…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_welcome-to-jeddah-jeddah-airport-is-the-activity-7168622158997401600-vYpq",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux, what a story! One that never ends...",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-what-a-story-one-that-never-ends-activity-7169016340874289152-GMf4",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux ATA is #hiring.",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_hiring-activity-7160284866071166978--VPx",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux ATA recreational day with an exceptional team! Positivity & Determination for a great 2024!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-ata-recreational-day-with-an-exceptional-activity-7154843455444201472-QYuD",
+      "activity_status": null
+    },
+    {
+      "title": "If we call it ICONIC, then trust it is! This \"WoW effect\" media solution at Jeddah Intl airport is a game changer in Saudi airport media scene!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_if-we-call-it-iconic-then-trust-it-is-activity-7113183415557873664-x7Ef",
+      "activity_status": null
+    },
+    {
+      "title": "Happy 93rd Saudi National Day!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_happy-93rd-saudi-national-day-activity-7111211829950828544-5_Kg",
+      "activity_status": null
+    },
+    {
+      "title": "Iâm happy to share that Iâm starting a new position as Regional Commercial Director - KSA, BAH & KWT at JCDecaux Middle East!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_positivity-attitude-activity-6989921022917378048-ea5i",
+      "activity_status": null
+    },
+    {
+      "title": "New ICONIC screensâ¦ more brand exposure!ð¯ ð£JCDecaux ATA introduces â¨new Iconic Screens at the arrivals of Jeddah International Airport.…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_new-iconic-screens-more-brand-exposure-activity-7085230080737632257-J7K-",
+      "activity_status": null
+    },
+    {
+      "title": "Exactly!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_exactly-activity-7026184828580425729-hn5n",
+      "activity_status": null
+    },
+    {
+      "title": "Great solution at Bahrain Duty free!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-introduces-3d-anamorphic-experience-activity-6995027086973222912-DaFc",
+      "activity_status": null
+    },
+    {
+      "title": "it is Coming! This Q4, JCDecaux will be introducing the biggest screens in Saudi airports.. Is your brand ready?",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_it-is-coming-this-q4-jcdecaux-will-be-activity-6980419820429148160-Ggdu",
+      "activity_status": null
+    },
+    {
+      "title": "‏Saudi Aramco with Iktva campaign, targets 100% of arriving passengers at the exterior access road of Dammam Airport. تستهدف أرامكو السعودية 100٪ من…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_ooh-airportmedia-jcdecauxata-activity-6906277335612702720-NFRv",
+      "activity_status": null
+    },
+    {
+      "title": "'Visit Saudi' promotes their '2 years' campaign at the arrivals hall, in Jeddah's terminal 1. تروج منصة 'روح السعودية' لحملة \"مواسم عن سنتين'' في…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_ooh-airportmedia-jcdecauxata-activity-6812743260520382464-dgfc",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_6-months-of-success-activity-6830470610804609024-SybP",
+      "activity_status": null
+    },
+    {
+      "title": "At the launch of Neom’s latest giga project, ‘Oxagon’ at Neom Airport’s exterior! JCDecaux’s Technical team rapidly installed a teaser then switched…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_ooh-airportmedia-jcdecauxata-activity-6869541366884519936-PMbh",
+      "activity_status": null
+    },
+    {
+      "title": "Shell Helix effectively attracts the attention of departing passengers at the exteriors of Riyadh's airport. Ø´Ù ÙÙÙÙÙØ³ ØªÙÙØª Ø§ÙØªØ¨Ø§Ù…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_ooh-ksa-ads-activity-6641033233133776896-HYT2",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux ATA is Riyadh airports best commercial partner for 2018! Hard work Always pays off! #jcdecaux #riyadh #best #partner #commercial #airports…",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-riyadh-best-activity-6551874255636701184-KLvk",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_jcdecaux-proof-jcdecaux-activity-6521785236655792128-VXYc",
+      "activity_status": null
+    },
+    {
+      "title": "Well described!",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_well-described-activity-6422834780748025856-JT9P",
+      "activity_status": null
+    },
+    {
+      "title": "Indeed",
+      "link": "https://www.linkedin.com/posts/elie-hajjar-a3ab4442_airport-advertising-10-reasons-why-it-works-activity-6430465328748195840-easx",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Elie Hajjar",
+      "link": "https://fr.linkedin.com/in/elie-hajjar-2740051b",
+      "summary": "Directeur Construction",
+      "location": "France"
+    },
+    {
+      "name": "Elie Hajjar",
+      "link": "https://au.linkedin.com/in/elie-hajjar-a78b43150",
+      "summary": "Senior Supervisor at KLEEMANN Elevators Australia Pty Ltd",
+      "location": "منطقة سيدني وضواحيها"
+    },
+    {
+      "name": "Elie HAJJAR",
+      "link": "https://fr.linkedin.com/in/elie-hajjar-187a2241",
+      "summary": "Directeur Asset Management et Maintenance chez Euro Cargo Rail S.A.S.",
+      "location": "فرنسا"
+    },
+    {
+      "name": "Elie Hajjar",
+      "link": "https://lb.linkedin.com/in/elie-hajjar-51008749",
+      "summary": "Certified Senior Sales Consultant BMW-MINI at Bassoul-Heneine s.a.l",
+      "location": "بيروت, لبنان"
+    },
+    {
+      "name": "Elie Hajjar",
+      "link": "https://lb.linkedin.com/in/elie-hajjar-9b951133",
+      "summary": "Senior Account Manager Levant at Exquitech",
+      "location": "لبنان"
+    },
+    {
+      "name": "Elie H.",
+      "link": "https://ca.linkedin.com/in/eliehajjar",
+      "summary": null,
+      "location": "Canada"
+    },
+    {
+      "name": "Elie Hajjar",
+      "link": "https://au.linkedin.com/in/elie-hajjar-26809aa8",
+      "summary": "Executive - Client Acquisition",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Elie HAJJAR",
+      "link": "https://fr.linkedin.com/in/eliehajjar-",
+      "summary": null,
+      "location": "France"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-21T00:00:00Z"
+  }
+}

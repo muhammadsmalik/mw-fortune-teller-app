@@ -1,0 +1,725 @@
+{
+  "public_identifier": "simon-pitts-006a901",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/f7c8ab97c1cec05831f7b3a4fd53bf7b",
+  "background_cover_image_url": null,
+  "first_name": "Simon",
+  "last_name": "Pitts",
+  "full_name": "Simon Pitts",
+  "follower_count": 861,
+  "occupation": "Group Chief Executive at Global",
+  "headline": "Group CEO, Global Media & Entertainment ",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor/",
+      "company_facebook_profile_url": null,
+      "title": "Group Chief Executive",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "company": "STV Group plc",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/stv-group-plc/",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive",
+      "description": null,
+      "location": "Glasgow, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director - Online, Pay TV, Interactive & Technology",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Director of Strategy & Technology",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Director of Strategy & Transformation",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Controller of Strategy",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director, SDN",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Controller of Digital Platforms",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Controller of Regulatory Affairs",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "Head of Public Affairs",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "ITV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itv/",
+      "company_facebook_profile_url": null,
+      "title": "European Affairs Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2000
+      },
+      "company": "European Parliament",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/european-parliament/",
+      "company_facebook_profile_url": null,
+      "title": "Parliamentary Advisor",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "European politics, economics and law",
+      "degree_name": "MA",
+      "school": "College of Europe",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/collegeofeurope/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": "Modern Languages and European Studies",
+      "degree_name": "Bachelor of Arts (B.A.)",
+      "school": "University of Bath",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-bath/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "French",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "French",
+      "proficiency": null
+    },
+    {
+      "name": "German",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2012
+      },
+      "ends_at": null,
+      "org_name": "Royal Television Society",
+      "title": "Trustee",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2017
+      },
+      "org_name": "ITN",
+      "title": "Director",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2017
+      },
+      "org_name": "Youview",
+      "title": "Director",
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2012
+      },
+      "ends_at": null,
+      "title": "Vice Chairman",
+      "cause": null,
+      "company": "Royal Television Society",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/royal-television-society/",
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/suviwijayaratna",
+      "name": "Suvi Wijayaratna",
+      "summary": "Director at Gills Green Agro Biotech",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonspanswick",
+      "name": "Simon Spanswick",
+      "summary": "CEO at AIB | Association for International Broadcasting",
+      "location": "Cranbrook"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielcolaianni",
+      "name": "Daniel Colaianni",
+      "summary": "AIXR Co-Founder & CEO | Building Unicorn | Empowering Tech Communities | Speaker & Tech Leader | AI, XR & Web3",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikesymes",
+      "name": "Mike Symes",
+      "summary": "CEO and Co-Founder, Financial Marketing Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinfreedman",
+      "name": "Kevin Freedman",
+      "summary": "CEO, Freedman International | AI-first global campaign delivery — operating model rebuilt from the ground up | 35 years. 100+ markets.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kellysocialchange",
+      "name": "Kelly Evans",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eganjim",
+      "name": "Jim Egan",
+      "summary": "Senior leader and adviser - broadcast, publishing and digital media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewmorgan1",
+      "name": "Matthew Morgan",
+      "summary": "Chief Executive at Agency Inc, multi-award winning B2B marketing agency",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlestattersall",
+      "name": "Charles Tattersall",
+      "summary": "Executive Chairman - Citypress - PRWeek & Sunday Times Best Place to Work",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-godding-60893546",
+      "name": "Daniel Godding",
+      "summary": "Founder - Global Sport Sponsorship Ltd. \nAccredited Agent - PGA Tour. \nMaster of NLP.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-van-rooyen",
+      "name": "Stephen van Rooyen",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julianmarch",
+      "name": "Julian March",
+      "summary": "Strategic storytelling · Digital acceleration · Leadership development",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sinead-greenaway-9070774",
+      "name": "Sinead Greenaway",
+      "summary": "CTO | CTOO | Technology | Operations | Transformation | Exec Sponsor Women in STEM at the BBC | Director, Broadcast & End User Technology at the BBC",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-connor-4395936",
+      "name": "Steve Connor",
+      "summary": "Founder & Director at Creative Concern",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-childs-1970b28",
+      "name": "Darren Childs",
+      "summary": "CEO, Board member, Investor, across Media, Sport & Software.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindseyclay1",
+      "name": "Lindsey Clay",
+      "summary": "CEO Thinkbox",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-henry-1aa90323",
+      "name": "Jeff Henry",
+      "summary": "Media Chief Executive, Investor and Non exec",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-pye-6388a532",
+      "name": "Steve Pye",
+      "summary": "50,000 Members - All receiving Cashback & E-Vouchers Discounts from 4,000 Online & High Street Brands - Register your Business for Free!ExclusiveRewards.co.uk \n\nGenerate and convert More",
+      "location": "Blackpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-rushton-1869313a",
+      "name": "james rushton",
+      "summary": null,
+      "location": "Armadale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncan-painter-a7608a57",
+      "name": "Duncan Painter",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-cairns-30b2b313",
+      "name": "Sally Cairns",
+      "summary": "Chief People Officer and Board Member",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexduncancto",
+      "name": "Alex Duncan",
+      "summary": "Chief Technology Officer | Computing's Top 100 IT Leaders",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-tabor-king-cbe-66694951",
+      "name": "Ashley Tabor-King CBE",
+      "summary": "Founder & Executive President, Global",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-hickman-0438494",
+      "name": "James Hickman",
+      "summary": "Chief Digital Product Officer | Board Member | Managing Director | Product & Technology Innovation | Strategy | Leadership",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-mortimer-061690129",
+      "name": "David Mortimer",
+      "summary": "CEO at STV Studios",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rufusradcliffe",
+      "name": "Rufus Radcliffe",
+      "summary": "CEO. STV PLC. Chair of London Wildlife Trust",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-miron-9a249a17",
+      "name": "Stephen Miron",
+      "summary": "Chair - Global Media & Entertainment",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-ardis-816a8994",
+      "name": "Sally Ardis",
+      "summary": "Senior Managing Editor - Heart, Smooth Radio, Classic FM & Gold Radio at Global",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenloncar",
+      "name": "Stephen Loncar",
+      "summary": "C-Suite strategy & transformation focussed executive",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-rose-99b1375",
+      "name": "Sarah Rose",
+      "summary": "President of Channel 5 and UK Regional Lead, Paramount Global",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisforrester",
+      "name": "Chris Forrester",
+      "summary": "Commercial Leader / Qualified Coach / Mentor /  Board Trustee",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/henders",
+      "name": "David Henderson",
+      "summary": "Technology, Data, and Product executive in media, entertainment, and sport.\n\nCTO, CTPO, COO & NED.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-gordon-7286572",
+      "name": "Mike Gordon",
+      "summary": "Chief Commercial Officer - Global, the Media & Entertainment Group",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/enserwight",
+      "name": "Sebastian Enser-Wight",
+      "summary": "Chief Strategy Officer | Board Member | Media & Entertainment",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-munro-192a05",
+      "name": "Jamie Munro",
+      "summary": "Chief Commercial Officer STV Studios ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/julian-bellamy-72926527",
+      "name": "Julian Bellamy",
+      "summary": "MD ITV Studios",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophielavender",
+      "name": "Sophie Lavender",
+      "summary": "Director, Commercial Marketing - Global Media & Entertainment",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-cotterrell-11409614",
+      "name": "Jason Cotterrell",
+      "summary": "Global - Chief Operating Officer, Outdoor - UK & International ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alicia-davison-5baa41139",
+      "name": "Alicia Davison",
+      "summary": "EA to Simon Pitts - Group CEO, Global",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-porter-467623b2",
+      "name": "Ben Porter",
+      "summary": "Group CFO and Board member",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Prince William joined Heart Breakfast with Jamie Theakston and Amanda Holden this morning for a very special broadcast, live from the Isles of…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_prince-william-joined-heart-breakfast-with-activity-7463615523524624384-4Pyn",
+      "activity_status": null
+    },
+    {
+      "title": "Another important milestone for Global today as we announce that we will now directly sell premium video advertising across our rapidly growing…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_another-important-milestone-for-global-today-activity-7462462630759305216-lDPI",
+      "activity_status": null
+    },
+    {
+      "title": "Global 🤝 McLaren Racing Following our successful partnership with the McLaren Racing Live fan experience last year, we’re delighted to announce that…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_global-mclaren-racing-following-our-successful-activity-7462052060268670976-IVAD",
+      "activity_status": null
+    },
+    {
+      "title": "This morning the RAJAR figures are in, and Global remains the UK’s biggest commercial radio group with 29 million weekly listeners, 279 million…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_global-rajar-q1-2026-activity-7460607080593289216-0l6k",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic to be able thank so many supporters, partners and fundraisers on behalf of our charity, Global's Make Some Noise, at last night’s House of…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_fantastic-to-be-able-thank-so-many-supporters-activity-7454909947655499776-cvAp",
+      "activity_status": null
+    },
+    {
+      "title": "A pitch-perfect evening at Classic FM Live with Viking at The Royal Albert Hall 🎶 From sweeping film scores to powerful classical favourites, the…",
+      "link": "https://www.linkedin.com/posts/activity-7452279703807303680-dM_L",
+      "activity_status": null
+    },
+    {
+      "title": "Big news from Global today as The Overlap announced an exciting new deal - the acquisition of The United Stand and That’s Football, two of the…",
+      "link": "https://www.linkedin.com/posts/simon-pitts-006a901_big-news-from-global-today-asthe-overlap-activity-7449818356104347648-gDGI",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Simon Pitts",
+      "link": "https://za.linkedin.com/in/simon-pitts-7b261240",
+      "summary": "Technical Account Manager at DuPont Water Solutions",
+      "location": "City of Johannesburg"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-87208a71",
+      "summary": "Senior Community Fundraising Manager at London's Air Ambulance Charity",
+      "location": "Wickford"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-78648b1a6",
+      "summary": "Supervisor at KN CIrcet",
+      "location": "Spalding"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simonnpitts",
+      "summary": "Storyteller.  Commissioning Editor Responsible for Factual, Arts, Music, Drama, Faith.  Audio, Digital and Partnerships, BBC World Service",
+      "location": "London"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts",
+      "summary": null,
+      "location": "Wickford"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-8621086",
+      "summary": null,
+      "location": "Greater Exeter Area"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-11738682",
+      "summary": "Logistics Manager at Gates Group",
+      "location": "Bishop's Stortford"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-1a0697166",
+      "summary": "Data & Analytics Manager at Cranfield University",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-a6380b114",
+      "summary": "Recruitment Consultant for Pinnacle People Recruitment Services",
+      "location": "Southend-On-Sea"
+    },
+    {
+      "name": "Simon Pitts",
+      "link": "https://uk.linkedin.com/in/simon-pitts-a955295",
+      "summary": "Driving new sign-ups for iGaming and traffic to eCommerce",
+      "location": "Thornaby-On-Tees"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-18T00:00:00Z"
+  }
+}

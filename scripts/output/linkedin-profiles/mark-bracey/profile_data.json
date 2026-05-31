@@ -1,0 +1,835 @@
+{
+  "public_identifier": "mark-bracey",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/80a0d2cf0ab2b406e7e00361cc9b4c82",
+  "background_cover_image_url": null,
+  "first_name": "Mark",
+  "last_name": "Bracey",
+  "full_name": "Mark Bracey",
+  "follower_count": 3148,
+  "occupation": "Co-Founder & CCO at DoohClick AB",
+  "headline": "With a lifetime of experience in the out-of-home industry, I help OOH media owners scale and monetise their assets.",
+  "summary": "I can help you in two ways 👇<br><br>My experience in out of home (OOH) media spans more than 30 years.<br><br>Having witnessed the industry's digital transformation, I have pioneered new and emerging formats, technologies and delivery platforms. <br><br>I serve on various boards as an executive or advisor, including:<br><br>1) DoohClick AB.<br><br>↳ DoohClick is a state-of-the-art ad tech platform built from the ground up by OOH media owners for OOH owners.<br><br>It serves both classic and digital OOH formats.<br><br>DoohClick is a fully independent company, providing complete sales support, dynamic scheduling, programmatic improved analysis and fast reporting.<br><br>2) Portfolio Media Management.<br><br>↳ A global out-of-home and advertising consultancy founded in 2003, we develop & manage iconic locations across the UK and globally.<br><br>PMM works with both media organisations and private and corporate organisations.<br><br>3) BB Media Assets Limited.<br><br>↳ A private investment fund specialising in the acquisition of OOH Media income-producing real estate. We are privately funded and operate across the U.K.<br><br>I believe that the OOH industry is stronger when we work together. If you want to chat, reach out to me directly → mbracey@portfolio-media.com",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "DoohClick AB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/doohclick",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder & CCO",
+      "description": "Bring your OOH media into the 21st century. DoohClick is a tech platform designed to give OOH media owners a real time ad serving ecosystem. It delivers complete sales support, dynamic scheduling, improved analysis and rapid reporting. The platform also includes a CMS, an ad server, a video player and an analytics tool all within the same intuitive workflow.",
+      "location": "London & Stockholm",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5e5047ac7987bd0d638e779d55b6a9cf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": null,
+      "company": "PORTFOLIO MEDIA MANAGEMENT LIMITED",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder and CEO",
+      "description": "Established in 2003, PMM specialises in the development and management of iconic OOH locations in the UK and internationally. We cater to private firms, corporations, and local governments.",
+      "location": "London",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "BB Media Assets Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Founder & Former CEO",
+      "description": "A private investment fund, specialised in acquisition of OOH Media income-producing real estate. Acquired by Wildstone in October 2024.",
+      "location": "Oxford, England, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Elonex Outdoor Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/elonex-outdoor-media",
+      "company_facebook_profile_url": null,
+      "title": "Group Commercial Director ( Consultancy ).",
+      "description": "Elonex is a DOOH advertising network including large-format roadside LED billboards, and digital screens at entertainment venues, shopping malls and sports stadiums.",
+      "location": "London & Birmingham",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a65f6186add3974bb2a52a18fa60b561"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2019
+      },
+      "company": "Ocean Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Consultant",
+      "description": "Ocean Outdoor specialises in large-format digital OOH across premium locations in the UK.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Group International Development Director",
+      "description": "Asset management, operations, and development of strategic digital locations across the UK.\n\nDuring my time I set up The Alliance, a worldwide consortium of DOOH businesses, many of which have since been acquired by Ocean Outdoor.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2004
+      },
+      "company": "blowUP media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blowup-media",
+      "company_facebook_profile_url": null,
+      "title": "Founder and  Managing Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7af08b69eeff50ea324539f649d17495"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2004
+      },
+      "company": "METEOR ADVERTISING LIMITED",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meteor-advertising-limited",
+      "company_facebook_profile_url": null,
+      "title": "Founder, and CEO",
+      "description": null,
+      "location": "London",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 1999
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Bristol",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2612,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rosssummers",
+      "name": "Ross Summers",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aalokshukla",
+      "name": "Aalok Yashwant Shukla",
+      "summary": "CEO & Co-founder Implement AI | Digital Workers For Everyday Businesses | AI Agents | Speaker | Co-host at the AI-Assisted Organisation Podcast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-brown-359291",
+      "name": "Andre Brown",
+      "summary": "Helping retailers compete online | CEO at Advanced Commerce",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-harlow-sopro",
+      "name": "Rob Harlow",
+      "summary": null,
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-welburn-033a747",
+      "name": "Ian Welburn",
+      "summary": "Bringing Innovation to Life Science",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bradblake1",
+      "name": "Bradley Blake",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonmawer",
+      "name": "Jason Mawer",
+      "summary": "CEO at UHS IDC",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-stenson",
+      "name": "Richard Stenson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardcharleswhite",
+      "name": "Richard White",
+      "summary": "Founder and CEO of Pickles, Co-founder and President of Goodlord",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/inglis1",
+      "name": "David Inglis",
+      "summary": "Created very.co.uk/ CEO/ Chairman/ writer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dondhaliwal",
+      "name": "Don-Paul Dhaliwal",
+      "summary": "DF4 Labs | Building AI Infrastructure for Production Software (FoxLitX) | Persistent State AI Systems | Former Autonomous Systems Founder",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-perl-0727b420",
+      "name": "Chris Perl",
+      "summary": "Experienced commercial leader",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiia-sammallahti",
+      "name": "Tiia Sammallahti",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/turgutyazici",
+      "name": "Turgut Yazıcı",
+      "summary": "Chief Revenue Officer at Omnitive",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-humphreys-1356a426",
+      "name": "Tom Humphreys",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josiaheyison",
+      "name": "Josiah Kwesi Eyison",
+      "summary": "iSpace Foundation•6K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-bownes-0235722a",
+      "name": "David Bownes",
+      "summary": "Global Airport Advertising, Promotional Activity & Activations",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-guo-4362ba50",
+      "name": "Eric Guo",
+      "summary": "Founder",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-hersham-26b12565",
+      "name": "Gabriela Hersham",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-sumner-ceo",
+      "name": "Tom Sumner",
+      "summary": "Founder & CEO at The Reward Collection",
+      "location": "Manchester"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "It’s day one of Integrated Systems Europe (ISE) We are on stand 4S200 and are excited to see you all! Kuori #LCD #ISE #DigitalSignage #DOOH…",
+      "link": "https://www.linkedin.com/posts/lcd-ise-digitalsignage-activity-7424379608986374144-kAP-",
+      "activity_status": null
+    },
+    {
+      "title": "This time tomorrow: ISE 2026 😎 One of the biggest events of the year, the Integrated Systems Europe (ISE) brings together everyone from out-of-home…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_this-time-tomorrow-ise-2026-one-of-the-activity-7424031514306285569-QVxO",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve just arrived at Integrated Systems Europe (ISE) to see the stand before the show kicks off tomorrow! If you have arrived early too, ping me a…",
+      "link": "https://www.linkedin.com/posts/lcd-digitalsignage-kuori-activity-7424066800608354304-GIEg",
+      "activity_status": null
+    },
+    {
+      "title": "This time tomorrow: ISE 2026 😎 One of the biggest events of the year, the Integrated Systems Europe (ISE) brings together everyone from…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_this-time-tomorrow-ise-2026-one-of-activity-7423997992031916032-bVls",
+      "activity_status": null
+    },
+    {
+      "title": "So happy for what we accomplished this year in honor of my beautiful daughter Olivia.  And proud of our sons and family for their commitment to such…",
+      "link": "https://www.linkedin.com/posts/patrick-sherry-8041112_so-happy-for-what-we-accomplished-this-year-activity-7417371736410759168-6tv-",
+      "activity_status": null
+    },
+    {
+      "title": "AI is going to become a massive thing. Way bigger than it is now. I think that’s just how it’s going to go. But it does beg the question: “Just…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ai-is-going-to-become-a-massive-thing-way-activity-7422936765717581824-gcKa",
+      "activity_status": null
+    },
+    {
+      "title": "The theme for this year’s Integrated Systems Europe (ISE) event: “Push beyond.” I think it is a perfect caption for DoohClick AB. What we are, who we…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-theme-for-this-years-integrated-systems-activity-7422560797249245185-2dRz",
+      "activity_status": null
+    },
+    {
+      "title": "This article hit on something I’ve been thinking about a lot lately: accountability isn’t a burden on OOH, it’s an opportunity. As our industry…",
+      "link": "https://www.linkedin.com/posts/becky-smith-4bb945162_why-accountability-is-oohs-next-growth-lever-activity-7422273284458618880-5qKj",
+      "activity_status": null
+    },
+    {
+      "title": "Next week is ISE week. Of all the events on the calendar, the Integrated Systems Europe (ISE) is one of the very best. Jonas Glad and I have been…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_next-week-is-ise-week-of-all-the-events-activity-7422252005454381057-Hv26",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Leadership Update We’re pleased to officially announce the appointment of Peter Chan as Chief Marketing Officer (CMO) at YAHAM Optoelectronics…",
+      "link": "https://www.linkedin.com/posts/yaham-optoelectronics-co-ltd_leadership-update-were-pleased-to-officially-activity-7421799512559652864-MkN5",
+      "activity_status": null
+    },
+    {
+      "title": "Well thats a wrap for the 2026 IBO - Independent Billboard Operators Spring conference New Orleans! The team at DoohClick AB enjoyed a great event;…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_well-thats-a-wrap-for-the-2026-ibo-independent-activity-7451982355298201600-4NoX",
+      "activity_status": null
+    },
+    {
+      "title": "Doohclick inc 🇺🇸 ready for business at IBO - Independent Billboard Operators Spring Conference New Orleans!",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-inc-ready-for-business-at-activity-7450179835366277120-nDEU",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is literally an out of home industry. But for years, the people running it have been chained to a desk to understand how their business is…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ooh-is-literally-an-out-of-home-industry-activity-7445005946570903552-GIwF",
+      "activity_status": null
+    },
+    {
+      "title": "The U.S. OOH market is remarkably dual-layered. On one side, you have the giants. Lamar Advertising Company. OUTFRONT Media. Clear Channel Outdoor.…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-us-ooh-market-is-remarkably-dual-layered-activity-7441762555779284992-8yUh",
+      "activity_status": null
+    },
+    {
+      "title": "CHANEL ran a Mother’s Day campaign. For the visual: a six-year-old’s crayon drawing. For a brand that relies beautifully on visual aesthetics to…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_chanelran-a-mothers-day-campaign-for-activity-7439598526654775296-qP_W",
+      "activity_status": null
+    },
+    {
+      "title": "Kodak, Blackberry & Nokia are stark reminders of what can happen when it comes to innovation and not being ahead of the curve. So in simple plain…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_kodak-blackberry-nokia-are-stark-reminders-activity-7427310307397771265-eLlB",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve said before that the next generation is the future of out-of-home. A recent conversation reminded me just how true this is. One comment really…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ive-said-before-that-the-next-generation-activity-7419669727712624640-7WFy",
+      "activity_status": null
+    },
+    {
+      "title": "What separates successful media owners from the rest? When I look across the out-of-home landscape, one thing consistently differentiates the truly…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_what-separates-successful-media-owners-from-activity-7416389608604831744-PQqk",
+      "activity_status": null
+    },
+    {
+      "title": "2 things the out-of-home industry should be talking about more: A unified language and a meaningful sustainability agenda. 5 years ago, I believed…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_2-things-the-out-of-home-industry-should-activity-7414564081510166528-F5Hy",
+      "activity_status": null
+    },
+    {
+      "title": "In a remote-work world, there’s an irony we don’t talk about enough: Out-of-home is called that for a reason. It's built on being outside,…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_in-a-remote-work-world-theres-an-irony-activity-7406601357199314945-8WOE",
+      "activity_status": null
+    },
+    {
+      "title": "1 thing that AI will never be able to replicate: The deeply human art of communication. Some people are natural conversationalists and others learn…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_1-thing-that-ai-will-never-be-able-to-replicate-activity-7409138576694738944-5CzQ",
+      "activity_status": null
+    },
+    {
+      "title": "1 of the most common blind spots I see in the out-of-home industry, especially among newer media owners, is this: Whether it’s hardware, software, or…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_1-of-the-most-common-blind-spots-i-see-in-activity-7411318960987590656-4h73",
+      "activity_status": null
+    },
+    {
+      "title": "Merry Christmas and all the very best for 2026!",
+      "link": "https://www.linkedin.com/posts/mark-bracey_merry-christmas-and-all-the-very-best-for-activity-7408785588792901633-Ju__",
+      "activity_status": null
+    },
+    {
+      "title": "One thing I've learnt in my career: To follow my instincts and be careful who I trust. For anyone, there will be countless voices willing to offer…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_one-thing-ive-learnt-in-my-career-to-follow-activity-7407694311167004673-ifNK",
+      "activity_status": null
+    },
+    {
+      "title": "Size doesn’t always win. But experience usually does. In a market full of large platforms and oversized promises, it’s easy to assume scale equals…",
+      "link": "https://www.linkedin.com/posts/activity-7403702716419690496-J1wz",
+      "activity_status": null
+    },
+    {
+      "title": "The out-of-home world is evolving quickly. I recently wrote an article for Media4Growth on 5 areas of innovation pushing our industry forward and why…",
+      "link": "https://www.linkedin.com/posts/activity-7401533227674533888-3E93",
+      "activity_status": null
+    },
+    {
+      "title": "After a full year, I'm looking forward to trading the grey UK winter for some Cape Town sunshine! I’ll be heading down to South Africa at the end of…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_after-a-full-year-im-looking-forward-to-activity-7404794958186061824-eqI_",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is at a crossroads right now. Programmatic is advancing, but not fully realised. Digital innovation is accelerating, but not everywhere at once.…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ooh-is-at-a-crossroads-right-now-programmatic-activity-7397184061481394176-eZ4k",
+      "activity_status": null
+    },
+    {
+      "title": "Every so often, you see an OOH campaign that makes you stop and smile. Those are the moments that remind me why I’ve loved this industry for so long.…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_every-so-often-you-see-an-ooh-campaign-that-activity-7396091870021382144-Dc11",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB recently exhibited at the DPAA event in New York. It is one of the most concentrated, high-energy gatherings in the digital out-of-home…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abrecently-exhibited-at-the-dpaa-activity-7393922063108972544-okHd",
+      "activity_status": null
+    },
+    {
+      "title": "“Billboards selling nothing”. Found this piece rather intriguing and made me think whether they have a point creatively well made…. Perhaps for us in…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_billboards-selling-nothing-found-this-activity-7384715245631479808-10u5",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is a bit like blotting paper. We absorb the administrative burden, reporting, scheduling, data handling, reconciliation, so our clients…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abis-a-bit-like-blotting-paper-activity-7389578903788552192-E5tu",
+      "activity_status": null
+    },
+    {
+      "title": "PrOOH has changed the way we think about media buying. It has highlighted the importance of: - A common language across buyers and sellers - Agreed…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_prooh-has-changed-the-way-we-think-about-activity-7388480201527152640-LYaH",
+      "activity_status": null
+    },
+    {
+      "title": "Data and technology. Two of the biggest buzzwords. But what do they actually mean? Here’s the analogy I use: 👉 Data is the fuel. 👉 Technology is…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_data-and-technology-two-of-the-biggest-buzzwords-activity-7387011295935483905-ArcX",
+      "activity_status": null
+    },
+    {
+      "title": "Something I wish I’d known 10 years ago: You’re always young enough to make a difference. Action isn’t about age or experience, it’s about mindset,…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_something-i-wish-id-known-10-years-ago-activity-7380846387258892288-Y0yi",
+      "activity_status": null
+    },
+    {
+      "title": "While some people actively enter the world of out-of-home, I fell into it ↴ I started my career at Merrill Lynch. A world of cubicles, hierarchy, and…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_while-some-people-actively-enter-the-world-activity-7376870707789737984-QEoo",
+      "activity_status": null
+    },
+    {
+      "title": "I didn’t have a mentor who guided my career. Instead, I learned from everything. The good. The bad. The inspiring. Even the extremely tough work…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_i-didnt-have-a-mentor-who-guided-my-career-activity-7375789076068843521-b5uc",
+      "activity_status": null
+    },
+    {
+      "title": "Work ethic is like a muscle. If you don’t use it, it fades. In today’s world of remote work, rapid change, and instant gratification, it’s tempting…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_work-ethic-is-like-a-muscle-if-you-dont-activity-7373972863999029249-Bb3y",
+      "activity_status": null
+    },
+    {
+      "title": "DPAA in New York is always a great event and opportunity for Jonas Glad and I to meet our North American friends, clients and partners. 🇺🇸 🇨🇦…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_dpaa-in-new-york-is-always-a-great-event-activity-7380145066389950464-SQKq",
+      "activity_status": null
+    },
+    {
+      "title": "Very excited to enter a new market selected by the perfect launch partner Movia !",
+      "link": "https://www.linkedin.com/posts/mark-bracey_very-excited-to-enter-a-new-market-selected-activity-7374013640561180673-lsaq",
+      "activity_status": null
+    },
+    {
+      "title": "Always great getting together with Jonas Glad and Tim Edmonds making plans for the next exciting stage for DoohClick AB in stunning Marlow UK.🇬🇧",
+      "link": "https://www.linkedin.com/posts/mark-bracey_always-great-getting-together-with-jonas-activity-7371075963700535296-L0i8",
+      "activity_status": null
+    },
+    {
+      "title": "Mark your calendars. October 14th. Pier Sixty, NYC. The DPAA Summit. The video is a highlight of last year’s event. This year is exciting for 2…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_mark-your-calendars-october-14th-pier-activity-7361291136411262976-0O39",
+      "activity_status": null
+    },
+    {
+      "title": "One of the biggest challenges globally → Everybody in the OOH industry is working in their own silos. Until we have a broad brush approach where…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_one-of-the-biggest-challenges-globally-activity-7358022998550814720-yyQC",
+      "activity_status": null
+    },
+    {
+      "title": "AI now is like ‘the internet’ was in 2000. “AI is going to solve everything.” “AI is going to be the new Google”. Personally, I believe AI is a tool…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ai-now-is-like-the-internet-was-in-2000-activity-7359113936408907777-19w4",
+      "activity_status": null
+    },
+    {
+      "title": "The best OOH tech doesn’t look like tech. Real innovation isn’t always flashy. It’s not only about the number of features on a spec sheet or how…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-best-ooh-tech-doesnt-look-like-tech-activity-7346805044605796352-vSeO",
+      "activity_status": null
+    },
+    {
+      "title": "Now that the dust has settled on the World Out of Home Organization, it’s time to reflect on an incredible week. WOO never disappoints, and this…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_now-that-the-dust-has-settled-on-the-world-activity-7346097018391392257-CqG7",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB isn’t just a platform. It’s a partnership. Yes, we offer software. A powerful, end-to-end system that helps OOH businesses manage…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abisnt-just-a-platform-its-activity-7351149665297260544-IgUx",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting moves in the South African market: DoohClick AB has partnered with South Africa’s OOH specialist, Network X OOH. Network X OOH reaches…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_exciting-moves-in-the-south-african-market-activity-7352951287572754432-ouZS",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is a Swedish based company. Although I’m based in the UK, Jonas Glad, Tim Edmonds, and Johan Holst are all in Sweden. One of the things…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abis-a-swedish-based-company-activity-7354043083228913664-Od2d",
+      "activity_status": null
+    },
+    {
+      "title": "When we do research for a new market, we focus on 3 things: Trust Awareness Communication We don’t try to reinvent the wheel, we try to understand…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_when-we-do-research-for-a-new-market-we-activity-7347899612092899328-f_MU",
+      "activity_status": null
+    },
+    {
+      "title": "Change doesn’t come from the top. It starts at the edges. In the world of DOOH, true innovation rarely originates from boardrooms. It begins with the…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_change-doesnt-come-from-the-top-it-starts-activity-7343171588801912834-SsiJ",
+      "activity_status": null
+    },
+    {
+      "title": "The DoohClick AB app is here. Last week, we launched the industry-first DoohClick App at the World Out of Home Organization in Mexico City. It is…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-doohclick-abapp-is-here-last-week-activity-7338515711360720897-MRoh",
+      "activity_status": null
+    },
+    {
+      "title": "Automated Trading Debate World Out of Home Organization Mexico. Collaboration, Collaboration, Collaboration‼️",
+      "link": "https://www.linkedin.com/posts/mark-bracey_automated-trading-debate-world-out-of-home-activity-7336845425145995264-v5mU",
+      "activity_status": null
+    },
+    {
+      "title": "You know it’s been a good conference day when you’re exhausted by 8pm! The World Out of Home Organization conference is happening in Mexico City. 2…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_you-know-its-been-a-good-conference-day-activity-7336213537683349505-szDT",
+      "activity_status": null
+    },
+    {
+      "title": "Going fast! “Disruptive Out of Home” T - Shirts brought to you by DoohClick AB Like Andrew (Bren) Foster Lydia Thomas Andrew Hamblin Come and get…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_going-fast-disruptive-out-of-home-t-activity-7336815655385448448-xnrm",
+      "activity_status": null
+    },
+    {
+      "title": "Heading to the World Out of Home Organization this week? Come find the DoohClick AB team at booth #12. → Meet us in person → Experience live demos →…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_heading-to-the-world-out-of-home-organization-activity-7335196331545710592-CimF",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is heading to Mexico! We are so proud to be a sponsor at this year’s World Out of Home Organization Annual Congress in Mexico City! It…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abis-heading-to-mexico-we-activity-7333020953267892224-tjUq",
+      "activity_status": null
+    },
+    {
+      "title": "Have you heard of 'communicating billboards'? It's when OOH advertisers use multiple billboards to create a connected message. And it really works!…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_have-you-heard-of-communicating-billboards-activity-7330857009329668097-iaxc",
+      "activity_status": null
+    },
+    {
+      "title": "It’s DSS Europe this week in Munich. Both Jonas Glad and I will be there. Jonas is actually speaking on the Data, Measurement & KPIs panel. These…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_its-dss-europe-this-week-in-munich-both-activity-7330128985000996865-3MCy",
+      "activity_status": null
+    },
+    {
+      "title": "BIG static = FANTASTIC‼️",
+      "link": "https://www.linkedin.com/posts/mark-bracey_big-static-fantastic-activity-7331939855733571584-Xw1r",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is launching something transformative next week → - Dynamic - Sales-focused - And an industry-first You definitely don’t want to miss…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-abis-launching-something-transformative-activity-7334128303328395267-jGah",
+      "activity_status": null
+    },
+    {
+      "title": "AI-and-digital-integrated OOH ads? Fun to look at, definitely! But let’s be honest. It’s not really out of home. OOH is real. It’s tangible. It lives…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ai-and-digital-integrated-ooh-ads-fun-activity-7329043258112622592-VBor",
+      "activity_status": null
+    },
+    {
+      "title": "Retail media and OOH: Similar spaces, very different mindsets. I recently attended a DPAA event in London for Ad Week. There was lots of talk about…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_retail-media-and-ooh-similar-spaces-very-activity-7327586706612789248-HGeR",
+      "activity_status": null
+    },
+    {
+      "title": "The future of OOH isn’t in a presentation, or at another conference. It’s in the next generation of talent. We talk a lot about innovation in this…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-future-of-ooh-isnt-in-a-presentation-activity-7328314324345659394-EUkL",
+      "activity_status": null
+    },
+    {
+      "title": "We’re a small team. We’re a global team. We’re a remote team. And I wouldn’t change it. At DoohClick AB, our team stretches from the UK to Sweden to…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_were-a-small-team-were-a-global-team-activity-7325794408082124800-O1Vt",
+      "activity_status": null
+    },
+    {
+      "title": "Always a pleasure travelling with my Co- founder, friend & CEO Jonas Glad spreading the word about DoohClick AB. Now powering OOH in 12 exciting…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_always-a-pleasure-travelling-with-my-co-activity-7324044390862102528-gZ4c",
+      "activity_status": null
+    },
+    {
+      "title": "We’re a tech company. But at our core, we’re in the business of people. It’s easy to forget about the human touch in an industry driven by digital.…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_were-a-tech-company-but-at-our-core-activity-7322923514645151748-krPu",
+      "activity_status": null
+    },
+    {
+      "title": "🚨The latest trend in OOH 🚨 E-paper. It’s a display technology that mimics the look of traditional ink on paper. It’s ultra-readable, even in bright…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-latest-trend-in-ooh-e-paper-activity-7318532660681666560-_1Iv",
+      "activity_status": null
+    },
+    {
+      "title": "Sustainability shouldn’t be a marketing strategy. But in OOH, it often is. And I hate that. There’s a lot of talk about sustainability at…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_sustainability-shouldnt-be-a-marketing-strategy-activity-7326505638614740992-hSGr",
+      "activity_status": null
+    },
+    {
+      "title": "AI. Data. Automation. It’s all moving forward at lightning speed. And we’re seeing big advancements in the OOH industry. Better targeting Smarter…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ai-data-automation-its-all-moving-activity-7317436838141444096-VaHO",
+      "activity_status": null
+    },
+    {
+      "title": "AI is transforming the way we interact with the world, especially in retail. But is it all for the best? At the Integrated Systems Europe (ISE) in…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ai-is-transforming-the-way-we-interact-with-activity-7321087955727519744-1rgm",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s talk about data quality. In OOH campaigns, data is everything. But if the quality of your data isn’t trustworthy… It’s worthless. High quality…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_lets-talk-about-data-quality-in-ooh-campaigns-activity-7315989508271865857-YCml",
+      "activity_status": null
+    },
+    {
+      "title": "Wish I’d had this when I was a OOH media owner!",
+      "link": "https://www.linkedin.com/posts/mark-bracey_wish-id-had-this-when-i-was-a-ooh-media-activity-7316004749261090816-mHYl",
+      "activity_status": null
+    },
+    {
+      "title": "OOH landlords want confidence in their media assets. Media owners want to prove their value. But reporting AFTER the fact only tells half the story.…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ooh-landlords-want-confidence-in-their-media-activity-7313110074887995393-xZpa",
+      "activity_status": null
+    },
+    {
+      "title": "When a digital screen goes dark, so does your entire campaign. DoohClick AB’s latest launch makes sure that doesn’t happen. → Automated Screen Health…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_when-a-digital-screen-goes-dark-so-does-activity-7313873755917746177-XZbV",
+      "activity_status": null
+    },
+    {
+      "title": "OOH’s whole philosophy? Right place, right time, right people. Media owners can’t just put ads on screens, they have to make sure the right people…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_oohs-whole-philosophy-right-place-right-activity-7308040417579524096-t3zD",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/eP8Xy7KW",
+      "link": "https://www.linkedin.com/posts/mark-bracey_doohclick-expands-in-south-africa-with-innovocean-activity-7302579136391237632-eQE8",
+      "activity_status": null
+    },
+    {
+      "title": "Will impactful advertising and environmental responsibility ever go hand in hand? We’re betting yes. At DoohClick AB, we have partnered with Absen to…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_will-impactful-advertising-and-environmental-activity-7302246488221384705-EirC",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s talk about sustainability. Like every other industry, sustainability is becoming more and more of a hot button topic in digital OOH. Where are…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_lets-talk-about-sustainability-like-activity-7300783095727730688-_wzD",
+      "activity_status": null
+    },
+    {
+      "title": "Where you’ll be seeing the DoohClick AB team in 2025: Integrated Systems Europe (ISE) 2025 in Barcelona OAAA 2025 OOH Media Conference in Boston DPAA…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_where-youll-be-seeing-the-doohclick-abteam-activity-7298248887423692801-eBkq",
+      "activity_status": null
+    },
+    {
+      "title": "ISE 2025 is right around the corner. Here’s what DoohClick AB is most excited for: 1. Digital signage & DooH zone Exploring even more cutting-edge…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_ise-2025-is-right-around-the-corner-here-activity-7292455266493546496-LKhf",
+      "activity_status": null
+    },
+    {
+      "title": "At DoohClick AB, we’re constantly evolving our platform to meet the needs of our clients. But every market is different. Each has its own demands,…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_at-doohclick-ab-were-constantly-evolving-activity-7295354405879439360-F0-Q",
+      "activity_status": null
+    },
+    {
+      "title": "I love OOH stories like these… The Hollywood Sign, today, is a global symbol of ambition and creativity, but its origins are much humbler. In 1923,…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_i-love-ooh-stories-like-these-the-hollywood-activity-7297527639651569665-Z8Ck",
+      "activity_status": null
+    },
+    {
+      "title": "Data is unrefined information. Analytics is the recognition of patterns and trends. Our analytics have shown that two key sectors in OOH are seeing…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_data-is-unrefined-information-analytics-activity-7293163877330997249-TFwW",
+      "activity_status": null
+    },
+    {
+      "title": "2024 came with its fair share of challenges. Some expected, others not. But every challenge offered a lesson. The tough times taught me 2 things last…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_2024-came-with-its-fair-share-of-challenges-activity-7296074055885963264-NeNU",
+      "activity_status": null
+    },
+    {
+      "title": "81% of consumers expect brands to prioritise sustainability. Which means advertisers and OOH media owners face a clear challenge – but also, a big…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_81-of-consumers-expect-brands-to-prioritise-activity-7291004873813217283-OS9m",
+      "activity_status": null
+    },
+    {
+      "title": "What’s on your focus area? To ring in 2025, it feels like I have about 2, 025 things I want to do at DoohClick AB (at least 😅). These are the big 3:…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_whats-on-your-focus-area-to-ring-in-2025-activity-7290280094709731329-lIYk",
+      "activity_status": null
+    },
+    {
+      "title": "Good onboarding can be the difference between success and failure. It’s not just about teaching users how to navigate the platform. It’s about…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_good-onboarding-can-be-the-difference-between-activity-7287012352481214464-om3j",
+      "activity_status": null
+    },
+    {
+      "title": "Compete for market share, or advance the industry? This is why collaboration matters so much in OOH right now: → Innovation thrives on diverse…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_compete-for-market-share-or-advance-the-activity-7284476901434294272-Siu0",
+      "activity_status": null
+    },
+    {
+      "title": "The OOH industry needs a ‘universal language’: - 64% of marketers believe standardisation will improve their ad spending efficiency, as advertisers…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_the-ooh-industry-needs-a-universal-language-activity-7264189424899436544-rtz8",
+      "activity_status": null
+    },
+    {
+      "title": "Great to be back in China with Ocean Outdoor visiting DoohClick AB partner Absen Inc. Big thanks to Doris Lee and Ruben Rengel for making this happen…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_great-to-be-back-in-china-with-ocean-outdoor-activity-7257647516224049152-J2-8",
+      "activity_status": null
+    },
+    {
+      "title": "In the DOOH industry, you have to deliver real value to stay competitive. In this data-driven age, that means providing: Continuous feedback ⤷ from…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_in-the-dooh-industry-you-have-to-deliver-activity-7257279928797220864-tS6V",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Mark Bracey",
+      "link": "https://uk.linkedin.com/in/mark-bracey-7753232",
+      "summary": null,
+      "location": "Greater Southampton Area"
+    },
+    {
+      "name": "Mark Bracey",
+      "link": "https://nz.linkedin.com/in/mark-bracey-19b08b15a",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "name": "Mark Bracey",
+      "link": "https://uk.linkedin.com/in/mark-bracey-a9a9b063",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "name": "Mark Bracey Sherman",
+      "link": "https://www.linkedin.com/in/markbraceysherman",
+      "summary": null,
+      "location": "Chicago, IL"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-04T00:00:00Z"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "public_identifier": "haris-politis-0a8080186",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c83bbb86e8ebf505f77da8db5022dbf4",
+  "background_cover_image_url": null,
+  "first_name": "Haris",
+  "last_name": "Politis",
+  "full_name": "Haris Politis",
+  "follower_count": 752,
+  "occupation": "Group CEO at Politis Group",
+  "headline": "Chairman at Politis Group",
+  "summary": null,
+  "location_str": "Greece",
+  "country": "GR",
+  "country_full_name": "Greece",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Politis Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/politis-group",
+      "company_facebook_profile_url": null,
+      "title": "Group CEO",
+      "description": null,
+      "location": "Athens,Greece",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e3601bbb5fd569b3cde6267cab6fce54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "Politis Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/politis-group",
+      "company_facebook_profile_url": null,
+      "title": "Group Commercial Director",
+      "description": null,
+      "location": "Athens, Greece",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e3601bbb5fd569b3cde6267cab6fce54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2015
+      },
+      "company": "Cheapis.gr and Goldendeals.gr",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": "Athens,Greece",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mariosgeorgakopoulos",
+      "name": "Marios Georgakopoulos",
+      "summary": "New Business & Transformation Manager at Politis Group | Intrapreneur by habit",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bdivaris",
+      "name": "Charalampos (Babis)S Divaris",
+      "summary": "AT&P accounting, Partner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleni-tsekoura",
+      "name": "Eleni Tsekoura",
+      "summary": "Sales Account Manager at Politis Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anastasiamanou",
+      "name": "Anastasia Manou",
+      "summary": "Entrepreneur - CEO White-Fox SA, Producer/Script Writer  - Media com & Consl hs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/evelina-ioannou",
+      "name": "Evelina Ioannou",
+      "summary": "Creative + Developer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stergios-tsalis",
+      "name": "Stergios Tsalis",
+      "summary": "Helping start - ups to grow | Digital product solutions design | Business & IT alignment | Digital innovation | Streaming Services",
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katerinachatzidaki",
+      "name": "Katerina Chatzidaki",
+      "summary": "Corporate sales Greece & Cyprus at Politis Group",
+      "location": "Agii Anargiri"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valiamantzari",
+      "name": "Valia Mantzari",
+      "summary": null,
+      "location": "Piraeus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nchristoforou",
+      "name": "Nick Christoforou",
+      "summary": "CCO at Antenna Group",
+      "location": "Rafina"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasilenia-angeloudi",
+      "name": "Vasilenia Angeloudi",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lazaros-filippou-455206262",
+      "name": "Lazaros Filippou",
+      "summary": "Salesman at Petrou Bros Dairy Products Ltd",
+      "location": "Dromolaxia - Meneou Municipality"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angeliki-dimaki-56817a9b",
+      "name": "Angeliki Dimaki",
+      "summary": "Chief Operating Officer & Donor Specialist",
+      "location": "Kifisia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisofi-tatsi",
+      "name": "Maria - Sofia  Tatsi",
+      "summary": "University Graduate, Department of Philosophy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandros-papaharalampous",
+      "name": "Alexandros Papaharalampous",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-stergiou-msc",
+      "name": "George Stergiou, MSc",
+      "summary": "Global Sales Manager at MM Educational Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelkokkinos",
+      "name": "Michael Kokkinos",
+      "summary": "Dynamic Project Manager & Public Affairs Specialist | Driving Success in Technology Transformation & Digital Innovation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/agisilaos-stathakis",
+      "name": "Agisilaos Stathakis",
+      "summary": "Co-Founder & CFO at Superbo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25CE%25B3%25CE%25B9%25CE%25AC%25CE%25BD%25CE%25BD%25CE%25B7%25CF%2582-%25CF%2580%25CE%25BF%25CE%25BB%25CE%25AF%25CF%2584%25CE%25B7%25CF%2582-92305595",
+      "name": "Γιάννης Πολίτης",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pkatsaras",
+      "name": "Paschalis Katsaras",
+      "summary": "Meteorologist-Weather Forecaster, MSc in Computer Science, Major General (ret),",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pavlina-tamouridou-540363234",
+      "name": "Pavlina Tamouridou",
+      "summary": "Professional Dj / Playlist Manager",
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandros-tzanetoulakos-72088515",
+      "name": "Alexandros Tzanetoulakos",
+      "summary": null,
+      "location": "Chania"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreasfilias",
+      "name": "Ανδρέας Φίλιας",
+      "summary": "Αντιπεριφερειάρχης Αγροτικής Ανάπτυξης Δυτικής Ελλάδας",
+      "location": "Patras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vangelis-tsaousopoulos-75a4716",
+      "name": "Vangelis Tsaousopoulos",
+      "summary": "Director - Producer at VTB Productions.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ioannis-stefanakos-8a041a7",
+      "name": "Ioannis Stefanakos",
+      "summary": "General Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/athanasios-palos-papantonopoulos-2404b88",
+      "name": "Athanasios Palos-Papantonopoulos",
+      "summary": "Member of the Board at IRIS ACCESS",
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frosso-kastana-0830b622",
+      "name": "Frosso Kastana",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-dimitriou-44a1a822",
+      "name": "GEORGE DIMITRIOU",
+      "summary": null,
+      "location": "Palaio Faliro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eirini-sdraka-06661b22",
+      "name": "Eirini Sdraka",
+      "summary": "GM at travelpassion.gr",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-zois-b5168223",
+      "name": "George Zois",
+      "summary": "Media Executive/ TV Producer- EPIROPOLIS MEDIA",
+      "location": "Filothei - Psychiko"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-kampouraki-7785aa29",
+      "name": "Angela Kampouraki",
+      "summary": "KAMPER SERVICES",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasilis-gatzoyannis-86a4b630",
+      "name": "Vasilis Gatzoyannis",
+      "summary": "Managing Partner at VOCKVALUE, Consultancy & Trade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonidas-giokas-09278330",
+      "name": "Leonidas Giokas",
+      "summary": "Sales Manager at Ostracon",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christos-manouris-7a209b31",
+      "name": "Christos Manouris",
+      "summary": "Insurance Consultant at MetLife",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dafni-karavokyris-96099335",
+      "name": "Dafni Karavokyris",
+      "summary": "📍Host / Journalist /Chief Editor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anestis-samaras-47aba757",
+      "name": "Anestis Samaras",
+      "summary": "CEO & Founder SRC GROUP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kiriaki-spathopoulou-8b807661",
+      "name": "KIRIAKI SPATHOPOULOU",
+      "summary": "SALES MANAGER at POLITIS MEDIA GROUP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christos-nikolaos-karanikas-14325862",
+      "name": "Christos Nikolaos Karanikas",
+      "summary": "Marketing Department",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/teo-pouzbouris-69410463",
+      "name": "Teo Pouzbouris",
+      "summary": "Music Producer - Songwriter",
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helena-patibouli-080a0b64",
+      "name": "Helena Patibouli",
+      "summary": "Real Estate Development Consultant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/savvas-tzortzopoulos-16255566",
+      "name": "savvas tzortzopoulos",
+      "summary": "Corporate Sales Manager at Politis Group of Companies GREECE / CYPRUS & Co-Founder at Los Adgeles",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikos-kestsoglou-0a724272",
+      "name": "Nikos Kestsoglou",
+      "summary": "Managing Partner - Senior Tax Advisor at NIKOLAOS KESTSOGLOU AND PARTNERS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/evy-fragaki-a4743a87",
+      "name": "Evy Fragaki",
+      "summary": "News Anchor / Founder of mother.gr / Book Author/ Founder of Pure Cell",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mina-mazi-345604b2",
+      "name": "MINA MAZI",
+      "summary": "Deputy General Manager at Politis Media Group /MBA Greece",
+      "location": "Penteli"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-mafoutsis-7950b810a",
+      "name": "Peter Mafoutsis",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vassiliki-fotiadou-1a7185112",
+      "name": "Vassiliki Fotiadou",
+      "summary": "Group Financial Planning & Reporting Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/panos-perivolaris-29360511b",
+      "name": "Panos Perivolaris",
+      "summary": "Financial Supervisor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasileios-kasiotakis-19a894121",
+      "name": "Vasileios Kasiotakis",
+      "summary": "Owner at KASIOTAKIS CHARALAMPOS & CO LP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariasalakouma",
+      "name": "Marirena Salakouma",
+      "summary": "Artist Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25CF%2580%25CE%25B1%25CF%258D%25CE%25BB%25CE%25BF%25CF%2582-%25CE%25B3%25CE%25B9%25CE%25B1%25CE%25BD%25CE%25BD%25CE%25AC%25CE%25BA%25CE%25B7%25CF%2582-8ab12714b",
+      "name": "Παύλος Γιαννάκης",
+      "summary": "Employee in Minicipality of Athens",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/panagiotis-ntallis-302ab9166",
+      "name": "Panagiotis Ntallis",
+      "summary": "Product Manager BYD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikolaos-grillakis-834ab4178",
+      "name": "Nikolaos Grillakis",
+      "summary": "Store Manager at The mart cash & carry",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/greta-kouka-142780184",
+      "name": "Greta Kouka",
+      "summary": "Legal Services Dept.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-lanis-6bb329189",
+      "name": "George LANIS",
+      "summary": "Company Owner at Don Quixote playground",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marios-gripiotis-a423881a0",
+      "name": "Marios Gripiotis",
+      "summary": "Commercial Director at Politis Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giannisvikas",
+      "name": "Giannis Vikas",
+      "summary": "Communications and Public Affairs",
+      "location": "Athens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-kousiounellos-334aa51b4",
+      "name": "George Kousiounellos",
+      "summary": "Outdoor Media Planning Specialist",
+      "location": "Chalandri"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giota-georgiou-8297171b7",
+      "name": "GIOTA GEORGIOU",
+      "summary": "Lawyer - Legal Councill",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitris-petrakis-420aa61b8",
+      "name": "Dimitris Petrakis",
+      "summary": "Accountant",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "📢 Exciting Update on PAMARES Technology! 🌍 PAMARES test results conducted by IIT Kanpur, under the expert supervision of Professor Sachchida Nand…",
+      "link": "https://www.linkedin.com/posts/staticair_pamarestechnology-iitkanpur-particulatematter-activity-7310998218463399937-YFQk",
+      "activity_status": null
+    },
+    {
+      "title": "Η bet365 επέλεξε την Politis Group για την εντυπωσιακή προβολή της Super Spin Roulette στο κέντρο της Αθήνας! Η διαφήμιση μέσω του Syntagma Synchro…",
+      "link": "https://www.linkedin.com/posts/politis-group_politisgroup-bet365-ooh-activity-7310687251074592770-jVeR",
+      "activity_status": null
+    },
+    {
+      "title": "ALGOVIL#DIGITALBILLBOARD#POLITISOOH#CYPRUS",
+      "link": "https://www.linkedin.com/posts/savvas-tzortzopoulos-16255566_algovildigitalbillboardpolitisoohcyprus-activity-7304768975786143744-QHyi",
+      "activity_status": null
+    },
+    {
+      "title": "DIGITALBILLBOAR#POLITISOOH#CYPRUS",
+      "link": "https://www.linkedin.com/posts/savvas-tzortzopoulos-16255566_digitalbillboarpolitisoohcyprus-activity-7304769432852086784-Hrsj",
+      "activity_status": null
+    },
+    {
+      "title": "Σας περιμένουμε στην Beyond Expo 2025! 📍 Hall 3 - Β18",
+      "link": "https://www.linkedin.com/posts/politis-group_σας-περιμένουμε-στην-beyond-expo-2025-activity-7308486458925879296-frMj",
+      "activity_status": null
+    },
+    {
+      "title": "Χθες βραβευτήκαμε από τους πανέμορφους ανθρώπους του Make A Wish Ελλάδος, σε μια συγκινητική βραδιά γεμάτη «Ευχαριστώ». Ο λόγος; Τα Χριστούγεννα…",
+      "link": "https://www.linkedin.com/posts/nikos-pitanios-21502414b_χθες-βραβευτήκαμε-από-τους-πανέμορφους-ανθρώπους-activity-7308530329256914945-91Rs",
+      "activity_status": null
+    },
+    {
+      "title": "Nice place to catch a bus in Athens! #healthcare #secondskinprotection #hansaplast #greece #beiersdorf #OOH",
+      "link": "https://www.linkedin.com/posts/annemieke-poot-340a874_healthcare-secondskinprotection-hansaplast-activity-7307681769275752448-jMx4",
+      "activity_status": null
+    },
+    {
+      "title": "HANSAPLAST#CREATIVERWRAP#POLITISOOH#OOH",
+      "link": "https://www.linkedin.com/posts/savvas-tzortzopoulos-16255566_hansaplastcreativerwrappolitisoohooh-activity-7307329776589893633-qtzO",
+      "activity_status": null
+    },
+    {
+      "title": "Σε ένα από τα πιο πολυσύχναστα σημεία της Λευκωσίας στην Κύπρο, βρίσκεται ο πιο σύγχρονος τρόπος προβολής, τo Digital Billboard από την Politis…",
+      "link": "https://www.linkedin.com/posts/politis-group_politisgroup-digitalbillboard-cyprus-activity-7305249616868823042-_Cya",
+      "activity_status": null
+    },
+    {
+      "title": "NBG apart from a 2025 start with great performance and strong profitability,is also unveiling creative ideas, gold awards, engaging events that…",
+      "link": "https://www.linkedin.com/posts/angeliki-perifanou-2a9a4888_nbgteam-newchallenges-awards-activity-7305272618889183232-QlPl",
+      "activity_status": null
+    },
+    {
+      "title": "Πρώτη συνεδρίαση του Μεταποιητικού τμήματος του ΕΒΕΑ. Η μεταποίηση και η αλλαγή του παραγωγικού μοντέλου της χώρας μας στο επίκεντρο των συζητήσεων…",
+      "link": "https://www.linkedin.com/posts/vassilisandrikopoulos_manufacturingsector-activity-7305117866050162688-fYAs",
+      "activity_status": null
+    },
+    {
+      "title": "LUXURIOUSSUNCARE#DIGITALBILLBOARD#POLITISOOH#CYPRUS",
+      "link": "https://www.linkedin.com/posts/savvas-tzortzopoulos-16255566_luxurioussuncaredigitalbillboardpolitisooh-activity-7304769184490512384-TqCF",
+      "activity_status": null
+    },
+    {
+      "title": "Did you know Korea is one of our key focus markets for premium brands in Carlsberg Export & License? 🍻 In fact, Korea is our number 1 market for…",
+      "link": "https://www.linkedin.com/posts/dejan-beko-916b44b_exportandlicense-premiumbrands-growth-activity-7297953862433308672-zjCT",
+      "activity_status": null
+    },
+    {
+      "title": "Δεν χρειάζεται να τα κάνεις όλα. Δεν χρειάζεται να είσαι τέλεια. Αρκεί που είσαι ΕΣΥ! Κείμενο: America Ferrera, Barbie movie Inspired by: Olive…",
+      "link": "https://www.linkedin.com/posts/politis-group_politisgroup-womansday-prideradio986-activity-7304063337011535872-1ALk",
+      "activity_status": null
+    },
+    {
+      "title": "Catch the Buzz on the Bus: Bombay Sapphire Creativity Meets Interbus OOH Advertising In a vibrant collaboration that merges artistry and premium…",
+      "link": "https://www.linkedin.com/posts/interbus-sa_bombaysapphire-fmcg-ooh-activity-7303000958756614145-UyAe",
+      "activity_status": null
+    },
+    {
+      "title": "Η Caudalie εμπιστεύτηκε την Politis Group για την OOH επικοινωνία της, γεμίζοντας την Αθήνα με την ανανεωμένη και εμβληματική σειρά Premier Cru. Η…",
+      "link": "https://www.linkedin.com/posts/politis-group_politisgroup-outdooradvertising-ooh-activity-7302712530668298240-fl0k",
+      "activity_status": null
+    },
+    {
+      "title": "Η Politis Group, σε συνεργασία με το efood, ανέλαβε την προβολή της νέας καμπάνιας 1+1, αξιοποιώντας στρατηγικά μέσα υπαίθριας διαφήμισης σε όλη την…",
+      "link": "https://www.linkedin.com/posts/politis-group_politisgroup-ooh-outofhomemedia-activity-7300900569567653889-vbFJ",
+      "activity_status": null
+    },
+    {
+      "title": "Η Interbus «ζωντανεύει» το θρύλο του Στέλιου Καζαντζίδη με μια υπαίθρια διαφημιστική καμπάνια υψηλού αντίκτυπου σε Αθήνα και Θεσσαλονίκη Η…",
+      "link": "https://www.linkedin.com/posts/interbus-sa_busadvertising-ooh-oohadvertising-activity-7295028692756361217-I1CD",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/dbZeQWjK",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_πώς-η-αυτογνωσία-είναι-ο-δρόμος-για-την-πραγματική-activity-7432835397753356288-Dqll",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7437529110563778560-Mrvc",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7436422138368221184-mLFS",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr ✍🏻📖",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7435350784050970624-tjGD",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7434487146708668416-oCOj",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7434235575517278209-nubr",
+      "activity_status": null
+    },
+    {
+      "title": "ΚΑΘΡΕΦΤΗΣ- Η ΑΛΗΘΕΙΑ ΧΩΡΙΣ ΦΙΛΤΡΑ 📖 https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_καθρεφτησ-η-αληθεια-χωρισ-φιλτρα-https-activity-7433222751852814336-7iPK",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7432054417098653696-gL78",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7431957714810884097-6LDl",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7431646597001908224-QOdK",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7432290286980079616-ltOp",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7431266293443452928-eMh2",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7430897716605587456-UzEF",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/d3aS52gr",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_httpslnkdind3as52gr-activity-7432669541165535233-QuFT",
+      "activity_status": null
+    },
+    {
+      "title": "With our friends from Spain and Argentina in Cascais Portugal 🇪🇸🇦🇷🇬🇷",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_with-our-friends-from-spain-and-argentina-activity-7073345706131886080-NMkx",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_%CE%BF%CE%B9-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%BF%CE%AF-%CE%B1%CF%81%CF%87%CE%B7%CE%B3%CE%BF%CE%AF-%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%BF%CF%8D%CE%BD-%CF%83%CF%84%CE%B9%CF%82-%CE%B5%CF%81%CF%89%CF%84%CE%AE%CF%83%CE%B5%CE%B9%CF%82-activity-7066839689877495808-Z1Yd",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_digitalbillboards-politisgroup-dooh-activity-6860961970154196992-s_LJ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_politisgroup-politisooh-sfera-activity-6853709920756412416--zol",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_christmas-card-activity-6879831579363958784-w4gH",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_politisgroup-politisooh-ooh-activity-6811744257234264064-G4xi",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_skyexpresslimassol2021-activity-6789550286995300352-VN-f",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_digital-wrap-shelters-activity-6783662139329576960-8H-S",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_ο-όμιλος-πολίτη-τιμά-και-φέτος-την-μνήμη-activity-6796436722419847168-hRnc",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_politisgroup-politisooh-ooh-activity-6747841072350707712-i8Zv",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_politisgroup-sfera1022-mousikos986-activity-6692033444228210688-DTWV",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_politisooh-ooh-outdooradvertising-activity-6705144028935061505-oIOq",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/haris-politis-0a8080186_menoumespiti-politisooh-ooh-activity-6645728849898336256-yuGo",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Haris Politis",
+      "link": "https://gr.linkedin.com/in/haris-politis-276716240",
+      "summary": "Journalist at Media2day Publishing SA",
+      "location": "Athens Metropolitan Area"
+    },
+    {
+      "name": "Haris Politis",
+      "link": "https://gr.linkedin.com/in/haris-politis-318172b3",
+      "summary": "Business Developer at Campari Hellas",
+      "location": "Trifylia"
+    },
+    {
+      "name": "Haris Politis",
+      "link": "https://gr.linkedin.com/in/haris-politis-b33658280",
+      "summary": "--",
+      "location": "Athens"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-10-16T00:00:00Z"
+  }
+}

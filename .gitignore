@@ -62,3 +62,12 @@ scripts/output/
 # local-only planning docs — never commit
 MASTER_DOCS/ARCHETYPE_TWINNING_INVESTIGATION.md
 MASTER_DOCS/SELF_SERVICE_BACKLOG.md
+ARCHETYPE_TWINNING_INVESTIGATION.md
+SELF_SERVICE_BACKLOG.md
+croe-flow.md
+
+# twinning pipeline generated state (rebuildable via `node scripts/twin-tracker.mjs init`)
+scripts/twins.json
+scripts/enriched_attendees.json
+scripts/twin_pairs.json
+scripts/scores.json

@@ -1,0 +1,22 @@
+{
+  "message": "EnrichLayer profile request failed: 404 Not Found",
+  "status": 404,
+  "body": {
+    "code": 404,
+    "description": "Person profile does not exist or has been deleted or marked as private by the user.",
+    "name": "Not Found"
+  },
+  "profile": {
+    "normalizedUrl": "https://www.linkedin.com/in/macie-banks-talley-323894235",
+    "username": "macie-banks-talley-323894235",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 599,
+    "attendee": {
+      "fullName": "Macie Talley",
+      "company": "Outdoorlink",
+      "email": "macie@outdoorlinkinc.com",
+      "country": "United States"
+    }
+  },
+  "scrapedAt": "2026-05-31T06:17:26.766Z"
+}

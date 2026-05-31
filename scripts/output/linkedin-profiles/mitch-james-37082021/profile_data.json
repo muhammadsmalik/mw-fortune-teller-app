@@ -1,0 +1,641 @@
+{
+  "public_identifier": "mitch-james-37082021",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Mitch",
+  "last_name": "James",
+  "full_name": "Mitch James",
+  "follower_count": 937,
+  "occupation": "Chief Executive Officer at Paradise Outdoor Advertising",
+  "headline": "Billboard Specialist.",
+  "summary": "With over 25 years’ experience across leadership, sales, and the outdoor advertising…",
+  "location_str": "Townsville, Queensland, Australia",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Townsville",
+  "state": "Queensland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "company": "Paradise Outdoor Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "Professional Billboard company",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Paradise Outdoor Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "Paradise Outdoor Advertising",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sign maintenace/installer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Townsville Grammar",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/leanne-krstevski40",
+      "name": "Leanne Krstevski",
+      "summary": "Chief Executive Officer",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-bowden",
+      "name": "Steve Bowden",
+      "summary": "Merch and Promo Solutions, Aus + NZ",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/micki-persky-%25F0%259F%258C%259F-8748b412",
+      "name": "Micki Persky 🌟",
+      "summary": "CEO at Talent.Realised - AI Marketing Recruitment Expert! \nHuman First, Always happy to chat 0414 405 188.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-mcpherson-gaicd-a7873120",
+      "name": "Sally McPherson - GAICD",
+      "summary": "Non-Executive Director, Founder, Entrepreneur, Consultant",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janecrowdey",
+      "name": "Jane Crowdey",
+      "summary": "Billboard Expert | Paradise Outdoor Advertising | Australia’s largest regional outdoor advertising company",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-slingsby",
+      "name": "Jason Slingsby BCom, MBA, FCPA , JP (Qual)",
+      "summary": "PVW Partners Accountants +…•248 followers",
+      "location": "Townsville City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewbellrwspg",
+      "name": "Andrew Bell OAM",
+      "summary": "Ray White, Real Estate, CEO, Gold Coast, Property, Buy, Sell, Mentoring, OAM",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/professorgarymartin",
+      "name": "Professor Gary Martin FAIM",
+      "summary": "Chief Executive Officer, AIM WA | Emeritus Professor | Social Trends | Workplace Strategist | Workplace Trend Spotter | Columnist | Director| LinkedIn Top Voice 2018 | Speaker | Content Creator",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/penny-dire-28b334240",
+      "name": "Penny Dire",
+      "summary": "CEO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/meg-hart-235b0b29a",
+      "name": "Meg Hart",
+      "summary": null,
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/micki-persky-%25F0%259F%258E%2597%25EF%25B8%258F-8748b412",
+      "name": "Micki Persky 🎗️",
+      "summary": "CEO at Talent.Realised - Human First, Always happy to chat 0414 405 188.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meg-hart-583336245",
+      "name": "Meg Hart",
+      "summary": "Personal Development Coach for young women 13-30 years. I create programs and tailored workbooks to suit the needs of students, other individuals, schools, Tafe, universities and other organizations.",
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monique-o-keefe-593200234",
+      "name": "Monique O'Keefe",
+      "summary": "Office Administrator",
+      "location": "Vincent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/selina-williams-1895b5a7",
+      "name": "Selina Williams",
+      "summary": null,
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jade-kelly-09a064252",
+      "name": "Jade Kelly",
+      "summary": "Sales Support Co-ordinator at POA",
+      "location": "Gulliver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rick-gillespie-0728b3264",
+      "name": "Rick Gillespie",
+      "summary": "Premium Glass Fencing NQ",
+      "location": "South Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cherie-zahra-7294b923a",
+      "name": "Cherie Zahra",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-fernando-bermudez-28bba323a",
+      "name": "Jose Fernando Bermudez",
+      "summary": "--",
+      "location": "Hayward"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-macqueen-6a6208161",
+      "name": "Sam Macqueen",
+      "summary": "Owner of Macqueen Media",
+      "location": "Mossman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lianne-scott-283a9417b",
+      "name": "Lianne Scott",
+      "summary": "Deputy Sales Manager - Revenue Growth & Media Sales Leadership at Channel 7 Townsville",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beau-mcginn-6345b5238",
+      "name": "Beau McGinn",
+      "summary": "Aviation Support",
+      "location": "Jervis Bay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peterfilopoulos",
+      "name": "Peter Filopoulos",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-lollback-64632a1",
+      "name": "Mark Lollback",
+      "summary": "Founder & CEO Global Mentorship & Strategy: Non Executive Director : \n\"The Meaning of LIFE is for Your Life to have Meaning\"",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-wilson-5581364",
+      "name": "Daniel Wilson",
+      "summary": null,
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brettodawson",
+      "name": "Brett Dawson",
+      "summary": "Consultant & Non-Executive Director | Business Strategy, Marketing Specialist, Audience Monetisation, Growth",
+      "location": "Chester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colinanstie",
+      "name": "Colin Anstie",
+      "summary": "CEO of RD | Strategic Communication, AI, Digital Adoption & Transformation Experts | Design, Video 🎥 & Digital for Defence, Government & Business | Microsoft Copilot Trainer | MBA | MAICD",
+      "location": "Canberra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edharrison1",
+      "name": "Ed Harrison",
+      "summary": "CEO | SaaS, Data & Digital Media",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-cohen-08ab938",
+      "name": "Lee Cohen",
+      "summary": "Professional + Strategic: General Sales Manager | Southern Cross Austereo Cairns | Queensland Leadership Team | Driving Growth Through Media & Partnerships",
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gavinhodgins",
+      "name": "Gavin Hodgins",
+      "summary": "Managing Director, Rivertex Australia | Manufacturing, Technical Textiles & Advanced Polymers",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-ryder-4365b41a",
+      "name": "Dan Ryder",
+      "summary": "Ray White Townsville•2K followers",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-brennan-35363722",
+      "name": "john brennan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simoncpereira",
+      "name": "Simon Pereira",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-slingsby-17610a26",
+      "name": "Jason Slingsby",
+      "summary": "Commercial Manager at Pacific Marine Group",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/troy-boschma-52ba392a",
+      "name": "Troy Boschma",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesajaka",
+      "name": "James Ajaka",
+      "summary": "Chief Executive Officer and Chairman at Rite Bite Group Pty Ltd",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoff-jones-35057331",
+      "name": "Geoff Jones",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-mcmillan-08009b32",
+      "name": "Ashley McMillan",
+      "summary": "Director specialising in Sales Strategy and Business Development",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-dumbrell-b6ab3534",
+      "name": "Paul Dumbrell",
+      "summary": "CEO Jaybro Group",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-st-cloud-1a026838",
+      "name": "Nicole St Cloud",
+      "summary": "Sales Manager | Oatley Fine Wine Merchants | CAIRNS",
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-paradise-ad-9ba76143",
+      "name": "Karen Paradise Ad",
+      "summary": "Development Coordinator at Paradise Outdoor Advertising",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wayne-ormond-55088144",
+      "name": "Wayne Ormond",
+      "summary": "Chief Executive Officer at Jen's Kitchen",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-rizzi-a0201547",
+      "name": "Sally Rizzi",
+      "summary": "People & Culture",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharina-di-prima-43720352",
+      "name": "Sharina Di Prima",
+      "summary": "Business Development Representative",
+      "location": "East Mackay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nik-rozis-81449952",
+      "name": "Nik Rozis",
+      "summary": "Partner at Findex",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-montgomery-39497a54",
+      "name": "James Montgomery",
+      "summary": "Chief Executive Officer, TAFE Gippsland",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-harris-91a5b958",
+      "name": "Steve Harris",
+      "summary": "CEO, The Brand Agency, part of the WPP Group.",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-shipard-97a7375a",
+      "name": "Daniel Shipard",
+      "summary": "Training Superintendent at Wilmar Sugar Australia Limited",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-grindley-0118675a",
+      "name": "Jamie Grindley",
+      "summary": "Media Strategist - Dilate",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/declan-carnes-61911b60",
+      "name": "Declan Carnes",
+      "summary": "Chief Operating Officer",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-trende-ba930374",
+      "name": "Matthew Trende",
+      "summary": "Executive Manager Finance & Corporate Services",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-morton-3777a179",
+      "name": "Matthew Morton",
+      "summary": null,
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trina-willis-a4403282",
+      "name": "Trina Willis",
+      "summary": "Partner - Business Advisory, Findex Australia",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glen-miller-92b90488",
+      "name": "Glen Miller",
+      "summary": "Maintenance Planner at Southern Cross Fertilisers Phosphate Hill",
+      "location": "Airville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-power-9877b38b",
+      "name": "Simon Power",
+      "summary": null,
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-dansie-13b73594",
+      "name": "Andrew Dansie",
+      "summary": "Client Partner, Telstra Enterprise",
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-wolff-34ba0597",
+      "name": "Rachel Wolff",
+      "summary": "Retail Professional",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-minuzzo-79971aa1",
+      "name": "David Minuzzo",
+      "summary": "Partner at KPMG",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kieran-archer-476112b2",
+      "name": "Kieran Archer",
+      "summary": "Business Development Representative at Makita Australia",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felisa-coffey-425841118",
+      "name": "Felisa Coffey",
+      "summary": "Senior Graphic Designer at Paradise Outdoor Advertising",
+      "location": "Mount Louisa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-moore-bab49411b",
+      "name": "Terry Moore",
+      "summary": "Furniture installer at Townsville Office Furniture",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitchell-vinson-0b884b11b",
+      "name": "Mitchell Vinson",
+      "summary": "Manager at Enterprise Rent-A-Car",
+      "location": "Potwin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-johnston-304280122",
+      "name": "Luke Johnston",
+      "summary": null,
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ida-eriksson-283993152",
+      "name": "Ida Eriksson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-turner-8133a516a",
+      "name": "Sarah Turner",
+      "summary": "North Queensland Regional Manager at 1300Smiles at 1300SMILES Dentists",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-eisenhut-47988a193",
+      "name": "Angela Eisenhut",
+      "summary": "M&A and Client Integrations Manager",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patina-pitkin-478610195",
+      "name": "Patina Pitkin",
+      "summary": "Manager Workers Compensation an Injury Management at Wilmar Sugar Pty Ltd",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/courtney-west-401b0b1a1",
+      "name": "Courtney West",
+      "summary": "Research Manager - Emergency Medicine Research - Townsville University Hospital",
+      "location": "Townsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bre-cousins-93558a1b5",
+      "name": "Bre Cousins",
+      "summary": "District Sales Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brenton-percy-1753b61b7",
+      "name": "Brenton Percy",
+      "summary": "SMSF Auditor at Unison",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/grace-franklin-882a231ba",
+      "name": "Grace Franklin",
+      "summary": "Sales Support Administrator",
+      "location": "Brisbane"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Stay Tuned.",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_stay-tuned-activity-7461135248689487872-wDxo",
+      "activity_status": null
+    },
+    {
+      "title": "We are glad the Move Data is more accurate then my shots.",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_we-are-glad-the-move-data-is-more-accurate-activity-7453335741046161408-Qa5y",
+      "activity_status": null
+    },
+    {
+      "title": "25 years doing what I was born to do — and still as driven as day one. Honoured to be nominated for Outstanding Service at the Outdoor Media…",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_poabillboards-outdoormedia-leadership-activity-7447953566469844993-k8_i",
+      "activity_status": null
+    },
+    {
+      "title": "We have the Crib your bring the Talent!!!",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_we-have-the-crib-your-bring-the-talent-activity-7448186814923845632-VOC5",
+      "activity_status": null
+    },
+    {
+      "title": "We love supporting our get Region.",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_we-love-supporting-our-get-region-activity-7445407819102744576-S8Ei",
+      "activity_status": null
+    },
+    {
+      "title": "We are honoured to support our great mates and partners Mike Carney Group",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_we-are-honoured-to-support-our-great-mates-activity-7447726745253867521-VjpL",
+      "activity_status": null
+    },
+    {
+      "title": "This is huge for Outdoor clients",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_this-is-huge-for-outdoor-clients-activity-7445408188180381696-3WV3",
+      "activity_status": null
+    },
+    {
+      "title": "Our New creative hub",
+      "link": "https://www.linkedin.com/posts/mitch-james-37082021_our-new-creative-hub-activity-7442489922244026368-0KTl",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Mitch James",
+      "link": "https://www.linkedin.com/in/mitchjames",
+      "summary": "Manager Infrastructure Solutions at Avanade",
+      "location": "Avondale, AZ"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://www.linkedin.com/in/mitch-james-0a097846",
+      "summary": "President at James Lumber & Ace Hardware",
+      "location": "Silverdale, WA"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://uk.linkedin.com/in/mitch-james-4182b95b",
+      "summary": "Senior Associate at BDG architecture + design",
+      "location": "London"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://au.linkedin.com/in/mitch-james-926082189",
+      "summary": "Operations Coordinator - Lifeguards at Life Saving Victoria",
+      "location": "Victoria, Australia"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://www.linkedin.com/in/mitch-james-57269247",
+      "summary": "Senior Systems Engineer at QuikTrip",
+      "location": "Tulsa, OK"
+    },
+    {
+      "name": "mitch james",
+      "link": "https://au.linkedin.com/in/mitch-james-826b677b",
+      "summary": "Health and Lifestyle Coach",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://au.linkedin.com/in/mitch-james-871ba4218",
+      "summary": null,
+      "location": "Australia"
+    },
+    {
+      "name": "Mitch Elmes",
+      "link": "https://au.linkedin.com/in/mitch-elmes-76a65449",
+      "summary": null,
+      "location": "Joyner, QLD"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://au.linkedin.com/in/mitchjamesjames",
+      "summary": "Wearing hats @buildkite",
+      "location": "Shellharbour, NSW"
+    },
+    {
+      "name": "Mitch James",
+      "link": "https://au.linkedin.com/in/mitch-james-7a386895",
+      "summary": "Director",
+      "location": "Greater Newcastle Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-10T00:00:00Z"
+  }
+}

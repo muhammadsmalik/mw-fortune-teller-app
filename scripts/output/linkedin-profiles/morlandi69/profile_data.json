@@ -1,0 +1,838 @@
+{
+  "public_identifier": "morlandi69",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/d4aa54603574e22c591faebbdf414d1e",
+  "background_cover_image_url": null,
+  "first_name": "Marco",
+  "last_name": "Orlandi",
+  "full_name": "Marco Orlandi",
+  "follower_count": 3753,
+  "occupation": "Group IT Director at Voilàp S.p.a.",
+  "headline": "CEO presso Pladway, Motiqa,  Group IT Director Presso Voilàp Spa",
+  "summary": "Expert Digital and Innovation Manager, heading companies to their Future. <br>Deep…",
+  "location_str": "Milan, Lombardy, Italy",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Milan",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Voilàp S.p.a.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/voilap-s.p.a.",
+      "company_facebook_profile_url": null,
+      "title": "Group IT Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7e0ecbfcc16e2b4eade57693880e41cb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "motIQa",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/motiqa",
+      "company_facebook_profile_url": null,
+      "title": "Joint CEO",
+      "description": null,
+      "location": "Milano, Lombardia, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/000de5b9383e9e02908a7f33170cd0c3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Pladway",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pladway",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Milano",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e4700aa7f9b8416b6e13cb9c1f122cb1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "Imecon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/imecon-engineering",
+      "company_facebook_profile_url": null,
+      "title": "Director, Digital Transformation @Voilap holding",
+      "description": null,
+      "location": "Milano, Lombardia, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bf9fadd03a26d52f480bc95601efeb9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "Voilàp S.p.a.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/voilap-s.p.a.",
+      "company_facebook_profile_url": null,
+      "title": "Director, Digital Transformation",
+      "description": null,
+      "location": "Milano, Lombardia, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7e0ecbfcc16e2b4eade57693880e41cb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "Grandi Stazioni Retail S.p.a.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grandi-stazioni-retail-s.p.a.",
+      "company_facebook_profile_url": null,
+      "title": "Head of Innovation  & Advertising Operations",
+      "description": "Head of Innovation: R&D oversee, define common guidelines on sensors and data science, design new digital advertising products ( Screens, kiosks, audience counting, programmatic services) , investment planning and control . \n\nHead of Advertising Operations:  Design & management of OOH/ DOOH network inside the 14 major Rail Stations in Italy and Rome Aiport.",
+      "location": "Rome Area, Italy",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d5df41f5f2462a1bb7715b6206746c0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "Grandi Stazioni S.p.A.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/grandi-stazioni-s-p-a-",
+      "company_facebook_profile_url": null,
+      "title": "Innovation Manager- DOOH- Transit",
+      "description": "Digital turnaround of advertising assets  in Travel Venues (  14 major railways stations in Italy) .",
+      "location": "Rome Area, Italy",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/38859db0d9d2353664e34c4401d54f75"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "fabbricadigitale",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fabbricadigitale",
+      "company_facebook_profile_url": null,
+      "title": "Business Unit Manager : Multimedia",
+      "description": "- Digital Signage and Outdoor TV applications\n- IPTV : applications for Corporate, TV and radio, Transportation, Healthcare.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a8c705488bfb15ac83ed9f85ad9c4c4e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2004
+      },
+      "company": "Polinetwork",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "technical and r&d manager",
+      "description": "Product, technology and R&D Director: \n\tProject of a New TV channel published in a network of 50 shopping centers: technologies, branding, content creation & acquisition, interactive services, tlc network.\n\tAs a Product manager  I studied a new entertainment and advertising content management system, and trained the sales force on the digital signage system\n\tAs Production manager I optimized the company procedures  and decided and implemented workflow in technical and commercial offices",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2003
+      },
+      "company": "nolitel italia spa",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Head of digital strategy",
+      "description": "Digital entertainment & Signage network for Milano Undeground : technology, content acquisition and programming, maintenance plan and cost control",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2000
+      },
+      "company": "DNA IT",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "technical manager",
+      "description": "Project Manager Videoconference\n\tProject and deployment for videoconference and networks : applications followed in distance learning, healthcare and finance markets\n\tField service engineer.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 1998
+      },
+      "company": "Politecnico di Milano",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/polimi",
+      "company_facebook_profile_url": null,
+      "title": "project manager",
+      "description": "Distance learning network manager\n\tI planned the creation and evolution of the university distance learning network , merging existent analog TV techniques with new videoconference services and systems. In three years the university realized 20 new digital classrooms.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb989ba2b804890f55b49ac43e78697d"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 1996
+      },
+      "field_of_study": "Electronic engineering",
+      "degree_name": null,
+      "school": "Politecnico di Milano",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/polimi/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    },
+    {
+      "name": "French",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "In Station Indoor Mapping e Street View",
+      "description": "Le Grandi Stazioni italiane sono su Street View, il servizio di Google Maps che permette di visualizzare fotografie a 360° di numerose località del pianeta. Grazie alla collaborazione tra Grandi Stazioni e la società di Montain View è possibile passeggiare virtualmente per la Stazione Centrale di Milano, Roma Termini, piuttosto che Firenze Santa Maria Novella o Torino Porta Nuova. Al momento del lancio dell'iniziativa da parte di Google, Street View presentava 16 aeroporti  e 59 stazioni ferroviarie in tutto il mondo, e di queste ben 13 appartenenti al network di Grandi Stazioni. Il nuovo Street View, oltre a numerose fotografie, propone anche diversi tour virtuali per accompagnare i viaggiatori e i cittadini all’interno delle stazioni, oltre al servizio di indoor mapping.",
+      "url": "https://www.google.it/maps/"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/gianclaudioborsarelli",
+      "name": "Gianclaudio Borsarelli",
+      "summary": "Direttore Generale | Direttore BU | Direttore Operations",
+      "location": "Cuneo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucaeneaspilimbergo",
+      "name": "Luca ENEA-SPILIMBERGO",
+      "summary": "Product Manager c/o Aesys",
+      "location": "Seriate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuseppe-candito",
+      "name": "Giuseppe Càndito",
+      "summary": "International Business Development | Strategic Leadership | Sales Development | Start-Up | Demand Generation | AI Deployment |  Award-winning Sales Programs I Digital Transformation |",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonevolpi",
+      "name": "Simone Volpi",
+      "summary": "President & Managing Director Comecer Group (An ATS Company)",
+      "location": "Pontedera"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniele-franceschini-5b0541135",
+      "name": "Daniele Franceschini",
+      "summary": "Founder @ Pillo | Digitalization & IT Manager | SaaS & Cloud Architect | Product Owner | Digital Transformation Leader",
+      "location": "Valle Salimbene"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-scuratti-9563291",
+      "name": "Marco Scuratti",
+      "summary": "Senior Director with experience in Management, Strategy, Business Development and Team Building",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorenzo-spinelli-2952257",
+      "name": "Lorenzo Spinelli",
+      "summary": "OWNER presso Rasor Elettromeccanica S.r.l.",
+      "location": "Parabiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/umberto-cereghini-1133458",
+      "name": "Umberto Cereghini",
+      "summary": null,
+      "location": "Robecco sul Naviglio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanara-marco-761b9b24",
+      "name": "Tanara Marco",
+      "summary": "Titolare, Frontier Service Italia srl",
+      "location": "Assago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giacomo-galassi-a1a59826",
+      "name": "Giacomo Galassi",
+      "summary": "Sales director",
+      "location": "Trento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesco-stefani-61b37527",
+      "name": "Francesco Stefani",
+      "summary": "CEO Nordest Automazioni",
+      "location": "Casier"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteo-pinca-a9168953",
+      "name": "Matteo Pinca",
+      "summary": "Chief Executive Officer presso Aliauto Italia s.r.l.",
+      "location": "Cavezzo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolo-bertolotti-97769561",
+      "name": "Paolo Bertolotti",
+      "summary": "CEO / COO  IVAR Spa",
+      "location": "Prevalle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luigi-ferrari-b5171363",
+      "name": "Luigi Ferrari",
+      "summary": null,
+      "location": "Settimo Milanese"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vairani-fabio-74800571",
+      "name": "Vairani Fabio",
+      "summary": null,
+      "location": "Cremona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-parrino-26470171",
+      "name": "Andrea Parrino",
+      "summary": "CEO presso ISC srl PU Experience",
+      "location": "Como"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alberto-scotti-38628987",
+      "name": "Alberto Scotti",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danilo-ariola-7baa538b",
+      "name": "Danilo Ariola",
+      "summary": "Sales manager & expert in recycling scrap metals",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-crociani",
+      "name": "Marco Crociani",
+      "summary": "CEO presso AKTID Italia srl",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gianluigi-damioli-01b8a4b3",
+      "name": "Gianluigi Damioli",
+      "summary": null,
+      "location": "Brescia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dearden",
+      "name": "Matthew Dearden",
+      "summary": "CEO, entrepreneur, and adviser",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteo-terragni-a8a30b13",
+      "name": "Matteo Terragni",
+      "summary": "Managing Director - Amministratore Delegato at ENGEL ITALIA SRL",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marinocrippa",
+      "name": "Marino Crippa",
+      "summary": "CEO @ Miraitek | Transformation is a state of mind",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/cesare-salvini-0301b01a",
+      "name": "Cesare Salvini",
+      "summary": "Marketing & Sales Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/federico-caiumi-9a63b18b",
+      "name": "Federico Caiumi",
+      "summary": "Retail Digital Transformation | Chairman & CEO at Voilàp Digital",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/corrado-degl-incerti-tocci",
+      "name": "Corrado Degl'Incerti Tocci",
+      "summary": "Head of Operations at motIQa | Executive MBA (EMBA) Candidate\n2027 SDA Bocconi",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-rickard-6053221a",
+      "name": "Annie Rickard",
+      "summary": "Managing Partner at OOH Capital and Director and Chair of Steering Committee, Women's Equality Party",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-parker-8383467",
+      "name": "Nick Parker",
+      "summary": "Founder Go2OOH Consultancy Ltd. NED, Chair VIOOH, Global President Veridooh, Former Global COO Kinetic Worldwide - Global OOH Advocate",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovanna-iannantuoni-8aa94141",
+      "name": "Giovanna Iannantuoni",
+      "summary": "Rector, Professor of Economics,  University of Milano-Bicocca",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/federicofassina",
+      "name": "Federico Fassina",
+      "summary": "Head Of Operations and Product at Pladway",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuseppe-gorini-00493013",
+      "name": "Giuseppe Gorini",
+      "summary": "Professor at Milano-Bicocca University",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-goddard-1076a920",
+      "name": "Tom Goddard",
+      "summary": "International media professional based in London with particular specialism in Out of Home Media (OOH)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolamullett",
+      "name": "Nicola Mullett",
+      "summary": "Chief Operating Officer at Adwanted Group",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-schmalzl-b7a7b019",
+      "name": "Christian Schmalzl",
+      "summary": "Co-CEO Ströer SE & Co. KGaA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisa-savoca-919a5516b",
+      "name": "Elisa Savoca",
+      "summary": "Programmatic Operations & Sales Specialist presso Pladway",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelangelo-giombini-59993748",
+      "name": "Michelangelo Giombini",
+      "summary": "Head of Product Development & co-CEO Manifattura",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/letizia-venturini-48a5881",
+      "name": "Letizia Venturini",
+      "summary": "Chief Operating Officer Voilàp SpA | Member of the Technical Group for Digital Transition - Confindustria",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/giancarlopatri",
+      "name": "Giancarlo Patri",
+      "summary": "Partner at Kervis",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/salvatore-torrisi-0aa0004b",
+      "name": "SALVATORE TORRISI",
+      "summary": "Chairman of the Board Of Directors presso Lambda ECL Capital AG ",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Ermanno Tiziano Falcone\n\nMarco is an excellent professional that combine together technical skills and creative innovation. His skills and determination are capital in Grandi Stazioni's digital transition. He is an excellent team player and is always searching for new ideas in order to improve the business and reach the targets set.",
+    "Davide Strozzi\n\nMarco has a natural attitude for business development. He has great capabilities for evidencing and developing strategic job opportunies and for evolving company market, Marco has a contagious optimism in facing new deals and ventures, he could be a great teacher for young professionists who want to improve their skills."
+  ],
+  "activities": [
+    {
+      "title": "Sarò stato fortunato, ma quando osservo la mia vita la vedo caratterizzata da figure femminili fondamentali per la mia crescita, la mia formazione…",
+      "link": "https://it.linkedin.com/posts/meneghetti_sarò-stato-fortunato-ma-quando-osservo-la-activity-7303758841790275584-w3ZX",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be heading to #Germany in April to deliver a keynote on #SmartCityGovernance at the 𝘜𝘳𝘣𝘢𝘯 𝘋𝘪𝘨𝘪𝘵𝘢𝘭 𝘛𝘸𝘪𝘯𝘴 𝘧𝘰𝘳 𝘢…",
+      "link": "https://www.linkedin.com/posts/lucamoraphd_germany-smartcitygovernance-smartcities-activity-7297525998760214529-d2AA",
+      "activity_status": null
+    },
+    {
+      "title": "Ho il piacere di comunicarvi che da Marzo ricoprirò la posizione di Amministratore Delegato a Gardaland - Merlin Entertainments Limited I miei…",
+      "link": "https://it.linkedin.com/posts/stefanocigarini_ho-il-piacere-di-comunicarvi-che-da-marzo-activity-7298310113398812672-ByHo",
+      "activity_status": null
+    },
+    {
+      "title": "Premio di consolazione? Se non avete vinto il FantaSanremo, almeno potete digerire la sconfitta con Biochetasi. Quando il tuo prodotto è leader nel…",
+      "link": "https://it.linkedin.com/posts/digitalsolutionsitalia_fantasanremo-digitalsolutions-activity-7297207650197336064-C1uj",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to announce another strategic step in the glass market: welcome on board Mappi! #Growth #ValueCreation #Leadership #Mappi",
+      "link": "https://www.linkedin.com/posts/stefano-giust-3374834_growth-valuecreation-leadership-activity-7292074380501610496-P7EM",
+      "activity_status": null
+    },
+    {
+      "title": "💡 Il Politecnico di Milano non solo insegna #innovazione, ma la applica concretamente: dall’uso dell’IA per ridurre l’abbandono degli studenti…",
+      "link": "https://it.linkedin.com/posts/matteoflora_innovazione-ricerca-activity-7290755784710225922-FuJq",
+      "activity_status": null
+    },
+    {
+      "title": "As I wrap up my final project with Balich Wonder Studio   (and what a project! - details below) I’m reflecting on the incredible journey it has been.…",
+      "link": "https://www.linkedin.com/posts/alice-parola-919b90224_as-i-wrap-up-my-final-project-with-balich-activity-7291037275381993472-HFQa",
+      "activity_status": null
+    },
+    {
+      "title": "Ho avuto una sola esperienza con Chiara Ferragni. In occasione dell'annuncio della partnership di Chiara Ferragni con Nespresso, vengo contattata…",
+      "link": "https://it.linkedin.com/posts/mariangela-pira-0a985a2_ho-avuto-una-sola-esperienza-con-chiara-ferragni-activity-7290980637786673152-6eeN",
+      "activity_status": null
+    },
+    {
+      "title": "Come CEO di WAYAP, azienda aderente a Vedooh, credo nell'importanza dell'automazione, nella misurabilità delle campagne pubblicitarie e…",
+      "link": "https://it.linkedin.com/posts/daniela-aga-rossi-337aa940_advertising-automation-marketing-activity-7284569416799850496-tf3-",
+      "activity_status": null
+    },
+    {
+      "title": "Secondo l'ultimo forecast di WARC, The Future Of Media 2025, l'OOH sarà l'unico mezzo offline in crescita quest'anno. L'ennesimo attestato ad un…",
+      "link": "https://it.linkedin.com/posts/fabionobili_secondo-lultimo-forecast-di-warc-the-future-activity-7285945047139700737-UBSi",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Outdoor Advertising Overtakes TV For Reach Marketing effectiveness guru Les Binet spilled the tea on shifting media consumption habits in a…",
+      "link": "https://www.linkedin.com/posts/simon-miller-954210129_ooh-oohadvertising-outofhome-activity-7286046940297900035-5L0m",
+      "activity_status": null
+    },
+    {
+      "title": "🗞 In edicola il nuovo numero di Prima Comunicazione con il nostro CEO, Gianluca De Marchi, in copertina. All’interno, un racconto esclusivo…",
+      "link": "https://it.linkedin.com/posts/urban-vision-group-official_urbanvision-mediacompany-primacomunicazione-activity-7285332495783383040-u_c8",
+      "activity_status": null
+    },
+    {
+      "title": "Leggo tanti, davvero troppi post in cui dei programmatori, che pure usano la AI, si \"misurano\" con essa, cercando di dimostrare che una codifica…",
+      "link": "https://it.linkedin.com/posts/msciab_leggo-tanti-davvero-troppi-post-in-cui-dei-activity-7365688723973320705-zPAY",
+      "activity_status": null
+    },
+    {
+      "title": "Die Bewegbild Äquivalenz Studie (BÄM), einen Meilenstein der Werbewirkungsforschung, durfte ich heute gemeinsam mit Andrea Malgara von Mediaplus…",
+      "link": "https://de.linkedin.com/posts/media-werbung-dooh-activity-7369029050654277633-O2t1",
+      "activity_status": null
+    },
+    {
+      "title": "🔴 𝐀𝐥𝐥𝐚 𝐧𝐮𝐦𝐞𝐫𝐨 𝟑 𝐧𝐨𝐧 𝐩𝐨𝐭𝐫𝐞𝐭𝐞 𝐜𝐫𝐞𝐝𝐞𝐫𝐞!!! Servono idee nuove. Innovazione. Visione. Discontinuità. Ma poi, nella…",
+      "link": "https://it.linkedin.com/posts/andreapietrini_imprenditori-manager-fractionalmanager-activity-7368880693533126656-0VPZ",
+      "activity_status": null
+    },
+    {
+      "title": "Felice di condividere che sono stata inserita tra le #UnstoppableWomen 2025, un progetto di StartupItalia che raccoglie storie e percorsi di donne…",
+      "link": "https://it.linkedin.com/posts/donatellasciuto_unstoppable-women-2025-la-community-al-femminile-activity-7368952101143617536-xrHO",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks my first year at Hype and here is my anniversary blurb that hopefully can inspire someone to be bold and make this move they are…",
+      "link": "https://www.linkedin.com/posts/maria-magenes-7b63776a_today-marks-my-first-year-at-hype-and-here-activity-7368202652435787777-NChe",
+      "activity_status": null
+    },
+    {
+      "title": "Très fière et heureuse de vous partager cette bonne nouvelle ! Semitan a choisi MEDIATRANSPORTS en tant que régie publicitaire exclusive pour une…",
+      "link": "https://fr.linkedin.com/posts/valérie-decamp-275732170_metropole-dooh-activity-7366066030986665985-JGoQ",
+      "activity_status": null
+    },
+    {
+      "title": "Ho appena finito di codificare un piccolo progetto personale interamente in Vibe Coding. Cioé non ho scritto il codice, ho scritto solo le…",
+      "link": "https://it.linkedin.com/posts/msciab_ho-appena-finito-di-codificare-un-piccolo-activity-7361644656465502208-3Tks",
+      "activity_status": null
+    },
+    {
+      "title": "𝐃𝐢𝐝 𝐲𝐨𝐮 𝐦𝐢𝐬𝐬 𝐭𝐡𝐞 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐨𝐧 𝐉𝐮𝐥𝐲 𝟑𝟎? Pietro Carini, our Sales Manager, took the stage at tangoo’s 𝑩𝒂𝒄𝒌 𝒕𝒐…",
+      "link": "https://www.linkedin.com/posts/pladway_pdooh-adv-tangoo-activity-7358424288032432128-n5PN",
+      "activity_status": null
+    },
+    {
+      "title": "Tellement heureuse de partager cette excellente nouvelle avec vous ! Mediatransports remporte le MARCHE DU SIECLE en étant désigné comme le…",
+      "link": "https://fr.linkedin.com/posts/valérie-decamp-275732170_mediatransports-remporte-le-contrat-publicitaire-activity-7353721599868452866--c2I",
+      "activity_status": null
+    },
+    {
+      "title": "I tried my very best... and published a children's book! Upon learning my younger sister Meghan Gutnik was pregnant with her first child, I wrote a…",
+      "link": "https://www.linkedin.com/posts/stephaniegutnik_i-tried-my-very-best-and-published-a-childrens-activity-7353758174174220288-YFOW",
+      "activity_status": null
+    },
+    {
+      "title": "Sono ancora carico di energia e ispirato dal workshop di ieri a INTERSECTIONS 2025, Panel DOOH La rivoluzione è in atto! del quale sono orgoglioso…",
+      "link": "https://it.linkedin.com/posts/rodolforottagentile_intersections2025-dooh-marketing-activity-7392505818019016704-PfbQ",
+      "activity_status": null
+    },
+    {
+      "title": "For the final session on day one of the World Out of Home Organization we are addressing the \"Challenges and Innovations in DOOH Hardware\" With the…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_dooh-ooh-activity-7392111918758670337-5zGO",
+      "activity_status": null
+    },
+    {
+      "title": "⭕  Pikasso Italia vince la gara per la concessione pubblicitaria de La Galleria Parma ⭕ La Galleria, ex Barilla Center, rappresenta uno dei…",
+      "link": "https://it.linkedin.com/posts/brand-news-today_pikasso-italia-vince-la-gara-per-la-concessione-activity-7386025622554431488-aZ0m",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization's APAC forum, November 5-7 is now SOLD OUT. This represents a record number of delegates for a WOO Regional Forum…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_looking-at-the-future-of-ooh-at-woo-seoul-activity-7388921416022237184-ovWf",
+      "activity_status": null
+    },
+    {
+      "title": "Ready to leave!!! See you in Seoul!",
+      "link": "https://www.linkedin.com/posts/annamariapisano_ready-to-leave-see-you-in-seoul-activity-7388337972678397952-bWhp",
+      "activity_status": null
+    },
+    {
+      "title": "The 25th of October I had the opportunity to present Zant in the #LinuxDay conference at Politecnico of Milan. It was amazing to talk about #tinyML…",
+      "link": "https://www.linkedin.com/posts/mirko-calvi-632734239_linuxday-tinyml-edgeai-activity-7389966742678294528-VeiR",
+      "activity_status": null
+    },
+    {
+      "title": "It’s Showtime! Even Betelgeuse couldn’t resist our Halloween vibes 😎🎃 Happy Halloween from Voilàp! #Voilap #Halloween #Aluminum #SmartRetail…",
+      "link": "https://www.linkedin.com/posts/voilap-s.p.a._voilap-halloween-aluminum-activity-7389987189197189120-7dpo",
+      "activity_status": null
+    },
+    {
+      "title": "Si apre un nuovo entusiasmante capitolo professionale. Sono felice della nuova sfida come #Executive #Chairman di Spindox , eccellenza italiana…",
+      "link": "https://it.linkedin.com/posts/barbaracominelli_executive-chairman-bnp-activity-7387021554670440449-kB_K",
+      "activity_status": null
+    },
+    {
+      "title": "Eccoci qui, con un po’ di magone e tanta aspettativa per il futuro a salutare gli ultimi 7 anni di lavoro e tutti coloro che me li hanno…",
+      "link": "https://it.linkedin.com/posts/mariachiara-barbera-6640571_eccoci-qui-con-un-po-di-magone-e-tanta-activity-7387555216876965888-6nHI",
+      "activity_status": null
+    },
+    {
+      "title": "Clear Channel Outdoor have made a big change. They’ve moved to a single, full-stack DOOH platform. It’s the kind of quiet shift that remaps daily…",
+      "link": "https://www.linkedin.com/posts/jagharrison_clear-channel-outdoor-have-made-a-big-change-activity-7377330549041807361-zQTC",
+      "activity_status": null
+    },
+    {
+      "title": "What are the #three #slides that invariably move the #VC #partners when looking at an early stage founder pitch? 1. Size of the Opportunity…",
+      "link": "https://www.linkedin.com/posts/pancrazioauteri_three-slides-vc-activity-7380086389209677824-_Vvp",
+      "activity_status": null
+    },
+    {
+      "title": "A personal milestone I’m excited to share. Alongside my ongoing roles at Pladway and Voilàp, I am starting a new project, contributing to the…",
+      "link": "https://www.linkedin.com/posts/activity-7449947459725762560-uQfJ",
+      "activity_status": null
+    },
+    {
+      "title": "Il mercato PDOOH italiano cresce, e con lui crescono le aspettative degli inserzionisti: stessi standard di trasparenza e accountability che già si…",
+      "link": "https://www.linkedin.com/posts/morlandi69_pladway-sceglie-veridooh-per-la-verifica-activity-7442970212909387776-rbqs",
+      "activity_status": null
+    },
+    {
+      "title": "Grazie a @iab italia e a tutti i suoi members dell’ecosistema DOOH italiano che hanno partecipato a questo gruppo di lavoro! Un ringraziamento…",
+      "link": "https://www.linkedin.com/posts/morlandi69_grazie-a-iab-italia-e-a-tutti-i-suoi-members-activity-7252771169999749121-zgic",
+      "activity_status": null
+    },
+    {
+      "title": "Ricopro una nuova posizione lavorativa: Group IT Director presso Voilàp SPA",
+      "link": "https://www.linkedin.com/posts/morlandi69_ricopro-una-nuova-posizione-lavorativa-activity-7239296558909779968-Yayd",
+      "activity_status": null
+    },
+    {
+      "title": "genio e semplicità...",
+      "link": "https://www.linkedin.com/posts/morlandi69_ace-incornicia-i-panni-stesi-di-napoli-nella-activity-7090677710204624897-Nr_0",
+      "activity_status": null
+    },
+    {
+      "title": "\"Faux DOOH\". Here we see excellent examples of businesses shifting focus, attention, revenues, and overall business value from physical venues to the…",
+      "link": "https://www.linkedin.com/posts/morlandi69_faux-dooh-is-cool-but-can-we-be-a-lot-activity-7090626343163301888-EQcL",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/morlandi69_pladway-e-sky-media-il-programmatic-dooh-activity-6891356313532588032-Zdx4",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/morlandi69_sfide-e-opportunità-per-lout-of-home-digitale-activity-6871065089085059072-C7KC",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/morlandi69_con-lacquisizione-di-pladway-voilàp-holding-activity-6726572123361447936-G4BY",
+      "activity_status": null
+    },
+    {
+      "title": "Happy announce my new job at Voilàp Holding - Imecon , where I will take care of Digital Transformation processes. Starting a new job remotely is not…",
+      "link": "https://www.linkedin.com/posts/morlandi69_doohstruption-activity-6662973445095071744-W4ee",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday was my last day at Grandi Stazioni Retail S.p.a. During last 8 years I had the privilege to be included in great projects, putting together…",
+      "link": "https://www.linkedin.com/posts/morlandi69_doohstruption-activity-6642020938705575936-LeW5",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-244b00a0",
+      "summary": "Assistenza tecnica e commerciale (Lombardia Ovest, Piemonte, Liguria)",
+      "location": "Soliera"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-8a561649",
+      "summary": "Technical Director - IVECO DEFENCE VEHICLES",
+      "location": "Bolzano"
+    },
+    {
+      "name": "marco orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-2516311b",
+      "summary": "Artistic Director \"Il Borgo dei Cartai\" - Independent Arts and Crafts Professional -",
+      "location": "Roma"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-6977277",
+      "summary": "CDO - Omnichannel Digital Director",
+      "location": "Buccinasco"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-a005b175",
+      "summary": "Dottore Commercialista e Revisore Legale - Consulenza d'impresa e fiscale - Finanza aziendale - Autore di pubblicazioni",
+      "location": "Castelfranco Veneto"
+    },
+    {
+      "name": "Marco orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-b1930b125",
+      "summary": "Private banker presso Poste Italiane",
+      "location": "Turin"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-15300629",
+      "summary": "Socio",
+      "location": "Monte San Pietro"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-a1784b191",
+      "summary": "Senior Infrastructure Technology Support Specialist",
+      "location": "Rome"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-b0a870a5",
+      "summary": "Agente di Commercio",
+      "location": "Travagliato"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-856307a8",
+      "summary": "Project Manager & ESG Coordinator @ Corneliani spa |  IT & Digital Transformation |  Sustainability",
+      "location": "Mantua"
+    },
+    {
+      "name": "Marco Orlandi",
+      "link": "https://it.linkedin.com/in/marco-orlandi-93a206177",
+      "summary": null,
+      "location": "Greater Verona Metropolitan Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-04T00:00:00Z"
+  }
+}

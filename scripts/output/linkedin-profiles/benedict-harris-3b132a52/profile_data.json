@@ -1,0 +1,674 @@
+{
+  "public_identifier": "benedict-harris-3b132a52",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b3edc2822ef0f24012513f71beb4710f",
+  "background_cover_image_url": null,
+  "first_name": "Benedict",
+  "last_name": "Harris",
+  "full_name": "Benedict Harris",
+  "follower_count": 466,
+  "occupation": "Managing Director & Shareholder at TRACTOR MEDIA HOLDINGS",
+  "headline": "Group COO & Shareholder",
+  "summary": null,
+  "location_str": "City of Cape Town, Western Cape, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Cape Town",
+  "state": "Western Cape",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "TRACTOR MEDIA HOLDINGS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-media-holdings",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director & Shareholder",
+      "description": null,
+      "location": "South Africa",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "Primedia Out Of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/primedia-outofhome",
+      "company_facebook_profile_url": null,
+      "title": "Senior National Development Manager",
+      "description": "Duties and responsibilities -\tIdentifying potential advertising sites -\tNegotiating and securing of new outdoor sites and media space -\tNegotiating with Councils/Municipalities for tenders and advertising rights -\tNegotiating and renewing existing rights at profitable standards to ensure best profits -\tCompiling of tender documents and proposals -\tManaging of development team -\tMonthly MANCO and board reports -\tOverseeing and management of national projects and company objectives",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/812aaa6a9a9d3090410524f078b4e5a9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Development Director",
+      "description": "Duties and responsibilities •\tTractor Outdoor -\tIdentifying potential advertising sites -\tNegotiating and securing of new outdoor sites and media space -\tPreparing and submitting of Applications for potential sites -\tNegotiating with media buyers, brokers, agencies etc for the booking and sales of advertising sites/media space -\tManaging the maintenance of our advertising sites -\tManaging of staff (All production, sales and operations) -\tDevelopment of new sites (Managing of Town Planners, Contractors and Legal Advisors) -\tManaging all landlords on a monthly basis -\tMaintaining Client Relations -\tPreparing and sending out of Monthly Management Reports -\tCapturing and running of all secured advertising contracts -\tMonthly billing reports •\tFusion Property Ventures -\tIdentifying property for investment -\tFinancial Analysis -\tNegotiating the acquisition of the properties -\tPlanning and Managing of contractors for each development -\tOverseeing property maintenance -\tSourcing and securing tenants for properties -\tManaging and collecting rent from tenants",
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2006
+      },
+      "company": "Indigo Properties",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Portfolio Manager",
+      "description": "Duties and responsibilities -\tProject management -\tTenant procurement -\tTenant and rental agent liaison -\tRental collections -\tManaging gambling slot machines -\tCash management and balancing of slot machines -\tMonitoring of gaming staff -\tOverseeing property maintenance -\tMarketing and promoting of TOBM -\tManaging employees -\tManaging TOBM",
+      "location": "Cape Town Area, South Africa",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Marketing and Management Science",
+      "degree_name": "Bachelor of Commerce (B.Com.)",
+      "school": "IMM GSM",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Camps Bay High School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Afrikaans"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Afrikaans",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "New digital billboards for Tractor Outdoor",
+      "description": null,
+      "url": "http://www.bizcommunity.com/PressOffice/PressRelease.aspx?i=167604&ai=161188"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Tractor Outdoor announces the upcoming release of four new digital builds",
+      "description": null,
+      "url": "https://www.bizcommunity.com/Article/196/70/194430.html"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Tractor Outdoor expands their digital network nationally",
+      "description": null,
+      "url": "https://www.bizcommunity.com/PressOffice/PressRelease.aspx?i=167604&ai=181031"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Tractor Outdoor rolls out largest Western Cape digital sign",
+      "description": null,
+      "url": "https://www.bizcommunity.com/PressOffice/PressRelease.aspx?i=167604&ai=182200"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 450,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jacquesgroenewald",
+      "name": "Jacques Groenewald",
+      "summary": "AI Solutions Expert | Transforming Operations, Marketing & Sales | Driving Business Growth with Cutting-Edge Technology",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remidupreez",
+      "name": "Remi Du Preez",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caren-laubscher",
+      "name": "Caren Laubscher",
+      "summary": "Advertising | Graphic Design | Print Production | Media Buying | Branding through expert solutions",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewsmithcpt",
+      "name": "Andrew Smith",
+      "summary": "Strategic and Commercial Partnership development: V&A Waterfront | Passionate about youth development and sustainability",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jcbooysen",
+      "name": "Mike Booysen",
+      "summary": "Director",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-martin",
+      "name": "Tyron Martin",
+      "summary": "Sales Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexkabalin",
+      "name": "Alex Kabalin",
+      "summary": "Retail Executive: Driving Stakeholder Success in Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-avnit",
+      "name": "Robin Avnit",
+      "summary": "Video Editor and Videographer",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tannerrock",
+      "name": "Tanner Rock",
+      "summary": "Commercial Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanyaweiner",
+      "name": "Tanya Weiner",
+      "summary": "Digital Marketing Account Manager",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgemoolman",
+      "name": "George Moolman (Dip ESA)",
+      "summary": "Transforming Precincts into Global Destinations through Events, Partnerships & Destination Strategy as well as Commercial Growth",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ina-warren-a25562261",
+      "name": "Ina Warren",
+      "summary": "Marketing Manager",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-van-der-merwe-41236427a",
+      "name": "Andre Van Der Merwe",
+      "summary": "Director at Fanda Services Pty Ltd",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/realtyexecs",
+      "name": "Realty Execs",
+      "summary": "Real Estate Specialist at Realty Execs",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanierafferty",
+      "name": "Stephanie Rafferty",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-wall",
+      "name": "Simon Wall",
+      "summary": "Building Africa’s most intelligent media network | Tractor Outdoor | Innovocean | Polygon | BMT | ignis | Mischief Media | AI × DOOH | Founder",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-anthony-hayward",
+      "name": "Brian Hayward",
+      "summary": "From #goodnews content development and strategy, to reputation management and crisis communications. Welcome to storytelling that matters.",
+      "location": "Port Elizabeth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seymone-modak",
+      "name": "Seymone Modak",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carol-weaving-9004394",
+      "name": "Carol Weaving",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-bird-20629b15",
+      "name": "Kevin Bird",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ettiene-van-den-berg-cm-sa-43612118",
+      "name": "Ettiene van den Berg CM(SA)",
+      "summary": "Managing Director",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-swanepoel-aab30418",
+      "name": "Tyron Swanepoel",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerschwin-laith-saul-4b788118",
+      "name": "Gerschwin Laith Saul",
+      "summary": "Director, Virtus Interiors",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessicarosemcendoo",
+      "name": "Jessica Rose McEndoo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabi-cohen-744a971a",
+      "name": "GABI COHEN",
+      "summary": "ליווי עסקים להצלחה",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadine-carpenter-3753091b",
+      "name": "Nadine Carpenter",
+      "summary": "Director at The Blue Bottle Group",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antony-urbaniak-7203731b",
+      "name": "Antony Urbaniak",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shakeel-kaskar-87709420",
+      "name": "Shakeel Kaskar",
+      "summary": "Owner, L@itude Trading",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-lloyd-b6068624",
+      "name": "Graham Lloyd",
+      "summary": "Owner @ Infinitive Marketing |",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dallas-glover-77310125",
+      "name": "Dallas Glover",
+      "summary": "MD, CMO & CSO",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-stevens-17317325",
+      "name": "Andrew Stevens",
+      "summary": "Innovating Out of Home advertising",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genna-galloway-44001628",
+      "name": "Genna Galloway",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/debbie-dirker-99764232",
+      "name": "Debbie Dirker",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-matterson-a8903336",
+      "name": "Charles Matterson - Managing Director",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dewald-daniels-84223a36",
+      "name": "Dewald Daniels",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajaz-sajanlal-7a331a39",
+      "name": "ajaz sajanlal",
+      "summary": null,
+      "location": "Germantown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craigmunitz",
+      "name": "Craig Munitz",
+      "summary": "Senior Executive at CBR Marketing Solutions",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francois-watson-a3ab4745",
+      "name": "Francois Watson",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denielleraman",
+      "name": "Denielle Naidoo",
+      "summary": "Brand Manager at Mr Price Group (Sheet Street Division)",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-brits-a4025748",
+      "name": "Michael Brits",
+      "summary": "Head of Development | Tractor Outdoor",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neill-adams-9b559650",
+      "name": "Neill Adams",
+      "summary": "Senior Accountant at GraphicMail",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-fisher-4b395150",
+      "name": "Brad Fisher",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacques-malan-274a4252",
+      "name": "Jacques Malan",
+      "summary": "Managing Director",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-wood-7a52b056",
+      "name": "Liam Wood",
+      "summary": "Company Owner at Cape Town Surfing | CT Surf Adv |  Yeti Shapes | Coffee Counter | WP Surfing Coach | WP Surfing President | SA Team Coach 2024 | Cape Town Surf Assist NPO",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamalynn-september-97530956",
+      "name": "Tamalynn September",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyle-metz-3a890858",
+      "name": "Kyle Metz",
+      "summary": "Managing Director at Crata",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-ferus-b82b3a64",
+      "name": "Patrick Ferus",
+      "summary": "Entrepreneur at PFerus",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hlubelihle-radebe-b189ab65",
+      "name": "Hlubelihle Radebe",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-johnson-b951a774",
+      "name": "Brian Johnson",
+      "summary": "One constant remains; be prepared, be true, be courageous, have a little fun and success will find you.",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeran-heritage-a4818689",
+      "name": "Jeran Heritage",
+      "summary": "Human at Earth",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christiaan-pretorius-498b4791",
+      "name": "Christiaan Pretorius",
+      "summary": "Sales Manager at Netcad",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-wilkinson-07ab6396",
+      "name": "Richard Wilkinson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jannie-blignaut-b89106a3",
+      "name": "Jannie Blignaut",
+      "summary": "Regional Marketing and Sales Manager at PANNAR SEED",
+      "location": "Klerksdorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rishi-mahajan-483a46a8",
+      "name": "Rishi Mahajan",
+      "summary": "GM Wellness at VLCC Health Care Ltd.",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-gettliffe-669824b1",
+      "name": "Craig Gettliffe",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasheen-sukdeo-137527b5",
+      "name": "Sasheen Sukdeo",
+      "summary": "Head of Ecommerce",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nixjones",
+      "name": "Nicole Jones",
+      "summary": "FIFA-certified, award-winning strategist helping brands tell the big stories, land the big punches, meet the big expectations, and feel the big love.",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurence-nyoni-3149ba129",
+      "name": "Laurence Nyoni",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-bothma-a6a366150",
+      "name": "Stephan Bothma",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/abrie-dreyer-421b5b157",
+      "name": "Abrie Dreyer",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisa-bermudez-6b654216b",
+      "name": "luisa bermudez",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-labuschagne-bb9599179",
+      "name": "Kim Labuschagne",
+      "summary": "Exclusive OOH media owners for V&A Waterfront, Cape Town, South Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guy-browning-2599b7206",
+      "name": "Guy Browning",
+      "summary": null,
+      "location": "Jávea"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "We are extremely lucky to have you with us Sam!!!",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_glynt-appoints-sam-locke-as-chief-people-activity-7341537888087564288-lg4_",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic article Mali Motsumi-Garrido . We need to constantly find ways to deliver to all our highly valued clients. onwards and upwards!!!",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_open-letter-to-the-media-industry-load-shedding-activity-7092563220044931072-Kpkw",
+      "activity_status": null
+    },
+    {
+      "title": "Been so many learnings along the way but so happy with what's to come with our entire network",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_been-so-many-learnings-along-the-way-but-activity-7092561921748402178-t1n_",
+      "activity_status": null
+    },
+    {
+      "title": "more of this please...",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_more-of-this-please-activity-7072279540206583808-318s",
+      "activity_status": null
+    },
+    {
+      "title": "Your post says it all Simon Wall . I just want to reiterate the thanks to everyone for making this possible. I am truly grateful and excited for what…",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_hlayisani-capital-owned-by-dr-reuel-khoza-activity-6990272588753055744-vZaD",
+      "activity_status": null
+    },
+    {
+      "title": "This has been a 6 year journey where not only has our business benefitted but I can personally say I have had the pleasure to get to know Antony and…",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_this-has-been-a-6-year-journey-where-not-activity-6993564522024185856-1FMQ",
+      "activity_status": null
+    },
+    {
+      "title": "we are so very proud to be able to even try and make a difference!!!",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_need-for-speed-tractor-outdoor-partners-activity-6940718451615268864-m6RG",
+      "activity_status": null
+    },
+    {
+      "title": "One of the proudest moments in my career to date. It's a privelage and honor to work with the highly talented team at Reveel and together we are…",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_innovocean-wins-exclusive-advertising-rights-activity-6869613373609254912-FWOy",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_digital-project-deepscreen-activity-6930509415502471168-3Ni8",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/benedict-harris-3b132a52_why-google-netflix-and-microsoft-believe-activity-6565999737336590336-PG8B",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Benedict Harris",
+      "link": "https://uk.linkedin.com/in/benedict-harris-2277b11a1",
+      "summary": "Geology PhD Candidate at the University of Edinburgh",
+      "location": "Edinburgh"
+    },
+    {
+      "name": "Benedict Sharrock-Harris",
+      "link": "https://uk.linkedin.com/in/benedict-sharrock-harris-78a7915a",
+      "summary": "Solicitor at Russells Solicitors",
+      "location": "Poplar"
+    },
+    {
+      "name": "Benedict Harris-Hayes",
+      "link": "https://uk.linkedin.com/in/bhhaudiobrighton",
+      "summary": "Award-winning Composer/Sound Designer/Audio Creative",
+      "location": "Eastbourne"
+    },
+    {
+      "name": "Benedict Harris",
+      "link": "https://de.linkedin.com/in/benedictmusic",
+      "summary": "Benedict Music. Composer, Sound Designer and App developer",
+      "location": "Berlin Metropolitan Area"
+    },
+    {
+      "name": "Percy Benedict Harris",
+      "link": "https://www.linkedin.com/in/percy-benedict-harris-31754225",
+      "summary": "Derivatives Associate (Global Capital Markets)",
+      "location": "Smyrna, DE"
+    },
+    {
+      "name": "Benedict Harris",
+      "link": "https://uk.linkedin.com/in/benedictharris3d",
+      "summary": "Student currently studying Games Design at Staffordshire University and self-taught 3D artist. Specialises in mechanics design with a passion for creating and developing unique ideas.",
+      "location": "Stroud"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-11-19T00:00:00Z"
+  }
+}

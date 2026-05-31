@@ -1,0 +1,339 @@
+{
+  "public_identifier": "david-strnad-b60202168",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/f3882d8a07de90d6b8138f72e2baa380",
+  "background_cover_image_url": null,
+  "first_name": "David",
+  "last_name": "Strnad",
+  "full_name": "David Strnad",
+  "follower_count": 24,
+  "occupation": "Chief Product Owner, Ipsos OOH at Ipsos",
+  "headline": "Chief Product Owner, Ipsos OOH",
+  "summary": null,
+  "location_str": "Hlavní město Praha, Česko",
+  "country": "CZ",
+  "country_full_name": "Czech Republic",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Ipsos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ipsos",
+      "company_facebook_profile_url": null,
+      "title": "Chief Product Owner, Ipsos OOH",
+      "description": null,
+      "location": "Prague, Czechia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2206f68123351d8c3dda0c0a8155fd22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2022
+      },
+      "company": "MGEDATA spol. s r.o.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Prague, Czechia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "company": "KAP spol.s r.o.,",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director, IT and Modelling",
+      "description": null,
+      "location": "Prague, Czechia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 1994
+      },
+      "company": "KAP spol.s r.o.,",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Researcher, Digital Mapping and Modelling",
+      "description": null,
+      "location": "Prague, Czechia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 1991
+      },
+      "company": "Charles University Innovations Prague",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cuipcz",
+      "company_facebook_profile_url": null,
+      "title": "Postdoctoral Researcher",
+      "description": null,
+      "location": "Prague, Czechia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a8a16e4eeda311f31ce174a0efba8353"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1988
+      },
+      "field_of_study": "Geology/Earth Science, General",
+      "degree_name": "Master of Science - MS",
+      "school": "Charles University in Prague",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/univerzita-karlova",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9f88f9fe426dff865039d6a1bd399885",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 19,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/katemeiyinghuang",
+      "name": "Kate Huang",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tobyayre",
+      "name": "Toby Ayre",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aurimas-saulytis",
+      "name": "Aurimas Saulytis",
+      "summary": "Commercial Manager Baltic States at NielsenIQ",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-cochrane",
+      "name": "kate cochrane",
+      "summary": "Communications and marketing expert",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zotter",
+      "name": "E. David Zotter",
+      "summary": "Global CTO @ Ipsos | Global Chief Technology Officer",
+      "location": "Westport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timfwood",
+      "name": "Dr Tim F Wood",
+      "summary": "Author",
+      "location": "Hook"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eglekasete",
+      "name": "Eglė Kašėtė",
+      "summary": "Marketing and Communications Manager at Fazer Lietuva",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo-phizacklea",
+      "name": "Jo Phizacklea",
+      "summary": "UK Money Laundering Reporting Officer at Chase UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoeljones",
+      "name": "Zoe Jones",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathanbevan",
+      "name": "Jonathan Bevan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abigail-cunningham-amc",
+      "name": "Abigail Cunningham",
+      "summary": null,
+      "location": "Esher"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrenrlong",
+      "name": "Darren Long",
+      "summary": "Director ♦ Production, Operations & Transformation Expert ➤ SME: Media & Technology ♦ 🚀 Available for new opportunities from September 2024 📩",
+      "location": "High Wycombe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danwcm",
+      "name": "Daniel Wong-Chi-Man",
+      "summary": "Global Service Line Leader, Audience Measurement",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-gale-b10927",
+      "name": "Sarah Gale",
+      "summary": null,
+      "location": "Amersham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-newman-0491518",
+      "name": "Emma Newman",
+      "summary": "CRO EMEA |  Sustainability Leader | Digital Subject Matter Expert | International Business Leader | Driver of Commercial Change | Customer First",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-lloyd-76819a8",
+      "name": "Kevin Lloyd",
+      "summary": "Infrastructure supply at EUROPEAN TYRE ENTERPRISE LIMITED",
+      "location": "Hemel Hempstead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zakia-benniss-33508514",
+      "name": "Zakia Benniss",
+      "summary": "Head of Partnerships & Business Development MENA West at British Council",
+      "location": "Casablanca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-sophie-belin-27727722",
+      "name": "Anne-Sophie BELIN",
+      "summary": "Directrice commerciale Grands Comptes",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edita-asakavi%25c4%258dien%25c4%2597-80457470",
+      "name": "Edita Asakavičienė",
+      "summary": "NielsenIQ•531 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-mclelland-3aa19879",
+      "name": "Chris Mclelland",
+      "summary": "Portfolio Partnership Manager South at Bauer Media Outdoor UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-scholes-9055449a",
+      "name": "Laura Scholes",
+      "summary": "Senior Development Manager - Urban Vision",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-eddleston",
+      "name": "Neil Eddleston",
+      "summary": null,
+      "location": "Wantage"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Great to see that our Outdoor Impact 2.0 launch in the Baltics is generating buzz! 📢 Turundajate Liit / Estonian Marketing Association just…",
+      "link": "https://www.linkedin.com/posts/david-strnad-b60202168_uuringufirma-ipsos-esitles-kultuurikatlas-activity-7254414140490842113-m16F",
+      "activity_status": null
+    },
+    {
+      "title": "Ipsos OOH breaking new ground in the Baltics! 🚀 Great to spend time with clients in Riga, Tallinn, and Vilnius, exploring the future of OOH…",
+      "link": "https://www.linkedin.com/posts/david-strnad-b60202168_outdoorimpact2-crossmarketmeasurement-activity-7247902022123806720-4EsJ",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "David Strnad",
+      "link": "https://cz.linkedin.com/in/david-strnad-9a173a168",
+      "summary": "Sales Executive at C.H. Robinson. I help companies to find the most efficient manner to move their goods consistently.",
+      "location": "Prague, Czechia"
+    },
+    {
+      "name": "David Strnad",
+      "link": "https://cz.linkedin.com/in/davidstrnad",
+      "summary": "Analyst at Česká spořitelna",
+      "location": "Prague, Czechia"
+    },
+    {
+      "name": "David Strnad",
+      "link": "https://cz.linkedin.com/in/david-strnad-b3b851b7",
+      "summary": "Manazer ve společnosti ŠKODA AUTO a.s.",
+      "location": "Mladá Boleslav"
+    },
+    {
+      "name": "David Strnad",
+      "link": "https://www.linkedin.com/in/david-d-strnad",
+      "summary": "Controller / Accounting Specialist",
+      "location": "Dallas-Fort Worth Metroplex"
+    },
+    {
+      "name": "David Strnad",
+      "link": "https://cz.linkedin.com/in/david-strnad-01700335",
+      "summary": "IT Project & Program manager",
+      "location": "Prague, Czechia"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-25T00:00:00Z"
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "public_identifier": "andrea-weiss-61a3a645",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/58ab81e15ac82b774bb8b35202e5f5bc",
+  "background_cover_image_url": null,
+  "first_name": "Andrea",
+  "last_name": "Weiss",
+  "full_name": "Andrea Weiss",
+  "follower_count": 3001,
+  "occupation": "CEO at ABOOH - Associação Brasileira de Out of Home",
+  "headline": "Executiva do setor de OOH | Top 100 Gestores de 2022 | Especialista em Mídia e Inovação | Empreendedora | Analista de Investimentos",
+  "summary": "Com 24 anos de atuação no mercado publicitário, pós-graduada em Investimentos e Finanças, desenvolvi minha carreira como mídia em grandes agências, em posições de diretoria na Fischer e DM9, e como Head de Mídia na Heads e W3haus. Na minha trajetória, agilidade, determinação e foco são características de destaque. Fui reconhecida por trazer inovação, modernidade e resultados comprovados para planejamentos de campanhas.<br><br>Atualmente, atuo como Diretora Executiva da ABOOH, com o desafio de fortalecer a conexão entre os associados, ampliar sua atuação na indústria de comunicação e democratizar o acesso à novas tecnologias, dados e métricas.<br>",
+  "location_str": "Vitória Brasil, São Paulo, Brazil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "Monte Alegre do Sul",
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "ABOOH - Associação Brasileira de Out of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abooh",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/89cb24f8b5216e6e816f7e94205656cd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2021
+      },
+      "company": "SVN Investimentos - Escritório Credenciado à XP Investimentos",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/svn-investimentos",
+      "company_facebook_profile_url": null,
+      "title": "Assessora de investimentos",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fde41ba25e6f9d94941e791b9a5f1907"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2020
+      },
+      "company": "W3haus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/w3haus",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Media",
+      "description": null,
+      "location": "São Paulo, Brasil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/995ac30a2c473a2912ff64e77a4794ba"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "Heads Propaganda",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/heads-propaganda",
+      "company_facebook_profile_url": null,
+      "title": "Diretora Nacional de Mídia",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/849fddf0172aa952beda0e47ff4dbcc6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2019
+      },
+      "company": "SunsetDDB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sunsetddb",
+      "company_facebook_profile_url": null,
+      "title": "Diretora de Mídia",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f25de777dbc5fd6985a22fb6aa7ba8e6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "company": "Agência Fischer",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fischer%26friends",
+      "company_facebook_profile_url": null,
+      "title": "Diretora de Midia",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bc7a692ff244c6890840cb9c53e8f1d9"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": "Publicidade e Propaganda",
+      "degree_name": "Bacharel",
+      "school": "Fundação Armando Alvares Penteado",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/nafaap",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Investimentos Financeiros",
+      "degree_name": "MBA Broker Global",
+      "school": "Ibmec",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ibmec",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Investimentos",
+      "degree_name": "MBA",
+      "school": "Xpeed",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2711,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/luiz-sanches",
+      "name": "Luiz Sanches",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiagomacena",
+      "name": "Tiago Macena",
+      "summary": "Proprietário na maro",
+      "location": "Recife"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigopicolo-marketing",
+      "name": "Rodrigo Picolo",
+      "summary": null,
+      "location": "São José do Rio Preto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lpacete",
+      "name": "Pacete .",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valpacheco",
+      "name": "Val Pacheco",
+      "summary": "Diretora de Criação na Mutato | Co-criadora de conteúdo | MKT de Performance e Influência ✍️",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caiodec",
+      "name": "Caio Campos",
+      "summary": "Art Director | Ux Designer",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marciarlima",
+      "name": "Marcia Lima",
+      "summary": "Jornalista especializada em comunicação corporativa e assessoria de imprensa. Diretora na TEM Comunicação",
+      "location": "Cotia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandrodbarbosa",
+      "name": "Sandro Dória Barbosa",
+      "summary": "Publicidade | Estratégias Digitais | Marketing",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-kallas-oficial",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-schiavini",
+      "name": "Rodrigo Schiavini",
+      "summary": "Diretor de Personalização Luizalabs",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-vogela",
+      "name": "Melissa Vogel",
+      "summary": "CEO | Managing Director | Market Research | Media | Advertising | Marketing",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franksantos",
+      "name": "Frank Santos",
+      "summary": "Head of Digital na ICARO™ Media Group | Top 100 Gestores do Mercado Publicitário Brasil 2025/2026",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-cesar-queiroz-pq",
+      "name": "Paulo Cesar Queiroz",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandroverissimo",
+      "name": "Leandro Veríssimo",
+      "summary": "Co-Owner Shopper Action Brazil | Strategist | Brand, Marketing, Communication and Content for People and Business",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulostephan",
+      "name": "Paulo Stephan",
+      "summary": "sócio-diretor da Integral, Niccoli & Stephan",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amirsomoggi",
+      "name": "Amir Somoggi",
+      "summary": "Managing Director at Sports Value",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/glbenz",
+      "name": "Gabriel Benz",
+      "summary": "COO @ Wine.com.mx | E-commerce, Subscription & New Business Management",
+      "location": "Vitória"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigomissagia",
+      "name": "Rodrigo Missagia Hulle",
+      "summary": "Founder & CEO @ Tegrus",
+      "location": "Vila Velha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreanano",
+      "name": "Andréa Nanó",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/salomaojr",
+      "name": "Salomão Batista Rodrigues Junior, MBA",
+      "summary": "Vice-presidente de vendas - Latam",
+      "location": "Américo Brasiliense"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-munaldi",
+      "name": "Juliana Munaldi Marinato",
+      "summary": "Head de CRM e Omnicanalidade da Arezzo&Co",
+      "location": "Novo Hamburgo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vivarela",
+      "name": "Vicente Varela",
+      "summary": "CDMO/CGBO / Growth Business / Senior Executive/ Data / Media / Operations /@sbtista & Angel Investor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucioschneider",
+      "name": "Lucio Schneider",
+      "summary": "Chief Marketing Officer na Eletromidia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/renatasena",
+      "name": "Renata Sena",
+      "summary": "Online e Offline Media Strategy & Planning | Comms planning strategy | Brand Awareness and performance | Audience insights | Data driven",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/keisyandrade",
+      "name": "Keisy Andrade",
+      "summary": "Executiva de Novos Negócios na LinkToU",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/orodrigomiranda",
+      "name": "Rodrigo Miranda",
+      "summary": "Forbes Under 30 | Founder @ Zaitt & Americanas Delivery | Board Member",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/delenbueno",
+      "name": "Delen Bueno Paques",
+      "summary": "Diretor Comercial Regionais e Relacionamento com o Mercado na NEOOH | Idealizador do Amigos do Mercado | Palestrante | Jurado do Effie Awards 2022/23",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giomannato",
+      "name": "Giovanna Mannato Angius",
+      "summary": "--",
+      "location": "Vitória"
+    },
+    {
+      "link": "https://www.linkedin.com/in/talita-melo-661a6482",
+      "name": "Talita  Melo",
+      "summary": "Coordenadora de Mídia Acesso OOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-%25C3%25A1vila-2299ba24",
+      "name": "Alex Ávila",
+      "summary": "Marketplace Manager B2B|B2C",
+      "location": "Uberlândia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denisegon%25C3%25A7alvesteixeira",
+      "name": "Denise Gonçalves Teixeira",
+      "summary": "Advogada",
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mar%25C3%25ADlia-ribeiro-347a349a",
+      "name": "Marília Ribeiro",
+      "summary": "Head de Inteligência de Mercado & Customer Experience",
+      "location": "Vitória"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heitor-pontes",
+      "name": "Heitor Pontes",
+      "summary": "CSO | Sales Director | AD Sales | Business Development | Marketing | Digital | Membro do Conselho do Grupo de Mídia de São Paulo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/murilo-da-costa-cx-specialist",
+      "name": "Murilo da Costa",
+      "summary": "Chief Revenue Officer (CRO)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuri-berezovoy",
+      "name": "Yuri Berezovoy",
+      "summary": "Know-how and best-in-class ad-tech for planning and execution of digital-out-of-home (DOOH) networks.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-batista",
+      "name": "Alessandro Batista",
+      "summary": "Executivo de Carreira | LED como Business | Digitalização da Mídias para Varejo | DOOH | Nova Experiência do Consumidor para além de painéis eletrônicos de LED",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcofrade13",
+      "name": "Marco Frade",
+      "summary": "Diretor, Mentor e Executor",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-douek",
+      "name": "Marcelo Douek",
+      "summary": "CEO @ Social Docs | Usando o poder das histórias para acelerar a transformação socioambiental | Storytelling | Impacto Social | Marketing de Causas | Sustentabilidade",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-vargas-12812921",
+      "name": "Ricardo Vargas",
+      "summary": "Sócio Diretor at Soul Trade Marketing S/A",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-ferreira-91738721",
+      "name": "Jeff Ferreira",
+      "summary": "Ad Sales Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frednviante",
+      "name": "Frederico Naspolini Viante",
+      "summary": null,
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabia-juliasz-084a9022",
+      "name": "fabia juliasz",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-ricardo-canevari-4a723929",
+      "name": "Paulo Ricardo Canevari",
+      "summary": "Helloo Mídia•1K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luiz-augusto-vergueiro-12831529",
+      "name": "Luiz Augusto Vergueiro",
+      "summary": "Diretor Sênior de Operações Logísticas no Mercado Livre",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-fachim-18a50b29",
+      "name": "Renato Fachim",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariana-pucca-45612a2b",
+      "name": "Mariana Pucca",
+      "summary": "Diretora Comercial na We Super OOH",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/regina-bucco-9038a230",
+      "name": "Regina Bucco",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/poliana-winiarski-25827231",
+      "name": "Poliana Winiarski",
+      "summary": null,
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cajumendes",
+      "name": "Carlos Mendes Junior",
+      "summary": "Gerente comercial na Rádio Disney Brasil | Gestão Comercial de publicidade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-piquini",
+      "name": "Jessica Piquini",
+      "summary": "Líder em Mídia Programática & Estratégia Omnichannel | VP Comitê IAB DOOH 2024",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcio-lino-gon%25C3%25A7alves-66722a32",
+      "name": "Marcio Lino Gonçalves",
+      "summary": "Mercado imobiliário - Negociador | Escodelar Inteligência Imobiliária",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriela-dib-83a3a832",
+      "name": "Gabriela Dib",
+      "summary": "Agency Partner Manager at TikTok",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kadu-souza",
+      "name": "Kadu Souza",
+      "summary": "Partner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rcunha21",
+      "name": "Raphael Cunha",
+      "summary": "Diretor de Mídia na Dentsu",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-orlando-17ab6332",
+      "name": "Alice Orlando",
+      "summary": "Consultoria estratégia desenvolvimento em Mídia.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-vassallo-7023a533",
+      "name": "Claudia Vassallo",
+      "summary": "Sócia --  NOVA PR",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jpgusmao",
+      "name": "João Pedro Buarque de Gusmão",
+      "summary": "Account Director | Marketing | Live Marketing | Games | Esports | Advertising",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vit%25c3%25b3ria-cristina-araujo-lima-80a67233",
+      "name": "Vitória Cristina Araujo Lima",
+      "summary": "Atendimento | Analista de Marketing Digital Júnior | Google, Facebook e Instagram Ads",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renata-vasconcelos-5b385a33",
+      "name": "Renata Vasconcelos",
+      "summary": "Media Manager at Ogilvy",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/betania-aragao-1a5a5333",
+      "name": "betania aragao",
+      "summary": "Head da Área Comercial Helloo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavowright",
+      "name": "Gustavo Wright",
+      "summary": "Publicitário I Especialista em Mídia 360 I Estrategista Mídia, Dados e Performance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luiza-camara-valente-a250703a",
+      "name": "Luiza Camara Valente",
+      "summary": "Media VP",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-monteiro-98103546",
+      "name": "Allan Monteiro",
+      "summary": "VP Brazil - Country Lead",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-grecco",
+      "name": "Guilherme Grecco",
+      "summary": "Gerente de Marketing Sênior na Via",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erivelto-camiletti-a2259b4a",
+      "name": "Erivelto Camiletti",
+      "summary": "Key Account - ITABUS Publicidade em Movimento",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosana-netto-40a92351",
+      "name": "Rosana Netto",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatiana-dejavite-53901755",
+      "name": "Tatiana Dejavite",
+      "summary": "Media and Communications Strategist",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauricio-b-de-almeida-a899965a",
+      "name": "Mauricio B. de Almeida",
+      "summary": "Managing Director @ We - Caboré 2020 | Cannes Lions 2022 Media Juror",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-tobal-junior",
+      "name": "Miguel Tobal Junior",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreia-abud-aba38964",
+      "name": "Andreia Abud",
+      "summary": "Vp de  Midia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauro-chemale-8013b566",
+      "name": "Mauro Chemale",
+      "summary": "Grupo Kallas OOH•2K followers",
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-celia-biondi-rodriguez-86259666",
+      "name": "Ana Celia Biondi Rodriguez",
+      "summary": "Diretora Geral JCDecaux do Brasil | Conselheira do Cenp | Conselheira ABOOH | Vice-Presidente de Comunicação CCIFB",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/filipe-bartholomeu-55536a6b",
+      "name": "Filipe Bartholomeu",
+      "summary": "Presidente & CEO na AlmapBBDO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-rodrigues-5a226094",
+      "name": "Mario Rodrigues",
+      "summary": "CEO da Frete Rápido",
+      "location": "Baixo Guandu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilaacarneiro",
+      "name": "Camila Carneiro",
+      "summary": "Media Planner / Marketing Planner / Inteligência de Dados",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anapaula-alencar",
+      "name": "Ana Paula Alencar",
+      "summary": "Gerente de Mídia | Especialista de Mídia | Comunicação | Marketing | Planejamento Estratégico | Mídias Multiplataformas | Gestão de Pessoas e Negócios",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcello-cesario-0289979b",
+      "name": "Marcello Cesario",
+      "summary": "MOBILE ADS/ PAY TV / TV/ RÁDIO / DIGITAL / DOOH / EVENTOS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brust-carlos",
+      "name": "BRUST, Carlos",
+      "summary": "Monster OOH | DOOH | PDOOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-badra-9a4926b9",
+      "name": "Paulo Badra",
+      "summary": "COO - Chief Operating Officer na Eletromidia",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandreguerreroeletromidia",
+      "name": "Alexandre Guerrero",
+      "summary": "CEO na Eletromidia | Membro do Conselho Consultivo (CpCon) da ESPM | Conselheiro Executivo da IAB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-barsotti-b40444131",
+      "name": "Alexandre Barsotti",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ednilson-brandao-050823139",
+      "name": "Ednilson Brandao",
+      "summary": "Founder & CEO in QualitySP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonardo-menezes-906a69139",
+      "name": "Leonardo Menezes",
+      "summary": "Executivo de Negócios Digitais Autos & Energia na Globo - Media 360° | Digital Marketing & Strategy | Creators Economy | Digital Culture | Community Marketing | Black Inclusion & Diversity",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michele-oliveira-8a721518a",
+      "name": "Michele Oliveira",
+      "summary": "Publicitária | Rede Outdoor | Mídia OOH | Prospectora de resultados para clientes.",
+      "location": "Maringá"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcus-buaiz-9a7871199",
+      "name": "Marcus Buaiz",
+      "summary": "Sócio e Presidente do Conselho na Spark. A Fluvip Company",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vic-weng-%25EF%25BC%2588digital-signage-manufacturer%25EF%25BC%2589-24030820b",
+      "name": "Vic Weng  （Digital Signage Manufacturer）",
+      "summary": "ODM/OEM Factory with 17 Years of Experience, Specializing in Indoor/Outdoor Digital Signage, Interactive Kiosks, 3D Holographic Displays, and Window Advertising Displays. victeklcd.com WhatsApp: +86 178 1968 0824",
+      "location": "Shenzhen"
+    }
+  ],
+  "recommendations": [
+    "Frank Santos\n\nA Andrea é uma excelente profissional, uma das melhores Midias com quem já trabalhei, sabe conduzir uma equipe mantendo-os sempre motivados.Simpática, mesmo nos momentos mais difíceis ela consegue manter a calma e procura sempre a melhor solução para o problema.Contar com a Andréia no time e certeza de sucesso coletivo.",
+    "luciana paiato\n\nA Andrea é excelente !!! Uma profissional impecável e um ser humano generoso. Tem muita habilidade na liderança e seu equilíbrio é impressionante na condução de questões complexas. Muita gratidão por tê-la na minha jornada."
+  ],
+  "activities": [
+    {
+      "title": "As pessoas normalmente enxergam apenas o momento final. O evento pronto. O lançamento acontecendo. O palco montado. O material publicado. A notícia…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_ooh-dooh-comunicação-activity-7457942110785138689-Z1Tb",
+      "activity_status": null
+    },
+    {
+      "title": "Encerramos mais uma turma do curso de Formação em Mídia OOH, e que jornada incrível foi essa!!!! Foram semanas de troca intensa, discussões…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_encerramos-mais-uma-turma-do-curso-de-formação-activity-7442198719611158528-Qnjf",
+      "activity_status": null
+    },
+    {
+      "title": "Dias atrás, falei aqui sobre a importância de estreitarmos a relação com entidades institucionais. Parcerias, presença e colaboração não são apenas…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_liderança-mulheresementidades-confrariademulheresdirigentes-activity-7391809088487231488--Xsq",
+      "activity_status": null
+    },
+    {
+      "title": "O Curso Avançado de Mídia OOH, uma iniciativa da ABOOH em parceria com a ESPM, está a mil por hora, e com a sala completa de alunos, presencial e…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_abooh-espm-mídiaooh-activity-7391814001569071104-uzyD",
+      "activity_status": null
+    },
+    {
+      "title": "Falar sobre mídia OOH é prazeroso, mas encontrar pessoas com o mesmo propósito é ainda melhor. Nossos eventos são preenchidos de conversa boa, troca…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_associados-encontrospresenciais-conexões-activity-7386576582846517248-gyvq",
+      "activity_status": null
+    },
+    {
+      "title": "Nesta semana, tivemos a honra de apoiar a ACM DOOH no lançamento oficial da entidade em Fortaleza (https://lnkd.in/dce9a9uT), reforçando a…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_ooh-dooh-comunicacao-activity-7388972414732316672-1QpP",
+      "activity_status": null
+    },
+    {
+      "title": "Em paralelo ao Dia do Professor, agradeço com carinho os cumprimentos dos nossos alunos do Curso de Formação em Mídia OOH, um dos pilares da Academia…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_compartilharconteudos-conhecimento-criarnovossonhos-activity-7384602625608019968-o9oL",
+      "activity_status": null
+    },
+    {
+      "title": "Dá orgulho e satisfação quando o trabalho conecta pessoas, tendências e transformação. Ao longo de 2025, tivemos duas experiências marcantes dentro…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_ooh-abooh-inovação-activity-7384965141097791488-PeQs",
+      "activity_status": null
+    },
+    {
+      "title": "Ensinar vai além de transmitir conhecimento. Trata-se de compartilhar habilidades, competências, princípios e valores que moldam a forma como alguém…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_ensinar-vai-além-de-transmitir-conhecimento-activity-7315709492032167936-1pCu",
+      "activity_status": null
+    },
+    {
+      "title": "Sensação boa de que uma parte do dever foi cumprido e com muita dedicação (como todo job, mergulhar nele é a melhor receita)! Resultado pra lá de…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_sensa%C3%A7%C3%A3o-boa-de-que-uma-parte-do-dever-foi-activity-7215000326653767684-QVDY",
+      "activity_status": null
+    },
+    {
+      "title": "Quero passar para vocês um pouco do muito trabalho que desenvolvemos em entidades de classe. Eu sempre me envolvi com algumas delas ao longo da minha…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_comunicação-educaçãocontinuada-desenvolvimentoprofissional-activity-7206719380167024640-BN9J",
+      "activity_status": null
+    },
+    {
+      "title": "Um trabalho fundamental para o mercado, com muita organizaÃ§Ã£o, muito conteÃºdo vem atuando na evoluÃ§Ã£o digital, gerando conhecimento e…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_um-trabalho-fundamental-para-o-mercado-com-activity-7097861812653543424-tjjt",
+      "activity_status": null
+    },
+    {
+      "title": "5G: A grande Estrela de 2023 Quando me perguntam qual serÃ¡ a grande tendÃªncia para 2023, a minha aposta Ã© o 5G. De um modo geral, acredito que ele…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_5g-a-grande-estrela-de-2023-quando-me-perguntam-activity-7041895625008762881-_eUZ",
+      "activity_status": null
+    },
+    {
+      "title": "Estamos nos Ãºltimos dias de 2022, foram tantos acontecimentos positivos e nem sempre consegui estar aqui, presente como gostaria. Â Desafios e mais…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_estamos-nos-%C3%BAltimos-dias-de-2022-foram-tantos-activity-7011805921118949376-Pz04",
+      "activity_status": null
+    },
+    {
+      "title": "O #OOH foi um dos setores mais afetados pela pandemia, mas o cenÃ¡rio comeÃ§ou a mudar este ano. Segundo dados do Cenp - FÃ³rum da AutorregulaÃ§Ã£o…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_ooh-activity-7009541623722209280-rofD",
+      "activity_status": null
+    },
+    {
+      "title": "Para esquentar a semana, apresentamos nosso novo site. Mais uma novidade na Abooh, que nÃ£o para nunca! DÃ¡ uma passeadinha por lÃ¡ e me conta o que…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_abooh-site-novo-activity-6958041346225897472-2TWq",
+      "activity_status": null
+    },
+    {
+      "title": "Vejam sÃ³ como as oportunidades nos empurram pra lÃ¡ e pra cÃ¡!!! Dias correm, horas voam e quando nos damos conta o tempo passou. Quero fazer um…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_gest%C3%A3o-oportunidades-abooh-activity-6963833974938849281-6t-x",
+      "activity_status": null
+    },
+    {
+      "title": "#JCDecaux highlights na manhÃ£ da Ãºltima quarta-feira! Uma manhÃ£ muito agradÃ¡vel, num lugar perfeito âSampa Skyâ, para assistir cases do OOH…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_jcdecaux-pdooh-dooh-activity-6963844222424633344-k4-Z",
+      "activity_status": null
+    },
+    {
+      "title": "Chegou o dia super esperado, #DigitalksExpo. Hoje, 24/ago, estou visitando e assistindo painÃ©is sobre Economia Digital e Tecnologia. E amanhÃ£,…",
+      "link": "https://www.linkedin.com/posts/andrea-weiss-61a3a645_digitalksexpo-digitalksexpo-bdrops-activity-6968188185864495104-kgIr",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andrea Weiss",
+      "link": "https://www.linkedin.com/in/andrea-weiss-26ba8658",
+      "summary": "IC/RTV at Bed Bath & Beyond",
+      "location": "Howell Township, NJ"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://it.linkedin.com/in/andrea-weiss",
+      "summary": "I am committed to building business opportunities in the international packaging industry.",
+      "location": "Milão e Região"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://www.linkedin.com/in/andrea-weiss-a13126",
+      "summary": "-",
+      "location": "Orlando"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://www.linkedin.com/in/andrea-weiss-93781317",
+      "summary": "Empowerment and Mindset Coach",
+      "location": "Northfield, NJ"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://de.linkedin.com/in/andrea-weiss-6bba8036",
+      "summary": "Marketing Leitung bei codia Software GmbH",
+      "location": "Rhein-Neckar e Região"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://br.linkedin.com/in/andrea-weiss-98b33145",
+      "summary": "Gerente de Midia na 141 SoHo Square",
+      "location": "São Paulo, SP"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://br.linkedin.com/in/andrea-weiss-77070125a",
+      "summary": "Assistente administrativo na Shanti dermocosméticos",
+      "location": "Foz do Iguaçu, PR"
+    },
+    {
+      "name": "andrea weiss",
+      "link": "https://br.linkedin.com/in/andrea-weiss-497362246",
+      "summary": "--",
+      "location": "Foz do Iguaçu, PR"
+    },
+    {
+      "name": "Andrea Weiss Balassiano",
+      "link": "https://br.linkedin.com/in/andrea-weiss-balassiano-00146158",
+      "summary": "sócia / Partner  at Monteiro e Weiss Trade",
+      "location": "São Paulo, SP"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://br.linkedin.com/in/andrea-weiss-65850736",
+      "summary": "--",
+      "location": "Brazil"
+    },
+    {
+      "name": "Andrea Weiss",
+      "link": "https://br.linkedin.com/in/andrea-weiss-025646179",
+      "summary": "--",
+      "location": "Brazil"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-27T00:00:00Z"
+  }
+}

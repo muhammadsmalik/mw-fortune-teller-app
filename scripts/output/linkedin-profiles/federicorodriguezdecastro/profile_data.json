@@ -1,0 +1,724 @@
+{
+  "public_identifier": "federicorodriguezdecastro",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/6c242a10e6cda40fdcec204a70a9f121",
+  "first_name": "Federico",
+  "last_name": "Rodríguez de Castro",
+  "full_name": "Federico Rodríguez de Castro",
+  "follower_count": 624,
+  "occupation": "Co-fundador & CTO at OOH Manager",
+  "headline": "Co-fundador & CTO en OOH / Alumni Start-Up Chile (G6 2013)",
+  "summary": null,
+  "location_str": "Las Condes, Región Metropolitana de Santiago, Chile",
+  "country": "CL",
+  "country_full_name": "Chile",
+  "city": "Las Condes",
+  "state": "Santiago Metropolitan Region",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "OOH Manager",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-manager",
+      "company_facebook_profile_url": null,
+      "title": "Co-fundador & CTO",
+      "description": "Potenciamos el crecimiento de Empresas de Publicidad Exterior en América Latina. Software en la nube para digitalizar tu operación, automatizar tus procesos y aumentar tus ventas. Aumenta tus ventas - Entrega una Postventa de excelencia - Crece de forma ordenada. Clientes felices en Chile, Argentina, Perú, Ecuador, Uruguay, Paraguay y Costa Rica.",
+      "location": "Región Metropolitana de Santiago, Chile",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/798f9f63aadb08a9e0073dac5c02d1a0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "OOH Publicidad Exterior",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oohpublicidad",
+      "company_facebook_profile_url": null,
+      "title": "Co-fundador & CTO",
+      "description": "OOH Publicidad es la plataforma de comercialización de publicidad exterior más completa en Chile, concentrando más de 12.000 espacios publicitarios de 110 medios. Trabajamos para acercar, educar, simplificar y hacer más accesible el mundo publicitario a las pequeñas y medianas empresas. Comercializamos soportes tradicionales como letreros publicitarios, pantallas digitales, paletas y paraderos o publicidad en buses; además de soportes no tradicionales como camiones LED, buildings, walkers, publicidad en bencineras, farmacias y malls. Nuestro objetivo es facilitar la compra de soportes de vía pública, orientando a las empresas a tomar buenas decisiones publicitarias, acompañando su crecimiento de largo plazo.",
+      "location": "Chile",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5f6811e373a39b6f37739d3a354d5435"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "EWINE.CL",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ewine.cl",
+      "company_facebook_profile_url": null,
+      "title": "Co-fundador & CTO",
+      "description": "Ewine.cl es un e-commerce especialista en vinos, que busca integrar a pequeños productores y grandes viñas en un solo lugar, incentivado una competencia justa.",
+      "location": "Chile",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4759c2e41533ea4a6422d7b53bc12e6b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Luqit.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/luqit-com",
+      "company_facebook_profile_url": null,
+      "title": "Co-fundador & CTO/CFO",
+      "description": "Luqit es la primera plataforma online de Latinoamérica que permite comprar los mejores descuentos en espacios publicitarios tradicionales, concentrando la vacancia en un solo lugar. Acercamos el mundo publicitario a las pequeñas y medianas empresas.",
+      "location": "Chile",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/217ebf27b1f9e9acc5e63a7e6b7e5bf4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "company": "Kr Consulting",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kr-consulting_2",
+      "company_facebook_profile_url": null,
+      "title": "Consultor TI",
+      "description": "Práctica profesional.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/00a74897d57967f825d0171d4228df90"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2011
+      },
+      "company": "Pricing SpA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pricing-uc",
+      "company_facebook_profile_url": null,
+      "title": "Part-Time Área de Servicio y Desarro",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9627e01ff77e13270c31b4ee6420196d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2010
+      },
+      "company": "Centro de alumnos de Ingeniería UC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Consejero Académico",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "company": "Riegos Olivos",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Práctica pre profesional",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": "Tecnologías de Información",
+      "degree_name": "Titulado de Ingeniería Civil Industrial",
+      "school": "Pontificia Universidad Católica de Chile",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ucatolica",
+      "school_facebook_profile_url": null,
+      "description": "Ayudante de cursos del departamento de Ciencias de la computación: - Bases de datos, Docente: Jaime Navón. - Sistemas de Información, Docente: Jaime Caiceo. - Sistemas de Información, Docente: Roberto Gejman.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e1e13232e9343e61ad439fc5de9ffa6f",
+      "grade": "Distinción máxima",
+      "activities_and_societies": "Actividades y grupos:Centro de Alumnos de Ingeniería, Servidores para Chile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Business",
+      "degree_name": null,
+      "school": "Simon Fraser University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/simon-fraser-university",
+      "school_facebook_profile_url": null,
+      "description": "Programa de Intercambio Vancouver, Canadá. Obtención de beca \"Emerging Leaders in the Americas Program\" (ELAP) entregada por el gobierno canadiense.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/da012fd7288448006a39a65609c3eed9",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "title": "Profesor",
+      "cause": "Educación",
+      "company": "CreceChile",
+      "company_linkedin_profile_url": null,
+      "description": "Profesor voluntario de matemáticas. Clases de nivelación de estudios para adultos, enseñanza básica. Complejo Educacional Eduardo Cuevas Valdes.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "title": "Profesor",
+      "cause": "Educación",
+      "company": "Corporacion Crea+",
+      "company_linkedin_profile_url": null,
+      "description": "Profesor voluntario de matemáticas. Clases de reforzamiento a alumnos de tercero básico.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2011
+      },
+      "title": "Jefe de Difusión",
+      "cause": "Servicios sociales",
+      "company": "Servidores para Chile",
+      "company_linkedin_profile_url": null,
+      "description": "Jefe de difusión trabajos de invierno 2011.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "title": "Judge for Start-Up Chile",
+      "cause": "Potenciamiento económico",
+      "company": "YouNoodle",
+      "company_linkedin_profile_url": null,
+      "description": "I was recruited to be part of an elite group of experts to judge Start-Up Chile’s prospective companies. Start-Up Chile is an innovative program of the Chilean Government to attract world-class early stage entrepreneurs to start up operations in Chile for a few months in return for $35K of seed funding (no equity). I am very proud of the incredible impact of this program bringing more than 1000 startups from 80 different countries to Chile over 5 years, while also inspiring both local startups and also other countries to emulate and innovate on this important program.",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Judge for Parallel 18",
+      "cause": "Potenciamiento económico",
+      "company": "YouNoodle",
+      "company_linkedin_profile_url": null,
+      "description": "I was recruited to be part of an elite group of experts to judge Parallel 18’s prospective companies. Parallel 18 is an innovative program of the Puerto Rican Government to attract world-class early stage entrepreneurs to start up operations in Puerto Rico for a few months in return for $40K of seed funding (no equity). I am very proud of the incredible impact of this program bringing more than 60 startups from 20 different countries to Puerto Rico during its first year, while also inspiring both local startups and also other countries to emulate and innovate on this important program.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 593,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nicolaspenafielgrandela",
+      "name": "Nicolás Peñafiel Grandela",
+      "summary": "MBA I Gerente de Finanzas en Empresas Reutter I Nuevos Negocios I Evaluación de Proyectos I Control de Gestión I Estrategia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mnunezcaro",
+      "name": "Marco Antonio Núñez Caro",
+      "summary": "GAF I FP&A I CdG I Business Partner",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rojacrilicos",
+      "name": "Tomas Alejandro Rojas Novoa",
+      "summary": "Propietario, publicidad y marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/damirmandakovic",
+      "name": "Damir Mandakovic Pizarro",
+      "summary": "Jefe de proyecto en Notus SpA",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diegomerinom",
+      "name": "Diego Merino",
+      "summary": "Finance Business Partner | Supporting Growth in $1B+ Operations | Experienced in Forestry, Cellulose, and Investment Strategy",
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/macarena-sof%25C3%25ADa-c%25C3%25A1mara-rioseco",
+      "name": "Macarena Sofía Cámara Rioseco",
+      "summary": "Legal advisor at Asia and Oceania division",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marceloppdf",
+      "name": "Marcelo Alejandro Peña Lamilla",
+      "summary": "Experto en emprendimiento, innovación y transformación digital.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/felipearayaolivarez",
+      "name": "Felipe Araya",
+      "summary": "Marketing Digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentina-labarca-c%25C3%25A1rdenas-805962164",
+      "name": "Valentina Labarca Cárdenas",
+      "summary": "Estudiante  de Ingeniería Civil Industrial en Pontificia Universidad Católica de Valparaíso",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clara-gonzalez-ooh",
+      "name": "Clara González",
+      "summary": "Ejecutiva en OOH Publicidad I Experta en Publicidad Exterior I Out-of-Home I Vía Pública",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/soledad-mckay-2bb087265",
+      "name": "Soledad McKay",
+      "summary": "Jefe de experiencia de cliente en La Fête Chocolat",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorgeodeh",
+      "name": "Jorge Andrés Odeh Yarad",
+      "summary": null,
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcelo-valencia-gonz%25C3%25A1lez-88994451",
+      "name": "Marcelo Valencia González",
+      "summary": "Gerente de Administración y Finanzas en Marítimo Portuario Ltda.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlos-n%25C3%25BA%25C3%25B1ez-mu%25C3%25B1oz-b1858621",
+      "name": "Carlos Núñez Muñoz",
+      "summary": "Gerente de Administración y Finanzas en Fundación AraucaníAprende",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom%25C3%25A1s-almarza-villaseca-06174939",
+      "name": "Tomás Almarza Villaseca",
+      "summary": "Co-fundador & CEO en OOH | Publicidad Exterior Fácil, Medible y al Alcance de todos |\nAlumni Start-Up Chile (G6 2013)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mauricio-soto-castro-695007143",
+      "name": "Mauricio Soto Castro",
+      "summary": "Director de Arte Senior",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-santana-benavides-1a3ab99",
+      "name": "Katherine Santana Benavides",
+      "summary": "Subgerente General en Constructora e Inmobiliaria GPR",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-paulo-aeschlimann-88876b16",
+      "name": "Juan Paulo Aeschlimann",
+      "summary": "Gerente Administración y Finanzas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paloma-gaona-tapia-84023217",
+      "name": "Paloma Gaona Tapia",
+      "summary": "Gerente de Administración, Finanzas y Personas en CTec | Centro Tecnológico para la Innovación",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-mu%25C3%25B1oz-ortega-73788519",
+      "name": "Javier Muñoz Ortega",
+      "summary": "Gerente Corporativo de Administración y Finanzas en  Icom Inmobiliaria y Hoteles Plaza el Bosque",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-luis-san-miguel-67535a26",
+      "name": "Jose Luis San Miguel",
+      "summary": "Jefe Administración Vistalibre Ltda",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-leal-campos-20206131",
+      "name": "daniel leal campos",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joaqu%25C3%25ADn-rivera-zald%25C3%25ADvar-b0b1b831",
+      "name": "Joaquín Rivera Zaldívar",
+      "summary": "Geógrafo. Académico de Vinculación con el Medio, Universidad San Sebastián sede de la Patagonia",
+      "location": "Puerto Varas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-andrea-nahuelpi-cha%25C3%25B1amilla-b2714032",
+      "name": "Nicole Andrea Nahuelpi Chañamilla",
+      "summary": "Constructor civil",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arturo-carri%25C3%25B3n-mourguet-0b562835",
+      "name": "Arturo Carrión Mourguet",
+      "summary": "Consultor Territorial. Geógrafo. Mg en Estudios Territoriales(c)",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-mel%25C3%25A9ndez-far%25C3%25ADas-54883735",
+      "name": "Luis Meléndez Farías",
+      "summary": "Ingeniero Ambiental",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/catalina-g%25C3%25A1rate-paredes-80872939",
+      "name": "Catalina Gárate Paredes",
+      "summary": "Broker de Marine & Cargo en Carpenter Marsh Fac Chile",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom%25C3%25A3%25C2%25A1s-almarza-villaseca-06174939",
+      "name": "Tomás Almarza Villaseca",
+      "summary": "Co-fundador & CEO en OOH Publicidad",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-grez-amen%25C3%25A1bar-b153a33a",
+      "name": "Francisco Grez Amenábar",
+      "summary": "Administración y Finanzas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristhian-wainer-80973740",
+      "name": "Cristhian Wainer",
+      "summary": "Gerente de Administración y Finanzas Corporativo en TWL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andres-viviani-zu%25C3%25B1iga-831a2b40",
+      "name": "Andres Viviani Zuñiga",
+      "summary": "Gerente de administración y finanzas en Inmobiliaria Buenaventura",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilo-m%25C3%25A9ndez-toro-79a94346",
+      "name": "Camilo Méndez Toro",
+      "summary": "Emprendedor/Empresario/Asesor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/octavio-navarrete-mehech-4609b546",
+      "name": "Octavio Navarrete Mehech",
+      "summary": "Gerente Administración y Finanzas en Constructora INARCO S.A",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-cruzat-donoso-39249b47",
+      "name": "Diego Cruzat Donoso",
+      "summary": "Gerente de Finanzas | Resignificando Administración y Finanzas |",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebasti%25C3%25A1n-baeza-gonz%25C3%25A1lez",
+      "name": "Sebastián Baeza-González",
+      "summary": "Associate Professor University of Concepción",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cynthia-amstein-richter-a0ab9252",
+      "name": "Cynthia Amstein Richter",
+      "summary": "CFO en Pares&Alvarez",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-navarro-valenzuela-07b43554",
+      "name": "Camila Navarro Valenzuela",
+      "summary": "Geógrafo en Geociudad",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiare-de-la-puente-bern%25c3%25a1cer-2792bb58",
+      "name": "Tiare de la Puente Bernácer",
+      "summary": "Médico Cirujano",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-andr%25C3%25A9s-ayestar%25C3%25A1n-irarr%25C3%25A1zaval-60415264",
+      "name": "José Andrés Ayestarán Irarrázaval",
+      "summary": "CEO & Founder en Drivetech | Co-Founder en Aevum",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-paulo-castro-concha-65325271",
+      "name": "Juan Paulo Castro Concha",
+      "summary": "Comercial CyC Ltda - Chilemat",
+      "location": "Talca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-jeria-04a82a71",
+      "name": "Camila Jeria",
+      "summary": "Geógrafa UC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-wallach-widder-b450b273",
+      "name": "Andrea Wallach Widder",
+      "summary": "Gerente de Administracion y Finanzas en BITUMIX S.A.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-silva-enrione-206b9b7b",
+      "name": "Claudia Silva Enrione",
+      "summary": "Psicóloga Clínica Infanto Juvenil y Educacional en Centro de Aprendizaje -  Colegio Leonardo Da Vinci, Las Condes",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chun-yue-chan-31091781",
+      "name": "Chun Yue Chan",
+      "summary": "Socio Gold Anda Chile",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerardo-isla-domke-b599a1a2",
+      "name": "Gerardo Isla Domke",
+      "summary": "B.S. Business and Adm - International Business. Columbia College",
+      "location": "Valdivia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susana-ruz-hern%25C3%25A1ndez-048540a6",
+      "name": "Susana Ruz Hernández",
+      "summary": "Profesional Urbanista",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/camilo-moscoso-a77998105",
+      "name": "Camilo Moscoso",
+      "summary": "Owner at Ergocakes",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9-diaz-6a285410b",
+      "name": "José Diaz",
+      "summary": "Contralor Corporativo Family Office Grupo Biosano",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ra%25C3%25BAl-roberto-valenzuela-salinas-388468110",
+      "name": "Raúl Roberto Valenzuela Salinas",
+      "summary": "Profesor en Municipalidad de Santiago, Chile",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-antonio-benitez-silva",
+      "name": "Francisco Benitez Silva",
+      "summary": "Ingeniero en Informática | Desarrollador FullStack | C# | .NET |",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giulliano-rondanelli-8b0061144",
+      "name": "Giulliano Rondanelli",
+      "summary": "Especialista en Ventas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrismar-natera-mujica-03602415a",
+      "name": "Chrismar Natera Mujica",
+      "summary": "Asistente Ejecutiva",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentina-navarro-tapia-875735168",
+      "name": "Valentina Navarro Tapia",
+      "summary": "Geógrafa",
+      "location": "Santiago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-soria-b2ba99186",
+      "name": "Diego Soria",
+      "summary": "Publicidad en vía pública - OOH - Street Marketing – BTL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-ortega-0642aa1b1",
+      "name": "Manuel Ortega",
+      "summary": "Analista de inteligencia en Itaú Chile",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/babak-yeganegy-bruckhoff-b5411a208",
+      "name": "Babak Yeganegy-Bruckhoff",
+      "summary": "Information Technology Associate at Finance in Motion",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maritza-saieh-bendeck-a0295921b",
+      "name": "Maritza Saieh Bendeck",
+      "summary": "--",
+      "location": "Santiago"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "La publicidad exterior genera un impacto real para que el anunciante logre sus objetivos. El desafío que tenemos (y en el que estamos trabajando) es…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_la-publicidad-exterior-genera-un-impacto-activity-7462869325956308994-rpvB",
+      "activity_status": null
+    },
+    {
+      "title": "¡Sueño cumplido! Por fin pudimos representar a OOH Publicidad I Cotiza miles de soportes en la ALOOH Asociación Latinoamericana de Out of Home en…",
+      "link": "https://www.linkedin.com/posts/oohpublicidad_foroalooh-ooh-innovaci%C3%B3n-activity-7189736444272222210-jqWH",
+      "activity_status": null
+    },
+    {
+      "title": "Estuvo buenísima la participación de OOH Publicidad I Cotiza miles de soportes en el foro ALOOH Asociación Latinoamericana de Out of Home. Tremendo…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_estuvo-buenísima-la-participación-de-ooh-activity-7189348714300198912-Hq_e",
+      "activity_status": null
+    },
+    {
+      "title": "En OOH Publicidad I Cotiza miles de soportes tuvimos sesión de planificación estratégica con todo el equipo. El año pasado incluimos una nueva…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_en-ooh-publicidad-i-cotiza-miles-de-soportes-activity-7155257534017077248-oOPG",
+      "activity_status": null
+    },
+    {
+      "title": "Terminando un excelente 2023, muy contento y orgulloso de lo que hemos logrado en estos 11 aÃ±os en OOH Publicidad I Cotiza miles de soportes. Es…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_terminando-un-excelente-2023-muy-contento-activity-7146590898028515328-rER_",
+      "activity_status": null
+    },
+    {
+      "title": "Hola! Estamos liquidando un stock de espacios publicitarios en PerÃº y Ecuador, para que cualquier empresa con presencia en esos paÃ­ses pueda llegar…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_hola-estamos-liquidando-un-stock-de-espacios-activity-7107414384003407872-SWof",
+      "activity_status": null
+    },
+    {
+      "title": "Gracias Publivia Publicidad Chile. Primer medio en digitalizar su operaciÃ³n con OOH Manager y que ademÃ¡s nos acompaÃ±Ã³ en el proceso de su…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_gracias-publivia-publicidad-chile-primer-activity-7095887321866063872-IMWX",
+      "activity_status": null
+    },
+    {
+      "title": "En OOH tenemos una vacante para el cargo âEncargado de soporteâ. Es parte del equipo de InnovaciÃ³n y tiene como principal objetivo atender…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_hiring-empleo-haytrabajo-activity-6965766407389093889-tIFY",
+      "activity_status": null
+    },
+    {
+      "title": "En OOH Publicidad I Cotiza miles de soportes estamos en bÃºsqueda de nuestro prÃ³ximo Product Owner ð . AgradecerÃ­a lo puedan compartir.",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_en-ooh-publicidad-i-cotiza-miles-de-soportes-activity-7000927831111168001-AMuS",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_hiring-ejecutivocomercial-publicidadexterior-activity-6823007476401614848-CYF1",
+      "activity_status": null
+    },
+    {
+      "title": "En OOH Publicidad estamos sorteando una pantalla led para hacer publicidad durante un mes, para apoyar a que mipymes puedan potenciar su marca y…",
+      "link": "https://www.linkedin.com/posts/federicorodriguezdecastro_marketing-branding-advertisingandmarketing-activity-6813859432808673281-LqaW",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-30T00:00:00Z"
+  }
+}

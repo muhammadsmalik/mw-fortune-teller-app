@@ -1,0 +1,748 @@
+{
+  "public_identifier": "can-sengezer-92a7976",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/591112474c4ec7300d4f94acf49d55a7",
+  "background_cover_image_url": null,
+  "first_name": "Can",
+  "last_name": "Sengezer",
+  "full_name": "Can Sengezer",
+  "follower_count": 1014,
+  "occupation": "General Manager at Outmedya",
+  "headline": "General Manager at Outmedya",
+  "summary": null,
+  "location_str": null,
+  "country": "TR",
+  "country_full_name": "Turkey",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Outmedya",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outmedya",
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fa0a76d429860913e8e0f274ab825ad8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "Outmedya",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outmedya",
+      "company_facebook_profile_url": null,
+      "title": "Head Of International Business",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fa0a76d429860913e8e0f274ab825ad8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "People",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/peoplecomms",
+      "company_facebook_profile_url": null,
+      "title": "Managing Partner",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/942c0fc21e9e02b35fb3388522c496b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "People Initiative",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/peoplecomms",
+      "company_facebook_profile_url": null,
+      "title": "Head of OOH Media",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/942c0fc21e9e02b35fb3388522c496b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Firefly",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fireflyon",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Greater Los Angeles Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7b5dd00452a772d810ceaea72f686f14"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "Mindshare",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mindshare",
+      "company_facebook_profile_url": null,
+      "title": "Business Manager",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/507f571f1b3754ad9b8973e3e765b793"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "Kinetic",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kinetic-worldwide",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cc8fe20df7c24fc26d7a093fe5ae900e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2009
+      },
+      "company": "Digiboard Multimedia Solution",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/digiboard-tr",
+      "company_facebook_profile_url": null,
+      "title": "Director Of Business Development",
+      "description": null,
+      "location": "Istanbul, Turkey",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5ee63112bdbbe6b146ae8d8ec9f8ff19"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2009
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Coordinator - Digital Outdoor Network",
+      "description": null,
+      "location": "Greater Los Angeles Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Communication and Media Studies",
+      "degree_name": "Master's degree",
+      "school": "California State University, Fullerton",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/california-state-university-fullerton",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d949632815e017b62b425ae40c819d92",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Communication and Media Studies",
+      "degree_name": "Bachelor's degree",
+      "school": "California State University, Fullerton",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/california-state-university-fullerton",
+      "school_facebook_profile_url": null,
+      "description": "Advertising Emphasis",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d949632815e017b62b425ae40c819d92",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1005,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/selcukciftcioglu",
+      "name": "Selcuk Ciftcioglu",
+      "summary": "Media Group Director",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/handergun",
+      "name": "Hande Ergün",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denizariktekin",
+      "name": "Deniz Arıktekin Cavıldak",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tuncerdem",
+      "name": "Tunc Erdem",
+      "summary": "Digital Marketing Executive -Kitchen & Stores at Eczacıbaşı İntema",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amitsarkar1",
+      "name": "Amit Sarkar",
+      "summary": "COO-India, Kinetic Worldwide",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sinancilek",
+      "name": "Sinan Çilek",
+      "summary": "Managing Partner of Media @Inbound | Founder @DeVerse | Member of Education and Training Council @IAB",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/erhanercan",
+      "name": "Erhan Ercan",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ariftopcu",
+      "name": "Arif Topcu",
+      "summary": "Industry Leader @TikTok/ByteDance",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jozefvanruiten",
+      "name": "Jozef van Ruiten",
+      "summary": "Architect AIA / Project Architect at Dreyfuss + Blackford",
+      "location": "Sacramento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/resulk",
+      "name": "Resul KARAÇAY",
+      "summary": "Head of Digital",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/drygzl",
+      "name": "Derya Güler",
+      "summary": "Mother of Crimes / Agency Director @The Gang Agency",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/iremmuskara",
+      "name": "İrem Muşkara",
+      "summary": "Global Business Solutions-METAP-Revenue Partnerships",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iremorsel",
+      "name": "Irem Orsel",
+      "summary": "Advertising Account Manager",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tkoru",
+      "name": "Taylan Koru",
+      "summary": "UM Worldwide şirketinde Genel Müdür - MD",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/skvl-co-216684270",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hufan-wu-5024a019a",
+      "name": "Hufan Wu",
+      "summary": "Concordia University Finance Coop Student | CFA Candidate",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/demetikiler",
+      "name": "Demet İkiler",
+      "summary": "Publicis Groupe - EMEA CEO",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasemin-t%25C3%25BCre-makiniz-33366338",
+      "name": "Yasemin Türe Makiniz",
+      "summary": "Founder - Media First",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/cuneytatmaca",
+      "name": "Cüneyt Atmaca",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/fikrin-merkezi-216684270",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tahiya-khan-20aa64256",
+      "name": "Tahiya Khan",
+      "summary": "Social Media Manager at Fiverr",
+      "location": "Chattogram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/didem-demiralp-06234711",
+      "name": "Didem Demiralp",
+      "summary": "Group Media Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sezer-kural-3838a5210",
+      "name": "Sezer Kural",
+      "summary": "NA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hufan-kyle-wu-5024a019a",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-fuat-meydan-66a25b204",
+      "name": "Ali Fuat Meydan",
+      "summary": "Kurucu - Nakilnat",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ezgi-varol-6a8838245",
+      "name": "Ezgi Varol",
+      "summary": "İletişim Fakültesi Mezunu",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/safakcinar",
+      "name": "Şafak Çınar",
+      "summary": "Marketing Communications Consultant",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/serhat-b%25C3%25BCy%25C3%25BCksayar-15366378",
+      "name": "Serhat Büyüksayar",
+      "summary": "Group Director at Publicis Groupe",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/latife-sar%25C4%25B1p%25C4%25B1nar-tonaro%25C4%259Flu-3537b2109",
+      "name": "Latife Sarıpınar Tonaroğlu",
+      "summary": "Kurucu Ortak",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marla-%25c3%25b6zer-49612323a",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-%25C3%25A7opur-8b8815168",
+      "name": "Ali Çopur",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tu%25C4%259Fba-t%25C3%25BCrke%25C5%259F-deniz-386841225",
+      "name": "Tuğba Türkeş Deniz",
+      "summary": "Medya Planlama ve Satın Alma Uzmanı-İndeks Medya",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/burak-%25c3%25b6skiper-450716103",
+      "name": "Burak Öskiper",
+      "summary": "OPN FORTE•2K followers",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/serap-yak%25C4%25B1n-14836848",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/seda-akta%25C5%259F-turgut-54244824",
+      "name": "Seda AKTAŞ",
+      "summary": "Grafik Tasarım Öğretmeni",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25B6zlem-%25C3%25A7%25C4%25B1rag%25C3%25B6z-2a98275",
+      "name": "Özlem Çıragöz",
+      "summary": "Chief Strategy Officer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/or%25C3%25A7un-makiniz-b8147582",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/guleyma-arp%25C4%25B1nar-921929157",
+      "name": "Guleyma Arpınar",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahu-t%25C3%25BCridi-8a587a1a",
+      "name": "Ahu Türidi",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthonywanner1",
+      "name": "Anthony Wanner",
+      "summary": "Accountancy and Economics Student at Concordia University",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deniz-ersoy",
+      "name": "Deniz Ersoy",
+      "summary": "Head of Digital",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/erdal-kale-81121b6",
+      "name": "Erdal Kale",
+      "summary": "Co-founder @OCC Group,@Opn Forte, @Crescendo Analytics, @Cosmos Creative Content Factory | @REPİD Board Member, Marketing Communications, Digital Marketing, Data Analytics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ceylan-erdogru-9864976",
+      "name": "Ceylan Erdogru",
+      "summary": "SalesSavvyChief",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ypsoylu",
+      "name": "Yesim Patricia Soylu",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/bahadir-kulur-2157aba",
+      "name": "Bahadir Kulur",
+      "summary": "Digital Marketing & Strategy Expert | 13+ Years in Digital Marketing,Media Buying, Data-Driven Marketing, Analytics, SEM, Content , SEO, Social Media, Programmatic Advertising, E-Commerce | Connected TV Growth Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/berk-pense-084bb614",
+      "name": "Berk Pense",
+      "summary": "Volt Medya | CampaignTR",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ozlem-eroglu-a8334a19",
+      "name": "Ozlem EROGLU",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/morgil",
+      "name": "Gil Mor",
+      "summary": "Strategic & business Advisor at Startplan  AnyApp",
+      "location": "Hod HaSharon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ulas-bozan-a2604020",
+      "name": "Ulas Bozan",
+      "summary": "Founder at The Zero Point Project / Co-Founder at Porty Tech",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25B6nder-%25C3%25A7al-89b42530",
+      "name": "Önder Çal",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/yavuz-sun-591a323a",
+      "name": "Yavuz SUN",
+      "summary": "Deputy General Manager at UM Türkiye",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynne-buchanan-guy-52031042",
+      "name": "Lynne Buchanan Guy",
+      "summary": null,
+      "location": "Edmonds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arzu-birinci-26381248",
+      "name": "Arzu Birinci",
+      "summary": "Parkzon Güvenlik Sistemleri",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chi-ling-chen",
+      "name": "Chi-Ling Chen",
+      "summary": "Founder of Nihao Chinesisch Sprachschule & professional Chinese teacher & intercultural communication instructor",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ibrahim-danaci-59324a87",
+      "name": "Ibrahim Danaci",
+      "summary": "ILBAK Holding şirketinde Operasyon yöneticisi",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gultekin-bar-9b656189",
+      "name": "Gultekin BAR",
+      "summary": "dentsu Account Manager",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zafer-kivrak-8a588a92",
+      "name": "Zafer Kivrak",
+      "summary": "Group Head",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/atakan-oskiper-a269bb92",
+      "name": "Atakan Oskiper",
+      "summary": ".",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-balland-89325996",
+      "name": "Vincent Balland",
+      "summary": "Chargé d'affaires chez Climat Conseil",
+      "location": "Poitiers"
+    },
+    {
+      "link": "https://www.linkedin.com/in/serhat-kuzu-31079ba1",
+      "name": "Serhat Kuzu",
+      "summary": "Costume Design",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrei-alexandru-popa",
+      "name": "Andrei Alexandru Popa",
+      "summary": "Writer and translator with flair in cryptocurrency, tourism, marketing and social media.",
+      "location": "Brasov"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ay%25C3%25A5%25C2%259Fe-k%25C3%25A3%25C2%25B6sen-0b8652109",
+      "name": "Ayşe Kösen",
+      "summary": "Natura Doğa ve Kültür Koruma Derneği şirketinde Project Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-balland-34944a10a",
+      "name": "vincent balland",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikail-%25C3%25B6zdemir-456277111",
+      "name": "mikail özdemir",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/seda-tarman-81870a112",
+      "name": "Seda Tarman",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/erdinc-dincer-53199512b",
+      "name": "Erdinc Dincer",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25B6yk%25C3%25BC-%25C3%25A7apa-b74655192",
+      "name": "öykü çapa",
+      "summary": "Marmara Üniversitesi şirketinde Graduate Student",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ya%25C4%259Fmur-yegin-1966b4205",
+      "name": "Yağmur Yegin",
+      "summary": "SinemaTV şirketinde Senior Accountant",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/onur-akman-5067a2227",
+      "name": "Onur Akman",
+      "summary": "Media Planning",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_study-6-consumer-habits-that-will-boost-activity-6765584313145683968-OI01",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_council-post-the-power-of-static-ooh-in-activity-6793252492613296128-BY63",
+      "activity_status": null
+    },
+    {
+      "title": "Some OOH is just better than the rest... Many thanks to MUSION Turkey & Uniworks & ADVERTCITY for their help to make this project possible!…",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_fiategeacross-olayde%C4%9Fi%C5%9Fti-activity-6809030195954098176-ZCMi",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/gCQyimj #dooh",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_dooh-activity-6488505731048972288-Lf1Y",
+      "activity_status": null
+    },
+    {
+      "title": "It was about time... 👏👏",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_mediamath-finds-a-way-to-make-programmatic-activity-6489431200875319296-bx0a",
+      "activity_status": null
+    },
+    {
+      "title": "The great OOH Comeback",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_the-great-ooh-comeback-activity-6534883268850925568-HdW1",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_startups-turn-to-traditional-advertising-activity-6549054581173813248-kQfX",
+      "activity_status": null
+    },
+    {
+      "title": "So proud!",
+      "link": "https://www.linkedin.com/posts/can-sengezer-92a7976_firefly-raises-30m-to-bring-more-ads-to-activity-6539901040576208896-_ukR",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Ömer Can Şengezer",
+      "link": "https://tr.linkedin.com/in/ömer-can-şengezer-2594b0123",
+      "summary": "Lounge Supervisor -TURKISH DO & CO IKRAM HIZMETLERI A.S.",
+      "location": "İstanbul"
+    },
+    {
+      "name": "Can Berk Sengezer",
+      "link": "https://tr.linkedin.com/in/can-berk-sengezer-822860188",
+      "summary": "Aquatic Science Engineer",
+      "location": "İstanbul"
+    },
+    {
+      "name": "Ömer Can Şengezer",
+      "link": "https://tr.linkedin.com/in/ömer-can-şengezer-69137364",
+      "summary": "Service / DO&CO",
+      "location": "İstanbul"
+    },
+    {
+      "name": "Can Şengezer",
+      "link": "https://tr.linkedin.com/in/cansengezer",
+      "summary": "Student at University of Ljubljana",
+      "location": "Türkiye"
+    },
+    {
+      "name": "Can Berk Sengezer",
+      "link": "https://tr.linkedin.com/in/can-berk-sengezer-b20889115",
+      "summary": "Şu okulda öğrenci: İstanbul Üniversitesi",
+      "location": "Istanbul, Turkey"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-16T00:00:00Z"
+  }
+}

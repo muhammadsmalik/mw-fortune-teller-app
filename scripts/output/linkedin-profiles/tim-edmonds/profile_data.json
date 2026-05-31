@@ -1,0 +1,830 @@
+{
+  "public_identifier": "tim-edmonds",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5a88ad2a485e0d5f9de9de4de95dd2e5",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/7b6ba3ef881076dce7a9bd01fd28deb1",
+  "first_name": "Tim",
+  "last_name": "Edmonds",
+  "full_name": "Tim Edmonds",
+  "follower_count": 1360,
+  "occupation": "Chief Operating Financial Officer at DoohClick AB",
+  "headline": "Chief Operating Officer @ DoohClick",
+  "summary": "I have a passion for betterment, personally and professionally. I especially love creative & data driven decision making to translate ideas and theories into actionable plans and tangible results. \n\nI care about driving value, and I always look for ways to increase that value, and view every challenge with an analytical eye and a ‘can do’ attitude. I suppose that is a nice way of saying I am extremely competitive against myself, challenging myself to do better.\n\nThese are the core principles of myself when driving strategic initiatives, co-operating with clients, and leading those I am responsible for. \n\nSo far I have successfully applied myself at a global and senior leadership level in TMT, Automotive, FMCG, and Travel industries. I have grown my career experience in these industries from a Strategy Consulting and Change Management Consulting role, and as a Director with strategic operations responsibility.\n\nGallup Strengthsfinder: Restorative, Strategic, Individualisation, Command, Ideation  \nMyers-Briggs: ENTJ - A",
+  "location_str": "Uppsala, Uppsala County, Sweden",
+  "country": "SE",
+  "country_full_name": "Sweden",
+  "city": "Uppsala",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "DoohClick AB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/doohclick",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Financial Officer",
+      "description": null,
+      "location": "Stockholm, Stockholm County, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5e5047ac7987bd0d638e779d55b6a9cf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "company": "inamo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/inamoai",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Financial Officer",
+      "description": null,
+      "location": "Stockholm, Stockholm County, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b9c26cf7cc1bbef518b7206e714f5c4a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Capgemini Invent",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/capgemini-invent",
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": null,
+      "location": "Stockholm, Stockholm County, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dbf2dad028c71acab6a23317d41fa684"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2022
+      },
+      "company": "inlumi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/inlumi",
+      "company_facebook_profile_url": null,
+      "title": "Managing Consultant - Advisory",
+      "description": null,
+      "location": "Stockholm, Stockholm County, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1374c4417d2c0126ccb3c0caddb7d4fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "inlumi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/inlumi",
+      "company_facebook_profile_url": null,
+      "title": "Senior Consultant - Advisory",
+      "description": null,
+      "location": "Stockholm, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1374c4417d2c0126ccb3c0caddb7d4fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "company": "Etraveli Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/etraveli-group",
+      "company_facebook_profile_url": null,
+      "title": "Director Business Services",
+      "description": null,
+      "location": "Uppsala, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8f9accd69feaadb776a6390b1b5dd867"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "BTS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bts",
+      "company_facebook_profile_url": null,
+      "title": "Strategy Execution Consultant",
+      "description": null,
+      "location": "Stockholm, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/65f06e6bd9510005f2bf7feee172ff8f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2014
+      },
+      "company": "Uppsala University",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/uppsala-university",
+      "company_facebook_profile_url": null,
+      "title": "Research Associate",
+      "description": null,
+      "location": "Uppsala University",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bc901b541ded7e7cefc96bec57aa90ef"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2013
+      },
+      "company": "Uppsalaekonomerna",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/f-reningen-uppsalaekonomerna",
+      "company_facebook_profile_url": null,
+      "title": "Key Account Manager",
+      "description": null,
+      "location": "Uppsala, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1436670814fa387e8eeda5341704f861"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2012
+      },
+      "company": "The British Food Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "Uppsala, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2012
+      },
+      "company": "Freelance",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Development & Project Management Contractor",
+      "description": null,
+      "location": "Uppsala, Stockholm, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2010
+      },
+      "company": "STUDENT CLICK LIMITED",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/student-click-limited",
+      "company_facebook_profile_url": null,
+      "title": "Area Lead",
+      "description": null,
+      "location": "Guildford",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Uppsala University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/uppsala-university",
+      "school_facebook_profile_url": null,
+      "description": "- Main area of focus around Strategy, Management, and Leadership in the MNC - Large emphasis on the human element of an MNC - Thesis on the creative process within a virtual team",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bc901b541ded7e7cefc96bec57aa90ef",
+      "grade": "1st Distinction",
+      "activities_and_societies": "Aktiviteter och föreningar:Uppsala Ekonomerna Masters Section Committee, Uppsala Ekonomerna International Committee, UU Snake Heads American Football Team"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "University of Surrey",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-surrey",
+      "school_facebook_profile_url": null,
+      "description": "- Wide foundation in a variety of business practices - Later specialisation in Entrepreneurship, Innovation Management, and E-Business - Dissertation on pricing strategies associated with the Digital Audio Workstation market up to 2009",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1c106460f31052beac9c62df5e853895",
+      "grade": null,
+      "activities_and_societies": "Aktiviteter och föreningar:DMS music society, Slalom Snowboard race team, GU2 Student Radio"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "King Edward VI School, Southampton",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "- Music Technology grade A - Physics grade B - Theatre Studies grade C",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Aktiviteter och föreningar:- School Sailing group\n- Gym-Fit group"
+    }
+  ],
+  "languages": [
+    "English",
+    "Swedish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Swedish",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Value Generator",
+      "issuer": "BTS",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2016
+      },
+      "description": "Awarded the BTS 'Value Generator' award for the highest number of client facing days in 2016."
+    },
+    {
+      "title": "Regional Winning Team",
+      "issuer": "KPMG International Case Competition",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "description": "- Regional winners (and national contestants) of the KPMG International Business Case analysis competition."
+    },
+    {
+      "title": "Winning Team",
+      "issuer": "GE Case24 Competition",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "description": "Part of the Winning Team for the GE Healthcare Case24 business case competition."
+    },
+    {
+      "title": "Academic Performance Scholarship",
+      "issuer": "University of Surrey",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Innovation Management in the Food Industry",
+      "number": "SLU"
+    },
+    {
+      "name": "Sustainability Marketing Management",
+      "number": "SLU"
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": null,
+      "title": "BrightMind Student Consulting",
+      "description": "Formed a competitive consulting group with the aim of participating in Case Competitions. The end result is a well oiled team who are familiar with one another and our working styles, with various competition wins under our belt. - Now facing inquires from SMEs for short contract consulting work.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2010
+      },
+      "title": "DMS. The Dance Music Society (University of Surrey)",
+      "description": "Designed and initiated the society as a new business start-up, a self sustainable event management organisation which is still very successful. The society’s structure took a standard business structure, with clear responsibilities across all functions (Marketing, Finance, Operations). • Producing a robust business plan, defining key milestones in-line with the strategic plan and implementing the core business functions, recruiting in voluntary staff to perform core duties. • Participating in voluntary projects and fundraisers – generating funds to keep the initiatives functioning. • On point of departure the society activities (events, workshops) had generated £20k in revenue for the society and more than £40k for the Student’s Union funding. • DMS played an integral part of UK-wide awarded amenities like GU2 Radio and StagTV and was awarded ‘Most Improved Society’ of the year 2010 and “Arts Society’ of the year 2011.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": null,
+      "title": "Board Member",
+      "cause": "Samhällsservice",
+      "company": "HSB Bostadsrättsföreningen",
+      "company_linkedin_profile_url": null,
+      "description": "Board Member for my building association, with a focus on sustainable and efficient development of the Association's financial strategy. Our mission is to provide an accommodating and attractive environment in central Uppsala where our residents can live happily and grow their property investment. We have been trusted by them to manage our building with due care for the environment, our quality of life, and our financial investment.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile at Work: Building Your Agile Team",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/d2443764907772ec1aba8389b67e878fd56f2072ae2b55fcfeabeb29f8502244?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile at Work: Driving Productive Agile Meetings",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/166d384348bb7383e403d1d642df6c8fd1ad58fac4aa9bb4c4321591208b7f80?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile at Work: Getting Better with Agile Retrospectives",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/ccab884591b9bd815a11837b3dd6f7ca47bec2570c80d1e6605603d848d024c5?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile at Work: Planning with Agile User Stories",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/c310483c4df4fdfec8edf5fff497e6079e49b42b84ac1ded2f8a44f0f454629c?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile at Work: Reporting with Agile Charts and Boards",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/66cb1bcecabb40f52e5106ed3a1d9be72be492636908eb849da0d1cbd02c1b86?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Agile Project Management Foundations",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/abd4d8838f84632466e949c563d1bfa0204f2e06a5f9d4ff54bec7ff7bf2dd64?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Become an Agile Project Manager",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/869754c7c005c048adaa8a4941746829a45a3582f0ad60f14dd46af3b040252f?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2018
+      },
+      "ends_at": null,
+      "name": "Transitioning from Waterfall to Agile Project Management",
+      "license_number": "Se legitimering",
+      "display_source": null,
+      "authority": "LinkedIn",
+      "url": "https://www.linkedin.com/learning/certificates/1131c95eb8b936c4a053f086f1a5872e8678263903d5ce10a970ee4835759102?trk=backfilled_certificate"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "Maximizing Project Success",
+      "license_number": "Legitimerings-id 1088",
+      "display_source": null,
+      "authority": "Project Management Institute",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": null,
+      "name": "Understanding Project Management",
+      "license_number": "Legitimerings-id 1088",
+      "display_source": null,
+      "authority": "Project Management Institute",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/patrikkarlsson91",
+      "name": "Patrik Palenius",
+      "summary": "Management Consultant within Data & Analytics at BearingPoint",
+      "location": "Malmo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lambertrutaganda",
+      "name": "Lambert Rutaganda",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caringath",
+      "name": "Carin Gath",
+      "summary": "Leadership Development | Team Development | Psychological Safety",
+      "location": "Malmo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sofie-molander-milde-87064887",
+      "name": "Sofie Molander Milde",
+      "summary": "Category Sales Director at Webhallen",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emelie-nylund-f-d-hedin-26772084",
+      "name": "Emelie Nylund (f.d. Hedin)",
+      "summary": "Vice President Strategy and M&A, Hardware Division at Hultafors Group",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emelie-nylund-fd-hedin-26772084",
+      "name": "Emelie Nylund (fd Hedin)",
+      "summary": "Head of Corporate Strategy and Development at Nobia",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-mandersson",
+      "name": "Christian Mandersson",
+      "summary": "Operations Manager at Lazarus",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannaswong",
+      "name": "Hanna Sandqvist Wong",
+      "summary": "Management Consultant at EY",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-nyvelius",
+      "name": "Linda Nyvelius (née Lundin)",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jockumlerenius",
+      "name": "Jockum Lerenius",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/janis-cederroth-759525",
+      "name": "Janis Cederroth",
+      "summary": "Automation that works without hype",
+      "location": "Malmo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-brogren-16aab93",
+      "name": "Peter Brogren",
+      "summary": "CEO at AddBro Consulting AB | Lean Thinking, People Leadership",
+      "location": "Bjärred"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucassudow",
+      "name": "Lucas Südow",
+      "summary": "Project Manager at Electrolux (Global Finance)",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lars-g%25C3%25B6ran-uddman-4b558718",
+      "name": "Lars-Göran Uddman",
+      "summary": "Senior Advisory Consultant (Frilans)",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lina-ahrnstein-560a432b",
+      "name": "Lina Ahrnstein",
+      "summary": "Consultant at Bain & Company",
+      "location": "Helsingborg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fiorella-piedra-8088653b",
+      "name": "Fiorella Piedra",
+      "summary": "Partner at Centigo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/awat-eftekhari-87a1a342",
+      "name": "Awat Eftekhari",
+      "summary": "Management Consultant",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-martiin-8a367952",
+      "name": "Anna Martiin",
+      "summary": "Senior Affärsutvecklare på Apotek Hjärtat",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emelie-hedin-26772084",
+      "name": "Emelie Hedin",
+      "summary": "Head of Corporate Strategy and Development at Nobia",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sofie-ofver-87064887",
+      "name": "Sofie Ofver",
+      "summary": "Category Sales Director at Webhallen",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anelmulisic",
+      "name": "Anel Mulisic",
+      "summary": "CFO at Swedbank Pay",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henrikorrebrant",
+      "name": "Henrik Orrebrant",
+      "summary": "Corporate Development Manager at Adapteo Group",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annou-hammarbeck-659a28101",
+      "name": "Annou Hammarbeck",
+      "summary": "Head of Security Assurance and Compliance | Group Technology",
+      "location": "Solna"
+    }
+  ],
+  "recommendations": [
+    "Marika Eriksson\n\nTim was my team manager up until recently. He is driven and straight forward. His dedication to improve motivates people to follow him and reach success. He’s a true leader with excellent interpersonal skills. His natural way to balance being personal and professional makes people have confidence in him and invites an honest communication. One of Tim’s best qualities is that he gets things done. By seizing opportunities on behalf of the team and the organisation we experienced great improvements on personal and organisational levels. He doesn’t refrain from questioning processes; he acknowledges the problem, gathers the relevant data, puts people into action and makes it happen. For that he has earned my respect. \nWith his organisational skills, he has the situation under control. It’s intriguing to see the structured schedule and priority plan. \nTim has a great personality and I’m happy to have gotten to know him; always radiating happiness and making sure you have a good time.",
+    "LinkedIn User\n\nMin sammanfattande bild av Tim efter ett tajt samarbete är att han är analytisk och mycket stark på en strategisk nivå. En strukturerad och pedagogisk person som drivs av processer och trivs med utmanande problem och som verkligen bidrar med positiv energi till sin omgivning! En av Tims främsta styrkor är förmågan att förutse risker samt att identifiera ineffektivitet och problem och att lösa och optimera dessa. Han har en otrolig förmåga att sammanfatta och förklara komplexa problem på ett enkelt och tydligt sätt till människor oavsett om det är på styrelse eller verksamhetsnivå. Tim är en person med positiv utstrålning som har nära till skratt och är lätt att kommunicera och ha att göra med. En superkraft Tim har är onekligen hans skicklighet att entusiasmera andra, speciellt när han håller presentationer och äger rummet med hans energi, pondus och otroliga vokabulär. Tim är lojal och hårt arbetande med en stark förmåga att snabbt anpassa sig till nya arbetsförhållanden som lyckats skapa stabilitet i teamet i tider av förändring och tvära kast. Jag rekommenderar dig som har en tydlig bild av vad du vill uppnå men behöver hjälp med att säkerställa en skalbar och optimerad väg till målet, att arbeta med Tim om du får chansen!"
+  ],
+  "activities": [
+    {
+      "title": "As we enter the second half of the year it’s a great time to reflect, refine, and plan with intent. At DoohClick AB, we know that digital out-of-home…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_dooh-digitaloutofhome-doohclick-activity-7346481039592058880--u6o",
+      "activity_status": null
+    },
+    {
+      "title": "This week Team DoohClick AB had the annual summer get-together, and decided to do something a bit……. ….analogue. We all agreed the hours spent at…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_this-week-team-doohclick-ab-had-the-annual-activity-7338972969441853441-xpZl",
+      "activity_status": null
+    },
+    {
+      "title": "As we start the final day of the World Out of Home Organization Global Conference, it's a good time to reflect on my biggest goal for DoohClick AB in…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_as-we-start-the-final-day-of-the-world-out-activity-7336766360825348097-YzLJ",
+      "activity_status": null
+    },
+    {
+      "title": "It’s World Out of Home Organization week! Mexico City inbound! 🛫🇲🇽 OOH events are always best in class, and this WOO conference is a big deal. 1.…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_its-world-out-of-home-organization-week-activity-7335201813597413378-Bk1a",
+      "activity_status": null
+    },
+    {
+      "title": "A (re) introduction of myself �� I’m Tim, the COO at DoohClick AB. I’ve worked in across the TMT, automotive, FMCG, travel and OOH industries,…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_a-re-introduction-of-myself-im-tim-activity-7333102527636205569-qHaJ",
+      "activity_status": null
+    },
+    {
+      "title": "2 reasons I’ve quickly settled into life at DoohClick AB → 1. The team Working alongside Jonas Glad, Mark Bracey, Johan Holst and the wider crew has…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_2-reasons-ive-quickly-settled-into-life-activity-7334173731923148801-jIY-",
+      "activity_status": null
+    },
+    {
+      "title": "I am delighted to share that Innovocean has chosen DoohClick as the exclusive media partner for Cape Town’s V&A Waterfront, as part of our expanding…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_dooh-adtech-ooh-activity-7302616328094285825-zV4J",
+      "activity_status": null
+    },
+    {
+      "title": "3 months ago I joined DoohClick AB and I have had a great time so far. One of the reasons why this is, I think, is because I really like what we do.…",
+      "link": "https://www.linkedin.com/posts/tim-edmonds_3-months-ago-i-joined-doohclick-ab-and-i-activity-7269794319899795456-HazX",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Tim Edmonds",
+      "link": "https://au.linkedin.com/in/tim-edmonds-a04b6636",
+      "summary": "Owner, e-property consultants nq",
+      "location": "Townsville, QL"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://uk.linkedin.com/in/timtimedmonds",
+      "summary": "-",
+      "location": "Barnet"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://uk.linkedin.com/in/tim-edmonds-351a9888",
+      "summary": "Head of Communications and Engagement",
+      "location": "Trowbridge"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://au.linkedin.com/in/tim-edmonds-36902598",
+      "summary": "Project Coordinator at Buxton Construction",
+      "location": "Melbourneområdet"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://au.linkedin.com/in/tim-edmonds-908a891b2",
+      "summary": "Investor at edmos holdings pty ltd",
+      "location": "Brisbane, QL"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://www.linkedin.com/in/tim-edmonds-82247612b",
+      "summary": "Partner at Ashurst",
+      "location": "United States"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://nz.linkedin.com/in/tim-edmonds-01a38518",
+      "summary": "CEO at Leukaemia Blood Cancer NZ",
+      "location": "Auckland"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://nz.linkedin.com/in/tim-edmonds-24094b33",
+      "summary": "Head of Advisory - Simply Energy",
+      "location": "Wellington Region, New Zealand"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://hk.linkedin.com/in/tim-edmonds-0212185",
+      "summary": "Managing Director - Kroll Expert Services",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://au.linkedin.com/in/tim-edmonds-743a62175",
+      "summary": "Deputy Principal and Head of Primary at Cornish College",
+      "location": "Greater Melbourne Area"
+    },
+    {
+      "name": "Tim E.",
+      "link": "https://www.linkedin.com/in/timdedmonds",
+      "summary": null,
+      "location": "New York, NY"
+    },
+    {
+      "name": "Tim Edmonds",
+      "link": "https://www.linkedin.com/in/tedmonds",
+      "summary": null,
+      "location": "St Peters, MO"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:55:13Z"
+  }
+}

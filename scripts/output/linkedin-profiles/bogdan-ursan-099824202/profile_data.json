@@ -1,0 +1,301 @@
+{
+  "public_identifier": "bogdan-ursan-099824202",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Bogdan",
+  "last_name": "Ursan",
+  "full_name": "Bogdan Ursan",
+  "follower_count": 63,
+  "occupation": "Chief Information Officer at Phoenix Media",
+  "headline": "Chief Information Officer at Phoenix Media",
+  "summary": null,
+  "location_str": "Bucharest, Romania",
+  "country": "RO",
+  "country_full_name": "Romania",
+  "city": "Bucharest",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Phoenix Media",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Information Officer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 62,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/sjdeluca",
+      "name": "Steven DeLuca",
+      "summary": "VP Workplace IT Experience at Comcast Cable",
+      "location": "Delray Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeancedric",
+      "name": "Jean-Cédric COSTA",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ozgurctn",
+      "name": "Özgür Çetin",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffmloeb",
+      "name": "Jeff Loeb",
+      "summary": "CIO | SVP, Information Technology | I Drive Change, Transformation & Innovation",
+      "location": "Sarasota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ofir-s",
+      "name": "Ofir Sharabani shani",
+      "summary": "CIO, Head of Technology Division at Assuta",
+      "location": "Bnei Atarot"
+    },
+    {
+      "link": "https://www.linkedin.com/in/asishkarunakaran",
+      "name": "Asish Karunakaran",
+      "summary": "Tech Leader |EX CTO,CIO| IT Strategist |Digital Transformation| Product Head | Digital Products| Cloud Transformation| Capital Markets | Insurance | Retail Banking | FinTech",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/psteitz",
+      "name": "Phil Steitz",
+      "summary": "Chief Technology Officer at Clear Demand",
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-xpertdba",
+      "name": "Mohammad Ahmed",
+      "summary": "FREELANCER - ORACLE DATABASE",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/treylewiscio",
+      "name": "Trey Lewis",
+      "summary": "Vice President of Information Technology at Another Broken Egg Cafe",
+      "location": "Greater Orlando"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robertnaylor",
+      "name": "Robert B. Naylor",
+      "summary": "Chief Information Officer at Federal Communications Commission (former)",
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luizortiz",
+      "name": "Luiz Alberto Ortiz",
+      "summary": "Innovating on the mindset!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ursanmariusbogdan",
+      "name": "Ursan Marius Bogdan",
+      "summary": "Senior Application Management Engineer at Endava",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardomiranda",
+      "name": "Ricardo Miranda",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abbasmanzar",
+      "name": "Manzar Abbas",
+      "summary": "Chief Information Officer | Digital Transformation| SAP S/4 HANA| IIoT | Digital Manufacturing | FMCG SCM Automation |",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulwbrassil",
+      "name": "Paul Brassil",
+      "summary": "Vice President Information Security",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saiedmenshawy",
+      "name": "Saied ELMENSHAWY",
+      "summary": "CIO | Digital Transformation | IT Director | #Cement #Cables #Constructions #Realestate Industries | RPA | Strategic Prj",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottrsimon",
+      "name": "Scott R. Simon",
+      "summary": "CIO and Digital Transformation Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-njuguna-mbogo-82788620",
+      "name": "Simon Njuguna Mbogo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lusuarez",
+      "name": "Luis Suarez",
+      "summary": "Business Technology Executive | Chief Technology Officer @ H.I.G. Capital | Boardroom Certified Qualified Technology Expert",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/akrall",
+      "name": "Anton Krall",
+      "summary": "Experienced CTO/CIO/CISO | Technology Visionary | Strategic Leader | Innovator in IT Strategy, Financial Management, and Vendor Relations",
+      "location": "Monterrey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennis-rhodes-mba-4830163",
+      "name": "Dennis Rhodes         MBA",
+      "summary": "Director, North America Information Technology",
+      "location": "Grove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabi-dragos-77692319",
+      "name": "Gabi Dragos",
+      "summary": "Media Director at PHOENIX MEDIA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-cassera-5056a026",
+      "name": "Thomas Cassera",
+      "summary": "CEO/ President Odyssey Associates PEO",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/v%25C5%25A9-t%25C3%25B9ng-a07b1028",
+      "name": "Vũ Tùng",
+      "summary": ".",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-esam-alfalasi-17933a29",
+      "name": "Dr. Esam Alfalasi",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrei-madalin-pana-4033391aa",
+      "name": "Andrei-Madalin Pana",
+      "summary": "Global Intercompany Jr. Manager",
+      "location": "Bucharest"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Interesting data & measurement discussion. Charles Parry-Okeden at World Out of Home Organization conference adds such a valuable point, that OOH…",
+      "link": "https://www.linkedin.com/posts/fionafitzgibbon_interesting-data-measurement-discussion-activity-7204668840926953472-2v9e",
+      "activity_status": null
+    },
+    {
+      "title": "Corespondenţă specială din Hong Kong: peste 40 de miliarde piaţa mondială de outdoor. Europa a depăşit America. Vezi articolul integral:…",
+      "link": "https://ro.linkedin.com/posts/dio-boaca-1189a42b1_corespondenţă-specială-din-hong-kong-peste-activity-7204570975718289408-lvFP",
+      "activity_status": null
+    },
+    {
+      "title": "Proud of this new partnership 💼🤝 Citește articolul pe https://lnkd.in/d2Nqc57A",
+      "link": "https://www.linkedin.com/posts/phoenixmediaro_proud-of-this-new-partnership-citește-activity-7204754219860430848-bVuz",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 A new TV screen lights up Bucharest! Location: Sos. Fundeni / Penny📌",
+      "link": "https://www.linkedin.com/posts/phoenixmediaro_a-new-tv-screen-lights-up-bucharest-activity-7191767044894212096-oYKc",
+      "activity_status": null
+    },
+    {
+      "title": "⛳️🏌️‍♂️ #PhoenixMedia 🖥️ #TurkishAirlines 🛩️ #GolfTournament #Bucharest",
+      "link": "https://www.linkedin.com/posts/phoenixmediaro_phoenixmedia-turkishairlines-golftournament-activity-7241378899308277761--oIP",
+      "activity_status": null
+    },
+    {
+      "title": "Cine a trecut prin procese de recrutare cu mine știe că: - nu am CV în față - l-am primit, l-am analizat, dacă am ajuns să discutăm înseamnă că ai…",
+      "link": "https://ro.linkedin.com/posts/corinaneagu_cine-a-trecut-prin-procese-de-recrutare-cu-activity-7232785406889459712-s_dl",
+      "activity_status": null
+    },
+    {
+      "title": "Ce înseamnă #echilibrul în viață? Să jonglezi cu taskuri, job, familie, hobby-uri, mișcare, învățare, dezvoltare, relații, viață socială și la final…",
+      "link": "https://ro.linkedin.com/posts/echilibrul-activity-7225054503933288450-5F2L",
+      "activity_status": null
+    },
+    {
+      "title": "📢New partner, new location, in STOC DOOH marketplace! 📌Baneasa Mall.",
+      "link": "https://www.linkedin.com/posts/phoenixmediaro_new-partner-new-location-in-stoc-dooh-activity-7224665475929059329-iEQX",
+      "activity_status": null
+    },
+    {
+      "title": "Orice planuri ai avea azi, ia Voxa cu tine. Ai acces nelimitat la peste 70.000 de audiobook-uri și ebook-uri.",
+      "link": "https://ro.linkedin.com/posts/voxa-audio_voxa-audiobooks-ebooks-si-rezumate-în-activity-7204069413849821184-FlxN",
+      "activity_status": null
+    },
+    {
+      "title": "New month, new blog post! This one is a very vulnerable piece, one about my own journey. Read the full article to learn more about: •\tThe…",
+      "link": "https://www.linkedin.com/posts/mindful-growth_unmasked-a-journey-from-burnout-to-thriving-activity-7209095903352078336-bel2",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Bogdan Ursan",
+      "link": "https://ro.linkedin.com/in/bogdan-ursan-35b192198",
+      "summary": "Atestat la Dimitrie Leonida",
+      "location": "Romania"
+    },
+    {
+      "name": "Bogdan Ursan",
+      "link": "https://ro.linkedin.com/in/bogdan-ursan-87bb8237",
+      "summary": "--",
+      "location": "Romania"
+    },
+    {
+      "name": "Bogdan Ursan",
+      "link": "https://ro.linkedin.com/in/bogdan-ursan-a31b1812",
+      "summary": "Head of Site Strategy Execution la Zentiva Romania",
+      "location": "Bucharest, Romania"
+    },
+    {
+      "name": "Bogdan Ursan",
+      "link": "https://ro.linkedin.com/in/bogdan-ursan-a895151aa",
+      "summary": "--",
+      "location": "Lugoj"
+    },
+    {
+      "name": "Bogdan Ursan",
+      "link": "https://ro.linkedin.com/in/f0lder",
+      "summary": "Computer Science Student",
+      "location": "Bacău, Romania"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-05-23T00:00:00Z"
+  }
+}

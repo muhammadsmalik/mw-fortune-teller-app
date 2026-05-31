@@ -1,0 +1,1033 @@
+{
+  "public_identifier": "james-taylor-3710837",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/884caadd2c34abcd93caae992248ad36",
+  "background_cover_image_url": null,
+  "first_name": "James",
+  "last_name": "Taylor",
+  "full_name": "James Taylor",
+  "follower_count": 1305,
+  "occupation": "CEO and Managing Director at oOh!",
+  "headline": "CEO and Managing Director, oOh!media",
+  "summary": "Specialising in media and telecommunications with 25 years of industry experience. Specialties: Media and telecommunications, Digital media, Corporate Finance, Human Resources, Operational leadership, Corporate Strategy",
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "oOh!",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "CEO and Managing Director",
+      "description": null,
+      "location": "Sydney, NSW",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2025
+      },
+      "company": "Special Broadcasting Service (SBS) Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/special-broadcasting-service-sbs-australia",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b3d5334bc0f586363d9067d0eadeeae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "Special Broadcasting Service (SBS) Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/special-broadcasting-service-sbs-australia",
+      "company_facebook_profile_url": null,
+      "title": "Chief Financial Officer",
+      "description": "Operational responsibility for Finance, Media Sales, Corporate Strategy, Human Resources, Legal and Corporate Services Divisions at SBS",
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b3d5334bc0f586363d9067d0eadeeae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "Special Broadcasting Service (SBS) Australia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/special-broadcasting-service-sbs-australia",
+      "company_facebook_profile_url": null,
+      "title": "Head, Corporate Finance",
+      "description": "Provision of corporate advisory and project leadership on major strategic and investment initiatives",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b3d5334bc0f586363d9067d0eadeeae"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2012
+      },
+      "company": "Deloitte",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte",
+      "company_facebook_profile_url": null,
+      "title": "Director, Strategy Consulting",
+      "description": "Leadership of strategy engagements in the media and telecommunications sectors",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cbe541cc8d8cb6f4912320d31eded8de"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2010
+      },
+      "company": "BT Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Head of Strategy, BT Consumer",
+      "description": "Definition and implementation of strategy for BT's Consumer Division",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "company": "BT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Head, Corporate Development",
+      "description": "Identifying and completing M&A transactions and associated strategy work for BT Retail",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2007
+      },
+      "company": "ABC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director, Corporate Development",
+      "description": "Reported to the CEO and led the Corporate Development function for the ABC, including strategy, commercial negotiation and transactions.  Held several other roles during this period including heading the Business Affairs function.",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Program for Management Development",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Business/Commerce, General",
+      "degree_name": "Master of Commerce",
+      "school": "UNSW",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unsw/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "field_of_study": "Business",
+      "degree_name": "Bachelor",
+      "school": "University of Technology Sydney",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-technology-sydney",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2000
+      },
+      "field_of_study": "Business/Commerce, General",
+      "degree_name": "Master of Commerce",
+      "school": "University of New South Wales",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unsw",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 987,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/neilgriffiths7",
+      "name": "Neil Griffiths",
+      "summary": "Editor-in-Chief @ Rolling Stone AU/NZ | Host of The Plug with Neil Griffiths podcast",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timmackinnon1",
+      "name": "Tim MacKinnon",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/grahamadam1",
+      "name": "Adam Graham",
+      "summary": "Commercial and Transaction Advisory - Infrastructure & Property",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-baird",
+      "name": "Mike Baird",
+      "summary": "CEO, HammondCare",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davinyls",
+      "name": "David Hua",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amystockwell",
+      "name": "Amy Stockwell",
+      "summary": "Ombudsman at SBS | GAICD",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattcomyn",
+      "name": "Matt Comyn",
+      "summary": "CEO at Commonwealth Bank of Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julieeckersley",
+      "name": "Julie Eckersley",
+      "summary": "Leadership. Courage. Forge, don't follow.",
+      "location": "St Kilda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brentgthomas",
+      "name": "Brent Thomas",
+      "summary": "Public Policy, Campaigns & Strategy | TikTok and Airbnb Alumni",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dato%25E2%2580%2599-jasmin-kaur-934381115",
+      "name": "Dato’ Jasmin Kaur",
+      "summary": "Partner, Financial Advisory at PwC Australia",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitri-courtelis-gaicd-2bb61711",
+      "name": "Dimitri Courtelis GAICD",
+      "summary": "Group CFO - SunRice || NED - Virgin Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasmin-kaur-dato%25E2%2580%2599-934381115",
+      "name": "Jasmin Kaur (Dato’)",
+      "summary": "Partner - Advisory at PwC Australia",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christine-zeitz",
+      "name": "Christine Zeitz",
+      "summary": "Non Executive Board Member",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurenttoussaint",
+      "name": "Laurent Toussaint",
+      "summary": "Chief Financial Officer at Mason Stevens",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrismckendrick",
+      "name": "Chris McKendrick",
+      "summary": "CFO & COO at Yamagigu Consulting together with Deloitte",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/warwicklynch",
+      "name": "Warwick Lynch",
+      "summary": "Group Chief Financial Officer at EMG / Gravity Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abigailthomas",
+      "name": "Abigail Thomas",
+      "summary": "Head of Sustainability | Collaborative Design Partner - Special Broadcasting Service (SBS) Australia #Sustainability #Digital #Transformation #CollaborativeDesign",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicchristensen",
+      "name": "Nic Christensen",
+      "summary": "Head Of Corporate Communications, Outreach & CSR, SBS",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-lynch-sydney",
+      "name": "Patrick Lynch",
+      "summary": "Scale Ventures - SaaS Raises & Exits  |  PE/VC",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tonybusuttil",
+      "name": "Tony Busuttil",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pando1965",
+      "name": "Paul Anderson",
+      "summary": "Chief Executive Officer & Managing Director at Healius Limited",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kumitag",
+      "name": "Kumi Taguchi",
+      "summary": "Broadcaster\nHost 'Insight' SBS\nEnquiries: sophie@petticoatmafia.com",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-florencia-melgar-hourcade",
+      "name": "Florencia Isabel Melgar Hourcade",
+      "summary": "*Editorial Standards Manager (News & Current Affairs) SBS Australia \n*PhD by research in  Cross-cultural/Transnational journalism (RMIT)         \n*Consultant - Inclusive & Ethical Editorial Decision-Making",
+      "location": "Artarmon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanya-jackson-vaughan",
+      "name": "Tanya Jackson-Vaughan",
+      "summary": "ICF Accredited Leadership Coach |  Social Impact Consultant |  | Winner 2018 AFR Women of Influence, Social Enterprise & NFP",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clare-o-neil-gaicd-26a53734",
+      "name": "Clare O'Neil GAICD",
+      "summary": "Director of Corporate Affairs at Special Broadcasting Service (SBS) Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandi-wicks-gaicd-a921a820",
+      "name": "Mandi Wicks GAICD",
+      "summary": "Director - SBS News and Current Affairs at Special Broadcasting Service (SBS) Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelebeid",
+      "name": "Michael Ebeid AM",
+      "summary": "Chairman of Screen Australia, Non-Executive Board Director at BAI Communications, The Sydney Opera House and KPMG’s APAC Board. Former CEO of SBS and Group Executive of Telstra Enterprise.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vic-alhadeff-0b5714",
+      "name": "Vic Alhadeff",
+      "summary": "Non-Executive Director",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angus-knapp-9a53a52",
+      "name": "Angus Knapp",
+      "summary": "CFO at DyFlex Solutions",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernardmhall",
+      "name": "Bernard Hall",
+      "summary": "Director at Deloitte Australia",
+      "location": "Mount Eliza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameron-price-8038904",
+      "name": "Cameron Price",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felicityconlan",
+      "name": "Felicity Conlan",
+      "summary": "CFO - Non Executive Director - Audit & Risk Committee",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dimitri-courtelis-2bb61711",
+      "name": "Dimitri Courtelis",
+      "summary": "Group Chief Financial Officer - SunRice | \nNED - Virgin Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanya-denning-orman-3318ba12",
+      "name": "Tanya Denning Orman",
+      "summary": "Director, First Nations at Special Broadcasting Service (SBS) Australia, NITV and World Indigenous Broadcaster",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andyjianglt",
+      "name": "Andy Jiang",
+      "summary": "Tourism and Events Queensland",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ken-shipp-862aa014",
+      "name": "Ken Shipp",
+      "summary": "Industry Veteran | Sports Rights, Content and Commercial Leadership",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-yourn-86508417",
+      "name": "Frank Yourn",
+      "summary": "Director at Frank Yourn Associates",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-penn-48707219",
+      "name": "Andrew Penn",
+      "summary": "Non executive director and strategic advisor - former Chief Executive Officer of Telstra",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amara-barnes-23257527",
+      "name": "Amara Barnes",
+      "summary": "Driving social impact | First Nations Engagement & Strategy | MBA",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-paschalidis-1649092a",
+      "name": "Andrew Paschalidis",
+      "summary": "Heartbeat of Football Founder, Australia Day Ambassador, NSW Office of Sport Multicultural Advisory Council, Indian Super League commentator",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-stewart-60662730",
+      "name": "Andrew Stewart",
+      "summary": null,
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-bosch-a6762932",
+      "name": "Jason Bosch",
+      "summary": "APAC Regional Financial Controller at Dentsu",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-hayes-30623933",
+      "name": "Chris Hayes",
+      "summary": "Executive Director & Chief Financial Officer",
+      "location": "Geelong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hoda-mirzaeipoueinak-2a180339",
+      "name": "Hoda Mirzaeipoueinak",
+      "summary": "Co-Founder@Lumin | Build your gaming identity.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lars-heidenreich-77109443",
+      "name": "Lars Heidenreich",
+      "summary": "Managing Director of FSA Consult Pty Ltd.",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lanneke-hargreaves-785a0746",
+      "name": "Lanneke Hargreaves",
+      "summary": "Managing Editor- Current Affairs - Special Broadcasting Service (SBS) Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-lewis-3bb0384b",
+      "name": "Matthew Lewis",
+      "summary": "CFO @ Wisr (ASX: WZR) | CA | F FIN",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-yazbeck-73832055",
+      "name": "Susan Yazbeck",
+      "summary": "Community | Partnerships | Leadership",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/naomi-steer-39055768",
+      "name": "Naomi Steer",
+      "summary": "Human Rights , Not-for-Profit Leadership , Governance and Strategy",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-san-mart%25C3%25ADn-morales-32a99769",
+      "name": "Nicole San Martín Morales",
+      "summary": "Estudiante en Universidad de Las Américas (CL)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/corrin-grant-32078477",
+      "name": "Corrin Grant",
+      "summary": "Documentary Director",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-flett-9456288b",
+      "name": "Annie Flett",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rio-ferdinand",
+      "name": "Rio Ferdinand",
+      "summary": "Ambassador | Digital Content Creator | Investor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-want-98341199",
+      "name": "Jeff Want",
+      "summary": "Director at The Home Co. Property Management",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-baillie-903282b5",
+      "name": "Rebecca Baillie",
+      "summary": "Supervising Producer, SBS Insight at Special Broadcasting Service (SBS) Australia",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jodi-allen-158403ba",
+      "name": "JODI ALLEN",
+      "summary": "Trading Mate | Small Business Promotions | FNQ Regional Community Forum member 2022-23",
+      "location": "Trinity Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasmin-kaur-934381115",
+      "name": "Jasmin Kaur",
+      "summary": "Partner - Advisory at PwC Australia",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathryn-fink-8a66942a",
+      "name": "Kathryn Fink",
+      "summary": "Director of Television SBS",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/uma-oldham-18347a3",
+      "name": "Uma Oldham",
+      "summary": "Executive Leader with strong capabilities across all aspects of Marketing and Communication, Advertising, People + Culture, Commercial Strategy, Digital Transformation + Change Management.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stigbell",
+      "name": "Stig Bell",
+      "summary": "Director of People & Culture at Special Broadcasting Service (SBS) Australia",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/neilmaclure",
+      "name": "Neil Maclure",
+      "summary": "CIO | CTO | Executive Director | Transformation Leader",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-farnham",
+      "name": "Darren Farnham",
+      "summary": "Chief Technology Officer at Special Broadcasting Service (SBS) Australia ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-sadler-a69a3315",
+      "name": "Adam Sadler",
+      "summary": "Head of Media Sales AU - Scentre Group BrandSpace",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-yassien-897b1a12",
+      "name": "Sarah Yassien",
+      "summary": "Recognised strategic and innovative leader in the media and broadcast sector",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-palfreyman-ba46a08",
+      "name": "Jane Palfreyman",
+      "summary": "Chief Marketing & Commercial Officer | NSW Rugby Union Board Member | Member - Chief Executive Women Network",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-andrews-0275662",
+      "name": "Peter Andrews",
+      "summary": "Head of Network Programming - Television & Online Content at SBS Australia",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-malone-gaicd-506728122",
+      "name": "Tom Malone (GAICD)",
+      "summary": "Managing Director at Nine Radio",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammad-al-khafaji-gaicd-8a813423",
+      "name": "Mohammad Al-Khafaji GAICD",
+      "summary": "Head of Strategic Partnerships - SBS",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sajjadaskary",
+      "name": "Sajjad Askary",
+      "summary": "From Refugee to Australian Lawyer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nitsa-niarchos-63a144ba",
+      "name": "Nitsa Niarchos",
+      "summary": "--",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "MOVE is now the only official currency in Australia’s Out of Home industry. The united industry standard for campaign planning, buying, and…",
+      "link": "https://www.linkedin.com/posts/ooh-media_move-is-now-the-only-official-currency-in-activity-7439155109655347201-Y0SL",
+      "activity_status": null
+    },
+    {
+      "title": "The biggest stage for your brand to shout from the rooftops in the Southern Hemisphere. Delivering unmissable impact and long-term brand memory with…",
+      "link": "https://www.linkedin.com/posts/ooh-media_specsavers-x-oohmedia-on-the-silos-activity-7439469242174885889-jlI4",
+      "activity_status": null
+    },
+    {
+      "title": "They’re going to Cairns! Congratulations to our own Cara Edwards and Ruby Meers for their nomination as finalists in the Out of Home category of the…",
+      "link": "https://www.linkedin.com/posts/ooh-media_theyre-going-to-cairns-congratulations-activity-7439505826257469440-lN4L",
+      "activity_status": null
+    },
+    {
+      "title": "Consistency. Distinctiveness. Salience. Combined with media moments that only oOh! can deliver, ING Australia’s latest campaign is unmissable (…and…",
+      "link": "https://www.linkedin.com/posts/ooh-media_consistency-distinctiveness-salience-activity-7439819020377436160-reJ1",
+      "activity_status": null
+    },
+    {
+      "title": "Turning retail presence into real impact. Create unmissable executions with retail dominations, from the iconic Melbourne Central, to the Gold…",
+      "link": "https://www.linkedin.com/posts/ooh-media_turning-retail-presence-into-real-impact-activity-7440205246859046912-5tM1",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Cricket Australia and Special Australia on the ‘Unmissable First Over’ being named as a finalist at the OMA Creative Awards! We…",
+      "link": "https://www.linkedin.com/posts/ooh-media_congratulations-to-cricket-australia-and-activity-7440585353293451265-z7I8",
+      "activity_status": null
+    },
+    {
+      "title": "Encouraging Aussies to support local, Australian Made’s is putting the spotlight on the iconic green and gold. Drawing attention to a logo that…",
+      "link": "https://www.linkedin.com/posts/ooh-media_encouraging-aussies-to-support-local-australian-activity-7440614377021583361-Mk_p",
+      "activity_status": null
+    },
+    {
+      "title": "Stop audiences in their tracks with the largest 3D network in Australia. Home to the most iconic 3D anamorphic sites, such as The Bourke and Yagan…",
+      "link": "https://www.linkedin.com/posts/ooh-media_stop-audiences-in-their-tracks-with-the-largest-activity-7441638483376627712-uQWB",
+      "activity_status": null
+    },
+    {
+      "title": "A world-leading measurement system tracking how Australians move across 7 million road segments, MOVE unlocks the true power of Out of Home. For…",
+      "link": "https://www.linkedin.com/posts/ooh-media_a-world-leading-measurement-system-tracking-activity-7441980305458229248-EX6w",
+      "activity_status": null
+    },
+    {
+      "title": "Off the back of being named as a finalist for the Cairns Hatchlings, strategic guru Ruby Meers features in the latest AdNews Australia Young Guns…",
+      "link": "https://www.linkedin.com/posts/ooh-media_off-the-back-of-being-named-as-a-finalist-activity-7442339590595567616-HDwp",
+      "activity_status": null
+    },
+    {
+      "title": "Last night SBS and Guardian Australia hosted a special Q&A screening of landmark documentary series The People Vs Robodebt ahead of this evening’s…",
+      "link": "https://www.linkedin.com/posts/special-broadcasting-service-sbs-australia_notmydebt-activity-7376457843316621312-kaIs",
+      "activity_status": null
+    },
+    {
+      "title": "I’m coming home! I’m so proud to be coming back to NITV as General Manager and SBS as a senior journalist and broadcaster. NITV gave me my start…",
+      "link": "https://www.linkedin.com/posts/danbourchier_im-coming-home-im-so-proud-to-be-coming-activity-7363726265066942466-jU0o",
+      "activity_status": null
+    },
+    {
+      "title": "SBS is deeply saddened by the passing of David Stratton, one of Australia’s most respected and beloved film critics. His insightful reviews and…",
+      "link": "https://www.linkedin.com/posts/special-broadcasting-service-sbs-australia_sbs-is-deeply-saddened-by-the-passing-of-activity-7361910958220328960-r_AR",
+      "activity_status": null
+    },
+    {
+      "title": "Applications for the 2026 SBS Journalism Cadetship program are now open! Hear from some of our former cadets about their paths in journalism since…",
+      "link": "https://www.linkedin.com/posts/special-broadcasting-service-sbs-australia_applications-for-the-2026-sbs-journalism-activity-7360584341581697024-FObH",
+      "activity_status": null
+    },
+    {
+      "title": "At SBS, we have a smallish but mighty News and Current Affairs team which is focused on serving audiences every day. It’s hugely rewarding when the…",
+      "link": "https://www.linkedin.com/posts/mandi-wicks-gaicd-a921a820_new-york-festivals-tv-and-film-awards-2025-activity-7332663772777537536-4gnd",
+      "activity_status": null
+    },
+    {
+      "title": "From pre-dawn meals to fasting to nightly prayers, here's a glimpse into an Australian Muslim's day during Ramadan. Explore more:…",
+      "link": "https://www.linkedin.com/posts/special-broadcasting-service-sbs-australia_eid2025-ramadan2025-fasting-activity-7307572883692666880-c9qA",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing compares to a FIFA World Cup at Australia's spiritual home of football. Delighted to be back for another working with the SBS media sales…",
+      "link": "https://www.linkedin.com/posts/olek-novak-30709360_nothing-compares-to-a-fifa-world-cup-at-australias-activity-7267790693144633344-EpVX",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to the SBS Audio team for taking out this title three years in a row. Great to see your innovation being recognised so thoroughly.",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_congratulations-to-the-sbs-audio-team-for-activity-7265571232928923648-nBsG",
+      "activity_status": null
+    },
+    {
+      "title": "With so much in the pipeline, and the debate around the influence of big multinational tech players on our local media landscape, Jane Palfreyman and…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_one-on-one-sbs-james-taylor-and-jane-palfreyman-activity-7191985194671697920-8CsK",
+      "activity_status": null
+    },
+    {
+      "title": "It’s been an exciting launch of Alone Australia Season 2, which has already become our most watched show of 2024, reaching more than a million…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_alone-but-watched-by-millions-alone-australia-activity-7184400291973197824-yaTw",
+      "activity_status": null
+    },
+    {
+      "title": "Last week, our Sydney and Melbourne offices joined more than one million Australians in celebrating Lunar New Year, ringing in the Year of the Dragon…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_last-week-our-sydney-and-melbourne-offices-activity-7162950209403113472-oFVT",
+      "activity_status": null
+    },
+    {
+      "title": "It was great to host more than 500 clients and stakeholders at our 2024 SBS Upfronts event in Sydney yesterday and showcase what we have in store for…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-puts-esg-centre-stage-with-gambling-activity-7125347833922158592-I1nb",
+      "activity_status": null
+    },
+    {
+      "title": "Itâs Upfronts week for SBS and we are making a number of exciting announcements the first of which relates to sustainability, including that we are…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-marks-industry-first-with-net-zero-direct-activity-7124553282185809920-uh-3",
+      "activity_status": null
+    },
+    {
+      "title": "Today The Austalian Financial Review has named SBS one of the most innovative media / marketing companies in Australia. Itâs a great honour and…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-has-a-new-content-plan-to-speak-to-all-activity-7112679934308818945-lkS_",
+      "activity_status": null
+    },
+    {
+      "title": "The new SBS.com.au is the centrepiece of a significant technology transformation at SBS - one now visible across our new Whatâs On guide, NITV and…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-unveils-bold-refresh-of-its-digital-home-activity-7072093331144470528-y65t",
+      "activity_status": null
+    },
+    {
+      "title": "One of these two men is a famous footballer, the other wishes he wasâ¦ Â As a public broadcaster who spends a lot of time focused on how we create…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_one-of-these-two-men-is-a-famous-footballer-activity-7044530801723506688-7s_P",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday marked the 10 year anniversary of NITV switching on as a free-to-air channel as part of SBS. To celebrate, an incredible line-up of First…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_nitv10years-activity-7008232473352425472-BukU",
+      "activity_status": null
+    },
+    {
+      "title": "Our reporter Eli Mengem summarises an incredible moment live from Fed Square at 4am this morning.Â #worldcup2022 #weallspeakfootball",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-this-is-football-in-australia-activity-7003918024558735360--LOc",
+      "activity_status": null
+    },
+    {
+      "title": "Today is the international day for the elimination of violence against women and the commencement of the UN Secretary Generalâs 16 days of activism…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_essential-viewing-for-16-days-of-activism-activity-7001697539867508736-YCgf",
+      "activity_status": null
+    },
+    {
+      "title": "This afternoon, SBS hosted its 2023 Upfront event where we showcased the largest and strongest content slate in SBS history and the highest ever…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-reveals-an-entertaining-original-and-activity-6993411932846202880-bo4i",
+      "activity_status": null
+    },
+    {
+      "title": "Our SBS team is truly unique in Australia and plays a role in increasing cultural understanding and celebrating this nationâs rich diversity in a…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_our-sbs-team-is-truly-unique-in-australia-activity-6988695142324920320-ZtCh",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Mandi Wicks GAICD, David Hua and their respective teams on this well deserved recognition.",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_ruokstrongertogether-activity-6516164828233601024-V6yT",
+      "activity_status": null
+    },
+    {
+      "title": "I’m so very proud of the entire SBS team for their tireless work over the Federal Election campaign. Across all our platforms this election has seen…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-says-translated-election-debates-helped-activity-6934299268165816320-iIog",
+      "activity_status": null
+    },
+    {
+      "title": "This afternoon, I am thrilled to announce that SBS appointed Kathryn Fink as the new SBS Director of Television. Kathryn is Australian born with over…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-taps-former-news-corp-disney-executive-activity-6940917896894115840-fQc0",
+      "activity_status": null
+    },
+    {
+      "title": "Big day for many of the teams here at SBS. Iâm loving all the Census coverage from Mandi Wicks GAICD and David Huaâs teams. Â Australia really is…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_big-day-for-many-of-the-teams-here-at-sbs-activity-6947448387566735360-bg1t",
+      "activity_status": null
+    },
+    {
+      "title": "SBS welcomes the release of the Champions of Change report, ‘Playing Our Part: A Framework for Workplace Action on Domestic and Family Violence’.…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_playing-our-part-a-framework-for-workplace-activity-6863696124683919360-Gkyk",
+      "activity_status": null
+    },
+    {
+      "title": "Another busy weekend for both our SBS TV and radio news teams as the Federal Election campaign moves into its final weeks. It was great to spend a…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_another-busy-weekend-for-both-our-sbs-tv-activity-6929205354060795904-8hNe",
+      "activity_status": null
+    },
+    {
+      "title": "It was great to be out in Bankstown, on Saturday, as the SBS language services team kicked off the first of eight SBS Election Exchanges we’ll be…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_it-was-great-to-be-out-in-bankstown-on-saturday-activity-6924492802160558080-nMF5",
+      "activity_status": null
+    },
+    {
+      "title": "Today we were excited to announce the launch of the Emerging Screenwriters’ Incubator, a new, nationwide initiative to support the development of…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_content-initiatives-activity-6767638194168188928-nSdQ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_videos-about-label-and-disability-activity-6740113694904201216-MzGA",
+      "activity_status": null
+    },
+    {
+      "title": "NAIDOC Week is coming up, from 8-15 November, and SBS has a raft of fantastic programming to celebrate across the network. We’re absolutely thrilled…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_naidoc-week-is-coming-up-from-8-15-november-activity-6722757539605413888-y6kS",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_how-do-you-spend-your-day-on-january-26-activity-6626961667928494080-yZ9W",
+      "activity_status": null
+    },
+    {
+      "title": "SBS proudly the free to air home of basketball in Australia. NBL, NBA and WNBA.",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-announce-multiyear-free-to-air-nba-wnba-activity-6576663252544122880-qaID",
+      "activity_status": null
+    },
+    {
+      "title": "Special Broadcasting Service (SBS) Australia is thrilled to partner with the NBL to become the exclusive free-to-air home of Australian basketball.…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-the-exclusive-free-to-air-home-of-australian-activity-6562120417182646273-NSyt",
+      "activity_status": null
+    },
+    {
+      "title": "Launched today, a report by Deloitte Access Economics, commissioned by Special Broadcasting Service (SBS) Australia, has found that improving social…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_launched-today-a-report-by-deloitte-access-activity-6572258031504056320-aoal",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to announce that Special Broadcasting Service (SBS) Australia is launching a fifth free-to-air channel from 1 July 2019. SBS World Movies…",
+      "link": "https://www.linkedin.com/posts/james-taylor-3710837_sbs-to-cash-in-on-world-movie-channel-activity-6530927533238640640-3OUE",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "James Taylor",
+      "link": "https://www.linkedin.com/in/james-taylor-460922b",
+      "summary": "Regional Manager james.f.taylor@rhi.com",
+      "location": "Charleston, SC"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://www.linkedin.com/in/james-taylor-01823535",
+      "summary": "Owner, Taylor Publications",
+      "location": "Bourbonnais, IL"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://www.linkedin.com/in/james-taylor-44b804b1",
+      "summary": "Attorney at James N. Taylor Co. L.P.a.",
+      "location": "Elyria, OH"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-mmb",
+      "summary": "Managing Director of Make My Blinds",
+      "location": "Bristol"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-60233a29",
+      "summary": "Owner, London Decorators Merchants",
+      "location": "Tonbridge"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-400a7141",
+      "summary": "Associate Director at Geotechnical Engineering Limited",
+      "location": "Elmore"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/james-taylor-jimmy",
+      "summary": "Tunneler at Cross Yarra Partnership CYP",
+      "location": "Greater Melbourne Area"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-38210886",
+      "summary": "Director of G Bradbury Ltd",
+      "location": "Leeds"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-35172558",
+      "summary": "Qualified Commercial Pilot (UK & EASA) | PPL Flight Instructor",
+      "location": "Tonbridge"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://uk.linkedin.com/in/james-taylor-29411125",
+      "summary": "Quantity Surveyor",
+      "location": "Greater Leeds Area"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/james-taylor-3208bbb",
+      "summary": "Curriculum Design Consultant at Murdoch University",
+      "location": "Winthrop, WA"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/jameswstaylor",
+      "summary": null,
+      "location": "Sydney, NSW"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/jntaylor",
+      "summary": "ex-COO @ TeamForm | Tech Exec | Advisor | IT/SaaS Contracts | Customer Success | InfoSec | Open to contract/PT engagements",
+      "location": "Sydney, NSW"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/jamesmtaylor",
+      "summary": null,
+      "location": "Sydney, NSW"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/james-taylor-4b235b20",
+      "summary": "Head of Research, The Growth Intelligence Centre & The Growth Distillery",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "James Taylor",
+      "link": "https://au.linkedin.com/in/jamestaylor666",
+      "summary": "Principal - Vendor Management & Negotiation COE",
+      "location": "Greater Melbourne Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-17T00:00:00Z"
+  }
+}

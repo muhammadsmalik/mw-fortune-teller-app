@@ -1,0 +1,2234 @@
+{
+  "public_identifier": "henryinnis",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C5616AQEAX47ABZsoDw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1581919516974?e=2147483647&v=beta&t=fnyUUMRhX6R6Q02KS49_SKhbR2XCXLZna72LLTtGNZQ",
+  "first_name": "Henry",
+  "last_name": "Innis",
+  "full_name": "Henry Innis",
+  "follower_count": 6900,
+  "occupation": "Investor at Cuttable",
+  "headline": "Co-Founder at Mutinex | We're Hiring!",
+  "summary": "Entrepreneur at Mutinex, with a focus on leading, growing, product and operations. Background in software engineering and digital strategy, with high proficiency in solution architecture, analytics and Python/Ruby programming languages. \n\nUnder-30 Achiever of the Year 2020 @ Mumbrella, Media Week Next of the Best Leadership winner in 2024, numerous awards for entrepreneurship and business building. I grow businesses and build products - it's that simple.\n\nDirector at Exit Capital, with a focus on investing in and growing data / database businesses.",
+  "location_str": "New York City Metropolitan Area",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "New York metropolitan area",
+  "state": "New York",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Cuttable",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cuttable",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": null,
+      "location": "New York City Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/179b3c3efa767d742d953858a3fd2bac"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Mutinex",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mutinex",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder",
+      "description": "Co-founder. Product guy. Software guy.  \n\nWe help companies manage billions in growth investment decisions better.\n\nThe software version of Mutinex began at the start of 2022. Before that, it was a consultancy.",
+      "location": "New York, New York, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/40702451c9e0909a2e3a01a66ba7954a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Ideally",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ideally-insights",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Investor via FWBC",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0a3d0124563c5325f2bb90d52596b75e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Springboards.ai",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/springboardsai",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": null,
+      "location": "New York City Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/771a94b8505eb05c1801c566c94776e8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Costmine Intelligence",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/costmineintel",
+      "company_facebook_profile_url": null,
+      "title": "Technical Advisor / Investor",
+      "description": null,
+      "location": "New York City Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a00a1aad70dd68f138b496b4a7a9f33b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Preve®",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/preve",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Investor via FWBC. Invested pre-seed, company now at Seed stage recently raising $2.2m @ $8m (up from $500k @ $4m).",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8f08b84c49d0a1715165b8725817521a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "ReciMe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/recimeapp",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Investor @ ReciMe. Occasional advisor. \n\nReciMe has gone from some ~3,000 users when I invested to being one of the largest food recipe apps on the web, boasting hundreds of thousands of users.",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e918d4034a41bbeb5ceeb578e0fec3b7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Exit Capital",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Director at Exit Capital, boutique investment and mid-market M&A specialist.\n\nInvestments include Costmine, MB, TrueState and a range of other small positions in early stage software comapnies.",
+      "location": "Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "Consulting",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Advisor/Angel Investor/Entrepreneur",
+      "description": "Investment and guidance (software, sales, operations) for key investments and startups. \nFormer include: Intierra (exited), Urban Walkabout (shut down), ASM (exited), Peazie (badly exited), NRH (exited) and Trendwise (shut down)\n\nOccasionally looking for interesting projects",
+      "location": "Sydney, Melbourne, Perth",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2025
+      },
+      "company": "MagicBrief",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/magicbrief",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Investor via FWBC. Exited company prior to acquisition by Canva for a good return.",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a7a68be2fb1e8bc5729cf5a7aaf4b25e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "The Trenches",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/thetrenches-mentor",
+      "company_facebook_profile_url": null,
+      "title": "Mentor",
+      "description": "Industry mentor at The Trenches.",
+      "location": "Melbourne, Sydney",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7e04ddb5dbd04a5e8446b5be9e7f49ee"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Macquarie University",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Guest Lecturer",
+      "description": null,
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "University of Sydney",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Guest Lecturer",
+      "description": "Guest lecturer at the University of Sydney for the Master of Business Administration marketing stream. \nTopic: \"Strategic decision making in marketing using data\".",
+      "location": "Sydney, New South Wales, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Flobox",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/flobox.io",
+      "company_facebook_profile_url": null,
+      "title": "Advisor",
+      "description": "Advisor on clients, revenue, growth, product and fund raising.\n\nBusiness was pivoted to another non-advertising product.",
+      "location": "New York City Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aefed40b17581a2696527b17dfd8860"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2018
+      },
+      "company": "VML",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vml",
+      "company_facebook_profile_url": null,
+      "title": "Engagement Strategy Director - ANZ",
+      "description": "Engagement Planning Director working across all things planning, strategy, technology and digital for Y&R ANZ and working on the structure and capabilities of the group. Output included brand planning, digital, corporate reviews and commercial reviews.",
+      "location": "Sydney, Brisbane, Melbourne",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d682c047d6a296b05618fac4c4c6b1d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "VMLY&R",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vml",
+      "company_facebook_profile_url": null,
+      "title": "Strategy",
+      "description": "Strategy at VML (part of Y&R Group), working on productising VML's offering + new biz + consolidating accounts. Loads of fun with great people. \n\nClients: McDonalds, Hyundai, Genea, Menulog, NRMA, Metlife, NSW Government\n\nPitch wins: Menulog, Genea, Metlife, Health&Co, GamblingNSW, Petbarn\n\nNotable work:\n* mymacca's app launched to number #1 in the app store in 24 hours (lowest CPI of campaigns to date)\n* McDelivery launched beating targets by 50%\n* Starting up marketing function of Health&Co \n* Launching McDelivery to market with record sales globally\n* Launching the new Chicken Tenders to market\n* Strategy & digital on the Menulog 'Less Talk, More Eat' campaign, shortlisted for B&T's Ad Campaign of the Year\n* Pitching and creating the new Betiquette campaign from digital, social, user journey perspective",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d682c047d6a296b05618fac4c4c6b1d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2017
+      },
+      "company": "SupplementsWorld",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Advisor",
+      "description": "Strategy at VML (part of Y&R Group), working on productising VML's offering + new biz + consolidating accounts. Loads of fun with great people. \n\nClients: McDonalds, Hyundai, Genea, Menulog, NRMA, Metlife, NSW Government\n\nPitch wins: Menulog, Genea, Metlife, Health&Co, GamblingNSW, Petbarn\n\nNotable work:\n* mymacca's app launched to number #1 in the app store in 24 hours (lowest CPI of campaigns to date)\n* McDelivery launched beating targets by 50%\n* Starting up marketing function of Health&Co \n* Launching McDelivery to market with record sales globally\n* Launching the new Chicken Tenders to market\n* Strategy & digital on the Menulog 'Less Talk, More Eat' campaign, shortlisted for B&T's Ad Campaign of the Year\n* Pitching and creating the new Betiquette campaign from digital, social, user journey perspective",
+      "location": "Greater Sydney Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "company": "HERO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hero-co",
+      "company_facebook_profile_url": null,
+      "title": "Strategy",
+      "description": "Working with great brands leading strategic direction in marketing/digital, working with startups to help with capital raises, go-to-market strategies and product development (again in the digital space). Equity partner in the business.\n\nGrew and managed teams extensively and worked on the structure of the business.\n\nKey achievements: \n> Driving a social & content strategy that delivered up to 50% decrease in CPA for Medibank. \n> Relaunching Medibank's social and content platforms to align to a new 'Stargate' strategy. \n> Launching a number of campaigns across content, social and digital for Medibank.\n> Building the go-to-market and launching Australia's fastest growing new social network, Bombd. \n> Building the digital strategy and customer framework for KinCare.\n> Developing new product in the hair loss industry, Samson & Sons. \n> Consulting extensively to the video game industry on launches and similar.",
+      "location": "Sydney",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/31ff803c9fa7bcd59e8ee3411da3f3d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "company": "Urban Walkabout",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/urban-walkabout",
+      "company_facebook_profile_url": null,
+      "title": "Strategy",
+      "description": "Consulting to build the marketing capability of SupplementsWorld (an e-commerce business). Working across message, content, automation and social.",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/074f3fbf3d499a3a2aac6e05d821d4cf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2015
+      },
+      "company": "AKQA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/akqa",
+      "company_facebook_profile_url": null,
+      "title": "Strategy",
+      "description": "Working with great brands leading strategic direction in marketing/digital, working with startups to help with capital raises, go-to-market strategies and product development (again in the digital space). Equity partner in the business.\n\nGrew and managed teams extensively and worked on the structure of the business.\n\nKey achievements: \n> Driving a social & content strategy that delivered up to 50% decrease in CPA for Medibank. \n> Relaunching Medibank's social and content platforms to align to a new 'Stargate' strategy. \n> Launching a number of campaigns across content, social and digital for Medibank.\n> Building the go-to-market and launching Australia's fastest growing new social network, Bombd. \n> Building the digital strategy and customer framework for KinCare.\n> Developing new product in the hair loss industry, Samson & Sons. \n> Consulting extensively to the video game industry on launches and similar.",
+      "location": "Greater Sydney Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0555ebf2c1d5bc41f9973718ac4714ec"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "Nibble Edge",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nibble-edge",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Strategist",
+      "description": "Building product, platform and marketing capability for hyper-local media/marketing group. Key achievements include 300% improvement in digital visitation via social/email channels and 30% improvement in digital client revenue. \n\nEquity partner in the business.",
+      "location": "New York City Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/56358d5ac5f6f6bb4e7a0d93fc964af5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "Hearst UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hearst-magazines-uk",
+      "company_facebook_profile_url": null,
+      "title": "Digital Product Team",
+      "description": "Completed a work placement with the Hearst Digital Product team, working on product development and strategy. Involved product/market mapping and identification of key opportunities.",
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eb017373dc9ff6edcbf58f78e9ac74f7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "theprojects*",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Intern",
+      "description": "Worked under a team focusing on experiential brand marketing. Was part of a team that brainstormed ideas, executed goals, and created high end, unconventional marketing strategies. \n\nCampaigns included the Pantene Secret Shampoo campaign, and a variety of pitch ideas. Assisted in the execution of campaigns by co-ordinating contractors, organizing/arranging permits, and executing ideas under my direct supervisors.\n\nWas a very hands on experience and I loved it.",
+      "location": "Greater Sydney Area",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": "Business, Management, Marketing, and Related Support Services",
+      "degree_name": "Business",
+      "school": "STW High Performers Program",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "A 12 month program for STW Group's future leaders. Two participants from each agency are selected to undertake training from the industry's foremost thought leaders.",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": "History and Anthropology",
+      "degree_name": "Bachelor of Arts (B.A.)",
+      "school": "University of Sydney",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-sydney",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/80c1daaf12f5a10dbf3ff1a6ad84df06",
+      "grade": "Credit",
+      "activities_and_societies": "Activities and Societies: Sydney University Liberal Club (Vice President Activities), Australian Liberal Student's Federation Delegate, Australian Liberal Student's Federation Treasurer"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "WPP",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "STW Spur",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Client Service Excellence Program: Dave Sawicki, Business Director, STW Group\nThe Winning Way - Pitch To Win: Chris Savage, COO, STW Group",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": null,
+      "degree_name": "Digital School",
+      "school": "Mumbrella",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Display Advertising\nMobile Marketing\nSearch\nSocial Media Marketing\nBig Data\nContent Marketing",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": null,
+      "degree_name": "Higher School Certificate",
+      "school": "Cranbrook School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Captain of Debating\nAwarded Academic proficiency prizes in 2009 and 2010.\nAwarded the Gilchrist prize for debating in 2010."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": null,
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "WPP & Facebook Creative Ambassador",
+      "degree_name": null,
+      "school": "WPP",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: A 2 day program for creative executives working with Facebook on best practice, vision and process for driving business results on their platforms."
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "LIMITED_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Under-30 Achiever Of The Year",
+      "issuer": "Mumbrella",
+      "issued_on": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "description": null
+    },
+    {
+      "title": "Alexa Lifeline",
+      "issuer": "Webby Awards - Apps, Mobile & Voice",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "description": "https://www.theverge.com/2019/4/23/18511329/2019-webby-awards-all-the-winners"
+    },
+    {
+      "title": "30 under 30 finalist",
+      "issuer": "B&T",
+      "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "description": null
+    },
+    {
+      "title": "Cannes Shortlist — Innovation — Alexa Lifeline",
+      "issuer": "Cannes Lions",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "description": "Shortlisted for 'Alexa Lifeline', where I wrote the initial brief and insights at VML."
+    },
+    {
+      "title": "Best Integrated Campaign - Bronze",
+      "issuer": "Creativepool",
+      "issued_on": {
+        "day": 1,
+        "month": 5,
+        "year": 2018
+      },
+      "description": "Awarded for 'Less Talk, More Eat'."
+    },
+    {
+      "title": "Shortlist Best Ad - Menulog 'Less Talk, More Eat'",
+      "issuer": "B&T",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2017
+      },
+      "description": null
+    },
+    {
+      "title": "30 under 30",
+      "issuer": "Anthill",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2016
+      },
+      "description": "http://anthillonline.com/henry-innis-2016-anthill-30under30-winner/"
+    },
+    {
+      "title": "High Performance Program",
+      "issuer": "STW/WPPAUNZ",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "description": "Reward for high performers in the group to train in management skills and more."
+    },
+    {
+      "title": "Gilchrist Prize for Debating",
+      "issuer": "Cranbrook School",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2010
+      },
+      "description": null
+    },
+    {
+      "title": "Prize for Academic Proficiency & Achievement",
+      "issuer": "Cranbrook School",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2010
+      },
+      "description": null
+    },
+    {
+      "title": "Cannes Shortlist — Innovation — Alexa Lifeline",
+      "issuer": "Cannes Lions",
+      "issued_on": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "description": "Shortlisted for 'Alexa Lifeline', where I wrote the initial brief and insights at VML."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "title": "Google Glass Hackthon",
+      "description": "We built a Google Glass App (Trace) as a rapid prototype for a leading global humanitarian organisation. One of the key challenges for humanitarian organisations is the need for quick and efficient distribution of relief aid to the ones most in need. They face many challenges in making this happen due to the time it takes to relay information back to base camp.\n\nThe app allows volunteers to wear Google Glass to capture images, recordings and text(via voice recognition) and send them back to a web interface via a web service. This enables all the volunteers and base camp operators to receive data in real time which allows them to make informed decisions in order to ensure relief aid first reaches the ones most in need. Hence, the app will immensely increase relief distribution efficiency and ultimately help in saving more lives. \n\nThe prototype was completed 24 hours starting for problem identification to implementation.\n\n",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": null,
+      "title": "Director",
+      "cause": "Social Services",
+      "company": "Dangar Island Bowling Club",
+      "company_linkedin_profile_url": null,
+      "description": "Director of the Dangar Island Bowling Club. Full oversight of membership recruitment and activity. Community relations. Sorting out problems. Financial management.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 5119,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jaypalmer1",
+      "name": "Jay Palmer",
+      "summary": "Media, Advertising Executive, Strategy, Business Development, Brands",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewantoniou",
+      "name": "Andrew Antoniou",
+      "summary": null,
+      "location": "Watsons Bay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timwtyler",
+      "name": "Tim Tyler",
+      "summary": "Managing Partner at Ellipsis & Company |  Certified Loyalty Marketing Professional ™",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marielleewington",
+      "name": "Marielle Ewington (GAICD)",
+      "summary": "Managing Partner at Valeur Consulting",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deliberatelydifferent",
+      "name": "Ed Brice",
+      "summary": "Brand Strategist ◆ Brand Transformation ◆ Entrepreneur ◆ Building Bold Brands",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margotcotter",
+      "name": "Margot Cotter-Melton",
+      "summary": "Managing Partner at The Pure Agency - Financial Services Advertising and Communications.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-beaumont",
+      "name": "Dan Beaumont",
+      "summary": "Founder @ GAME - Helping brands play to win.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chat-bandaranayake-cpm-41830770",
+      "name": "Chat Bandaranayake (CPM)",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrianleppard",
+      "name": "Adrian Leppard",
+      "summary": "The Business Builder | Innovation, Business, Marketing and Management",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/drewberridge",
+      "name": "Drew Berridge",
+      "summary": "Director of Business & Marketing at Mona + DarkLab",
+      "location": "Hobart"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joetalcott",
+      "name": "Joe Talcott",
+      "summary": "Marketer, Speaker and Mentor",
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hellobradmorris",
+      "name": "Brad Morris",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacquidaley",
+      "name": "Jacqui Daley",
+      "summary": "✨ Strategic Marketing for Game Changers in Manufacturing, Energy and Defence | Chair, Hunter Manufacturing Awards. Author Brag 📕 | Coming 2026",
+      "location": "Islington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amandafalconer",
+      "name": "Amanda Falconer",
+      "summary": "Pet supplement founder.",
+      "location": "Newcastle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattfarrugia1",
+      "name": "Matt Farrugia",
+      "summary": "Co-Founder at Mutinex | We're Hiring!",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomasrwphillips",
+      "name": "Tom Phillips",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iaingood",
+      "name": "Iain Good",
+      "summary": "Business, Brand & Marketing Strategy & Alignment Coach. Partner at Premiumisation Partners (Choice to Growth), Certified Executive Coach & Mindshop Advisor.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edbrice",
+      "name": "Ed Brice",
+      "summary": "Brand Strategist ◆ Brand Transformation ◆ Advertising ◆ Building Bold Brands",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-peacock-b36b6b20",
+      "name": "Josh Peacock",
+      "summary": "CMO & CTO | Entrepreneur | Growth Strategist | Award Winning Campaigns & Social | Digital Marketing & Ecommerce | Digital Transformation | Marketing Innovation | | Asia, Youth & Tech",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-bruton-42297321",
+      "name": "Georgia Bruton",
+      "summary": "CMO Brown Family Wine Group | Board Director | B&T Top 40 under 40 | Brand | Commerce | Retail | Organisational Transformation",
+      "location": "Cremorne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisaedmonds1",
+      "name": "Lisa Edmonds",
+      "summary": "Commercial Problem Solver | Strategic Facilitator| Strategy, Marketing, Sales, and Innovation|",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beaupeurt",
+      "name": "Adam Beaupeurt GAICD",
+      "summary": "Building AI-assisted physical therapy. Preve Co-founder (Startmate W24)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amymaytucker",
+      "name": "Amy Tucker",
+      "summary": "Co Founder Springboards.ai , Ex Shopify, Ex Twitter",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/christine-nguyen-196127141",
+      "name": "Christine Nguyen",
+      "summary": "Co-Founder & CEO @ ReciMe",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/pipbingemann",
+      "name": "Pip Bingemann",
+      "summary": "Springboards.ai Co-Founder",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/danny-bass-73552714",
+      "name": "Danny Bass",
+      "summary": "Global Chief Revenue Officer Mutinex | Founder Berry Hill | MFA Board Member",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/willokent",
+      "name": "Will Kent",
+      "summary": "Co-Founder @ ReciMe",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chadstephens1",
+      "name": "Chad Stephens",
+      "summary": "3x Exited Founder | Startup Advisor | Fractional Co-Founder",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tommortonnarratorycapital",
+      "name": "Tom Morton",
+      "summary": "Building bigger futures for technology, media and creativity-powered businesses and brands. Founder of Narratory Capital, LLC. Former global chief strategy officer at R/GA.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshuanuusteele",
+      "name": "Joshua Nu’u-Steele",
+      "summary": "Co-Founder & CRO at Ideally |  Brand Innovation & Creativity",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/christina-p-b6574b137",
+      "name": "Christina P.",
+      "summary": "Data Scientist: Machine Learning for a Better World",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-strategist",
+      "name": "Charles Morgan",
+      "summary": "Marketing science nerd making MMM easier to understand and use to make profitable planning and optimisation decisions.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/zeeshanijaved",
+      "name": "Zeeshan Javed",
+      "summary": "Founder ZJ Advisory | Marketing Science Partner at Mutinex | Keynote Speaker Data and AI | APAC CIO Outlook Magazine Top IT Leader| CDAO Sydney Advisory Board Member",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-sintras-908aa2",
+      "name": "John Sintras",
+      "summary": "President, US & Multinational, Mutinex",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivy-nguyen-66b04b1a2",
+      "name": "Ivy Nguyen",
+      "summary": "Co-Founder at ReciMe",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-hollands-92874040",
+      "name": "Peter Hollands",
+      "summary": "Managing Bloomsbury’s investments in: mining decarb. and hydrology (Skarn); LCA for mining, metals, batteries, EVs, photovoltaics (Minviro); forestry (Xilva); seaweed (Cascadia); Marketing Mix Models (Mutinex).",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/aruys",
+      "name": "Anathea Ruys (she, her, hers)",
+      "summary": "Globally experienced CEO. Visionary people leader. Powerful communicator",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sgawn",
+      "name": "Simon Gawn",
+      "summary": "Ideally - Global Strategy",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/cassie-mcadams",
+      "name": "Cassie McAdams",
+      "summary": "Chief of Staff at Ideally. Founder at OnBoard",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rupertpay",
+      "name": "Rupert P.",
+      "summary": "Snr Business Director - Mutinex",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Keith Newton\n\nIt is refreshing to find strong commercial anchoring in such a youthful mind. It means Henry's ideas - which are so plentiful, one can only assume that there are a few Watson chips sitting in his head - demand a serious hearing. Henry lives at the forefront of the communications industry, as does his boundless passion. He is also a delight to work with. Highly recommended.",
+    "Stuart Mitchell\n\nIt’s rare to get an “agency unicorn” like Henry! He’s a very switched on and savvy operator. A strong strategic thinker, he really understood our consumers and how best to connect with them in meaningful ways. He’s also not afraid to challenge the client (which I really appreciated) and was always thinking one step ahead. If there ever was a guy who had the crystal ball into the digital future, this is the guy. \n\nIt was an absolute pleasure to work with Henry. I really do hope I can partner with him again.",
+    "Stuart Mitchell\n\nIts rare to get an agency unicorn like Henry! Hes a very switched on and savvy operator. A strong strategic thinker, he really understood our consumers and how best to connect with them in meaningful ways. Hes also not afraid to challenge the client (which I really appreciated) and was always thinking one step ahead. If there ever was a guy who had the crystal ball into the digital future, this is the guy. It was an absolute pleasure to work with Henry. I really do hope I can partner with him again.",
+    "Stuart Mitchell\n\nIt’s rare to get an agency unicorn like Henry! He’s a very switched on and savvy operator. A strong strategic thinker, he really understood our consumers and how best to connect with them in meaningful ways. He’s also not afraid to challenge the client (which I really appreciated) and was always thinking one step ahead. If there ever was a guy who had the crystal ball into the digital future, this is the guy. It was an absolute pleasure to work with Henry. I really do hope I can partner with him again."
+  ],
+  "activities": [
+    {
+      "title": "The truth about Google and Meta 'updates' that everyone knows, but no one wants to admit: Every major platform update follows the same pattern…",
+      "link": "https://www.linkedin.com/posts/zack-miller_the-truth-about-google-and-meta-updates-activity-7293000938313707520-utZZ",
+      "activity_status": null
+    },
+    {
+      "title": "One of the questions I chat about with peers a lot is how deep learning and neural networks could reshape market mix modelling (MMM). So far, they…",
+      "link": "https://www.linkedin.com/posts/henryinnis_one-of-the-questions-i-chat-about-with-peers-activity-7294486476736667648-6TlR",
+      "activity_status": null
+    },
+    {
+      "title": "It is not true that #AnthonyAlbanese has never held a real job. He worked in the Commonwealth Bank for 9 months when he was 18. After that he worked…",
+      "link": "https://www.linkedin.com/posts/vern-hughes-92341119_anthonyalbanese-richardmarles-jimchalmers-activity-7293754333953695744-0_cY",
+      "activity_status": null
+    },
+    {
+      "title": "Someone needs to invent \"Captcha\" for email. So before an email is delivered to your inbox, the \"sender\" has to do something to show they are a…",
+      "link": "https://www.linkedin.com/posts/tomfgoodwin_someone-needs-to-invent-captcha-for-email-activity-7293290492643995648-VJSG",
+      "activity_status": null
+    },
+    {
+      "title": "On behalf of my GenX cohort can we all agree that anyone in Comms who doesn't answer their phone should have their phone taken away. It's a phone…",
+      "link": "https://www.linkedin.com/posts/andrewbirmingham1_on-behalf-of-my-genx-cohort-can-we-all-agree-activity-7293377385326878721-kGaO",
+      "activity_status": null
+    },
+    {
+      "title": "Calibrating MMM using incrementality tests is no silver bullet for marketing evaluation. I wish it was. Getting MMM right isn’t easy. It takes…",
+      "link": "https://www.linkedin.com/posts/grace-kite_calibrating-mmm-using-incrementality-tests-activity-7293241879012274176-BM9T",
+      "activity_status": null
+    },
+    {
+      "title": "BIG NEWS! Employment Hero has officially surpassed $250M in annual recurring revenue and—we’re proud to say—we are now profitable! From day one…",
+      "link": "https://www.linkedin.com/posts/tasmanpage_employment-hero-hits-profitability-but-steers-activity-7293070094937530369-Mll9",
+      "activity_status": null
+    },
+    {
+      "title": "Joe Stevens at Atomic 212º tells AdNews Australia his thoughts on the power of MMM and how partners like Mutinex are changing the game for agencies…",
+      "link": "https://www.linkedin.com/posts/mutinex_joe-stevens-at-atomic-212º-tells-adnews-australia-activity-7292666988475166721-YOWK",
+      "activity_status": null
+    },
+    {
+      "title": "G'Day LinkedIn Fam :-) Domino's Group Head of Insights, Blake Rand, shared with B&T how Mutinex's AI-powered Market Mix Modeling (MMM) solution…",
+      "link": "https://www.linkedin.com/posts/michael-desiere-45a83b5_mutinex-mmm-dominos-activity-7292615940507156480-DisG",
+      "activity_status": null
+    },
+    {
+      "title": "Incredibly Exciting News 🎉 We are delighted to announce a new partnership between Adore Beauty Group and Zitcha! This collaboration follows the…",
+      "link": "https://www.linkedin.com/posts/nick-hinsley_retailmedia-commercemedia-marketing-activity-7294822899146727424-QYoa",
+      "activity_status": null
+    },
+    {
+      "title": "To all of my old colleagues at Meta impacted by the layoffs: Days like today are just awful - full stop. Be gentle and easy with yourself. Take…",
+      "link": "https://www.linkedin.com/posts/kylescotshank_to-all-of-my-old-colleagues-at-meta-impacted-activity-7294756307226480640-sOtq",
+      "activity_status": null
+    },
+    {
+      "title": "It’s a comeback of the highest order. I'm so on the Medieval Castlecore trend. And like Gen Z and Millennials \"take décor inspiration from ancient…",
+      "link": "https://www.linkedin.com/posts/antonbuchner_trend-pinterest-activity-7294913129551958019-MPby",
+      "activity_status": null
+    },
+    {
+      "title": "I wrote a thing. Not the most light hearted topic but important nonetheless.",
+      "link": "https://www.linkedin.com/posts/jasminbedir_i-wrote-a-thing-not-the-most-light-hearted-activity-7323513773141413888-T86V",
+      "activity_status": null
+    },
+    {
+      "title": "It’s awesome that there is virtually no chance that the conservatives will form a government tomorrow. What’s really gross is that none of the…",
+      "link": "https://www.linkedin.com/posts/liam-walsh-6915b94_its-awesome-that-there-is-virtually-no-chance-activity-7323875196363309056-Z510",
+      "activity_status": null
+    },
+    {
+      "title": "Some MMM vendors don’t measure performance. They bake it. Pick your lift: 3%, 5%, or 7%. Keep the client happy. Ship the ROI they expected. No…",
+      "link": "https://www.linkedin.com/posts/charlesdet_some-mmm-vendors-dont-measure-performance-activity-7323639830368710656-uomL",
+      "activity_status": null
+    },
+    {
+      "title": "At the end of last year, I wrapped up an incredible experience with the Communicating the Arts 30U30 Mentoring Program. I had the privilege of…",
+      "link": "https://www.linkedin.com/posts/lina-stein_communicatingthearts-30u30-artsleadership-activity-7323303907638575108-OA09",
+      "activity_status": null
+    },
+    {
+      "title": "Onboarding is what sets you up for success, and so The past 2 weeks I have really been immersing myself in what Mutinex is all about. 🏴‍☠️ Today I…",
+      "link": "https://www.linkedin.com/posts/barbszr_onboarding-is-what-sets-you-up-for-success-activity-7323558577552379904-vKaF",
+      "activity_status": null
+    },
+    {
+      "title": "👋 G’Day LinkedIn Fam! It’s time for another episode of Friends with Desi — the series where I connect with legends across media, marketing & MMM…",
+      "link": "https://www.linkedin.com/posts/michael-desiere-45a83b5_friendswithdesi-mmmorningwithdesi-mutinex-activity-7323432988371804171-U26S",
+      "activity_status": null
+    },
+    {
+      "title": "Join our communications team supporting Michael Betz, our President of Walden University and Adtalem Global Education Chief Digital Officer, in a…",
+      "link": "https://www.linkedin.com/posts/jordanastrosberg_senior-manager-communications-walden-university-activity-7323313328527704064-DtbQ",
+      "activity_status": null
+    },
+    {
+      "title": "We're bringing Marketers & Money back this year, and are going to be announcing an all-star line up of Australia's best commercial marketers and…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mark-ritson-asahis-brian-phan-to-headline-activity-7371580930551037953-EV7F",
+      "activity_status": null
+    },
+    {
+      "title": "Europe should celebrate Klarna’s US IPO, with more fintech companies from the region likely to follow, early investor and founder of Moonfire…",
+      "link": "https://www.linkedin.com/posts/bloombergtelevision_europe-should-celebrate-klarnas-us-ipo-activity-7371532955774554112-tgoB",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to see the great Joe Mandese, Editor in Chief, MediaPost, back on stage at an ANA event moderating a panel discussing the virtues of Aquila,…",
+      "link": "https://www.linkedin.com/posts/loupaskalis_thrilled-to-see-the-great-joe-mandese-editor-activity-7371257084404744192-Ovhf",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to be MC'ing the fabulous Mutinex Marketers & Money Conference in November. Not-to-be-missed. https://lnkd.in/gknyNQtQ",
+      "link": "https://www.linkedin.com/posts/chrisjsavage_mark-ritson-asahis-brian-phan-to-headline-activity-7371413856708907008-84qO",
+      "activity_status": null
+    },
+    {
+      "title": "Start-ups are not for everyone. Truth is: joining a scale-up feels like being pushed into the deep end. But it’s also where you build muscles you…",
+      "link": "https://www.linkedin.com/posts/barbszr_start-ups-are-not-for-everyone-truth-is-activity-7371379244062470144-tHpP",
+      "activity_status": null
+    },
+    {
+      "title": "Following the success of our inaugural 2024 event, we’re pleased to announce that Marketers & Money is back. It's not just a conference, it's your…",
+      "link": "https://www.linkedin.com/posts/mutinex_following-the-success-of-our-inaugural-2024-activity-7371318871473131520-xFr2",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to share a (belated) update that I've joined the team at Mozilla 🦊 as a DS Manager in Marketing! Looking forward to doing what I can to help…",
+      "link": "https://www.linkedin.com/posts/benwsaunders_1-hiring-activity-7371295731002834945-X78L",
+      "activity_status": null
+    },
+    {
+      "title": "A very clear-eyed, and compelling read from Mutinex co-Founder and CEO, Henry Innis that makes the case that ROI or ROAS are false idols that do not…",
+      "link": "https://www.linkedin.com/posts/loupaskalis_the-roi-illusion-how-pure-efficiency-worship-activity-7371126420753764352-YsFg",
+      "activity_status": null
+    },
+    {
+      "title": "I don't post my Substack on here a lot - it's really an outlet for me to think through problems. One thing we're very focused on at Mutinex right…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-roi-illusion-how-pure-efficiency-worship-activity-7371116424741715968-MKKX",
+      "activity_status": null
+    },
+    {
+      "title": "Love Andrew’s comments below and so true. Well done DDB Sydney and DoorDash, great work only happens when smart people share a vision and are…",
+      "link": "https://www.linkedin.com/posts/nick-garrett-2a59865_love-andrews-comments-below-and-so-true-activity-7379409227368411136-uURw",
+      "activity_status": null
+    },
+    {
+      "title": "The cost of media currency is steady but the share of pie it measures is going down. Something has to give. Given a choice where to invest, the…",
+      "link": "https://www.linkedin.com/posts/chriswilliams65_the-cost-of-media-currency-is-steady-but-activity-7379486943384055810-vmaT",
+      "activity_status": null
+    },
+    {
+      "title": "Marketing & advertising is dead. Yep, that post. I hate the idea of being seen to jump on that bandwagon. So much so, that perhaps I end up being a…",
+      "link": "https://www.linkedin.com/posts/michael-mcconville-17175a9_marketing-advertising-is-dead-yep-that-activity-7379074194065694720-XdNM",
+      "activity_status": null
+    },
+    {
+      "title": "S4 Capital’s Monks is building its measurement and Marketing Mix Modelling (MMM) capabilities in APAC with the appointment of Brett Camilleri as Vice…",
+      "link": "https://www.linkedin.com/posts/branding-in-asia_brett-camilleri-appointed-vp-measurement-activity-7378887480709693440-V9Mg",
+      "activity_status": null
+    },
+    {
+      "title": "What's working? What's failing? It's the age-old marketing question and with the right tools we are much closer to answering the question…",
+      "link": "https://www.linkedin.com/posts/variousventures_henry-innis-of-mutinex-on-the-evolution-activity-7378864063059042304-RCKY",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing excites us more than working alongside great customers and watching insights translate into real, profitable impact. Colloboration at its…",
+      "link": "https://www.linkedin.com/posts/sophiebmurphy_from-insight-to-impact-how-mmm-helped-endota-activity-7378681412113276928-s2Rq",
+      "activity_status": null
+    },
+    {
+      "title": "It is obvious to me that Australia has exceptionally talented people who want to be part of startups. But I think it is useful to share the following…",
+      "link": "https://www.linkedin.com/posts/shind_it-is-obvious-to-me-that-australia-has-exceptionally-activity-7373113320477954048-sLQ7",
+      "activity_status": null
+    },
+    {
+      "title": "🚀🚀🚀 So many great marketing and digital roles in my team right now. All reporting to my incredibly strong and newly built leadership team. Below…",
+      "link": "https://www.linkedin.com/posts/eva-barrett-b239336_so-many-great-marketing-and-digital-activity-7378785513358594048-oN8H",
+      "activity_status": null
+    },
+    {
+      "title": "SKINGRAPHICA is now OPEN for pre-orders. https://skingraphica.com",
+      "link": "https://www.linkedin.com/posts/matbaxter_skingraphica-is-now-open-for-pre-orders-activity-7378769721904717824-VxlV",
+      "activity_status": null
+    },
+    {
+      "title": "We just wrapped up the Executive panel for today’s High Flyers Growth Summit! Thank you to Grace Hynd (Advanced Navigation), Simon Baume…",
+      "link": "https://www.linkedin.com/posts/thehighflyers_we-just-wrapped-up-the-executive-panel-for-activity-7378631371826765824-TTEp",
+      "activity_status": null
+    },
+    {
+      "title": "If you missed this Mutinex x TRG webinar the first time (The Revolution Will Be Generalized: Disrupting Legacy Measurement), check out the full…",
+      "link": "https://www.linkedin.com/posts/trgcreativity_if-you-missed-this-mutinex-x-trg-webinar-activity-7378486533495980032-spvS",
+      "activity_status": null
+    },
+    {
+      "title": "Our voices are hoarse from cheering, we’re walking on air after an epic weekend, drop it like it’s hot is living rent-free in our heads … and we…",
+      "link": "https://www.linkedin.com/posts/angelagreenwood_believe-activity-7378182069723717632-kFJb",
+      "activity_status": null
+    },
+    {
+      "title": "The real reason people hate self-checkout isn’t the loss of human contact it’s that you pay the same price but do more work, violating our intuitions…",
+      "link": "https://www.linkedin.com/posts/joanwestenberg_the-real-reason-people-hate-self-checkout-activity-7377572450605318144-_h5R",
+      "activity_status": null
+    },
+    {
+      "title": "G’day LinkedIn fam 👋 – Friends with Desi is back! And what better way to relaunch the series than with a brilliant human I had the pleasure of…",
+      "link": "https://www.linkedin.com/posts/michael-desiere-45a83b5_friendswithdesi-salesforce-letsgrowtogether-activity-7377842852413960192-tAqU",
+      "activity_status": null
+    },
+    {
+      "title": "Nobody teaches you when to switch between founder mode and manager mode. Still figuring this out, but here's what I've learned so far: Last month, I…",
+      "link": "https://www.linkedin.com/posts/kevin-wu-452a6393_nobody-teaches-you-when-to-switch-between-activity-7376623974392434688-ZNDB",
+      "activity_status": null
+    },
+    {
+      "title": "Truly thrilled to share this with you all. For the first time ever, Turo has been named to the TIME 100 World’s Best Brands list for 2025, debuting…",
+      "link": "https://www.linkedin.com/posts/matthewkerbel_truly-thrilled-to-share-this-with-you-all-activity-7382490220233101312-i9zc",
+      "activity_status": null
+    },
+    {
+      "title": "Open AI will become an advertising business, just like Google and Meta. Why? They are $10bn revenue. To get to $100bn + you need an ad…",
+      "link": "https://www.linkedin.com/posts/jamesaconnelly_open-ai-will-become-an-advertising-business-activity-7381597617283104768-VhoD",
+      "activity_status": null
+    },
+    {
+      "title": "Can LLMs respond to user surveys like people do? At PyMC Labs, we’ve shown that they actually can — achieving up to 90% alignment with real human…",
+      "link": "https://www.linkedin.com/posts/lfiaschi_can-llms-respond-to-user-surveys-like-people-activity-7382483420163088384-nEEL",
+      "activity_status": null
+    },
+    {
+      "title": "I'm often asked why 3P vendors have the edge over Open Source MMM and if we can prove it. The simple answer is 3P vendors have time and incentive to…",
+      "link": "https://www.linkedin.com/posts/henryinnis_im-often-asked-why-3p-vendors-have-the-edge-activity-7382436137572892672-9CSm",
+      "activity_status": null
+    },
+    {
+      "title": "This is one of the most validating things I’ve read in a long time. I have long complained in private about Econ’s resistance to adopt machine…",
+      "link": "https://www.linkedin.com/posts/jacob-applin-econ_the-collapse-of-the-econ-phd-job-market-activity-7381402709544898562-MvDD",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be part of this new chapter of Crane Venture Partners’ growth alongside Carlos Jo Loo  Cheryl Teo, Vivian Zhang, and Sheryl Quek as we…",
+      "link": "https://www.linkedin.com/posts/weijianchen-_crane-venture-partners-launches-135m-apac-activity-7373348627290710016-CXgf",
+      "activity_status": null
+    },
+    {
+      "title": "Video's brave new world... A \"must read\" assessment below from Henry Innis. The crux of it: with video production costs collapsing, the…",
+      "link": "https://www.linkedin.com/posts/stephenboehler_video-cpms-are-about-to-explode-activity-7381331689739993088-_yia",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to being apart of this great day and having robust discussions on media and marketing",
+      "link": "https://www.linkedin.com/posts/jessicagilby_looking-forward-to-being-apart-of-this-great-activity-7388700097888509952-257e",
+      "activity_status": null
+    },
+    {
+      "title": "\"Brand metrics don't move that much.\" Maybe. But stable ≠ still Over the past 12 months, British Airways' topline preference looks steady. Until…",
+      "link": "https://www.linkedin.com/posts/herbertmattj_brand-metrics-dont-move-that-much-maybe-activity-7388544579433717760-eH5-",
+      "activity_status": null
+    },
+    {
+      "title": "Henry Innis and I have been talking about this topic with each other, and with media partners for some time now. The end of an upfront season felt…",
+      "link": "https://www.linkedin.com/posts/aruys_measurement-matters-how-publishers-can-lean-activity-7388422131136516096-ip_t",
+      "activity_status": null
+    },
+    {
+      "title": "More incredibly exciting news on the Mutinex growth front... Danielle Taylor joins us today as my EA (I've finally broken, nod to JTB for calling me…",
+      "link": "https://www.linkedin.com/posts/henryinnis_more-incredibly-exciting-news-on-the-mutinex-activity-7388406067875082240-eTHh",
+      "activity_status": null
+    },
+    {
+      "title": "It’s an honour to have Lyka’s story featured in the The Australian Financial Review today. Lyka is the name of both the company we’ve been building…",
+      "link": "https://www.linkedin.com/posts/anna-podolsky_its-an-honour-to-have-lykas-story-featured-activity-7388366953800900609-cnxB",
+      "activity_status": null
+    },
+    {
+      "title": "Enjoyed writing this piece with Anathea Ruys (she, her, hers) post the Upfronts to think through how marketers and publishers can work better to…",
+      "link": "https://www.linkedin.com/posts/henryinnis_measurement-matters-how-publishers-can-lean-activity-7388342407098138624-c1Fu",
+      "activity_status": null
+    },
+    {
+      "title": "Wow!! Very humbled, honored and proud to be No. 2. amongst a list of brilliant innovators. Thanks for the recognition Mediaweek Australia  as Hen…",
+      "link": "https://www.linkedin.com/posts/mattfarrugia1_mediaweek-100-innovation-20-2025-activity-7387791783646306304-T1h2",
+      "activity_status": null
+    },
+    {
+      "title": "An absolute honour to be named on Mediaweek's 'Innovation 20' List for Australia at number 2! \"Matt Farrugia and Henry Innis founded Mutinex in 2018…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mediaweek-100-innovation-20-2025-activity-7387720225871319040-MXpv",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 We’re hiring at Prophet! Prophet is a fast-growing startup on a mission to make marketing intelligence radically simpler and more actionable. Our…",
+      "link": "https://www.linkedin.com/posts/becgeyer_were-hiring-at-prophet-prophet-is-a-activity-7392345390320148480-7Hzn",
+      "activity_status": null
+    },
+    {
+      "title": "Fatima Tuz Zehra just joined Mutinex as Machine Learning Engineer, after stints at BeforePay and Motive. She’s excited to join the team… Mutinex's…",
+      "link": "https://www.linkedin.com/posts/mutinex_fatima-tuz-zehra-just-joined-mutinex-as-machine-activity-7392323652001648640-p7Wh",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely stoked to announce more panels headed to Marketers & Money. Literally an all-star line-up (on top of Brian Phan, Mark Ritson): - Mike…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mutinexs-marketers-money-announces-more-activity-7392291491882311680-UQXq",
+      "activity_status": null
+    },
+    {
+      "title": "I’m proud to share that Tracksuit is now live in 25 international markets (with more to come) 🌎! This is a huge milestone for the Tracksuit team…",
+      "link": "https://www.linkedin.com/posts/herbertmattj_im-proud-to-share-that-tracksuit-is-now-activity-7392125054580568064-ftD6",
+      "activity_status": null
+    },
+    {
+      "title": "I’m currently very fortunate to be working with the AMAZING Michelle Klein at Westpac in the Acting Head of Customer Insights and Performance role.…",
+      "link": "https://www.linkedin.com/posts/elizabethmooreinsights_executive-manager-customer-market-research-activity-7385827761883418624-tnaR",
+      "activity_status": null
+    },
+    {
+      "title": "Some sad news today! After 3 years leading an epic rollercoaster of growth, Claire Bertolus is moving on from us shortly to take a new role working…",
+      "link": "https://www.linkedin.com/posts/henryinnis_some-sad-news-today-after-3-years-leading-activity-7392019562705305600-moOl",
+      "activity_status": null
+    },
+    {
+      "title": "Ready to Rock’n’Roll B&T Agency of The Year pitch day today in Sydney, then straight back to Brisbane to attend the 20th anniversary of the Lord…",
+      "link": "https://www.linkedin.com/posts/chris-ernst-09331b9_ready-to-rocknroll-bt-agency-of-the-year-activity-7391987594344980480-QXw9",
+      "activity_status": null
+    },
+    {
+      "title": "Duane Allam just joined Mutinex as Staff Software Engineer, after over seven years in a similar capacity at Sypht. Duane has this take on joining the…",
+      "link": "https://www.linkedin.com/posts/mutinex_duane-allam-just-joined-mutinex-as-staff-activity-7391972600702246912-6HKu",
+      "activity_status": null
+    },
+    {
+      "title": "More Aussie stories and a bigger industry impact. Huzzah. Yesterday, a turning point arrived. The Albanese Government confirmed streaming #content…",
+      "link": "https://www.linkedin.com/posts/liana-dubois-6582522_content-quotas-revenue-activity-7391719965441183744-bOvL",
+      "activity_status": null
+    },
+    {
+      "title": "When I was working for a big ad agency, A few times a month I would work really, really late . Being curious, I'd walk around the office and see…",
+      "link": "https://www.linkedin.com/posts/tomfgoodwin_when-i-was-working-for-a-big-ad-agency-a-activity-7391421179175018496-SyoI",
+      "activity_status": null
+    },
+    {
+      "title": "Coke has used AI to replace its Christmas truck ad again We've tested it to see if it's better or worse The Coca-Cola Company remade its classic…",
+      "link": "https://www.linkedin.com/posts/andrew-tindall_advertising-marketing-activity-7391387646154977280-ZacH",
+      "activity_status": null
+    },
+    {
+      "title": "A tale of two stories: the pitch deck v financial due diligence On the surface, the revenue story looks strong. The curve points up and to the…",
+      "link": "https://www.linkedin.com/posts/liz-ross-tidal-venture-capital_a-tale-of-two-stories-the-pitch-deck-v-financial-activity-7391289336069222400-Kjx_",
+      "activity_status": null
+    },
+    {
+      "title": "Time and again, we’ve seen marketers who undertake their own agency searches invariably land themselves the wrong agency. The intention is admirable…",
+      "link": "https://www.linkedin.com/posts/stephanargent_why-diy-agency-searches-often-lead-marketers-activity-7391096195470913536-yPVa",
+      "activity_status": null
+    },
+    {
+      "title": "💡 A succinct, simple and deeply insightful analysis of the AI ecosystem. It takes a LOT of skill and expertise to write about something so complex…",
+      "link": "https://www.linkedin.com/posts/karenphipson_how-the-ai-bubble-bursts-activity-7395748104903270400-N86y",
+      "activity_status": null
+    },
+    {
+      "title": "Some thoughts on how the AI bubble will burst... https://lnkd.in/g8qBebNr",
+      "link": "https://www.linkedin.com/posts/henryinnis_how-the-ai-bubble-bursts-activity-7395735817748406272-1HB8",
+      "activity_status": null
+    },
+    {
+      "title": "Qantas - No, I don't think you do, in fact, understand at all. It is 9pm the evening before my 7.45am flight, which you have changed to 11am. Can one…",
+      "link": "https://www.linkedin.com/posts/ruudspierings_qantas-no-i-dont-think-you-do-in-fact-activity-7393949869486436352-_bJv",
+      "activity_status": null
+    },
+    {
+      "title": "Just missed my connecting flight 🤦🏻‍♂️ Hello from San Francisco 🇺🇸 Landed a few hours ago. Customs queue was well over an hour. The problem was…",
+      "link": "https://www.linkedin.com/posts/victordominello_just-missed-my-connecting-flight-activity-7395563428955901952-qhD2",
+      "activity_status": null
+    },
+    {
+      "title": "The end of Amazon Ads? It sounds crazy. But we’re closer than you think. Amazon just hit Perplexity’s AI shopping agent with a legal notice. Why?…",
+      "link": "https://www.linkedin.com/posts/alessio-santiglia_the-end-of-amazon-ads-it-sounds-crazy-activity-7395200052492939264-XeWQ",
+      "activity_status": null
+    },
+    {
+      "title": "Allegations that media agencies secretly agree to have their other clients buy more of a media vendor’s inventory in order to win that vendor’s media…",
+      "link": "https://www.linkedin.com/posts/ad-age_paramount-skydance-execs-say-publicis-and-activity-7394878302735249408-xwkl",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to being up on stage with some of our industry's best minds Kristiaan Kroon Chris Howatson and John Sintras for a chat about new…",
+      "link": "https://www.linkedin.com/posts/mike-worden-30534415_looking-forward-to-being-up-on-stage-with-activity-7394960689389314049-3Vgr",
+      "activity_status": null
+    },
+    {
+      "title": "Mutinex is an AI-powered SaaS startup challenging the traditional consulting-based approach to Market Mix Modelling. We’re all about powering the…",
+      "link": "https://www.linkedin.com/posts/mutinex_mutinex-is-an-ai-powered-saas-startup-challenging-activity-7394860366679375875-eb5F",
+      "activity_status": null
+    },
+    {
+      "title": "Last week in New York, I was honoured to be recognised by She Runs It  as a Changing the Game honoree—alongside some of the most inspiring women…",
+      "link": "https://www.linkedin.com/posts/melissa-fein_last-week-in-new-york-i-was-honoured-to-activity-7394616648130998272-9zus",
+      "activity_status": null
+    },
+    {
+      "title": "don't use #adrecall as your primary metric for measuring ad effectiveness. Your most powerful campaigns might be the ones people swear they never…",
+      "link": "https://www.linkedin.com/posts/prof-dr-koen-pauwels-0789713_adrecall-advertising-activity-7398106195187892225-DGVe",
+      "activity_status": null
+    },
+    {
+      "title": "Toby Vervaart just joined Mutinex as Staff Software Engineer. He’s a seasoned technology leader with 20+ years in software engineering, delivering…",
+      "link": "https://www.linkedin.com/posts/mutinex_toby-vervaart-just-joined-mutinex-as-staff-activity-7391598877939994624-q2KX",
+      "activity_status": null
+    },
+    {
+      "title": "Bunch of people this week have been asking what session am I MOST excited about at Marketers & Money this year? Honestly, it's hard to pick given we…",
+      "link": "https://www.linkedin.com/posts/henryinnis_bunch-of-people-this-week-have-been-asking-activity-7397800263639572480-rTRo",
+      "activity_status": null
+    },
+    {
+      "title": "See you Tuesday!",
+      "link": "https://www.linkedin.com/posts/jessicagilby_see-you-tuesday-activity-7397132334963208192-bcqx",
+      "activity_status": null
+    },
+    {
+      "title": "Rocketship continues to do rocket things",
+      "link": "https://www.linkedin.com/posts/henryinnis_rocketship-continues-to-do-rocket-things-activity-7396679496688594944-vlfs",
+      "activity_status": null
+    },
+    {
+      "title": "Daniel Cedres Garrido just joined Mutinex as Data Solution Manager. With extensive experience in data modelling, visualisation, and analysis, Daniel…",
+      "link": "https://www.linkedin.com/posts/mutinex_daniel-cedres-garrido-just-joined-mutinex-activity-7396672305919291393-_fv2",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Costmine Intelligence is expanding our product engineering team! We’re looking for a Senior Full-Stack Developer to help build the next…",
+      "link": "https://www.linkedin.com/posts/costmineintel_careers-costmine-intelligence-activity-7396593683032137728-xsob",
+      "activity_status": null
+    },
+    {
+      "title": "One week away from our biggest event of the year, Marketers & Money next Tuesday 25th Nov at the Hilton Sydney. Alongside Brian Phan and Mark…",
+      "link": "https://www.linkedin.com/posts/ben-hardwick-877768223_one-week-away-from-our-biggest-event-of-the-activity-7396404145236271105-8y1Y",
+      "activity_status": null
+    },
+    {
+      "title": "I am PUMPED for Marketers & Money next week! Seriously.. what a line up! Mark Ritson plus leaders from Asahi, Kia, Freedom, Aussie Home Loans…",
+      "link": "https://www.linkedin.com/posts/mtovbis_i-am-pumped-for-marketers-money-next-week-activity-7396375537159462913-zMMn",
+      "activity_status": null
+    },
+    {
+      "title": "Startup equity is not cash. Some of you are likely discussing taking a new role at a startup over Thanksgiving dinner this year, which is awesome.…",
+      "link": "https://www.linkedin.com/posts/peterjameswalker_startup-equity-is-not-cash-some-of-you-activity-7399938293976657921-LzSp",
+      "activity_status": null
+    },
+    {
+      "title": "It’s day 10 of making the switch to startup life at Ideally. In week one, I’d braced myself for the usual onboarding chaos. Clunky systems. Hunting…",
+      "link": "https://www.linkedin.com/posts/lindsay-bennett-_its-day-10-of-making-the-switch-to-startup-activity-7399682439293509633-hEOv",
+      "activity_status": null
+    },
+    {
+      "title": "The ad industry is obsessed with the concept of 'creativity'. Is it alive? Is it dead? I'm going to get some hate for this but let me say the quiet…",
+      "link": "https://www.linkedin.com/posts/david-felton-82ba0881_the-ad-industry-is-obsessed-with-the-concept-activity-7400166855119622144-bKyt",
+      "activity_status": null
+    },
+    {
+      "title": "I’m proud to share that I recently received Mutinex’s Newbie Award! It’s been just four months since I joined Mutinex, and it’s already been an…",
+      "link": "https://www.linkedin.com/posts/selena-wu-31a296219_im-proud-to-share-that-i-recently-received-activity-7399699204455002112-Q0xH",
+      "activity_status": null
+    },
+    {
+      "title": "Earlier this year, Henry Innis called me to ask if I wanted to build an MMM for Mark Ritson and the MiniMBA business. I was convinced he was taking…",
+      "link": "https://www.linkedin.com/posts/nickybarton_earlier-this-year-henry-innis-called-me-activity-7399642588917657600-YFkJ",
+      "activity_status": null
+    },
+    {
+      "title": "Marketing measurement has historically prioritised clicks over customers due to a critical lack of granularity in traditional MMM. Mutinex…",
+      "link": "https://www.linkedin.com/posts/peter-photinos-0227a5a0_a-pathway-to-marketing-superintelligence-activity-7399633486627823616-pCSk",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve been to a conference or two in my time, and fair to say our Mutinex Marketers & Money 2025 is right up there with the best. Not because I’m…",
+      "link": "https://www.linkedin.com/posts/mattfarrugia1_ive-been-to-a-conference-or-two-in-my-time-activity-7399612407024816128-yS9X",
+      "activity_status": null
+    },
+    {
+      "title": "It was great to present on Tuesday with Rochelle Tognetti at @Mutinex Marketers & Money 25 on the topic on what marketing leadership means today…",
+      "link": "https://www.linkedin.com/posts/adele-coswello-5727b1242_it-was-great-to-present-on-tuesday-with-rochelle-activity-7399569911217446912-s0wi",
+      "activity_status": null
+    },
+    {
+      "title": "I've been living in Claude Code for over a month now, and the results are... mathematically aggressive. My throughput has increased by roughly 5x…",
+      "link": "https://www.linkedin.com/posts/adrianscott_ive-been-living-in-claude-code-for-over-activity-7429199361676570624-OeRC",
+      "activity_status": null
+    },
+    {
+      "title": "The AI crash is inevitable. It's also irrelevant. Here's the effect the dot com crash 🔴 had on Internet adoption.",
+      "link": "https://www.linkedin.com/posts/the-ai-crash-is-inevitable-its-also-irrelevant-activity-7430526087849349120--W89",
+      "activity_status": null
+    },
+    {
+      "title": "The real joy of the MiniMBA is when a company like TPG Telecom and their amazing CMO Rebecca Darley put their whole marketing team through the…",
+      "link": "https://www.linkedin.com/posts/markritson_giddyup-marketing-transformation-activity-7430200649780473856-ZnuO",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely thrilled for our friends at Eucalyptus on joining forces with hims & hers in one of the biggest tech exits in Australian history. I met…",
+      "link": "https://www.linkedin.com/posts/shind_absolutely-thrilled-for-our-friends-at-eucalyptus-activity-7430360566524915713-eZUG",
+      "activity_status": null
+    },
+    {
+      "title": "Today’s a big day for the Aus startup community. Tim Doyle, Benny Kleist, Charlie Gearside and Alexey Mitko were generous with equity and brought on…",
+      "link": "https://www.linkedin.com/posts/jvullinghs_todays-a-big-day-for-the-aus-startup-community-activity-7430357686413819904-hRXx",
+      "activity_status": null
+    },
+    {
+      "title": "DYK – at Costmine Intelligence, software engineers now comprise 40% of our team– data, back end, front end and full stack. We had a software…",
+      "link": "https://www.linkedin.com/posts/michael-sinden-018a6014_dyk-at-costmine-intelligence-software-activity-7430265138470957056-aUjw",
+      "activity_status": null
+    },
+    {
+      "title": "Most measurement frameworks don't fail because of bad data or bad toolkits. They fail because the organisation isn't built to act on it. The…",
+      "link": "https://www.linkedin.com/posts/andreamaldonadopotter_the-2026-cmo-whitepaper-mutinex-activity-7430097056821805056-hBah",
+      "activity_status": null
+    },
+    {
+      "title": "Costmine Intelligence has costed 2.7Mt of greenfield OP and UG copper projects ranging in status from PEA to PFS and Feasibility stage – the next…",
+      "link": "https://www.linkedin.com/posts/michael-sinden-018a6014_costmine-intelligence-has-costed-27mt-of-activity-7429942116656578560-mXje",
+      "activity_status": null
+    },
+    {
+      "title": "Story points are dying. Planning poker. Velocity charts. Sprint capacity planning. All of it — designed to solve one problem: humans are terrible at…",
+      "link": "https://www.linkedin.com/posts/nzav_story-points-are-dying-planning-poker-velocity-activity-7429626622930235393-FGLY",
+      "activity_status": null
+    },
+    {
+      "title": "Creative is one of the most impactful or even the most powerful driver of campaign performance and your marketing ROI It’s likely that your current…",
+      "link": "https://www.linkedin.com/posts/loupaskalis_growthanswersondemand-anamedia-activity-7442996168281911296-55Nx",
+      "activity_status": null
+    },
+    {
+      "title": "Show me your compensation plan and I’ll show you your (company’s) strategy.  You won’t find it in some bullsh!t deck Rishad Tobaccowala, Author…",
+      "link": "https://www.linkedin.com/posts/loupaskalis_anamedia-activity-7442969020498104321-95xF",
+      "activity_status": null
+    },
+    {
+      "title": "Lenny Rachitsky just dropped new data. Software job openings are collaps…. rising again. Wait what?! Counterintuitive? Only if you haven't used…",
+      "link": "https://www.linkedin.com/posts/barrechristophe_engineering-ai-claudecode-activity-7442725138816532480-jjzR",
+      "activity_status": null
+    },
+    {
+      "title": "We didn’t start lying all at once. We’ve always applied a polite rounding-up to our CVs. But somewhere in the not-so-recent past, rounding up and…",
+      "link": "https://www.linkedin.com/posts/ipopulate_we-didnt-start-lying-all-at-once-weve-activity-7442675466747977728-kiYa",
+      "activity_status": null
+    },
+    {
+      "title": "CIMM East is less than a week away! On March 31, attendees will hear from Anthony Katsur (IAB Tech Lab), Henry Innis (Mutinex), Ramsey McGrory…",
+      "link": "https://www.linkedin.com/posts/coalition-for-innovative-media-measurement_cimmeast2026-activity-7442920456761856000-YLuf",
+      "activity_status": null
+    },
+    {
+      "title": "Your most experienced employees are quietly downshifting. Not because they're disengaged. Because they're sandwiched - caring for ageing parents…",
+      "link": "https://www.linkedin.com/posts/melissa-reader_midlifecollision-sandwichgeneration-futureofwork-activity-7442809665459187712-AZcJ",
+      "activity_status": null
+    },
+    {
+      "title": "Two years ago, I told a Google rep on a live client call: \"with all due respect, we will never run full broad match on our campaigns..\" I was wrong.…",
+      "link": "https://www.linkedin.com/posts/michelleselfa_two-years-ago-i-told-a-google-rep-on-a-live-activity-7442193506095448064-7ZW8",
+      "activity_status": null
+    },
+    {
+      "title": "Mutinex has announced a series of key leadership promotions and new hires as the company accelerates its global expansion and builds toward category…",
+      "link": "https://www.linkedin.com/posts/bandtaustralia_mutinex-has-announced-a-series-of-key-leadership-activity-7442435173763239936-Hj0B",
+      "activity_status": null
+    },
+    {
+      "title": "And the exciting news continues. When I first spoke to Henry Innis, he made one thing crystal clear: he was passionate about promoting from within…",
+      "link": "https://www.linkedin.com/posts/barbszr_and-the-exciting-news-continues-when-i-activity-7442383256274157568-LqZl",
+      "activity_status": null
+    },
+    {
+      "title": "I've got a new title, but Mutinex has the same mission. We are hiring a PM to lead a new greenfield product. If you are a high agency PM and excited…",
+      "link": "https://www.linkedin.com/posts/peter-photinos-0227a5a0_ive-got-a-new-title-but-mutinex-has-the-activity-7442378689016745984-TsMX",
+      "activity_status": null
+    },
+    {
+      "title": "We've hired a whole bunch of people... including amazing folk from Euc, Immutable, Uber and Pinterest. The next generation of talent are choosing to…",
+      "link": "https://www.linkedin.com/posts/henryinnis_weve-hired-a-whole-bunch-of-people-including-activity-7442367720815468544-xZnh",
+      "activity_status": null
+    },
+    {
+      "title": "Care about your shareholders' money?  Care about growth?  Use Mutinex.",
+      "link": "https://www.linkedin.com/posts/christopher-innis-3b50b71_lendi-shifts-20-of-search-spend-banks-40-activity-7442215326282448896-HbQE",
+      "activity_status": null
+    },
+    {
+      "title": "Nothing to see here, just Oracle's debt-to-equity ratio sitting at 20X to 30X worse than its cloud competitors. And all to fund a business model that…",
+      "link": "https://www.linkedin.com/posts/andrewbirmingham1_nothing-to-see-here-just-oracles-debt-to-equity-activity-7442029839483834370-hYM5",
+      "activity_status": null
+    },
+    {
+      "title": "We're really excited to share our third investment in Cuttable in two years as they bring more great investment partners around the table. In an AI…",
+      "link": "https://www.linkedin.com/posts/jethrocohen_were-really-excited-to-share-our-third-investment-activity-7441978744564744193-KWy_",
+      "activity_status": null
+    },
+    {
+      "title": "Great catching up with Aussie startup scene legend (and now customer!) Tim Fung in the big Apple. We spoke all things AI (of course), how the media…",
+      "link": "https://www.linkedin.com/posts/henryinnis_great-catching-up-with-aussie-startup-scene-activity-7441633943478566912-IDi1",
+      "activity_status": null
+    },
+    {
+      "title": "If the Australian government removes the CGT discount, making it one of the highest capital gains tax rates in the world, it won't just be terrible…",
+      "link": "https://www.linkedin.com/posts/bengrabiner_if-the-australian-government-removes-the-activity-7459416929351684096-zYl1",
+      "activity_status": null
+    },
+    {
+      "title": "I never post about politics, but I have to break that rule today. Australia is about to make founding a company economically irrational. Not…",
+      "link": "https://www.linkedin.com/posts/clancynicholas_the-cgt-reform-math-why-founding-a-company-activity-7459372499852537856-HkSr",
+      "activity_status": null
+    },
+    {
+      "title": "People often say companies perform better under constraints. Capital constraints, money constraints, team constraints, deadline constraints. It's…",
+      "link": "https://www.linkedin.com/posts/henryinnis_people-often-say-companies-perform-better-activity-7459347021804642304-Xzw6",
+      "activity_status": null
+    },
+    {
+      "title": "PSA: I'll be at Cairns Crocodiles next week! Catch me for a coffee and let's chat all things growth, measurement and marketing ☕",
+      "link": "https://www.linkedin.com/posts/jessbetts_psa-ill-be-at-cairns-crocodiles-next-week-activity-7459165464921845760-GgUU",
+      "activity_status": null
+    },
+    {
+      "title": "If, as rumoured, Jim Chalmers's removal of CGT discount on all asset classes does go ahead, New Zealand may become a top destination for aspiring…",
+      "link": "https://www.linkedin.com/posts/niksamoylov_if-as-rumoured-jim-chalmerss-removal-of-activity-7459136746874646528-eIxD",
+      "activity_status": null
+    },
+    {
+      "title": "Watching Angus Taylor last night was like watching a tribute act trying to recreate Tony Abbott circa 2013. Same monotone delivery. Same…",
+      "link": "https://www.linkedin.com/posts/kosmos-samaras-80bb9978_watching-angus-taylor-last-night-was-like-activity-7459013868330172417-XiZu",
+      "activity_status": null
+    },
+    {
+      "title": "What a turnout for our Melb CMO dinner as we continue to show marketers the ROI on creativity in the market. Really lucky to work with such an…",
+      "link": "https://www.linkedin.com/posts/henryinnis_what-a-turnout-for-our-melb-cmo-dinner-as-activity-7463186567310872577-K2sB",
+      "activity_status": null
+    },
+    {
+      "title": "Another great evening in Sydney hosting an incredible group of marketing leaders to talk all things creative multiplier. With huge thanks to my…",
+      "link": "https://www.linkedin.com/posts/henryinnis_another-great-evening-in-sydney-hosting-an-activity-7462217823793364992-BIzc",
+      "activity_status": null
+    },
+    {
+      "title": "Love this!",
+      "link": "https://www.linkedin.com/posts/henryinnis_we-should-own-it-hersheys-programmatic-activity-7460910701008551936-d-tM",
+      "activity_status": null
+    },
+    {
+      "title": "What an absolutely stellar moment to able to host some 40+ marketing leaders at Cairns last night to talk about our tremendous new research into The…",
+      "link": "https://www.linkedin.com/posts/henryinnis_what-an-absolutely-stellar-moment-to-able-activity-7460453953152000000-V3Xk",
+      "activity_status": null
+    },
+    {
+      "title": "The budget in my view was much fairer than telegraphed, as long as what's being said keeps improving. It's a good thing trusts are being regulated…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-budget-in-my-view-was-much-fairer-than-activity-7460141888726093824-9Phb",
+      "activity_status": null
+    },
+    {
+      "title": "I've long thought about what to call the crazy times we now live in, and I think it can best be summed up as 'Age of the Erratic'. Times have never…",
+      "link": "https://www.linkedin.com/posts/henryinnis_ive-long-thought-about-what-to-call-the-activity-7459059615222095872-0-nO",
+      "activity_status": null
+    },
+    {
+      "title": "Such a thrill to host so many great marketing leaders tonight in Brisbane in the lead up to Cairns to show what we are seeing in the market and more…",
+      "link": "https://www.linkedin.com/posts/henryinnis_such-a-thrill-to-host-so-many-great-marketing-activity-7458128464177627136-0kLW",
+      "activity_status": null
+    },
+    {
+      "title": "The proposed CGT changes that Anthony Albanese and his government are proposing are, frankly, utterly insane and will destroy the Australian startup…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-proposed-cgt-changes-that-anthony-albanese-activity-7456128003883012096-mnqF",
+      "activity_status": null
+    },
+    {
+      "title": "Mutinex is partnering with The Hershey Company, an iconic American company, across their measurement efforts. To say this is a proud moment in our…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mutinex-is-partnering-with-the-hershey-company-activity-7454550595480424449-ehZm",
+      "activity_status": null
+    },
+    {
+      "title": "We were lucky enough to get to throw a little office shindig Thursday night to celebrate getting into our new space before I head back on the road…",
+      "link": "https://www.linkedin.com/posts/henryinnis_we-were-lucky-enough-to-get-to-throw-a-little-activity-7453557114951684096-k-BW",
+      "activity_status": null
+    },
+    {
+      "title": "I don't often post about my Substack here (no need to spam it), but I just cracked 1k subscribers on Marketing Economics. It's basically a…",
+      "link": "https://www.linkedin.com/posts/henryinnis_i-dont-often-post-about-my-substack-here-activity-7452395770005192704-KCuk",
+      "activity_status": null
+    },
+    {
+      "title": "In month 2 of the American adventure I got to go to a real life baseball game! Business is booming out here and no better place to be than the USA…",
+      "link": "https://www.linkedin.com/posts/henryinnis_in-month-2-of-the-american-adventure-i-got-activity-7450590710132641792-GonT",
+      "activity_status": null
+    },
+    {
+      "title": "🤔 Ever interested in what makes someone motivated to join Mutinex? That's the question Mike Finnerty, our new US President, answered in this Market…",
+      "link": "https://www.linkedin.com/posts/henryinnis_ever-interested-in-what-makes-someone-activity-7449481694413438976-m24p",
+      "activity_status": null
+    },
+    {
+      "title": "It was an absolute thrill to jump on the stage with my great friend JD Prater yesterday at the ANA Masters of Data to talk about how MAITE and…",
+      "link": "https://www.linkedin.com/posts/henryinnis_it-was-an-absolute-thrill-to-jump-on-the-activity-7449846514895589376-j9eu",
+      "activity_status": null
+    },
+    {
+      "title": "Absoltuely pumped to be speaking at the ANA Masters of Data Conference with our awesome customer Ting (feat. JD and I). Let's go! Association of…",
+      "link": "https://www.linkedin.com/posts/henryinnis_absoltuely-pumped-to-be-speaking-at-the-ana-activity-7445861438910451712-Bu1m",
+      "activity_status": null
+    },
+    {
+      "title": "Long time coming this one collaborating with great friends Matt, Connor, Tyson, and the wider Tracksuit team. 💰 Every marketer wants to know how…",
+      "link": "https://www.linkedin.com/posts/henryinnis_long-time-coming-this-one-collaborating-with-activity-7445522672630984705-PSXU",
+      "activity_status": null
+    },
+    {
+      "title": "Feeling so lucky tonight to host such a POWERHOUSE dinner. So many amazing brilliant senior marketers came to Chalice and Mutinex's dinner this…",
+      "link": "https://www.linkedin.com/posts/henryinnis_feeling-so-lucky-tonight-to-host-such-a-powerhouse-activity-7443136849574916098-Or1d",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely pumped to see this going out into the world. We've successfully launched Automated Economic Analysis in mining. This playbook might be a…",
+      "link": "https://www.linkedin.com/posts/henryinnis_absolutely-pumped-to-see-this-going-out-into-activity-7440810974002974720-huCh",
+      "activity_status": null
+    },
+    {
+      "title": "Agentic MMM is here and it's moving fast. For too long, every marketer knows the problem. The calories burned to deliver gains has been huge. However…",
+      "link": "https://www.linkedin.com/posts/henryinnis_agentic-mmm-is-here-and-its-moving-fast-activity-7440547416497422336-9m4C",
+      "activity_status": null
+    },
+    {
+      "title": "Okay AMERICA LINKEDIN. I need your help, big time. We're in 'hiring mode' now Mike 'Mr. President' Finnerty is aboard, and it's time to grow the…",
+      "link": "https://www.linkedin.com/posts/henryinnis_okay-america-linkedin-i-need-your-help-activity-7439445458420322305-L1Li",
+      "activity_status": null
+    },
+    {
+      "title": "Today's a special day in Mutinex history: we're appointing Mike Finnerty as our President of the US market. When we looked for our next leader in the…",
+      "link": "https://www.linkedin.com/posts/henryinnis_todays-a-special-day-in-mutinex-history-activity-7438203279706128384-uDtv",
+      "activity_status": null
+    },
+    {
+      "title": "Week one of being in NYC and we're officially all moved in to our new digs in Hells Kitchen! The fun stuff: 🚀 Our insane customer base out here. So…",
+      "link": "https://www.linkedin.com/posts/henryinnis_week-one-of-being-in-nyc-and-were-officially-activity-7435783533303840769-um1c",
+      "activity_status": null
+    },
+    {
+      "title": "A year ago, my wife Gabrielle Innis and I sat down and mapped out our plan for the next five years. Not a business plan. A life plan. The kind of…",
+      "link": "https://www.linkedin.com/posts/henryinnis_a-year-ago-my-wife-gabrielle-innis-and-i-activity-7433640087483084800-PWf3",
+      "activity_status": null
+    },
+    {
+      "title": "Saying AI will kill software is a bit like saying the internet killed content",
+      "link": "https://www.linkedin.com/posts/henryinnis_saying-ai-will-kill-software-is-a-bit-like-activity-7432186742692044800-Z3j8",
+      "activity_status": null
+    },
+    {
+      "title": "It’s pretty challenging to navigate marketing measurement in 2026. There are a whole heap of tools: Bayesian and Frequentist, SaaS vs. Consulting,…",
+      "link": "https://www.linkedin.com/posts/henryinnis_its-pretty-challenging-to-navigate-marketing-activity-7429330759179706368-B5S9",
+      "activity_status": null
+    },
+    {
+      "title": "I've been thinking a lot about the challenges in marketing today: and wrote this piece recently about how Marketing Has Lost It's Long View. It's a…",
+      "link": "https://www.linkedin.com/posts/henryinnis_ive-been-thinking-a-lot-about-the-challenges-activity-7427451601017049088-vCOK",
+      "activity_status": null
+    },
+    {
+      "title": "I think we've all felt the economy has been overheated for a while, but this week really saw more than just a 'bubble bursting'. To my mind, agentic…",
+      "link": "https://www.linkedin.com/posts/henryinnis_i-think-weve-all-felt-the-economy-has-been-activity-7425766179262173184-UjTD",
+      "activity_status": null
+    },
+    {
+      "title": "This must be one of the greatest Superbowl ads of all time.",
+      "link": "https://www.linkedin.com/posts/henryinnis_this-must-be-one-of-the-greatest-superbowl-activity-7425001991501664256-wzca",
+      "activity_status": null
+    },
+    {
+      "title": "Everyone has posted to buggery about OpenAI launching ads. Felt like the most obvious move ever. I'm more interested in one core question: how much…",
+      "link": "https://www.linkedin.com/posts/henryinnis_everyone-has-posted-to-buggery-about-openai-activity-7419153952518250496-IDz4",
+      "activity_status": null
+    },
+    {
+      "title": "Very excited to be speaking at CES at The Shift AI summit this year, talking about how we make measurement systems go beyond to the decision.…",
+      "link": "https://www.linkedin.com/posts/henryinnis_very-excited-to-be-speaking-at-ces-at-the-activity-7413351842174271488-a2Rt",
+      "activity_status": null
+    },
+    {
+      "title": "The last 12 months at Mutinex have been about one thing: building marketing measurement you can defend. And building a high velocity culture we’re…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-last-12-months-at-mutinex-have-been-about-activity-7409134921216270336-hY7K",
+      "activity_status": null
+    },
+    {
+      "title": "Had great fun with Jim and Simon on this one. We talked all things modelling, governance and most importantly... product!",
+      "link": "https://www.linkedin.com/posts/henryinnis_had-great-fun-with-jim-and-simon-on-this-activity-7407890803513028608-Eo-r",
+      "activity_status": null
+    },
+    {
+      "title": "I’m hiring a Product Marketer at Mutinex... And it's a huge role for us. Not a “positioning and launches” product marketer. A creator-builder who can…",
+      "link": "https://www.linkedin.com/posts/henryinnis_im-hiring-a-product-marketer-at-mutinex-activity-7407496109222289408-ya5j",
+      "activity_status": null
+    },
+    {
+      "title": "Deep learning isn’t magic. It’s just a lot of regressions. We talk about AI in marketing as if it’s a completely new kind of maths that only data…",
+      "link": "https://www.linkedin.com/posts/henryinnis_deep-learning-isnt-magic-its-just-a-lot-activity-7405777300522332161-9aD1",
+      "activity_status": null
+    },
+    {
+      "title": "To say Marketers & Money was a hit the other week was an understatement. We were so blessed to have 300 of the best marketing minds in the country…",
+      "link": "https://www.linkedin.com/posts/henryinnis_to-say-marketers-money-was-a-hit-the-other-activity-7402901422297513984-u-S0",
+      "activity_status": null
+    },
+    {
+      "title": "Today's a super exciting day before Marketers & Money. See my full thoughts about building marketing superintelligence partnering with the wonderful…",
+      "link": "https://www.linkedin.com/posts/henryinnis_why-warc-and-mutinex-are-coming-together-activity-7398529541549355008-r4vQ",
+      "activity_status": null
+    },
+    {
+      "title": "I've heard some horror stories lately of MMM onboarding and integration. It isn't easy - there's no doubt that it requires discipline and…",
+      "link": "https://www.linkedin.com/posts/henryinnis_freedom-finds-flow-honda-finds-fault-lines-activity-7399549529613598720-Aph1",
+      "activity_status": null
+    },
+    {
+      "title": "“Causation beat correlation” is one of the most misleading lines in analytics. At a data level, all we ever see are correlations. That includes A/B…",
+      "link": "https://www.linkedin.com/posts/henryinnis_causation-beat-correlation-is-one-of-the-activity-7394546540528324608-daiE",
+      "activity_status": null
+    },
+    {
+      "title": "I think it's critically important for Enterprises to vet vendors properly and ensure they are selecting trustworthy, well audited vendors.…",
+      "link": "https://www.linkedin.com/posts/henryinnis_i-think-its-critically-important-for-enterprises-activity-7393947343622082560-5B-1",
+      "activity_status": null
+    },
+    {
+      "title": "If you want to understand why Omnicom is retiring DDB, this is why. I get we all love to hold onto what was once successful. But there is a very…",
+      "link": "https://www.linkedin.com/posts/henryinnis_if-you-want-to-understand-why-omnicom-is-activity-7389419180988616704-UUoA",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for having me today USyd. A blast to chat to capstone marketing students.",
+      "link": "https://www.linkedin.com/posts/henryinnis_thanks-for-having-me-today-usyd-a-blast-activity-7386185452120133632-cYch",
+      "activity_status": null
+    },
+    {
+      "title": "Enjoyed recording this podcast in the US with the awesome Allison Schiff. The big topic for my mind is how we change marketing's relationship with…",
+      "link": "https://www.linkedin.com/posts/henryinnis_why-cfos-overlook-marketings-true-impact-activity-7386864304203100160-ssHk",
+      "activity_status": null
+    },
+    {
+      "title": "Ever since I was starting out in marketing, one little bucket list goal was to get on the podcast of a website I became addicted too - WARC. WARC was…",
+      "link": "https://www.linkedin.com/posts/henryinnis_facing-roas-reality-a-measurement-deep-dive-activity-7389047060743770112-k8IY",
+      "activity_status": null
+    },
+    {
+      "title": "WPP's platform deal with Google is important, but not for the reasons you think. I'm all for AI Optimism, but there is a central risk we are all…",
+      "link": "https://www.linkedin.com/posts/henryinnis_wpps-400m-google-bet-are-agencies-building-activity-7384845071222935554-xe4-",
+      "activity_status": null
+    },
+    {
+      "title": "We've been quietly hiring and building more of our all star team... with a ton of progress being made on all fronts. In the US... Surya Kulandaivelu…",
+      "link": "https://www.linkedin.com/posts/henryinnis_weve-been-quietly-hiring-and-building-more-activity-7384723504073490432-rN7J",
+      "activity_status": null
+    },
+    {
+      "title": "Loved this from Andie Potter this week. \"However, if you’re treating MMM as a slow, annual planning tool is like navigating a storm with last…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-data-delusion-how-attribution-is-holding-activity-7384317684999475200-1lUz",
+      "activity_status": null
+    },
+    {
+      "title": "I've heard a number of marketers rolling out MMMs to Boardroom level results. Here's the tough reality: if you want C-Level numbers or claims, you…",
+      "link": "https://www.linkedin.com/posts/henryinnis_c-level-data-comes-with-c-level-risk-activity-7379959858659454976-Tkdl",
+      "activity_status": null
+    },
+    {
+      "title": "With all the news around Upfronts, wrote some thoughts on whether they still matter, how to activate them better and how best to extract the economic…",
+      "link": "https://www.linkedin.com/posts/henryinnis_do-upfronts-still-matter-kind-of-activity-7374141581680902146--LdT",
+      "activity_status": null
+    },
+    {
+      "title": "Last year, Nine opened up an independent MMM program to advertisers to better understand I can't stress the importance of this enough: independent!…",
+      "link": "https://www.linkedin.com/posts/henryinnis_nines-mmm-trial-early-results-mafs-boosts-activity-7366986883261792257-amGl",
+      "activity_status": null
+    },
+    {
+      "title": "If we think of hallucinating in LLMs as \"making stuff up\"... And humans make stuff up all the time... Has anyone benchmarked whether humans…",
+      "link": "https://www.linkedin.com/posts/henryinnis_if-we-think-of-hallucinating-in-llms-as-activity-7368491028426711040-aMmd",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely stoked to say I've come on as a Seed Investor believing in Sam, Jack and Edward at Cuttable | Good Ads, Instantly! Brilliant vision and…",
+      "link": "https://www.linkedin.com/posts/henryinnis_absolutely-stoked-to-say-ive-come-on-as-activity-7368528498606473216-RB_g",
+      "activity_status": null
+    },
+    {
+      "title": "Was excellent to have a Marketers & Money dinner in Melbourne tonight seeing a number of our wonderful customers with the incredible Russ Howcroft.…",
+      "link": "https://www.linkedin.com/posts/henryinnis_was-excellent-to-have-a-marketers-money-activity-7366798345056550912-oTnD",
+      "activity_status": null
+    },
+    {
+      "title": "End of a great trip to San Diego reflecting on some amazing few days. Finishing up with great friend to Mutinex Michael Kassan talking all things AI.…",
+      "link": "https://www.linkedin.com/posts/henryinnis_end-of-a-great-trip-to-san-diego-reflecting-activity-7361926746826305538-8GDw",
+      "activity_status": null
+    },
+    {
+      "title": "Love to see words like this from Customers who are loving the Mutinex product but most importantly seeing IMPACT + VALUE! As we go into increasingly…",
+      "link": "https://www.linkedin.com/posts/henryinnis_love-to-see-words-like-this-from-customers-activity-7363383643496464385-5Syl",
+      "activity_status": null
+    },
+    {
+      "title": "Was a joy to take the stage today at ANA's Masters of Data conference to talk about something that matters deeply: Model Governance in MMM. Pretty…",
+      "link": "https://www.linkedin.com/posts/henryinnis_was-a-joy-to-take-the-stage-today-at-anas-activity-7360799257638940676-y-Ad",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting to see Mutinex feature in Axios 'Measurement' Deep Dive this week; you can read the full report here: https://lnkd.in/gNsKPt_7 \"What's next:…",
+      "link": "https://www.linkedin.com/posts/henryinnis_advertisers-and-marketers-navigate-crowded-activity-7357567022748061697-07Vk",
+      "activity_status": null
+    },
+    {
+      "title": "Great fun to speak today at the Google Cloud Summit on GenAI and how it's making disruptive waves across the market. Some key highlights for me: 1/…",
+      "link": "https://www.linkedin.com/posts/henryinnis_great-fun-to-speak-today-at-the-google-cloud-activity-7356242582923853824-n_4m",
+      "activity_status": null
+    },
+    {
+      "title": "Hear from real world customers about building the first MMM.....!",
+      "link": "https://www.linkedin.com/posts/henryinnis_your-first-mmm-activity-7359381501177745408-CQ15",
+      "activity_status": null
+    },
+    {
+      "title": "There's a bunch in all of this commentary in Mi-3: but I think the point is this; MMMs must be validated and verified if we're to become an industry…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mmms-influence-30bn-in-global-media-spend-activity-7356182178096914432-VT4v",
+      "activity_status": null
+    },
+    {
+      "title": "One area I'm fascinated by in the advertising is the concept of inventory unlocks. That's where a brand (think CBA, or retailers) manages to unlock a…",
+      "link": "https://www.linkedin.com/posts/henryinnis_are-traveller-media-networks-going-to-be-activity-7349448413807079424-suH8",
+      "activity_status": null
+    },
+    {
+      "title": "Some thoughts on how the latest US legislation may impact advertising economy and regulations... https://lnkd.in/gGTS6dRE",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-4-trillion-question-deconstructing-activity-7346648733935157248-_hOS",
+      "activity_status": null
+    },
+    {
+      "title": "Cool moment. Thanks for the podcast plug, Kara and Scott! https://lnkd.in/gJRmFdTu",
+      "link": "https://www.linkedin.com/posts/henryinnis_whats-elons-next-move-after-x-ceo-exit-activity-7349540450103422978-9TXz",
+      "activity_status": null
+    },
+    {
+      "title": "Pumped to be returning to Australia to speak at the Google Cloud Summit next week!",
+      "link": "https://www.linkedin.com/posts/henryinnis_pumped-to-be-returning-to-australia-to-speak-activity-7354006983017975809-IYx_",
+      "activity_status": null
+    },
+    {
+      "title": "People often ask me 'why is validation so important'. No more so than yesterday, after we released Mutinex Open Source Governance for MMM and moved…",
+      "link": "https://www.linkedin.com/posts/henryinnis_how-marketing-mix-models-could-lose-you-10000000-activity-7353847384944074752-BzY0",
+      "activity_status": null
+    },
+    {
+      "title": "Beyond excited to launch this in APAC, before we take it to the world. Market mix models are confusing beasts. We've seen an explosion in MMMs; and…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mmm-unmuddled-mutinex-lands-industry-wide-activity-7353217931196932096-n44f",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing to have more people joining the team. One especially exciting thing has been the number of rising stars joining the team organically over the…",
+      "link": "https://www.linkedin.com/posts/henryinnis_amazing-to-have-more-people-joining-the-team-activity-7347766952959909891-duZ1",
+      "activity_status": null
+    },
+    {
+      "title": "Wrote some thoughts on some of the challenges facing measurement today after listening to the IAB Measurement Leadership Summit in NYC. The obsession…",
+      "link": "https://www.linkedin.com/posts/henryinnis_where-good-measurement-goes-badly-wrong-activity-7351259674475704320-Hakl",
+      "activity_status": null
+    },
+    {
+      "title": "I don’t get why QSRs and Retailers bother running national-level MMM models in the US. I’ve seen quite a few MMMs lately for these types of…",
+      "link": "https://www.linkedin.com/posts/henryinnis_i-dont-get-why-qsrs-and-retailers-bother-activity-7350298739653169153-2DGs",
+      "activity_status": null
+    },
+    {
+      "title": "I love Dr. Peter Cain's work on long-term effects - has helped shape a number of our views on long-term brand building and in the wider industry,…",
+      "link": "https://www.linkedin.com/posts/henryinnis_applied-marketing-analytics-activity-7344175785643057152-Fl5O",
+      "activity_status": null
+    },
+    {
+      "title": "Pretty humbling to have so many roles in so many markets! Whaaaaaat!",
+      "link": "https://www.linkedin.com/posts/henryinnis_pretty-humbling-to-have-so-many-roles-in-activity-7348855835063709696-TpFe",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely love this from One New Zealand - awesome to hear customers that are using the product, building genuine workflows and leveraging…",
+      "link": "https://www.linkedin.com/posts/henryinnis_embedding-mmm-in-your-company-activity-7351779926267645954-SSkx",
+      "activity_status": null
+    },
+    {
+      "title": "I'm not sure MROI benchmarks are particularly helpful or clever ways to work. Most MROI benchmarks are useless, and it's because the way different…",
+      "link": "https://www.linkedin.com/posts/henryinnis_why-mroi-benchmarks-are-a-flawed-guide-to-activity-7352748154523430912-tBBw",
+      "activity_status": null
+    },
+    {
+      "title": "Pumped to have more of the best data scientists in the country flocking to team Mutinex. This time Shiyan joins - more brilliant PHDs in the team!",
+      "link": "https://www.linkedin.com/posts/henryinnis_pumped-to-have-more-of-the-best-data-scientists-activity-7351394399227953152-XWIU",
+      "activity_status": null
+    },
+    {
+      "title": "Some quick thoughts. https://lnkd.in/gzbqwYWp",
+      "link": "https://www.linkedin.com/posts/henryinnis_yaccarino-x-xai-and-why-social-media-might-activity-7348805937085784064-cq63",
+      "activity_status": null
+    },
+    {
+      "title": "Let me be clear: I think there's a lot of ways we can level up the ad industry's economics. One criminally bad metric we KPI ourselves against is the…",
+      "link": "https://www.linkedin.com/posts/henryinnis_why-cpms-are-the-single-dumbest-metric-to-activity-7347129853885730817-nPVa",
+      "activity_status": null
+    },
+    {
+      "title": "Uber is fast becoming a company that I don’t feel acts in the interests of customers at all. Check this: Uber uses personal data to arbitrarily set…",
+      "link": "https://www.linkedin.com/posts/henryinnis_uber-is-fast-becoming-a-company-that-i-don-activity-7348358515092070400-sULD",
+      "activity_status": null
+    },
+    {
+      "title": "Australia's startup scene is growing rapidly and there are so many great companies now coming through. In particular it's incredible how many strong,…",
+      "link": "https://www.linkedin.com/posts/henryinnis_australias-startup-scene-is-growing-rapidly-activity-7345274078456332288-CIgH",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely pumped to see this out in the world. Anyone who's done MMM knows taxonomies are one of the hardest bits to get right, particularly if you…",
+      "link": "https://www.linkedin.com/posts/henryinnis_mutinex-unveils-ai-powered-data-maite-for-activity-7343144980485390336-EQTS",
+      "activity_status": null
+    },
+    {
+      "title": "Wrote some Saturday thoughts from Cannes on why the Open Source MMM movement may be about to turn into a financial minefield for most brands...…",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-great-ticking-economic-time-bomb-of-open-activity-7339653397505069058-Bn_j",
+      "activity_status": null
+    },
+    {
+      "title": "One of the themes at Cannes this year is the rise of Agentic - which is everywhere. Everyone is talking about the impact it will have on search…",
+      "link": "https://www.linkedin.com/posts/henryinnis_one-of-the-themes-at-cannes-this-year-is-activity-7340739504414068736-88w0",
+      "activity_status": null
+    },
+    {
+      "title": "Always love hearing from marketers about their experience with us, and the wider challenge of MMM. Some gold nuggets here - every marketer should…",
+      "link": "https://www.linkedin.com/posts/henryinnis_a-marketers-secret-weapon-how-choosing-activity-7338408323169300480-FF7g",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing this is the team we’ve built in Aus!",
+      "link": "https://www.linkedin.com/posts/henryinnis_amazing-this-is-the-team-weve-built-in-aus-activity-7336634686405779457-rglD",
+      "activity_status": null
+    },
+    {
+      "title": "Was really honoured and chuffed when Pip Bingemann and Amy Tucker gave me the privilege of investing in their brilliant business, Springboards,…",
+      "link": "https://www.linkedin.com/posts/henryinnis_industry-a-listers-invest-in-ai-powered-springboards-activity-7335897277703536640-__Wc",
+      "activity_status": null
+    },
+    {
+      "title": "We have a ton of great roles going @ Mutinex across a huge range of domains! Get involved!",
+      "link": "https://www.linkedin.com/posts/henryinnis_we-have-a-ton-of-great-roles-going-mutinex-activity-7336535291131768833-UjU_",
+      "activity_status": null
+    },
+    {
+      "title": "One of the things I love at Mutinex is seeing some of up and coming leaders pushing the industry to think differently and do better. Here’s a great…",
+      "link": "https://www.linkedin.com/posts/henryinnis_stop-guessing-start-testing-activity-7336247479861948416-UaSP",
+      "activity_status": null
+    },
+    {
+      "title": "Wrote some thoughts on Principal Media's coming of age... https://lnkd.in/gax_BSdh",
+      "link": "https://www.linkedin.com/posts/henryinnis_principal-conflict-why-principal-media-means-activity-7331562698268196866-SYQ4",
+      "activity_status": null
+    },
+    {
+      "title": "If you're just using paid media and spend in a model, I hate to break it to you, but it's probably not usable for budgets or attribution. Modelling…",
+      "link": "https://www.linkedin.com/posts/henryinnis_if-youre-just-using-paid-media-and-spend-activity-7331432794083995648-_5em",
+      "activity_status": null
+    },
+    {
+      "title": "Some Saturday thoughts... https://lnkd.in/gHf-yNVH",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-1-gambit-groupms-bold-fee-flip-that-activity-7329446482724507648-cF0l",
+      "activity_status": null
+    },
+    {
+      "title": "Some Sunday thoughts...",
+      "link": "https://www.linkedin.com/posts/henryinnis_the-silent-growth-crisis-how-adlands-nasdaq-activity-7334756387924676608-ryR3",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Henry Innis",
+      "link": "https://www.linkedin.com/in/henry-innis-188b3486",
+      "summary": "Technical Support Specialist IV",
+      "location": "Peoria, IL"
+    },
+    {
+      "name": "Henry Innis",
+      "link": "https://ph.linkedin.com/in/henry-innis-6448a7350",
+      "summary": "Proactive Xero Advisor and Payroll Certified Bookkeeper",
+      "location": "Eastern Visayas, Philippines"
+    }
+  ],
+  "articles": [
+    {
+      "title": "WHY WARC AND MUTINEX ARE COMING TOGETHER TO BUILD MARKETING SUPERINTELLIGENCE",
+      "link": "https://www.linkedin.com/pulse/why-warc-mutinex-coming-together-build-marketing-henry-innis-qb5vc",
+      "published_date": {
+        "day": 24,
+        "month": 11,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQEoT4uUX25Ecg/article-cover_image-shrink_720_1280/B56Zqza_bXJUAI-/0/1763946789255?e=2147483647&v=beta&t=ysuSKaS39IC8wDXp1BSiVg6Ro3TxXeYDqoLYN-teiAU"
+    },
+    {
+      "title": "Mutinex's next phase",
+      "link": "https://www.linkedin.com/pulse/mutinexs-next-phase-henry-innis-actzc",
+      "published_date": {
+        "day": 18,
+        "month": 9,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "A naive view of tax policy and pork barrelling from someone who cares but probably isn't qualified to comment",
+      "link": "https://www.linkedin.com/pulse/naive-view-tax-policy-pork-barrelling-from-someone-who-henry-innis-3saoc",
+      "published_date": {
+        "day": 14,
+        "month": 4,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "MMM is going to fail us again. Unless we all think bigger.",
+      "link": "https://www.linkedin.com/pulse/mmm-going-fail-us-again-unless-we-all-think-bigger-henry-innis-jhkxc",
+      "published_date": {
+        "day": 9,
+        "month": 3,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQHOqs0jR9U4Iw/article-cover_image-shrink_720_1280/B56ZV9EdyYGsAI-/0/1741560079306?e=2147483647&v=beta&t=cYT8RojyEE9RWOBMGlA_ra9cfkSCYDQQpX5c7GDfZFg"
+    },
+    {
+      "title": "On MMM partnerships and transparency",
+      "link": "https://www.linkedin.com/pulse/mmm-partnerships-transparency-henry-innis-exgzc",
+      "published_date": {
+        "day": 12,
+        "month": 11,
+        "year": 2024
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D5612AQHhcKcwzDxxOw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1731409709666?e=2147483647&v=beta&t=zxGAF9MroiePVmTFr6_Lh1X_JodSl_7x7jmR4apIv24"
+    },
+    {
+      "title": "What capital raising is actually like (for this founder, anyway)",
+      "link": "https://www.linkedin.com/pulse/what-capital-raising-actually-like-founder-anyway-henry-innis",
+      "published_date": {
+        "day": 22,
+        "month": 6,
+        "year": 2022
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D4E12AQHBTBH7qk5C-A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1655859240211?e=2147483647&v=beta&t=de_rdRhLzNpJzuyY2HbJxEJamgZykiK6n2Y6gL9niUI"
+    },
+    {
+      "title": "5 not-boring trends you should pay attention to in 2022",
+      "link": "https://www.linkedin.com/pulse/5-not-boring-trends-you-should-pay-attention-too-2022-henry-innis",
+      "published_date": {
+        "day": 28,
+        "month": 12,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Can creativity really be measured and how the hell do you do that?",
+      "link": "https://www.linkedin.com/pulse/can-creativity-really-measured-how-hell-do-you-henry-innis",
+      "published_date": {
+        "day": 18,
+        "month": 11,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQFO7WDNghrfYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1637278140774?e=2147483647&v=beta&t=x7FEmx15dAetbuiBS6F7TuS69xAvQ2G0sea95g6LHwU"
+    },
+    {
+      "title": "ScoMo and the public health team don't seem to have a clear plan... so here are some ideas",
+      "link": "https://www.linkedin.com/pulse/scomo-public-health-team-dont-seem-have-clear-plan-so-henry-innis",
+      "published_date": {
+        "day": 13,
+        "month": 7,
+        "year": 2021
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQH-hSYr7JRI-Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626164191045?e=2147483647&v=beta&t=zyh-9fyomhBZZaDbE8GzdyHS5M3t1wnX9upU0iKdz-E"
+    },
+    {
+      "title": "Marketing's collinearity problem",
+      "link": "https://www.linkedin.com/pulse/marketings-collinearity-problem-henry-innis",
+      "published_date": {
+        "day": 18,
+        "month": 9,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4E12AQHrHtxztw5YEQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1600393658845?e=2147483647&v=beta&t=J4rPu-589mwxvD2bo2A24HdLfdKb9RMvFBLKXNjCVjo"
+    },
+    {
+      "title": "Why I'm building Mutiny",
+      "link": "https://www.linkedin.com/pulse/why-im-building-mutiny-henry-innis",
+      "published_date": {
+        "day": 3,
+        "month": 6,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQEkki8BGlEd9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1591176556338?e=2147483647&v=beta&t=abDfvmQpyHSya-Ljt5iKXC1qaeDDxSm6m5fh4d4SxXc"
+    },
+    {
+      "title": "How to get a bigger salary increase at your agency strategy job",
+      "link": "https://www.linkedin.com/pulse/how-get-bigger-salary-increase-your-agency-strategy-job-henry-innis",
+      "published_date": {
+        "day": 27,
+        "month": 5,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQFFhBmQ5YV-3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1554253962911?e=2147483647&v=beta&t=W28k4t4EP8W20KK99sCoCIribYomYR79YrQsZuwEyHw"
+    },
+    {
+      "title": "Why I wanted to start a Mutiny.",
+      "link": "https://www.linkedin.com/pulse/why-i-wanted-start-mutiny-henry-innis",
+      "published_date": {
+        "day": 9,
+        "month": 12,
+        "year": 2018
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Performance marketing is a missed opportunity to listen to customers",
+      "link": "https://www.linkedin.com/pulse/performance-marketing-missed-opportunity-listen-customers-henry-innis",
+      "published_date": {
+        "day": 25,
+        "month": 9,
+        "year": 2018
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-25T00:00:00Z"
+  }
+}

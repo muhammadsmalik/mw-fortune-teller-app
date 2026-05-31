@@ -1,0 +1,945 @@
+{
+  "public_identifier": "remidupreez",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/6f397175d0662fb3aae29e1998c30b3f",
+  "background_cover_image_url": null,
+  "first_name": "Remi",
+  "last_name": "Du Preez",
+  "full_name": "Remi Du Preez",
+  "follower_count": 3795,
+  "occupation": "Founder | Managing Director at Polygon",
+  "headline": "Creating the largest network of programmatically connected digital-out-of-home screens throughout Africa through one point of contact",
+  "summary": "With over 16 years of experience in the digital-out-of-home (DOOH) industry, I am passionate about creating a more inclusive, transparent, and accountable programmatic ecosystem in South Africa and beyond. As the Founder and Managing Director of Polygon, I lead a team of experts who are dedicated to connecting and unifying DOOH networks across the continent, creating new revenue opportunities for the OOH industry to reach and engage audiences with relevant and impactful messages, and I strive to make it more accessible, measurable, and adaptable for the changing market needs.\n\nBefore founding Polygon in 2023, I was the Commercial Director at Tractor Outdoor, one of the largest and most innovative independent OOH media owners in South Africa. There, I spearheaded the adoption, education, and integration of programmatic DOOH, working with leading DSPs, agencies, and brands to deliver successful campaigns across various sectors and locations. I also contributed to the growth and development of the company, securing multiple awards and recognitions, such as the MOST Awards and the Smarties MMA Awards.",
+  "location_str": "City of Cape Town, Western Cape, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Cape Town",
+  "state": "Western Cape",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Polygon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/polygon-dooh",
+      "company_facebook_profile_url": null,
+      "title": "Founder | Managing Director",
+      "description": "Having lead the charge for programmatic digital-out-of-home (DOOH) adoption, education and integrations in South Africa, I've identified key changes that I want to see in the market to create a more inclusive programmatic ecosystem - these include:\n\n- Including more DOOH networks into the foray (retail/airports/bars/taverns/casinos/pharmacies/malls)\n- Getting the African continent programmatically connected and unified\n- Creating additional revenue opportunities into the OOH category\n- Making DOOH more transparent and accountable to buyers\n- Driving standardization and best practices\n- Increasing access for buyers with new DSP integrations",
+      "location": "Cape Town, Western Cape, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fe35676bc769eb53e2c7e12f2443d7c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Non Executive Director",
+      "description": null,
+      "location": "Cape Town, Western Cape, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": null,
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Sales",
+      "description": null,
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2015
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "Cape Town Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2009
+      },
+      "company": "Darnell International",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": "Darnell International were an international Recruitment Agency focusing on Property, Media, Locum and Engineering placements. \n\nHaving started up the Media division from scratch as a new department, my team and I were responsible for developing new business and creating new opportunities for the company with a strong sales focus.",
+      "location": "Cape Town Area, South Africa",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": "Marketing Management",
+      "degree_name": "Bachelor of Commerce - BCom",
+      "school": "University of South Africa/Universiteit van Suid-Afrika",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unisa",
+      "school_facebook_profile_url": null,
+      "description": "Degree Complete 2015",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/27d8e389f2bacb55cf6371e75edf9a61",
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Economics, Relationship Marketing, Business Management, Consumer Behaviour, Commercial Law, Marketing Management"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": "Digital Marketing",
+      "degree_name": null,
+      "school": "Red & Yellow Creative School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/redandyellowed",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/975896ce9f629c6a15957886f39907e3",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": null,
+      "degree_name": "Senior Certificate",
+      "school": "Paul Roos Gymnasium",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Afrikaans"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Afrikaans",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Smarties MMA Award (Silver)",
+      "issuer": "MMA Global",
+      "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "description": "DOOH Winner - Hivestack, Mark1 & ReMax"
+    },
+    {
+      "title": "The Wires Awards - Best Use of DOOH Technology - WINNER",
+      "issuer": "Exchange Wire - London",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2023
+      },
+      "description": "Hivestack, Mark1, Remax, Innovocean"
+    },
+    {
+      "title": "Smarties MMA Award (Bronze)",
+      "issuer": "MMA Global",
+      "issued_on": {
+        "day": 1,
+        "month": 12,
+        "year": 2022
+      },
+      "description": "Digital Out-of-Home (DOOH) Award - Mark1, Remax & Hivestack https://www.mmaglobal.com/smarties/awards/programs/south-africa"
+    },
+    {
+      "title": "Supersonic New Generation Media Awards (Finalist)",
+      "issuer": "The New Generation",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "description": "Best Use of Technical Innovation - YouBelongToCelebrate - ABInbev, Mark1"
+    },
+    {
+      "title": "(MOST Awards) - Media Owner Overall Lamb Award",
+      "issuer": "Wag the Dog Publishers (MOST Awards)",
+      "issued_on": {
+        "day": 1,
+        "month": 9,
+        "year": 2013
+      },
+      "description": "The MOST Awards is to the media industry what the Loerie Awards is to creative agencies. Running for its 5th year, the MOST Awards, awards media owners and agencies alike on different key criteria totally focused on relations and service delivery in the industry. http://www.bizcommunity.com/Article/196/40/99557.html"
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "UCT Business School - Negotiation",
+      "number": "2011"
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2014
+      },
+      "title": "#ClashWall",
+      "description": "What do you get when you combine a graffiti artist, a canvas and social media? @Converse_Africa in collaboration with Tractor Outdoor have implemented South Africa's first live graffiti exhibition with creative suggestions being spurred on via the #clashwall #CT Twitter hashtags. The event, located at the famous yellow Clock Tower at the V&A Waterfront ran from the 28th February till the 3rd March 2014. A local street artist was on hand bridging the gap between outdoor and social media by creating the concepts that were suggested by inspired twitter fans. People were then encouraged to snap pictures and share them amongst social media platforms. The project was an immense success with many locals coming out to see the concept as it came alive from a drab canvas to an inspiring piece of artwork.",
+      "url": "https://www.youtube.com/watch?v=PJovnvqlYCw"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "title": "Converse",
+      "description": "Tractor Outdoor in collaboration with Hooley have created a range of products for Converse using material which was once used as billboard vinyl. The end result was beautifully designed and produced iPad covers, Laptop and Duffel bags.",
+      "url": "http://www.bizcommunity.com/Article/196/70/98383.html"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "title": "iFix",
+      "description": "iFix utilized one of Tractors mid-sized wall-mounted sites located on the main road, just around the corner from their store. Tractor helped with the creative concept which included the headline “Bad Apple?” and using basic directional information to lead foot traffic to the store.",
+      "url": "http://www.tractoroutdoor.com/#!ifix/c21zy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2010
+      },
+      "title": "\"Heita\"",
+      "description": "Tractor Outdoor contributed to the bulk of the billboards in the Western and Eastern Cape focusing on strategic locations of public gatherings. Tractor worked closely 8.ta on a strategic level to advise them on the best use of outdoor as well as placements that would deliver the highest return on investment.",
+      "url": "http://www.tractoroutdoor.com/#!telkom/c183r"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2010
+      },
+      "title": "TopTV",
+      "description": "Tractor Outdoor contributed to majority of the outdoor for the campaign by utilizing 150 Full Wrap buses across South Africa. Seven high impact billboards were also selected to blanket Cape Town and increase the frequency of Top TV’s message. This is by far the largest South African campaign that Tractor has embarked on with a staggering 14,000sqm2+ of advertising vinyl printed for all media.",
+      "url": "http://www.tractoroutdoor.com/#!top-tv/cddp"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2009
+      },
+      "title": "WBPTS",
+      "description": "WPBTS decided to utilize various Print titles, local Radio stations and one of Tractors double-sided Supersite billboards located on the N2 to increase general awareness of blood donation requirements. They cleverly adopted creative that targeted commuters travelling towards the City during morning hours with the subtle slogan “Give Life, Donate Blood”. This message hit home when the same commuters drove home passing the new creative “Stop the Bloody Excuses. Give Life, Donate Blood.”",
+      "url": "http://www.tractoroutdoor.com/#!wpbts/c7v5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2020
+      },
+      "title": "#SendingLove",
+      "description": "User-generated messages of love and unity were displayed on digital out of home screens worldwide with social media amplification ensuring the messages were seen by millions - at home. The #SendingLove was global initiative promoting messages of love that united communities all over the world during the fight against the effects of Covid-19. Launched by outdoor specialist Talon Outdoor, the socially-enabled DOOH campaign was facilitated by The World Out of Home Organisation (WOO) and many of its member organisations and ran on advertising space donated by over 70 media owners across 153 cities making it the biggest UGC campaign ever to run on digital out of home. Created by Grand Visual, the campaign encouraged participants to send love to those in places they cannot travel to, by getting creative with the heart-hand symbol. Participants were then given the option to donate to the global Covid-19 Solidarity Response Fund before receiving a photo of their picture playing on-screen in their chosen city to share with friends and family across social channels. The campaign was facilitated by Plexus, Talon’s global OOH network, who along with their partners have built a campaign with a total OOH media value of $15m. Tractor Outdoor was on board to help display messages of love to people in the Gauteng, KwaZulu-Natal, Western and Eastern Cape regions. The system developed by Grand Visual geo targeted messages to the chosen city, connecting communities to messages of love from afar in a show of global strength and solidarity.",
+      "url": "https://www.youtube.com/watch?v=VzjCQflhKZM&feature=youtu.be"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/isabel-beukes",
+      "name": "Isabel Beukes",
+      "summary": "Sales Director at PEMarketing",
+      "location": "Port Elizabeth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justinkeats",
+      "name": "Justin Keats",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-martin",
+      "name": "Tyron Martin",
+      "summary": "Sales Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trevor-van-rensburg",
+      "name": "Trevor Van Rensburg",
+      "summary": "Global Partnerships Manager at PageProof®",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charl-thom-2609273",
+      "name": "Charl Thom",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sibusiso-mncwabe-5318a58",
+      "name": "Sibusiso Mncwabe",
+      "summary": "Chairperson of the Board at EXSA 'Exhibition and Events Association of South Africa'\nDirector at Marketing Well | Exhibition | Branding | Shop Front",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marloe-wise-2b15671b",
+      "name": "Marloe Wise",
+      "summary": "Growing B2B Brands through effective marketing",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gilbert-mdlalose-0535b824",
+      "name": "Gilbert Mdlalose",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tannerrock",
+      "name": "Tanner Rock",
+      "summary": "Commercial Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-hansen-b80b0844",
+      "name": "matthew hansen",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-kourie-22ab7945",
+      "name": "Craig Kourie",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-abramsohn-10b5834a",
+      "name": "David Abramsohn",
+      "summary": "Sales Director at Superga and Kappa",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/buster-pitt-71459351",
+      "name": "Buster Pitt",
+      "summary": "Sales Director at Location Bank",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-friedman-1004355a",
+      "name": "Sam Friedman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/austin-mabasa-0a472363",
+      "name": "Austin Mabasa",
+      "summary": "director at Yatabainvestment. co.za",
+      "location": "Polokwane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-barnard-50931972",
+      "name": "Ashley Barnard",
+      "summary": "Sales Director at The Media Factory",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-hadjidemetriou-30a47974",
+      "name": "Tony Hadjidemetriou",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyle-jones-66903b7b",
+      "name": "Kyle Jones",
+      "summary": "Billboard Marketing Maven | Innovative Advertising Strategies | Expert in Marketing Campaign Optimization OOH | Marketing Guru with a Passion for Impactful Advertising | Billboard Specialist | Data-Driven Results 💡",
+      "location": "Pretoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikki-ingwersen-58312aa0",
+      "name": "Nikki Ingwersen",
+      "summary": "Director at Digital Fire",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carol-anne-toxi-smuts-656836170",
+      "name": "CAROL-ANNE (Toxi) SMUTS",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-malherbe",
+      "name": "Daniel Malherbe",
+      "summary": "Founder and Director @ Lumico (Pty) Ltd | Integrated Agency, Digital Strategy, ROI Optimization, Content Creation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantelleherbst",
+      "name": "Chantelle Herbst (She/Her/Hers)",
+      "summary": "Passionate pDOOH Enthusiast: Bridging the Gap Between Real World and Digital Conversions | E-commerce specialist  | Commercial Manager | Digital Marketer | Brand Partnerships",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nataliebrandza",
+      "name": "Natalie Brand",
+      "summary": "Media Specialist",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirsty-carlson-27b45665",
+      "name": "Kirsty Carlson",
+      "summary": "Experienced South Africa & Rest of Africa Media Head | Media Consultant | OOH Specialist | Co-Host Beyond the Billboard Podcast | Co-Editor | Owner Her Collective | Passionate about People-first leadership",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyle-gray-60614055",
+      "name": "Kyle Gray",
+      "summary": "Passionate pDOOH Enthusiast: Bridging the Gap Between Real World and Digital Conversions > Keen on an adventure ? Lets chat!",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/trish-berrang%C3%A9-8bb69324",
+      "name": "Trish Berrangé",
+      "summary": "OOH Sales | Strategist and Implementation | Account and Team Management | Digital and Innovation | Specialist expertise in SA and Rest of Africa | Motivational Speaker",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-manana-a7681182",
+      "name": "Nicole Manana",
+      "summary": "Brand, Marketing + Communications Specialist | IAB Certified | Bookmark Awards Judge",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sumaiyah-bijoux-43487692",
+      "name": "Sumaiyah Bijoux",
+      "summary": "Analysis and Reporting Manger at PEAR Africa",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-wall",
+      "name": "Simon Wall",
+      "summary": "Group Chief Executive Officer at The Glynt Group of companies",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/signbox-south-africa-1a846a20b",
+      "name": "Signbox South Africa",
+      "summary": "\nMost signage companies face similar challenges. Through our experience we have designed and developed a range of aluminium extrusions which can help solve some of those signage manufacturing problems.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-knocker-829a40b0",
+      "name": "Mark Knocker",
+      "summary": "Managing Director at MARNOX MEDIA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-mc-leod-9045b572",
+      "name": "Kim Mc Leod",
+      "summary": "Where Bold Ideas Meet Smart Execution",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sakhile-lawrence-khoza-61678a354",
+      "name": "Sakhile Lawrence  Khoza",
+      "summary": "I help brand owners refine key brand touch-points.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/miles-benfield-new-business-strategist",
+      "name": "Miles Benfield",
+      "summary": "Strategic Partnerships and New Business Sales Manager  at BabyYumYum.co.za - SA's#1 Online Parenting Portal - Serving Brand and Product innovators in the parenting category by exposing their brands to a targeted audience",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/serren-williams",
+      "name": "Serren Williams",
+      "summary": "📌 Pinterest Client Partner Lead Sub-Saharan Africa / ex Twitter",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/debraaddison",
+      "name": "Debra Addison",
+      "summary": "Communications Manager, Brand Strategist & Copywriter",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%C3%A9-carstens-879279210",
+      "name": "André Carstens",
+      "summary": "✏️Copywriter / Digital Marketer l \"Copy should make you feel, make you think, make you wonder\" l Looking for opportunities in the Sports Advertising industry 🏉",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/fearne-gilson-66694975",
+      "name": "Fearne Gilson",
+      "summary": "Polygon | Using programmatic DOOH to bring brands closer to audiences through targeted Sport & Events driven campaigns.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-gibson-8674a9303",
+      "name": "Kevin Gibson",
+      "summary": "Strategic Data Lead & Account Director at iProspect/Dentsu SA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/courtney-locke-8b540b205",
+      "name": "Courtney Locke",
+      "summary": "Marketing Manager",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Jamie Norgarb\n\nRemi is a super smart guy, with a passion for what he does! I have loved working with him for the past decade, and I am always eager to learn from his world-class expertise in OOH, DOOH, pDOOH, and smart marketing! I have watched Tractor grow from strength to strength, and his passion and dedication have put a key ingredient in this! I would highly recommend working with Remi to anyone who wants to challenge themselves to think outside the box, and do things differently.",
+    "Stacey Rehbock\n\nRemi is great to work with. He is fast in delivering the requests I send him and is always on hand to answer questions, sort out issues or finalize the deal.",
+    "Stacey R.\n\nRemi is great to work with. He is fast in delivering the requests I send him and is always on hand to answer questions, sort out issues or finalize the deal.",
+    "Owen Williams\n\nWith limited outdoor opportunities in Cape Town. I have found Remi at Tractor Outdoor to provide creative yet affordable solutions in the Cape Town area. His turn around time on briefs and queries has been fantastic. If you're looking for outdoor advertising opportunities in Cape Town you must brief Remi at Tractor outdoor."
+  ],
+  "activities": [
+    {
+      "title": "The realm of #programmatic digital out-of-home, marked by its steady growth in recent years, has transitioned from a novel execution approach to a…",
+      "link": "https://www.linkedin.com/posts/remidupreez_six-trends-shaping-digital-out-of-home-advertising-activity-7295760866820448257-PYEu",
+      "activity_status": null
+    },
+    {
+      "title": "The rise of smaller niche #DOOH networks is on the rise, where defining the audience and positioning the value proposition are straightforward. Last…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygon-taps-into-padel-court-network-to-activity-7295047991273439233-mxMq",
+      "activity_status": null
+    },
+    {
+      "title": "I'll be in London between the 3rd to 5th June for the London World Out of Home Organization Congress, so if you find yourself in town, give Kyle Gray…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygon-woo-ooh-activity-7463084914511474688-5dqX",
+      "activity_status": null
+    },
+    {
+      "title": "A few things I’m seeing in the DOOH space right now: • Screen supply in South Africa is growing 20–40% year on year • The same growth is starting to…",
+      "link": "https://www.linkedin.com/posts/remidupreez_a-few-things-im-seeing-in-the-dooh-space-activity-7462135467627634688-SLJZ",
+      "activity_status": null
+    },
+    {
+      "title": "I'm genuinely really proud to see this coming together. A huge congratulations to Ivie Media and especially to Irina Vlad for bringing something…",
+      "link": "https://www.linkedin.com/posts/remidupreez_im-genuinely-really-proud-to-see-this-coming-activity-7455614365191483392-0yLL",
+      "activity_status": null
+    },
+    {
+      "title": "I came across this piece recently which echoes my thoughts quite succinctly. For too long time, we’ve treated digital and out-of-home as two separate…",
+      "link": "https://www.linkedin.com/posts/remidupreez_the-street-is-the-new-feed-why-dooh-is-a-activity-7453367215610986497-Jcwc",
+      "activity_status": null
+    },
+    {
+      "title": "It’s interesting how some career decisions don’t feel that big at the time. I didn’t set out to build a career DOOH, nevermind go on this journey…",
+      "link": "https://www.linkedin.com/posts/remidupreez_dooh-mediaindustry-careerjourney-activity-7452668265530736640-nqJk",
+      "activity_status": null
+    },
+    {
+      "title": "Ahead of launching Prism, we’re giving SMEs the chance to win a share of R200,000 in digital billboard media. This isn’t a pitch but a chance to…",
+      "link": "https://www.linkedin.com/posts/remidupreez_prism-dooh-activity-7451887596852473856-lYpr",
+      "activity_status": null
+    },
+    {
+      "title": "One thing I’ve seen consistently with SMEs — social media becomes the dominant growth channel. It makes sense. It’s accessible, familiar, and for a…",
+      "link": "https://www.linkedin.com/posts/remidupreez_one-thing-ive-seen-consistently-with-smes-activity-7450186634790293506-CwL-",
+      "activity_status": null
+    },
+    {
+      "title": "Building something new in a space where there are already established ways of doing things, you quickly realise how much there is to navigate. When…",
+      "link": "https://www.linkedin.com/posts/remidupreez_building-something-new-in-a-space-where-there-activity-7448342797008445441-eC0x",
+      "activity_status": null
+    },
+    {
+      "title": "One of the things that has stood out most while building Polygon is just how dynamic audiences really are. You don’t experience media in a straight…",
+      "link": "https://www.linkedin.com/posts/remidupreez_one-of-the-things-that-has-stood-out-most-activity-7447280652376399872-766p",
+      "activity_status": null
+    },
+    {
+      "title": "Starting Polygon sometimes feels a little like playing with Lego. That’s honestly the best way I can describe it. You start with a picture in your…",
+      "link": "https://www.linkedin.com/posts/remidupreez_starting-polygon-sometimes-feels-a-little-activity-7445483038198865920-hzw8",
+      "activity_status": null
+    },
+    {
+      "title": "We’ve spent a lot of time at Polygon thinking about how DOOH can better capture the energy of live sport, not just as a placement but as part of the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_wherehumansgather-dooh-turningcitiesintostadiums-activity-7442195712442015744-Yd4A",
+      "activity_status": null
+    },
+    {
+      "title": "Long before I worked in media, billboards were already leaving an impression on me. Growing up, I can distinctly recall my interactions with…",
+      "link": "https://www.linkedin.com/posts/remidupreez_long-before-i-worked-in-media-billboards-activity-7438169627219763200-_Grp",
+      "activity_status": null
+    },
+    {
+      "title": "Earlier this year we ran what I would sum up as a career defining campaign. We've worked with some incredible brands in our life time, but I don't…",
+      "link": "https://www.linkedin.com/posts/remidupreez_springboks-dooh-activity-7405260015042949120-pIUR",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we spent some quality time together at our end of year PolyConference where we got to talk about the year that was and prepare for the year…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-activity-7401974387698077696-28-J",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we had a beautiful opportunity to work with our partners at Google to educate the South African landscape about #pdooh trading and the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-activity-7400111180351963136-Yyd-",
+      "activity_status": null
+    },
+    {
+      "title": "It's been a long time coming but we finally cracked the Kenyan market and now it's open season 🇰🇪 We are super excited to have Polygon running its…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygon-launches-first-programmatic-dooh-activity-7391758051629932544-0xuB",
+      "activity_status": null
+    },
+    {
+      "title": "In the #digital & AI age, there is more and more demand for human connection... for true moments of bonding... for authentic experiences and to be…",
+      "link": "https://www.linkedin.com/posts/remidupreez_digital-serenitysession-gaiacenter-activity-7376103019735703552-Vs4x",
+      "activity_status": null
+    },
+    {
+      "title": "We have always advocated for more transparency in the #programmatic DOOH industry.... For this industry to truly thrive and live more in the…",
+      "link": "https://www.linkedin.com/posts/activity-7364570547684261889-Ymm1",
+      "activity_status": null
+    },
+    {
+      "title": "It was so amazing to be at the IAB South Africa #Bookmarks2025 last night and for us at Polygon to stand as proud sponsors of this amazing…",
+      "link": "https://www.linkedin.com/posts/remidupreez_bookmarks2025-digital-activity-7361987020308594690-XfYW",
+      "activity_status": null
+    },
+    {
+      "title": "Our Rimmel x Polygon campaign, \"Beauty in Real Time\" managed to grab 3 x nominations at the upcoming IAB South Africa #BookmarkAwards! This campaign…",
+      "link": "https://www.linkedin.com/posts/remidupreez_bookmarkawards-activity-7350373486281789440-W-H-",
+      "activity_status": null
+    },
+    {
+      "title": "Earlier this year, we launched Polygon's Urban Takeovers — a bold new way to dominate attention in the real world. For Sponsorship & Events Managers,…",
+      "link": "https://www.linkedin.com/posts/remidupreez_dooh-dooh-mobileretargeting-activity-7335935911295123458-KPx1",
+      "activity_status": null
+    },
+    {
+      "title": "I've recently rekindled my love for reading—not eBooks or audiobooks, but real books. The kind you can feel in your hands, where the weight of the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_ive-recently-rekindled-my-love-for-readingnot-activity-7333402381788823552-Siny",
+      "activity_status": null
+    },
+    {
+      "title": "We’ve just switched on a first-of-its-kind partnership with The Capital Hotels, Apartments & Resorts —bringing their internal digital screens into…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygon-partners-with-the-capital-hotels-activity-7325861652971573248-oWIL",
+      "activity_status": null
+    },
+    {
+      "title": "We are looking for a mid-senior Sales Lead to join us in our Polygon Cape Town office... We hire on cultural fit first, skills second, so if you are…",
+      "link": "https://www.linkedin.com/posts/remidupreez_we-are-looking-for-a-mid-senior-sales-lead-activity-7317518984768094208-W8JK",
+      "activity_status": null
+    },
+    {
+      "title": "\"Safe.” That was the one-word answer I got when I asked one of our newest team members how her first week had gone and how she felt. It caught me off…",
+      "link": "https://www.linkedin.com/posts/remidupreez_safe-that-was-the-one-word-answer-i-got-activity-7317766131522428928-f74p",
+      "activity_status": null
+    },
+    {
+      "title": "I am immensely proud to be South African! 🇿🇦 As South Africans, we often find ourselves caught in conversations about the daily challenges we…",
+      "link": "https://www.linkedin.com/posts/remidupreez_proudlysouthafrican-entrepreneurship-activity-7307438387387338754-cb31",
+      "activity_status": null
+    },
+    {
+      "title": "As we step into 2025, I’m incredibly optimistic about the continuing growth of the #OOH (out-of-home) and #DOOH (digital out-of-home) industry. Every…",
+      "link": "https://www.linkedin.com/posts/remidupreez_ooh-dooh-activity-7285245463816015873-mNfT",
+      "activity_status": null
+    },
+    {
+      "title": "Did you know that it's possible to see what people do (visit your store or website) after they come into contact with a billboard ad? But how, you…",
+      "link": "https://www.linkedin.com/posts/remidupreez_ooh-ooh-dooh-activity-7251992634381008896-FR6X",
+      "activity_status": null
+    },
+    {
+      "title": "📢 I'm incredibly proud of my team and the work they executed for Rimmel London earlier in the year... so much so, that this campaign is a finalist…",
+      "link": "https://www.linkedin.com/posts/remidupreez_loeries2024-pdooh-ooh-activity-7249278595171315712-NPSN",
+      "activity_status": null
+    },
+    {
+      "title": "Over the last week Kyle Gray and I had the privilege of spending a week in Lagos, Nigeria attending the #LOMA Awards... The visit this week was…",
+      "link": "https://www.linkedin.com/posts/remidupreez_loma-pdooh-polygon-activity-7246367813953605632-w4oo",
+      "activity_status": null
+    },
+    {
+      "title": "It's Showtime!!! 👏 We are here at #LOMA2024 in Lagos bringing #programmatic #dooh to Nigeria! What an amazing trip so far... The OOH scene is…",
+      "link": "https://www.linkedin.com/posts/remidupreez_loma2024-programmatic-dooh-activity-7245341643917189121-bTIR",
+      "activity_status": null
+    },
+    {
+      "title": "Nigeria we are coming for you! 🇳🇬 To all our friends in the region, we will be in Lagos for the week attending the #LOMA2024 Exhibition and Awards.…",
+      "link": "https://www.linkedin.com/posts/remidupreez_loma2024-pdooh-dooh-activity-7244059014752260096-y849",
+      "activity_status": null
+    },
+    {
+      "title": "We made it as finalists of the #NewGenerationAwards2024 for \"Best use of Technical Innovation\" Well done to everyone at the Polygon team for…",
+      "link": "https://www.linkedin.com/posts/remidupreez_newgenerationawards2024-activity-7237790647670198273-9sWu",
+      "activity_status": null
+    },
+    {
+      "title": "We are super excited to again sponsor the LOMA Conference & Awards this year! We have no doubt that this year will be better than the last! And even…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-loma-ooh-activity-7227227292039602176-WfvG",
+      "activity_status": null
+    },
+    {
+      "title": "📢 It's only 2 more days to go until the IAB South Africa #Bookmarks2024 and myself and the rest of the Polygon team are super excited and proud to…",
+      "link": "https://www.linkedin.com/posts/remidupreez_bookmarks2024-pdooh-dooh-activity-7229104506179883010-Fzol",
+      "activity_status": null
+    },
+    {
+      "title": "All Screens Everywhere! That has always been our mantra and focus point at Polygon as we continue to build out this beast of a programmatic network.…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygon-launches-first-programmatic-mini-bus-activity-7216999653345550336-KG0L",
+      "activity_status": null
+    },
+    {
+      "title": "For those that are still a little stuck on why, what, when and how #programmatic DOOH can positively impact and compliment your #digital strategies,…",
+      "link": "https://www.linkedin.com/posts/remidupreez_30-taking-digital-out-of-home-unveiling-activity-7214848004250341376-tfDh",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to the LOMA Awards for adding me to your judging panel and thank you Kingsley Onwukaeme (rpa) for all the work that you do... You are a…",
+      "link": "https://www.linkedin.com/posts/remidupreez_ooh-lomaawards-pdooh-activity-7214248539218972675-bkw-",
+      "activity_status": null
+    },
+    {
+      "title": "We are Hiring!!! 🙌🧑🔧 I asked ChatGPT to put together a visual post to support this job spec and this is what it came back with.... definitely not…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-programmatic-dooh-activity-7212777965074452480-GYB2",
+      "activity_status": null
+    },
+    {
+      "title": "A little over 12 months ago we launched Polygon, with the vision to create the largest programmatic DOOH network across Africa, and today, realising…",
+      "link": "https://www.linkedin.com/posts/remidupreez_polygons-network-expands-across-africa-activity-7205846281737428992-BAIe",
+      "activity_status": null
+    },
+    {
+      "title": "Day 2 of the World Out of Home Organization Congress in Hong Kong - Sylvain LE BORGNE from JCDecaux raised important points about the use of data in…",
+      "link": "https://www.linkedin.com/posts/remidupreez_day-2-of-the-world-out-of-home-organization-activity-7204881087968260096-g9wk",
+      "activity_status": null
+    },
+    {
+      "title": "Programmatic DOOH has created so many new opportunities in the media realm, but has also challenged some status quos. I'm interested in challenging…",
+      "link": "https://www.linkedin.com/posts/remidupreez_unlocking-the-future-with-programmatic-dooh-activity-7197170421031432193-inLa",
+      "activity_status": null
+    },
+    {
+      "title": "What an honor it was to be on stage at the Google Programmatic Summit! I am excited to witness the omnichannel conversation progressing and the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_googleprogrammaticsummit-dooh-omnichannel-activity-7188777265332183040-EE0X",
+      "activity_status": null
+    },
+    {
+      "title": "It feels like this is the campaign that just keeps on giving! I still recall chatting with William Brownsdon at the time discussing how can we…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-activity-7176880294648561664-cerF",
+      "activity_status": null
+    },
+    {
+      "title": "Just in time for the end of year break, and for those looking for a new challenge next year. Our team is growing and we are looking for a curious,…",
+      "link": "https://www.linkedin.com/posts/remidupreez_just-in-time-for-the-end-of-year-break-and-activity-7140560923282382848-jDa-",
+      "activity_status": null
+    },
+    {
+      "title": "For anyone interested in keeping on top industry trends for the digital-out-of-home market for SA, I highly recommend you subscribe to www.dooh.co.za…",
+      "link": "https://www.linkedin.com/posts/remidupreez_digital-dooh-digitalooh-activity-7056320599463272448-_ttb",
+      "activity_status": null
+    },
+    {
+      "title": "This was surprisingly one of the most difficult executions that we've had to work with and truth be told, there were moments where I thought we over…",
+      "link": "https://www.linkedin.com/posts/remidupreez_world-first-anamorphic-programmatic-dooh-activity-6998662558878429184-tazH",
+      "activity_status": null
+    },
+    {
+      "title": "Some time ago I was part of a great campaign with Mark1 and Hivestack where we introduced the worlds first programmatically bought anamorphic…",
+      "link": "https://www.linkedin.com/posts/remidupreez_smarties-south-africa-activity-7051911009157939200-Gr4x",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to be part of the IAB Insights Series where we will give a deep update on programmatic DOOH and how digital agencies, big and small, are…",
+      "link": "https://www.linkedin.com/posts/remidupreez_digital-iab-dooh-activity-6985519328930508800-HYT5",
+      "activity_status": null
+    },
+    {
+      "title": "Our team is growing with a number of roles available and more yet to come... We are looking for a heavy weight Programmatic Sales person to help…",
+      "link": "https://www.linkedin.com/posts/remidupreez_our-team-is-growing-with-a-number-of-roles-activity-7024235057187799040-TvDm",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team! 3rd place is still on the podium.... A lot of hard work went into this acknowledgement, not only from the sales team, but all the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_well-done-team-3rd-place-is-still-on-the-activity-6973953953386381312-ElCv",
+      "activity_status": null
+    },
+    {
+      "title": "If you'd like to be part of the most innovative and culture centric OOH company in South Africa, give us a shout!",
+      "link": "https://www.linkedin.com/posts/remidupreez_if-youd-like-to-be-part-of-the-most-innovative-activity-6910134003320668160-ydhC",
+      "activity_status": null
+    },
+    {
+      "title": "I'm incredibly proud to be working with this team! The work we produce is nothing short of world class... Congratulations and well done to everyone…",
+      "link": "https://www.linkedin.com/posts/remidupreez_im-incredibly-proud-to-be-working-with-this-activity-6930439243815104512-BBdQ",
+      "activity_status": null
+    },
+    {
+      "title": "We’re absolutely thrilled to work with the IAB SA to grow awareness around DOOH as an exciting new medium for advertisers. We have only just…",
+      "link": "https://www.linkedin.com/posts/remidupreez_blurring-offline-and-online-tractor-outdoor-activity-6772068626099933184-xr4Y",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-18T00:00:00Z"
+  }
+}

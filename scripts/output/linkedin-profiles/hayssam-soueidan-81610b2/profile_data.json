@@ -1,0 +1,642 @@
+{
+  "public_identifier": "hayssam-soueidan-81610b2",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/3b3fd5f79e1add5617349d4ad70127a5",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQHd0mM7oo-xVg/profile-displaybackgroundimage-shrink_200_800/B4EZY7Cxo8HcAY-/0/1744747306113?e=2147483647&v=beta&t=AQ1XjaPURd0O0z7NzbzvY0u6yvzSLIuVEaKifYLxZ2k",
+  "first_name": "Hayssam",
+  "last_name": "Soueidan",
+  "full_name": "Hayssam Soueidan",
+  "follower_count": 1620,
+  "occupation": "Cto at Displayce",
+  "headline": "CTPO/Data/R&D @Displayce (We're Hiring!)",
+  "summary": null,
+  "location_str": "Bordeaux, Nouvelle-Aquitaine, France",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Bordeaux",
+  "state": "Nouvelle-Aquitaine",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Displayce",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/displayce",
+      "company_facebook_profile_url": null,
+      "title": "Cto",
+      "description": null,
+      "location": "Bordeaux, Aquitaine, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/88b44ad66180e3cecfb37fca1fd33158"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2017
+      },
+      "company": "Scalian",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/scaliangroup",
+      "company_facebook_profile_url": null,
+      "title": "Big data Project Manager",
+      "description": "Building the future of professional big and smart data analysis",
+      "location": "Bordeaux Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0728cd579593a72f14129867f4baf1bc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "JobiJoba",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jobijoba",
+      "company_facebook_profile_url": null,
+      "title": "Data scientist",
+      "description": "En charge du développement des applications liées à l'exploitation de la data. \n* Architecte et développeur principal du moteur d'analyse automatisée des CVs \n=> produit accessible au public: https://www.jobijoba.com/fr/dossiers/revue-web/offres-emploi-personnalisées-via-votre-cv)\n=> Mise en place d'une architecture de classification en temps réel pour de l'extraction d'entités nommée, de la détection de visage (openCV) et de ranking d'offre d'emplois en fonction du profil des candidats\n* Architecte et développeur principal d'un moteur de recherche de candidats (accès privé B2B)\n=> Mise en place d'une architecture batch pour fetch & indexation de CVs multi-format \n=> Mise en place d'une stack d'extraction d'information des CVs basée sur des combinaisons de modèles machine learning adaptés à l'analyse de données textuelle \n* Extraction automatisée d'informations (Natural language processing + machine learning) pour enrichissement et analyse automatisées d'offres d'emplois",
+      "location": "Bordeaux Area, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9d3e5ccd9bc1de62a195d6ad82aa9e73"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "company": "CBIB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Researcher",
+      "description": "Big data analytics for computational biology, primarily focused on cancer computational biology and metagenomics. \nMachine learning consultancy for start-ups with a focus on natural language processing and information extraction.",
+      "location": "Bordeaux Area, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "NKI-AVL",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Postdoctoral researcher",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2010
+      },
+      "company": "ENSEIRB-MATMECA - Bordeaux INP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecole-nationale-sup%C3%A9rieure-d'electronique-informatique-et-de-radiocommunications-de-bordeaux",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Professor",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d5f025dde67a2bd19f10f3bdbcf078cf"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Biomathematics, Bioinformatics, and Computational Biology",
+      "degree_name": "Doctor of Philosophy (Ph.D.)",
+      "school": "Université de Bordeaux",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universite-de-bordeaux/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1554,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mondohamoeva",
+      "name": "MOEVA MONDOHA SAID",
+      "summary": null,
+      "location": "Montpellier"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-labrador",
+      "name": "Emma Labrador",
+      "summary": "CMO @ Displayce | AdTech | DOOH | Full Stack Marketer for SaaS/Tech companies",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clementpellegrini",
+      "name": "Clément Pellegrini",
+      "summary": "CTO & Co-Founder at Qarnot computing",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remiboudard",
+      "name": "Remi Boudard",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoinerouaultdecoligny",
+      "name": "Antoine Rouault de Coligny 🦊",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fayol",
+      "name": "Damien Fayol",
+      "summary": "Senior Frontend Developer",
+      "location": "Brive-la-Gaillarde"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seanrking",
+      "name": "Sean King",
+      "summary": "Integration Engineer at Just Appraised",
+      "location": "St Petersburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cyril-duchon-doris",
+      "name": "Cyril Duchon-Doris",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maud-fichelle",
+      "name": "Maud Fichelle",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-vander-put",
+      "name": "▷ Florian Vander Put",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/etienneguglieri",
+      "name": "Etienne Guglieri",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bastienguillaume",
+      "name": "Bastien GUILLAUME",
+      "summary": "CTO",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ngocmailuu",
+      "name": "Mai LUU",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cedricdinont",
+      "name": "Cédric Dinont",
+      "summary": null,
+      "location": "Lille"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthieunesme",
+      "name": "Matthieu Nesme",
+      "summary": "CTO at Circle Dental",
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/flecher",
+      "name": "Ludovic FLECHER",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victornicollet",
+      "name": "Victor Nicollet",
+      "summary": "CTO at Lokad",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geo1004",
+      "name": "Geoffrey Antoine",
+      "summary": "CTO / Ruby on Rails developer",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilhembellion",
+      "name": "Guilhem Bellion",
+      "summary": "Co-founder at Spendesk",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rguiho",
+      "name": "Ronan Guiho",
+      "summary": "CTO @ Swapcard | Engineering Team, Backend, Infrastructure, Security, Machine Learning",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mezis",
+      "name": "Julien Letessier",
+      "summary": null,
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierrerenaudin",
+      "name": "Pierre Renaudin",
+      "summary": "CTO @ Slite",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/m%25C3%25A9lanie-marie-b6654a5a",
+      "name": "Mélanie MARIE",
+      "summary": "Display sales executive - Head of advertising digital, print - Business unit manager digital",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guiheneuf",
+      "name": "Bertrand Guiheneuf",
+      "summary": "CTO at Fairjungle",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pdooh",
+      "name": "Ambar Le Sidaner",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-heulle",
+      "name": "Nicolas HEULLE",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cl%25C3%25A9ment-p-85033114a",
+      "name": "Clément P.",
+      "summary": "Platform & Back-end Engineer at Displayce",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remi-guillet",
+      "name": "Remi Guillet",
+      "summary": "CTPO @microDon",
+      "location": "Nantes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/val%25C3%25A9rie-bisme-273b12196",
+      "name": "Valérie Bisme",
+      "summary": "assistante logistique & ADV chez Bordeaux Vins Selection",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-guillen-a9890a235",
+      "name": "juan Guillen",
+      "summary": "EKG Tech",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mobuchon",
+      "name": "Pascal Mobuchon",
+      "summary": "...",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-denning-b204b512",
+      "name": "Linda Denning",
+      "summary": "Professional R.N. with management experience and strong technical skills.  Experienced with Q.A., Q.I. and healthcare data analytics.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julien-papin-b3707a19",
+      "name": "Julien Papin",
+      "summary": "Responsable Scientifique",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jean-baptiste-gariel-8b4a5519",
+      "name": "Jean-Baptiste Gariel",
+      "summary": "CTO & Co-founder at Allphins",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25A9r%25C3%25A9mie-bureau-25a9b629",
+      "name": "Jérémie Bureau",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana%25C3%25AFs-viaud-b763b92b",
+      "name": "Anaïs Viaud",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-fajfr-21b16330",
+      "name": "Jan Fajfr",
+      "summary": "Head of Software Engineering at Spinergie",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamed-keshk-86501234",
+      "name": "Mohamed Keshk",
+      "summary": null,
+      "location": "Chestnut Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julien-j-cavanagh-md-95a08138",
+      "name": "Julien J. Cavanagh, MD",
+      "summary": "Assistant professor of neurology, specialized in autoimmune and infectious neurological diseases.",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordan-miller-05a62638",
+      "name": "Jordan Miller",
+      "summary": null,
+      "location": "Lexington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romain-pomier-2a151839",
+      "name": "Romain Pomier",
+      "summary": "Principal Engineer @Tenderbolt",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-laure-kauffmann-4561284a",
+      "name": "Anne-Laure Kauffmann",
+      "summary": "Bordeaux/Paris - Mirakl recrute !",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-chau-7a615b50",
+      "name": "Eric Chau",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/priscilla-gross-89362758",
+      "name": "Priscilla Gross",
+      "summary": "D.Sc",
+      "location": "Amiens"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-fisher-68b8ba5b",
+      "name": "Ryan Fisher",
+      "summary": "Ph.D. Criminologist",
+      "location": "Philadelphia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivier-ziad%25C3%25A9-184a4067",
+      "name": "Olivier Ziadé",
+      "summary": "Chief Technology Officer",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexis-focheux-73759768",
+      "name": "Alexis Focheux",
+      "summary": "CTO @ Audion",
+      "location": "Lyon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-dubrac-74aab070",
+      "name": "Alexandre Dubrac",
+      "summary": "Associate professor - Pathology and Cellular Biology dept\nSte-Justine Hospital Research Center-University of Montreal",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sylvain-trepout-ba903476",
+      "name": "Sylvain Trepout",
+      "summary": "Research Fellow",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cassandre-gaudnik-67039379",
+      "name": "Cassandre Gaudnik",
+      "summary": "Cheffe de projet modélisation sol plante",
+      "location": "Reims"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abby-white-46892a7b",
+      "name": "Abby White",
+      "summary": "Thoracic Surgeon, Penn Medicine Lancaster General Health",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-villet-05501481",
+      "name": "Claire VILLET",
+      "summary": "Head of Operations chez Displayce",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damien-moncelet-28b5b590",
+      "name": "damien moncelet",
+      "summary": null,
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/slim-chebbi-44253a97",
+      "name": "Slim Chebbi",
+      "summary": "Software Engineering & Hospitality IT expert",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-jalvy-18b540a4",
+      "name": "Sandra Jalvy",
+      "summary": "Pédiatre néonatalogue",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dorian-fournier-5a3812100",
+      "name": "Dorian Fournier",
+      "summary": "IT Business transformation Manager",
+      "location": "Geneva"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corentin-egele-488ba9107",
+      "name": "Corentin É.",
+      "summary": "Customer engagement & support platform - Vertical Leader @Lydia",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/c%25C3%25A9cilebernier",
+      "name": "Cécile Bernier",
+      "summary": "Area Sales Director I Liège-Namur-Luxembourg I Accent",
+      "location": "Liège"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luz-soriano-9631b3129",
+      "name": "Luz Soriano",
+      "summary": "Senior Practice Coordinator at Brigham and Women&#39;s Hospital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillaume-poly-777654137",
+      "name": "Guillaume POLY",
+      "summary": "Lead Software Architect @ Displayce",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sylvie-guedes-976360158",
+      "name": "Sylvie GUEDES",
+      "summary": "Head of Human Resources at Displayce",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yassin-assim-689239173",
+      "name": "Yassin Assim",
+      "summary": "Développeur front-end",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-gilfeather-19a69918a",
+      "name": "Michael Gilfeather",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simona-innocenti-99bb83194",
+      "name": "Simona Innocenti",
+      "summary": "Clinical Trials Specialist",
+      "location": "Brookline"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugo-boulanger-94361a1b3",
+      "name": "Hugo Boulanger",
+      "summary": "Partner Success Manager @ Displayce",
+      "location": "Bordeaux"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I'm heading to Mexico City for the World Out of Home Organization Global Congress next week! Excited to see Displayce take the stage at one of the…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_im-heading-to-mexico-city-for-the-world-activity-7333762278275604480--teF",
+      "activity_status": null
+    },
+    {
+      "title": "Great to see so many GIS enthusiasts at the Spatial Data Science Conference NYC ’24! The talks were packed with valuable insights, but a special…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_sdsc24-activity-7252776839557824512-MWnL",
+      "activity_status": null
+    },
+    {
+      "title": "We won!!! What a way to close out the year! Thrilled to see our hard work in 2024 recognized with the Adtech of the Year award! In 2024, three main…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_we-won-what-a-way-to-close-out-the-activity-7270775790374457344-dESg",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to share Displayce's expansion into Brazil! Welcome, Kauê Magrini as our Head of Sales. Exciting times ahead in the Brazilian DOOH market!",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_we-expand-to-brazil-meet-kaue-magrini-activity-7228681688044707840-bcyw",
+      "activity_status": null
+    },
+    {
+      "title": "L’avenir des DSP passe-t-il par la simplification et par les LLMs ? Cet article illustre comment l’IA générative pourrait transformer un secteur…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_lavenir-des-dsp-passe-t-il-par-la-simplification-activity-7265628127500890112-velP",
+      "activity_status": null
+    },
+    {
+      "title": "What happens when the brightest minds in travel marketing gather in Dubai? Innovation, transformation, and groundbreaking partnerships! This week, I…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_what-happens-when-the-brightest-minds-in-activity-7268716291706781696-Fas6",
+      "activity_status": null
+    },
+    {
+      "title": "Félicitations à toute la team, je suis ravi d’avoir mené ce projet à bien avec eux ! C’est passionnant d’explorer le potentiel créatif des IA…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_dooh-displayce-intègre-une-ai-générative-activity-7239881659171446784-JLkk",
+      "activity_status": null
+    },
+    {
+      "title": "ð #dmexco23 - This is a call for all Coffee and DOOH Enthusiasts! â Traditional targeted ads? Cookies? Thatâs history. ð But DOOH? Itâs…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_dmexco23-dmexco23-doohadvertising-activity-7105074656067379200-Yx_X",
+      "activity_status": null
+    },
+    {
+      "title": "🌎🚀So excited to announce a strategic alliance between Displayce and JCDecaux, including the acquisition of a majority stake of our capital by…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_displayce-announces-a-strategic-alliance-activity-6950117916230991872-jAcj",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_startup-activity-6877642948125765633-mOsq",
+      "activity_status": null
+    },
+    {
+      "title": "Cher réseau, mon ancien labo de bioinformatique cherche un ingénieur R&D pour participer à la refonte d'une base de donnée omics pour la faire migrer…",
+      "link": "https://www.linkedin.com/posts/hayssam-soueidan-81610b2_ingénieur-informaticien-bioinformaticien-activity-6342463248499113984-I78k",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-26T00:00:00Z"
+  }
+}

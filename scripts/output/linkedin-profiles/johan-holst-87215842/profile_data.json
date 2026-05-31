@@ -1,0 +1,868 @@
+{
+  "public_identifier": "johan-holst-87215842",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/e3a470c99a1aef97b90f4d2c0d5914a8",
+  "background_cover_image_url": null,
+  "first_name": "Johan",
+  "last_name": "Holst",
+  "full_name": "Johan Holst",
+  "follower_count": 1933,
+  "occupation": "Solution Manager at Doohclick AB",
+  "headline": null,
+  "summary": "Solution Manager, Doohclick AB samt egen företagare!<br>Är ute och Föreläser utöver SM samt jobbar som DeeJay!<br>Jobbat med lite olika saker innan så som AD, Bilförsäljning, Reklamförsäljning, Butikschef, Krögare, Nattklubbschef!<br>Är en person som gillar utmaningar och äventyr!",
+  "location_str": "Sweden",
+  "country": "SE",
+  "country_full_name": "Sweden",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Doohclick AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Solution Manager",
+      "description": null,
+      "location": "Borås / Stockholm",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": null,
+      "company": "Holst Experience",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "DeeJay/Owner",
+      "description": "VD",
+      "location": "Boras, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "Doohclick AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Stockholm / Borås",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "AdCityMedia AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Borås / Stockholm",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "Ocean Outdoor Local",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor-local",
+      "company_facebook_profile_url": null,
+      "title": "Art director",
+      "description": null,
+      "location": "Borås",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/96c31102d848fa3ccdd601afffb5c768"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      },
+      "company": "Bilpunkten i Borås AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Bilförsäljare",
+      "description": null,
+      "location": "Boras, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2010
+      },
+      "company": "GM Moving Message AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Mediasäljare",
+      "description": null,
+      "location": "Boras, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "Restaurang Telegrafen",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Nattklubbsansvarig",
+      "description": null,
+      "location": "Nynäshamn",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2006
+      },
+      "company": "Mecmove AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Offerthanterare",
+      "description": null,
+      "location": "Nynäshamn",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Nynäshamns Gymnasium",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Svenska",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Engelska",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1942,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lawrence-hyde",
+      "name": "Lawrence H.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/warolin",
+      "name": "David Warolin",
+      "summary": "RAN developer - Ericsson Private 5G",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennyschyttberg",
+      "name": "Jenny Schyttberg",
+      "summary": "Owner på Schyttberg PR",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorgenbengtson",
+      "name": "Jörgen Bengtson",
+      "summary": ".",
+      "location": "Hudiksvall"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalya-ibrayeva",
+      "name": "Natalya Ibrayeva",
+      "summary": "Private Sector Development Advisor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattivenho",
+      "name": "Matti Venho",
+      "summary": "Head of Privacy @ Alma Media Corporation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/iambjorn",
+      "name": "Björn Jägevall",
+      "summary": null,
+      "location": "Gothenburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bizzniz",
+      "name": "Ralph Andersson",
+      "summary": "Internetnyfiken.",
+      "location": "Örkelljunga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jagharrison",
+      "name": "James Harrison",
+      "summary": "COO, Editor in Chief and Data Junkie - IAB MENA",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerker-h%25C3%25A4ggstr%25C3%25B6m-osatie-78559a32",
+      "name": "Jerker Häggström Osatie",
+      "summary": "-",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/journalistkblomqvist",
+      "name": "Journalist Karl Blomqvist",
+      "summary": "Investigative journalist in science and society",
+      "location": "Gothenburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rgkkonsult",
+      "name": "Gunnar Kristiansen",
+      "summary": "Uppfinnare och egenföretagare",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/victor-helander-91a533175",
+      "name": "Victor Helander",
+      "summary": "Distriktsäljare på Internordic",
+      "location": "Nässjö"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jakub-wojciech-gebala-316622235",
+      "name": "Jakub Wojciech Gebala",
+      "summary": "EXECUTIVE CHEF / CHEF RECRUITMENT MENAGER i Kokke & Serveringstjenester AS",
+      "location": "Bergen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hampus-nilsson-20a8a9250",
+      "name": "Hampus Nilsson",
+      "summary": "Säljare produktområde Lager på Internordic",
+      "location": "Eksjö"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tobias-johansson",
+      "name": "Tobias Johansson",
+      "summary": "Software Developer at Bitcrunch AB",
+      "location": "Borås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-wall",
+      "name": "Simon Wall",
+      "summary": "Building Africa’s most intelligent media network | Tractor Outdoor | Innovocean | Polygon | BMT | ignis | Mischief Media | AI × DOOH | Founder",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angela-lockett-90b11b33",
+      "name": "Angela Lockett",
+      "summary": "Account Manager at Adreach",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erinson-jose-p%25C3%25A9rez-mart%25C3%25ADnez-ba8741171",
+      "name": "Erinson jose Pérez Martínez",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fredrik-g%25C3%25B6tesson-686a18b5",
+      "name": "fredrik götesson",
+      "summary": "Säljare på Cloetta",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-g%25c3%25b6ransson-a5a9a64",
+      "name": "Caroline Göransson",
+      "summary": "Owner, found",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claes-rosen",
+      "name": "Claes Rosén",
+      "summary": "Digital Audio Specialist at Spotify  | Producer | Music Enthusiast",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ir%25C3%25A9ne-westerberg-9334412a",
+      "name": "Iréne Westerberg",
+      "summary": "Manager at Westerbergs Projekt AB",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ketil-aasen-8390522",
+      "name": "Ketil Aasen",
+      "summary": "Teknisk fagansvarlig - Eika Gruppen",
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ingerlundin",
+      "name": "Inger Lundin",
+      "summary": "När din text behöver lyfta✏️ Skribent – Redaktör – Skrivcoach ✏️",
+      "location": "Örebro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mats-riedeborn-6090036",
+      "name": "Mats Riedeborn",
+      "summary": "Owner, 11261 Communications",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raymondvandersluijs",
+      "name": "Raymond van der Sluijs",
+      "summary": "Resultaatgerichte ervaren overheidsmanager met oog voor de menselijke maat | leergierig | open en enthousiast | positief",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ulf-bergman-a1143ba",
+      "name": "Ulf Bergman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joyce-akesson-814447b",
+      "name": "Joyce Akesson",
+      "summary": "Owner, Express Översättning EFA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emelie-jonsson-a2aa01b",
+      "name": "Emelie Jonsson",
+      "summary": "Regional försäljningschef på Ragn-Sells Treatment & Detox",
+      "location": "Umeå"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annika-unt-50a36318",
+      "name": "Annika Unt",
+      "summary": "Matglad dietist som bygger Foodix, det första filmbiblioteket för bättre måltider-för-många. Har estnisk humor och tar ofta med en ätbar bukett!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joakim-carlsson-12b5bb1b",
+      "name": "Joakim Carlsson",
+      "summary": "Senior Dynamics 365 Business Central Developer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joeformgren",
+      "name": "Joe Formgren",
+      "summary": "Kommunikationskonsult och strateg. Mätbar marknadsföring, inkl. marknadsplan, målstyrning, varumärke, design, PR, digital marknadsföring inkl. hemsida, sociala medier. Advisery board.",
+      "location": "Gävle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rijnbar-amsterdam-38883324",
+      "name": "Rijnbar Amsterdam",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonas-glad-doohclick",
+      "name": "Jonas Glad",
+      "summary": "CEO at Doohclick AB: a definitive ad management platform for \nthe out of home space.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-hellmark-68570426",
+      "name": "Richard Hellmark",
+      "summary": "Owner på Hellmarks",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fredrik-andersson-71585830",
+      "name": "Fredrik Andersson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rolf-gammals-47b59b31",
+      "name": "Rolf Gammals",
+      "summary": "Head of Degree Programme",
+      "location": "Turku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerker-h%25C3%25A4ggstr%25C3%25B6m-78559a32",
+      "name": "Jerker Häggström",
+      "summary": "-",
+      "location": "Sundsvall"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonas-liberg-6a597232",
+      "name": "Jonas Liberg",
+      "summary": "Owner and Producer på Nova The Cat",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennie-eiserman-b4224533",
+      "name": "Jennie Eiserman",
+      "summary": "Inhouse Marketing Manager",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emelie-sandstr%25C3%25B6m-836b8833",
+      "name": "Emelie Sandström",
+      "summary": "Client Director på WPP Media Sweden",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fredrik-hasselgren-80587636",
+      "name": "Fredrik Hasselgren",
+      "summary": "Owner of Hasselgren, Selberg and Partners AB",
+      "location": "Uppsala"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikael-a-bergkvist",
+      "name": "Mikael Bergkvist",
+      "summary": "Solution Owner at IKEA Group",
+      "location": "Malmo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-annertorn-94a15642",
+      "name": "Daniel Annertorn",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/madelene-kr%25c3%25b6nstr%25c3%25b6m-12285343",
+      "name": "Madelene Krönström",
+      "summary": "Consultant at Nexer Group (previous Sigma IT)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesper-liberg-632a7443",
+      "name": "Jesper Liberg",
+      "summary": "Sälj/Ekonomi/Support på Mebyou - e-srv AB",
+      "location": "Borås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erik-marklund-34bb3a4a",
+      "name": "Erik Marklund",
+      "summary": "Tekniker, Ergonom och Massör",
+      "location": "Södertälje"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kent-malm-19123150",
+      "name": "Kent Malm",
+      "summary": "Chaufför på Sandarna Transporter AB",
+      "location": "Västerås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruben-perez-78043758",
+      "name": "Ruben Perez",
+      "summary": "Logistic en Tony Rodamientos S.A.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristina-gigena-13ba9158",
+      "name": "Cristina gigena",
+      "summary": "Cristina Gigena interiores",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-josefsson-71907365",
+      "name": "Martin Josefsson",
+      "summary": "Senior Full Stack uvecklare",
+      "location": "Borås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesper-axelsson-a5709470",
+      "name": "Jesper Axelsson",
+      "summary": "Programmerare på Kaiju Konsulting IT AB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-fors-32062985",
+      "name": "Stefan Fors",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/umair-ahsan-a8937199",
+      "name": "Umair Ahsan",
+      "summary": "Service Co ordinator at Al-Futtaim Automotive",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikael-bergman-2364a8a5",
+      "name": "Mikael Bergman",
+      "summary": "Borås",
+      "location": "Borås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carina-palmquist-granath-06a51bb0",
+      "name": "Carina Palmquist Granath",
+      "summary": "Customer support på Internordic AB",
+      "location": "Nässjö"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmie-johansson-460925b5",
+      "name": "Emmie Johansson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jens-engman-fd-eriksson-a347b4bb",
+      "name": "Jens Engman Fd Eriksson",
+      "summary": "Platschef NCC building Norra Norrland",
+      "location": "Skellefteå"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-qvist-656a0b101",
+      "name": "Sebastian Qvist",
+      "summary": "System Planner at Novia University of Applied Sciences",
+      "location": "Raseborg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petter-bergman-007915113",
+      "name": "Petter Bergman",
+      "summary": "Säljare Järvsö Industriplast AB",
+      "location": "Ljusdal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ylva-knutson-07826312a",
+      "name": "Ylva Knutson",
+      "summary": "Projektör  på Vinnergi",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/meena-pvr-meena-b21133139",
+      "name": "Meena(pvr) meena",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-stenmark-48a63715b",
+      "name": "Kevin Stenmark",
+      "summary": null,
+      "location": "Sundbyberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helena-blocket-bergvall-032300160",
+      "name": "Helena Blocket Bergvall",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ann-ewa-hardstedt-37ab34171",
+      "name": "Ann-Ewa Hardstedt",
+      "summary": "Strategisk inköpare Hydria Water",
+      "location": "Borås"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesper-evertsson-87508a191",
+      "name": "Jesper Evertsson",
+      "summary": "Elingenjör / Elkonstruktör",
+      "location": "Malmo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arto-pesonen-50681a192",
+      "name": "Arto Pesonen",
+      "summary": ".",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tarik-jaskic-3a6aaa194",
+      "name": "Tarik Jaskic",
+      "summary": "Innovationsteknik",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikael-johansson-0079a1195",
+      "name": "Mikael Johansson",
+      "summary": "--",
+      "location": "Svenljunga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/habib-husseini-6900291b1",
+      "name": "Habib Husseini",
+      "summary": null,
+      "location": "Borås"
+    }
+  ],
+  "recommendations": [
+    "Daniel Annertorn\n\nNoggrann och kreativ och mycket rolig att arbeta tillsammans med!"
+  ],
+  "activities": [
+    {
+      "title": "World Out of Home Organization 2026 is next month. And it’s going to be a big one. The 2025 event in Mexico City was a record-breaker in terms of…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_world-out-of-home-organization-2026-is-next-activity-7458385677890592768-pQMs",
+      "activity_status": null
+    },
+    {
+      "title": "Vi utökar vårat team i Borås, bara in och söka! https://lnkd.in/dTfjp_Ub",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_vi-utökar-vårat-team-i-borås-bara-in-och-activity-7434177656801288192-S3VM",
+      "activity_status": null
+    },
+    {
+      "title": "This time tomorrow: ISE 2026 😎 One of the biggest events of the year, the Integrated Systems Europe (ISE) brings together everyone from out-of-home…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_this-time-tomorrow-ise-2026-one-of-the-activity-7424031514306285569-QVxO",
+      "activity_status": null
+    },
+    {
+      "title": "En viktig tanke... https://lnkd.in/d9kWkGjQ",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_tänker-man-på-närstående-johan-holst-activity-7393536923090436096-x2Tu",
+      "activity_status": null
+    },
+    {
+      "title": "Although OOH is nothing new… The digital OOH industry is really just getting started. One of the things I love about working at DoohClick AB and in…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_although-ooh-is-nothing-new-the-digital-activity-7334143182143668224-5PNn",
+      "activity_status": null
+    },
+    {
+      "title": "Ideas need collaboration. Not ego. We’re a small team at DoohClick AB. Flat structure. Fast decisions. Constant dialogue. I’m not a developer. But…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_ideas-need-collaboration-not-ego-were-activity-7336400933817319424-f_7t",
+      "activity_status": null
+    },
+    {
+      "title": "You won’t grow if you don’t network. This week, I’m gearing up for the WOO Conference in Mexico City 🇲🇽 But not just me. Jonas Glad, Mark Bracey,…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_you-wont-grow-if-you-dont-network-this-activity-7335201091908788224-bBJ4",
+      "activity_status": null
+    },
+    {
+      "title": "Blev lite ”annorlunda” haha - https://lnkd.in/dW9KnCdr",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_mexiko-blev-lite-lätt-rörigt-haha-johan-activity-7335758391069368321-tFn8",
+      "activity_status": null
+    },
+    {
+      "title": "Hi LinkedIn, time for a reintroduction. I’ve been in the OOH industry for 15+ years. And in that time I’ve worn a few different hats. I started in…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_hi-linkedin-time-for-a-reintroduction-activity-7333036023645372417-SDHT",
+      "activity_status": null
+    },
+    {
+      "title": "Alltid speciellt denna dagen... https://lnkd.in/dEyxp6Ev",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_13-år-sedan-är-alltid-speciellt-denna-dagen-activity-7320333797814611969-3dSu",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_doohclick-expands-in-south-africa-with-innovocean-activity-7302580301220790272-L-Xu",
+      "activity_status": null
+    },
+    {
+      "title": "En tanke som slog mig... #tankar #sömlös #tristess https://lnkd.in/d7U4EKNA",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_lider-du-av-sömnlöshet-kanske-handlar-det-activity-7295329652305240064-IX-e",
+      "activity_status": null
+    },
+    {
+      "title": "Viktigt att vara ”närvarande”, ha en underbar dag! https://lnkd.in/df-9pwUM",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_att-vara-n%C3%A4rvarande-johan-holst-activity-7224285925286023169-DJye",
+      "activity_status": null
+    },
+    {
+      "title": "Dan förde dan... https://lnkd.in/dmDJH3zZ",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_dan-före-dan-snart-är-det-julafton-activity-7276941456324386819-lvbp",
+      "activity_status": null
+    },
+    {
+      "title": "Då var julen över, så nu kan vi fokusera på.... https://lnkd.in/djrcag_s",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_julen-är-över-johan-holst-activity-7278347586590171136-ozJJ",
+      "activity_status": null
+    },
+    {
+      "title": "Motgångar kommer och går… https://lnkd.in/d-wMt-4W",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_motgångar-ja-de-kommer-som-ett-brev-på-posten-activity-7168156931633745920-yd5_",
+      "activity_status": null
+    },
+    {
+      "title": "For anyone attending the World Out of Home Organization conference in Cape Town if you feel like some chill time on a beach please come and see us…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_for-anyone-attending-the-world-out-of-home-activity-7172911665800331264-pb4f",
+      "activity_status": null
+    },
+    {
+      "title": "Tankarna ja….. https://lnkd.in/d8rSuCFQ",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_dina-tankar-påverkar-se-det-så-här-johan-activity-7153697423834394624-hK38",
+      "activity_status": null
+    },
+    {
+      "title": "Vi ska bli fler! Se nu till att söka jobbet...",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_vi-ska-bli-fler-se-nu-till-att-s%C3%B6ka-jobbet-activity-7152564892422594560-CeoI",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB are proud to be working with Absen Inc. at ISE 2024. Please come and say hello to either me, Jonas Glad or Mark Bracey",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_doohclick-abare-proud-to-be-working-with-activity-7152565980907417600-3EUo",
+      "activity_status": null
+    },
+    {
+      "title": "Gott nytt! https://lnkd.in/dPcCpaf9",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_ny%C3%A5rsafton-ja-vad-ska-man-s%C3%A4ga-johan-activity-7147677808431976448-4QGy",
+      "activity_status": null
+    },
+    {
+      "title": "Ãr stolt Ã¶ver att fÃ¥ vara en del av detta, samt att leda detta gÃ¤ng! https://lnkd.in/gFq4hY7T",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_föreningsmiddag-utmärkelse-årets-parasportförening-activity-7131265903861665793--Nt3",
+      "activity_status": null
+    },
+    {
+      "title": "Vi har inte âall tid i vÃ¤rldenâ",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_ta-vara-p%C3%A5-tiden-johan-holst-activity-7081166206476414977-WQdx",
+      "activity_status": null
+    },
+    {
+      "title": "Sugen på en ny utmaning? - Vi ska bli fler i Borås! Vill du jobba i ett bolag som driftar större delen av den digitala utomhusmarknaden i Sverige och…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_sugen-p%C3%A5-en-ny-utmaning-vi-ska-bli-fler-activity-7034045394531536896-Qg2V",
+      "activity_status": null
+    },
+    {
+      "title": "En liten måndagstanke!",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_det-d%C3%A4r-med-att-passa-in-johan-holst-activity-7078976502402277376-aKQn",
+      "activity_status": null
+    },
+    {
+      "title": "Lite tankar så här på hösten…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_vad-betyder-allra-mest-johan-holst-activity-6994219917885480961-KosI",
+      "activity_status": null
+    },
+    {
+      "title": "7 år sedan amputation…",
+      "link": "https://www.linkedin.com/posts/johan-holst-87215842_7-år-sedan-amputation-activity-6526323335532417024-IjMK",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johan-holst-43b63759",
+      "summary": "Byggnadsingenjör på LILJEWALL arkitekter AB",
+      "location": "Kungsbacka"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johan-holst-315b9330",
+      "summary": "Sales Manager at Cenor Nordic",
+      "location": "Stockholm, Sverige"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johan-holst-a4ab5a1b3",
+      "summary": "Arbetsledare på Skanska",
+      "location": "Rimbo"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://no.linkedin.com/in/johan-holst-bb9b42180",
+      "summary": "Senior Scientist i CEPI (Coalition for Epidemic Preparedness Innovations)",
+      "location": "Oslo"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johan-holst-a913942",
+      "summary": null,
+      "location": "Varberg"
+    },
+    {
+      "name": "Johan Ludvig Holst",
+      "link": "https://no.linkedin.com/in/johanludvigholst",
+      "summary": "CFO & Co-founder at Kelpinor | NTNUs School of Entrepreneurship",
+      "location": "Trondheim"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johholst",
+      "summary": "I help teams build better products using no-nonsense workshops. 👉 Master Workshop Facilitator 💡Product Designer",
+      "location": "Stockholm"
+    },
+    {
+      "name": "Einar Johan Holst",
+      "link": "https://no.linkedin.com/in/einar-johan-holst-78a13960",
+      "summary": "Managing Director & Chairman at Auto-Boks-Service AS",
+      "location": "Oslo"
+    },
+    {
+      "name": "Johan Holst",
+      "link": "https://se.linkedin.com/in/johan-holst-b36427107",
+      "summary": "Project Manager på Golder",
+      "location": "Stockholm County, Sweden"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-31T00:00:00Z"
+  }
+}

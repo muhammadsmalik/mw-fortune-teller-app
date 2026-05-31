@@ -1,0 +1,361 @@
+{
+  "public_identifier": "andrea-brumat-547495241",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/cc0983ed110ac9f08afbfda6675cf343",
+  "background_cover_image_url": null,
+  "first_name": "Andrea",
+  "last_name": "Brumat",
+  "full_name": "Andrea Brumat",
+  "follower_count": 382,
+  "occupation": "Media Planner at MEDIA DEPARTMENT INC.",
+  "headline": "OOH Media Planner",
+  "summary": "E-commerce generalist with work experience in Japan and Italy. Skilled in launching e-commerce sites, managing international logistics, implementing social media marketing strategies, and creating database and tracking systems.",
+  "location_str": "日本 東京都",
+  "country": "JP",
+  "country_full_name": "Japan",
+  "city": "Tokyo",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "MEDIA DEPARTMENT INC.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Media Planner",
+      "description": null,
+      "location": "Tokyo, Giappone",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "company": "株式会社ボーダーライン",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3",
+      "company_facebook_profile_url": null,
+      "title": "Ecommerce Specialist",
+      "description": "• Launched the company’s Amazon page from the ground up, conducted market research to identify high potential products, achieving over 1 million yen in sales within 4 months • Oversaw international logistics, implementing an organisational system on Google Sheets to efficiently track inventory and manage purchase plans • Led the company’s migration to Google Workspace, developing and programming business applications using Google AppSheet to streamline operations • Managed and optimised clients’ Shopify pages, improving their functionality and user experience to boost sales and customer satisfaction",
+      "location": "Tokyo, Japan",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "株式会社白露酒造",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Intern",
+      "description": "• Conducted a comprehensive analysis of the Japanese shochu market, identifying key trends and opportunities. • Developed a targeted marketing strategy for a new product aimed at both Japanese and international youth demographics.",
+      "location": "Kagoshima, Japan",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "ProLoco Fogliano Redipuglia",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Front Office/Customer Advisor",
+      "description": "• Managed the organisation's social media profiles, enhancing online presence and engagement. • Coordinated and promoted local events through in person efforts and social media campaigns. • Regularly communicated with customers via email and phone, ensuring excellent customer service. • Provided advice on local tours and guides to both local and international clients, enhancing their travel experiences.",
+      "location": "Fogliano Redipuglia, Friuli-Venezia Giulia, Italy",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": "International Cooperation Policy - Development Economics",
+      "degree_name": "Master's degree",
+      "school": "Ritsumeikan Asia Pacific University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ritsumeikanapu",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/179d05a08ffb4f06a4ce998014501b5c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": "Bachelor's Degree in Language, Culture and Society of Asia and Mediterranean Africa (Japan)",
+      "degree_name": "Bachelor's degree",
+      "school": "Università Ca' Foscari Venezia",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/cafoscari",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4235530a9f3abbf04961eae7494b4eb4",
+      "grade": "110L",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2022
+      },
+      "title": "Organizer",
+      "cause": "子ども",
+      "company": "CISV Italia",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "title": "English Language Instructor",
+      "cause": "子ども",
+      "company": "Kumon Asia & Oceania Pte Ltd",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 379,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/bishal-dhakal",
+      "name": "Bishal Dhakal",
+      "summary": null,
+      "location": "Osaka"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aedan-southeren",
+      "name": "Aedan Southeren",
+      "summary": "Full-Time MBA Candidate at University of Sydney",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haotian-gu1128",
+      "name": "Haotian Gu, CFA",
+      "summary": null,
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tangkelvin",
+      "name": "Kelvin Tang",
+      "summary": "PhD in Sustainability Science | JSPS PD Fellow | Climate Change Educationalist",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/koyamahiromi",
+      "name": "Hiromi Koyama",
+      "summary": "Unemployed",
+      "location": "Taito-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jintian-xuan-387192254",
+      "name": "Jintian Xuan",
+      "summary": "SoftBank - Account Manager",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E5%25A9%2595%25E5%25A6%25A4-%25E6%25A5%258A-5604a01b6",
+      "name": "ヤン チエユ",
+      "summary": "立命館アジア太平洋大学",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%2599%25A8-%25E6%25A5%258A-455771208",
+      "name": "楊 晨",
+      "summary": "デロイトトーマツコンサルティング（合同） - 従業員",
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-wang-166139193",
+      "name": "Jack WANG",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farrasseviraferro",
+      "name": "Farras Sevira Ferro",
+      "summary": null,
+      "location": "Chiyoda-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiroaki-nakai-0604b4175",
+      "name": "Hiroaki Nakai",
+      "summary": "YONEX CO., LTD. (ヨネックス株式会社） - International Sales and Marketing",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luo-xiao-44501b179",
+      "name": "Xiao L",
+      "summary": "Rewards Analyst, Japan and APAC at Adobe",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuzhi-lu-a47a39186",
+      "name": "Yuzhi LU",
+      "summary": "立命館アジア太平洋大学’21\nコペンハーゲンビジネススクール 交換留学生",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yubo-liu-b85a37198",
+      "name": "Yubo Liu",
+      "summary": "Assistant to MD",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/long-ha-bui-961973204",
+      "name": "Long Ha Bui",
+      "summary": "Game Designer at Gameloft",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuning-li-017a17206",
+      "name": "Yuning Li",
+      "summary": "Director of Strategic Growth (China to U.S. Sales) @ AVASK ｜ U.S. E-commerce Tax Compliance ｜ Cross-Border Market Expansion ｜ Columbia Alum ｜ Trilingual: English・中文・日本語",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xueying-tang-6aa73a20a",
+      "name": "Cheryl Tang",
+      "summary": "MS in Data Analytics Engineering Major | Computational Biology RA | Data Visualization | Data Scientists | Biostatistics",
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharav-zolzaya-901363214",
+      "name": "Sharav Zolzaya",
+      "summary": "Cyber Security Tech-support",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tuuli-hietanen-521885215",
+      "name": "Tuuli Hietanen",
+      "summary": "Student and teaching assistant at Ritsumeikan Asia Pacific University",
+      "location": "Beppu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fellyciafr",
+      "name": "Felicia Fitria Rahmadhina",
+      "summary": "Educator",
+      "location": "North Cikarang"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "To be a sponge: that was my personal goal for this year’s WOO Global Congress. As someone still very new to the out of home industry, I felt the best…",
+      "link": "https://www.linkedin.com/posts/andrea-brumat-547495241_ooh-outofhome-woo-activity-7338778426675253248-tvMt",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andrea Brumat",
+      "link": "https://it.linkedin.com/in/andrea-brumat-a5100412",
+      "summary": "Technical Assistance at Homedefender",
+      "location": "Udine"
+    },
+    {
+      "name": "Andrea BRUMAT",
+      "link": "https://si.linkedin.com/in/andrea-brumat-20889512b",
+      "summary": "Director at Generali Argentina Compañia de Seguros S.A.",
+      "location": "Slovenia"
+    },
+    {
+      "name": "Andrea Brumat",
+      "link": "https://it.linkedin.com/in/andrea-brumat-492569",
+      "summary": null,
+      "location": "Italy"
+    },
+    {
+      "name": "Andrea Brumat",
+      "link": "https://it.linkedin.com/in/andrea-brumat-6aa4a258",
+      "summary": "Tech & Production",
+      "location": "Gorizia"
+    },
+    {
+      "name": "andrea brumat",
+      "link": "https://it.linkedin.com/in/andrea-brumat-bb72a925",
+      "summary": "production manager presso DTE",
+      "location": "Udine"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-24T00:00:00Z"
+  }
+}

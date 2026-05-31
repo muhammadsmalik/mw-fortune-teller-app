@@ -1,0 +1,810 @@
+{
+  "public_identifier": "timraabe",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/383765ac86c2e1041927933bde35b484",
+  "background_cover_image_url": null,
+  "first_name": "Tim",
+  "last_name": "Raabe",
+  "full_name": "Tim Raabe",
+  "follower_count": 7814,
+  "occupation": "Head of International Sales (Germany/UK/The Netherlands/Belgium/ Spain/ Italy/ France) at blowUP media",
+  "headline": "Head of International Sales at blowUP media",
+  "summary": null,
+  "location_str": "Cologne, North Rhine-Westphalia, Germany",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": "Cologne",
+  "state": "Nordrhein-Westfalen",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "blowUP media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blowup-media",
+      "company_facebook_profile_url": null,
+      "title": "Head of International Sales (Germany/UK/The Netherlands/Belgium/ Spain/ Italy/ France)",
+      "description": "blowUP media is thé (Digital) Out of Home Mediaboutique of Germany, the Netherlands, Belgium, United Kingdom, and Spain and has been a key player for more than 30 years in the premium large (D)OOH media market in Europe. BlowUP media is a sistercompany of the listed company Stroër SE & Co. KGaA",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7af08b69eeff50ea324539f649d17495"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "blowUP media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blowup-media",
+      "company_facebook_profile_url": null,
+      "title": "Account Director (International)",
+      "description": null,
+      "location": "Düsseldorf und Umgebung, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7af08b69eeff50ea324539f649d17495"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "blowUP media/ Ströer Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account-Manager",
+      "description": "Key Account Management National Direct Clients and Media Agencies\nOut Of Home/ Giant Poster/ Client Management/ Media & Project Management",
+      "location": "Düsseldorf und Umgebung, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2017
+      },
+      "company": "Ströer SE & Co. KGaA",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/stroeer",
+      "company_facebook_profile_url": null,
+      "title": "Account-Manager Sales",
+      "description": "International Business, Client Management, Out of Home Media, Digital Out of Home, Media Planning,\nBiggest Provider of Out of Home in Germany ,\nMedia; Fashion, FMCG, Direct Clients; Agency Support, Provider,",
+      "location": "Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c7af68d4bcf61bd5190c445b0e71e2fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2015
+      },
+      "company": "COSENTINO, S.A.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": "Client Management: Kitchen and stone Industires/Archiktects/house Builder/ Interiour Designer\n\nKey Account Management/ Porduct Training/ Product & Sales Presentation",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2014
+      },
+      "company": "Colomer Germany GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2013
+      },
+      "company": "RessourcenReich GmbH l Brand Affairs",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/brand-affairs-l-ressourcenreich",
+      "company_facebook_profile_url": null,
+      "title": "Regional Sales Manager",
+      "description": null,
+      "location": "Düsseldorf und Umgebung, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2008
+      },
+      "company": "BAT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/british-american-tobacco",
+      "company_facebook_profile_url": null,
+      "title": "Area Sales Manager",
+      "description": null,
+      "location": "Ruhrgebiet",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/78dfd611b694c55aedf07f073f18d230"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2007
+      },
+      "company": "British American Tobacco",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/british-american-tobacco",
+      "company_facebook_profile_url": null,
+      "title": "Area Manager",
+      "description": null,
+      "location": "Ruhrgebiet",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/78dfd611b694c55aedf07f073f18d230"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Social Work",
+      "degree_name": "Bachelor of Applied Science (B.A.Sc.)",
+      "school": "Universität Duisburg-Essen, Standort Essen",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Bachelor Soziale Arbeit",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: ISSAB UNi Essen, Institut für Soziale Stadtteilarbeit"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Economics",
+      "degree_name": "Diplom",
+      "school": "Fachhochschule Bochum",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Marketing, HR, Foreign Trade",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": "Außenhandel",
+      "degree_name": "Kaufmann im Aussenhandel",
+      "school": "Klöckner Industrieanlagenbau gmbh",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Kaufmann im Aussenhandel, Vertrieb von schlüsselfertigen Industrieanlagen",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": null
+    },
+    {
+      "name": "French",
+      "proficiency": null
+    },
+    {
+      "name": "German",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "title": "Offene Ganztagsgrundschule",
+      "cause": "Kinder",
+      "company": "ISSAB",
+      "company_linkedin_profile_url": null,
+      "description": "Soziale Stadtteilentwicklung, Offene Ganztagsschule,",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Diplom Betriebswirt",
+      "license_number": null,
+      "display_source": null,
+      "authority": "-",
+      "url": null
+    }
+  ],
+  "connections": 7799,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/elieelkhoury",
+      "name": "Elie El Khoury",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnsturdevant",
+      "name": "John Sturdevant",
+      "summary": "Realtor | Broker | Co-owner",
+      "location": "Dana Point"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarahtheuwis",
+      "name": "Sarah Theuwis",
+      "summary": "Operations Director at BlowUp Media Belgium BVBA",
+      "location": "Antwerp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wvanbeek",
+      "name": "Wouter van Beek",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanieraap",
+      "name": "Stephanie Raap",
+      "summary": "Owner/ operator at Spektrim Selfcare Studio",
+      "location": "Pittsburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carl-dahl",
+      "name": "Carl Dahl",
+      "summary": "Programmatic Solutions Manager på Azerion Nordics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jesshahs",
+      "name": "Jessica Hahs",
+      "summary": "Account Director 🧭 Komplexe Kundenprojekte führen |  Teams entwickeln und stärken",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanne-gra%25C3%259F-7073a294",
+      "name": "Susanne Graß",
+      "summary": null,
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annikajung2704",
+      "name": "Annika Jung",
+      "summary": "Account Director bei SevenOne Media GmbH - ProSiebenSat.1 Media SE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennis-eschenbach-9189b5279",
+      "name": "Dennis Eschenbach",
+      "summary": "…",
+      "location": "Brühl"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephine-j%25C3%25A4ger-2834a41b4",
+      "name": "Josephine Jäger",
+      "summary": "Director Business Unit bei deepblue networks AG",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miquel-martin-nogueroles",
+      "name": "Miquel Martin Nogueroles",
+      "summary": "Guía turístico",
+      "location": "Valencia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irfan-beyg%25C3%25B6zl%25C3%25BC-026617267",
+      "name": "Irfan Beygözlü",
+      "summary": "Founder & Owner Café Bruncherei",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haslin-joy-navarro-1a0051254",
+      "name": "Haslin Joy Navarro",
+      "summary": null,
+      "location": "Auburn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pramit-bhattacharya-b72635230",
+      "name": "Pramit Bhattacharya",
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-olarte-7a2130248",
+      "name": "Guillermo Olarte",
+      "summary": "--",
+      "location": "Guadalajara"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikhail-hubich-038a5b11b",
+      "name": "Mikhail Hubich",
+      "summary": "Lead Full-stack engineer",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-richartz",
+      "name": "Daniel Richartz",
+      "summary": null,
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denise-jaeger",
+      "name": "Denise J.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-lee-tschimmel-18668684",
+      "name": "Sarah-Lee Tschimmel",
+      "summary": "Head of Client Services bei fischerAppelt",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maren-jennen-a05b6145",
+      "name": "Maren Jennen",
+      "summary": "Account Director bei BBDO",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joep-van-der-aa-559b315",
+      "name": "Joep van der Aa",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charl-reineke-84b29817",
+      "name": "Charl Reineke",
+      "summary": "Western Cape Regional Sales Manager (Retired)",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-raap-581a9217",
+      "name": "Stephanie Raap",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-tomschin",
+      "name": "Sven Tomschin",
+      "summary": "Social & Digital Media für B2B I LinkedIn Certified Marketing Insider I Performance Marketing Nerd I Lass uns Projekte gemeinsam rocken! 🤘",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ralf-brueser-a386a628",
+      "name": "Ralf Brueser",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/todd-depue-6253432a",
+      "name": "Todd Depue",
+      "summary": "CLC Origination Lead at MSU Federal Credit Union",
+      "location": "Clarkston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-klar-35832130",
+      "name": "Christian Klar",
+      "summary": "Head of Digital Communications bei CBE DIGIDEN AG",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-grundy-056b1b31",
+      "name": "Phil Grundy",
+      "summary": "UK’s exclusive distributor of Caye – the world’s most advanced coffee machines for barista-quality coffee.",
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joyce-van-doorn-5b104532",
+      "name": "Joyce van Doorn",
+      "summary": "Sales Manager Digital @ blowUP media",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marine-salembier-08826b32",
+      "name": "Marine Salembier",
+      "summary": "Accountmanager bij blowUP media",
+      "location": "Kortrijk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katja-albers-0a7ba738",
+      "name": "Katja Albers",
+      "summary": "Freie Kuratorin für zeitgenössische Kunst, Schwerpunkt Film und Video, Kunst im öffentlichen Raum, Jugendkunstprojekte",
+      "location": "Dresden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25C3%25A1rp%25C3%25A1d-iv%25C3%25A1nyi-6a43a150",
+      "name": "Árpád Iványi",
+      "summary": "Production Designer/Director",
+      "location": "Pomáz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/imad-ezzeddine",
+      "name": "Imad Ezzeddine",
+      "summary": "Brand Director | Beauty & Retail | AED 20M Revenue Built from Zero | AED 350K+ Monthly E-commerce | #1 at Sephora ME | GCC Market Entry & Expansion | LVMH Background | Influencer & Celebrity Partnerships",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-gorklo-81a7b659",
+      "name": "Vanessa Gorklo",
+      "summary": "Senior Client & Agency Partner | Samsung Ads",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emanuela-fontana-85912360",
+      "name": "Emanuela Fontana",
+      "summary": null,
+      "location": "Frosinone"
+    },
+    {
+      "link": "https://www.linkedin.com/in/massimo-miniello-42596b63",
+      "name": "Massimo Miniello",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-azar-64720b6a",
+      "name": "Nicolas Azar",
+      "summary": "Content Director | Podcast Creator | Arab Journalist | Empowering Arab Voices Through Storytelling",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteo-barchi-095a1976",
+      "name": "Matteo Barchi",
+      "summary": null,
+      "location": "Reggio nell’Emilia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anja-h%25C3%25A4berle-170a6777",
+      "name": "Anja Häberle",
+      "summary": "Account Director bei PHOCUS BRAND CONTACT",
+      "location": "Nuremberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-mestre-62417584",
+      "name": "Nicole Mestre",
+      "summary": "Account Director bei Kastner Frankfurt",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ranjit-jena-26021984",
+      "name": "Ranjit Jena",
+      "summary": "AVP - Technology Digital Business @ ICICI Lombard",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oona-schmalbruch-23174688",
+      "name": "Oona Schmalbruch",
+      "summary": null,
+      "location": "Bremen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ciro-rapicano-08b16190",
+      "name": "Ciro Rapicano",
+      "summary": "Visual Merchandiser at PVH Corp. for Calvin klein & Tommy Hilfiger",
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanne-grass-7073a294",
+      "name": "Susanne Grass",
+      "summary": "Senior Account Director bei Seven.One Entertainment Group | ProSiebenSat.1 Media SE",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steffen-methner-50010195",
+      "name": "Steffen Methner",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/uli-benker",
+      "name": "Uli Benker",
+      "summary": "Director Marketing & Communication @green flexibility | Energy Transition & Startups | Building trust, visibility & category leadership",
+      "location": "Kempten"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-kiesewalter-92b949a6",
+      "name": "Stefan Kiesewalter",
+      "summary": "Head of Client Service Management",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-k%25C3%25BClsheimer-7172b0aa",
+      "name": "Sandra Külsheimer",
+      "summary": null,
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marina-hauser-7a1134b2",
+      "name": "Marina Hauser",
+      "summary": "Account Director, VP bei REMEDY EDGE Germany",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katharina-stobinski-00a160b2",
+      "name": "Katharina Stobinski",
+      "summary": "18 Jahre Beratungserfahrung, Key-Account-Managerin, ARD Media",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cornelia-maiwald-006411b2",
+      "name": "Cornelia Maiwald",
+      "summary": "Account Director",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carsten-kr%25C3%25A4mer-64a8b7108",
+      "name": "Carsten Krämer",
+      "summary": "Development Manager bei blowUP media GmbH",
+      "location": "Herne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-ciavola-29b48410a",
+      "name": "Gabriel Ciavola",
+      "summary": "Bioinformatics student.",
+      "location": "Forano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-gibrine-ab9357120",
+      "name": "George Gibrine",
+      "summary": "VISUAL COMMUNICATION\n(Motion/Graphic Designer)",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anastasia-isatschenko-5986b9128",
+      "name": "Anastasia Isatschenko",
+      "summary": "Business Director bei Scholz&Friends Commerce",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cas-hendriks-3aa3a812b",
+      "name": "Cas Hendriks",
+      "summary": "Graphic Designer, illustrator and creative with a focus on brand and concept development.",
+      "location": "Utrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frauke-heincken",
+      "name": "Frauke Heincken",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julius-moors-6888a414a",
+      "name": "Julius Moors",
+      "summary": "Expert Precision - Programmatic Technology",
+      "location": "Krefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emanuele-rizzo-599a3b14a",
+      "name": "Emanuele Rizzo",
+      "summary": "Supplier Quality Engineer at Leonardo Helicopters",
+      "location": "Cassino"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lena-spitczok-von-brisinski-53aa97151",
+      "name": "Lena Spitczok von Brisinski",
+      "summary": "Ingenieurin bei Bundesgesellschaft für Endlagerung mbH (BGE)",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudius-desanti",
+      "name": "Claudius Desanti",
+      "summary": "Fight HIV Stigma | Empower the LGBTQ+ Community 🌈 Aidshilfe BW | Queergeredet | Sissy That Talk",
+      "location": "Stuttgart"
+    },
+    {
+      "link": "https://www.linkedin.com/in/savannah-de-vos-66083a161",
+      "name": "Savannah de Vos",
+      "summary": "blowUP media•864 followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabian-m%25C3%25BCller-22618918b",
+      "name": "Fabian Müller",
+      "summary": "Managing Consultant bei BOOM GmbH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrin-merta-336766190",
+      "name": "Katrin Merta",
+      "summary": "Digital Media & Strategy Managerin bei Orthomol pharmazeutische Vertriebs GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jared-makin-643018192",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/debora-d-adamo-415434194",
+      "name": "Debora D'Adamo",
+      "summary": "Corso di specializzazione presso Logos",
+      "location": "Frosinone"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabel-wieland-29b397196",
+      "name": "Isabel Wieland",
+      "summary": "Marketing Managerin @blowUP media",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mildred-schmidbauer",
+      "name": "Mildred Schmidbauer",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-fagundes-9ba947196",
+      "name": "Renato Fagundes",
+      "summary": "Supervisor de vendas na CENTAURO",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariakraemer",
+      "name": "Maria K.",
+      "summary": "Account Managerin @blowUP media/ STRÖER Group",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romina-menzel-522a8a1b0",
+      "name": "Romina Menzel",
+      "summary": "Creative Agency Partner DACH | Inspire creativity and bring joy",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elia-tamimi-9438621b1",
+      "name": "Elia Tamimi",
+      "summary": null,
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-mehrganz-1a804a206",
+      "name": "Peter Mehrganz",
+      "summary": "Groß, größer - blowUp!",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chiara-bartoli-8111a5219",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Attention is scarce in today’s always-on digital world. But there are still moments where undivided attention can be captured at scale: at festivals…",
+      "link": "https://www.linkedin.com/posts/timraabe_attention-is-scarce-in-todays-always-on-activity-7453090904824860672-AFSZ",
+      "activity_status": null
+    },
+    {
+      "title": "𝐊𝐮𝐧𝐬𝐭𝐛𝐞𝐫𝐠 𝐢𝐬 𝐛𝐚𝐜𝐤 𝐢𝐧 𝐁𝐫𝐮𝐬𝐬𝐞𝐥𝐬 The Out-of-Home location we worked with in 2022, has now returned to the international stage.…",
+      "link": "https://www.linkedin.com/posts/timraabe_webuildbigbrands-activity-7444662987803570176-lQ37",
+      "activity_status": null
+    },
+    {
+      "title": "POLE POSITION Speed, masses of people, and Dutch victory are inextricably connected to the Zandvoort Formula 1 track. During one of the busiest…",
+      "link": "https://www.linkedin.com/posts/tim-raabe-b431906a_events-innovation-f1-activity-7049360620965502976-78LR",
+      "activity_status": null
+    },
+    {
+      "title": "International news at blowUP media! 🚀 I’m thrilled to share some remarkable developments across Europe. 1️⃣Duesseldorf’s extraordinary Premium Plus…",
+      "link": "https://www.linkedin.com/posts/tim-raabe-b431906a_international-news-at-blowup-media-i-activity-7082985748534046720-44Ik",
+      "activity_status": null
+    },
+    {
+      "title": "blowUP media is winner of the first sustainability award at the woo congress in Lisbon #woocongress #Verticalgardens #greenfuture #blowupmedia",
+      "link": "https://www.linkedin.com/posts/tim-raabe-b431906a_woocongress-verticalgardens-greenfuture-activity-7072892127608725504-sTJx",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-01T00:00:00Z"
+  }
+}

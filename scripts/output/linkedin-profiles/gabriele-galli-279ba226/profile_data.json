@@ -1,0 +1,625 @@
+{
+  "public_identifier": "gabriele-galli-279ba226",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/f3e65c9dc427c15ddb05dadacd2412b7",
+  "background_cover_image_url": null,
+  "first_name": "Gabriele",
+  "last_name": "Galli",
+  "full_name": "Gabriele Galli",
+  "follower_count": 1549,
+  "occupation": "Investor at Framestore",
+  "headline": "Private Equity",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Framestore",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/framestore",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Framestore is the global leading provider of visual effects for film and high end episodic TV shows. Winner of 3 Oscars and numerous other industry awards",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/786cc85481889048eef3a76a659cbce3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Company 3",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/company-3",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": "Company 3 is the global leader in post production services - from dailies up to picture finishing and colouring, serving Hollywood studios and global streaming platforms",
+      "location": "Hollywood, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c365307fd69db2f361622b62f1248ecc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Aleph Capital Partners",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aleph-capital-partners",
+      "company_facebook_profile_url": null,
+      "title": "Private Equity",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/069fffc3442385bdb1302956d050ef98"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SKIPPER",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/skipperclean",
+      "company_facebook_profile_url": null,
+      "title": "Angel Investor",
+      "description": "Fast growing innovator and producer of eco-friendly / just-add-water soaps and cleaning products. On a mission to reduce plastic in our world. Collected more than 5m plastic bottles since 2021",
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c0fbc4148071dc6c290f1d106707000c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "company": "Bank of America Merrill Lynch",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-of-america-merrill-lynch/",
+      "company_facebook_profile_url": null,
+      "title": "Vice President",
+      "description": "Leveraged Finance",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "company": "Gideon Smart Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gideon-ai/",
+      "company_facebook_profile_url": null,
+      "title": "Angel Investor",
+      "description": "Gideon is a software platform that turns a smart home into an intelligent home. It allows consumers and businesses to seamlessly control multiple devices, irrespective of the manufacturer",
+      "location": "London, England, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Deutsche Bank",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deutsche-bank/",
+      "company_facebook_profile_url": null,
+      "title": "Vice President - Leveraged Finance / M&A",
+      "description": "2015-2019 Leveraged Debt Capital Markets\n2011-2015 M&A Advisory",
+      "location": "London, Milan",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Finance, Leadership, Management, Strategy",
+      "degree_name": "Executive Education",
+      "school": "Columbia Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/columbia-business-school/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Finance",
+      "degree_name": "MSc",
+      "school": "Università Bocconi",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universita-bocconi/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "110 cum laude",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Finance",
+      "degree_name": "MBA",
+      "school": "Indiana University - Kelley School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/kelley-school-of-business/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Hungarian",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Italian",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/npouzin",
+      "name": "Nicholas Pouzin",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/athenabersimis",
+      "name": "Athena Bersimis",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petro-kocherhan",
+      "name": "Petro B. Kocherhan",
+      "summary": null,
+      "location": "Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benfreemanlondon",
+      "name": "Ben Freeman",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahul-bhargava",
+      "name": "Rahul Bhargava, CFA, FRM, CAIA, CFM",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlgolsson",
+      "name": "Carl Olsson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danilona",
+      "name": "Natalia Danilochkina, CAIA",
+      "summary": "Risk Management for Alternative Investments",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maysmhoang",
+      "name": "May Hoang",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yashodhanshevade",
+      "name": "Yashodhan Shevade",
+      "summary": "Director at Houlihan Lokey",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierreantoinemontero",
+      "name": "Pierre-Antoine Montero",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kekaiser",
+      "name": "Kevin Kaiser",
+      "summary": "Managing Director at Perella Weinberg Partners",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maulikmashkaria",
+      "name": "Maulik Mashkaria",
+      "summary": "Chief Operating Officer, BCMA Middle East and Africa",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophmayer",
+      "name": "Christoph Mayer",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darylblake",
+      "name": "Daryl Blake",
+      "summary": "Co-Founder and Director at sciopay",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulcolinstevens",
+      "name": "Paul Stevens",
+      "summary": "Director, Northcott Capital and Co-Founder, Oval Advisory",
+      "location": "City of London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-miguel-raffo",
+      "name": "Jose Miguel Raffo",
+      "summary": "Ultra-high net worth advisor at Eurocapital",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ottoalaoui",
+      "name": "Otto Alaoui",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vculebras",
+      "name": "Victor Culebras",
+      "summary": "Principal at KKR",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cchang10",
+      "name": "Charles Chang",
+      "summary": "Software/Tech M&A",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pozzimatteo",
+      "name": "Matteo Pozzi",
+      "summary": null,
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesco-buffi-743b278",
+      "name": "Francesco Buffi",
+      "summary": "Managing Director at AB CarVal",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kunal-singal-a4061211",
+      "name": "Kunal Singal",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shireen-ali-0b75b513",
+      "name": "Shireen Ali",
+      "summary": "Investor | Advisor | Private Equity | Hybrid Capital",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-corrigan-735a0214",
+      "name": "Kevin Corrigan",
+      "summary": "Non-Executive Director | Vice President of Reading University | Trustee MIND | Board member COIF/CCLA | Chair of Suicide & Co",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravi-ghedia",
+      "name": "Ravi Ghedia",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-blackmore-5b8b4023",
+      "name": "Colin Blackmore",
+      "summary": "Independent non-executive director, trustee, adviser and lawyer. Former General Counsel, Chief Compliance Officer and transactional lawyer in US alternative asset management firms.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-chantal-coe-47924730",
+      "name": "Marie Chantal Coe",
+      "summary": "Office Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christoph-leitner-dietmaier-0a149434",
+      "name": "Christoph Leitner-Dietmaier",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-reader-09bb3434",
+      "name": "Sarah Reader",
+      "summary": "Legal Counsel at BAWAG P.S.K.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aamer-bhatti-80603643",
+      "name": "Aamer Bhatti",
+      "summary": "Managing Director, M&A - UBS Investment Bank",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/khalid-mohsen-b0121b48",
+      "name": "Khalid Mohsen",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jens-bauer-98255253",
+      "name": "Jens Bauer",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maneesh-sharma-12700062",
+      "name": "Maneesh Sharma",
+      "summary": "Aleph Capital Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aymeric-georges-picot",
+      "name": "Aymeric Georges-Picot",
+      "summary": "Columbia MBA ‘26 | Value Investing Program | Experienced Private Equity Investment Professional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashleigh-humphries-4a3a5566",
+      "name": "Ashleigh Humphries",
+      "summary": "Associate at Latham & Watkins",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjamin-bygott-webb-99b50579",
+      "name": "Benjamin Bygott-Webb",
+      "summary": "Partner at EQT Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-guth-152581b1",
+      "name": "Christopher Guth",
+      "summary": "Investments",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-lagler-7357b8bb",
+      "name": "Michael Lagler",
+      "summary": "Private Equity Principal | Apollo Global Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/baljit-dosanjh-5438261bb",
+      "name": "Baljit Dosanjh",
+      "summary": "Managing Director, Head of EMEA Capital Markets Legal & Global Head of CIB ESG Legal",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-coxall-a7506548",
+      "name": "Mark Coxall",
+      "summary": "Private Equity",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/seifkhoufi",
+      "name": "Seif Khoufi",
+      "summary": "Private Equity and Private Investor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/filip-kisdobranski-5287a2a6",
+      "name": "Filip Kisdobranski",
+      "summary": "Private Equity, MidEuropa",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayleywinter",
+      "name": "Hayley Winter",
+      "summary": "Investment Director at Montagu Private Equity",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovanniguidotti",
+      "name": "Giovanni Maria Guidotti",
+      "summary": "Private Equity at Aleph Capital Partners",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/haroon-ahmed1",
+      "name": "Haroon Ahmed",
+      "summary": "Investor at Waterland Private Equity",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/justine-dobbs-higginson-22425013",
+      "name": "Justine Dobbs-Higginson",
+      "summary": "Managing Director at Aleph Capital Partners",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/junaid-khan-497881132",
+      "name": "Junaid Khan",
+      "summary": "Private Equity Investor | Ex-JPM IBD ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/enrico-grasso-962a96",
+      "name": "Enrico Grasso",
+      "summary": "20+ years of Private Equity experience | Active Angel Investor | xKKR, xHg",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristan-abraham-436906a7",
+      "name": "Tristan Abraham",
+      "summary": "Private Equity at Duke Street",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduard-friedman-3023275b",
+      "name": "Eduard Friedman",
+      "summary": "Private Equity Investment Professional",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrismiele",
+      "name": "Chris Miele",
+      "summary": "Investment Banking Associate at Lazard",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-james-parkinson",
+      "name": "Tom Parkinson",
+      "summary": "CPA, CA VP Finance | M&A, Forecasting",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mazzouz",
+      "name": "Michael Azzouz",
+      "summary": "Private Equity at Apollo",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-hammersley-b62b1726",
+      "name": "Lisa Hammersley",
+      "summary": "VP Finance Elcom",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-bourne-13716060",
+      "name": "William Bourne",
+      "summary": "Associate Director, Capital Markets - Private Equity at 3i Group plc",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shayne-farrier-9a2626242",
+      "name": "Shayne Farrier",
+      "summary": "Head of Paint & Roto Department at Framestore",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/thibaud-zarazaga",
+      "name": "Thibaud Zarazaga",
+      "summary": "Private Equity Vice President at Oaktree Capital Management, L.P.",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Thank you to the Houlihan Lokey team and all advisors that supported us in the successful refinancing of our portfolio company FC3 Group. Impressive…",
+      "link": "https://www.linkedin.com/posts/gabriele-galli-279ba226_thank-you-to-the-houlihan-lokey-team-and-activity-7450095043585028096-gZU8",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Gabriele Galli",
+      "link": "https://it.linkedin.com/in/gabriele-galli-227917209",
+      "summary": "Titolare G.M.A di Galli Gabriele",
+      "location": "Magenta"
+    },
+    {
+      "name": "Gabriele Galli",
+      "link": "https://it.linkedin.com/in/gabriele-galli-722048b0",
+      "summary": "chirurgo ortopedico",
+      "location": "Bologna"
+    },
+    {
+      "name": "Gabriele Galli",
+      "link": "https://it.linkedin.com/in/gabriele-galli-aa2b1539",
+      "summary": "Owner - winedoor.it - Ottima Annata - enologo",
+      "location": "Como"
+    },
+    {
+      "name": "Gabriele Galli",
+      "link": "https://it.linkedin.com/in/gabriele-galli-5840a35a",
+      "summary": "Diploma di Specializzazione di 1° livello   DS1 presso cangrande Verona",
+      "location": "Verona"
+    },
+    {
+      "name": "Gabriele Galli",
+      "link": "https://www.linkedin.com/in/gabrielegalliprofile",
+      "summary": "Co-Founder & CEO at Dorado",
+      "location": "Miami, FL"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-18T00:00:00Z"
+  }
+}

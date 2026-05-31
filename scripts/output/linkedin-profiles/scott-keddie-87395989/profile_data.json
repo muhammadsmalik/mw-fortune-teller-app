@@ -1,0 +1,462 @@
+{
+  "public_identifier": "scott-keddie-87395989",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Scott",
+  "last_name": "Keddie",
+  "full_name": "Scott Keddie",
+  "follower_count": 427,
+  "occupation": "Chief Investment Officer at OMG - New Zealand",
+  "headline": "Chief Investment Officer at OMG - New Zealand",
+  "summary": null,
+  "location_str": "New Zealand",
+  "country": "NZ",
+  "country_full_name": "New Zealand",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "OMG - New Zealand",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Investment Officer",
+      "description": null,
+      "location": "New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "company": "Spark PHD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group Trading Director",
+      "description": null,
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 423,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/azrielchan",
+      "name": "Azriel Chan",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jefflloydnz",
+      "name": "Jeff Lloyd",
+      "summary": "Media Planner atFisher & Paykel",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynettew",
+      "name": "Lynette White",
+      "summary": "Freelance Event Professional seeking new opportunities - permanent or contract",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachael-heeney",
+      "name": "Rachael Heeney",
+      "summary": "Chief of Staff, People Experience at Google",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisdaleynz",
+      "name": "Chris Daley",
+      "summary": "Head of Product Development at Omnicom Media Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rsthomas1",
+      "name": "Rob Thomas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewcambridge",
+      "name": "Andrew Cambridge",
+      "summary": "CEO - Omnicom Media Digital, Australia & New Zealand",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonecremis",
+      "name": "Simone Cremis",
+      "summary": null,
+      "location": "Lecce"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisdaly14",
+      "name": "Chris Daly",
+      "summary": "Senior Digital Manager at Foxtel Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonhofmann",
+      "name": "Simon Hofmann",
+      "summary": "General Manager, Brand, Marketing, eComm I 2023 NZ Marketer of the Year",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonya-reinink-5b400445",
+      "name": "Sonya Reinink",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamish-roderick-a1a4a3253",
+      "name": "Hamish Roderick",
+      "summary": "Chief Investment Officer at OMD New Zealand",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bramstevens",
+      "name": "★ Bram Stevens",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/baha-hamzah-97a7b4242",
+      "name": "Baha Hamzah",
+      "summary": "Chairman at IA International Assistance",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ehoud-al-hazzah",
+      "name": "Eva Ehoud Al-Hazzah",
+      "summary": "Customer Success",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ren%25c3%25a9e-smith-72a85977",
+      "name": "Renée Smith",
+      "summary": "GM of Whāriki Tāmaki Makaurau | B&T 30 Under 30",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/voiceboxeduk",
+      "name": "Scott Lawrie",
+      "summary": "Experienced brand voice pioneer – now exploring writing and AI",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrinaburnett",
+      "name": "Kat Burnett",
+      "summary": "General Manager Media Strategy - CreateMe",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivan-atkins",
+      "name": "Ivan A.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-smith-18086012",
+      "name": "Simon Smith",
+      "summary": "Head of Corporate Marketing at Samsung New Zealand",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andstephenson",
+      "name": "Andrew Stephenson",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewtaylor1308",
+      "name": "Andy Taylor",
+      "summary": null,
+      "location": "Peregian Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-woon-19277216",
+      "name": "Nick Woon",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-brown-66911719",
+      "name": "Helen Brown",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-mcrae-a5a38623",
+      "name": "Richard McRae",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noelinevandenberg",
+      "name": "Noeline van den Berg",
+      "summary": "Tour Guide / Advertising Specialist/Entertainment Director Cruise Liners / Experiential Director",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigel-peek-64101726",
+      "name": "Nigel Peek",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-rice-7051692a",
+      "name": "Anthony Rice",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-vaka-uta-8193162a",
+      "name": "Emily Vaka'uta",
+      "summary": null,
+      "location": "Wellington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shelley-winsor-b181382b",
+      "name": "Shelley Winsor",
+      "summary": "Partnerships Manager – Economic & Community Development | Strategy, Creativity & Trust-Based Leadership | Connected Horsemanship",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenny-appel-98157530",
+      "name": "Jenny Appel",
+      "summary": "GM OMD Content (OMG)",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-hamilton-12216036",
+      "name": "Catherine Hamilton",
+      "summary": "Head of Investment at MBM",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-cherrie-9404314b",
+      "name": "Julie Cherrie",
+      "summary": "Head of Investment",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elliot-lord-1b202452",
+      "name": "Elliot Lord",
+      "summary": "Director at Stewart + Lord",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgina-mckinnon-2b046454",
+      "name": "Georgina McKinnon",
+      "summary": "CEO OMG Content APAC",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-ann-morris-0b581b55",
+      "name": "Lee-Ann Morris",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-rodney-bb971259",
+      "name": "Ian Rodney",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarrod-hunt-758ba95b",
+      "name": "Jarrod Hunt",
+      "summary": "Communications | Media | Analysis & Insights | Effectiveness",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremy-hansen-75070867",
+      "name": "Jeremy Hansen",
+      "summary": "Programmatic specialist always looking to understand more",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-crockett-6236647b",
+      "name": "Rachel Crockett",
+      "summary": "Client Solutions Manager",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-howie-b1103782",
+      "name": "Nick Howie",
+      "summary": null,
+      "location": "Mooloolah Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-manning-77959289",
+      "name": "Jack Manning",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tristan-stewart-72287896",
+      "name": "Tristan Stewart",
+      "summary": "Managing Director at Stewart & Lord",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-livingston-57407997",
+      "name": "Joshua Livingston",
+      "summary": null,
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-sullivan-7bb27997",
+      "name": "Georgia Sullivan",
+      "summary": "Head of Social & Content",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/max-charnin-3b3ba0a3",
+      "name": "Max Charnin",
+      "summary": "Head of Programmatic - Outdoor and Radio",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonie-emmett-435324106",
+      "name": "Leonie Emmett",
+      "summary": "Investment Director at OMD New Zealand",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-tindall-640642141",
+      "name": "Steve Tindall",
+      "summary": "Head of Trading",
+      "location": "Auckland"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Our Chief Investment Officer Marelle Salib took to the stage for HEARD 2025 for the ‘Tuning Into Growth’ panel discussion. Alongside Marelle and…",
+      "link": "https://www.linkedin.com/posts/omdaustralia_culturalrelevance-transformingtomorrow-activity-7297113953912926210-oolh",
+      "activity_status": null
+    },
+    {
+      "title": "PHD has secured 8 nominations at the Festival of Media APAC Awards 2025! Huge thanks to all PHDers in the region for their hard work and hunger to…",
+      "link": "https://www.linkedin.com/posts/phd-_phdintelligenceconnected-festivalofmediaapac2025-activity-7306207463945445376-WUhk",
+      "activity_status": null
+    },
+    {
+      "title": "Omnicom Media Group has delivered its fastest ever start to a year across APAC, especially through its market partnerships building unique tools in…",
+      "link": "https://www.linkedin.com/posts/kristiaan-kroon-299b7b_omnicom-media-group-has-delivered-its-fastest-activity-7301458614886506496-EOqO",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 Exciting News 🚨 GoTransit has a new Brisbane Agency Sales Director! Nick Howie is moving into his new role and bringing 20 years of experience…",
+      "link": "https://www.linkedin.com/posts/gotransitmediagroup_exciting-news-gotransit-has-a-new-brisbane-activity-7302561004251398146-poPK",
+      "activity_status": null
+    },
+    {
+      "title": "Why are large Agency Groups Like OMG essential for Brands In today’s competitive landscape... Brands are facing numerous challenges and…",
+      "link": "https://www.linkedin.com/posts/kristiaan-kroon-299b7b_now-they-have-prime-video-spend-is-increasing-activity-7302848272014987265-X1Tz",
+      "activity_status": null
+    },
+    {
+      "title": "I was going to say \"Join us for this NZ IAB First Party Data Future event next week\"... however, it looks like it sold out on day one of being…",
+      "link": "https://www.linkedin.com/posts/ivanfuyala_i-was-going-to-say-join-us-for-this-nz-iab-activity-7300616077762314240-MWn0",
+      "activity_status": null
+    },
+    {
+      "title": "And we're Live! It was a fantastic morning in Auckland today for our first Index Exchange AdBreak(Fast). Streaming TV, and in particular Live…",
+      "link": "https://www.linkedin.com/posts/adelewieser_indexexplains-activity-7300683472602312706-2AMI",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you for all of the kind messages following the announcement of my appointment to CEO of Omnicom New Zealand. As the first NZ CEO for the group,…",
+      "link": "https://www.linkedin.com/posts/nikki-grafton-27317314_thank-you-for-all-of-the-kind-messages-following-activity-7298256788137619457-nscl",
+      "activity_status": null
+    },
+    {
+      "title": "Our business is nothing without smart passionate people delivering amazing client work. Congratulations to Sophie Walsh Hayley Pyper Lauren Easton…",
+      "link": "https://www.linkedin.com/posts/kristiaan-kroon-299b7b_omg-contents-leadership-promotions-adnews-activity-7295569881402331137-d8c6",
+      "activity_status": null
+    },
+    {
+      "title": "Well done ThinkTV NZ….a great initiative to create more discussion in market..nice contribution too Simon Bird and James Davidson!",
+      "link": "https://www.linkedin.com/posts/scott-keddie-87395989_well-done-thinktv-nza-great-initiative-activity-7315587489342148609-att8",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Scott Keddie",
+      "link": "https://www.linkedin.com/in/scott-keddie-13254433",
+      "summary": "--",
+      "location": "Tewksbury, MA"
+    },
+    {
+      "name": "Scott Keddie",
+      "link": "https://ca.linkedin.com/in/scott-keddie-13697a62",
+      "summary": "Keddie Performance Consulting Inc-President",
+      "location": "Canada"
+    },
+    {
+      "name": "Scott Keddie",
+      "link": "https://www.linkedin.com/in/scott-keddie-8a245618",
+      "summary": "Lieutenant-Haz mat Tech,Emergency Medical Tech, at Tewksbury Fire Dept.",
+      "location": "Tewksbury, MA"
+    },
+    {
+      "name": "Scott Keddie",
+      "link": "https://au.linkedin.com/in/scott-keddie-1b096054",
+      "summary": "Company Director",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Scott Keddie",
+      "link": "https://nz.linkedin.com/in/scott-keddie-b50490241",
+      "summary": "Chief Investment Officer at Omnicom Media Group, ANZ",
+      "location": "Auckland"
+    },
+    {
+      "name": "Scott Keddie",
+      "link": "https://im.linkedin.com/in/scott-keddie-554207288",
+      "summary": "Information Technology Field Engineer at Argon Business Systems Limited",
+      "location": "Douglas"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-09-30T00:00:00Z"
+  }
+}

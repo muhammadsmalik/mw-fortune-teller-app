@@ -1,0 +1,718 @@
+{
+  "public_identifier": "oliver-goodge-bb858b121",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/685234ba3c46b072fd53e5e2b862e7d6",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/f02a40fa1b1efcb2f508f66737c84656",
+  "first_name": "Oliver",
+  "last_name": "Goodge",
+  "full_name": "Oliver Goodge",
+  "follower_count": 1311,
+  "occupation": "Sales Director EMEA at Vistar Media",
+  "headline": "EMEA Director, Enterprise Solutions",
+  "summary": "A business-minded professional who specialises in new business development and major market expansion within the AdTech and digital media space. Well versed in leading and managing sales teams across multiple media disciplines including programmatic solutions across display, Digital Out of Home and mobile-optimised platforms, video, and Connected TV.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director EMEA",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2025
+      },
+      "company": "i-media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/i-mediaooh",
+      "company_facebook_profile_url": null,
+      "title": "Head of Programmatic",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/45e207282d78bd70dda0aebab254833b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2023
+      },
+      "company": "Scoota",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/scoota",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Director",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9da7567b8731795bf5d1cc2f35efff70"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2022
+      },
+      "company": "Scoota",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/scoota",
+      "company_facebook_profile_url": null,
+      "title": "Group Account Director",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9da7567b8731795bf5d1cc2f35efff70"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2021
+      },
+      "company": "Scoota",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/scoota",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9da7567b8731795bf5d1cc2f35efff70"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "Network 10",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/network-ten",
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": "Broadcast & Digital Media",
+      "location": "Pyrmont, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1efa8cbdeb6071290c080557644692f5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "company": "Multi Channel Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/multi-channel-network",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eae62ec86551e187cb10d2cd9673f91b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2018
+      },
+      "company": "Multi Channel Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/multi-channel-network",
+      "company_facebook_profile_url": null,
+      "title": "Partnerships Executive",
+      "description": null,
+      "location": "Pyrmont, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eae62ec86551e187cb10d2cd9673f91b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2017
+      },
+      "company": "Multi Channel Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/multi-channel-network",
+      "company_facebook_profile_url": null,
+      "title": "Partnerships Coordinator",
+      "description": null,
+      "location": "Pyrmont, New South Wales, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eae62ec86551e187cb10d2cd9673f91b"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "International Business",
+      "degree_name": "Bachelor's degree",
+      "school": "University of Technology Sydney",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-technology-sydney",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c22f269164f15a469b395a4e9fb616fb",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1300,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/annnamajchrzak",
+      "name": "Anna Majchrzak",
+      "summary": "Programmatic Business Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthonysc9",
+      "name": "Anthony Sciuto",
+      "summary": "CEO at InterPRIME International Investment Consulting.",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nwhite89",
+      "name": "Nick White",
+      "summary": "Software Engineer at Scoota",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewholmes82",
+      "name": "Andrew Holmes (deceased)",
+      "summary": "Software engineer; quantitative developer; sometime angel investor.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maciej-baczynski",
+      "name": "Maciej Baczyński",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-browne-peace77",
+      "name": "Ashley Browne",
+      "summary": "Lead Generation Specialist",
+      "location": "Whitchurch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonnyhirst",
+      "name": "Jonny Hirst",
+      "summary": "Head Of Project Management at Scoota",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fritznicholas",
+      "name": "Nick Fritz",
+      "summary": "Team Builder + Growth Driver",
+      "location": "Minneapolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurieoriordan",
+      "name": "Laurie O'Riordan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefankurkic",
+      "name": "Stefan Kurkic",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suemwebb",
+      "name": "Sue Webb",
+      "summary": "Newcastle Sales Manager at PRIME7",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krak3n",
+      "name": "Christopher Reeves",
+      "summary": null,
+      "location": "Stevenage"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitchellgreenway",
+      "name": "Mitchell Greenway",
+      "summary": "Leader in programmatic, media, AdTech, and data. CTV | OTT expert. Yahoo Alum",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harvey-clements",
+      "name": "Harvey Clements",
+      "summary": "Founder | Digital Director at SABA • Digital Advertising • Performance Marketing",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robertgeorgesonuk",
+      "name": "Rob Georgeson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kdimler",
+      "name": "Kaitlyn Dimler",
+      "summary": null,
+      "location": "Chicago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robbie-perris",
+      "name": "Robbie Perris",
+      "summary": "Simplifying Business Operations, Sales & Marketing processes 🚀 | Driving Efficiency & Results Through Smart Automation 🤖",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annemariemarinhodelemos",
+      "name": "Anne Marie Marinho de Lemos",
+      "summary": "Regional Experience Director at KINESSO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorienhamilton",
+      "name": "Lorien Hamilton",
+      "summary": "Business Development Manager | Pentaho+",
+      "location": "Bideford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesabyard",
+      "name": "James Byard",
+      "summary": "OOH Media Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannahscott1",
+      "name": "Hannah Scott",
+      "summary": "VP Client Services  at Scoota",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-kelly-91abb97",
+      "name": "Alex Kelly",
+      "summary": "Lead Developer at Percept",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-g-0195449",
+      "name": "Michael G.",
+      "summary": "Lead Developer at Scoota",
+      "location": "Bergerac"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-fabb-41231110",
+      "name": "Stephanie Fabb",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-manning-21076a10",
+      "name": "Nick Manning",
+      "summary": "Media Agency co-founder, Founder at Encyclomedia International, consultant, investor, co-founder of Advertising: Who Cares?, student of Spanish and Latin American Studies at Birkbeck, author of local history books",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sbarneshrr",
+      "name": "Sam Barnes",
+      "summary": "Area Vice President | Driving Enterprise Growth & Digital Transformation in UKI",
+      "location": "Henley-on-Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-phillips-a86a3b26",
+      "name": "Catherine Phillips",
+      "summary": "Customer Success Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-reddick-8bb34029",
+      "name": "Kim Reddick",
+      "summary": "Exhibition Sales Consultant Utility Week Live",
+      "location": "East Grinstead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-o-neill-14131b2b",
+      "name": "Donna O'Neill",
+      "summary": null,
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-bridges-6bab652b",
+      "name": "Michael Bridges",
+      "summary": "Driving Smarter Fulfilment & Global Shipping for Growing Brands",
+      "location": "Harrogate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robertodegiambattista",
+      "name": "Roberto De Giambattista",
+      "summary": "Sales, Europe/Africa @ Livescore.com",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brett-plough-3a219632",
+      "name": "Brett Plough",
+      "summary": "Sales & Marketing",
+      "location": "Walton-on-Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatiana-kilimova-32b59232",
+      "name": "Tatiana Kilimova",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/krystle-davis-8561a833",
+      "name": "Krystle Davis",
+      "summary": "Key Account Manager",
+      "location": "Largs"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-higson-b899a842",
+      "name": "James Higson",
+      "summary": "CTV Advertising Sales Lead",
+      "location": "Bromley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-allison-87060146",
+      "name": "Mark Allison",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-thomas-1b075554",
+      "name": "Matthew Thomas",
+      "summary": "Former Sales leader undergoing significant rebrand throughout 2026 (a.k.a career break)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xan-frances-a3179359",
+      "name": "Xan Frances",
+      "summary": "Senior Vice President, Commercial and US Operations at Scoota",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-clewlow-bb33635a",
+      "name": "Nick Clewlow",
+      "summary": "Despatch Technician at Invertek Drives Ltd",
+      "location": "Welshpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-dixon-3b16515b",
+      "name": "Lisa Dixon",
+      "summary": "Account Manager at Aspect CPM",
+      "location": "Oakham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zeba-shaik-8b582261",
+      "name": "Zeba Shaik",
+      "summary": "Director - Operations at Team RPO",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kiefer-scott-bb3b8574",
+      "name": "Kiefer Scott",
+      "summary": "Senior Account Manager at MiQ",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-vincze-6ab90782",
+      "name": "Rebecca Vincze",
+      "summary": "Account Director - US Sales - Homes & Gardens | GardeningKnowHow",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-atkins-06321883",
+      "name": "James Atkins",
+      "summary": "Sales Manager at Easy Resettlement (Armed Forces Resettlement publication) and Police Resettlement magazine",
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-morris-6b843385",
+      "name": "Chris Morris",
+      "summary": "Head of Sales | Commercial Kitchen Solutions for Restaurant Delivery & Production Growth",
+      "location": "Ingatestone"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-candelori-81381b8b",
+      "name": "jonathan candelori",
+      "summary": "Sales manager at Yell",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-melvin-6495ab92",
+      "name": "Charlotte Melvin",
+      "summary": "Account Director I Promotional Merchandise Expert With Over 14 Years of Professional Experience.",
+      "location": "Bury St Edmunds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-newton-056248a3",
+      "name": "Charlie Newton",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iona-walsh-0321a8a4",
+      "name": "Iona Walsh",
+      "summary": "Business Account Manager at AdEPT Telecom",
+      "location": "Tonbridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-mayers-21807bb2",
+      "name": "Nicola Mayers",
+      "summary": null,
+      "location": "Warrington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-slifkin-111262b3",
+      "name": "Joseph Slifkin",
+      "summary": "Account Manager at Crimtan",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-ware-55414bba",
+      "name": "Sophie Ware",
+      "summary": "Account Director at Advertising Advantage",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-martin-096494100",
+      "name": "Andrea Martin",
+      "summary": "dentons directories•1K followers",
+      "location": "Derby"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-parry-5256a8120",
+      "name": "Sarah Parry",
+      "summary": "Part Time - Sales Account Director at Sherbet London",
+      "location": "Hunsdon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-elton",
+      "name": "Paul Elton",
+      "summary": "Managing Director at Illuminis Insight | Helping SMEs automate reporting and gain clear business insight 📊",
+      "location": "Milton Keynes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/polina-hulvan-28346b136",
+      "name": "Polina Hulvan",
+      "summary": "Manager – adrox GmbH",
+      "location": "Krefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-mancini-736007138",
+      "name": "Francesca Mancini",
+      "summary": "Senior Manager, Consumer Revenue, Condé Nast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-man-8b68b5141",
+      "name": "Jonathan Man",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shanice-pullen-244023156",
+      "name": "Shanice Pullen",
+      "summary": "-",
+      "location": "Croydon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-morgan-b461431ba",
+      "name": "Katherine Morgan",
+      "summary": "Service Manager at AdEPT Technology Group plc",
+      "location": "Royal Tunbridge Wells"
+    },
+    {
+      "link": "https://www.linkedin.com/in/artem-savchenko-1a6340225",
+      "name": "Artem Savchenko",
+      "summary": "Global digital marketing agency for Crypto, Blockchain, & DeFi Brands and Talents Adrox.io",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Merci The Media Leader FR pour l'invitation et la belle organisation! Ravi d'avoir pu representer Vistar Media lors de cette belle table…",
+      "link": "https://fr.linkedin.com/posts/pierrechapron_merci-the-media-leader-fr-pour-linvitation-activity-7404915295850704897-cyJC",
+      "activity_status": null
+    },
+    {
+      "title": "Traditional OOH deserves a planning experience as strong as the medium itself. Adstruc delivers exactly that: automating workflows, improving…",
+      "link": "https://www.linkedin.com/posts/vistar-media_traditional-ooh-deserves-a-planning-experience-activity-7411468391493836802-79ri",
+      "activity_status": null
+    },
+    {
+      "title": "2025 done! Thanks to all clients, colleagues and partners - it has truly been an epic one! See you next year 🚀🕺🏼",
+      "link": "https://www.linkedin.com/posts/tomabarbour_2025-done-thanks-to-all-clients-colleagues-activity-7409183021859315712--NU0",
+      "activity_status": null
+    },
+    {
+      "title": "One ad template, endless possibilities. When it comes to creative variations, we hit the easy button by using dynamic creative to turn a single…",
+      "link": "https://www.linkedin.com/posts/vistar-media_dynamiccreative-ooh-activity-7407803189741162497-SmW-",
+      "activity_status": null
+    },
+    {
+      "title": "What better way to cap off a fantastic year for the Vistar Media France team than with an award win?! Alongside partners DooH it and Google DV360…",
+      "link": "https://www.linkedin.com/posts/vistar-media_what-better-way-to-cap-off-a-fantastic-year-activity-7407720176881770496-dptw",
+      "activity_status": null
+    },
+    {
+      "title": "2025 was a real one Vistar Media 🟠 I’m going early as I sign off for the year but for Vistar 🇬🇧 we smashed some (well all) targets, won some…",
+      "link": "https://www.linkedin.com/posts/karan-singh-8207a537_2025-was-a-real-one-vistar-media-im-activity-7407372013423710208-pDyF",
+      "activity_status": null
+    },
+    {
+      "title": "It’s been a year we’re very proud of at Vistar Media 🌟 It’s been amazing to be part of a team who has been constantly pushing in the UK to grow in…",
+      "link": "https://www.linkedin.com/posts/layla-soufi-9820a926_its-been-a-year-were-very-proud-of-at-vistar-activity-7407033130408108032-1X-9",
+      "activity_status": null
+    },
+    {
+      "title": "Tailored targeting doesn’t reduce reach. Relevancy & efficiency of budget drives the right message to the right people. Thanks NewDigitalAge!",
+      "link": "https://www.linkedin.com/posts/layla-soufi-9820a926_tailored-targeting-doesnt-reduce-reach-activity-7399529535064555520-sNLf",
+      "activity_status": null
+    },
+    {
+      "title": "Looking to make a real impact with your media plan? Don’t forget to include #OOH in your media plan — it’s proven to (literally) get you bigger…",
+      "link": "https://www.linkedin.com/posts/vistar-media_ooh-activity-7404902803938381824-sJgM",
+      "activity_status": null
+    },
+    {
+      "title": "I often like to take steps outside of my comfort zone in my career, but this one was especially uncomfortable. A 10 minute recording (without cuts)…",
+      "link": "https://www.linkedin.com/posts/sebastian-larsson-560897170_programmatic-activity-7404598171940884480--E4D",
+      "activity_status": null
+    },
+    {
+      "title": "Hearing your own voice is usually cringe, but I quite liked it on this occasion 😂 It was because I had a genuinely nice and relaxed time with…",
+      "link": "https://www.linkedin.com/posts/tomabarbour_hearing-your-own-voice-is-usually-cringe-activity-7404095620405428224-YFS4",
+      "activity_status": null
+    },
+    {
+      "title": "Programmatic DOOH + LEGO = creativity unlocked 🔓🧱 Just returned from an inspiring trip to Copenhagen🧜‍♀️ I had the pleasure of visiting the…",
+      "link": "https://www.linkedin.com/posts/charmaine-tavassoly_everyoneisawesome-programmatic-dooh-activity-7397614039155044352-j033",
+      "activity_status": null
+    },
+    {
+      "title": "Fier et heureux de ramener la coupe à la maison 🏆 Merci la team Ratecard pour la super organisation et bravo à tous les nominés 🔥 La table des…",
+      "link": "https://fr.linkedin.com/posts/maxime-nzt-769b8819_pdooh-activity-7396454651728138240-9Ub-",
+      "activity_status": null
+    },
+    {
+      "title": "Anyone who knows me knows I love a fragrance - so when I was planning our Q4 client event for the brilliant team at KINESSO, The Luxe Blending…",
+      "link": "https://www.linkedin.com/posts/daniel-puddicombe-b8719a63_anyone-who-knows-me-knows-i-love-a-fragrance-activity-7402307486210273280-9-8K",
+      "activity_status": null
+    },
+    {
+      "title": "DECEMBER, we've almost made it 🎄 A snapshot of Vistar Media UK prDOOH availability is below. It's key to note that availability across inventory…",
+      "link": "https://www.linkedin.com/posts/layla-soufi-9820a926_lhf-hfss-alcohol-activity-7401624412891881472-ThRp",
+      "activity_status": null
+    },
+    {
+      "title": "A very warm welcome to Shania Edwards, Vistar Media UK's shiny new Account Manager! This is a big milestone for us as we are officially doubling the…",
+      "link": "https://www.linkedin.com/posts/tomabarbour_a-very-warm-welcome-to-shania-edwards-vistar-activity-7401553396953935873-6i2Y",
+      "activity_status": null
+    },
+    {
+      "title": "What a week in Seoul 🇰🇷! It was an absolute privilege to speak on the panel at the World Out of Home (WOO) APAC Conference last week — great…",
+      "link": "https://www.linkedin.com/posts/luke-adams-7409192b_what-a-week-in-seoul-it-was-an-absolute-activity-7393448702163660800-1cHB",
+      "activity_status": null
+    },
+    {
+      "title": "A big thank you to our partners at Hivestack by Perion for hosting a fantastic and insightful event at The Outernet yesterday and for inviting me to…",
+      "link": "https://www.linkedin.com/posts/oliver-goodge-bb858b121_a-big-thank-you-to-our-partners-at-hivestack-activity-7247577267978080257-GiF2",
+      "activity_status": null
+    },
+    {
+      "title": "I'm on the lookout for two talented individuals to join my amazing team. Think you'd be a great fit for our team at i-media? I'd love to hear from…",
+      "link": "https://www.linkedin.com/posts/oliver-goodge-bb858b121_im-on-the-lookout-for-two-talented-individuals-activity-7213497193830232064-jj72",
+      "activity_status": null
+    },
+    {
+      "title": "Stay Tuned...",
+      "link": "https://www.linkedin.com/posts/oliver-goodge-bb858b121_stay-tuned-activity-7201230426495926272-yzPj",
+      "activity_status": null
+    },
+    {
+      "title": "Nicely done, team.",
+      "link": "https://www.linkedin.com/posts/oliver-goodge-bb858b121_nicely-done-team-activity-7203763159407439873-K-tx",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/g-4iJQat Let's Get Real Time in 2024. The ground is set for a thrilling year here at i-media and for the Programmatic Out of Home…",
+      "link": "https://www.linkedin.com/posts/oliver-goodge-bb858b121_what-to-expect-from-programmatic-ooh-in-2024-activity-7148584316053127169-YJF8",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-09T00:00:00Z"
+  }
+}

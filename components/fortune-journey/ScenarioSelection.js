@@ -10,6 +10,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import { motion, AnimatePresence } from 'framer-motion';
 import personaQuestions from '@/lib/persona_questions.json';
+import { ENABLED_PERSONAS } from '@/lib/event-config';
 import { useAudio } from '@/contexts/AudioContext';
 
 const MAX_SELECTIONS = 2;
@@ -20,7 +21,10 @@ const TRANSITION_VOICE_PATH = '/audio/transition_audio.mp3';
 const TRANSITION_SHIMMER_PATH = '/audio/shimmer-glass.mp3';
 const AVATAR_GREETING_AUDIO_PATH = '/audio/6-questions.mp3';
 
-const personaKeys = ['media_owner', 'brand_owner', 'media_agency'];
+const personaKeys = ENABLED_PERSONAS;
+// When only one persona is enabled (e.g. London = Media Owners only), skip the
+// "who are you" picker entirely and go straight to that persona's questions.
+const isSinglePersona = personaKeys.length === 1;
 
 const personaDisplayNames = {
   media_owner: 'Media Owner',
@@ -40,7 +44,7 @@ export default function ScenarioSelection({
   const { audioContext, masterGain, initializeAudio } = useAudio();
   const [init, setInit] = useState(false);
   const [selectedScenarioIds, setSelectedScenarioIds] = useState([]);
-  const [currentPersona, setCurrentPersona] = useState(persona);
+  const [currentPersona, setCurrentPersona] = useState(persona || (isSinglePersona ? personaKeys[0] : null));
   const [error, setError] = useState(null);
 
   const [isTransitionAudioPlaying, setIsTransitionAudioPlaying] = useState(false);
@@ -208,7 +212,7 @@ export default function ScenarioSelection({
   const handleBack = () => {
     setError(null);
     setTransitionAudioError(null);
-    if (currentPersona) {
+    if (currentPersona && !isSinglePersona) {
       setCurrentPersona(null);
       setSelectedScenarioIds([]);
     } else {

@@ -1,0 +1,736 @@
+{
+  "public_identifier": "thibaultleca",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/889713b3665ab8ca72869039a92fdf3c",
+  "background_cover_image_url": null,
+  "first_name": "Thibault",
+  "last_name": "Leca",
+  "full_name": "Thibault Leca",
+  "follower_count": 623,
+  "occupation": "Managing Director at MEDIAKEYS",
+  "headline": "Managing Director at Mediakeys",
+  "summary": null,
+  "location_str": "France",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Levallois-Perret, Île-de-France, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "International Account Director",
+      "description": null,
+      "location": "Levallois-Perret, Île-de-France, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "UK Account Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "International Account Manager",
+      "description": null,
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2016
+      },
+      "company": "MEDIAKEYS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediakeys-international",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Account Manager",
+      "description": null,
+      "location": "Rueil-Malmaison, Île-de-France, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7151b346a420987c2ce0ac8ecc47d813"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "RCI Bank and Services",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rcibs",
+      "company_facebook_profile_url": null,
+      "title": "Accounting and Finance Project Assistant",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/39eaf47d06e347784905e1171bff8883"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Emirates NBD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/emirates-nbd",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Financial Analyst",
+      "description": null,
+      "location": "Dubai",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/63ed6d7e5b6d203990e129438741c1dc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2008
+      },
+      "company": "Ginalfi Finance",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Accountant Analyst",
+      "description": null,
+      "location": "Paris Area, France",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": "Master's degree",
+      "school": "Grenoble Ecole de Management",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "field_of_study": null,
+      "degree_name": "Bachelor of Science (BSc)",
+      "school": "University of Durham",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": null,
+      "degree_name": "Baccalauréat",
+      "school": "Lycée Français Charles de Gaulle",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "French",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "title": "Chineur de Sons",
+      "description": "Creation d'un blog musical avec un réseau d'amis fan de musique. En quelques mois le projet Chineur de Sons a atteint: - plus de 2000 Fans sur Facebook et une communauté fidèle en pleine croissance - plus de 600 visiteurs uniques par jour - le site continue sa croissance rapide et offre des perspectives de developpement intéressantes dans le secteur musical",
+      "url": "http://www.chineurdesons.com/"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/adelyanabiullina",
+      "name": "Adelya Nabiullina",
+      "summary": "International Account Manager chez MEDIAKEYS",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoinevillalard",
+      "name": "Antoine VILLALARD",
+      "summary": "Print Consumer marketing",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kwilleme",
+      "name": "Kevin WILLEME",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marionfanjat",
+      "name": "Marion Fanjat",
+      "summary": "Deputy Head - Department of Strategy & Partnership",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dati-c",
+      "name": "Dati C.",
+      "summary": "Chief Business Officer @ Redberry",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mantesso",
+      "name": "Fabio Mantesso",
+      "summary": "Développeur Full Stack",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maximedelaby",
+      "name": "Maxime Delaby",
+      "summary": "Brand Partner activation - Senior Manager",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mame-t%25C3%25A9n%25C3%25A9e-diouf",
+      "name": "Mame Ténée Diouf",
+      "summary": "Account Director at BETC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chu-w-877326193",
+      "name": "Chu W.",
+      "summary": "Digital Marketer | SEA | performance marketing | SEO",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/celinepierson",
+      "name": "Céline PIERSON",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-perez5",
+      "name": "Linda Perez",
+      "summary": "Senior Account Manager at BeeCee",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/oluwabukola-popoola",
+      "name": "Oluwabukola POPOOLA",
+      "summary": "SEA Digital Analyst  | Freelance English<> French Translator",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-schwab-revah-b24368a8",
+      "name": "Laura Schwab Revah",
+      "summary": "Sr Key Account Manager @Alan",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justin-price-097a66aa",
+      "name": "Justin Price",
+      "summary": "Focus Media UK Ltd are a full service advertising agency, established for over 20 years. We specialise in OOH/Outdoor advertising campaigns across all industries, with a large market share in the education sector.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chu-aria-w-877326193",
+      "name": "Chu (Aria) W.",
+      "summary": "Digital Marketer | SEA | performance marketing | SEO",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ma%25C3%25BFlis-bohbot-38b059b6",
+      "name": "Maÿlis Bohbot",
+      "summary": "Senior Project Manager - EN/SP/FR",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florentlevesque-activation-marketing",
+      "name": "Florent Lévesque",
+      "summary": "Senior Account Director @tms France en charge des activations Famille McDonald’s | Marketing | Licencing & Partenariats",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-endara-396395214",
+      "name": "Joshua Endara",
+      "summary": "Tecnico Helpdesk | Presso Gruppo FOS",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gauthier-d-a46b72190",
+      "name": "Gauthier D.",
+      "summary": "Primatice Conseil | Strategic Communications | KCL",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoine-barrailler",
+      "name": "Antoine Barrailler",
+      "summary": "Directeur Brand Content MEDIAKEYS CREATIVE - communication éditoriale & nudge - Rennes / Paris",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/b%25C3%25A9r%25C3%25A9nice-lauras-178721aa",
+      "name": "Bérénice Lauras",
+      "summary": "International Development- relevanC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rapha%25C3%25ABl-meganck-2712a818a",
+      "name": "Raphaël Meganck",
+      "summary": "Head of Business IT at Ladbrokes.be",
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisachierico",
+      "name": "Elisa Chierico",
+      "summary": "𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿 presso Mediakeys Italia▶️ Adv campaign: 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 & 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nina-amratlal-pattani-b855ab2",
+      "name": "Nina Amratlal Pattani",
+      "summary": "Roadshow & Event Manager",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-lavin-a6556217",
+      "name": "Alexandra Lavin",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-sophie-boniface-0a001922",
+      "name": "Anne-Sophie Boniface",
+      "summary": "MEDIAKEYS•2K followers",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-cahierre-b5a48625",
+      "name": "Paul Cahierre",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/audrey-berthet-b1111036",
+      "name": "Audrey Berthet",
+      "summary": "Senior International Account Director",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-collings-b4967536",
+      "name": "Adam Collings",
+      "summary": "president at Adam Collings Enterprises, Inc.",
+      "location": "San Clemente"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maevadelamarche",
+      "name": "Maeva Delamarche",
+      "summary": "Senior Account Manager at Falcon.io",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/harry-denton-16034058",
+      "name": "Harry Denton",
+      "summary": null,
+      "location": "Bromley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuel-perianez-b5bb2663",
+      "name": "Emmanuel PERIANEZ",
+      "summary": "Account Manager",
+      "location": "Nice metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-berte-28a28865",
+      "name": "Alexandre Berte",
+      "summary": "Client Solutions Manager - Gaming - TikTok",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanguy-cahierre-b7731669",
+      "name": "Tanguy Cahierre",
+      "summary": "Product Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-steyer-5a240969",
+      "name": "Laura Steyer",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hugo-revel-b47a9b70",
+      "name": "Hugo Revel",
+      "summary": "Head of Sales @Technicaps",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-cahierre",
+      "name": "Robin Cahierre",
+      "summary": "Entrepreneur | ex Amazon & Huawei",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-pinke-113bb878",
+      "name": "Barbara Pinke",
+      "summary": "Account Manager at NewBase",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-randon-9565108b",
+      "name": "Alexandre Randon",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-dizy-herrero",
+      "name": "Paula Dizy Herrero",
+      "summary": "Account Director | Driving Data-Driven Acquisition & International Expansion | B2B & B2C Performance Strategy",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-schwab-b24368a8",
+      "name": "Laura Schwab",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/focus-media-price-097a66aa",
+      "name": "Focus Media Price",
+      "summary": "Director at Focus Media",
+      "location": "Basildon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-chamberlain-085173b9",
+      "name": "Kate Chamberlain",
+      "summary": "Fundraising Officer at Dogs Trust",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lise-damour-9bb372bb",
+      "name": "Lise Damour",
+      "summary": "Head of Marketing @Virtuo 🚗",
+      "location": "Lyon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-haeck-5b8240103",
+      "name": "Kevin Haeck",
+      "summary": null,
+      "location": "Brussels"
+    },
+    {
+      "link": "https://www.linkedin.com/in/florian-vinard-89879a115",
+      "name": "Florian Vinard",
+      "summary": "Engine Programmer",
+      "location": "Montpellier"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelly-absyrthe-396a78123",
+      "name": "Nelly ABSYRTHE",
+      "summary": "Freelance en Marketing Digital & Gestion de projet",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/madisson-odru-1b5735134",
+      "name": "Madisson ODRU",
+      "summary": "Adjointe polyvalente aux activités logistiques et événementiels",
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louis-corbic-5ab774135",
+      "name": "Louis Corbic",
+      "summary": "Trésorier chez Sagemcom",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pascal-gantenbein-41904414a",
+      "name": "Pascal Gantenbein",
+      "summary": "Senior Media Trader bei Biggie Switzerland!\n(Programmatic, Social-media & DOOH)",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-wilkins-6a6b74172",
+      "name": "Luke Wilkins",
+      "summary": "--",
+      "location": "Stevenage"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-moysan-a413a4178",
+      "name": "Simon Moysan",
+      "summary": "Chef de Projet",
+      "location": "Rennes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-scarfone-302bb5187",
+      "name": "Nicolas Scarfone",
+      "summary": "Assistente responsabile drogheria Esselunga Genova San Benigno",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clementburle",
+      "name": "Clément Burle",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-chamberlain-b689b5199",
+      "name": "Kate Chamberlain",
+      "summary": "Garden Designer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wongsaton-keatsilangkul-0832981a2",
+      "name": "Wongsaton Keatsilangkul",
+      "summary": "Open to work",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-dupuis-bab945201",
+      "name": "Julie Dupuis",
+      "summary": "🚀Digital Marketing ⭐  SEO | SEA | SMO 📢 Inbound Marketing 🧲 Content Creation 📝 Webwriting",
+      "location": "Grenoble"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karim-kili-70a749214",
+      "name": "Karim Kili",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-chardin-317397215",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "A huge milestone for Club Med UK ⛷️❄️ We are delighted to see the incredible momentum behind our next winter (2027) ski sales opening launch, which…",
+      "link": "https://www.linkedin.com/posts/richarddevilla_club-med-claims-8m-record-as-next-winter-activity-7424791368725729280-hd-7",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we had our annual company conference. This years destination; Palma 🌴 A few days away from emails and meeting rooms, spending time…",
+      "link": "https://www.linkedin.com/posts/wearetmrw_last-week-we-had-our-annual-company-conference-activity-7418960612757512192-B8G1",
+      "activity_status": null
+    },
+    {
+      "title": "Been waiting to share this one! A seriously cool brand has just launched in London. STORRD A convenience store that's actually convenient. We…",
+      "link": "https://www.linkedin.com/posts/victoria-gleeson-a6251a123_been-waiting-to-share-this-one-a-seriously-activity-7417509819240218624-wWgl",
+      "activity_status": null
+    },
+    {
+      "title": "I was supposed to do a 2025 wrap up. But we were too busy, then too ill, then I started declaring everything non-essential ‘a January job’ and now…",
+      "link": "https://www.linkedin.com/posts/emily-jeffrey-barrett-98299826_i-was-supposed-to-do-a-2025-wrap-up-but-activity-7415405665885880321-us4p",
+      "activity_status": null
+    },
+    {
+      "title": "What a year for MEDIAKEYS, International agency of the year! This award is more than a trophy; it confirms the direction we’ve taken. For 30 years…",
+      "link": "https://www.linkedin.com/posts/mediakeys-international_mediakeys-agencyoftheyear-internationalagency-activity-7407434551213432832-K5Dm",
+      "activity_status": null
+    },
+    {
+      "title": "Proud moment for all of us at Mediakeys! Being named International Agency of the Year 2025 is a huge win! A massive BRAVO to our global teams and…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_mediakeys-internationalagencyoftheyear-activity-7407463329503318016-7Fqu",
+      "activity_status": null
+    },
+    {
+      "title": "Let's celebrate a festive Christmas lunch with MEDIAKEYS and Arago's teams! 🎄🎉 Gratitude was expressed and secret santa gifts were exchanged in a…",
+      "link": "https://www.linkedin.com/posts/mediakeys-international_oneteamallovertheworld-internationaladvertising-activity-7407072201444697064-0V21",
+      "activity_status": null
+    },
+    {
+      "title": "Really enjoyed speaking at Visa Commercial Day Hungary about new segments in B2B payments! Great discussions with clients and partners on where the…",
+      "link": "https://www.linkedin.com/posts/nicolas-voirin-ab90b09b_visaeurope-visacommercialday-b2bpayments-activity-7400198443060846592-O1Sr",
+      "activity_status": null
+    },
+    {
+      "title": "It's always with a heavy heart that I leave a Mediakeys office. What a joy it was to spend the last 10 days of my Asian tour in Japan visiting our…",
+      "link": "https://www.linkedin.com/posts/paul-cahierre-b5a48625_its-always-with-a-heavy-heart-that-i-leave-activity-7396445391954743296-EBxs",
+      "activity_status": null
+    },
+    {
+      "title": "I was very honored to be invited by the Cabinet Office, Government of Japan to participate in the Japan Sui Collection at the Kyoto State Guest House…",
+      "link": "https://www.linkedin.com/posts/paul-cahierre-b5a48625_i-was-very-honored-to-be-invited-by-the-cabinet-activity-7396069723056050176-zpSk",
+      "activity_status": null
+    },
+    {
+      "title": "Fantatic days in Seoul at the Apac World OOH Congress with Mediakeys team members coming from the Tokyo, Seoul, Beijing and Bangkok offices.",
+      "link": "https://www.linkedin.com/posts/paul-cahierre-b5a48625_fantatic-days-in-seoul-at-the-apac-world-activity-7392419890873184256-SrnB",
+      "activity_status": null
+    },
+    {
+      "title": "Always good to spend time in Beijing with rhe fantastic Mediakeys China team.",
+      "link": "https://www.linkedin.com/posts/paul-cahierre-b5a48625_always-good-to-spend-time-in-beijing-with-activity-7391689876926201856-OWaE",
+      "activity_status": null
+    },
+    {
+      "title": "As we accelerate our growth in the UK, we're thrilled to officially join forces with the Pimento network! Looking forward to the opportunities this…",
+      "link": "https://www.linkedin.com/posts/thibaultleca_as-we-accelerate-our-growth-in-the-uk-were-activity-7435613794514595840-FHhq",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Thibault LECA",
+      "link": "https://fr.linkedin.com/in/thibault-leca-ba8b32119",
+      "summary": "Chargé de Projet / Chef de Travaux- Oil & Gas et Power",
+      "location": "Aix-en-Provence"
+    },
+    {
+      "name": "THIBAULT 😉🎓 LECA",
+      "link": "https://fr.linkedin.com/in/thibault-😉🎓-leca-1735b7159",
+      "summary": "Étudiant(e) (Université de Picardie Jules Verne (UPJV))",
+      "location": "Amiens"
+    },
+    {
+      "name": "Thibault Leca",
+      "link": "https://uk.linkedin.com/in/thibault-leca-65a33744",
+      "summary": "Vice President - Structured Credit Trader at Citi",
+      "location": "Royaume-Uni"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-04T00:00:00Z"
+  }
+}

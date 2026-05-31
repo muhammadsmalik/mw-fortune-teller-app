@@ -1,0 +1,925 @@
+{
+  "public_identifier": "glen-wilson-b5b94015",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/0bbb47587b87f6d30d622b11997b0009",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/b9ce5b6d62be9d5230d9ffc2797d2534",
+  "first_name": "Glen",
+  "last_name": "Wilson",
+  "full_name": "Glen Wilson",
+  "follower_count": 1103,
+  "occupation": "Partner at www.oohcapital.com",
+  "headline": "Advisor | Innovator | Digital transformation | Growth strategies | High performance teams",
+  "summary": "Experienced and high-profile business leader and innovator, specialising in the Out-of-Home media sector. Motivated by the business transformation opportunity for digital, data and content in marketing communications. Skilled in building high performance teams. Accomplished public speaker, communicator and respected industry commentator.<br>Prior Route (OOH industry audience currency) Board member, 7 years a speaker/judge at the AA Media Business Course, NABS Stranger Than Summer organising committee.",
+  "location_str": "Greater London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "www.oohcapital.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oohcapital",
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": "At OOH Capital, we help a wide range of clients, from cities and municipalities to brands and businesses, realise  value from the limitless potential of OOH media.\n\nWe are comprehensive in capability, international in reach, and extensive in expertise. An enviable blend of skills. From assessment and evaluation, through to strategy, deployment and delivery, OOH Capital is the complete partner.",
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8e016ccd2b6a66c678416a11d9fb6a56"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Outsider Communications",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outsider-communications",
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": "Is an advisory business predicated on over thirty years operational experience in the global Out-Of-Home media and location intelligence sector.\n\nWe offer services across a range of market segments;\n\nAdvertisers - Planning and buying OOH media, experiential activations & special builds, campaign measurement, delivery and evaluation. OOH RFI’s and tenders. Location data & technology strategy\n\nMedia Agencies - OOH optimisation, RFI’s and tenders. OOH technology and location data strategy.\n\nLandlords - Assessment, valuation and go to market strategy for physical property assets.\n\nTechnology Providers - Market analysis and growth strategy.\n\nInvestors - Market analysis, interpretation and forecasting.",
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/60972cf41f87695698e41a24f0d7691a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2022
+      },
+      "company": "Self-employed",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Independent Marketing Communications Specialist",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "dentsu",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Group Managing Director - OOH",
+      "description": "Posterscope | PSI Advertising | Liveposter | Open Outdoor\n\nPosterscope is the world’s leading location-based marketing specialist. We have a deep understanding of what people think, feel and do out of the home, making us experts in reaching and influencing audiences in the physical world. We combine insight, data, technology, capabilities and people to create compelling, creative and quantifiable solutions which make a meaningful difference to businesses and brands.\n\nPSI is the international division of Posterscope, part of a global network of 47 offices in 33 countries working in collaboration to deliver the best location-based marketing solutions on behalf of our clients.\n\nLiveposter are world leaders in Dynamic Digital OOH. We give brands and agencies the opportunity to maximise the full potential of Dynamic DOOH and create award-winning campaigns that can change depending on the moments that matter in the real world.\n\nOpen Outdoor is the leading UK OOH specialist working with independent media agencies and direct clients.",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2020
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "Client Services Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "www.oohcapital.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oohcapital",
+      "company_facebook_profile_url": null,
+      "title": "Associate Partner",
+      "description": "At OOH Capital, we help a wide range of clients, from cities and municipalities to brands and businesses, realise  value from the limitless potential of OOH media. We are comprehensive in capability, international in reach, and extensive in expertise. An enviable blend of skills. From assessment and evaluation, through to strategy, deployment and delivery, OOH Capital is the complete partner.",
+      "location": "London Area, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2021
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Mini MBA",
+      "school": "Marketing Week Mini MBA with Mark Ritson",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/minimba",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/974cc34a0433eb3e089f25f90645423c",
+      "grade": "A",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "BSc. (Hons) Physical Sciences and Scientific Computing",
+      "school": "London South Bank University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/lsbu",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c9e5749d50ff1a7ef07d8d535dd00847",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Tesco Retail Media Certified",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Tesco Media and Insight Platform",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Executive Program",
+      "license_number": "credential",
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.credly.com/badges/0d2bbf96-3f57-44e3-a5c2-e28a1ffd1570/public_url"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "TV Masters",
+      "license_number": "muqsk6ktmr",
+      "display_source": null,
+      "authority": "Thinkbox",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Data-Driven Planning",
+      "license_number": "credential",
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.youracclaim.com/badges/d7bcbfde-420b-4428-9a09-98759a938d21?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Marketing Foundations",
+      "license_number": "credential",
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.youracclaim.com/badges/818d93c4-8de6-4822-8a75-46da97db7516?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Fundamentals of Digital Marketing",
+      "license_number": "DC9 R56 3DL",
+      "display_source": null,
+      "authority": "Google Digital Garage",
+      "url": "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code"
+    }
+  ],
+  "connections": 1067,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/samuel-staniforth1",
+      "name": "Samuel Staniforth",
+      "summary": null,
+      "location": "Croydon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-rymchuk",
+      "name": "Emily Redpath",
+      "summary": null,
+      "location": "Market Weighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bradscottgilbert",
+      "name": "Brad Gilbert",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/themattroach",
+      "name": "Matt Roach",
+      "summary": "Creative Director @ Revolt - purpose & activism agency | Author: Know Your Sh*t & Know Your Baby Poo published by Penguin",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alhutchison",
+      "name": "Al Hutchison",
+      "summary": "Video Producer & Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartlerman",
+      "name": "Stuart Lerman",
+      "summary": "Spotify | ex-Meta | ex-HTC",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessaibbett",
+      "name": "Vanessa Ibbett",
+      "summary": "International Business Director at RapportWW",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevinpaulmurphy",
+      "name": "Kevin Murphy",
+      "summary": "Director, Codi Consulting Group | Growth, Media and New Business Specialist",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigelwaring",
+      "name": "Nigel Waring",
+      "summary": "Chief Operating Officer at Spark Foundry UK",
+      "location": "Hammersmith and Fulham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gedwestonmedia",
+      "name": "Ged Weston",
+      "summary": "Managing Director at Maximus",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hectordewar",
+      "name": "Hector Dewar",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-thompson1990",
+      "name": "Paul Thompson",
+      "summary": "Driving sales and profit for challenger brands. Managing Director at independent media agency, Media Performance.",
+      "location": "Slaithwaite"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glennwilson01",
+      "name": "Glenn Wilson, M.S., CISSP",
+      "summary": "Security Management and Operations Assessor at Federal Government",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-enders-cbe-3362264",
+      "name": "Claire Enders, CBE",
+      "summary": "CEO@ Enders Analysis | Strategic Business Insights in Telecoms, Media & Technology",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raldiss",
+      "name": "Richard Aldiss",
+      "summary": "Managing Director. A strategic marketing and communications expert, helping brands and businesses grow.IPA Chair for England & Wales | MPA Board Member",
+      "location": "Macclesfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-stubberfield-a22a28297",
+      "name": "Amy Stubberfield",
+      "summary": "Credit controller and financial manager at THE WINDOW & DOOR WAREHOUSE LIMITED",
+      "location": "Gillingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leemabey",
+      "name": "Lee Mabey (MBA)",
+      "summary": "Award-Winning Media Leader | Public Speaker | MBA | Driving Growth, Innovation & Inclusion Across Global Brands | Expert in Cross-Platform Strategy, Client Partnerships & Commercial Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/penny-took",
+      "name": "Penny Took",
+      "summary": "CEO at Total Media Connect, Birmingham",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-burgess-%25F0%259F%2598%258E-41b32420",
+      "name": "Steve Burgess 😎",
+      "summary": "Owner of Wyse Media (UK) Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steph-sharland-cipp-e-6342a329",
+      "name": "Steph Sharland CIPP/E",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oohmedia",
+      "name": "Benjamin Milne",
+      "summary": "Chief Executive Officer - APAC at billups | Strategic Leader in Media and Advertising",
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinosaw",
+      "name": "Dino Myers-Lamptey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-enders-3362264",
+      "name": "Claire Enders",
+      "summary": "Founder, Enders Analysis",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bridget-moore-224a9b5",
+      "name": "Bridget Moore",
+      "summary": "Founder at Alchemy Media",
+      "location": "Harrogate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-stroh-6b4ba86",
+      "name": "Oliver Stroh",
+      "summary": "Chief Development Officer EMEA at OMD EMEA",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-parker-8383467",
+      "name": "Nick Parker",
+      "summary": "Founder Go2OOH Consultancy Ltd. NED, Chair VIOOH, Global President Veridooh, Former Global COO Kinetic Worldwide - Global OOH Advocate",
+      "location": "Esher"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-barrett-10b1339",
+      "name": "David Barrett",
+      "summary": "Finance Director at PSI Advertising Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-mcewan-8b8084a",
+      "name": "James McEwan",
+      "summary": "Founding CEO for Billups EMEA, reinventing OOH for the performance age. Former senior global posts across: Dentsu, IPG and Publicis, plus launch COO behind Outernet's trailblazing media / entertainment platform",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bob-wootton-46092ba",
+      "name": "Bob Wootton",
+      "summary": "Advertising & media consulting; expert contributor to The Media Leader; Guitarist & Connoisseur; Pro guitarist, technician, teacher; Presenter, YouTube's Guitar Show, Bob & Ramon Show & Rockbeareguitars",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liam-mckenna-825289b",
+      "name": "Liam McKenna",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/felicity-long-930396b",
+      "name": "felicity long",
+      "summary": "Partner @ Bain & Company | IPA Woman of Tomorrow",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alisondebono",
+      "name": "Alison Debono",
+      "summary": null,
+      "location": "Cardiff"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruce-oom-03156812",
+      "name": "Bruce Oom",
+      "summary": "Secure Creation helps you and your team reach the goals that mattter by building  safety and connection  in your nervous system,  activating creative energy, and stabilising meaningful success through relationship",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-hutchison-711b2612",
+      "name": "Stephen Hutchison",
+      "summary": "Senior Commercial Sports Marketer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-kane-93258613",
+      "name": "Hannah Kane",
+      "summary": "Journalist, Editor, Author, Lecturer. Fashion Marketing Communications and Brand Strategist.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gill-huber-95993814",
+      "name": "Gill Huber",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meghan-ridsdale-b567a815",
+      "name": "Meghan Ridsdale",
+      "summary": "Claire Randall Ltd.•481 followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alistair-lines-a0a06616",
+      "name": "Alistair Lines",
+      "summary": "Managing Partner at Canary Wharf Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-rapley-79a7bb16",
+      "name": "Phil Rapley",
+      "summary": "M.D. Mojo Media Norfolk Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-eagle-6522451a",
+      "name": "Vanessa Eagle",
+      "summary": "Head of Investment | Partner, Growth & Client Leadership",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-rickard-6053221a",
+      "name": "Annie Rickard",
+      "summary": "Managing Partner at OOH Capital and Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cdjamesnorth",
+      "name": "James North",
+      "summary": "Creative Director / Head of Copy / Creative / Writer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikki-pinfold-30143021",
+      "name": "Nikki Pinfold",
+      "summary": "Head of Partnerships",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-harvey-11857722",
+      "name": "Caroline Harvey",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrystel-adams-2b726125",
+      "name": "Chrystel ADAMS",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzy-hughes-29654026",
+      "name": "Suzy Hughes",
+      "summary": "Director at Space, an independent creative company for brands ambitious to go beyond convention.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-mcdonald-90170a2a",
+      "name": "Rachel McDonald",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-slade-edmondson-pg-dip-idm-82896338",
+      "name": "Emma Slade Edmondson (PG Dip IDM)",
+      "summary": "Co-Founder, Strategy Director at Good Form |Author of The Half Of It | Producer & Co-Host of Mixed Up podcast|Forbes 100 Environmentalist| TEDx Professional Speaker & Host| Award Winning Podcast Producer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brendan-conboy-58962939",
+      "name": "Brendan Conboy",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brendan-conboy-9668753a",
+      "name": "brendan conboy",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-ryden-8b614050",
+      "name": "Alexander Ryden",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-withers-44aa8650",
+      "name": "James Withers",
+      "summary": "Head of Agency Sales at Abode",
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-halas-09676590",
+      "name": "Nicholas Halas",
+      "summary": "Head of Commercial Solutions; Global Amplifi",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-shires-a2a47292",
+      "name": "Luke Shires",
+      "summary": null,
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameo-taddoni-cfe-41aaa993",
+      "name": "Cameo Taddoni, CFE",
+      "summary": "Accounting Manager at Nusenda Credit Union",
+      "location": "Albuquerque"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neil-eddleston",
+      "name": "Neil Eddleston",
+      "summary": null,
+      "location": "Wantage"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-pellett-2508a8b6",
+      "name": "Richard Pellett",
+      "summary": "Display systems Engineer at Rockwell Collins",
+      "location": "Burgess Hill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-creber-43b456104",
+      "name": "Mark Creber",
+      "summary": "Horticulturalist",
+      "location": "Maidenhead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-james-b82977106",
+      "name": "Helen James",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-connolly-176638129",
+      "name": "nick connolly",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-connelly-6ba6a3136",
+      "name": "nick connelly",
+      "summary": "Hello",
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-connolly-79423a14b",
+      "name": "Nicholas Connolly",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-connolly-87509b163",
+      "name": "Nicholas Connolly",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/antony-fernando-b950671a1",
+      "name": "Antony Fernando",
+      "summary": "Self employed",
+      "location": "Ilford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elaine-wylie-469bb61a1",
+      "name": "Elaine Wylie",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sunghee-kim-cruz-75b544201",
+      "name": "Sunghee Kim Cruz",
+      "summary": "Assurance Associate at PwC",
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigel-swain-567a24204",
+      "name": "Nigel Swain",
+      "summary": "--",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-connelly-156b24215",
+      "name": "Nicolas Connelly",
+      "summary": "Environmental Engineer",
+      "location": "Dartmouth"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "With thanks to MediaCat UK  for being so receptive to a response article and with impeccable timing given the gentle stroking of the Meta…",
+      "link": "https://www.linkedin.com/posts/lindseyclay1_what-were-criticising-when-we-criticise-activity-7425477611532988416-ML8r",
+      "activity_status": null
+    },
+    {
+      "title": "..I walked past this to meet my wife who’d secured ( somehow!!) a table at the Devonshire behind Piccadilly apx 6pm Monday, she was 15 minutes late…",
+      "link": "https://www.linkedin.com/posts/timbleakley_i-walked-past-this-to-meet-my-wife-who-activity-7425599559885582336-ZWIX",
+      "activity_status": null
+    },
+    {
+      "title": "Just checking The Media Leader UK blog to see how LEAD is going....",
+      "link": "https://www.linkedin.com/posts/drwilding_just-checking-the-media-leader-uk-blog-to-activity-7425187145692282880-B3US",
+      "activity_status": null
+    },
+    {
+      "title": "We’re thrilled to share that William Reed has appointed Richard Sexton as our new Chief Operating Officer – a pivotal step in our ongoing…",
+      "link": "https://www.linkedin.com/posts/william-reed-ltd_william-reed-appoints-richard-sexton-as-chief-activity-7422621906664681474-JDJq",
+      "activity_status": null
+    },
+    {
+      "title": "Lots and lots to like about the Heineken 0.0 Bakerloo line takeover thing (saw it in the wild for the first time today) I like that it strikes a…",
+      "link": "https://www.linkedin.com/posts/drwilding_lots-and-lots-to-like-about-the-heineken-activity-7422743408773087232-mweG",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks for all the dozens of messages about Mark Carney’s speech. 😂Here’s my analysis. Sorry it’s a bit late. Life’s busy! Anyway, I got up extra…",
+      "link": "https://www.linkedin.com/posts/simon-lancaster-speechwriter_thanks-for-all-the-dozens-of-messages-about-activity-7421161281463939072-mv-D",
+      "activity_status": null
+    },
+    {
+      "title": "Full EU access is back baby. As a British citizen of Greek Cypriot descent, today marks a meaningful moment for me. I’ve just received my Cypriot…",
+      "link": "https://www.linkedin.com/posts/theodorou_identity-belonging-heritage-activity-7421495094308032512-JBVu",
+      "activity_status": null
+    },
+    {
+      "title": "For 15 years hospitals have been like a second home and office at times. As a parent to two children with complex needs — one physical, the other…",
+      "link": "https://www.linkedin.com/posts/roy-shepherd-90086122_for-15-years-hospitals-have-been-like-a-second-activity-7420380241581346816-1jSu",
+      "activity_status": null
+    },
+    {
+      "title": "Really happy to share my new role as Group COO at KMJ Entertainment - its been wonderful working on strategy with the senior team, and I am thrilled…",
+      "link": "https://www.linkedin.com/posts/joquillan_really-happy-to-share-my-new-role-as-group-activity-7420082542499758080-kNhf",
+      "activity_status": null
+    },
+    {
+      "title": "I don’t know where I’m going from here, David Bowie once said. But I promise it won’t be boring. A lot of people right now don’t know where…",
+      "link": "https://www.linkedin.com/posts/mark-edwards-best-story-bowie-and-belonging_i-dont-know-where-im-going-from-here-activity-7420042877709492225-lUCn",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to working with the Team Ozone | The Audience Connection Platform Dipti PatelBryan ScottDamon Reeve",
+      "link": "https://www.linkedin.com/posts/naren-patel_really-looking-forward-to-working-with-the-activity-7419800521647038464-NR7z",
+      "activity_status": null
+    },
+    {
+      "title": "We're delighted to announce our strategic partnership with UniLED Software to strengthen transparency and accountability in Digital #OOH campaigns ✨…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_ooh-activity-7419336762155491328-mlSR",
+      "activity_status": null
+    },
+    {
+      "title": "Announcing our UK leadership changes for 2026 - a pivotal and significant investment year for us, with an exceptionally strong portfolio already in…",
+      "link": "https://www.linkedin.com/posts/ocean-outdoor_theartofoutdoor-activity-7417203843127635968-NByP",
+      "activity_status": null
+    },
+    {
+      "title": "In OOH, alongside environment-specific guidelines, there is somewhat a fundamental principle: if you wouldn’t be comfortable seeing it on a…",
+      "link": "https://www.linkedin.com/posts/richard-simkins_in-ooh-alongside-environment-specific-guidelines-activity-7415442564260253696-PLrh",
+      "activity_status": null
+    },
+    {
+      "title": "We are excited to announce that Nigel Clarkson has joined Adwanted UK as Managing Director. Clarkson will take responsibility for driving revenue…",
+      "link": "https://www.linkedin.com/posts/adwanteduk_we-are-excited-to-announce-that-nigel-clarkson-activity-7414969119063580672-fn5p",
+      "activity_status": null
+    },
+    {
+      "title": "Kind endorsement of our belief in the power of media and creative working together from Sir John Hegarty. Media Futures Market.",
+      "link": "https://www.linkedin.com/posts/dangee1_why-accountability-beats-efficiency-in-media-activity-7414737518627069952-SFR1",
+      "activity_status": null
+    },
+    {
+      "title": "Last orders for June 4th!",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_last-orders-for-june-4th-activity-7457394879535443968-sPNl",
+      "activity_status": null
+    },
+    {
+      "title": "OOH ad of the year",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_ooh-ad-of-the-year-activity-7338182654132973569-Y-E0",
+      "activity_status": null
+    },
+    {
+      "title": "That's the way to do it",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_thats-the-way-to-do-it-activity-7315755901481603074-JLIN",
+      "activity_status": null
+    },
+    {
+      "title": "Always enjoy listening to the Uncensored CMO annual roundup with Les Binet and sarah carter (authors of How Not To Plan which should be required…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_always-enjoy-listening-to-the-uncensored-activity-7283075775770034176-MrwI",
+      "activity_status": null
+    },
+    {
+      "title": "For OOH media planners understanding how people move around is critical, particularly post pandemic when many of the behaviours that have remained…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_ooh-transport-activity-7280917663437000705-dki3",
+      "activity_status": null
+    },
+    {
+      "title": "This! https://lnkd.in/e5cF5HQE",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_make-everything-a-poster-activity-7119607799961014272-C9Ty",
+      "activity_status": null
+    },
+    {
+      "title": "Please consider supporting NABS for a measly fiver! Enter the NABS prize draw for just £5 for your chance to win a dream holiday worth £10,000! Play…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_nabs-nabs-prize-draw-activity-7084501008579457025-319n",
+      "activity_status": null
+    },
+    {
+      "title": "Join me at Stranger than Summer for a party with a purpose. Stranger than Summer, @NABS 's fun-filled fundraising gala is coming up on 8 June at the…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_join-me-at-stranger-than-summer-for-a-party-activity-7064174485859377152-qAim",
+      "activity_status": null
+    },
+    {
+      "title": "Hands up if you know what Logan's Run is?....You are my people. Some words I wrote for the Media Leader; http://bit.ly/3FXLe7F",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_the-age-thing-why-doesnt-the-average-ad-activity-7046412900890009600-eybf",
+      "activity_status": null
+    },
+    {
+      "title": "If, like me, you work in or around marketing but have not had any formal marketing training, I'd thoroughly recommend this course. It's basically the…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_mini-mba-in-marketing-activity-6826821965966319616--kyn",
+      "activity_status": null
+    },
+    {
+      "title": "Those year end, future trends presentations...literally all of them...in one place. Thanks Benedict Evans https://lnkd.in/gR2tkusV…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_2022-trends-2021-in-review-activity-6879096807327186944-50Ip",
+      "activity_status": null
+    },
+    {
+      "title": "As a one club man for the majority of my career, a big day today as it’s my last at Posterscope. Over the course of the years I’m truly grateful to…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_as-a-one-club-man-for-the-majority-of-my-activity-6771111669646065664-SLdr",
+      "activity_status": null
+    },
+    {
+      "title": "Great report from the IPA; 'Making Sense: The Commercial Media Landscape', particularly as it includes analysis of the 2020 lockdown. Being…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_making-sense-the-commercial-media-landscape-activity-6765570998319288320-nwbl",
+      "activity_status": null
+    },
+    {
+      "title": "We've talked about OOH audiences being at c.80% of 'normal' volumes, albeit distributed differently, now some new research showing that people feel…",
+      "link": "https://www.linkedin.com/posts/glen-wilson-b5b94015_weve-talked-about-ooh-audiences-being-at-activity-6722429326991638528--vYn",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Glen Wilson",
+      "link": "https://bz.linkedin.com/in/glen-wilson-788351102",
+      "summary": "Managing Director at Bay Trust International Limited",
+      "location": "Belize"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://www.linkedin.com/in/glen-wilson-366768101",
+      "summary": "Athletic Director at Woodstock HS",
+      "location": "Woodstock, IL"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-b0039b63",
+      "summary": "Leader, Projects UK, LIXIL EMENA",
+      "location": "Huddersfield"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://au.linkedin.com/in/glen-wilson-a35646a8",
+      "summary": "Director at CMB Excavations",
+      "location": "Greater Sydney Area"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://au.linkedin.com/in/glenwilson3535",
+      "summary": "Commercial Director - ANZ at ClearTrail Technologies",
+      "location": "Sydney, NS"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-1719b512",
+      "summary": "Director at Enterprise Property Maintenance Ltd",
+      "location": "Greater Brighton and Hove Area"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-a325363b",
+      "summary": "Director at Warwickshire Windows",
+      "location": "Greater Coventry Area"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-3026b2",
+      "summary": null,
+      "location": "London Area, United Kingdom"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-a46616181",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-b16a1b41",
+      "summary": null,
+      "location": "Greater Leeds Area"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-383a6438",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "name": "Glen Wilson",
+      "link": "https://uk.linkedin.com/in/glen-wilson-10220681",
+      "summary": null,
+      "location": "Greater Portsmouth Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-17T00:00:00Z"
+  }
+}

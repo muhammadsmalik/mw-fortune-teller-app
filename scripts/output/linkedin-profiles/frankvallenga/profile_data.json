@@ -1,0 +1,872 @@
+{
+  "public_identifier": "frankvallenga",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/08cfb109ee301de229d03d92d6d96380",
+  "background_cover_image_url": null,
+  "first_name": "Frank",
+  "last_name": "Vallenga",
+  "full_name": "Frank Vallenga",
+  "follower_count": 2961,
+  "occupation": "VP of Sales (SaaS) at Broadsign",
+  "headline": null,
+  "summary": null,
+  "location_str": "Rosmalen, North Brabant, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Rosmalen",
+  "state": "North Brabant",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "VP of Sales (SaaS)",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales EMEA & APAC",
+      "description": null,
+      "location": "Eindhoven Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2020
+      },
+      "company": "Vallenga Sales Consultancy",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": null,
+      "location": "Den Bosch, the Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Sr. Director of Sales EMEA",
+      "description": null,
+      "location": "Eindhoven Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "BroadSign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Director of Sales EMEA",
+      "description": null,
+      "location": "Eindhoven Area, Netherlands",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2015
+      },
+      "company": "AOPEN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aopen",
+      "company_facebook_profile_url": null,
+      "title": "Regional Sales Manager Nordics & UK",
+      "description": null,
+      "location": "'s-hertogenbosch",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/61bc8440dc77049d1fe235b646c7488e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "AOpen Europe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aopen",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager Benelux & UK",
+      "description": null,
+      "location": "'s-Hertogenbosch",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/61bc8440dc77049d1fe235b646c7488e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2011
+      },
+      "company": "The HEINEKEN Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/heineken",
+      "company_facebook_profile_url": null,
+      "title": "Graduation Intern",
+      "description": "As a graduation intern I have conducted research on the profitability of events in the South-East region of the Netherlands. This research was requested by the Heineken Brouwerijen Evenementen Service, abbreviated as HBES, which is a department that provides guidance and necessities for all extraordinary activities within the catering industry.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bddc7ce017f72dbc7e895122ef81a819"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "company": "Warner Bros International Television Production",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wbitvp-hq",
+      "company_facebook_profile_url": null,
+      "title": "Assistent Producer",
+      "description": "As a production intern I have been working on the television program 'Typisch RTL'. I conducted all kinds of organizational activities like; location scouting, arrange necessities for recordings, collecting footage, arranging licenses, create call-sheets, etc. In additionI assisted during shoots on other programs like 'Ik weet wat jij deed' & 'Weten zij veel'",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/55d8015f1943a504d34d0e10d1376916"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "International Media & Entertainment Management",
+      "degree_name": "Bachelor of Business Administration (BBA)",
+      "school": "Breda University of Applied Sciences",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/bredauniversityas",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c0be72161404f28a5dd9520667acd648",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Television production workshop",
+      "degree_name": null,
+      "school": "Northern Arizona University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/northern-arizona-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4fc80d7b2770375c183a44ce71bef238",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Competences, Situational Leadership, Feedback & Communications",
+      "degree_name": null,
+      "school": "Business Office Supply B.V.",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Higher Computer Science",
+      "degree_name": null,
+      "school": "Avans University of Applied Sciences",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/avans-hogeschool",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1246fe2a3bb2c398a26243978823368f",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2934,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/thijsbijleveld",
+      "name": "Thijs Bijleveld",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bartberende",
+      "name": "Bart Berende",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jfranco4",
+      "name": "Jonathan Franco",
+      "summary": "Sales Director @ Broadsign | Retail Media | SAAS | AdTech",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cemalascipinar",
+      "name": "Cemal Ascipinar",
+      "summary": "Account Manager at Evernex",
+      "location": "Duiven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barberbrinkman",
+      "name": "Barber Brinkman",
+      "summary": "Commercial Director @ Real Solutions Haarlem B.V. | Director level, Coaching, Fuel the process of change. Social and Data backup ambassador.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mblijd",
+      "name": "Michel Blijd",
+      "summary": null,
+      "location": "Hengelo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanielindquist",
+      "name": "Melanie L.",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shypoorchian",
+      "name": "Vahid Shypoorchian",
+      "summary": "Business Analyst bij Conxillium Group B.V.",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tbulligan",
+      "name": "Tomaso Bulligan",
+      "summary": "DevOps | Product Management | Strategic Partnerships & Global Growth",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joecotugno",
+      "name": "Giuseppe Cotugno",
+      "summary": "SVP, International Operations at Broadsign",
+      "location": "Starnberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lauruskeijzer",
+      "name": "Laurus Keijzer",
+      "summary": null,
+      "location": "Guadasuar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maartendollevoet",
+      "name": "Maarten Dollevoet",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-hamblin",
+      "name": "Andrew Hamblin",
+      "summary": "Digital Transformation, Automation, Retail Media Screen Networks, D/OOH",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rroques",
+      "name": "Remi Roques",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-zuijdwegt",
+      "name": "Robert Zuijdwegt",
+      "summary": "Stay curious and be humble! | Algemeen directeur @CijferMeester B.V. | Digital savvy",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardmdewolf",
+      "name": "Richard M. de Wolf",
+      "summary": "Bijdragen aan Hoofdtaak 1: het verdedigen van Nederland en bondgenoten",
+      "location": "Amersfoort"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bnkeijzer",
+      "name": "Bart Keijzer",
+      "summary": "Commercial Director at Sensara",
+      "location": "Leiden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-bushby",
+      "name": "Matt Bushby",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willem-jan-brabers",
+      "name": "Willem-Jan Brabers",
+      "summary": "Ik stuur jouw klanten weg (en zorg dat ze vaker terugkomen😀)",
+      "location": "Breda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franckvidal",
+      "name": "Franck Vidal",
+      "summary": "Market Director | Programmatic, DOOH | Marketing, Digital Media, Business Development, CRM | Investor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/engelberts",
+      "name": "Hans Engelberts",
+      "summary": "Partner CFO Services to support your CFO office in operations and transformation.",
+      "location": "Laren"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielparisien",
+      "name": "Daniel Parisien",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivo-bakker-%25F0%259F%259A%2580-07180b20",
+      "name": "Ivo Bakker  🚀",
+      "summary": "Helping companies accelerate their growth by using the #1 cloud ERP Solution",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexiscoulibaly",
+      "name": "Alexis COULIBALY",
+      "summary": "Programmatic Team Lead EMEA @ Broadsign",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hastingsmeghan",
+      "name": "Meghan Hastings, CRHA",
+      "summary": "Vice President of Human Resources at Broadsign",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chadiborghol",
+      "name": "Chadi Borghol",
+      "summary": null,
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/verono16",
+      "name": "Veronica Ong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-sharpe-9995321",
+      "name": "James Sharpe",
+      "summary": null,
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benbroussard",
+      "name": "Ben Broussard",
+      "summary": "Park City Mountain - Group Manager Infrastructure - Field Services",
+      "location": "Park City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-parry-okeden-110b9b3",
+      "name": "Charles Parry-Okeden",
+      "summary": "Founder & Global CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-gerritsen",
+      "name": "Mark Gerritsen",
+      "summary": "Advisor @ Opcharge",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-a-h-de-vries-408b354",
+      "name": "Vincent A.H. de Vries",
+      "summary": "Beschikbaar voor Management Sales & Procurement posities!",
+      "location": "Zeist"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sjoerd-g%25C3%25B6ddeke-17ba145",
+      "name": "Sjoerd Göddeke",
+      "summary": "Chief Executive Officer | Leadinfo",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nielsfloors",
+      "name": "Niels Floors",
+      "summary": null,
+      "location": "Noordwijk-Binnen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/koenvanheese",
+      "name": "Koen van Heese",
+      "summary": "Senior Accountmanager Cyber Security @ NFIR",
+      "location": "Mijdrecht"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericvanderwallen",
+      "name": "Eric van der Wallen",
+      "summary": "Sales Director Broadpeak",
+      "location": "Breda"
+    },
+    {
+      "link": "https://www.linkedin.com/in/burr-smith-b7161010",
+      "name": "Burr Smith",
+      "summary": "Chairman of the Board, President and CEO at Broadsign",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivo-bakker-07180b20",
+      "name": "Ivo Bakker",
+      "summary": "Helping companies accelerate their growth by using the #1 cloud ERP Solution",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adamkahansky",
+      "name": "Adam Kahansky",
+      "summary": "Regional VP, Sales, Canada at Broadsign",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-dolan-jr-30370737",
+      "name": "John Dolan Jr",
+      "summary": "VP,  Revenue and Partnerships, International",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/junaid-shaikh-a5519551",
+      "name": "Junaid Shaikh",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-desabrais",
+      "name": "Maxime Desabrais",
+      "summary": "Senior Account Executive - North America at StackAdapt",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danny-baldoni-21435455",
+      "name": "Danny Baldoni",
+      "summary": "I own the Sales Process",
+      "location": "Vaudreuil-Dorion"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-english-586a10115",
+      "name": "Mike English",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anahid-kouleian-265502118",
+      "name": "Anahid Kouleian",
+      "summary": "Lead Recruiter & Senior HR Partner, Technology @ Broadsign",
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Onno De Looff\n\nFrank is a social skilled person. As a student he was able to open doors and work together with sales, finance and business-analists. That made him not only a good colleague, but it also contributed to worthy outcomes in his Intern Assignment! I can recommend Frank to any HR adviser."
+  ],
+  "activities": [
+    {
+      "title": "🚨\"ADvendio works with 9/25 of the worlds largest retailers (by revenue)\"🚨 It needs updating: 🟡\"ADvendio works with 10 of the worlds 30 largest…",
+      "link": "https://www.linkedin.com/posts/angus-dowie_advendio-works-with-925-of-the-worlds-activity-7310727839345983488-X_cm",
+      "activity_status": null
+    },
+    {
+      "title": "Foster an environment where every team member feels heard and valued. Actively seek diverse perspectives and ideas, as this rich tapestry of insights…",
+      "link": "https://www.linkedin.com/posts/bongumusa-makhathini-a9a96724_foster-an-environment-where-every-team-member-activity-7310724202032959491-22ys",
+      "activity_status": null
+    },
+    {
+      "title": "A dirty little secret in DOOH: No, they won’t just come! Unless you’re in Times Square or another iconic spot, simply putting up digital…",
+      "link": "https://www.linkedin.com/posts/toddrcohen_dooh-ooh-retailmedia-activity-7310676957774417920-aZp1",
+      "activity_status": null
+    },
+    {
+      "title": "Een herinnering van alweer een jaar geleden. Toen ik besloot dat het tijd was om het roer om te gooien. En dat heb ik gedaan. Na de 20.000 stappen…",
+      "link": "https://nl.linkedin.com/posts/lilian-hemmelder-773ba16_een-herinnering-van-alweer-een-jaar-geleden-activity-7310271369827528704-8dpw",
+      "activity_status": null
+    },
+    {
+      "title": "La semana pasada tuve la oportunidad de participar en la convención de Central de Outdoor en la hermosa #Riodejaneiro, agradezco a Fabi Soriano…",
+      "link": "https://es.linkedin.com/posts/joseldelgado_riodejaneiro-ooh-saopaulo-activity-7310254209088606209-hrm3",
+      "activity_status": null
+    },
+    {
+      "title": "Great example of how #DOOH thrives on context — right place, right time, right mindset. Smart, contextual work by DDB Group Australia. McDonald's…",
+      "link": "https://www.linkedin.com/posts/damian-rezner-36309656_dooh-digitalooh-lunchbreak-activity-7310171101970468864-bOet",
+      "activity_status": null
+    },
+    {
+      "title": "We are happy to announce that Wildstone has partnered with Alpha Publicidad Exterior, one of Spain’s most well-known OOH media operators, as part of…",
+      "link": "https://www.linkedin.com/posts/erickip_wildstone-expands-spanish-portfolio-as-local-activity-7309928905031778304-qo48",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks 10 years since I've joined Broadsign. I appreciate all the people and friends I have made along the way, both internally at Broadsign, at…",
+      "link": "https://www.linkedin.com/posts/emmanuelsanders_today-marks-10-years-since-ive-joined-broadsign-activity-7309923605012725761-sWXd",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Friday! The Wildstone Australia team had a busy and productive week, welcoming from the UK, Wildstone CEO and Founder, Damian Cox and CFO…",
+      "link": "https://www.linkedin.com/posts/wildstone-australia_ooh-dooh-outdoormediainfrastructure-activity-7308660456812879872-suKG",
+      "activity_status": null
+    },
+    {
+      "title": "Retail Media: Gold mine or Hype? At Mumbrella's Retail Marketing Summit this week, Cat McGinn led a dynamic discussion on \"pitfalls & power moves of…",
+      "link": "https://www.linkedin.com/posts/rroques_retailmedia-advertising-marketinginnovation-activity-7308369685308157952-VrUY",
+      "activity_status": null
+    },
+    {
+      "title": "Antwerpen staat deze week vol vraagtekens... \"Unlock the next blue.\" Maar nu gonst de stad van nieuwsgierigheid! Onze teaser-campagne in…",
+      "link": "https://nl.linkedin.com/posts/digiads-belgium-50a402321_digiads-dooh-marketing-activity-7308116977120616448-VD2g",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to share that Broadsign has been named one of Montreal’s Top Employers for 2025! 🏆💙 So grateful that I get to play a role in shaping the…",
+      "link": "https://www.linkedin.com/posts/jennifer062491_broadsign-has-been-named-one-of-montreal-activity-7307772463080239105-cEsB",
+      "activity_status": null
+    },
+    {
+      "title": "Enhancing the collective performance of the entire team yields greater long-term benefits than over-relying on individual superstars.",
+      "link": "https://www.linkedin.com/posts/bongumusa-makhathini-a9a96724_enhancing-the-collective-performance-of-the-activity-7316178221874528258-NPz4",
+      "activity_status": null
+    },
+    {
+      "title": "Proud brother moment 🙌 🍕🔥 Wavers x Doughbrik’s Huge congrats to my brother Adam Cohen  David Dobrick, Jerry Bello and the entire Wavers x…",
+      "link": "https://www.linkedin.com/posts/toddrcohen_wavers-daviddobrik-doughbriks-activity-7316472677098049536-aZE0",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to see our latest digital billboard lighting up the M1 North at Corlett Drive Glenhove offramp — right in the heart of Houghton…",
+      "link": "https://www.linkedin.com/posts/lauren-gunn-608ab321_primediaoutdoor-oohadvertising-digitalbillboard-activity-7316458284507381760-IaKn",
+      "activity_status": null
+    },
+    {
+      "title": "AND WE ARE LIVE @ Westfield Hamburg-Überseequartier Honestly, it’s hard to pick the biggest highlight of this week: was it the stunning opening of…",
+      "link": "https://www.linkedin.com/posts/marijana-prtija-45b847141_and-we-are-live-westfield-hamburg-überseequartier-activity-7316377645590458368-LRcs",
+      "activity_status": null
+    },
+    {
+      "title": "One of the strongest crafts to work with at large format D/OOH locations; photography. I like this from New Balance. Nice work Bruno Laroque and…",
+      "link": "https://www.linkedin.com/posts/jesper-albansson-profile_one-of-the-strongest-crafts-to-work-with-activity-7315430123090935808-BNIg",
+      "activity_status": null
+    },
+    {
+      "title": "Sustainability is at the heart of our strategy at DFI Retail Group and an essential part of how we create value for generations to come. As a leading…",
+      "link": "https://www.linkedin.com/posts/scottprice-dfi_people-products-planet-activity-7314868569941364737-AfCZ",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to announce that Multiply Group’s Media Vertical has signed an MoU with @alarabia_ooh to establish a global investment entity in the…",
+      "link": "https://www.linkedin.com/posts/jawad-hassan-25700537_multiplygroup-alarabiaooh-ooh-activity-7313508684628697088-rPcl",
+      "activity_status": null
+    },
+    {
+      "title": "We are proud to announce that Multiply Group’s Media Vertical and Alarabia OOH have signed an MoU to establish a global investment entity in…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_multiplygroup-globalooh-internationalexpansion-activity-7313440851806842881-Jfc1",
+      "activity_status": null
+    },
+    {
+      "title": "A big day for me as I take a step sideways after 7 years as MD of Pixel to become our Sales Director. I requested this change last year, with the…",
+      "link": "https://www.linkedin.com/posts/nikk-smith_a-big-day-for-me-as-i-take-a-step-sideways-activity-7312737475204972544-7lIO",
+      "activity_status": null
+    },
+    {
+      "title": "Digital Out-of-Home is explosief gegroeid. Toch laten 70% van de merken buiten nog te vaak kansen liggen.. Morgen @ Emerce Eday - 16:00 uur - stage…",
+      "link": "https://nl.linkedin.com/posts/mink-zwolsman-92947227_emerce-eday-dooh-activity-7379074879125626880-Eq-o",
+      "activity_status": null
+    },
+    {
+      "title": "A year ago, on October 1, 2024, we launched HiBob at Broadsign! 1️⃣🍾🎂✨ Emily Zukauskas got us started, Federica Cusumano & Megan Martin keep us…",
+      "link": "https://www.linkedin.com/posts/daniela-rousse_implementation-hrisimplementation-hibob-activity-7379171992458907649-xVgW",
+      "activity_status": null
+    },
+    {
+      "title": "Groot nieuws! Vandaag ga ik eindelijk delen waar ik de afgelopen tijd met veel energie aan gewerkt heb: de lancering van Repetive.ai. Repeat less.…",
+      "link": "https://nl.linkedin.com/posts/alexandervaneerden_ai-aiagent-ondernemerschap-activity-7379094868049989632-uS4q",
+      "activity_status": null
+    },
+    {
+      "title": "Na ruim 8 jaar neem ik met een warm gevoel afscheid van Bereik. 💙 In die jaren heb ik mogen meemaken hoe we van een paar digitale billboards zijn…",
+      "link": "https://nl.linkedin.com/posts/lars-klootwijk-63908a14_na-ruim-8-jaar-neem-ik-met-een-warm-gevoel-activity-7378756595666538497-xx18",
+      "activity_status": null
+    },
+    {
+      "title": "Guy Grimmelt: Met Digital Out-of-Home kun je al net zo goed targetten als online Marketing Report doet een serie interviews met bepalende spelers in…",
+      "link": "https://nl.linkedin.com/posts/basvlugt_guy-grimmelt-met-digital-out-of-home-kun-activity-7373275632283172864-c6P1",
+      "activity_status": null
+    },
+    {
+      "title": "Make Impact with Offline & Online Presence! In today’s omnichannel world, brands need to engage audiences across multiple touchpoints for real…",
+      "link": "https://www.linkedin.com/posts/times-one_timesone-timesooh-ooh-activity-7374424036480765952-PKkq",
+      "activity_status": null
+    },
+    {
+      "title": "Das war schön in Köln! Still looking back on all the conversations and energy from DMEXCO: 🤝 Talking with retailers on how Pentaleap  could scale…",
+      "link": "https://www.linkedin.com/posts/emma-helsloot-78767a64_das-war-schön-in-köln-still-looking-back-activity-7377059053740662786-UtT4",
+      "activity_status": null
+    },
+    {
+      "title": "Day #1! Last week, I wrapped up 4 incredible years at Vistar Media, a journey of outstanding professional and personal growth. Today, I’m excited…",
+      "link": "https://www.linkedin.com/posts/franckvidal_retailmedia-marketing-connectedretail-activity-7370615714447032320-qOX7",
+      "activity_status": null
+    },
+    {
+      "title": "A proud moment for all of us at TIMES OOH - A Times Group Company Our CEO, Mr. Narayanaswami Shekhar, has been appointed as the Chairman of IOAA -…",
+      "link": "https://www.linkedin.com/posts/timesooh_proudmoment-thoughtleadership-timesooh-activity-7375781752977543169-rIyY",
+      "activity_status": null
+    },
+    {
+      "title": "Elevision has officially launched its new DOOH network in Dubai Design District (d3), anchored by 10 Front Row large-format screens in the key…",
+      "link": "https://www.linkedin.com/posts/elevision-media_dooh-innovation-ooh-activity-7375793667518918656-kS_U",
+      "activity_status": null
+    },
+    {
+      "title": "𝐖𝐢𝐧𝐤𝐞𝐥𝐜𝐞𝐧𝐭𝐫𝐮𝐦 𝐑𝐢𝐝𝐝𝐞𝐫𝐡𝐨𝐟 𝐜𝐨𝐦𝐩𝐥𝐞𝐞𝐭 𝐯𝐞𝐫𝐧𝐢𝐞𝐮𝐰𝐝 𝐞𝐧 𝐤𝐥𝐚𝐚𝐫 𝐯𝐨𝐨𝐫 𝐝𝐞 𝐆𝐫𝐚𝐧𝐝 𝐎𝐩𝐞𝐧𝐢𝐧𝐠! Na een…",
+      "link": "https://nl.linkedin.com/posts/tag-outdoor_dooh-buitenreclame-marketing-activity-7369310248324583427-Ht11",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats on your launch! Well done!",
+      "link": "https://www.linkedin.com/posts/sarahreintjes_congrats-on-your-launch-well-done-activity-7373717224403943424-IypH",
+      "activity_status": null
+    },
+    {
+      "title": "That's a wrap on this year's DMEXCO - Digital Marketing Expo & Conference in Cologne! We had a fantastic time connecting with everyone who stopped by…",
+      "link": "https://www.linkedin.com/posts/broadsign_thats-a-wrap-on-this-years-dmexco-digital-activity-7374831852437811200-Exy7",
+      "activity_status": null
+    },
+    {
+      "title": "Ocean Outdoor Finland is moving the needle for DOOH in the country. Introducing the Redi ICON. DeepScreen®️compatible.",
+      "link": "https://www.linkedin.com/posts/jesper-albansson-profile_ocean-outdoor-finland-is-moving-the-needle-activity-7374329924469395456-y5KX",
+      "activity_status": null
+    },
+    {
+      "title": "Dear friends and colleagues in Asia, As we prepare to meet in Shenzhen, I would like to share a brief note with you. The theme of this seminar is…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_dear-friends-and-colleagues-in-asia-as-activity-7427145995169378304-3YfQ",
+      "activity_status": null
+    },
+    {
+      "title": "Múlt héten a Broadsign Connect konferenciáján jártunk Barcelonában, ahol rengeteg inspirációt és friss tapasztalatot gyűjtöttünk a programmatic DOOH…",
+      "link": "https://www.linkedin.com/posts/ikoutdoor_ikoutdoor-broadsign-programmaticdooh-activity-7426634269713915905-NGOB",
+      "activity_status": null
+    },
+    {
+      "title": "Volvo EX60 - suoraan kaduilta Outshinen digipinnoille Innovatiivinen brändi vaatii dynaamiset pinnat! Volvo EX60 -sähkökatumaasturi lanseerattiin…",
+      "link": "https://www.linkedin.com/posts/outshineadvertising_volvocarfinland-mediabrandsfinland-initiativefinland-activity-7425425906569121792-0dFw",
+      "activity_status": null
+    },
+    {
+      "title": "That's a wrap on Barcelona! Thank you to everyone at Broadsign and Integrated Systems Europe (ISE) for productive conversations and excellent…",
+      "link": "https://www.linkedin.com/posts/i-mediaooh_ooh-dooh-activity-7425541784182628352-e_Le",
+      "activity_status": null
+    },
+    {
+      "title": "Great to have part of the team on the ground at Broadsign Connect in Barcelona today ☀️ Big thanks to Charles Parry-Okeden, Daniel Wunsch and…",
+      "link": "https://www.linkedin.com/posts/ecndooh_adtech-programmatic-broadsign-activity-7424855642147889153-D5II",
+      "activity_status": null
+    },
+    {
+      "title": "𝗜𝘁’𝘀 𝗮 𝘄𝗿𝗮𝗽, 𝘄𝗵𝗮𝘁 𝗱𝗶𝗱 𝗜 𝘁𝗮𝗸𝗲 𝗮𝘄𝗮𝘆 𝗳𝗿𝗼𝗺 𝗜𝗦𝗘 𝟮𝟬𝟮𝟲? LED, LED, LED... I’ve said it before, and ISE 2026 confirmed it…",
+      "link": "https://www.linkedin.com/posts/ed-van-uffelen-5aa030a_ise2026-ooh-dooh-activity-7425546790084460544-AYUF",
+      "activity_status": null
+    },
+    {
+      "title": "Auf geht’s!",
+      "link": "https://de.linkedin.com/posts/mibusch_auf-gehts-activity-7425897954340818945-lHdT",
+      "activity_status": null
+    },
+    {
+      "title": "Let's go #ISE2026",
+      "link": "https://www.linkedin.com/posts/brianbuckley-ie_ise2026-activity-7424406051527225344-2nsd",
+      "activity_status": null
+    },
+    {
+      "title": "Great experience today at a packed Saudi Media Forum 2026 – Media in a Shaping World. The tech and AI providers at FOMEX were a highlight, with…",
+      "link": "https://www.linkedin.com/posts/henrietta-shakespeare_great-experience-today-at-a-packed-saudi-activity-7424129146135441409-YNKT",
+      "activity_status": null
+    },
+    {
+      "title": "After a short break I’m now looking for an operational/delivery role in OOH, programmatic or similar industries. I was at my last company, I-media…",
+      "link": "https://www.linkedin.com/posts/martyn-perrie-255ab687_after-a-short-break-im-now-looking-for-an-activity-7424129363165581312-A22D",
+      "activity_status": null
+    },
+    {
+      "title": "Like an incredible amount of my LinkedIn network I am (slightly late) on my way to lovely Barcelona and Integrated Systems Europe (ISE) 2026! I…",
+      "link": "https://www.linkedin.com/posts/mats-klevjer-4972104_like-an-incredible-amount-of-my-linkedin-activity-7424127327162286081-N5cI",
+      "activity_status": null
+    },
+    {
+      "title": "We are ready. Ready for ISE 2026. Today, the first group is heading to Barcelona, with many more colleagues joining in the coming days. In total…",
+      "link": "https://www.linkedin.com/posts/ron-haans_we-are-ready-ready-for-ise-2026-today-activity-7424100868867932160-lWOw",
+      "activity_status": null
+    },
+    {
+      "title": "De Out of Home-markt blijft groeien en na bijna zeven jaar bij Global Nederland is het voor mij het juiste moment voor een volgende stap binnen…",
+      "link": "https://nl.linkedin.com/posts/joostschipperijn_de-out-of-home-markt-blijft-groeien-en-na-activity-7424078705465004033-Nq5u",
+      "activity_status": null
+    },
+    {
+      "title": "We are currently looking for 2 agency sales pro's for the Motio team. If you or some legend you know is interested in chatting, please feel free to…",
+      "link": "https://www.linkedin.com/posts/adam-cadwallader-1ba430a_account-director-account-manager-2-roles-activity-7423966629761347585-dA6s",
+      "activity_status": null
+    },
+    {
+      "title": "I have encountered many blockers and had my fair share of challenges during my career. Breaking through barriers and being \"the first,\" \"the…",
+      "link": "https://www.linkedin.com/posts/danwcm_career-inthistogether-designyourcareer-activity-7423018265557372928-zAj5",
+      "activity_status": null
+    },
+    {
+      "title": "Huge news today: Broadsign just acquired Place Exchange! This is a massive \"one plus one equals three\" moment for DOOH, combining our two powerhouses…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_huge-news-today-broadsign-just-acquired-activity-7399353244076118016-t1_k",
+      "activity_status": null
+    },
+    {
+      "title": "⛷️ Broadsign 2025 24h Tremblant Charity Ski Team 🎗️ I’m thrilled to share that Broadsign will once again be hitting the slopes for a good cause!…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_frank-vallenga-24h-tremblant-activity-7384895911640072192-DNcQ",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be heading to Cannes for the Festival of Creativity with the Broadsign team from June 16–20! Looking forward to reconnecting with…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_excited-to-be-heading-to-cannes-for-the-festival-activity-7331285458456297472-IW5M",
+      "activity_status": null
+    },
+    {
+      "title": "An amazing opportunity to join a great company and team!! Feel free to get in touch with the team or reach out to me if you are interested!",
+      "link": "https://www.linkedin.com/posts/frankvallenga_an-amazing-opportunity-to-join-a-great-company-activity-7303769335582343169-SVYG",
+      "activity_status": null
+    },
+    {
+      "title": "I'm thrilled to share that I'll be participating in the 24-hour ski race with the Broadsign team once again to support the fight against childhood…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_im-thrilled-to-share-that-ill-be-participating-activity-7259223431160721408-w0tu",
+      "activity_status": null
+    },
+    {
+      "title": "Looking for someone that is bringing a wealth of HR expertise to organisations seeking positive change and empowerment? With a proven track record of…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_looking-for-someone-that-is-bringing-a-wealth-activity-7171065366096392196-1Yd9",
+      "activity_status": null
+    },
+    {
+      "title": "Last chance to support our team and donate to help us raise funds and awareness for childhood cancer research and the care for children facing this…",
+      "link": "https://www.linkedin.com/posts/frankvallenga_last-chance-to-support-our-team-and-donate-activity-7134872501435670529-mk10",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting new opportunity to join an amazing company and team!",
+      "link": "https://www.linkedin.com/posts/frankvallenga_exciting-new-opportunity-to-join-an-amazing-activity-7187103121930682369-H8Si",
+      "activity_status": null
+    },
+    {
+      "title": "Couldn't make it to ISE, don’t worry! We’ve got you covered. We gathered blogs, videos and podcasts to make you feel like you were on the show floor.",
+      "link": "https://www.linkedin.com/posts/frankvallenga_missed-ise-weve-got-you-covered-activity-6370226602189606912-woVg",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

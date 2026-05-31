@@ -1,0 +1,1313 @@
+{
+  "public_identifier": "simon-wall",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5593cee2619073ded45680b81faf94b1",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/23d2ffc7badc8bc68ba53acfd8f1ae8c",
+  "first_name": "Simon",
+  "last_name": "Wall",
+  "full_name": "Simon Wall",
+  "follower_count": 6082,
+  "occupation": "Group Chief Executive Officer at Glynt",
+  "headline": "Building Africa’s most intelligent media network | Tractor Outdoor | Innovocean | Polygon | BMT | ignis | Mischief Media | AI × DOOH | Founder",
+  "summary": "Simon Wall is the Group CEO and a founding shareholder of The Glynt Group  (formely Tractor Media Holdings)\n\nThe Glynt Group is one of South Africa’s leading independent media groups, specializing in technology-driven media.\n\nPortfolio Companies:\nTractor Outdoor – One of the largest providers of premium DOOH and OOH locations in South Africa.\nPolygon – The largest programmatically enabled DOOH network of non-owned digital screens across multiple venues across Africa \nInnovocean – The exclusive provider of all DOOH and OOH in the V&A Waterfront, Cape Town - the busiest Tourist Destination in Africa \nMischief – Specializing in activations and innovations in OOH environments.\nBMT – Sales, installation, and maintenance of LED screens and networks nationwide.\nIgnis - Building intelligent technology solutions that fuse innovation, data integration and AI to power smarter business growth and home to South Africa's favorite loyalty aggregator app - MyCards...\n\nWith nearly 20 years of experience in marketing and OOH media, Simon is responsible for spotting new business opportunities and driving strategic innovation across varied markets.\n\nA passionate advocate for technology and innovation, Simon brings brands to life through impactful DOOH campaigns. His work spans diverse international markets, including Portugal, Germany, Hong Kong, Dubai, Oman, and the Maldives, giving him unique insight into the global outdoor media landscape. He holds a degree in Politics and Philosophy from the University of Cape Town and a postgraduate diploma in Marketing.",
+  "location_str": "City of Cape Town, Western Cape, South Africa",
+  "country": "ZA",
+  "country_full_name": "South Africa",
+  "city": "Cape Town",
+  "state": "Western Cape",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Glynt",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/glyntgroup",
+      "company_facebook_profile_url": null,
+      "title": "Group Chief Executive Officer",
+      "description": null,
+      "location": "City of Cape Town, Western Cape, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b0b8e209dcfec67e671754367892ad10"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2025
+      },
+      "company": "Tractor Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tractor-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Group Chief Executive Officer",
+      "description": "Currently Group CEO of Tractor Media Holdings – one of the largest independent media companies in South Africa – with a portfolio of companies specializing in DOOH and OOH media and technology-related media services",
+      "location": "Cape Town",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ef5cbf713add4fa0759398983c1a286e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2002
+      },
+      "company": "POP Media",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co Founder",
+      "description": "-\tIdentified and established South Africa’s first mall-focused media sales house and built the company to profitability within six months. Grew to manage the advertising positions in 12 premier shopping malls belonging to Old Mutual, South Africa’s largest property owner and financial services company. Ad revenues were more than doubled in two years.",
+      "location": "Cape Town Area, South Africa",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2002
+      },
+      "company": "Old Mutual Properties",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Concept Engineer",
+      "description": "Business Development",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Marketing",
+      "degree_name": "Marketing Honours",
+      "school": "University of Cape Town",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Politics and Philosphy",
+      "degree_name": "B Soc Sci",
+      "school": "University Of Cape Town",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": null,
+      "degree_name": "Matric",
+      "school": "Hilton College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Afrikaans"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Afrikaans",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "title": "Emirates Vertical Garden",
+      "description": null,
+      "url": "http://tractoroutdoor.com/newsblog/2011/09/26/tractor-outdoor-erects-first-sponsored-vertical-garden-in-south-africa/"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "ends_at": null,
+      "title": "Trustee",
+      "cause": "Children",
+      "company": "Domestic Workers Association Educational Trust",
+      "company_linkedin_profile_url": null,
+      "description": "Appointed trustee for the Domestic Workers Association Educational Trust  - a non profit organization based in Cape Town specializing in Services To Children; Adoption Services; Child Development Centers; Foster Care; Includes Infant Care Centers And Nurseries",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 5008,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/adrianhewlett",
+      "name": "Adrian Hewlett",
+      "summary": "CEO at Sealand Gear",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remidupreez",
+      "name": "Remi Du Preez",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulinep",
+      "name": "Pauline Paradza",
+      "summary": "Managing Director at Zudocode and Global Pacts Distribution",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peterjamesmorgan",
+      "name": "Peter Morgan",
+      "summary": "Director at Schoolscape, Education Consultant",
+      "location": "Stellenbosch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-martin",
+      "name": "Tyron Martin",
+      "summary": "Sales Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tannerrock",
+      "name": "Tanner Rock",
+      "summary": "Commercial Director | Reveel | Innovocean",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willgreen",
+      "name": "Will Green",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jagharrison",
+      "name": "James Harrison",
+      "summary": "COO, Editor in Chief and Data Junkie - IAB MENA",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tebogo-kx-kakurupa-2077002b",
+      "name": "Tebogo Kx. Kakurupa",
+      "summary": "Culture Translator | Culture x Code Podcast Host | Culture Capital Cultivator | Culture Consultant | Art Consultant",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chantelleherbst",
+      "name": "Chantelle Herbst (She/Her/Hers)",
+      "summary": "Digital Strategy & Platform Partnerships | pDOOH | Content Monetisation | IAB SA Branded Content Committee Head",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexiscoulibaly",
+      "name": "Alexis COULIBALY",
+      "summary": "Director of Programmatic Operations EMEA @ Broadsign",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tebogo-kx-2077002b",
+      "name": "Tebogo Kx.",
+      "summary": "Culture Translator | Culture x Code Podcast Host | Culture Capital Cultivator",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annamariapisano",
+      "name": "Anna Maria Pisano",
+      "summary": "Ceo and Executive Director, Global Studio",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/livia-brown-67086346",
+      "name": "Livia Brown",
+      "summary": "OUT-OF-HOME (OOH) MEDIA & MARKETING LEADER\n  | OOH Strategy | Content Marketing | Business Development",
+      "location": "Sechelt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seymone-modak",
+      "name": "Seymone Modak",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewmackayross",
+      "name": "Andrew Ross",
+      "summary": "Group Managing Director at Chaos Theory",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-bicknell-backlite",
+      "name": "James Bicknell",
+      "summary": "Group CEO | Out-of-Home Media Leader | Driving Growth, Innovation & Digital Transformation in DOOH and Programmatic OOH | Led Strategic Acquisition & Global Expansion",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leigh-anne-acquisto-5834696",
+      "name": "Leigh-Anne Acquisto",
+      "summary": "Chief Marketing Officer | Brand Strategy, Customer Experience Design & Growth Marketing",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-de-rooy-6033a08",
+      "name": "Robert de Rooy",
+      "summary": "Attorney and Founder at Creative Contracts (Pty) Ltd",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-bruwer-588361b",
+      "name": "Chris Bruwer",
+      "summary": "Race Director- The Challenge Series Coaching - Runners, Business and Life Coach",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-collet-a2339b11",
+      "name": "Michael Collet",
+      "summary": "Innovator | Digital Media | Tech Entrepreneur |",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shaun-liedtke-30646011",
+      "name": "Shaun Liedtke",
+      "summary": "Director & Co-founder of Signature Capital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjamin-wren-1024ba13",
+      "name": "Benjamin Wren",
+      "summary": "MD & Founder of Area 213 International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ettiene-van-den-berg-cm-sa-43612118",
+      "name": "Ettiene van den Berg CM(SA)",
+      "summary": "Managing Director",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tyron-swanepoel-aab30418",
+      "name": "Tyron Swanepoel",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaco-jansen-91b0821b",
+      "name": "Jaco Jansen",
+      "summary": null,
+      "location": "Krugersdorp"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mali-motsumi-garrido-9b20871b",
+      "name": "Mali Motsumi-Garrido",
+      "summary": "Sales Director",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anne-dearnaley-4015581b",
+      "name": "Anne Dearnaley",
+      "summary": "CEO at PHD South Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gideon-adey-47a98623",
+      "name": "Gideon Adey",
+      "summary": "CEO of GUROOH Ltd",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/whisper-makuni-ganya-9a862024",
+      "name": "Whisper Makuni Ganya",
+      "summary": "Director MTA Marketing",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-stevens-17317325",
+      "name": "Andrew Stevens",
+      "summary": "Innovating Out of Home advertising",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-de-wet-75256628",
+      "name": "Matthew de Wet",
+      "summary": "Chief Executive Officer",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-bint-8785432b",
+      "name": "Robert Bint",
+      "summary": null,
+      "location": "Portsmouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tebogo-kakurupa-2077002b",
+      "name": "Tebogo Kakurupa",
+      "summary": "Creative Entrepreneur | Cultural Director | Content Creator | MarTech Professional",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-botha-61485630",
+      "name": "Chris Botha",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/herman-masebe-82120231",
+      "name": "Herman Masebe",
+      "summary": null,
+      "location": "Polokwane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/siyabonga-magwaza-a8525438",
+      "name": "Siyabonga Magwaza",
+      "summary": null,
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-holst-87215842",
+      "name": "Johan Holst",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-brits-a4025748",
+      "name": "Michael Brits",
+      "summary": "Head of Development | Tractor Outdoor",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9-p-3289b14b",
+      "name": "André P.",
+      "summary": "Managing Director",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benedict-harris-3b132a52",
+      "name": "Benedict Harris",
+      "summary": "Group COO & Shareholder",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lalita-singh-3bb25b58",
+      "name": "Lalita Singh",
+      "summary": "IndabaCommunications",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jodi-simons-739b3961",
+      "name": "Jodi Simons",
+      "summary": "Senior Sales Executive at Tractor Outdoor",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-vincenti-3030336a",
+      "name": "Francesca Vincenti",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mendy-sarchi-78136172",
+      "name": "Mendy Sarchi",
+      "summary": "Director",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nhlanhla-khambule-734a1776",
+      "name": "Nhlanhla Khambule",
+      "summary": "Edinvest Holdings (Pty) Ltd•4K followers",
+      "location": "Durban"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-spies-27386188",
+      "name": "Johan Spies",
+      "summary": "Co-Founder & CEO at BrandHive Technologies",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/activ8-guru-s-4519118b",
+      "name": "Activ8 Guru's",
+      "summary": "Brand Ingenuity",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-wilkinson-07ab6396",
+      "name": "Richard Wilkinson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marina-loubser-2b7102a7",
+      "name": "Marina Loubser",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-young-53211b110",
+      "name": "Ian Young",
+      "summary": "Senior Brand Consultant at BRANDCOLAB",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-lee-read-20ba6615b",
+      "name": "Melissa Lee Read",
+      "summary": "Business Unit Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kim-labuschagne-bb9599179",
+      "name": "Kim Labuschagne",
+      "summary": "Exclusive OOH media owners for V&A Waterfront, Cape Town, South Africa",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abongile-ntayiya-136b1a1a0",
+      "name": "Abongile Ntayiya",
+      "summary": "Programmatic DOOH Specialist",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "SUN INTERNATIONAL TERMINATES ITS…",
+      "link": "https://www.linkedin.com/posts/anthony-norton-46454a157_sun-international-terminates-its-proposed-activity-7346226813238456320-8lhZ",
+      "activity_status": null
+    },
+    {
+      "title": "We are proud to be supplying both…",
+      "link": "https://www.linkedin.com/posts/nick-gluckman-4a6408b5_we-are-proud-to-be-supplying-both-indoor-activity-7353332565602111488-tep0",
+      "activity_status": null
+    },
+    {
+      "title": "If I had $1 for every time I saw an…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_if-i-had-1-for-every-time-i-saw-an-insane-activity-7353069743035092993-Vxoo",
+      "activity_status": null
+    },
+    {
+      "title": "I was sitting at my desk. It was 2023.…",
+      "link": "https://www.linkedin.com/posts/brentlindeque_i-was-sitting-at-my-desk-it-was-2023-activity-7352935929134702592-a2FT",
+      "activity_status": null
+    },
+    {
+      "title": "I had the privilege of spending most of…",
+      "link": "https://www.linkedin.com/posts/seanweldon_i-had-the-privilege-of-spending-most-of-the-activity-7352758393666777088-Xrv0",
+      "activity_status": null
+    },
+    {
+      "title": "South Africans are just built…",
+      "link": "https://www.linkedin.com/posts/herman-singh-b669357_south-africans-are-just-built-different-activity-7352538003325566976-1hBK",
+      "activity_status": null
+    },
+    {
+      "title": "So proud of the SA U 20 rugby team for…",
+      "link": "https://www.linkedin.com/posts/anthony-norton-46454a157_so-proud-of-the-sa-u-20-rugby-team-for-winning-activity-7352444621358010368-OLV0",
+      "activity_status": null
+    },
+    {
+      "title": "When I first began with Outdoor Media…",
+      "link": "https://www.linkedin.com/posts/elizabethmcintyre15_when-i-first-began-with-outdoor-media-association-activity-7343515125720502272-GIZp",
+      "activity_status": null
+    },
+    {
+      "title": "If you havent yet, do vote for this…",
+      "link": "https://www.linkedin.com/posts/kirsty-carlson-27b45665_media-awards-the-most-awards-open-for-voting-activity-7350805168688414722-X0h-",
+      "activity_status": null
+    },
+    {
+      "title": "This month marks a meaningful milestone…",
+      "link": "https://www.linkedin.com/posts/greg-bruwer-30937382_this-month-marks-a-meaningful-milestone-for-activity-7351885778882310144-EbjZ",
+      "activity_status": null
+    },
+    {
+      "title": "Moving my family from Cape Town to…",
+      "link": "https://www.linkedin.com/posts/gordana-mcnamara_moving-my-family-from-cape-town-to-berlin-activity-7351868577387347968-IAiA",
+      "activity_status": null
+    },
+    {
+      "title": "Introducing Ocean col des Aravis ….😉",
+      "link": "https://www.linkedin.com/posts/timbleakley_introducing-ocean-col-des-aravis-activity-7351151211942711296-OEjt",
+      "activity_status": null
+    },
+    {
+      "title": "Little warm up in KL before…",
+      "link": "https://www.linkedin.com/posts/daewonjameskim_little-warm-up-in-kl-before-oacmumbai2025-activity-7351562413894217730-763X",
+      "activity_status": null
+    },
+    {
+      "title": "Scott Gray and I had a fantastic time…",
+      "link": "https://www.linkedin.com/posts/wesley-fredericks_scott-gray-and-i-had-a-fantastic-time-in-activity-7351278063587880964-GhSB",
+      "activity_status": null
+    },
+    {
+      "title": "Why Do Global Brands Struggle In East…",
+      "link": "https://www.linkedin.com/posts/farouk-mark-mukiibi-1ab53b184_why-do-global-brands-struggle-in-east-africa-activity-7350862241988079616-wIgp",
+      "activity_status": null
+    },
+    {
+      "title": "💡 Throwback to May in Malmö Always a…",
+      "link": "https://www.linkedin.com/posts/merelvanderlei_throwback-to-may-in-malmö-always-a-pleasure-activity-7351182166589939712-dyWU",
+      "activity_status": null
+    },
+    {
+      "title": "Local Campaign spotlight; The World’s…",
+      "link": "https://www.linkedin.com/posts/dooh-co-za_castlelager-worldsbiggestbraai-heritageday-activity-7350838678912487424-fQ7r",
+      "activity_status": null
+    },
+    {
+      "title": "Proud doesn’t even begin to cover it! Today we get to share the case study film for South Africa’s first multi media owner collaborative OOH…",
+      "link": "https://www.linkedin.com/posts/simon-wall_proud-doesnt-even-begin-to-cover-it-today-activity-7404868860144996353-gpa-",
+      "activity_status": null
+    },
+    {
+      "title": "Cue the end-of-year wrap-up… 🎬✨ This year in business has been incredibly rewarding. 2025 really said, Let me show you something. Here are my…",
+      "link": "https://www.linkedin.com/posts/chantelleherbst_wrapup2025-work-goals-activity-7404742248246247424-rF81",
+      "activity_status": null
+    },
+    {
+      "title": "After a full year, I'm looking forward to trading the grey UK winter for some Cape Town sunshine! I’ll be heading down to South Africa at the end…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_after-a-full-year-im-looking-forward-to-activity-7404794958186061824-eqI_",
+      "activity_status": null
+    },
+    {
+      "title": "Our end-of-year celebration brought together every business within the Glynt group, a true reflection of the collaboration, hard work and unity that…",
+      "link": "https://www.linkedin.com/posts/glyntgroup_glyntgroup-teamglynt-yearendcelebration-activity-7404445020562624512-BLMy",
+      "activity_status": null
+    },
+    {
+      "title": "There are campaigns… and then there are moments. This was a nation moving together - and a message moving with it. With FNB’s message made for match…",
+      "link": "https://www.linkedin.com/posts/polygon-dooh_dooh-pdooh-wherehumansgather-activity-7404447565884354560-wZps",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH.co.za is proud to unveil the case study film of South Africa’s first-ever multi–media owner collaborative OOH marketing initiative. A campaign…",
+      "link": "https://www.linkedin.com/posts/dooh-co-za_the-og-influencer-case-study-activity-7404399483759026176-EG7Q",
+      "activity_status": null
+    },
+    {
+      "title": "I’m super excited to be serving as a Jury member for Dubai Lynx International Festival of Creativity at #DubaiLynx2026 in Creative Effectiveness &…",
+      "link": "https://www.linkedin.com/posts/jontyfisher_dubailynx2026-dubailynx-menacreativity-activity-7404106010984017920-0Dhf",
+      "activity_status": null
+    },
+    {
+      "title": "Genius.",
+      "link": "https://www.linkedin.com/posts/donpackett_genius-activity-7402691513677316096-aVBU",
+      "activity_status": null
+    },
+    {
+      "title": "2025 Wrapped! Taking inspiration from Spotify, here's my year at MotionAds Wrapped. Driver Payouts: R13 234 955 (Top 0.1% of Doing Something…",
+      "link": "https://www.linkedin.com/posts/jhberkowitz_2025-wrapped-taking-inspiration-from-spotify-activity-7402339948009627649-ErSW",
+      "activity_status": null
+    },
+    {
+      "title": "If it feels like every OOH publisher is suddenly launching an experiential arm… it’s because they are. And for good reason: brands want IRL moments.…",
+      "link": "https://www.linkedin.com/posts/michael-palatnek-058b7b6_if-it-feels-like-every-ooh-publisher-is-suddenly-activity-7402300525905465344-v_up",
+      "activity_status": null
+    },
+    {
+      "title": "Marketing Predictions — throwback cartoon I drew in 2019, in the same vein as my latest post on Decades of Marketing. >>> To sign up for my…",
+      "link": "https://www.linkedin.com/posts/tomfishburne_marketing-cartoon-marketoon-activity-7402361040849866753-tTki",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we spent some quality time together at our end of year PolyConference where we got to talk about the year that was and prepare for the year…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-activity-7401974387698077696-28-J",
+      "activity_status": null
+    },
+    {
+      "title": "I’m excited to share that I’ve joined Convera as VP of Operations. I’ll be working with the full stack of operations teams, and partnering with Ops…",
+      "link": "https://www.linkedin.com/posts/trevor-watson-a9407726_im-excited-to-share-that-ive-joined-convera-activity-7401914935292624896-ITy9",
+      "activity_status": null
+    },
+    {
+      "title": "There’s a new media leadership team in town - Sandra Gordon, Ken Varejes and Chris Hitchings - and they’re determined to reimagine what leadership…",
+      "link": "https://www.linkedin.com/posts/glenda-nevill-770526b_industry-veterans-reimagining-media-leadership-activity-7401595188818722816-j1yB",
+      "activity_status": null
+    },
+    {
+      "title": "We’re proud to share our 2025 wrap-up article, published by Glenda Nevill The Media Online, reflecting on an inspiring year for Beyond the Billboard…",
+      "link": "https://www.linkedin.com/posts/beyond-the-billboard_beyond-the-billboard-wraps-up-an-incredible-activity-7401169749272854528-deOM",
+      "activity_status": null
+    },
+    {
+      "title": "You'd never ask your grandparents how long they kept cattle for, that's because they tried to own cattle throughout their lives. We must do the same…",
+      "link": "https://www.linkedin.com/posts/ray-mhere-5aba922a_unit-trusts-101-how-south-africans-can-choose-activity-7391107510184689664-rD8D",
+      "activity_status": null
+    },
+    {
+      "title": "Golden hour, great company, and a celebration of the year’s standout wins.✨ As a media owner, we’re proud to bring together brilliant minds and…",
+      "link": "https://www.linkedin.com/posts/innovocean-sa_innovocean-vandawaterfront-dooh-activity-7400172671453294592-Q7mm",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we had a beautiful opportunity to work with our partners at Google to educate the South African landscape about #pdooh trading and the…",
+      "link": "https://www.linkedin.com/posts/remidupreez_pdooh-activity-7400111180351963136-Yyd-",
+      "activity_status": null
+    },
+    {
+      "title": "Everyone’s talking about AI replacing jobs. That’s not the interesting part. The interesting part is what happens to the economy after those jobs are…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-ai-layoff-trap-activity-7454790369898033152-rSgR",
+      "activity_status": null
+    },
+    {
+      "title": "Love this new research from OAAA and Winterberry Group! They have just confirmed what we’ve been building toward at The Glynt Group for the past…",
+      "link": "https://www.linkedin.com/posts/simon-wall_dooh-ooh-programmaticdooh-activity-7439972025328316418-LE3y",
+      "activity_status": null
+    },
+    {
+      "title": "The future of media isn’t the channel that reaches the most devices. It’s the one that reaches the most people. The billboard doesn’t lie. It can’t…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-future-of-media-isnt-the-channel-that-activity-7436428924294848512-QAIP",
+      "activity_status": null
+    },
+    {
+      "title": "R500 million committed to technology led growth in South Africa! That is not just a fund. It is a signal. Well done to the Hlayisani Capital team on…",
+      "link": "https://www.linkedin.com/posts/simon-wall_glynt-hlayisani-ai-activity-7434180828546588673--P5p",
+      "activity_status": null
+    },
+    {
+      "title": "Cape Town has the most taxpayers in South Africa. Let that sink in. According to the latest SARS Tax Statistics, Cape Town leads the country with…",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-town-has-the-most-taxpayers-in-south-activity-7431403645436391424-pp74",
+      "activity_status": null
+    },
+    {
+      "title": "The billboard doesn’t just talk. It makes people walk! New data from a recent telco campaign shows DOOH audiences were 45% more likely to visit…",
+      "link": "https://www.linkedin.com/posts/simon-wall_dooh-once-again-proves-itself-highly-effective-activity-7427968545000464384-YPZ4",
+      "activity_status": null
+    },
+    {
+      "title": "December at the V&A Waterfront was nothing short of extraordinary. 3 million visitors. R1.4 billion in sales. A clear reminder that this precinct…",
+      "link": "https://www.linkedin.com/posts/simon-wall_vas-stellar-december-three-million-visitors-activity-7425462330479734784-jG_o",
+      "activity_status": null
+    },
+    {
+      "title": "Feeling bullish about the future of Out of Home going into 2026. This piece captures some of the most important shifts happening right now in how OOH…",
+      "link": "https://www.linkedin.com/posts/simon-wall_five-out-of-home-trends-that-will-define-activity-7422703386057211906-BD2Q",
+      "activity_status": null
+    },
+    {
+      "title": "So good to see South African initiatives getting international attention. Big kudos to the team at DOOH.co.za for the brilliant work promoting our…",
+      "link": "https://www.linkedin.com/posts/simon-wall_ooh-dooh-collaboration-activity-7390004523198730240-IHEL",
+      "activity_status": null
+    },
+    {
+      "title": "When every screen looks the same, no one stands out. At Tractor Outdoor, we chose a different path. Instead of adding to the clutter, we built a…",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractor-unveils-new-premium-cladding-for-activity-7385896140988121088-buED",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to watch this unfold.... https://lnkd.in/dCUG953R",
+      "link": "https://www.linkedin.com/posts/simon-wall_glynt-acquires-store-my-cards-and-launches-activity-7391449844621586432-9xOC",
+      "activity_status": null
+    },
+    {
+      "title": "Progress in Motion: Strengthening South Africa’s OOH Industry Together Following on from our August Indaba, the first planning session was held at…",
+      "link": "https://www.linkedin.com/posts/simon-wall_progress-in-motion-strengthening-south-africa-activity-7384572800243630080-Oxgr",
+      "activity_status": null
+    },
+    {
+      "title": "At Tractor Outdoor, we’re making our sustainability goals tangible. Through one of our group businesses - Billboard Management Technologies We’ve…",
+      "link": "https://www.linkedin.com/posts/simon-wall_sustainability-solarenergy-outofhome-activity-7371502271483801600-44lO",
+      "activity_status": null
+    },
+    {
+      "title": "Cape Town’s Central City is proving itself as one of the most resilient and attractive investment hubs in South Africa! Key highlights from the…",
+      "link": "https://www.linkedin.com/posts/simon-wall_ccid-report-activity-7374425800059736065-eRW5",
+      "activity_status": null
+    },
+    {
+      "title": "Halo Advertising - \"I can see it in your eyes, I can see it in your smile...\" 😊 Spotted on one of our Fourways billboards..... The OG Influencer!",
+      "link": "https://www.linkedin.com/posts/simon-wall_halo-advertising-i-can-see-it-in-your-activity-7379572804922380288-aNTg",
+      "activity_status": null
+    },
+    {
+      "title": "We have built an incredibly strong agency team and are looking to fill a gap that has opened up on the direct sales side of the business... please…",
+      "link": "https://www.linkedin.com/posts/simon-wall_we-have-built-an-incredibly-strong-agency-activity-7369012507916550144-s15l",
+      "activity_status": null
+    },
+    {
+      "title": "The most useful thing i learnt on Linkedin today; Open Whatsapp, and go to; Settings > Chats > Voice message transcripts > Receive transcripts:…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-most-useful-thing-i-learnt-on-linkedin-activity-7362057293829410816-zNmI",
+      "activity_status": null
+    },
+    {
+      "title": "At Glynt, we are always looking to grow and back the right people. We’re proud to celebrate the success of one of our group businesses, Billboard…",
+      "link": "https://www.linkedin.com/posts/simon-wall_dooh-led-outdoormedia-activity-7366007418754842624-0HcK",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday, over 300 people came together to discuss the future of OOH in South Africa. The energy in the room showed one thing clearly: we all want…",
+      "link": "https://www.linkedin.com/posts/simon-wall_oma-outdoor-net-media-revenue-up-18-adnews-activity-7363801608712867840-4Lh4",
+      "activity_status": null
+    },
+    {
+      "title": "Cape Town is officially leading the country’s commercial property market across office, retail and industrial! Tractor Outdoor is by far the largest…",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-town-is-officially-leading-the-country-activity-7356940842416140290-iK3G",
+      "activity_status": null
+    },
+    {
+      "title": "While our sector is showing double-digit growth globally, South Africa is not seeing the same momentum. This isn’t due to a lack of talent or…",
+      "link": "https://www.linkedin.com/posts/simon-wall_while-our-sector-is-showing-double-digit-activity-7358116349522407426-Cj-W",
+      "activity_status": null
+    },
+    {
+      "title": "Right, the dust has settled, the jet lag has abated so its about time I gave my thoughts on World Out of Home Organization in Mexico a few weeks…",
+      "link": "https://www.linkedin.com/posts/simon-wall_right-the-dust-has-settled-the-jet-lag-activity-7341749650762129409-6WN6",
+      "activity_status": null
+    },
+    {
+      "title": "After months and months of planning and strategizing, it’s official! We’ve rebranded Tractor Media Holdings into the Glynt Group. I’ll be stepping…",
+      "link": "https://www.linkedin.com/posts/simon-wall_after-months-and-months-of-planning-and-strategizing-activity-7335218715979833345-J_-L",
+      "activity_status": null
+    },
+    {
+      "title": "It’s that time of year again — the World Out-of-Home Conference kicks off next week. This year, it’s in Mexico City — a first for me! I’m looking…",
+      "link": "https://www.linkedin.com/posts/simon-wall_its-that-time-of-year-again-the-world-activity-7333071275092762624-rMoB",
+      "activity_status": null
+    },
+    {
+      "title": "Nice work Steve Duck 🙌🏼🙌🏼",
+      "link": "https://www.linkedin.com/posts/simon-wall_media-planners-take-note-the-western-cape-activity-7326523459738427392-iAhS",
+      "activity_status": null
+    },
+    {
+      "title": "We’re thrilled to welcome two South African OOH heavyweights to the team – Andile Qokweni and Tessa McGillivray ! With deep experience in the…",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractor-outdoor-strengthens-national-sales-activity-7332828383690567680-eZYR",
+      "activity_status": null
+    },
+    {
+      "title": "Fascinating data from Park Advertising’s 2024 Media Inflation Watch. While most traditional channels are seeing rate hikes far outpacing performance,…",
+      "link": "https://www.linkedin.com/posts/simon-wall_ooh-mediabuying-smartspend-activity-7328390455727902720-ZZWd",
+      "activity_status": null
+    },
+    {
+      "title": "While much of the country experienced steep job losses in Q1:2025, the Western Cape stood out. According to Stats SA, the province added 49,000 jobs…",
+      "link": "https://www.linkedin.com/posts/simon-wall_jobcreation-westerncape-southafrica-activity-7328666496379912192-QhyP",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve said it before, and I’ll say it again: brands are underspending in the Western Cape. This region has one of the most mature, well-regulated…",
+      "link": "https://www.linkedin.com/posts/simon-wall_ive-said-it-before-and-ill-say-it-again-activity-7323669658279002112-XgIu",
+      "activity_status": null
+    },
+    {
+      "title": "It’s been 3 years now working with Innovocean and the V&A Waterfront and this very first animorphic project is still by far one of the best on our…",
+      "link": "https://www.linkedin.com/posts/simon-wall_its-been-3-years-now-working-with-innovocean-activity-7323629323335151616-BK9b",
+      "activity_status": null
+    },
+    {
+      "title": "When we began our journey with the V&A Waterfront almost three years ago, we knew we were stepping into something special. The way the V&A executive…",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-towns-iconic-r25-billion-precinct-is-activity-7305544849569595392-dQ59",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome aboard Steve Duck ! Steve’s extensive knowledge of the media industry, combined with his exceptional sales leadership to drive strategic…",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractor-media-holdings-appoints-steve-duck-activity-7297611737187418113-tltN",
+      "activity_status": null
+    },
+    {
+      "title": "🌍 Cape Town: The Best City in the World! 🌟 What an incredible way to start the year! Cape Town has once again been recognized as the Best City in…",
+      "link": "https://www.linkedin.com/posts/simon-wall_time-out-crowns-the-best-cities-in-the-world-activity-7285516022244118529-sEKG",
+      "activity_status": null
+    },
+    {
+      "title": "Number One Food Destination in the World! Thanks Conde Naste As a passionate Cape Townian nothing gives me greater joy than seeing my home town…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-best-cities-for-food-in-the-world-readers-activity-7255596122717450240-5EKg",
+      "activity_status": null
+    },
+    {
+      "title": "It’s incredible to see how far we’ve come as a business over all these years…. Working alongside such talented and driven colleagues has made every…",
+      "link": "https://www.linkedin.com/posts/simon-wall_its-incredible-to-see-how-far-weve-come-activity-7254072195553894400-Znax",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic interview highlighting Cape Town’s Economic Potential - By our Group Head of Marketing, Ruchelle Mouton explaining why Cape Town and the…",
+      "link": "https://www.linkedin.com/posts/simon-wall_fantastic-interview-highlighting-cape-town-activity-7257117299923402753-5Yts",
+      "activity_status": null
+    },
+    {
+      "title": "Can we please stop with all the Faux Out Of Home Now please… it’s was fun in the beginning but this band-wagon jumping cringe attempts at “out of…",
+      "link": "https://www.linkedin.com/posts/simon-wall_can-we-please-stop-with-all-the-faux-out-activity-7247643692415504384-qi1J",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to welcome Kim Mc Leod to our Tractor Outdoor sales team! Kim joins us as the Head of Programmatic DOOH Sales, underscoring our strong…",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractor-outdoor-appoints-new-dooh-sales-lead-activity-7239582611218542592-HJXj",
+      "activity_status": null
+    },
+    {
+      "title": "Got some new artwork flighting around Cape Town for the upcoming Springbok/All Black game tomorrow!",
+      "link": "https://www.linkedin.com/posts/simon-wall_got-some-new-artwork-flighting-around-cape-activity-7237829990988320770-ptkr",
+      "activity_status": null
+    },
+    {
+      "title": "This is what happens when your design department gets access to Tractor Outdoor in house digital network….. 😂😳😂. Well done Rowan Peterson well…",
+      "link": "https://www.linkedin.com/posts/simon-wall_this-is-what-happens-when-your-design-department-activity-7234558136194408448-Wu59",
+      "activity_status": null
+    },
+    {
+      "title": "I know there are mixed feelings about this, but I for one believe that Cape Town is leading the way when it comes to regulation of signage. This new…",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-towns-new-out-of-home-advertising-by-law-activity-7231525360520093699-BrHW",
+      "activity_status": null
+    },
+    {
+      "title": "Incredibly proud of our team at Tractor Outdoor! In an industry increasingly challenged by illegal billboards, and tenuous reporting at best - we…",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractor-outdoor-introduces-ooh-brand-lift-activity-7224054785040080899-ZWkP",
+      "activity_status": null
+    },
+    {
+      "title": "Bit of a “humblebrag” here! But I am incredibly proud of my wife Manuela Wall who has spent over 10 years building an amazing business that recycles…",
+      "link": "https://www.linkedin.com/posts/simon-wall_bit-of-a-humblebrag-here-but-i-am-incredibly-activity-7221520807577972736-8Mgf",
+      "activity_status": null
+    },
+    {
+      "title": "And just like that, we’ve hit a major milestone—over 40 iconic Road Side Digitals across the country! Our development team has just delivered 7 new…",
+      "link": "https://www.linkedin.com/posts/simon-wall_50in2025-innovation-digitaloutofhome-activity-7269718481913171968-Jzx1",
+      "activity_status": null
+    },
+    {
+      "title": "Cape Town leaves South Africa behind with credit rating upgrade: Moody’s went on to say, “The positive outlook reflects our view that Cape Town’s…",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-town-leaves-south-africa-behind-with-activity-7214971314896310272-SQGd",
+      "activity_status": null
+    },
+    {
+      "title": "📣 Calling All SMEs! 📣 Are you a small or medium enterprise looking for a big break? 🚀 We have an exciting opportunity just for you! Tractor…",
+      "link": "https://www.linkedin.com/posts/simon-wall_sme-launchpad-activity-7214857044246355968-Jkmi",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve always been a “the glass is half full” kinda person… but the current positive news cycle on South Africa fills me with even more optimism….…",
+      "link": "https://www.linkedin.com/posts/simon-wall_jpmorgan-double-upgrades-sa-to-overweight-activity-7208825087356002304-NQn2",
+      "activity_status": null
+    },
+    {
+      "title": "The Oliver Kahn Gantry in 2006 was one of the most stand out installations of that years World Cup, and this great piece by Alexander Michaelsen for…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-oliver-kahn-gantry-in-2006-was-one-of-activity-7210317775913840642-_yuv",
+      "activity_status": null
+    },
+    {
+      "title": "Cape Town infrastructure budget is now 80% bigger than Joburg's, with a massive push into water, sewers https://lnkd.in/dktJPhry",
+      "link": "https://www.linkedin.com/posts/simon-wall_cape-town-infrastructure-budget-is-now-80-activity-7212860260338827266-Ba8N",
+      "activity_status": null
+    },
+    {
+      "title": "In a world full of desperate attempts from brands trying to create big ideas through mediocre FOOH, it’s inspiring to see brands with the courage to…",
+      "link": "https://www.linkedin.com/posts/simon-wall_bringing-formula-1-back-to-south-africa-activity-7260344289413541889-lBZj",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful article on retail media by Ruchelle Mouton Retail media is revolutionizing the marketing landscape! Retail media involves targeting…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-great-rise-of-retail-media-the-media-activity-7211455927940485120-jNlx",
+      "activity_status": null
+    },
+    {
+      "title": "We introduced this innovative concept at Tractor Outdoor some time ago, and it’s been incredible to witness its adoption throughout our portfolio.…",
+      "link": "https://www.linkedin.com/posts/simon-wall_doohshare-15-seconds-of-fame-activity-7187035352946118656-1WEp",
+      "activity_status": null
+    },
+    {
+      "title": "While other municipalities are starting to feel the pinch - \"Cape Town is on track to overtake Johannesburg to become Africa’s wealthiest city by…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-cities-in-south-africa-with-the-most-activity-7188123337997336576-3wMA",
+      "activity_status": null
+    },
+    {
+      "title": "Such an incredible and novel use of space….. I love the fact that, that site has been sitting there forever without anyone really seeing the value in…",
+      "link": "https://www.linkedin.com/posts/simon-wall_such-an-incredible-and-novel-use-of-space-activity-7180274410140954624-LAMo",
+      "activity_status": null
+    },
+    {
+      "title": "I’ll be in Hong Kong in June for the annual World Out of Home Organization conference…. Lots of great meetings lined up and I’m looking forward to…",
+      "link": "https://www.linkedin.com/posts/simon-wall_ill-be-in-hong-kong-in-june-for-the-annual-activity-7198922597399433216-8_zt",
+      "activity_status": null
+    },
+    {
+      "title": "Can’t believe it’s been 2 years already! What an incredible journey with team Innovocean 🚀🚀🚀",
+      "link": "https://www.linkedin.com/posts/simon-wall_cant-believe-its-been-2-years-already-activity-7183920241620508672-qNDr",
+      "activity_status": null
+    },
+    {
+      "title": "Thrilled to be back in one of my favorite cities, Hong Kong, for this year's World Out of Home Organization Global Conference! Kudos to Anna Maria…",
+      "link": "https://www.linkedin.com/posts/simon-wall_wooconference-ooh-innovation-activity-7204691839851880448-CCPj",
+      "activity_status": null
+    },
+    {
+      "title": "Such an awesome use of Innovocean DOOH screens in the V&A Waterfront! Well done adidas 🙌🏼🙌🏼",
+      "link": "https://www.linkedin.com/posts/simon-wall_such-an-awesome-use-of-innovocean-dooh-screens-activity-7186003346401452035-mcf4",
+      "activity_status": null
+    },
+    {
+      "title": "Great article Mali Motsumi-Garrido Digital Out-Of-Home (DOOH) advertising has revolutionized outdoor campaigns with advanced measuring capabilities…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-road-trip-dooh-activity-7200759845514305536-YvYU",
+      "activity_status": null
+    },
+    {
+      "title": "The 2024 Imperva Threat Research report reveals that almost 50% of internet traffic comes from non-human sources. Bad bots, in particular, now…",
+      "link": "https://www.linkedin.com/posts/simon-wall_2024-bad-bot-report-resource-library-activity-7193265406248108032-8kl7",
+      "activity_status": null
+    },
+    {
+      "title": "How do you know Amazon.co.za has launched in South Africa? When this promotion is on the landing page? 😎😂",
+      "link": "https://www.linkedin.com/posts/simon-wall_how-do-you-know-amazoncoza-has-launched-activity-7193503890158317568-KJdv",
+      "activity_status": null
+    },
+    {
+      "title": "The online advertising industry has become a quagmire of overly complicated ad technology and middlemen, and the recent \"Forbesgate\" fiasco, in my…",
+      "link": "https://www.linkedin.com/posts/simon-wall_nick-manning-how-forbesgate-highlights-the-activity-7184162348931170304-tnSQ",
+      "activity_status": null
+    },
+    {
+      "title": "Love this article from Chris Botha and couldn't agree more! The more we get our inventory to look, feel, smell like a digital/online buy - the…",
+      "link": "https://www.linkedin.com/posts/simon-wall_teaching-old-dogs-new-tricks-dooh-activity-7177948358789971968-ibDg",
+      "activity_status": null
+    },
+    {
+      "title": "As the excitement from the World Out of Home Organization Africa Forum subsides, participants have now returned to their daily business routines.…",
+      "link": "https://www.linkedin.com/posts/simon-wall_reflecting-on-the-world-out-of-home-organization-activity-7176916917767585794-g6FD",
+      "activity_status": null
+    },
+    {
+      "title": "The fact that this sentence makes sense is what is wrong with programmatic advertising! \"In programmatic advertising, an RTB system allows DSPs to…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-fact-that-this-sentence-makes-sense-is-activity-7173968696288243714-R7bI",
+      "activity_status": null
+    },
+    {
+      "title": "Today is the day! We are thrilled to be the hosts of the World Out of Home Organization right here in Cape Town! Witnessing the journey from concept…",
+      "link": "https://www.linkedin.com/posts/simon-wall_today-is-the-day-we-are-thrilled-to-be-activity-7172952993170866177-kXxw",
+      "activity_status": null
+    },
+    {
+      "title": "If you are involved in any aspect of advertising, data, or out-of-home media, or if you simply want to be at the cutting edge of new technologies in…",
+      "link": "https://www.linkedin.com/posts/simon-wall_africa-regional-forum-activity-7166305040817762304-lhTT",
+      "activity_status": null
+    },
+    {
+      "title": "It’s an honour and a privilege to work alongside such talented and respected industry leaders! Welcome aboard Mali Motsumi-Garrido and Ruchelle…",
+      "link": "https://www.linkedin.com/posts/simon-wall_mali-motsumi-garrido-and-ruchelle-mouton-activity-7166080151397490688-ULrq",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s do this! Thanks Bob Skinstad",
+      "link": "https://www.linkedin.com/posts/simon-wall_lets-do-this-thanks-bob-skinstad-activity-7159156365762998274-6kzU",
+      "activity_status": null
+    },
+    {
+      "title": "Only 38 days to go! This will be the biggest gathering of DOOH and OOH practitioners on the continent.. There is an amazing curated line up of…",
+      "link": "https://www.linkedin.com/posts/simon-wall_only-38-days-to-go-this-will-be-the-biggest-activity-7158902974889504768-CqDk",
+      "activity_status": null
+    },
+    {
+      "title": "Always great to see passion and support for our sector! Congratulations to Livia Brown for another on-point and topical DOOH.co.za newsletter. It's…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-cool-kids-table-dooh-activity-7157659789731282944-xWVU",
+      "activity_status": null
+    },
+    {
+      "title": "Great company. Great people.",
+      "link": "https://www.linkedin.com/posts/simon-wall_great-company-great-people-activity-7156356786147540992-2JtZ",
+      "activity_status": null
+    },
+    {
+      "title": "Kudos to the Innovocean team for orchestrating an iconic countdown into 2024! This video is indeed worth a thousand words. The V&A Waterfront was…",
+      "link": "https://www.linkedin.com/posts/simon-wall_nye-countdown-innovocean-activity-7152620673536843778-LwNa",
+      "activity_status": null
+    },
+    {
+      "title": "Now you can have your cake and eat it! Toby Shapshak : While you are correct in saying that DIGITAL programmatic advertising is taking hard earned…",
+      "link": "https://www.linkedin.com/posts/simon-wall_programmatic-advertising-is-killing-local-activity-7153994115855101952-D96H",
+      "activity_status": null
+    },
+    {
+      "title": "Really proud of this initiative. We are committed to supporting SME’s as they are the future of this country’s economy…. If you are a small business…",
+      "link": "https://www.linkedin.com/posts/simon-wall_really-proud-of-this-initiative-we-are-activity-7100134099754848257-TL8n",
+      "activity_status": null
+    },
+    {
+      "title": "Waiting for the CHATgpt inspired stories about failure and picking yourself up againâ¦â¦ðð",
+      "link": "https://www.linkedin.com/posts/simon-wall_waiting-for-the-chatgpt-inspired-stories-activity-7142770437041688576-DNhj",
+      "activity_status": null
+    },
+    {
+      "title": "Well done Remi Du Preez, so great seeing what Polygon has achieved in such little time. Tractor Outdoor are proud to be part of this network.. When…",
+      "link": "https://www.linkedin.com/posts/simon-wall_well-done-remi-du-preez-so-great-seeing-activity-7140940970258337792-Nzhm",
+      "activity_status": null
+    },
+    {
+      "title": "THREE NEW ICONIC DIGITALS IN JHB! Sandton, Rosebank and Marlboro all ready for summer ððâï¸âï¸ https://lnkd.in/gTTE_-pZ",
+      "link": "https://www.linkedin.com/posts/simon-wall_all-the-right-sites-in-all-the-right-places-activity-7138100863927029760-Zh1j",
+      "activity_status": null
+    },
+    {
+      "title": "Is it just me? - but itâs so clearly obvious who uses ChatGPT write their postsâ¦.? All sincerity is lost through automation, no one wants to read…",
+      "link": "https://www.linkedin.com/posts/simon-wall_is-it-just-me-but-its-so-clearly-obvious-activity-7138554865676464128-ujYO",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to hearing from Lunga Ngcime Mooi next year at World Out of Home Organization first ever Africa forum in March next yearâ¦!",
+      "link": "https://www.linkedin.com/posts/simon-wall_lunga-mooi-to-be-keynote-speaker-at-woo-africa-activity-7138916799844200448-xkKB",
+      "activity_status": null
+    },
+    {
+      "title": "Great resource for industry insights! Well done Livia Brown ðð¼",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-billboard-bonus-activity-7037653490843697152-xlcP",
+      "activity_status": null
+    },
+    {
+      "title": "Save the date! March 11-13 2024 at The Westin Grand, Cape Town",
+      "link": "https://www.linkedin.com/posts/simon-wall_woo-heads-to-cape-town-for-first-in-person-activity-7132634760253689857-5OIx",
+      "activity_status": null
+    },
+    {
+      "title": "Really pleased that the World Out of Home Organization has chosen Cape Town to host their first ever Africa Forum taking place March 11/12/13 next…",
+      "link": "https://www.linkedin.com/posts/simon-wall_hlayisani-capital-owned-by-dr-reuel-khoza-activity-6990259431175245824-Kxd7",
+      "activity_status": null
+    },
+    {
+      "title": "This year, the Cape Town economy has generated more new jobs than the entire country has collectivelyâ¦..",
+      "link": "https://www.linkedin.com/posts/simon-wall_this-year-the-cape-town-economy-has-generated-activity-7130253682348032000-JhHH",
+      "activity_status": null
+    },
+    {
+      "title": "Love this. If you havenât thought about visiting South Africa, time to make a plan!",
+      "link": "https://www.linkedin.com/posts/simon-wall_love-this-if-you-havent-thought-about-activity-7128657790398545921-6bZP",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/simon-wall_tractoroutdoor-ooh-dooh-activity-7126205012933816320-YUxX",
+      "activity_status": null
+    },
+    {
+      "title": "South Africa, the Rugby World Champions! ðð¿ð¦ Sport has always been a powerful unifier in South Africa, a catalyst for remarkable change.…",
+      "link": "https://www.linkedin.com/posts/simon-wall_rugbychamps-makingadifference-southafricastrong-activity-7124350134993231872-ft20",
+      "activity_status": null
+    },
+    {
+      "title": "Well balanced piece on programmatic DOOH - nicely done Jonas Glad To the point and on point. https://lnkd.in/dmTSqeGH",
+      "link": "https://www.linkedin.com/posts/simon-wall_what-are-the-3-most-common-misconceptions-activity-7119286255334363136-Uvf9",
+      "activity_status": null
+    },
+    {
+      "title": "Every clients pitch in 2024 ð Never underestimate the power of iconic DOOH :)",
+      "link": "https://www.linkedin.com/posts/simon-wall_its-been-just-over-a-year-since-tractor-activity-7057237491426168832-xina",
+      "activity_status": null
+    },
+    {
+      "title": "Last night marked a historic moment with the grand unveiling of \"The Sphere\" in Las Vegas, the world's largest LED construction spanning a massive…",
+      "link": "https://www.linkedin.com/posts/simon-wall_where-the-streets-have-no-name-u2-the-activity-7113959989290909697-l06X",
+      "activity_status": null
+    },
+    {
+      "title": "We are live in KZN! We now have over 30 ICONIC roadside digitals across all major metropolitans",
+      "link": "https://www.linkedin.com/posts/simon-wall_we-are-live-in-kzn-we-now-have-over-30-activity-7113512067227136000-Vqrf",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely thrilled to share that our remarkable sales team has clinched the prestigious âLambâ Media Owner of the Year award! ð Their…",
+      "link": "https://www.linkedin.com/posts/simon-wall_teamexcellence-mediaawardwinners-activity-7108377088126038016-8ZmS",
+      "activity_status": null
+    },
+    {
+      "title": "You probably going to see a lot of this video over the next few days from anyone who is involved in the wonderful world of OOH! But The Rolling…",
+      "link": "https://www.linkedin.com/posts/simon-wall_the-rolling-stones-angry-official-music-activity-7105462046955085824-2qTK",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Simon Helmér",
+      "link": "https://se.linkedin.com/in/simonhelmer",
+      "summary": null,
+      "location": "Greater Linköping Metropolitan Area"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-80518a6",
+      "summary": "Chief Operations Officer",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-5074872",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-2a0911b",
+      "summary": "Operations Director",
+      "location": "Bath"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://au.linkedin.com/in/simon-wall-70635652",
+      "summary": "Simon Wall Property",
+      "location": "Newcastle, NSW"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-a4b1107",
+      "summary": "Snr. Manager, Devops Engineering at Illumina",
+      "location": "Cardington"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-153405145",
+      "summary": "Tenor at Simon Wall",
+      "location": "London"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://uk.linkedin.com/in/simon-wall-8719043",
+      "summary": "Analytics & Strategy Consultant, Co-founder Different Drum, Founder Jel Analytics",
+      "location": "Greater London"
+    },
+    {
+      "name": "Simon Wall",
+      "link": "https://nz.linkedin.com/in/simon-wall-apollo",
+      "summary": "GM - Strategy & Relationships",
+      "location": "New Zealand"
+    }
+  ],
+  "articles": [
+    {
+      "title": "2025: Collapse or Comeback? - The…",
+      "link": "https://www.linkedin.com/pulse/2025-collapse-comeback-choice-ours-simon-wall-nmevf",
+      "published_date": {
+        "day": 17,
+        "month": 1,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "2025: Collapse or Comeback? - The Choice is Ours.",
+      "link": "https://www.linkedin.com/pulse/2025-collapse-comeback-choice-ours-simon-wall-nmevf",
+      "published_date": {
+        "day": 17,
+        "month": 1,
+        "year": 2025
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D4D12AQGyupgAOA37Mw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1737118986201?e=2147483647&v=beta&t=Pzvi80zb_fObcMksujZlBuwp4CYSGU8LJ7DGijB7Wls"
+    },
+    {
+      "title": "Tractor Outdoors Update over this period.",
+      "link": "https://www.linkedin.com/pulse/tractor-outdoors-update-over-period-simon-wall",
+      "published_date": {
+        "day": 26,
+        "month": 3,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Tractor Outdoors Update over this…",
+      "link": "https://www.linkedin.com/pulse/tractor-outdoors-update-over-period-simon-wall",
+      "published_date": {
+        "day": 26,
+        "month": 3,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "The importance of audience data and Digital Out of Home",
+      "link": "https://www.linkedin.com/pulse/importance-audience-data-digital-out-home-simon-wall",
+      "published_date": {
+        "day": 5,
+        "month": 12,
+        "year": 2018
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "The importance of audience data and…",
+      "link": "https://www.linkedin.com/pulse/importance-audience-data-digital-out-home-simon-wall",
+      "published_date": {
+        "day": 5,
+        "month": 12,
+        "year": 2018
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:50:53Z"
+  }
+}

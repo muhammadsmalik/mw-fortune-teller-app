@@ -1,0 +1,763 @@
+{
+  "public_identifier": "jahan-mehta-2a394b188",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/43fefb2cc920bccd9a3712865cedae9c",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Jahan",
+  "last_name": "Mehta",
+  "full_name": "Jahan Mehta",
+  "follower_count": 703,
+  "occupation": "Director at Selvel One Group",
+  "headline": "Chief Growth Officer at Oap Mediatech",
+  "summary": null,
+  "location_str": "Kolkata, West Bengal, India",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": null,
+      "company": "Selvel One Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/selvel-one-group",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": null,
+      "location": "Kolkata",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1cd6d0b95a8f144d96aa73496a299789"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Selvel One Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/selvel-one-group",
+      "company_facebook_profile_url": null,
+      "title": "Independent Project Manager",
+      "description": null,
+      "location": "Kolkata",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1cd6d0b95a8f144d96aa73496a299789"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Selvel One Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/selvel-one-group",
+      "company_facebook_profile_url": null,
+      "title": "Sales Trainee",
+      "description": null,
+      "location": "Kolkata",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1cd6d0b95a8f144d96aa73496a299789"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "company": "Selvel One Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/selvel-one-group",
+      "company_facebook_profile_url": null,
+      "title": "Operations Trainee",
+      "description": null,
+      "location": "Kolkata",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1cd6d0b95a8f144d96aa73496a299789"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": "Commerce",
+      "degree_name": "Bachelor's degree",
+      "school": "The Bhawanipur Education Society College",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/the-bhawanipur",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/06b84e528859a6368138cfb7c6f68f37",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1988
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Saint James' School, Kolkata",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": null,
+      "org_name": "Calcutta Parsee Club",
+      "title": "Vice President, Sports",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": null,
+      "org_name": "Football Edge",
+      "title": "Alongwith Baichung Bhutia",
+      "description": "To manage the contracts of football players across the country."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "org_name": "Calcutta Management Association",
+      "title": "President",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": null,
+      "org_name": "Calcutta Cricket and Football Club",
+      "title": "Incharge of Sports",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "org_name": "Football Players' Association of India (FPAI)",
+      "title": "Honorary Secretary",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "org_name": "International Federation of Professional Footballers Asia (FIFPro Asia)",
+      "title": "First Director",
+      "description": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "org_name": "International Federation of Professional Footballers Global (FIFPro Global)",
+      "title": "Member of sub-committee on CSR",
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "title": "Joint venture with Godrej",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": null,
+      "title": "Notification for SEZ in Bengal",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": null,
+      "title": "First LED in the country (atop Flurys, Parkstreet, Kolkata)",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/uttiyo253",
+      "name": "Rajiv Ghosh",
+      "summary": "CEO at Selvel One Group;\nOTT & Sports Tech",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/punitchandak",
+      "name": "Punit Chandak",
+      "summary": null,
+      "location": "Indore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/indranildutta",
+      "name": "Indranil Dutta",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isandeepdave",
+      "name": "Sandeep Dave",
+      "summary": "Creative Entrepreneur, Public Speaker | \nFounder & CEO of IDEAZIA, Bharat Gatha, MyWeekend.in | Travel - Movies - Music - Books - Coffee",
+      "location": "Surat"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arijitchakrabarti",
+      "name": "Arijit C.",
+      "summary": "Trainee DJ |Certified Data Science Leader | Data Led Decisionmaking |Deep Learning | Artificial Intelligence | Machine Learning | Python | Julia | Tensorflow",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajneeshbahl",
+      "name": "Rajneesh Bahl",
+      "summary": "CEO at Zest Outdoor Media  : First Green OOH asset management company",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dineshpanjabi",
+      "name": "Dinesh Panjabi",
+      "summary": "Regional Director at RapportWW",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sucharita-mandal",
+      "name": "Sucharita Mandal",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sspatel7",
+      "name": "S S PATEL",
+      "summary": "Authored the book: Mission: Joy in Gujarati.",
+      "location": "Ahmedabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sindhujak27",
+      "name": "Sindhuja K",
+      "summary": "Entrepreneur | AI Product Strategist | Driving Innovation Across Media Entertainment & Education | Empowering Future Generations | Former World’s Youngest CEO (2011)",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yashsakhlecha",
+      "name": "Yash Sakhlecha",
+      "summary": "Co-Founder, WYLD | IIT Bombay | Forbes Asia 30u30",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darshanashah12",
+      "name": "Darshana Shah",
+      "summary": "CMO - Aditya Birla Capital | Mentor for Leadership Development | Senior Executive Leadership - HBS",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arijit-chakraborty-b656a7256",
+      "name": "Arijit Chakraborty",
+      "summary": "Assistant Manager Finance (Shalimar Wires Industries Limited) | CA Finalist | B.Com (H)",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sohan-nag-157587275",
+      "name": "Sohan Nag",
+      "summary": "Creative Assistant at Selvel One Group",
+      "location": "Bally"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thepankajssharma",
+      "name": "Pankaaj Sharrma",
+      "summary": "🏗️ CEO & Founder of Avanza Steel Pvt Ltd | Innovator in Scaffolding & Shuttering Solutions | Construction Safety Advocate | Eco-Friendly Building Pioneer",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alokguptaga",
+      "name": "Alok Gupta 🇮🇳🇮🇳",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sambalsara",
+      "name": "Sam Balsara",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kamalini-paul",
+      "name": "Kamalini Paul",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhijitsenguptaoap",
+      "name": "Abhijit Sengupta",
+      "summary": "Out Of Home Specialist",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pratiksureka",
+      "name": "Pratik Sureka",
+      "summary": "Deputy Manager",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moumita-mukherjee-92244bb",
+      "name": "Moumita Mukherjee",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krishna-iyer-7a83a413",
+      "name": "Krishna Iyer",
+      "summary": null,
+      "location": "Mumbai Metropolitan Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohityajnik",
+      "name": "Rohit Yajnik",
+      "summary": "Mumbai Metro One Pvt. Ltd.•3K followers",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/santosh-nair-66ab061b",
+      "name": "Santosh Nair",
+      "summary": "Group Director and CEO at Kaleido print technologies pvt ltd and Kromodyne digital solutions pvt ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonal85",
+      "name": "Sonal Singh",
+      "summary": "Director  Fixdax Technology Pvt. Ltd.",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aurobindo-mitra-60b28422",
+      "name": "Aurobindo Mitra",
+      "summary": "Freelance sales and marketing consultant(Self-employed)",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saibal-gupta-325b7223",
+      "name": "Saibal Gupta",
+      "summary": "Xperia Group•3K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anuj-kichlu-33a02225",
+      "name": "Anuj Kichlu",
+      "summary": "Director & CEO (India) at THE BEST OF YOU SPORTS S.A.\n\nFIFA Agent License 202507-10409",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alok-bajoria",
+      "name": "Alok Bajoria",
+      "summary": "Leading Success Across Diverse Ventures",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adithyanarayanan",
+      "name": "Adithya Narayanan",
+      "summary": "3X Founder",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anisha-aggarwal-8a059735",
+      "name": "Anisha Aggarwal",
+      "summary": "Director, Rollick ice cream",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashish-jain-b0495036",
+      "name": "Ashish Jain",
+      "summary": null,
+      "location": "South Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhavesh-jakhia-75935b38",
+      "name": "Bhavesh jakhia",
+      "summary": "Director",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suresh-balakrishna",
+      "name": "Suresh Balakrishna",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravi-kiran-3297b842",
+      "name": "Ravi Kiran",
+      "summary": "Sarvakala Group Head Marketing",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/junaid-shaikh-a5519551",
+      "name": "Junaid Shaikh",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sourav-das-b2295160",
+      "name": "Sourav Das",
+      "summary": "Vice President - BUSINESS DEVELOPMENT & Operations at Selvel One Group",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gautam-mukherjee-5727b769",
+      "name": "Gautam Mukherjee",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanaya-mehta-vyas-15436a73",
+      "name": "Sanaya Mehta Vyas",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vikash-musaddi-55139482",
+      "name": "Vikash Musaddi",
+      "summary": "Director",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/selvel-one-group-77289588",
+      "name": "Selvel One Group",
+      "summary": "Company Profile at Selvel One Group",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/debasish-dey-61833089",
+      "name": "Debasish Dey",
+      "summary": "New Role With New Vision at Werbung Media Services Pvt Ltd",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vijay-dugar-65b54b90",
+      "name": "Vijay Dugar",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adarsh-david-b525619b",
+      "name": "Adarsh David",
+      "summary": null,
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjay-jain-a810a5a4",
+      "name": "Sanjay Jain",
+      "summary": null,
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shefalisharma693",
+      "name": "Shefali Sharma",
+      "summary": "Planned, precise, and people focused - expert in account servicing and leadership that delivers impact.\n\nAlways driven by the belief that great service isn’t just about meeting deadlines—it’s about creating impact.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ronit-jain-3812aaba",
+      "name": "Ronit Jain",
+      "summary": "Founder - Selvel Global, Mae",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/murtuza-hakim-a2a6a4101",
+      "name": "MURTUZA HAKIM",
+      "summary": "Director at ICON MEDIAEDGE",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vivek-pawar-18a083113",
+      "name": "Vivek Pawar",
+      "summary": "MD at Pradnyaraj",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikhil-p-pai-3209b9122",
+      "name": "Nikhil P Pai",
+      "summary": "Director at OSTM Technologies PVT LTD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/meraki-group-181a17125",
+      "name": "Meraki Group",
+      "summary": "Meraki Group",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sauma-mukherjee-053387137",
+      "name": "Sauma Mukherjee",
+      "summary": null,
+      "location": "Hajo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anubroti-dasgupta-1ab679137",
+      "name": "Anubroti Dasgupta",
+      "summary": "Digital Marketing Trainee at Selvel One Group",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashwin-dhanesha",
+      "name": "Ashwin Dhanesha",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aastha-seth-50878316a",
+      "name": "Aastha Seth",
+      "summary": "Founder of Zibaa Gifting",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shashank-tripathi-b098bb171",
+      "name": "Shashank Tripathi",
+      "summary": "Director at OVS INNOVATION PVT. LTD",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohit-daga-1a3a20183",
+      "name": "Rohit Daga",
+      "summary": "Senior Business Development Executive at Selvel One Group",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeet-dhar-3a300b188",
+      "name": "Jeet Dhar",
+      "summary": "HR - Selvel One Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/noel-stephen-78b108188",
+      "name": "Noel Stephen",
+      "summary": "Director- Sales  at Selvel One Group",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ripon-das-2b95b7189",
+      "name": "Ripon Das",
+      "summary": "Proprietor",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonali-halder-0b8939189",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohan-mukherjee-8a42b11a3",
+      "name": "Rohan Mukherjee",
+      "summary": "Partner at Rising tide",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/indrani-paul-467b581a9",
+      "name": "Indrani Paul",
+      "summary": "Team Lead Business Development - Public Relations in SRV Media - Digital Marketing and PR Agency | 6+ years of experience",
+      "location": "Kolkata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rakesh-das-27b8561b2",
+      "name": "Rakesh Das",
+      "summary": null,
+      "location": "Kolkata"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Thanks to the World Out of Home Organization for the opportunity to share thoughts on measuring Out of Home. As I shared there is a major…",
+      "link": "https://www.linkedin.com/posts/danwcm_ooh-audiencemeasurement-currencyapproaches-activity-7429126940818587649-Qlzh",
+      "activity_status": null
+    },
+    {
+      "title": "Do not complain about lack of Resources..Be Resourceful! At the Marketing Creators HQ at the #worldsgovernmentsummit in Dubai 2026. Great ideas…",
+      "link": "https://www.linkedin.com/posts/vidulprothi_worldsgovernmentsummit-activity-7424799802288136192-lhEE",
+      "activity_status": null
+    },
+    {
+      "title": "Had the chance to meet Sir Martin Sorrell and honestly, it was a bit of a fanboy moment. Beyond that, it was a genuinely insightful conversation…",
+      "link": "https://www.linkedin.com/posts/alokguptaga_outdooradvertising-ooh-mediaindustry-activity-7429396729105633280-y1df",
+      "activity_status": null
+    },
+    {
+      "title": "It is a  mad …mad…Madison World indeed !",
+      "link": "https://www.linkedin.com/posts/lara-balsara_it-is-a-mad-madmadison-world-indeed-activity-7364469952889634817-6Efa",
+      "activity_status": null
+    },
+    {
+      "title": "𝗕𝗮𝗰𝗸 𝗳𝗿𝗼𝗺 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 𝘄𝗶𝘁𝗵 𝗵𝗲𝗮𝗿𝘁𝘀 𝗳𝘂𝗹𝗹 𝗼𝗳 𝗺𝗲𝗺𝗼𝗿𝗶𝗲𝘀! For 4 days, more than 100 of us from OAP Mediatech…",
+      "link": "https://www.linkedin.com/posts/leadwithsaurabhsingh_oapmediatech-lifeatoap-peoplefirst-activity-7363783520919449602-siJB",
+      "activity_status": null
+    },
+    {
+      "title": "At OAP Mediatech no matter your title—rookie, boss, or coffee ninja—everyone grabs a passport for our annual adventure, because memories beat…",
+      "link": "https://www.linkedin.com/posts/oap-india_at-oap-mediatech-no-matter-your-titlerookie-activity-7363860644967628801-FYkJ",
+      "activity_status": null
+    },
+    {
+      "title": "Apurva Salarpuria, Executive Director, Salarpuria Group, has taken charge as the new President of CREDAI Kolkata for the next term. He was…",
+      "link": "https://www.linkedin.com/posts/credaikolkata_credaikolkata-activity-7361091644995035137-7JKF",
+      "activity_status": null
+    },
+    {
+      "title": "Your 10 orders are equivalent to our 4. This was the underhanded remark made by the manager of a popular food joint near Mitti Café at Bangalore…",
+      "link": "https://www.linkedin.com/posts/mobasher-alam10_your-10-orders-are-equivalent-to-our-4-activity-7358526334211362816-RwwV",
+      "activity_status": null
+    },
+    {
+      "title": "Leadership update in the OOH world Abhijit Sengupta, CEO of OAP Mediatech, has joined OOH Capital as a Partner. Read more: https://lnkd.in/dZJJChmG…",
+      "link": "https://www.linkedin.com/posts/media4growth_ooh-leadershipupdate-industryexperts-activity-7356590285625221121-YaL8",
+      "activity_status": null
+    },
+    {
+      "title": "I love you Canva. This OOH campaign from Canva is AMAZING. I love these so so much as every OOH captures the essence of the tools so beautifully.…",
+      "link": "https://www.linkedin.com/posts/chayangarg_design-creative-ooh-activity-7340971514680287232-Z6vm",
+      "activity_status": null
+    },
+    {
+      "title": "*** Exciting News *** I'm thrilled to share that #billups #India operations are officially LIVE! 🇮🇳🎉 From the initial ideation to launch, it’s…",
+      "link": "https://www.linkedin.com/posts/sumit-kohli_billups-india-billups-activity-7305208856840753152-ieNx",
+      "activity_status": null
+    },
+    {
+      "title": "In moderating this session on Outdoor at Goafest, hopefully I draw out some interesting thoughts from Outdoor veterans, Darshana Shah, Noomi Mehta…",
+      "link": "https://www.linkedin.com/posts/sambalsara_ooh-adapting-to-be-accountable-panel-activity-7231613300868866048-tIRL",
+      "activity_status": null
+    },
+    {
+      "title": "Massive thank you to Rajiv Raghunath and his team for inviting me to speak about MiXR and retail media at #OAC2024. So many highlights from the…",
+      "link": "https://www.linkedin.com/posts/dan-durling-2045bb9_oac2024-oac2024-dooh-activity-7223574617829847040-XikC",
+      "activity_status": null
+    },
+    {
+      "title": "Meet the experts speaking at OAC 2024! Learn from industry leaders who will share their insights on the latest trends and strategies in OOH…",
+      "link": "https://www.linkedin.com/posts/media4growth_pankajadvani-manojjoshi-oac2024-activity-7221389119191470080-2b3c",
+      "activity_status": null
+    },
+    {
+      "title": "celebrating Oap, the amazing organisation that Abhijit Sengupta has built and continues to build since 2002. We continue with our effort and hope…",
+      "link": "https://www.linkedin.com/posts/jahan-mehta-2a394b188_laser-focus-on-quality-technology-transparency-activity-7170330338932502528-9ajZ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jahan-mehta-2a394b188_digitaladvertising-digitalsignage-digitaltrends-activity-6551796797961015296-QsmO",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jahan Mehta",
+      "link": "https://in.linkedin.com/in/jahan-mehta-231b732",
+      "summary": "-",
+      "location": "Kolkata"
+    },
+    {
+      "name": "Jahan Mehta",
+      "link": "https://in.linkedin.com/in/jahan-mehta-10b98b274",
+      "summary": "Attended Chaudhary Devi Lal University",
+      "location": "Sirsa"
+    },
+    {
+      "name": "Jahan Mehta",
+      "link": "https://in.linkedin.com/in/jahan-mehta-98074b217",
+      "summary": "--",
+      "location": "Sirsa"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:49:47Z"
+  }
+}

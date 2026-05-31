@@ -1,0 +1,905 @@
+{
+  "public_identifier": "andy-hamblin",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/0ab85d2cfc7c9bfa9498e3058883e758",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/6429ae35a55d31a71681958ecc5bedf0",
+  "first_name": "Andrew",
+  "last_name": "Hamblin",
+  "full_name": "Andrew Hamblin",
+  "follower_count": 2539,
+  "occupation": "CRO LiveDOOH Signkick at LiveDOOH",
+  "headline": "Digital Transformation, Automation, Retail Media Screen Networks, D/OOH",
+  "summary": "Experienced Chief Commercial Officer with a demonstrated history of working in the D/OOH advertising industry. Strong professional skills covering OOH Technology, Software for D/OOH, Software Architecture for D/OOH, Digital transformation, Digital Strategy, Media Sales, Advertising, Media Buying.",
+  "location_str": "Bath, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "Bath",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "LiveDOOH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CRO LiveDOOH Signkick",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "LDSK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/livedoohsignkick",
+      "company_facebook_profile_url": null,
+      "title": "CRO LDSK",
+      "description": "https://ldsk.io/livedooh-and-signkick-merge-to-offer-the-number-one-media-owner-platform-in-the-world/",
+      "location": "Bristol, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/388164f40affceb5a6f05b021b97a97f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2015
+      },
+      "company": "BrightMove Media Limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Chez Serre Chevalier",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/chez-serre-chevalier",
+      "company_facebook_profile_url": null,
+      "title": "Santa's little helper.",
+      "description": "Working for a British Ski Company who specialise in organising bespoke holidays to Serre Chevalier in the Hautes-Alpes, France.",
+      "location": "Chantemerle, France",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/225bd2b4de57e749bca3276f2fa1bf09"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Executive Channel Network (ECN)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ecndooh",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": "Welcome to ECNlive, the digital display network connecting brands with executive audiences in the corporate environment. Our rapidly expanding display network delivers a real-time mixt of live news, relevant content and full-motion display advertising to executives working in more than one hundred of London’s most prominent corporate buildings. From SME’s to PLCs, ECNlive connects brands with hundreds of thousands of business people working for some of Britain’s most dynamic companies in diverse sectors ranging from technology to finance, fashion and media. We enable brands to maximize the potential of digital display media, blending real-time updated content with the flexibility of day-part campaigns, capturing business audiences in high-dwell time corporate locations. Specialties Advertising, Office Communication, News, finance, lifestyle, Digital Media",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04eb66f55369d5bde6f5fce041333c3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "JCDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jcdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Director of Rail",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1946ffaf3903a30b911f2c129b1a2b7e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "company": "Titan",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/titan_2",
+      "company_facebook_profile_url": null,
+      "title": "Head of Trading",
+      "description": "Group Head - promoted to Head of Trading July 2009",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d2b3ebe8b7da16e36a12adc3b777bd52"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "National Buyer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Fine Art",
+      "degree_name": "BA",
+      "school": "Solent University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/solentuni",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1019657caad83575539586824a1497c6",
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Rugby"
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Signkick Trading Bridge",
+      "description": "We’re on a mission to simplify the planning, purchase and execution of OOH for media owners. Designed to work separately or together, our modular, cloud-based software has the flexibility to tackle multiple tasks and integrate seamlessly into systems you already use.",
+      "url": "http://www.signkick.co.uk"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2539,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/pablogalindo89",
+      "name": "Pablo Galindo",
+      "summary": "Chief Operating Officer at LiveDOOH Signkick",
+      "location": "Mannheim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dearden",
+      "name": "Matthew Dearden",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jcconti",
+      "name": "Jean-Christophe Conti",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dcuende",
+      "name": "Daniel Cuende",
+      "summary": "METRICOOH Manager",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnnyhallberg",
+      "name": "Johnny Hallberg",
+      "summary": "Sales Director at Smartsign - Get Your Message Through",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarahdarlington",
+      "name": "Sarah Darlington",
+      "summary": "The conversationalist…who has lived a Colourful,Creative, Storyteller Life…want to share and give back!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dickvanmotman",
+      "name": "Dirk van Motman",
+      "summary": null,
+      "location": "Singapore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andygarner40",
+      "name": "Andy Garner",
+      "summary": "Director | Founder & Former Managing Director",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/arnobuskop",
+      "name": "Arno Buskop",
+      "summary": "OOH Strategy & Innovation Leader | Bridging Product, Tech & Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattlinkedin",
+      "name": "Matthew Bennett",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jayyoung1",
+      "name": "Jay Young",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bmeadowcroft",
+      "name": "Ben Meadowcroft In remembrance",
+      "summary": "Freelance Designer, Animator & Illustrator.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fionalegge",
+      "name": "Fiona Legge",
+      "summary": "Strategic Digital Marketing  |  Brand Communications | Senior Leadership Roles | Creative Design",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/franckvidal",
+      "name": "Franck Vidal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandomayorga",
+      "name": "Fernando Mayorga",
+      "summary": null,
+      "location": "Karlsruhe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayley-mcrae-white",
+      "name": "Hayley McRae-White",
+      "summary": null,
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/willspence",
+      "name": "Will Spence",
+      "summary": "CEO UK&I at Initiative",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rizwankhan1986",
+      "name": "Rizwan Khan",
+      "summary": "4 companies acquired (Luck) | 1 co-founded start-up (Failed)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/konigdarius",
+      "name": "Darius König",
+      "summary": "Key Account Manager",
+      "location": "Arad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardakent",
+      "name": "Richard Kent",
+      "summary": null,
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickx",
+      "name": "Nick Cross",
+      "summary": "Retired",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-otto-6ba251251",
+      "name": "Michael Otto",
+      "summary": "IT-Projektleiter bei Salzburger Banken Software",
+      "location": "Osnabrück"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachanadlokhande",
+      "name": "Rachana Lokhande",
+      "summary": "Making OOH meaningful",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gautambhirani",
+      "name": "Gautam Bhirani",
+      "summary": null,
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexfishburn",
+      "name": "Alex F.",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E2%259A%25BD%25EF%25B8%258Fadam-gilsenan-71a2a028",
+      "name": "⚽️Adam Gilsenan",
+      "summary": null,
+      "location": "Haywards Heath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/verono16",
+      "name": "Veronica Ong",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamesgrazebrook",
+      "name": "James Grazebrook OBE",
+      "summary": "Retired.  Various charity roles",
+      "location": "Ashmore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorja-wilkins-mphil-mpsa-54b50330",
+      "name": "Jorja Wilkins - MPhil, MPSA",
+      "summary": "GM Future Media & Sustainability | Programmatic, Digital Transformation & ESG Strategy | Doctoral Candidate (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-bushby",
+      "name": "Matt Bushby",
+      "summary": "Managing Director ANZ & SEA",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pete-hendrick-3a81972",
+      "name": "Pete Hendrick",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-parry-okeden-110b9b3",
+      "name": "Charles Parry-Okeden",
+      "summary": "Founder & Global CEO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mats-klevjer-4972104",
+      "name": "Mats Klevjer",
+      "summary": "Director of Partnerships, Retail Media | Building Monetisation-Driven AdTech Ecosystems | In-Store Media Strategy | Commercial & Product Alignment",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastiaanschinkel",
+      "name": "Sebastiaan Schinkel",
+      "summary": "Agentic Engineering & AI schaalbaar maken voor softwareteams | Architectuur & technisch leiderschap",
+      "location": "Hilversum"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keivan-eshghi-b111245",
+      "name": "Keivan Eshghi",
+      "summary": "DB2 WLM Software Development IBM Canada",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gedwestonmedia",
+      "name": "Ged Weston",
+      "summary": "Managing Director at Maximus",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-mccoy-81234a7",
+      "name": "Mike McCoy",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/al-young-4740a010",
+      "name": "al young",
+      "summary": "CCO St. Lukes Communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katrin-robertson",
+      "name": "Katrin A. Robertson",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicky-wharam-625a5113",
+      "name": "Vicky Wharam",
+      "summary": "Media Planning & Strategy, Media Sales, Business Development | Bloom UK Co-Head of Partnerships | Foodbank Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-robson-b9463314",
+      "name": "Sam Robson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-cristello-79605816",
+      "name": "Adam Cristello",
+      "summary": "Senior Manager, Digital Infrastructure OOH",
+      "location": "Newmarket"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanna-mikolajczyk-39119116",
+      "name": "Joanna Mikolajczyk",
+      "summary": "Principal Partner at Havas Media UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pratibha-thaker-4510aa17",
+      "name": "Pratibha Thaker",
+      "summary": "Regional Director, Africa at The Economist",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-pover-8b929221",
+      "name": "Matthew Pover",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melanie-sands-0a301925",
+      "name": "Melanie Sands",
+      "summary": "Senior Manager, Astral OOH Sales at Bell Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/layla-soufi-9820a926",
+      "name": "Layla Soufi",
+      "summary": "Director of Supply Partnerships at Vistar Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hayley-mcrae-white-46229728",
+      "name": "Hayley McRae-White",
+      "summary": "CREATIVE. CURIOUS. CULTURE-CENTRIC.",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-allen-996b5029",
+      "name": "Dan Allen",
+      "summary": "Senior Proposal Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jt-cloudops",
+      "name": "Josh Thornton",
+      "summary": "Cloud Operations at Creative Realities",
+      "location": "The Colony"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominic-woolfe-50125232",
+      "name": "Dominic Woolfe",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roei-bareket-97345035",
+      "name": "Roei Bareket",
+      "summary": "Co-Founder & CPO at Carambola Media LTD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-stubbings-38053939",
+      "name": "Matt Stubbings",
+      "summary": "TIMES OOH•1K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-webb-ba02b73a",
+      "name": "Scott Webb",
+      "summary": "Head of Partnerships at PHD UK",
+      "location": "Poole"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonya-arthur-75aaa340",
+      "name": "Sonya Arthur",
+      "summary": "Client President at EssenceMediacom UK |\nMedia Week 40 over 40 2023",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-moorcraft-23460441",
+      "name": "Laura Moorcraft",
+      "summary": "Managing Director, G-Force (a business division of Goodstuff) | Mental Health First Aider",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/moran-golan-719ba646",
+      "name": "Moran Golan",
+      "summary": "Head of Media Buying at Kinetic Digital (by Prime Online Ltd.)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheila-shanmugam-28316a49",
+      "name": "Sheila Shanmugam",
+      "summary": "WPP Media \n Chief Executive Officer Mindshare Malaysia\nPresident Malaysia Media Specialist Association",
+      "location": "Kuala Lumpur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aimee-mckay-26614957",
+      "name": "Aimee McKay",
+      "summary": "Client Partnership Director & Europe Lead",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-woodward-2535525b",
+      "name": "Lucy Woodward",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-cummins-54614562",
+      "name": "Natalie Cummins",
+      "summary": "CEO, EssenceMediacom UK",
+      "location": "Teddington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oli-ford-819948a3",
+      "name": "Oli Ford",
+      "summary": "International team leader & OOH enthusiast",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-caplowe-870009a6",
+      "name": "Sam Caplowe",
+      "summary": "Production Manger @ Once Upon A Time Content",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-english-586a10115",
+      "name": "Mike English",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-brading-1bb399118",
+      "name": "Mary Brading",
+      "summary": null,
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/khadijat-opeloyeru-270640154",
+      "name": "Khadijat Opeloyeru",
+      "summary": "Campaign Manager at Chief Nation | Connecting C-suite executives with world-leading technology companies 🤝",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amber-boren-84bb3015a",
+      "name": "Amber Boren",
+      "summary": "Publisher Development | Mobile UA • CTV • Audio | Strategic Partnerships & Growth",
+      "location": "South Jordan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mihajlo-ristovski-bb60a8161",
+      "name": "Mihajlo Ristovski",
+      "summary": "People Operations Manager at LiveDOOH Signkick",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miroslav-bishkoski-932624171",
+      "name": "Miroslav Bishkoski",
+      "summary": "Team Lead | Senior Quality Assurance Engineer at Proton.AI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hristina-karagjirova-b9927520a",
+      "name": "Hristina Karagjirova",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Andy Kelly\n\nI have being doing business with Andy for some years now, and he has never been anything but professional.  The things that set him apart though, are his integrity, product knowledge, and a desire to get the best results for the client.\r\n\r\nI hope to do business with Andy for many years to come."
+  ],
+  "activities": [
+    {
+      "title": "In-store is becoming retail’s most valuable advertising channel. With the majority of purchases still happening inside physical stores, the…",
+      "link": "https://www.linkedin.com/posts/dise-group_in-store-is-becoming-retails-most-valuable-activity-7407404795701039107-DCyf",
+      "activity_status": null
+    },
+    {
+      "title": "🎄 A great night celebrating the people behind the screens. Our Smart Outdoor Christmas party was the perfect chance to reflect on a brilliant year…",
+      "link": "https://www.linkedin.com/posts/smartoutdoor_smartoutdoor-christmas-activity-7407395622976237569-gfnh",
+      "activity_status": null
+    },
+    {
+      "title": "🎄 Wishing you all a Merry Christmas and a very Happy New Year 💫 2025 was a big year for growth and innovation, and we couldn’t have done it…",
+      "link": "https://www.linkedin.com/posts/lead-global-tech-consultancy_happychristmas-retailtech-digitaltransformation-activity-7407343914136915969-78KZ",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 THE LONGEST IMMERSIVE DIGITAL GALLERY IN THE WORLD! 💡 Together with videomobile and Electron Italia, we delivered a one-of-a-kind experience:…",
+      "link": "https://www.linkedin.com/posts/m-cube-s.p.a._galleria-bombi-the-longest-immersive-digital-activity-7407047928688795648-C-A5",
+      "activity_status": null
+    },
+    {
+      "title": "Certified. Simplified. Built for Retail. The Dise IXM platform is designed to create great in-store experiences and is delivered exclusively…",
+      "link": "https://www.linkedin.com/posts/dise-group_certified-simplified-built-for-retail-activity-7406702192008679424-iq7G",
+      "activity_status": null
+    },
+    {
+      "title": "🌟 Quando la tecnologia diventa arte 🌟 Alla DAG Digital Art Gallery di Gorizia, non abbiamo semplicemente installato un ledwall: abbiamo creato un…",
+      "link": "https://it.linkedin.com/posts/cristian-bragato-733b792a_quando-la-tecnologia-diventa-arte-alla-activity-7406839331920822272-2SLd",
+      "activity_status": null
+    },
+    {
+      "title": "January is set to be a fast start to the New Year for SMG North America with both #CES2026 and #NRF2026 on the books! As we move into 2026, there is…",
+      "link": "https://www.linkedin.com/posts/smcrawford1_ces2026-nrf2026-retailmedia-activity-7407039331682369536-OjWE",
+      "activity_status": null
+    },
+    {
+      "title": "Impressive: It shows once again: Our imagination is the only limit for immersive LED Installations. Now.",
+      "link": "https://www.linkedin.com/posts/korn-markus_galleria-bombi-the-longest-immersive-digital-activity-7407070797523140608-1D1K",
+      "activity_status": null
+    },
+    {
+      "title": "Last Day in London for 2025… 👀 16 months after officially launching Be Unskripted and it's been a whirlwind. I've been using my experience to…",
+      "link": "https://www.linkedin.com/posts/bskrprice_ooh-dooh-strategy-activity-7407043198130270208-gCNA",
+      "activity_status": null
+    },
+    {
+      "title": "The last few weeks have been an emotional rollercoaster after the news about 75Media. It’s been tough, but it’s been brilliant to see so many of our…",
+      "link": "https://www.linkedin.com/posts/alexsimpson7_the-last-few-weeks-have-been-an-emotional-activity-7406279789763985409-6xI0",
+      "activity_status": null
+    },
+    {
+      "title": "When we did this event in Cannes it was the talk of the town…if you’re heading to NRF get in touch and make sure you join us for what I’m sure will…",
+      "link": "https://www.linkedin.com/posts/dan-sands-88099155_when-we-did-this-event-in-cannes-it-was-the-activity-7405143587539132416-ylvx",
+      "activity_status": null
+    },
+    {
+      "title": "🎄🥇 Drie keer #1 in het Adformatie Kerstrapport/Media Report, hoe cool! 🥇🎄 Trots om te delen dat adpaq door Adformatie is uitgeroepen tot: 👉 #1…",
+      "link": "https://nl.linkedin.com/posts/maartenduijne_drie-keer-1-in-het-adformatie-kerstrapport-activity-7406393200657190912-xtkL",
+      "activity_status": null
+    },
+    {
+      "title": "🎄 It’s officially festive on MiXR Media! 🍻 Our Festive MiXR Media Screen campaigns are LIVE across pubs, bars and venues. Just in time for…",
+      "link": "https://www.linkedin.com/posts/jonathan-fone-39754889_its-officially-festive-on-mixr-media-activity-7406299877850181633-ByAX",
+      "activity_status": null
+    },
+    {
+      "title": "This is a BIG deal! Google is integrating OOH PG capabilities with Place Exchange, a Broadsign company. Another big milestone in our journey towards…",
+      "link": "https://www.linkedin.com/posts/maartendollevoet_this-is-a-big-deal-google-is-integrating-activity-7405034826132611072-EbvX",
+      "activity_status": null
+    },
+    {
+      "title": "We’re heading to New York City for NRF 2026: Retail’s Big Show! 🇺🇸 We’re proud to be part of this pavilion hosted by the Digital Signage…",
+      "link": "https://www.linkedin.com/posts/dise-group_were-heading-to-new-york-city-for-nrf-2026-activity-7399039196809793536--F0N",
+      "activity_status": null
+    },
+    {
+      "title": "In 2026….Retail media continues to eat trade for breakfast: Trade budgets are being diverted at rapid pace into retail media, with advertisers…",
+      "link": "https://www.linkedin.com/posts/jameswstaylor_in-2026retail-media-continues-to-eat-trade-activity-7404146215279554560-b-pp",
+      "activity_status": null
+    },
+    {
+      "title": "I am extremely proud to share that I’ve recently been promoted to Group Partnerships Director @wildstone . A role I take on with enormous gratitude…",
+      "link": "https://www.linkedin.com/posts/andrew-bren-foster-68569316_i-am-extremely-proud-to-share-that-ive-recently-activity-7430217201640534016-_no2",
+      "activity_status": null
+    },
+    {
+      "title": "We’re delighted to welcome Tony Madden to the Lead Consultancy team and Syndicate 👏 Joining as Principal - Retail Experience & Strategy, Tony…",
+      "link": "https://www.linkedin.com/posts/lead-global-tech-consultancy_meettheteam-retailexperience-retailstrategy-activity-7429817211638370305-RwB1",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this one! I will be there 23rd & 24th February. Thanks to David Chantry and the team for giving Pixel Inspiration the…",
+      "link": "https://www.linkedin.com/posts/natalie-woodall-65354a45_retail-instoreexperience-digitalsoltions-activity-7427722881943363584-PtAI",
+      "activity_status": null
+    },
+    {
+      "title": "Last week during Integrated Systems Europe (ISE), Videri Inc. showcased how our Embedded Solutions continue to offer tight integration with partners…",
+      "link": "https://www.linkedin.com/posts/jayleedy_ise-2026-videri-talks-about-spark3-digital-activity-7427180136371814400-z1wW",
+      "activity_status": null
+    },
+    {
+      "title": "⏭️ Let’s rewind to Integrated Systems Europe (ISE) ⏭️ Mark Leadbitter, Ambernova Retail Media and our team spent the week at ISE, exploring digital…",
+      "link": "https://www.linkedin.com/posts/lead-global-tech-consultancy_ise2026-digitalsignage-partners-activity-7427290369169534976-6qRF",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group is represented on the IAB MENA Board, with the appointment of Henrietta Shakespeare, Chief of Staff, as a Board Member. This…",
+      "link": "https://www.linkedin.com/posts/mmg-global_multiplymediagroup-exponentialpotential-activity-7424412540039917568-cNuL",
+      "activity_status": null
+    },
+    {
+      "title": "Can’t believe it! I wore pink-ish (one of Perion’s colours) last night. 💕 It was one of those rare evenings — warm, genuine, and full of familiar…",
+      "link": "https://www.linkedin.com/posts/franckvidal_connectedretail-cny2026-yearofthehorse-activity-7425383208831291393-vFlk",
+      "activity_status": null
+    },
+    {
+      "title": "DSS at Integrated Systems Europe (ISE) done. Great programme led by Florian Rotberg and Stefan Schieker, packed with practical insight. Strong…",
+      "link": "https://www.linkedin.com/posts/livedoohsignkick_ise2026-digitalsignage-retailmedia-activity-7424847603277910016-qn6N",
+      "activity_status": null
+    },
+    {
+      "title": "2026 is well underway. In just the first part of the year, our teams have been present across London, Shenzhen, Dubai, Milan, Riyadh, and…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_2026-is-well-underway-in-just-the-first-activity-7426942538235674624-0JFb",
+      "activity_status": null
+    },
+    {
+      "title": "MDEP has the potential to transform digital signage for organisations that run on Microsoft , and we are excited to collaborate with Microsoft and…",
+      "link": "https://www.linkedin.com/posts/jasoncremins_digitalsignage-mdep-microsoft-activity-7426761182142758912-3Bvn",
+      "activity_status": null
+    },
+    {
+      "title": "Big moment for us last week: we won two Digital Signage Awards 🏆🏆 One of the wins was for our #retailmediaanalytics solution — and I’m genuinely…",
+      "link": "https://www.linkedin.com/posts/olsenjorn_retailmediaanalytics-retailmedia-retailmedia-activity-7426902386717208576-ENGr",
+      "activity_status": null
+    },
+    {
+      "title": "Strong coffee at the airport before the queues of #ISE2026. With a 3am start it will be a long day #digitalsignage",
+      "link": "https://www.linkedin.com/posts/neil-longuet-higgins-931022104_ise2026-digitalsignage-activity-7424762635218317312-GvU0",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be attending ISE 2026! It’s especially meaningful to have the opportunity to meet in person with our long-term partner DISE. Truly…",
+      "link": "https://www.linkedin.com/posts/amanda-leung-902088100_excited-to-be-attending-ise-2026-its-especially-activity-7425327089106501632-pHKQ",
+      "activity_status": null
+    },
+    {
+      "title": "Day 3 at Integrated Systems Europe (ISE) The conversations this week have reinforced exactly what we’re hearing across the market, partners and…",
+      "link": "https://www.linkedin.com/posts/darren-cremins-24980810_ise2026-digitalsignage-videri-activity-7425107213767184384-kgVb",
+      "activity_status": null
+    },
+    {
+      "title": "Homeward bound after 4 days at ISE 2026. The tempo of this years event seemed to have one setting which was full on from day one. Some events peak…",
+      "link": "https://www.linkedin.com/posts/fraser-warren-58059911_ise2026-thinkubik-expertsinexhibitions-activity-7425515758601986048-1zkz",
+      "activity_status": null
+    },
+    {
+      "title": "Well, back to BAU after a week at Integrated Systems Europe (ISE) Barcelona, and what a week it was! Grateful to have a number of clients join us to…",
+      "link": "https://www.linkedin.com/posts/adam-wilson-5821b912_well-back-to-bau-after-a-week-at-integrated-activity-7426543947780427776-a5gq",
+      "activity_status": null
+    },
+    {
+      "title": "Back from ISE 2026 in Barcelona, and it’s clear the industry is no longer just pushing pixels — it’s pushing the boundaries of how digital and…",
+      "link": "https://www.linkedin.com/posts/thomasaveyard_ise2026-dooh-smartoutdoor-activity-7425842763935510528-LsHV",
+      "activity_status": null
+    },
+    {
+      "title": "Heading home from #ise2026 after a fantastic week with colleagues, partners and customers. A true team effort rewarded with a Best of Show Award for…",
+      "link": "https://www.linkedin.com/posts/jasoncremins_ise2026-activity-7425550575142023168-GUfp",
+      "activity_status": null
+    },
+    {
+      "title": "Loving the first few sessions at DSS Munich today.",
+      "link": "https://www.linkedin.com/posts/andy-hamblin_loving-the-first-few-sessions-at-dss-munich-activity-7462795867713024000-v7aG",
+      "activity_status": null
+    },
+    {
+      "title": "I've joined the magic of The Retail Technology Show 2024, at Olympia, London to join me click here https://lnkd.in/ejxfUs56 Join your industry & be…",
+      "link": "https://www.linkedin.com/posts/andy-hamblin_the-retail-technology-show-2024-activity-7185573279703691264-RCnv",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andy-hamblin_dooh-retailmedia-streaem-activity-7130932926543736833-TSWz",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to being at I.S.E. again this year. Message me if you want to meet up! 😀",
+      "link": "https://www.linkedin.com/posts/andy-hamblin_looking-forward-to-being-at-ise-again-activity-7151246090330062848-gRjM",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this, top line up!",
+      "link": "https://www.linkedin.com/posts/andy-hamblin_were-looking-forward-to-exhibiting-at-fepe-activity-6407619137199239168-t9he",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andy Hamblin",
+      "link": "https://uk.linkedin.com/in/andy-hamblin-36046112",
+      "summary": null,
+      "location": "Abingdon-On-Thames"
+    },
+    {
+      "name": "Andy Hamblin",
+      "link": "https://uk.linkedin.com/in/andy-hamblin-9b682810",
+      "summary": "Partner",
+      "location": "Wokingham"
+    },
+    {
+      "name": "Andy Hamblin",
+      "link": "https://uk.linkedin.com/in/andy-hamblin-ab568480",
+      "summary": "Facilities Services Professional",
+      "location": "Bristol"
+    },
+    {
+      "name": "Andrew Hamblin",
+      "link": "https://uk.linkedin.com/in/andrew-hamblin-42216a227",
+      "summary": "License and Maintenance Renewal Co-Ordinator at Datamine International",
+      "location": "Bristol"
+    },
+    {
+      "name": "Andrew Hamblin",
+      "link": "https://au.linkedin.com/in/andrew-hamblin-06096616",
+      "summary": null,
+      "location": "Brisbane, QLD"
+    },
+    {
+      "name": "Andrew Hamblin",
+      "link": "https://www.linkedin.com/in/andrewhamblin",
+      "summary": null,
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Andrew Hamblin",
+      "link": "https://www.linkedin.com/in/ahamblin",
+      "summary": null,
+      "location": "Lynchburg, VA"
+    },
+    {
+      "name": "Andrew Hamblin",
+      "link": "https://au.linkedin.com/in/andrew-hamblin-6b1a6619",
+      "summary": null,
+      "location": "Australia"
+    }
+  ],
+  "articles": [
+    {
+      "title": "OpenDirect 1.5.1: what does it mean?",
+      "link": "https://www.linkedin.com/pulse/opendirect-151-what-does-mean-andy-hamblin",
+      "published_date": {
+        "day": 6,
+        "month": 7,
+        "year": 2020
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C4D12AQHhuQt4p8QCeg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1593779474613?e=2147483647&v=beta&t=ixfVRsP0XXpKse54LF4JHQ24N8BR1TdDvtv0P0F6jRw"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-20T00:00:00Z"
+  }
+}

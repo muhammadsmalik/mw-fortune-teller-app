@@ -1,0 +1,648 @@
+{
+  "public_identifier": "ben-aesoph-98471416",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/8c76956d11e9f7722b367df4961cda09",
+  "background_cover_image_url": null,
+  "first_name": "Ben",
+  "last_name": "Aesoph",
+  "full_name": "Ben Aesoph",
+  "follower_count": 312,
+  "occupation": "International Market Manager at Daktronics",
+  "headline": null,
+  "summary": null,
+  "location_str": "Brookings, South Dakota, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Brookings",
+  "state": "South Dakota",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1994
+      },
+      "ends_at": null,
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "International Market Manager",
+      "description": null,
+      "location": "Brookings, SD, USA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1992
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Electronic Engineering and Communications",
+      "degree_name": "Bachelor's degree",
+      "school": "South Dakota State University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/south-dakota-state-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b511067dc0c8bd1d43ebbd212abef837",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 309,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/rocky-tash-jr",
+      "name": "Rocky Tash",
+      "summary": "Area Service Manager at Tennant Company",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-gokie",
+      "name": "Steve Gokie",
+      "summary": "Project Engineer at Interstates",
+      "location": "Dallas–Fort Worth metroplex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samkennedyamxprogrammer",
+      "name": "Sam Kennedy",
+      "summary": null,
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erichmuller",
+      "name": "Erich Muller",
+      "summary": "Customer Applications Engineer",
+      "location": "Ennis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/desmalone",
+      "name": "Des Malone",
+      "summary": "Account Manager at Daktronics formerly Data Display",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristinalankow",
+      "name": "Kristina Lankow",
+      "summary": "Marketing Strategist for Transportation at Daktronics",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abhishekkumarsrivastava",
+      "name": "Abhishek Srivastava",
+      "summary": "Senior Manager | Industry 4.0 | Building digital flow | Agile leadership",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hani-atteya-pmp%25C2%25AE-8813b355",
+      "name": "Hani Atteya, PMP®",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cakapp",
+      "name": "Corey Kapp",
+      "summary": "Business Analytics at Daktronics",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elaine-liu-217175267",
+      "name": "Elaine Liu",
+      "summary": "Micsolar Led Display - Senior Sales",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-cook2022",
+      "name": "Sarah Habben",
+      "summary": "Administrative Assistant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lyndsey-anderson-02753b83",
+      "name": "Lyndsey Anderson",
+      "summary": "Program Management for Product Releases",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-brown-b70b8956",
+      "name": "Charles Brown",
+      "summary": "Manager at Future Finishes",
+      "location": "Cincinnati"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lukedavidson42",
+      "name": "Luke Davidson",
+      "summary": "Business Facilitator and Co-Owner",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yamen-adel-5aa105234",
+      "name": "Yamen Adel",
+      "summary": "Sales Account Manager at Universe Distribution",
+      "location": "Cairo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markkempson",
+      "name": "Mark Kempson",
+      "summary": "Head of Consulting at Kinly",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-k-0515976",
+      "name": "Adam K.",
+      "summary": "Product Marketing Engineer",
+      "location": "Columbus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevenjbannon",
+      "name": "Steve Bannon",
+      "summary": "Teledyne LeCroy",
+      "location": "Portland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/west-ballard-4813b14",
+      "name": "West Ballard",
+      "summary": "Senior Vice President, Supplier Relations",
+      "location": "Greater Houston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohanspatil",
+      "name": "Mohan Patil",
+      "summary": "Senior Manager at Capgemini",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/judd-guthmiller-2516535",
+      "name": "Judd Guthmiller",
+      "summary": "Vice President - International",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jacob-hansen-343b635",
+      "name": "Jacob Hansen",
+      "summary": "Owner, Zünd Skandinavien ApS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-halliwell-2874546",
+      "name": "Patrick Halliwell",
+      "summary": null,
+      "location": "Portishead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dick-kershaw-8413987",
+      "name": "Dick Kershaw",
+      "summary": "Western Region Manager at Hamamatsu",
+      "location": "Indio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brittany-jacobson-a520bb8",
+      "name": "Brittany Jacobson",
+      "summary": null,
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glen-marts-05027a8",
+      "name": "Glen Marts",
+      "summary": "National Sales - Cruise Ships and SE Regional Sales at Daktronics",
+      "location": "Canton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-righter-73a6668",
+      "name": "Rob Righter",
+      "summary": "President at Nova Sports USA",
+      "location": "Milford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-horan-4b5bb19",
+      "name": "Paul Horan",
+      "summary": "Technical Account Manager at Daktronics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aringtons",
+      "name": "Scott Arington",
+      "summary": null,
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-murphy-9b7243b",
+      "name": "Mike Murphy",
+      "summary": "Northwest Regional Manager at Otterbine Barebo Inc",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-daly-51a19311",
+      "name": "Gary Daly",
+      "summary": "Semi Retired",
+      "location": "Brandon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-bogan-cts-i-cts-d-05763411",
+      "name": "Paul Bogan CTS-I, CTS-D",
+      "summary": "Retired and happy as the proverbial clam.",
+      "location": "Fullerton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-wittbrodt-a9635412",
+      "name": "Andy Wittbrodt",
+      "summary": null,
+      "location": "Metro Detroit"
+    },
+    {
+      "link": "https://www.linkedin.com/in/randy-jastorff-5200a213",
+      "name": "Randy Jastorff",
+      "summary": "Manager at Sony",
+      "location": "Lakeside"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francis-de-wilde-a2054a13",
+      "name": "Francis De Wilde",
+      "summary": "Head of Rail Systems at Data Display UK Limied",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/todd-anderson-2a456013",
+      "name": "Todd Anderson",
+      "summary": "Vice President Operations at L.A. Karma Produce LLC",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-brown-4b58a613",
+      "name": "Gary Brown",
+      "summary": "Technical Show Manager at Universal Creative",
+      "location": "Las Vegas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bart-groot",
+      "name": "bart groot",
+      "summary": "Account Manager bij INTER",
+      "location": "Nijmegen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-francis-56652717",
+      "name": "Joe Francis",
+      "summary": "Manager at Timarron Partners, Inc.",
+      "location": "Arlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rolf-bauer-79a78517",
+      "name": "Rolf Bauer",
+      "summary": "Managing Director bei Daktronics GmbH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sana-zafar-a900a223",
+      "name": "sana zafar",
+      "summary": "Reasearch Scholar at Department of Physics Jamia Millia Islamia",
+      "location": "Delhi Cantonment"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-dempster-240b0226",
+      "name": "Gary Dempster",
+      "summary": "Managing Director of EDS Ltd",
+      "location": "Coalisland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-townley-28284828",
+      "name": "Robin Townley",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamed-abdulhai-7bb65b2b",
+      "name": "Mohamed Abdulhai",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tapas-singh-917b132b",
+      "name": "tapas singh",
+      "summary": "SR UI Architect / UIUX Consultant / CSM/",
+      "location": "Naperville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ewan-prentice-a4890434",
+      "name": "Ewan Prentice",
+      "summary": "Enthusiastic and Ambitious with particular interest in LED/dvLED",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-holland-a8b08835",
+      "name": "Sam Holland",
+      "summary": "Sales Director at UniLED Software",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-pearson-b41b7235",
+      "name": "Kate Pearson",
+      "summary": null,
+      "location": "Waterlooville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-clare-ponsillo-49a2bb37",
+      "name": "Lucy Clare Ponsillo",
+      "summary": "European Operations at Daktronics",
+      "location": "Frome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jrsprang",
+      "name": "Jonathan Sprang",
+      "summary": "For technical people who are tired of being the best-kept secret in the room.",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-reifenrath-18538838",
+      "name": "Peter Reifenrath",
+      "summary": "Sales Representative at Daktronics",
+      "location": "Chevy Chase"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hadi-arzouni-8265233a",
+      "name": "Hadi Arzouni",
+      "summary": "MDFP Audio Visual Technology (AVT)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-mcmillan-18b1723b",
+      "name": "Tim McMillan",
+      "summary": "Field Service Region Manager at Checkpoint Systems",
+      "location": "Rochester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-jo-hogobooom-3470ab40",
+      "name": "Mary Jo Hogobooom",
+      "summary": "Channel Sales Enablement Manager at Eaton Corporation",
+      "location": "Arden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thair-kayed-lxxxvi",
+      "name": "THAIR KAYED",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/venugopal-mokhashi-5a242047",
+      "name": "Venugopal Mokhashi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hany-attia-76477948",
+      "name": "Hany Attia",
+      "summary": "Golden Group Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-fritz-7109b148",
+      "name": "Jeff Fritz",
+      "summary": "Facilities Manager / Fleet Manager",
+      "location": "Colman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alain-castelbou-ba249849",
+      "name": "Alain Castelbou",
+      "summary": "French Office Sales Director at Daktronics",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hani-atteya-8813b355",
+      "name": "Hani Atteya",
+      "summary": "PMP® | SFC™ | SSYB |\nPiping Engineer at ENPPI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/travis-borns-38b39261",
+      "name": "Travis Borns",
+      "summary": "Sr. Project Manager",
+      "location": "Alexandria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shihab-nm-3b568963",
+      "name": "Shihab NM",
+      "summary": "Sales Executive",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/romain-remondet-1320a880",
+      "name": "Romain Remondet",
+      "summary": "Directeur de l’Offre et de la Coordination des Projets chez JCDecaux",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ken-mccully-58287981",
+      "name": "Ken McCully",
+      "summary": null,
+      "location": "Duncanville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/m-ibrahim-60447882",
+      "name": "M IBRAHIM",
+      "summary": "ACCOUNTNT at RAWEYAH PRINTING PRESS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-fuhrman-a3582384",
+      "name": "Scott Fuhrman",
+      "summary": null,
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donny-baitner-23370787",
+      "name": "Donny Baitner",
+      "summary": null,
+      "location": "Edison"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erin-olson-36463793",
+      "name": "Erin Olson",
+      "summary": "Administration Supervisor",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/khaled-adel-ahmed-27490196",
+      "name": "Khaled Adel Ahmed",
+      "summary": "Projects Manager | PMP | P3O | Agile",
+      "location": "Doha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-chou-b5702897",
+      "name": "Paul Chou",
+      "summary": "CEO at GETOP Systems Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/reggie-crane-73117a99",
+      "name": "Reggie Crane",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-psyk-432969a5",
+      "name": "Brian Psyk",
+      "summary": "Lean Specialist and Technician",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gangasagar-tiwary-555a73a6",
+      "name": "GANGASAGAR TIWARY",
+      "summary": "Executive in Tata Toyo Radiator Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christy-johnston",
+      "name": "Christy Johnston",
+      "summary": "Senior Leader, Marketing | Advertising and Media Industry | Marketing Content and Communications | Business Marketing | Brand Storytelling | Award Strategy | Proposition Development | PR | Thought Leadership",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-mcmahon-181a27bb",
+      "name": "Peter McMahon",
+      "summary": "--",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brett-wendler-18bb47100",
+      "name": "Brett Wendler",
+      "summary": null,
+      "location": "Watertown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chad-white-600719103",
+      "name": "Chad White",
+      "summary": null,
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joel-deboer-214485106",
+      "name": "Joel DeBoer",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pushkaraj-bane-a034ab10b",
+      "name": "Pushkaraj Bane",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/albert-aflague-467345110",
+      "name": "Albert Aflague",
+      "summary": "Western Region Manager at Northstar Battery Company",
+      "location": "Placerville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valery-phillip-engelhardt-baaa79110",
+      "name": "Valery Phillip Engelhardt",
+      "summary": "Applications/Service Engineer at Daktronics",
+      "location": "Mainz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-brassington-5a7a74115",
+      "name": "Helen Brassington",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adesh-padgaonkar-16b416118",
+      "name": "Adesh Padgaonkar",
+      "summary": "AGM (QM Production) at SAVWIPL, Pune",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-fortunato-937b17124",
+      "name": "Greg Fortunato",
+      "summary": "Head of Business Development - OnTech Smart Services",
+      "location": "Denver metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krystle-miller-246b31139",
+      "name": "Krystle Miller",
+      "summary": "Designer at Mortenson",
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karl-gooch-57522013b",
+      "name": "Karl Gooch",
+      "summary": null,
+      "location": "Chelmsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shailesh-suman-688a41145",
+      "name": "Shailesh Suman",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-tilbury-94232a170",
+      "name": "Lee Tilbury",
+      "summary": "Managing Director at Neater Heat Ltd",
+      "location": "Aldershot"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-dekker-324346187",
+      "name": "James Dekker",
+      "summary": "Database Administrator at Daktronics",
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahmoud-alkady-523849191",
+      "name": "Mahmoud Alkady",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/faith-gustafson-1022521ab",
+      "name": "Faith Gustafson",
+      "summary": "Training Services Supervisor | Passionate about designing learning that reflects the real world",
+      "location": "Granite Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omer-osman-4591891b2",
+      "name": "Omer Osman",
+      "summary": "CORNING Product Manager في Aptec - an Ingram Micro Company",
+      "location": "Riyadh"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Ben Aesoph",
+      "link": "https://www.linkedin.com/in/ben-aesoph-88971416",
+      "summary": "International Market Manager at Daktronics",
+      "location": "Brookings, SD"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-14T00:00:00Z"
+  }
+}

@@ -295,6 +295,10 @@ export default function ContactDetailsPage() {
     }
     setEmailSendStatus({ message: '', type: '' });
     try {
+      // Live self-assessment score (from the journey) — passed so the email shows it next to the AI score.
+      const selfScore = Number(localStorage.getItem('selfAssessmentScore')) || null;
+      let selfSubScores = null;
+      try { selfSubScores = JSON.parse(localStorage.getItem('selfAssessmentSubScores') || 'null'); } catch { selfSubScores = null; }
       const response = await fetch('/api/send-email', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -304,6 +308,8 @@ export default function ContactDetailsPage() {
           fortuneText: fortuneContentForEmail,
           fullName: userFullName,
           blueprintHtml: blueprintContentForEmail,
+          selfScore,
+          selfSubScores,
         }),
       });
       const result = await response.json();
@@ -536,6 +542,19 @@ export default function ContactDetailsPage() {
           <h2 className="text-3xl font-bold mb-4">All Set!</h2>
           <p className="text-lg mb-2">Your fortune has been shared and your details recorded.</p>
           <p className="text-md text-mw-gold mb-8">Thank you for using the MW Fortune Teller!</p>
+
+          {/* Email-gated: the twin + report are delivered to the inbox, not shown here
+              (so a real address is needed to receive them). */}
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2 }}
+            className="mb-8 p-5 rounded-xl bg-mw-light-blue/10 border border-mw-light-blue/40 text-center"
+          >
+            <p className="text-xs uppercase tracking-widest text-mw-light-blue mb-1">&#128229; Check your inbox</p>
+            <p className="text-lg font-semibold text-white">Your twin and full fortune report are on their way to your email.</p>
+            <p className="text-xs text-white/50 mt-2">Find out who you&apos;re matched with &mdash; then drop by the booth and we&apos;ll introduce you.</p>
+          </motion.div>
 
           {/* Recommended Products Section */}
           {recommendedProducts.length > 0 && (

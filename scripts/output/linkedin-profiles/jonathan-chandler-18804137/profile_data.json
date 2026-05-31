@@ -1,0 +1,742 @@
+{
+  "public_identifier": "jonathan-chandler-18804137",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/9ed046c71cd0380b9fd725989f528b16",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/4df6e61a848de5e60d3398db720e39c6",
+  "first_name": "Jonathan",
+  "last_name": "Chandler",
+  "full_name": "Jonathan Chandler",
+  "follower_count": 899,
+  "occupation": "UK CEO at Wildstone",
+  "headline": "UK CEO at Wildstone",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": null,
+      "company": "Wildstone",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wildstone",
+      "company_facebook_profile_url": null,
+      "title": "UK CEO",
+      "description": "Wildstone was established to provide an outdoor advertising consultancy and development service for landowners and property investors in the public and private sector. Our single aim is to help property owners and managers unlock opportunities for generating long-term income from outdoor advertising and add value to their property assets. Our services cover: - Site Identification & Assessment - Design - Planning - Hardware Procurement - Site Construction & Build Management - Marketing and Media Contract Negotiations - Asset Management The team have extensive experience in the outdoor advertising market and have been responsible for some of the most iconic digital outdoor advertising sites in the UK.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bdb52bd75e419065e7a81b3dd591101b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2013
+      },
+      "company": "Transport for London",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/transport-for-london",
+      "company_facebook_profile_url": null,
+      "title": "Principal Surveyor",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b398aadba496e319f1edcfea3539154f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2007
+      },
+      "company": "The Wireless Infrastructure Group",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Surveyor",
+      "description": null,
+      "location": "Market Harborough",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": null,
+      "degree_name": "Land Economy",
+      "school": "University of Cambridge",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cambridge",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6f4a10af29e366632779053684ecafc4",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Loughborough Grammar School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "MRICS",
+      "license_number": null,
+      "display_source": null,
+      "authority": "RICS",
+      "url": null
+    }
+  ],
+  "connections": 821,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jonathanfletcherenduranceland",
+      "name": "Jonathan Fletcher",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lukearmstrongwildstone",
+      "name": "Luke Armstrong",
+      "summary": "Development Manager at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimvandenbroek",
+      "name": "Kim van den Broek",
+      "summary": "Property Manager of outdoor media",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenniferlsmith",
+      "name": "Jennifer Smith",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartwellmanmrics",
+      "name": "Stuart Wellman",
+      "summary": "Chartered Surveyor",
+      "location": "Cirencester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janinedmills",
+      "name": "Janine Mills",
+      "summary": "Retired, but active volunteering roles within North Wales",
+      "location": "Waunfawr"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidthomas249",
+      "name": "David Thomas",
+      "summary": "Transforming lives through Community 🕊 Life and Mindset Coach | 🌎 Founder of Inspired Nation",
+      "location": "Inverness"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kunal-tulsiani",
+      "name": "Kunal Tulsiani",
+      "summary": "Entrepreneur, Real Estate Developer, and Investor | Managing Director at Impact Assets Ltd | Passionate about Personal Growth and Social Impact",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashleycrawford78",
+      "name": "Ashley Crawford, MRICS, MCIOB",
+      "summary": "MSc Building Surveyor, Retrofit Coordinator, Retrofit Lead Professional",
+      "location": "Stapleford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashbhatti1",
+      "name": "Arshad Bhatti",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/la-vida-paul-williams",
+      "name": "Paul Williams",
+      "summary": "CEO & Founder | La Vida | Golden Visas | Citizenship by Investment",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexander-ardley-ingram",
+      "name": "Alexander Ardley-Ingram",
+      "summary": "Corporate Development (M&A) Associate",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hebdenjill",
+      "name": "Jill Hebden",
+      "summary": "UK Managing Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-j-smith-frics-54b3ab15",
+      "name": "Mark J. Smith FRICS",
+      "summary": "Group Chief Executive Officer of Mapeley Estates LTD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-wr%25C3%25B3bel-14989b37",
+      "name": "Paula Wróbel",
+      "summary": "Head of Marketing at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-jim-gibson-4900354a",
+      "name": "James ( Jim ) Gibson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrismackintoshireland",
+      "name": "Chris Ireland",
+      "summary": "Non Exec Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donna-king-4a0462236",
+      "name": "Donna King",
+      "summary": "Commercial Contracts and Finance",
+      "location": "Cheltenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-dayeh-96941a4",
+      "name": "Sam Dayeh",
+      "summary": "Group Strategy Director and UK Board Member",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-klein-23b2675",
+      "name": "Danielle Klein",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-cole-71541a7",
+      "name": "Mary Cole",
+      "summary": "CEO at Skyline Whitespace",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-crathorne-bsc-hons-165b63a",
+      "name": "Richard Crathorne BSc (Hons)",
+      "summary": "Chief Executive, John Shepherd Sales, Lettings & Property Management",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-laidlaw-63104114",
+      "name": "Tom Laidlaw",
+      "summary": "Chairman at Cordatus Real Estate Limited",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-kelly-71357314",
+      "name": "Ben Kelly",
+      "summary": "West Green Planning Ltd•670 followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulinman75",
+      "name": "Paul Inman",
+      "summary": "CEO & Co-Founder at AskBOB | Making billboard advertising simpler for SMEs and brands | AI planning, mapping and booking applications | Ex-OOH operator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/philip-allard-57539018",
+      "name": "Philip Allard",
+      "summary": null,
+      "location": "Kensington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-vandermolen-61527b1b",
+      "name": "Jonathan Vandermolen",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alison-vassiliou-56419824",
+      "name": "Alison Vassiliou",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonas-glad-doohclick",
+      "name": "Jonas Glad",
+      "summary": "CEO at Doohclick AB: a definitive ad management platform for \nthe out of home space.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/masslambresa",
+      "name": "Mass Lambresa",
+      "summary": "DOOHable Ltd•7K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/warren-milroy-96024126",
+      "name": "warren milroy",
+      "summary": "Director at Vivid Outdoor Media Solutions Limited",
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julian-p-5509b726",
+      "name": "Julian P.",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dilukshileanage",
+      "name": "Dilukshi Leanage",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-werth-80062229",
+      "name": "Richard Werth",
+      "summary": "CEO at Troy Homes Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-braunholtz-62775929",
+      "name": "Mike Braunholtz",
+      "summary": "CEO and Owner Prestige  Property Group",
+      "location": "Dorchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-duty-b407592a",
+      "name": "Michael Duty",
+      "summary": "Head of Development at Wildstone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-kirby-16272134",
+      "name": "Jeff Kirby",
+      "summary": "CEO Irbis Vektra",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-keenan-32a19636",
+      "name": "Marc Keenan",
+      "summary": "Managing Director, Ocean Scotland. Partner, Forrest Hotels",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-nelson-sullivan-79a74244",
+      "name": "James Nelson-Sullivan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-jackson-%25f0%259f%2593%258c-23624347",
+      "name": "Lisa Jackson 📌",
+      "summary": "Head of Partnerships - Roadside Development at Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-bonner-93487b49",
+      "name": "Laura Bonner",
+      "summary": null,
+      "location": "Stamford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-ballantine-68095349",
+      "name": "Tom Ballantine",
+      "summary": "Development Director, UK at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damian-cox-baa6014a",
+      "name": "Damian Cox",
+      "summary": "Global CEO & Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henry-thomas-01058661",
+      "name": "Henry Thomas",
+      "summary": "Senior Development Manager at Wildstone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-skinner-54b61466",
+      "name": "Steven Skinner",
+      "summary": "CEO & Executive Board Member",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-beresford-39724192",
+      "name": "Paul Beresford",
+      "summary": null,
+      "location": "Chelmsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mimi-nguyen-63975394",
+      "name": "Mimi Nguyen",
+      "summary": "Financial Controller at Belstaff",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivo-ter-wee-202a28a1",
+      "name": "Ivo ter Wee",
+      "summary": "(D)OOH development",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-chang-153838112",
+      "name": "Alan Chang",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/polina-zaitseva-24486a152",
+      "name": "Polina Zaitseva",
+      "summary": "Independent Residential Property Manager | Prime London Real Estate | Trusted by Portfolio Landlords | Growing Expert in Full - Service Property Management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alice-rench-b38633179",
+      "name": "Alice Rench",
+      "summary": "Property Executive at Wildstone",
+      "location": "Cheltenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhavandeep-singh-puaar-a8a6b9181",
+      "name": "Bhavandeep Singh Puaar",
+      "summary": "Assistant Financial Accountant at Wildstone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/callum-dennis-07b0a41a1",
+      "name": "Callum Dennis",
+      "summary": "Regional Development Manager at Wildstone",
+      "location": "Hemel Hempstead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-osborne-6791b8222",
+      "name": "Alex Osborne",
+      "summary": "UK Head of Real Estate (Legal)",
+      "location": "London"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I’m happy to share that this week I started a new position as Marketing Manager UK at Wildstone!",
+      "link": "https://www.linkedin.com/posts/hollypickard_im-happy-to-share-that-this-week-i-started-activity-7399815896141234177-OSa0",
+      "activity_status": null
+    },
+    {
+      "title": "The latest study by Outsmart OOH and PwC, shows that UK OOH advertising industry revenues grew 4.4% year-on-year in Q3 2025, with the market also…",
+      "link": "https://www.linkedin.com/posts/wildstone_ooh-dooh-outdoormediainfrastructure-activity-7401211273411084288-afhE",
+      "activity_status": null
+    },
+    {
+      "title": "Following our acquisition of London Lites, we’re pleased to continue our growth in the UK with the appointment of Sam Dayeh as Group Strategy…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_backliteuk-desirablebydesign-desirablebytomorrow-activity-7400135084906893312-0Ox3",
+      "activity_status": null
+    },
+    {
+      "title": "Great to have our next generation Pulse Hubs on the streets of Belfast through our long-standing partnership with Global Northern Ireland We’re…",
+      "link": "https://www.linkedin.com/posts/pulsehubuk_news-partnership-northernireland-activity-7399834080827084800-qf8R",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to share that Out of Home Capital has advised London Lites, CEO Sam Dayeh, and the wider management team on the successful sale of the…",
+      "link": "https://www.linkedin.com/posts/oohcapital_delighted-to-share-that-out-of-home-capital-activity-7399786694142709760-YTx3",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group (MMG), a subsidiary of 2PointZero Group (formerly Multiply Group), has revealed the full 100 per cent acquisition of London…",
+      "link": "https://www.linkedin.com/posts/campaignme_multiply-media-group-acquires-london-lites-activity-7399719013788041216-5ZCU",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group is proud to announce the full acquisition of London Lites, accelerating our UK expansion and strengthening our global DOOH…",
+      "link": "https://www.linkedin.com/posts/mmg-global_multiplymediagroup-backliteuk-desirablebytomorrow-activity-7399465805098156032-uqkv",
+      "activity_status": null
+    },
+    {
+      "title": "London, that’s a wrap, and what a week it’s been! After an energising few days of client conversations, industry insights and on-the-ground market…",
+      "link": "https://www.linkedin.com/posts/sal-daoud-9ba6876b_backliteuk-mmg-activity-7397758762222014464-CQ7O",
+      "activity_status": null
+    },
+    {
+      "title": "Faces of Wildstone | Meet Scott Sargeant Before we get into billboards, it’s worth noting: Scott ran the Boston Marathon last year, one of several…",
+      "link": "https://www.linkedin.com/posts/wildstone-australia_outdoormediainfrastructure-dooh-ooh-activity-7397473480159641600-Mdfv",
+      "activity_status": null
+    },
+    {
+      "title": "I was saddened to hear the news of 75Media closing down today. Behind every billboard, every presentation and LinkedIn post of theirs, there is a…",
+      "link": "https://www.linkedin.com/posts/nigel-clarkson-16a99023_i-was-saddened-to-hear-the-news-of-75media-activity-7397032039452987394-9bTi",
+      "activity_status": null
+    },
+    {
+      "title": "Enjoy London, exciting times ahead!",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_enjoy-london-exciting-times-ahead-activity-7394257522443849728-oTll",
+      "activity_status": null
+    },
+    {
+      "title": "I’m also over the moon to share that We Stay is a finalist for two more awards at the Go Leicestershire 2025 Tourism & Hospitality Awards! 🌟 That…",
+      "link": "https://www.linkedin.com/posts/sophie-jones-a223b221_im-also-over-the-moon-to-share-that-we-stay-activity-7394286650878480384-o1Ts",
+      "activity_status": null
+    },
+    {
+      "title": "⚡No one notices outdoor advertising anymore... Funny - our data says otherwise 👀 Our digital screens are placed in high-footfall, high-attention…",
+      "link": "https://www.linkedin.com/posts/smartoutdoor_smartoutdoor-ooh-dooh-activity-7394630203911647232-Or4x",
+      "activity_status": null
+    },
+    {
+      "title": "The launch of BackLite UK marks a defining moment in our global expansion. From the United Arab Emirates to the UK, we’re building on our commitment…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_backliteuk-backlitemedia-london-activity-7391758246132465664--Xq5",
+      "activity_status": null
+    },
+    {
+      "title": "Our partnership with Alpha Publicidad Exterior continues to strengthen, as Wildstone España hands over media sales for 30 new panels across 17 prime…",
+      "link": "https://www.linkedin.com/posts/wildstone_ooh-dooh-outdoormediainfrastructure-activity-7391148685663059968-8mqu",
+      "activity_status": null
+    },
+    {
+      "title": "We’re very happy to report that our CEO and Founder, Damian Cox, has reached Ama Dablam Base Camp (4,570m) in Nepal, continuing his inspiring effort…",
+      "link": "https://www.linkedin.com/posts/wildstone_amadablam-charityclimb-lupus-activity-7386700533979455488-wUdJ",
+      "activity_status": null
+    },
+    {
+      "title": "Yesterday marked one full year since Aurora Outdoor Media officially began its journey — and what a great year it’s been. From our very first name…",
+      "link": "https://www.linkedin.com/posts/aurora-outdoor-media_yesterday-marked-one-full-year-since-aurora-activity-7384606883191349248-hV9J",
+      "activity_status": null
+    },
+    {
+      "title": "🍎 10,802,275 portions of fruit & veg (and counting) - Tesco is celebrating a big milestone on our Old Street Digital Canvas. The campaign…",
+      "link": "https://www.linkedin.com/posts/city-outdoor_ooh-dooh-oldstreet-activity-7384219251944927233-l_o7",
+      "activity_status": null
+    },
+    {
+      "title": "Multiply Media Group is represented on the IAB MENA Board, with the appointment of Henrietta Shakespeare, Chief of Staff, as a Board Member. This…",
+      "link": "https://www.linkedin.com/posts/mmg-global_multiplymediagroup-exponentialpotential-activity-7424412540039917568-cNuL",
+      "activity_status": null
+    },
+    {
+      "title": "Dalston Gateway is NOW LIVE. Our newest large format digital landmark in East London is fully built and looking fantastic. Positioned at the Lea…",
+      "link": "https://www.linkedin.com/posts/city-outdoor_ooh-dooh-london-activity-7424039508733763584-eCkY",
+      "activity_status": null
+    },
+    {
+      "title": "January done ✅ and another busy month it's been! We are moving fast to expand the business on two fronts: people and our portfolio. First, I’m…",
+      "link": "https://www.linkedin.com/posts/gb-outdoor-ltd_january-done-and-another-busy-month-its-activity-7424108724186931201-Y2q1",
+      "activity_status": null
+    },
+    {
+      "title": "Really great to spend time in Madrid with our amazing Wildstone España  team . We have some fantastic locations and visited many including this…",
+      "link": "https://www.linkedin.com/posts/andrew-bren-foster-68569316_really-great-to-spend-time-in-madrid-with-activity-7423002716467167232-Kajk",
+      "activity_status": null
+    },
+    {
+      "title": "2026 is off to a strong start with a new digital asset now live in regional Victoria! This 6x3 site sits above the Bendigo Bank awning in the heart…",
+      "link": "https://www.linkedin.com/posts/wildstone-australia_ooh-dooh-outdoormediainfrastructure-activity-7423887981524140032-_E_r",
+      "activity_status": null
+    },
+    {
+      "title": "Here’s a look at some of the #DOOH sites delivered by Wildstone in the final quarter of 2025 for our media operator partners. From digital upgrades…",
+      "link": "https://www.linkedin.com/posts/wildstone_dooh-dooh-ooh-activity-7421525706779566080-dbHA",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you Jennifer Smith from Zayo Europe for sharing with Daniel Ponte Fernández  her excitement about b2b connectivity, which faces strong…",
+      "link": "https://www.linkedin.com/posts/alessandroravagnolo_b2bfibre-wholesale-fttp-activity-7417140378799251456-g07x",
+      "activity_status": null
+    },
+    {
+      "title": "!! Now live in Snowy Stafford !!❄️ This billboard for Stafford Grammar School has just gone up, doing its job regardless of the winter…",
+      "link": "https://www.linkedin.com/posts/aurora-outdoor-media_now-live-in-snowy-stafford-this-activity-7415414369070841856-DAmv",
+      "activity_status": null
+    },
+    {
+      "title": "London Lites is now BackLite UK. This marks an important step in our UK strategy, bringing a premium digital Out-of-Home portfolio fully under the…",
+      "link": "https://www.linkedin.com/posts/james-bicknell-backlite_london-lites-is-now-backlite-uk-this-marks-activity-7416806810281582592-oN1Z",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing everyone a very Merry Christmas and a Happy New Year from all of us at Wildstone. 💫 #DOOH #OOH",
+      "link": "https://www.linkedin.com/posts/wildstone_dooh-ooh-activity-7408809407435886592-qNje",
+      "activity_status": null
+    },
+    {
+      "title": "Christmas season on Berlin’s Kurfürstendamm ✨ Beautifully executed 3D DOOH campaign from Chanel, live on our iconic Berlin Videowall at the heart of…",
+      "link": "https://www.linkedin.com/posts/wildstone_dooh-ooh-3d-activity-7407378277335519232-qRYu",
+      "activity_status": null
+    },
+    {
+      "title": "We’re incredibly proud of our Founder and CEO, Damian Cox, whose Ama Dablam climb has now raised almost £165,000 for Young Epilepsy and Lupus…",
+      "link": "https://www.linkedin.com/posts/wildstone_lupus-epilepsy-charity-activity-7406705613222727680-lzdN",
+      "activity_status": null
+    },
+    {
+      "title": "The last few weeks have been an emotional rollercoaster after the news about 75Media. It’s been tough, but it’s been brilliant to see so many of our…",
+      "link": "https://www.linkedin.com/posts/joe-lawson-910038113_the-last-few-weeks-have-been-an-emotional-activity-7406279152523288576-XaFz",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jonathan-chandler-18804137_dooh-ooh-activity-6891392790203305984-8chR",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jonathan-chandler-18804137_ooh-dooh-outdoormedia-activity-6897470402260455425-IaJe",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/jonathan-chandler-18804137_dooh-ooh-digitalbillboards-activity-6859871422198636544-TzJU",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://ca.linkedin.com/in/jonathan-chandler-130a7023",
+      "summary": "Company Owner of Scarlet Oak Tree Care",
+      "location": "Oakville, ON"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/jonathan-chandler-b6424a13",
+      "summary": "Chief Executive Officer at Quiller Consultants",
+      "location": "London"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jonathan-chandler-4975a0b4",
+      "summary": "151A - Aviation Maintenance Technician at US Army",
+      "location": "Clarksville, TN"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jonathan-chandler-8b71a812",
+      "summary": "Owner at Chandler Investment Properties, Inc.",
+      "location": "Florence, SC"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://nz.linkedin.com/in/jonathan-chandler-54738737",
+      "summary": "Project Manager Spartan Construction",
+      "location": "Waikato, New Zealand"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/jonchandlerreputation",
+      "summary": "Founder at The Tilton Consultancy",
+      "location": "London"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jonathanmchandler129",
+      "summary": "US Navy Veteran | Materials Management | Inventory Control | Distribution | Supervisor | Seeking New Opportunities in the Houston, TX area (i.e., Houston, Conroe, The Woodlands, Spring, Tomball, etc.)",
+      "location": "Spring, TX"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/j-chandler",
+      "summary": "Development & Technical Specialist at SOCOTEC UK",
+      "location": "Bretby"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/jonathan-chandler-8383111b",
+      "summary": "Reporting Solutions Architect",
+      "location": "Greater Ipswich Area"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/jonathan-chandler-b0aab44",
+      "summary": null,
+      "location": "Telford"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://uk.linkedin.com/in/jonathan-chandler-0a8619158",
+      "summary": "Independent Market Research Consultant and Author",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jonathan-l-chandler",
+      "summary": null,
+      "location": "West Chester, PA"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jonathan-chandler-75b74b1a",
+      "summary": null,
+      "location": "United States"
+    },
+    {
+      "name": "Jonathan Chandler",
+      "link": "https://www.linkedin.com/in/jon-chandler",
+      "summary": null,
+      "location": "Jamestown, NC"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Wildstone Media Consulting breaks the £100m barrier",
+      "link": "https://www.linkedin.com/pulse/wildstone-media-consulting-breaks-100m-barrier-jonathan-chandler",
+      "published_date": {
+        "day": 12,
+        "month": 10,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQERcZ5IZ-5yCQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520245897341?e=2147483647&v=beta&t=4byo-ghySyXXhTl2dnXvZeT8C5iZjZMlhNpJdK-Wi5Y"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:55:41Z"
+  }
+}

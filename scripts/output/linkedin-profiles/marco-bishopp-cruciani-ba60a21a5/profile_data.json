@@ -1,0 +1,705 @@
+{
+  "public_identifier": "marco-bishopp-cruciani-ba60a21a5",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/5c79bb206f093c13f212ddf87a144d38",
+  "background_cover_image_url": null,
+  "first_name": "Marco",
+  "last_name": "Bishopp-Cruciani",
+  "full_name": "Marco Bishopp-Cruciani",
+  "follower_count": 494,
+  "occupation": "Client Executive at Talon",
+  "headline": "OOH Planning Specialist",
+  "summary": "QUT Business Management Alumni, with experience in the outdoor advertising industry. Presently, I am \ncompleting a internship program with global media company Talon Outdoor. \n\nLooking ahead, my aspirations lead me to eagerly pursue the commencement of an MBA program in the near future, which will undoubtedly elevate my knowledge and expertise to new heights. \n\nBeyond my professional pursuits, a deep passion for all facets of cycling and the vibrant culture that surrounds it also occupies a significant place in my life.",
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Talon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Client Executive",
+      "description": null,
+      "location": "Greater London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2024
+      },
+      "company": "Talon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Planning Intern",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "company": "Anyday",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/anydaygroup",
+      "company_facebook_profile_url": null,
+      "title": "Administrative Assistant",
+      "description": null,
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/78ad774ad7dd11294398253e3d8a9171"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "ANYDAY",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/anydaygroup",
+      "company_facebook_profile_url": null,
+      "title": "Administrative Intern",
+      "description": null,
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/78ad774ad7dd11294398253e3d8a9171"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Norman Hotel",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/norman-hotel",
+      "company_facebook_profile_url": null,
+      "title": "Food And Beverage Attendant",
+      "description": null,
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3c96c8f3be8222e2c1a50417e02762ee"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "Studio De Velo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/studio-de-velo",
+      "company_facebook_profile_url": null,
+      "title": "Sales Associate",
+      "description": null,
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2021
+      },
+      "company": "Bishopp",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bishopp-outdoor-advertising-pty-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Business Development Representative",
+      "description": null,
+      "location": "Brisbane, Queensland, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b8bd4ca0ee873fdf6610635c706880a1"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Griffith University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2023
+      },
+      "field_of_study": "Business, Management, Marketing, and Related Support Services",
+      "degree_name": "Bachelor's degree",
+      "school": "QUT (Queensland University of Technology)",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Qut Cycling Club - Club Executive \nQut Cliffhangers (rock climbing club) club member \nQut Entrepreneurship"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "TAFE Queensland",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "St Peters Lutheran College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "French",
+    "Italian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "French",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Italian",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 486,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nick-j-kaye",
+      "name": "Nick Kaye",
+      "summary": "Chief Operating Officer at Sierra Capital Club",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-brandis",
+      "name": "Dan Brandis",
+      "summary": "Corporate Manager at Business News",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliviabesmehn",
+      "name": "Olivia Besmehn",
+      "summary": "Head of Design and Socials",
+      "location": "Coolangatta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-herrington",
+      "name": "Marc Herrington",
+      "summary": "MBA | Client Manager at Talon | OOH Advertising & Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kayla-forrest-605381299",
+      "name": "Kayla Forrest",
+      "summary": null,
+      "location": "Nashville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikki-hind",
+      "name": "Nikki Hind DLI",
+      "summary": null,
+      "location": "Wodonga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hiltonlipner",
+      "name": "Hilton Lipner",
+      "summary": "Business Development Manager at EVOLUTION DISPLAYS LIMITED",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samgcreative",
+      "name": "Sam Grainger",
+      "summary": "Graphic Designer",
+      "location": "Sheffield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinesh-dhungana-908604251",
+      "name": "Dinesh Dhungana",
+      "summary": "ANYDAY.Hospitality",
+      "location": "Bowen Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roger-tse",
+      "name": "Roger Tse",
+      "summary": "Urban Designer / Interior Designer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-vrtelkova-723ab6142",
+      "name": "Natalie Vrtelkova",
+      "summary": "Hospitality and gastronomy enthusiast",
+      "location": "Teneriffe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noor-yasir-859745179",
+      "name": "noor yasir",
+      "summary": "Architecture Engineer _ Interior Design _ Graphic Design",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carl-richards-48052923a",
+      "name": "Carl Richards",
+      "summary": "Operator at JWB Constructions",
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/omharia-pierre-81a557a6",
+      "name": "Omharia Pierre",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leon-robertson-256b5b252",
+      "name": "Leon Robertson",
+      "summary": null,
+      "location": "Salisbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wanitasparrsmp",
+      "name": "Wanita Sparr",
+      "summary": "Bowen Flower Farm Owner",
+      "location": "Coral Sea"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-norsworthy-0775347a",
+      "name": "Amanda Norsworthy",
+      "summary": null,
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammadmoezzi",
+      "name": "Bobak Moezzi",
+      "summary": "Business Owner at Wexpert.com.au\nFounder & eCommerce Specialist at Jitsu.com.au",
+      "location": "Southport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-goodwin-1786489",
+      "name": "Mary Goodwin",
+      "summary": "Investment Markets",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-chang-6aba8615",
+      "name": "Daniel Chang",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-stevens-9b047b19",
+      "name": "Natalie Stevens",
+      "summary": "Business Development Manager at COJO",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-cuddeford-bateman-63a8aa1b",
+      "name": "Nicola Cuddeford (Bateman)",
+      "summary": "Shared Services Accounts Payable Manager at Cleanaway",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rima-ravenga-aaa17632",
+      "name": "Rima Ravenga",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renatas-blazys-05a2b233",
+      "name": "Renatas Blazys",
+      "summary": "CEO at UAB Kirpte, production of technical sportswear for cycling, triathlon, running and more",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/waverly-phillipson-41158146",
+      "name": "Waverly Phillipson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kass-weaver-63a44b48",
+      "name": "Kass Weaver",
+      "summary": "Online Operations Manager",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-nelson-10183649",
+      "name": "Victoria Nelson",
+      "summary": "BDM - LPG & industrial gases",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-rasmussen-25502852",
+      "name": "Marie Rasmussen",
+      "summary": "Account Manager",
+      "location": "Great Sandy Strait"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholas-atkins-3a41b452",
+      "name": "Nicholas Atkins",
+      "summary": "Co-Founder at Hotel Miami Agency",
+      "location": "Burleigh Heads"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carly-clelland-b2472852",
+      "name": "Carly Clelland",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brodie-thompson-8a278855",
+      "name": "Brodie Thompson",
+      "summary": "Senior Manager Campaigns @ Philip Morris International",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelly-ware-b3b44057",
+      "name": "Kelly Ware",
+      "summary": "Business Development Manager at C-Learning",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugene-lynch-1126b661",
+      "name": "Eugene Lynch",
+      "summary": "Providing easy hydration solutions for healthier schools, workplaces and communities",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josh-cannon-b4396270",
+      "name": "Josh Cannon",
+      "summary": "Sales Executive at Canon Australia",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-clarke-87549171",
+      "name": "Peter Clarke",
+      "summary": "Business Development Manager Domain Group",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/riyadul-islam-ba6b8372",
+      "name": "Riyadul Islam",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-franklin-34485674",
+      "name": "Luke Franklin",
+      "summary": "General Sales Manager at Bishopp Outdoor Advertising Pty Ltd",
+      "location": "Kelvin Grove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shannon-slack-b2384076",
+      "name": "Shannon Slack",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-ellen-harper-79890878",
+      "name": "Beth Ellen Harper",
+      "summary": "Senior Accountant",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-mancini-987aa479",
+      "name": "Joe Mancini",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maz-mcewan-51209485",
+      "name": "Maz McEwan",
+      "summary": "DESIGN | PHOTO | WEB | VIDEO | UI",
+      "location": "Birkdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graham-muirhead-a50ab786",
+      "name": "GRAHAM MUIRHEAD",
+      "summary": "business development manager at Shop A Docket",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-pearson-64bb758a",
+      "name": "Joe Pearson",
+      "summary": null,
+      "location": "Morzine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suzanne-burgess-dean-11326391",
+      "name": "Suzanne Burgess-Dean",
+      "summary": "Accountant",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bobby-rowe-41b28195",
+      "name": "Bobby Rowe",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-stubbins-a723a797",
+      "name": "Paul Stubbins",
+      "summary": "Operations Supervisor at Bishopp Outdoor Advertising Pty Ltd",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-ashby-0297b09a",
+      "name": "Amy Ashby",
+      "summary": "Director Of Sales Marketing",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonard-masacupan",
+      "name": "Leonard Masacupan",
+      "summary": "Experience Partnership and Contracting Manager at Luxury Escapes",
+      "location": "Bella Vista"
+    },
+    {
+      "link": "https://www.linkedin.com/in/regina-sarmiento-060381b6",
+      "name": "Regina Sarmiento",
+      "summary": "Customs Broker at Compliant Customs",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilymirfield",
+      "name": "Emily Mirfield",
+      "summary": "Reservations and Events Executive",
+      "location": "Gold Coast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-seeto",
+      "name": "Melissa Seeto",
+      "summary": "Layout Co-ordinator at News Corp",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-king-ba82b315a",
+      "name": "Alan King",
+      "summary": "Truck Driver at SUEZ Australia & New Zealand",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackson-trudel-53a584162",
+      "name": "Jackson Trudel",
+      "summary": "Owner - Tru Taylored Touring",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrion-williams-091528169",
+      "name": "Darrion Williams",
+      "summary": "Experienced B2B & B2C Sales Professional",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-labastida-225073172",
+      "name": "Mary Labastida",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-gambaro-ab337b175",
+      "name": "John Gambaro",
+      "summary": null,
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nuwanjayathma",
+      "name": "Nuwan Jayathma",
+      "summary": "Graduate Civil Engineer | Architectural Drafting | Project Coordination | 2D/3D Drawings | AutoCAD | Revit | I Help Leverage Technical Proficiency to Add Maximum Value to Construction Projects 🚧",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-rocca-924900180",
+      "name": "Lawrence Rocca",
+      "summary": null,
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-pinto-12990b180",
+      "name": "ryan pinto",
+      "summary": "--",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leslie-henriksen-92b2a8183",
+      "name": "Leslie Henriksen",
+      "summary": "Marketing Instructor & Creative Problem-Solver",
+      "location": "Santee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-lunn-b2737218a",
+      "name": "Jonathan Lunn",
+      "summary": "Digital Infrastructure Manager at Bishopp",
+      "location": "Nelson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daisy-davis-1067611a0",
+      "name": "Daisy Davis",
+      "summary": "Mascot at Davis Lawyers Australia",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simeon-stoyanov-9577b31b6",
+      "name": "Simeon Stoyanov",
+      "summary": "Freelance Writer & Founder at Nuclear Emails",
+      "location": "Veliko Tarnovo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joy-wong-80334b1b7",
+      "name": "Joy Wong",
+      "summary": null,
+      "location": "Nanchang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-saunders-3a578b1ba",
+      "name": "Karen Saunders",
+      "summary": null,
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "🌟 Presenting Our Next Stop Research to Talon! 🌟 This morning, we had the opportunity to present our Next Stop research to Talon—diving into key…",
+      "link": "https://www.linkedin.com/posts/ruby-juchau-066278134_presenting-our-next-stop-research-to-talon-activity-7290323283420282880-DLuX",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely thrilled to see this campaign go live! British Heart Foundation's❤️ In Living Memory ❤️ celebrates 65 survivors of cardiovascular disease…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_ooh-activity-7435293633559564288-GN8j",
+      "activity_status": null
+    },
+    {
+      "title": "WHAT A NIGHT! Last night, Bauer Media Outdoor UK x Campaign UK hosted the 2025 Outdoor Media Awards, and I’m thrilled to share that PHD came home…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_ooh-outdoormediaawards-campaign2025-activity-7339281655443898369--zES",
+      "activity_status": null
+    },
+    {
+      "title": "OOH WOW! Last week, I had the privilege of travelling to Mexico City for the World Out of Home Organization Congress, and what an experience it was!…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_ooh-woo2025-outofhome-activity-7339276502439555072-qF15",
+      "activity_status": null
+    },
+    {
+      "title": "Still buzzing from an unforgettable experience on the NABS Fast Forward Course ⭐️ Being part of Team Neverland and responding to The Children's…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_nabs-fastforward-creativity-activity-7316047969131077634-fALX",
+      "activity_status": null
+    },
+    {
+      "title": "It's a big deal 👀 I'm thrilled to share that one of the campaigns I've been working on with the fantastic team at Virgin Atlantic & PHD is now live!…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_ooh-proudmoment-virginatlantic-activity-7236667364656713728-fu-_",
+      "activity_status": null
+    },
+    {
+      "title": "We are amid Movember, that time of year when I attempt to grow a moustache... However... As much as I know you will love my Mo, it's not all about…",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_marco-bishopp-crucianis-mo-space-activity-7262076796395757569-SJIP",
+      "activity_status": null
+    },
+    {
+      "title": "Habitat has done it again! This campaign's creative executions are captivating, and I can't wait to see them in person!",
+      "link": "https://www.linkedin.com/posts/marco-bishopp-cruciani-ba60a21a5_ad-of-the-day-habitat-celebrates-60-years-activity-7196474375393472513-U-xN",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-23T00:00:00Z"
+  }
+}

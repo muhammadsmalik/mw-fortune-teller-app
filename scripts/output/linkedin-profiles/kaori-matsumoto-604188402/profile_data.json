@@ -1,0 +1,107 @@
+{
+  "public_identifier": "kaori-matsumoto-604188402",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/c535465836ea9afa3c75cd69c70ec95a",
+  "background_cover_image_url": null,
+  "first_name": "Kaori",
+  "last_name": "Matsumoto",
+  "full_name": "Kaori Matsumoto",
+  "follower_count": 1,
+  "occupation": "Assistant Manager at NTT DOCOMO",
+  "headline": "Strategy & Business Development | M&A / Partnerships | Incoming MBA Candidate at Durham University Business School |Assistant Manager at NTT DOCOMO",
+  "summary": "I joined SoftBank. Corp in Japan and built over ten years of experience in the telecom industry. (2013.4-2024.8)<br>I led green transformation projects across Southeast Asia, collaborating with overseas partners. (e.g. smart building, smart city, AI related services)<br><br>Then, I moved to NTT Docomo to focus more on business strategy and investment execution. <br>Currently, I’m leading the global expansion of our digital out-of-home advertising services through M&amp;A and partnership initiatives.(2024.9- )",
+  "location_str": "日本 東京都 東京",
+  "country": "JP",
+  "country_full_name": "Japan",
+  "city": "Chiyoda-Ku",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "NTT DOCOMO",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ntt-docomo",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7c5fe938e0d6f32e3d6307f48589e127"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2024
+      },
+      "company": "SoftBank",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/softbank-mobile",
+      "company_facebook_profile_url": null,
+      "title": "Development Team Lead",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0702022d2dd41927b4726f9f7cca5200"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Sophia University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/sophiauniv",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcd602e0a6b29055f6220d9f9506ac1c",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "German",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-01T00:00:00Z"
+  }
+}

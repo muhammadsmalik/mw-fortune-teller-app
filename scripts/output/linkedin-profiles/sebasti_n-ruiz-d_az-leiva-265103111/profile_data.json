@@ -1,0 +1,280 @@
+{
+  "public_identifier": "sebastián-ruiz-díaz-leiva-265103111",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/1a2838e2031e0c39c288bf27b08efd9e",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Sebastián",
+  "last_name": "Ruiz Díaz Leiva",
+  "full_name": "Sebastián Ruiz Díaz Leiva",
+  "follower_count": 1667,
+  "occupation": "Gerente general at Amplify Smart City",
+  "headline": null,
+  "summary": null,
+  "location_str": "Paraguay",
+  "country": "PY",
+  "country_full_name": "Paraguay",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Amplify Smart City",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amplify-smart-city",
+      "company_facebook_profile_url": null,
+      "title": "Gerente general",
+      "description": null,
+      "location": "Asunción, Paraguay",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "Amplify Smart City",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amplify-smart-city",
+      "company_facebook_profile_url": null,
+      "title": "Gerente comercial",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Amplify Smart City",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amplify-smart-city",
+      "company_facebook_profile_url": null,
+      "title": "Jefe comercial",
+      "description": null,
+      "location": "Asunción, Paraguay",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "company": "Amplify Smart City",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amplify-smart-city",
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo Comercial",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "SOLUTIO Trade Marketing Lab",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo Comercial",
+      "description": "Solutio crea experiencias de marca en el espacio, temporales o permanentes. Estamos enfocados a la comunicación tridimensional, ayudamos a las marcas y empresas a mantener una identidad en el campo de la exhibición, eventos y retails, tanto de manera interna como externa. Nuestro equipo ofrece una gama de servicios, que junto con el desarrollo creativo y el know-how, crea una experiencia innovadora y ofrece soluciones con resultados altamente favorables para estar a la altura de las expectativas. En Solutio, contamos con un equipo humano altamente cualificado y motivado en la consultoría, creación, planificación, producción y logística para hacer que su marca se destaque en el espacio tangible.",
+      "location": "Paraguay",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "company": "ManpowerGroup",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/manpowergroup",
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo Comercial",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "company": "Aeromar Internacional",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aeromar-internacional",
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo Comercial",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Diario 5días",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Ejecutivo de Cuentas",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "field_of_study": "Administración de Empresas",
+      "degree_name": "Maestria",
+      "school": "Universidad Católica Nuestra Señora de la Asunción",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unicatolicapy",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Master en Administración de Empresas",
+      "school": "Universidad Católica Nuestra Señora de la Asunción",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unicatolicapy",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "field_of_study": null,
+      "degree_name": "Comunicación y Publicidad",
+      "school": "Universidad Americana Paraguay",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-americana-paraguay",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "field_of_study": null,
+      "degree_name": "Técnico en Administración de Negocios",
+      "school": "Colegio Cristo Rey",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-06T00:00:00Z"
+  }
+}

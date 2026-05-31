@@ -1,0 +1,753 @@
+{
+  "public_identifier": "jonas-glad-doohclick",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/b316ff99ed91e25c013b9eb3e23037fe",
+  "background_cover_image_url": null,
+  "first_name": "Jonas",
+  "last_name": "Glad",
+  "full_name": "Jonas Glad",
+  "follower_count": 1690,
+  "occupation": "CEO at DoohClick AB",
+  "headline": "CEO at Doohclick AB: a definitive ad management platform for \nthe out of home space.",
+  "summary": "DoohClick is a OOH management platform. Built from the ground up by OOH media owners for OOH owners and operators, it serves both classic and digital formats. <br><br>A fully independent company founded in Sweden, we’re focused on creating new business opportunities and updating legacy OOH systems globally.<br><br>What we do:<br><br>→ Programmatic improved analysis<br>→ Complete sales support<br>→ Dynamic scheduling<br>→ Fast reporting<br><br>Ready to be part of the next generation of OOH? Let’s chat.",
+  "location_str": "Stockholm County, Sweden",
+  "country": "SE",
+  "country_full_name": "Sweden",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "DoohClick AB",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/doohclick",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": "DoohClick is a Swedish based company which develops and provides out of home ad serving ecosystems. Its clients included media owners, screen owners, landlords, agencies, marketers and publishers who served businesses like Spotify, Samsung, Coca cola, Uber, Volvo, Huawei.",
+      "location": "Stockholm, Sweden",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5e5047ac7987bd0d638e779d55b6a9cf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "DCD Racing AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": "DirtChampDesign provides the RC car industry with easy to use, state-of-the-art and affordable RC lap timing / RC lap counter products.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "AdCityMedia AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "COO / Partner",
+      "description": "Media Digital Signage Creative Production www.adcitymedia.com",
+      "location": "Stockholm, Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2013
+      },
+      "company": "Yorki",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Partner",
+      "description": null,
+      "location": "Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      },
+      "company": "Sidewalk Express",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sidewalk-express",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": "Sidewalk Express AB operates a chain of Internet points in Northern Europe. Its Internet points are situated in airports, railway stations, shopping malls, cafes, and convenience stores. The company offers advertising packages with online and offline exposure to provide the advertiser with various ways to reach out with its message. It operates in Sweden, Norway, Denmark, and Germany. The company was founded in 2001 and is based in Stockholm, Sweden with sales offices in Germany.",
+      "location": "Sweden",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "AdCityMedia AB",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "Helix Plan by Perforce",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/helix-plan",
+      "company_facebook_profile_url": null,
+      "title": "Solutions Manager Trainee",
+      "description": "Hansoft is an integrated solution for agile and lean development, collaborative scheduling, real-time reporting, bug tracking / QA, workload coordination, portfolio and document management, used by the most demanding software developers in more than 20 countries. The tool is fast and easy and builds on principles of team empowerment, increased communication, transparency, and collaboration.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b4055759b589cd93bb2e71ef41021836"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "Nordea",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nordea",
+      "company_facebook_profile_url": null,
+      "title": "Sales coach",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/303ec4ed677cd2104171236ad8f1c5dd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2004
+      },
+      "company": "SAS - Scandinavian Airlines",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/flysas",
+      "company_facebook_profile_url": null,
+      "title": "Ground service",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a38fdc1e2dd3024ecb70f183a9f28489"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "International Marketing and Sales",
+      "degree_name": null,
+      "school": "Uppsala universitet",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/sinantaviloglu",
+      "name": "Sinan Taviloğlu",
+      "summary": "Sr. Software Engineering Manager @ Moka United",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-hyde",
+      "name": "Lawrence H.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sannawestman",
+      "name": "Sanna Westman",
+      "summary": null,
+      "location": "Economic"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nichlasspangberg",
+      "name": "Nichlas Spångberg",
+      "summary": "CXM | Business Intelligence | Marketing Automation | Digital Marketing | Loyalty | Passion for data | Make it happen",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nina-victory-digital-digitalsignagedisplay",
+      "name": "Nina（邹惠） Victory Digital",
+      "summary": "Victory Digital Limited•10K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandralindman",
+      "name": "Sandra Lindman",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/remidupreez",
+      "name": "Remi Du Preez",
+      "summary": null,
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miriamgrutnorrby",
+      "name": "Miriam Grut Norrby",
+      "summary": "Venture & Growth Investor",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tobiasloof",
+      "name": "Tobias Lööf",
+      "summary": "General Manager, Labs at SeenThis | We’re hiring!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/henrikbergquist",
+      "name": "Henrik Bergquist",
+      "summary": null,
+      "location": "Nacka"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanb",
+      "name": "Van K.",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/magnusdahlquist",
+      "name": "Magnus Dahlquist",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/albin-mannberg",
+      "name": "Albin Mannberg",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartwellmanmrics",
+      "name": "Stuart Wellman",
+      "summary": "Chartered Surveyor",
+      "location": "Cirencester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristofferj",
+      "name": "Kristoffer Billqvist",
+      "summary": "Hiring and Actively looking for great talent",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/piategborg",
+      "name": "Pia Tegborg",
+      "summary": "Chief Financial Officer at SeaTwirl",
+      "location": "Gothenburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephendoconnell",
+      "name": "Stephen O'Connell",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/invisij",
+      "name": "Adam Bane",
+      "summary": "Director of Operations at Alpha.Zero Tooling Solutions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lbroberg",
+      "name": "Lars B.",
+      "summary": "Experienced COO, Entrepreneur.",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardgonzalez79",
+      "name": "Ricard González",
+      "summary": "Convinced Optimist. Compulsive Reader. Tech Enthusiast.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-middlemiss-lemon",
+      "name": "Johan Middlemiss LeMon",
+      "summary": "EVP Tech & Business development at JuneFirst",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/almhorn",
+      "name": "Per Anderberg Almhorn",
+      "summary": "E-commerce advisor & Founder, IVEO AB - Welcome to DM",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-lilja-hyde",
+      "name": "Lawrence L.",
+      "summary": "Experienced Sales Professional | SaaS | Outbound Specialist | Relationship Builder",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/waye",
+      "name": "Benjamin Waye",
+      "summary": "Co-founder at Bemlo (W22)",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-adamsen",
+      "name": "Peter Adamsen",
+      "summary": "CEO at NordicScreen - Digital Signage made easy - Aarhus BSS (HD-B)",
+      "location": "Silkeborg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pelaseyed",
+      "name": "Ismail Homan Pelaseyed",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-anadkat-b8313b38",
+      "name": "Amit Anadkat",
+      "summary": "Founder & CEO at Event Sculptors Pvt Ltd",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sofie-tenggren",
+      "name": "Sofie Tenggren",
+      "summary": "Meta Ads Specialist | Remote-first 🌍 | Florence, Italy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rvfendler",
+      "name": "Raoul V. Fendler",
+      "summary": "IT Consultant Digital Solutions & Operations Management | We trust in AI-driven Digital Transformation with Intelligent Solutions and smart Business Innovations",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/herdikader",
+      "name": "Herdi Kader",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-thur",
+      "name": "Charlotte Thür",
+      "summary": "CEO | Entrepreneur | Board  | Digital Marketing | Sales | Transformation | x IAB Sweden | x Morningstar | x Kantar Sifo |",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-r%25C3%25B6ger-58345410",
+      "name": "Anna Röger",
+      "summary": "Management Consultant at Knowit Insight Accelerate",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-langenski%25C3%25B6ld-42545811",
+      "name": "Hans Langenskiöld",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christianand",
+      "name": "Christian Andersson",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcusbacklund",
+      "name": "Marcus Bäcklund",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johanthyblad",
+      "name": "Johan Thyblad",
+      "summary": "Manager @Solita - The Data Company. We create impact that lasts. And we're hiring new talents!",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linneahagstromer",
+      "name": "Linnea Hagströmer",
+      "summary": "COO @ Skippo - the boatlife company",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oskar-lindholm-wu",
+      "name": "Oskar Lindholm-Wu",
+      "summary": "Partner at Procuritas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mathias-bj%25C3%25B6rkman-21484b2",
+      "name": "Mathias Björkman",
+      "summary": "CEO and co-owner at Bilweb AB and Bilweb Auctions AB",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-klein-23b2675",
+      "name": "Danielle Klein",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-aurell-47348b5",
+      "name": "Anna Aurell",
+      "summary": "Vice vd Affärsvärlden",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mats-christiansen",
+      "name": "Mats Christiansen",
+      "summary": "Partner at True Dev Sverige AB",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-staberg",
+      "name": "Martin Staberg",
+      "summary": null,
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johanglimskog",
+      "name": "Johan Glimskog",
+      "summary": "Fractional CTO & Systems Architect | AI Automation, IoT & Sustainable Infrastructure",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ola-gunnarsson-065a34a",
+      "name": "Ola Gunnarsson",
+      "summary": "Group CEO at Aspia and Accountor",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jan-palmkvist-987a37a",
+      "name": "Jan Palmkvist",
+      "summary": "Partner at Palmkvist Information & Service AB",
+      "location": "Helsingborg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-melton-b7a68312",
+      "name": "Joshua Melton",
+      "summary": "Roving Backfill Technician at Yorktel",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabi-cohen-744a971a",
+      "name": "GABI COHEN",
+      "summary": "ליווי עסקים להצלחה",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christina-fellstr%25C3%25B6m-53845b20",
+      "name": "Christina Fellström",
+      "summary": "Key Account, Projektsäljare, Sponsoring.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sethu-saveda-suvanam-426a9421",
+      "name": "Sethu Saveda Suvanam",
+      "summary": "Founder and CEO of ReOrbit Oy | We are hiring!",
+      "location": "Helsinki"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-arshed-58427729",
+      "name": "Joe Arshed",
+      "summary": "Co Founder & CEO at MediaCo Out of Home Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carl-johan-runer-206a1a30",
+      "name": "Carl-Johan Runer",
+      "summary": "CEO, Expando AB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/magnus-drogell-396a9331",
+      "name": "Magnus Drogell",
+      "summary": "Founder & CEO - PIHR - We are Hiring!",
+      "location": "Stockholm"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-keenan-32a19636",
+      "name": "Marc Keenan",
+      "summary": "Managing Director, Ocean Scotland. Partner, Forrest Hotels",
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-chandler-18804137",
+      "name": "Jonathan Chandler",
+      "summary": "UK CEO at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/axel-diurson-71b59541",
+      "name": "Axel Diurson",
+      "summary": "Joint CEO at Newgen Distribution - We are hiring!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/johan-holst-87215842",
+      "name": "Johan Holst",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-roberts-bbb01b44",
+      "name": "David Roberts",
+      "summary": "Non Executive Director at Brighter Beauty Group Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joel-adrada-b839ba46",
+      "name": "Joel Adrada",
+      "summary": "Managing Director at JSA Advertising",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-v%25C3%25A1zquez-30563448",
+      "name": "Luis Vázquez",
+      "summary": "Renta equipamiento audiovisual - Eventos|Congresos - Híbridos - Virtuales - La mejor empresa de Latam en servicio para eventos !!",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlie-pena-60967656",
+      "name": "Charlie Pena",
+      "summary": "CEO at All World Trade / AllWorldTrade.Com | Matrix Creation Events Venue Inc. | Anep Top Metal Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolina-elm-06721485",
+      "name": "Nicolina Elm",
+      "summary": "Leadership hiring at UNFOLD by The Talent Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/angeliqa-haapanen-12a30888",
+      "name": "Angeliqa Haapanen",
+      "summary": "Recruiter/Customer Demand Manager - BU Vattenfall Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/henrik-karlsson-70a190106",
+      "name": "Henrik Karlsson",
+      "summary": "Sälj och projektledning",
+      "location": "Jönköping"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vitor-cruz-150545120",
+      "name": "Vitor Cruz",
+      "summary": "K-Led, Lda",
+      "location": "Vila Nova de Famalicão"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristoffer-andersson-b97236150",
+      "name": "Kristoffer Andersson",
+      "summary": "Transforming Target Screening for M&A and Private Equity | Head of Sales, Valu8",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pavel-aulasevich-a54853152",
+      "name": "Pavel Aulasevich",
+      "summary": null,
+      "location": "Limassol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-stenmark-48a63715b",
+      "name": "Kevin Stenmark",
+      "summary": null,
+      "location": "Sundbyberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gjino-ndoji-71086a163",
+      "name": "Gjino Ndoji",
+      "summary": "Digital Reference",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hr-head-hiring-for-sweden-europe-location-a68621194",
+      "name": "HR Head, Hiring for Sweden(Europe) Location",
+      "summary": "Co-Founder | Head HR @ Global Primas, Sweden | Hiring @ Consultant Test Automation Engineer",
+      "location": "Solna"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "It’s 2026. Let’s act like it. For so long, OOH tracking has been tied to static platforms like Excel. Trying to draw insights from this type of data…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_its-2026-lets-act-like-it-for-so-long-activity-7416399673193562112-syw3",
+      "activity_status": null
+    },
+    {
+      "title": "It’s finally here 😎 The DoohClick AB app. We’ve taken out-of-home… truly out of home. I’m especially proud of the fact that this is an…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_its-finally-here-the-doohclick-abapp-activity-7343539918473781248--7Lh",
+      "activity_status": null
+    },
+    {
+      "title": "Knowledge is power, in any business. But when that knowledge is hoarded, it becomes a threat. I’ve seen it quite often: Employees and companies…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_knowledge-is-power-in-any-business-but-activity-7345704078183731201-kZbU",
+      "activity_status": null
+    },
+    {
+      "title": "Automation isn’t the enemy. It’s the next logical step. When people hear “automation”, they often assume it's about removal. Removal of jobs, removal…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_automation-isnt-the-enemy-its-the-next-activity-7342847374412734466-_Sw9",
+      "activity_status": null
+    },
+    {
+      "title": "Spreadsheets: the comfort blanket of legacy systems. One of the biggest barriers to progress in the OOH industry isn’t budget or complexity. It’s…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_spreadsheets-the-comfort-blanket-of-legacy-activity-7340644743804022784-gAVf",
+      "activity_status": null
+    },
+    {
+      "title": "The DoohClick AB team recently returned home from an incredible week at the World Out of Home Organization conference in Mexico City. We were out in…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_thedoohclick-abteam-recently-returned-home-activity-7338826149852033025-40PE",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization conference 2025 is right around the corner! 🇲🇽 This year, DoohClick AB isn’t just attending. → We’re attending in…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_world-out-of-home-organizationconference-activity-7335203133817602048-nR1b",
+      "activity_status": null
+    },
+    {
+      "title": "If you’re at DSS Europe this week, I will see you there! I am speaking on the Data, Measurement & KPIs panel. We’ll be discussing how data is driving…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_if-youre-at-dss-europe-this-week-i-will-activity-7330143955302481924-arKC",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is launching something big in the next few days. Think big screen information on small screen displays. If you’re attending the World…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_doohclick-abis-launching-something-big-in-activity-7334139877573255168-RSUu",
+      "activity_status": null
+    },
+    {
+      "title": "At DoohClick AB, we never launch and leave. Launching a new feature isn’t just about dropping an update and moving on to other things. Although the…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_at-doohclick-ab-we-never-launch-and-leave-activity-7327600580699336704-1cmz",
+      "activity_status": null
+    },
+    {
+      "title": "One thing to expect from DoohClick AB in Q2 🚀 Even more event attendance (who said there’s too much of a good thing?) I will be at these key…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_one-thing-to-expect-from-doohclick-abin-activity-7323230279425245184-6WZX",
+      "activity_status": null
+    },
+    {
+      "title": "50% client-led, 50% proactive innovation. This is the simple formula we use to roll out features at DoohClick AB. This way, we are addressing: ✅…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_50-client-led-50-proactive-innovation-activity-7325426347198103554-qiCe",
+      "activity_status": null
+    },
+    {
+      "title": "One of my favourite things about what I get to do at DoohClick AB: Attending the OOH events 😎 Integrated Systems Europe (ISE) 2025 officially kicked…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_one-of-my-favourite-things-about-what-i-get-activity-7320715491767910401-mBYx",
+      "activity_status": null
+    },
+    {
+      "title": "For media owners to focus on growing their business… We focus on optimising their business workflow. From onboarding to everyday use, here’s what to…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_for-media-owners-to-focus-on-growing-their-activity-7317443575724527618-IaGM",
+      "activity_status": null
+    },
+    {
+      "title": "DoohClick AB is so much more than just a CMS. A CMS platform manages and schedules content. And while that’s helpful – CMS platforms generally aren’t…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_doohclick-abis-so-much-more-than-just-a-activity-7315632191697313794-NGWd",
+      "activity_status": null
+    },
+    {
+      "title": "Don’t chase data. Let it come to you. Media owners shouldn’t have to manually check screen health every day. With DoohClick AB’s new Automated Screen…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_dont-chase-data-let-it-come-to-you-media-activity-7311312318187892736-Qza9",
+      "activity_status": null
+    },
+    {
+      "title": "The difference between a good OOH campaign and a successful OOH campaign? Leveraging your data. Here are 3 examples that prove it. 1. Clear Channel…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_the-difference-between-a-good-ooh-campaign-activity-7312734420132597760-tAze",
+      "activity_status": null
+    },
+    {
+      "title": "In DOOH, security is an operational necessity. Both physically and digitally. 🔒 Physical security Most incidents start on-site. Someone accessing a…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_in-dooh-security-is-an-operational-necessity-activity-7309843787227303936-G08V",
+      "activity_status": null
+    },
+    {
+      "title": "Going to ISE Barcelona? Happy to meet up and share our latest insights on the Out Of Home / Retail media market. We will be together with our friends…",
+      "link": "https://www.linkedin.com/posts/jonas-glad-doohclick_going-to-ise-barcelona-happy-to-meet-up-activity-7287456425247723523-L_U6",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-18T00:00:00Z"
+  }
+}

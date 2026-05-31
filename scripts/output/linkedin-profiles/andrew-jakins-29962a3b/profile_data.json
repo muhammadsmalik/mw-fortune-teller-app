@@ -1,0 +1,916 @@
+{
+  "public_identifier": "andrew-jakins-29962a3b",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Andrew",
+  "last_name": "Jakins",
+  "full_name": "Andrew Jakins",
+  "follower_count": 1181,
+  "occupation": "Managing Partner at HIGHSTEAD PARTNERS",
+  "headline": "Managing Partner HIGHSTEAD PARTNERS ",
+  "summary": "Specialties: Corporate Finance<br>Qualified Accountant<br>Fundraising<br>Private…",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": null,
+      "company": "HIGHSTEAD PARTNERS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/highstead-partners-limited",
+      "company_facebook_profile_url": null,
+      "title": "Managing Partner",
+      "description": "Lead M&A advisor to both privately owned and listed clients. We Focus on corporate acquisitions and disposals, fundraisings and negotiations.\n\nHighstead Partners is a London based, independent corporate finance advisory firm.  We are capable of executing mandates across a broad range of sectors, with a particular expertise and track record in:\n• Retail and Leisure\n• Media and Technology\n• Business and Financial services",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bef8d0519a9a4b85bfd80b91aa5f761d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Urban Crew Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/urban-crew-limited",
+      "company_facebook_profile_url": null,
+      "title": "Non-executive",
+      "description": "Urban Crew is a leading service and resource provider to the events industry.  Specialising in providing professional crew to assist clients in the delivery of complex entertainment and sporting events, with a particular focus on London, but do cover the UK and Europe.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0cb29d42b2cfa716b008c3066ad4ccc4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2011
+      },
+      "company": "Bremont Watch Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bremont-watch-company",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": "Responsible for the operations and financial management of the company.  Managed delivery of new products, current production, staff, finance, investor relations and fundraisings.",
+      "location": "United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ab1aceaf4ef1c6d475717b79af0d79f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Hawkpoint Partners",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Associate (M&A)",
+      "description": "Advisor to private equity, publicly listed and privately owned businesses.  Particular focus on retail and services sectors.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "PwC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc",
+      "company_facebook_profile_url": null,
+      "title": "Corporate Finance Manager (M&A)",
+      "description": "Corporate Finance manager, advising clients on MBO's, disposals and fundraising.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/86462cd6710595d9d37fe051b05bc53a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Korn Ferry Whitehead Mann",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Group Finance (M&A)",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Deloitte",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deloitte",
+      "company_facebook_profile_url": null,
+      "title": "Manager (Assurance and Advisory)",
+      "description": "Articles, responsable for managing the delivery of assurance and advisory services to clients.",
+      "location": "Johannesburg Area, South Africa",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cbe541cc8d8cb6f4912320d31eded8de"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Chartered Accountant",
+      "school": "Institute of Chartered Accountants in England and Wales",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/icaew",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/64890da8fa3102bb3b119856e598f2dc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Pretoria Boys High School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/pretoria-boys-high-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/252feb0510ab13efbcfbeecc8694c5f7",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Taxation",
+      "degree_name": null,
+      "school": "Association of Corporate Treasurers",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/association-of-corporate-treasurers",
+      "school_facebook_profile_url": null,
+      "description": "I wrote the UK Taxation exams and passed with Distinction",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1da45e560c672374a5ca35f89d3092a2",
+      "grade": "Distinction",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "field_of_study": "Finance",
+      "degree_name": "B.Com (Hons)",
+      "school": "University of KwaZulu-Natal",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-kwazulu-natal",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c66c9c1d01f354177e14da15135eaf62",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": "Finance",
+      "degree_name": "B.Com",
+      "school": "University of Port Elizabeth",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-port-elizabeth",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f8a5c99183d6eb653a42a08ac6a6dcfc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": "Chartered Accountant",
+      "school": "ICAEW",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/icaew",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "org_name": "ICAEW",
+      "title": null,
+      "description": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "org_name": "ICAEW",
+      "title": null,
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2014
+      },
+      "ends_at": null,
+      "name": "DPB - ICAEW",
+      "license_number": null,
+      "display_source": null,
+      "authority": "ICAEW",
+      "url": null
+    }
+  ],
+  "connections": 1140,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lovisalander",
+      "name": "Lovisa Lander",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/guygillon",
+      "name": "🙏🏼Guy Gillon",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wolfgang-felix",
+      "name": "Wolfgang Felix",
+      "summary": "▶︎sarria.co.uk◀︎ Use our team to leverage yours. Senior analyst desk covering the biggest European distressed opportunities - bottom up.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/benshribman",
+      "name": "Ben Shribman",
+      "summary": "Partner at Cooley LLP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gulmukhey",
+      "name": "Gul Mukhey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenwhyte",
+      "name": "Stephen Whyte",
+      "summary": "Highly experienced, international business leader with broad experience of business transformation across the data, digital technology and media sectors.",
+      "location": "Cambridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisholdenpwc",
+      "name": "Chris Holden",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beau-hancox-9039b0299",
+      "name": "Beau Hancox",
+      "summary": "Passionate Event Professional Crafting Unforgettable Moments",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/icassidy",
+      "name": "Ian Cassidy",
+      "summary": "Exited founder | Investor | Advisor | M&A",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damianpaulryan",
+      "name": "Damian Ryan",
+      "summary": "Trusted M&A Advisor, Dealmaker, Investor, Author.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/holly-mann-2b197129a",
+      "name": "Holly Mann",
+      "summary": "Digital Account Executive at Zenith",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/terryyoell",
+      "name": "Terry Yoell",
+      "summary": "Co-Founder & CEO at Flock",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelo-reyes-504323246",
+      "name": "Angelo Reyes",
+      "summary": "Television Production Graduate \n Production Runner",
+      "location": "Barking"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pieter-landsberg-76124a145",
+      "name": "Pieter Landsberg",
+      "summary": "Manager / representative at Oasis water",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelblackaby",
+      "name": "Michael Blackaby",
+      "summary": null,
+      "location": "Newport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-fraser-097835242",
+      "name": "Katherine Fraser",
+      "summary": null,
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-oliver-d%25C3%25ADaz-698202172",
+      "name": "William Oliver-Díaz",
+      "summary": "73 Strings, EMEA",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-hill-44728b1",
+      "name": "James Hill",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alastair-rogers-248bb65",
+      "name": "Alastair Rogers",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/declan-reddington-624bb85",
+      "name": "Declan Reddington",
+      "summary": "Entrepreneur, Mentor, Angel investor",
+      "location": "Brighton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-harvey-0a225913",
+      "name": "Nick Harvey",
+      "summary": "Senior Adviser at Highstead Partners",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-king-2a657916",
+      "name": "Rob King",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-mccarthy-b999a629",
+      "name": "Danielle McCarthy",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-blewitt-1278b52a",
+      "name": "Jamie Blewitt",
+      "summary": "Partner @ Solano Partners",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-crawley-boevey-a308b22b",
+      "name": "Catherine Crawley-Boevey",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-letord-15251233",
+      "name": "Kevin Letord",
+      "summary": null,
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuel-edge-0971b135",
+      "name": "Samuel Edge",
+      "summary": "Board Adviser | Chief of Staff | Corporate Finance",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-landsberg-9b5a8b36",
+      "name": "Peter Landsberg",
+      "summary": "Branch Manager at Crystalmount Workplace Services",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-hattingh-5b64a652",
+      "name": "John Hattingh",
+      "summary": "General Manager - Business Development at Bidvest TMS Group",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-mills-04830957",
+      "name": "Alexandra Mills",
+      "summary": "--",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-landsberg-1988b158",
+      "name": "Peter Landsberg",
+      "summary": "Hygiene Consultant at Crystalmount Workplace Services",
+      "location": "Cape Town"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-friedman-328a4a62",
+      "name": "Jonathan Friedman",
+      "summary": "Founder & Managing Director @ Novalta Partners | Corporate Finance, Mergers & Acquisitions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-fuller-22023465",
+      "name": "Sam Fuller",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-landsberg-4a476a65",
+      "name": "Peter Landsberg",
+      "summary": "Rheumatologist",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ron-swart-260a1667",
+      "name": "Ron Swart",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dan-standing-b087896b",
+      "name": "Dan Standing",
+      "summary": null,
+      "location": "Basingstoke"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fiona-dendy-4a2b3373",
+      "name": "Fiona Dendy",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinay-ghai-7196a675",
+      "name": "Vinay Ghai",
+      "summary": "Managing Director at Robert W. Baird & Co.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-parsons-97436678",
+      "name": "Mark Parsons",
+      "summary": "Associate Director at Highstead Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-collins-8b202784",
+      "name": "Michael Collins",
+      "summary": "Managing director at Urban Crew Limited",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-heilbron-9b904490",
+      "name": "Jonathan Heilbron",
+      "summary": "Partner at Redrice Ventures",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mo-mirza-38686b95",
+      "name": "Mo Mirza",
+      "summary": "CFO at TrueLayer",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-landsberg-61b012a1",
+      "name": "Peter Landsberg",
+      "summary": "ex Professional Electronics Engineer at Northrop Grumman Corporation",
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-hadjiloizou-20bb17a7",
+      "name": "Maria Hadjiloizou",
+      "summary": "Vice President at Oakland Partners",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/libby-mcmorrow-62002a150",
+      "name": "Libby McMorrow",
+      "summary": "Associate Director at Highstead Partners",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-wepener-8b524615a",
+      "name": "Ryan Wepener",
+      "summary": "Camp and Business Development Manager at the Ford Outpost",
+      "location": "Port Alfred"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-oliver-d%25C3%25A3%25C2%25ADaz-698202172",
+      "name": "William Oliver-Díaz",
+      "summary": "Economics Student and Deloitte Scholar",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmine-copley-662405191",
+      "name": "Yasmine Copley",
+      "summary": "Investor Relations at Kingfisher plc",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-jones-4206221b9",
+      "name": "Richard Jones",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-demasse-504175212",
+      "name": "Marc Demasse",
+      "summary": "Retraité",
+      "location": "Saint-Symphorien"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-miller-6742321a1",
+      "name": "Jack Miller",
+      "summary": "Senior Analyst at Highstead Partners",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-engelbrecht-265331214",
+      "name": "Linda Engelbrecht",
+      "summary": "Full Status Property Practitioner FFC at Pam Golding Properties",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-bradley-408ba4137",
+      "name": "Jessica Bradley",
+      "summary": "Senior Associate at Helion Partners",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hemal-fraser-rawal-27996022",
+      "name": "Hemal Fraser-Rawal",
+      "summary": "General Partner at White Star Capital",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-asherson-63809114",
+      "name": "Mark Asherson",
+      "summary": "Product Management Tax & Accounting | Tax technology & transformation",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-o-leary-51534239",
+      "name": "Sarah O'Leary",
+      "summary": "Managing Director - Venture Capital & Private Equity I Cornell Search",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmy-dietz-186ab042",
+      "name": "Jimmy Dietz",
+      "summary": "Partner at V3 Ventures",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marina-van-der-westhuizen-833472136",
+      "name": "Marina van der Westhuizen",
+      "summary": "I help businesses develop visual language tools to communicate with clarity, confidence and consistency",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-cook-640444247",
+      "name": "Olivia Cook",
+      "summary": "Analyst at Highstead Partners",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/clarejeneson",
+      "name": "Clare Jeneson",
+      "summary": "CFO at Maeving Ltd",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-reed-brewer-79747362",
+      "name": "Alex Reed-Brewer",
+      "summary": "ACA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-oliver-d%C3%ADaz-698202172",
+      "name": "William Oliver-Díaz",
+      "summary": "Bristol BSc Economics Graduate | ex-M&A | ex-Deloitte Scholar",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "In 2025, winning a place in someone’s day is more powerful than any campaign. I am a huge fan of James Clear’s @Atomic Habits, the idea that small,…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_wellness-consumerhealth-supplements-activity-7376180217163247616-JrPn",
+      "activity_status": null
+    },
+    {
+      "title": "Is cycling back on the up? After a pandemic-era boom, the global bike market hit a sharp bump in the road. Rising inflation, supply chain disruption,…",
+      "link": "https://www.linkedin.com/posts/activity-7360724680300720128-Sv-T",
+      "activity_status": null
+    },
+    {
+      "title": "Technical apparel is a core focus area for us here at Highstead and, as with our other specialist consumer sectors - health & wellness and…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_athleisure-market-report-for-2025-printful-activity-7349467501828759552-wkrB",
+      "activity_status": null
+    },
+    {
+      "title": "ALL EYES ON ALPHAS: 95% of parents learn about new brands and products from their digital-era kids. Recent big bets on Gen-Alpha brands - Church &…",
+      "link": "https://www.linkedin.com/posts/catherine-crawley-boevey-a308b22b_all-eyes-on-alphas-95-of-parents-learn-activity-7341479092262768641-uM-w",
+      "activity_status": null
+    },
+    {
+      "title": "This is a long story, so I’ll keep it short. Volcano’s became an obsession for me, so in 2012 I climbed Ol Doinyo Lengai- an extremely exposed live…",
+      "link": "https://www.linkedin.com/posts/shem-compion-0ab3041_this-is-a-long-story-so-ill-keep-it-short-activity-7337413778562502656-gDbK",
+      "activity_status": null
+    },
+    {
+      "title": "The UK is in a f*cking mess 🤬 We’ve got world-class makers right here and we’re still ignoring them. Meanwhile, China’s shouting about its…",
+      "link": "https://www.linkedin.com/posts/james-eden-87549a96_buybritish-supportlocal-privatewhitevc-activity-7318570141317816320-rcRc",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Exciting senior leadership updates at Phoenix We are delighted to announce that Kevin Keck has been promoted to Managing Partner. Kevin…",
+      "link": "https://www.linkedin.com/posts/phoenix-equity-partners_privateequity-activity-7326170482699898880-paaq",
+      "activity_status": null
+    },
+    {
+      "title": "Are Weight Loss Supplements becoming part of our daily routines? 64.5% of adults in England are overweight, with 26.5% officially classified as…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_wellness-weightmanagement-sustainablenutrition-activity-7391418224782831616-bsWH",
+      "activity_status": null
+    },
+    {
+      "title": "Consumers are spending. Investors are hiding. That is the very opportunity... Across our client base, consumer-facing businesses are trading well…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_consumers-are-spending-investors-are-hiding-activity-7455276010545233920-JWur",
+      "activity_status": null
+    },
+    {
+      "title": "Getting married? In M&A, choosing the right partner can matter more than the valuation. On the surface, many deals look compelling: strong…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_successful-ma-prioritises-partnership-over-activity-7433129130080059393-lQdV",
+      "activity_status": null
+    },
+    {
+      "title": "What separates good performance brands from great ones? We are seeing more and more consumers choose their apparel brands not just for function, but…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_performanceapparel-brandstrategy-technicaldesign-activity-7421474961569042432-eH4v",
+      "activity_status": null
+    },
+    {
+      "title": "Another amazing result for a Brand that matters... and is deservedly winning! Wishing the Vivobarefoot team every success as they reshape the world…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_another-amazing-result-for-a-brand-that-matters-activity-7305247425403736064-jxeI",
+      "activity_status": null
+    },
+    {
+      "title": "Another great result for a brand that is winning, with a long term partner backing a first class team. Delighted HIGHSTEAD PARTNERS could help…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_another-great-result-for-a-brand-that-is-activity-7252295428329680898-HAhI",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_we-are-thrilled-to-have-supported-mayfair-activity-7241469038558683136-ll7a",
+      "activity_status": null
+    },
+    {
+      "title": "Wishing you all every success for 2024.",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_wishing-you-all-every-success-for-2024-activity-7145670093211910144-0Mn3",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to announce that James Hill has joined our team as Partner, to lead our Media & Technology practice. Exciting times as we continue to grow…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_delighted-to-announce-that-james-hill-has-activity-7114635592696516608-pI4_",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team Brompton, congratulations and delighted to have been on this journey with you. Another amazing, iconic UK brand being backed by BGF.",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_well-done-team-brompton-congratulations-activity-7064599514019454976-dSIR",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team Talon, glad we could support you on this and your exciting growth journey...congratulations and wishing you every success with this…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_well-done-team-talon-glad-we-could-support-activity-7046491032036745216-3e9g",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations team Talon, delighted we could play a part in supporting you on this.",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_talons-north-america-growth-with-novus-canada-activity-7043995479914749952-Rp60",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations Bridgepoint and Monica Vinader, wishing you every success on your next journey. It was super to play a part in this.",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_congratulations-bridgepoint-and-monica-vinader-activity-7039937283306725377-3afl",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team Bremont!",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_bill-ackman-takes-stake-in-bremont-after-activity-7023314333870751745-FWF9",
+      "activity_status": null
+    },
+    {
+      "title": "Talon Outdoor secures investment from Equistone We are delighted to have played a part on the Talon journey, having advised the Founders and…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_talon-outdoor-secures-investment-from-equistone-activity-6951221715158876160-f7RZ",
+      "activity_status": null
+    },
+    {
+      "title": "Another great year for Highstead, wishing you all every success for 2022 - Happy New Year!",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_another-great-year-for-highstead-wishing-activity-6884882738369871874-kW1z",
+      "activity_status": null
+    },
+    {
+      "title": "We are delighted to have acted as the advisor to Mayfair Equity Partners, who have backed the buy-out of Seraphine - the premium maternity and…",
+      "link": "https://www.linkedin.com/posts/andrew-jakins-29962a3b_we-are-delighted-to-have-acted-as-the-advisor-activity-6751866689127763969-rAcD",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andrew Jakins",
+      "link": "https://au.linkedin.com/in/andrew-jakins-7214b5180",
+      "summary": "Domestic Sales & Trading at Woodward Foods Australia",
+      "location": "Brisbane, QL"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://za.linkedin.com/in/andrew-jakins-21a2791a",
+      "summary": "Managing Director at ADP Projects",
+      "location": "City of Cape Town"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://au.linkedin.com/in/andrew-jakins-12042480",
+      "summary": "Agronomist at EE Muir & Sons",
+      "location": "Bundaberg, QL"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://sg.linkedin.com/in/andrew-jakins-9461b365",
+      "summary": "Construction Manager at Lend Lease",
+      "location": "Singapore"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://uk.linkedin.com/in/andrew-jakins-b98619160",
+      "summary": "--",
+      "location": "Greater Sheffield Area"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://uk.linkedin.com/in/andrew-jakins-28458552",
+      "summary": "Computer Programmer at Tata Steel",
+      "location": "Immingham"
+    },
+    {
+      "name": "Andy Jakins",
+      "link": "https://uk.linkedin.com/in/andy-jakins-1b97625",
+      "summary": "Commercial Delivery Trainer at Carter & Carter",
+      "location": "Greater Sheffield Area"
+    },
+    {
+      "name": "andy jakins",
+      "link": "https://uk.linkedin.com/in/andy-jakins-697b14223",
+      "summary": "--",
+      "location": "Chesterfield"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://au.linkedin.com/in/andrew-jakins-541209356",
+      "summary": null,
+      "location": "Winston Hills, NSW"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://au.linkedin.com/in/andrew-jakins-11110a325",
+      "summary": null,
+      "location": "Perth, WA"
+    },
+    {
+      "name": "Andrew Jakins",
+      "link": "https://za.linkedin.com/in/andrew-jakins-5a8bb7a",
+      "summary": null,
+      "location": "City of Cape Town"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Highstead Q1 news update",
+      "link": "https://www.linkedin.com/pulse/highstead-q1-news-update-andrew-jakins",
+      "published_date": {
+        "day": 23,
+        "month": 5,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQG59sYJYAyH5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520138588552?e=2147483647&v=beta&t=P8P_U-DQniAtp684_YdJnxalDEHMQNV5s9qoUeCif-A"
+    },
+    {
+      "title": "Highstead Partners news letter:",
+      "link": "https://www.linkedin.com/pulse/highstead-partners-news-letter-andrew-jakins",
+      "published_date": {
+        "day": 11,
+        "month": 10,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQELUxCDw_NJdw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520128582116?e=2147483647&v=beta&t=e4zbsatCQ9_8igJfxvgRc0T7THG1WdvVrE2TaPx__U0"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-20T00:00:00Z"
+  }
+}

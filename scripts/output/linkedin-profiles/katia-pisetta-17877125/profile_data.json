@@ -1,0 +1,541 @@
+{
+  "public_identifier": "katia-pisetta-17877125",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Katia",
+  "last_name": "Pisetta",
+  "full_name": "Katia Pisetta",
+  "follower_count": 535,
+  "occupation": "Head of Operations at First Avenue",
+  "headline": "Head of Operations",
+  "summary": null,
+  "location_str": "Greater Bolzano Metropolitan Area",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Bolzano",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "First Avenue",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/first-avenue-srl",
+      "company_facebook_profile_url": null,
+      "title": "Head of Operations",
+      "description": null,
+      "location": "Bolzano, Trentino-Alto Adige, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ad5b3e7e89a651feb4c0c30f909b5295"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2025
+      },
+      "company": "First Avenue",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/first-avenue-srl",
+      "company_facebook_profile_url": null,
+      "title": "Head of Digital",
+      "description": "Head of Digital Projects, Process Automation and Sales Operation\n\nZuständigkeiten:\n\nLeitung Digital Booking & Sales Back Office (2 Mitarbeiter)\nLeitung Digital Projektmanagement (2 Mitarbeiter)\nProjektleitung und Koordination der externen IT Lieferanten\nLaufende Prozessoptimierungen & Process Automation (auf Unternehmensebene)\nVerantwortung IT (auf Unternehmensebene): ERP Systeme, Back End, Reporting Tools (Power BI), \nJira Projectmanagment Tool\nAufsetzung & Controlling des gesamten Investments-Budget (auf Unternehmensebene)\nReporting (auf Unternehmensebene)\nStrategie- und Budgetplanung als Mitglied der erweiterten Geschäftsleitung (Board)\n\nWichtigste Projekte (Planung, Koordination, Umsetzung):\n\nEinführung der automatisierten Fakturierung\nEinführung Data Warehouse & Power BI\nEinführung Jira Projectmanagment tool\nEinführung neues Back End Digital Booking\nEinbindung neuer Geschäftszweig (Newsportale)\nEinführung neuer digitaler Produkte\nEinführung tool für die automatisierte Grafikanlieferungen",
+      "location": "Bolzano, Trentino-Alto Adige, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ad5b3e7e89a651feb4c0c30f909b5295"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "Falk Tours DMC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/falk-tours",
+      "company_facebook_profile_url": null,
+      "title": "Head of Online Sales & Booking",
+      "description": null,
+      "location": "Brixen (BZ)",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dbb397a4f47504822bf42811d9a2dab9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "Italo Treno – NTV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/italo-nuovo-trasporto-viaggiatori",
+      "company_facebook_profile_url": null,
+      "title": "Head of Sales Support",
+      "description": "GESTIONE SALES SUPPORT TEAM\r\no Formazione staff di back office\r\no Implementazione processi\r\no Monitoraggio attività di back office\r\no Gestione attività di BI – Reporting operativo\r\no Gestione attività di BI – Forecasting\r\no Gestione attività di supporto Venditori territoriali\r\n\r\nGESTIONE DEL CUSTOMER CARE TEAM (BUSINESS)\r\no Formazione staff \r\no Implementazione processi\r\no Monitoraggio attività del Customer Care \r\no Pianificazione e Gestione Campagne outbound\r\n\r\nATTIVITA' IT\r\no Gestione progetto di distribuzione prodotto via API – XML (negoziazione e sviluppo con principali Partner, quali OLTA, metasearch, online booking tools per agenzie e corporate, consolidatori, wholesale)\r\no Attività di sviluppo CRM\r\no Attività di sviluppo piattaforme di vendita \r\no Attività di sviluppo piattaforme di BI\r\n\r\nSUPPORTO GESTIONE KEY CLIENTS CORPORATE E TMC\r\n\r\nGESTIONE SEGMENTO VENDITE GRUPPI E CHARTER\r\noFormazione Team Operatori e Venditori\r\noMonitoraggio attività operative\r\noElaborazione e Monitoraggio Target Operatori \r\noForecasting e Reporting\r\n\r\nATTIVITA' COMMERCIALI \r\no Gestione Budget Costi Direzione Commerciale Business\r\no Gestione Campagne incentivi\r\no Gestione Campagne di comunicazione (segmento trade)\r\no Affiancamento dell’Ufficio Legale nella elaborazione e gestione contratti\r\no Affiancamento del Marketing nella elaborazione dei piani di trade\r\no Affiancamento del Marketing nella gestione delle fiere di settore, famtrips e Conventions",
+      "location": "Roma, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eba79ad3954945891908f327eb06b027"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2013
+      },
+      "company": "NTV - Nuovo Trasporto Viaggiatori",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/italo-nuovo-trasporto-viaggiatori",
+      "company_facebook_profile_url": null,
+      "title": "Responsabile Vendite Corporate e Intermediate",
+      "description": "SALES TEAM TERRITORIALE:\r\n\r\no Gestione e supervisione attività sales team territoriale (7 sales account)\r\no Elaborazione KPI sales team\r\no Elaborazione piano di incentivazione sales team\r\no Elaborazione piano incentivi sales team\r\n\r\nINSIDE SALES TEAM & CONTACT CENTER BUSINESS:\r\n\r\no Implementazione processi e procedure back office inside sales team e Contact Center Business\r\no Coordinamento e supervisione attività back office inside sales team e Contact Center Business \r\n\r\nATTIVITA' COMMERCIALI:\r\n\r\no Elaborazione strategie di Vendita\r\no Elaborazione strategie di incentivazione sul mercato dell’intermediazione\r\no Elaborazione offerta corporate e Convenzioni varie\r\no Supporto e collaborazione attività di marketing – canale trade & CORPORATE\r\no Supporto elaborazione contrattualistica\r\no Gestione diretta rapporti commerciali Key/Top account (intermediazione & corporate)\r\no Formazione \r\n\r\nATTIVITA' SVILIPPO SISTEMI:\r\n\r\no Implementazione CRM\r\no Implementazione portali web b2b (corporate e agenzie)\r\no Implementazione sistemi di reportistica",
+      "location": "Italy Rome",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eba79ad3954945891908f327eb06b027"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2011
+      },
+      "company": "NTV - Nuovo Trasporto Viaggiatori",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/italo-nuovo-trasporto-viaggiatori",
+      "company_facebook_profile_url": null,
+      "title": "Sales Coordinator - Direzione Vendite",
+      "description": null,
+      "location": "Roma, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eba79ad3954945891908f327eb06b027"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2010
+      },
+      "company": "Radisson BLU es Hotel Roma",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Reservation Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [
+    "Italiano",
+    "Inglese",
+    "Tedesco"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Italiano",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Inglese",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Tedesco",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/karinfr%25C3%25A3%25C2%25B6tscher",
+      "name": "Karin Frötscher",
+      "summary": "3D Artist bei raymotion GmbH",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/piergiorgioadamo",
+      "name": "Piergiorgio Adamo",
+      "summary": "EY Manager Technology Consulting | MBA, Electronic Engineer",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolagorelli",
+      "name": "Nicola Gorelli",
+      "summary": "Industry Success Manager",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gargiulomichele",
+      "name": "Michele Gargiulo",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bergerflorian",
+      "name": "Florian Berger",
+      "summary": "Patron bei Berger+Team",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/veronica-de-bortoli",
+      "name": "Veronica De Bortoli",
+      "summary": "E-Retail Manager | E-commerce | Business Development | Digital Marketing | Marketplace | Tourism | Travel | Gift",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enzobarbagallo",
+      "name": "Enzo B.",
+      "summary": "Director of Sales & Marketing in Luxury Hotels and Resort",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/igor-gobbi-239813264",
+      "name": "Igor Gobbi",
+      "summary": "Responsabile amministrativo presso S.I.E. S.P.A. SOCIETA  INIZIATIVE EDITORIALI",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorenzomarrone",
+      "name": "Lorenzo Marrone",
+      "summary": "Digital & Data Professional | Marketing, Analytics and Performance",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolo-de-lazzaro-b688166",
+      "name": "Paolo De Lazzaro",
+      "summary": "Legale specializzato in appalti pubblici e innovazione tecnologica.",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-lovito-a8250511",
+      "name": "Barbara Lovito",
+      "summary": "Pre-Sales Specialist IBM Software - Partnership & Certification Support",
+      "location": "Empoli"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefanopesce10",
+      "name": "Stefano Pesce",
+      "summary": "Trade Marketing Director",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberta-luciani-99454b21",
+      "name": "Roberta Luciani",
+      "summary": "Commerciale e Amministrativo",
+      "location": "Larino"
+    },
+    {
+      "link": "https://www.linkedin.com/in/federico-bosi-bb13a526",
+      "name": "Federico Bosi",
+      "summary": null,
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davide-mazzocchi-62206727",
+      "name": "Davide Mazzocchi",
+      "summary": "Sales Team Supervisor / Business Development Manager Asian Pacific Markets",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniele-montemurro-88263928",
+      "name": "Daniele. Montemurro",
+      "summary": "Cluster Director of Sales Belstay Hotels Group",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-lo-giacco-b946402b",
+      "name": "Marco Lo Giacco",
+      "summary": "Regional Projects Lead EMEA - Global Real Estate Deutsche Bank, WELL AP, Board member Fondazione DB",
+      "location": "Monza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-nicolosi-4b086935",
+      "name": "Laura Nicolosi",
+      "summary": "Head of Sales",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mara-nuzzo-5a749537",
+      "name": "Mara Nuzzo",
+      "summary": "Head of Procurement - Lo.Li Pharma International",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolo-sassi-40236b40",
+      "name": "Paolo Sassi",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-stancato-90045843",
+      "name": "Alessandro Stancato",
+      "summary": "Consulenza finanziaria per riabilitazione al credito, negoziazione assistita.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-mora-85442256",
+      "name": "Maria Mora",
+      "summary": "Hotel Sales-Marketing-Reservation & Contracts Manager - Direttore Tecnico Agenzia Viaggi - ora libera professionista",
+      "location": "Trento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-pavone-17808657",
+      "name": "Francesca Pavone",
+      "summary": "Business Analyst presso ConTe.it - Admiral Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tina-salvatore-a820b959",
+      "name": "Tina Salvatore",
+      "summary": "imprenditore pulizie professionali",
+      "location": "Ancona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-muggironi-04338959",
+      "name": "Claudia Muggironi",
+      "summary": null,
+      "location": "Cagliari"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-di-salvatore-98211661",
+      "name": "Sara Di Salvatore",
+      "summary": "Head of Enrollment Italia / Country Product Manager presso EF Academy",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/armando-saetta-75672061",
+      "name": "Armando Saetta",
+      "summary": "Hotel Sales Manager presso HOTEL **** Napoli / Caserta / Riviera di Ulisse",
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisa-marano",
+      "name": "Elisa Marano",
+      "summary": "Marketing Strategist; Consulente di marketing e comunicazione, Coach e Formatrice.",
+      "location": "Fano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabrizio-lepore-16055073",
+      "name": "Fabrizio Lepore",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nuzzolo-claudio-910b5574",
+      "name": "Nuzzolo Claudio",
+      "summary": "FiberCop",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-donato-8388ab80",
+      "name": "Alessandra Donato",
+      "summary": "Country Sales Manager presso Impress",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-villanis-a14b2181",
+      "name": "Fabio Villanis",
+      "summary": "Profilo professionale multilingue (italiano, Inglese, Francese, Spagnolo e Portoghese).",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovanni-mei-37a14489",
+      "name": "Giovanni Mei",
+      "summary": "Digital Growth Manager - HBX",
+      "location": "Rimini"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pietro-grillo-67279589",
+      "name": "Pietro Grillo",
+      "summary": "Director of Sales and Marketing at Italy with Class",
+      "location": "Buonconvento"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brigitte-oberjakober-b975b690",
+      "name": "Brigitte Oberjakober",
+      "summary": null,
+      "location": "Brunico"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25ED%259D%25AC%25EB%25AC%25B8-%25EC%259C%25A0-37a83191",
+      "name": "유희문",
+      "summary": "Performance Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dietlinde-engl-b0342395",
+      "name": "Dietlinde Engl",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessio-guidi-1aaa679b",
+      "name": "Alessio Guidi",
+      "summary": "Direttore presso Operbingo Italia SPA",
+      "location": "Parma"
+    },
+    {
+      "link": "https://www.linkedin.com/in/consuelo-colabuono-03b348a7",
+      "name": "Consuelo Colabuono",
+      "summary": "Privacy & Security Liaison | DPO Supporting CISO Strategy | Coach and Counselor of Short Strategic Therapy",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eva-szakacs-212466b7",
+      "name": "Eva Szakacs",
+      "summary": "Founder of The Sleep Hero",
+      "location": "Budapest"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marzia-rigoni-884b07b8",
+      "name": "Marzia Rigoni",
+      "summary": "--",
+      "location": "Legnago"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bettina-a-4767b9113",
+      "name": "Bettina A.",
+      "summary": "CEM bei First Avenue - OOH & Digital Media",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katja-spronk-923b57114",
+      "name": "Katja Spronk",
+      "summary": "Trainer * L&D specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/teresa-mentore-5b0500115",
+      "name": "Teresa Mentore",
+      "summary": "Ha frequentato Università degli Studi di Urbino 'Carlo Bo'",
+      "location": "Salerno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentina-menotti-4b16a2128",
+      "name": "Valentina Menotti",
+      "summary": "Responsabile di Gestione in Service presso Adecco",
+      "location": "Aprilia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gianni-libertino-913b82135",
+      "name": "Gianni Libertino",
+      "summary": "Direttore Generale e Socio Fondatore presso MeTIS Bioedilizia Srl",
+      "location": "Modica"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-labbruzzo-510438156",
+      "name": "Luca Labbruzzo",
+      "summary": "Dottore Commercialista | Responsabile Ufficio Procurement",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ludovica-gambino-4a9a3615b",
+      "name": "LUDOVICA GAMBINO",
+      "summary": null,
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liz-hinestroza-9a3428160",
+      "name": "Liz Hinestroza",
+      "summary": "--",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lord-jens-kramer-67b186171",
+      "name": "Lord Jens Kramer",
+      "summary": "Trailrunning - Guide - Model",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valeriano-pisa-4546a5199",
+      "name": "Valeriano Pisa",
+      "summary": "Head of Hotel Web Services presso BWH Hotels Italia",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-bucci-a84a1b1b1",
+      "name": "Sara Bucci",
+      "summary": "Marketing Manager presso EOC",
+      "location": "Laives"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deborah-hofer-23390a1b5",
+      "name": "Deborah Hofer",
+      "summary": "Team Lead Sales Operations Digital & Project Manager | First Avenue GmbH",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefano-casaccia-92434a202",
+      "name": "Stefano Casaccia",
+      "summary": "Quadro esperto nell'ingegnerizzazione dei processi e integrazione dei sistemi informatici, Consulente informatico con esperienza di realizzazione siti Web e programmazione in JAVA e PHP con DB relazionali come MySql.",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davide-vigorito-897781202",
+      "name": "Davide Vigorito",
+      "summary": null,
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mehtap-schaupensteiner-322509211",
+      "name": "Mehtap Schaupensteiner",
+      "summary": "Area Sales Managerin bei comma,",
+      "location": "Wels"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Katia Pisetta Weber",
+      "link": "https://br.linkedin.com/in/katiaweber",
+      "summary": "Diretora na Prime Qualidade de Vida",
+      "location": "Caxias do Sul, RS"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-19T00:00:00Z"
+  }
+}

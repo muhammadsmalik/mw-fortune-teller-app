@@ -1,0 +1,270 @@
+{
+  "public_identifier": "felix-h-mende-a041712",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Felix H.",
+  "last_name": "Mende",
+  "full_name": "Felix H. Mende",
+  "follower_count": 889,
+  "occupation": "Managing Director at Swiss Poster Research Plus AG",
+  "headline": null,
+  "summary": null,
+  "location_str": "Zurich, Switzerland",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Zurich",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2011
+      },
+      "ends_at": null,
+      "company": "Swiss Poster Research Plus AG",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "Affichage Holding SA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Regional Director & Head of Market Development & Deputy Chief Affichage International",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Input Consulting AG",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Project Leader",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 1997
+      },
+      "company": "Hapag-Lloyd (Asia) Pte Ltd.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Independent Consultant",
+      "description": null,
+      "location": "Singapore",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 1997
+      },
+      "company": "Hapag-Lloyd (China) Ltd.",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Representative",
+      "description": null,
+      "location": "Hongkong",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "Business Administration/Economics",
+      "degree_name": "lic.rer.pol/Master",
+      "school": "Université de Fribourg/Universität Freiburg",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": "magna cum laude",
+      "activities_and_societies": "Activities and Societies: Teutonia, Klub85, FriConomy."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": null,
+      "degree_name": "Abitur",
+      "school": "Ökumenischen Gymnasium, Bremen, Germany",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1989
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Christ School, Arden, NC, USA",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: ASSIST scholarship"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1989
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Ökumenisches Gymnasium, Bremen, Germany",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1983
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Grundschule Oberneuland, Bremen, Germany",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "French",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "German",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 883,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-08-25T00:00:00Z"
+  }
+}

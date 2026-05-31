@@ -1,0 +1,400 @@
+{
+  "public_identifier": "nadineharvey",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Nadine",
+  "last_name": "Harvey",
+  "full_name": "Nadine Harvey",
+  "follower_count": 475,
+  "occupation": "Chief Operating Officer at The Siroky Group",
+  "headline": "Chief Operating Officer (COO) @ The Siroky Group",
+  "summary": null,
+  "location_str": "Markham, Ontario, Canada",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Markham",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "The Siroky Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-siroky-group",
+      "company_facebook_profile_url": null,
+      "title": "Chief Operating Officer",
+      "description": "At The Siroky Group, I collaborate closely with clients and internal teams to bridge gaps, solve complex problems, and continuously evolve our platforms to keep pace with a changing industry.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/900393ba15daa82416dc6f976e86f443"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": null,
+      "company": "The Siroky Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-siroky-group",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": null,
+      "location": "Toronto, Canada Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/900393ba15daa82416dc6f976e86f443"
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 467,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/jmoore16",
+      "name": "Jessica Moore",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-banaszek",
+      "name": "Sara Banaszek",
+      "summary": "Operation Assistant at AirHelp",
+      "location": "Gdansk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/donald-robert-macdonald-690b2133",
+      "name": "Donald Robert MacDonald",
+      "summary": "Director, Anthony Macauley Associates",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/janakhanraj",
+      "name": "Janakhan Raj",
+      "summary": "Director @ Futura Business Services, IT Initiatives Inc, & Futura Tax",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amanda-dorenberg",
+      "name": "Amanda Dorenberg",
+      "summary": "CEO | Public Speaker |  Entrepreneur",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-reddy-b01b1922b",
+      "name": "Anil Reddy",
+      "summary": "COO of Leadspace",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorja-wilkins-mphil-mpsa-54b50330",
+      "name": "Jorja Wilkins - MPhil, MPSA",
+      "summary": "GM Future Media & Sustainability | Programmatic, Digital Transformation & ESG Strategy | Doctoral Candidate (GIBS)",
+      "location": "Johannesburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/doug-marlin-86b9453",
+      "name": "Doug Marlin",
+      "summary": "Independent Computer Software Professional",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louis-gosselin-6682456",
+      "name": "Louis Gosselin",
+      "summary": "IS Director at Accesrail",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/curtis-mcintyre-230a787",
+      "name": "Curtis McIntyre",
+      "summary": null,
+      "location": "Halifax"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karl-p-feiler-1852379",
+      "name": "Karl P. Feiler",
+      "summary": "Director at TKF & Associates",
+      "location": "Essex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fi-dastoor-303a139",
+      "name": "Fi Dastoor",
+      "summary": "Director at Fi Dastoor Consulting",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-sundin-64a5a013",
+      "name": "Mark Sundin",
+      "summary": null,
+      "location": "West Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nasir-sheikh-80664119",
+      "name": "Nasir Sheikh",
+      "summary": "Director at ICTG, Canada",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carol-mayne-0a3b6121",
+      "name": "Carol Mayne",
+      "summary": null,
+      "location": "Charlottetown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/praveen-gupta-1a130623",
+      "name": "Praveen Gupta",
+      "summary": "Director at eg communications Pvt. ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arjanparsa",
+      "name": "Arjan Parsa",
+      "summary": "Managing Director at VELOCITV INC.",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathryn-jones-210a4536",
+      "name": "Kathryn Jones",
+      "summary": null,
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tien-ong-19750037",
+      "name": "Tien Ong",
+      "summary": "Program Officer at GIZ",
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rod-armstrong-4037323b",
+      "name": "Rod Armstrong",
+      "summary": null,
+      "location": "Wentworth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wayne-cummings-47a04343",
+      "name": "Wayne Cummings",
+      "summary": "DIRECTOR at Humanitarian Foundation Fund",
+      "location": "Grand Falls-Windsor"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aimee-bradshaw-3ba54852",
+      "name": "Aimee Bradshaw",
+      "summary": "Media Sales Partner at Johnston Press",
+      "location": "Wigan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonella-greco-41009961",
+      "name": "Antonella Greco",
+      "summary": "Client Services Manager at The Siroky Group",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-barber-68115261",
+      "name": "Julie Barber",
+      "summary": "Ex - Commercial Manager at Ten Alps Publishing",
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-gorman-b047756a",
+      "name": "Karen Gorman",
+      "summary": "Retired!",
+      "location": "Ottawa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-martland-06682a6a",
+      "name": "Sandra Martland",
+      "summary": null,
+      "location": "Wigan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-hitchins-03443986",
+      "name": "Peter Hitchins",
+      "summary": "Director at Hitchins & Associates Consultants Inc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-canley-2401a787",
+      "name": "Vanessa Canley",
+      "summary": "College Essay Coach & Academic Writing Specialist",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sal-quinones-b7b61787",
+      "name": "Sal Quinones",
+      "summary": null,
+      "location": "Trabuco Canyon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amulya-tandon",
+      "name": "Amulya Tandon",
+      "summary": "IT Security Expert | Strategy Consultant",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jjsiroky",
+      "name": "Jordan Siroky",
+      "summary": "Great design solves problems and changes perspectives.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-walton-66b562aa",
+      "name": "Paul Walton",
+      "summary": "Senior Account Manager at PHMG : Experts in audio branding",
+      "location": "Old Trafford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-hussain-594315b2",
+      "name": "Ahmed Hussain",
+      "summary": "Power BI Architect",
+      "location": "Mississauga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-black-189537ba",
+      "name": "Matt Black",
+      "summary": "Client Engagement Manager at Velocity Business Solutions",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dobrila-suttles-997038100",
+      "name": "Dobrila Suttles",
+      "summary": "Director at Magnetar Games",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-james-71b523157",
+      "name": "Julie James",
+      "summary": "Junior Software Testing and Support at The Siroky Group",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raymond-magno-241557216",
+      "name": "Raymond Magno",
+      "summary": "Software support specialist at The Siroky Group",
+      "location": "Brampton"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "We are #hiring! Know anyone who might be interested?",
+      "link": "https://www.linkedin.com/posts/nadineharvey_hiring-activity-7440119491063205888-5lfZ",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to seeing everyone!",
+      "link": "https://www.linkedin.com/posts/nadineharvey_looking-forward-to-seeing-everyone-activity-7335998827801260033-Ie_G",
+      "activity_status": null
+    },
+    {
+      "title": "We are hiring! Looking for a great Business Analyst to add to our team. Please pass on this job link if you know someone that may be a good fit.…",
+      "link": "https://www.linkedin.com/posts/nadineharvey_business-analyst-activity-7229583027939500033-vVRc",
+      "activity_status": null
+    },
+    {
+      "title": "Heading to Lisbon tonight for the World Out of Home Organization Conference. Looking forward to catching up!",
+      "link": "https://www.linkedin.com/posts/nadineharvey_heading-to-lisbon-tonight-for-the-world-out-activity-7072231082548420608-IJQK",
+      "activity_status": null
+    },
+    {
+      "title": "We're #hiring. Know anyone who might be interested?",
+      "link": "https://www.linkedin.com/posts/nadineharvey_hiring-activity-6886347487091716097-Q36W",
+      "activity_status": null
+    },
+    {
+      "title": "We are #hiring. Know anyone who might be interested? #productmanagerjobs #productmanagers #businessanalysis",
+      "link": "https://www.linkedin.com/posts/nadineharvey_hiring-productmanagerjobs-productmanagers-activity-6886320203865612288-vUpm",
+      "activity_status": null
+    },
+    {
+      "title": "We're #hiring. Know anyone who might be interested?",
+      "link": "https://www.linkedin.com/posts/nadineharvey_hiring-activity-6886325263802634241-EcEe",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/nadineharvey_happy-retirement-doug-hodgert-we-celebrated-activity-6594969984458375169-JptL",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadine-harvey-69865150",
+      "summary": "Conseillère marketing - spécialiste communications et message & marketing numérique / Marketing Consultant - Message & Content Specialist & Digital Marketing",
+      "location": "Montreal, QC"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://www.linkedin.com/in/nadine-harvey-88716618b",
+      "summary": "Social Media Manager/ influencer",
+      "location": "Orange County, CA"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadine-harvey-aa4b4a23",
+      "summary": "Medical Aesthetician and Skin Care Specialist",
+      "location": "Greater Montreal Metropolitan Area"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://au.linkedin.com/in/nadine-harvey-0600922a",
+      "summary": "Retired Business Advisor and Owner",
+      "location": "Greater Newcastle Area"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadineharvey-serti",
+      "summary": "Conseillère marketing - spécialiste communications et message & marketing numérique / Marketing Consultant - Communications & Content Specialist & Digital Marketing",
+      "location": "Montreal, QC"
+    },
+    {
+      "name": "Nadine Lydia",
+      "link": "https://www.linkedin.com/in/nadine-lydia-46bb0884",
+      "summary": "Master Instructor at Elaine Sterling Institute",
+      "location": "Peachtree Corners, GA"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadineharvey-keyloop",
+      "summary": "Communications Project Coordinator",
+      "location": "Montreal, QC"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadine-harvey-5929b427",
+      "summary": "Gérant de catégorie chez McMahon distributeur pharmaceutique",
+      "location": "Le Gardeur, QC"
+    },
+    {
+      "name": "Nadine Harvey",
+      "link": "https://ca.linkedin.com/in/nadine-harvey-985243243",
+      "summary": "Directrice Services Québec",
+      "location": "Forestville, QC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-07T00:00:00Z"
+  }
+}

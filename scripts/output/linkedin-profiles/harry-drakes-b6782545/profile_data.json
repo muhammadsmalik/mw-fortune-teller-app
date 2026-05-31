@@ -1,0 +1,664 @@
+{
+  "public_identifier": "harry-drakes-b6782545",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/e071933c94066c00da482fd6fed1c471",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/84a4d4de487061b8afb5f856872c28ca",
+  "first_name": "Harry",
+  "last_name": "Drakes",
+  "full_name": "Harry Drakes",
+  "follower_count": 824,
+  "occupation": "UK Foods Senior Media Strategy & Planning Manager at PepsiCo",
+  "headline": "Media, Digital and Connections Planning",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "PepsiCo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pepsico",
+      "company_facebook_profile_url": null,
+      "title": "UK Foods Senior Media Strategy & Planning Manager",
+      "description": "Now responsible for connections planning across the Walkers UK business Also now have expanded remit to ensure media and comms planning excellence across the whole UK business",
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f8002f091c7e26f537bf2b8fbf84a774"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "PepsiCo",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/pepsico",
+      "company_facebook_profile_url": null,
+      "title": "Total Connections Planning Lead: UK Foods",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f8002f091c7e26f537bf2b8fbf84a774"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "Vizeum UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Client Partner",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      },
+      "company": "Vizeum UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "Vizeum UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Vizeum UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "company": "Vizeum UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Comms Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2015
+      },
+      "company": "MEC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mec",
+      "company_facebook_profile_url": null,
+      "title": "Comms Planning Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/babfc8c20bf44453ac741821d6d9a326"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "MEC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mec",
+      "company_facebook_profile_url": null,
+      "title": "Comms Planning Executive",
+      "description": "Worked and still working on major accounts in Ents - Nintendo, FMCG - Ferrero, Government - Electoral commission and Gambling - Rank Interactive, as a comms planner.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/babfc8c20bf44453ac741821d6d9a326"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2012
+      },
+      "company": "Slingshot Sponsorship",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/slingshot-sponsorship-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Intern",
+      "description": "Slingshot Sponsorship Ltd is a specialist sponsorship agency based in Central London. We help organisations identify, create, and optimise media assets so they become viable marketing opportunities for brands to sponsor.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bd2b908d48762d4f211bb1cc123dac5e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "company": "Social & Local CIC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/social-%26-local",
+      "company_facebook_profile_url": null,
+      "title": "Junior Account Executive",
+      "description": null,
+      "location": "Nottingham, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe4fe5958420a2ed9483a3abcc26c024"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2010
+      },
+      "company": "23red",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/23red",
+      "company_facebook_profile_url": null,
+      "title": "Intern",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/78f1661e922615c7e5c23c44ccf2cfe6"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": "Politics",
+      "degree_name": "2:1",
+      "school": "University of Newcastle-upon-Tyne",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/newcastle-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/tomplaner",
+      "name": "Tom Planer",
+      "summary": "Wine shopping simplified. 🍷",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timcasey4",
+      "name": "Tim Casey",
+      "summary": "VP, Client Services",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajmahon",
+      "name": "Raj Mahon",
+      "summary": "VP, Strategic Partnerships at MiQ",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adamwalters",
+      "name": "Adam Walters",
+      "summary": null,
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/londoncreative",
+      "name": "Chris Lovell",
+      "summary": "Senior Creative at S&B in-house agency at PepsiCo",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ildut",
+      "name": "Ildut Loarer",
+      "summary": "Client Partner | Marketing and Brand Strategy | Mental Health First Aider",
+      "location": "Hackney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ewanbell",
+      "name": "Ewan Bell",
+      "summary": "New Business at Liftoff Mobile",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-e-wall",
+      "name": "David Wall",
+      "summary": "Senior Strategy Director, CX",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benmurphy81",
+      "name": "Ben Murphy",
+      "summary": "Client Services Director at Great State",
+      "location": "Churchill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/biancalucymay",
+      "name": "Bianca May",
+      "summary": "EMEA Client Development, Marketing & Technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mwatto",
+      "name": "Matt Watson",
+      "summary": "CCO, Sips&Bites, PepsiCo Europe | Multiple Cannes lions | D&AD Yellow Pencil | Campaign’s 2024 Creative Leader Of The Year Finalist | Campaign’s 2024 in-house AOTY | Mentor & Speaker",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-pothier",
+      "name": "Rob Pothier",
+      "summary": "Senior Marketing Manager - Doritos at PepsiCo",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karinastoltz",
+      "name": "Karina Stoltz",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-goodwin-31641a53",
+      "name": "Georgia Goodwin",
+      "summary": "Chief Client Officer | 2x 30 Under 30 Winner | Hero100 2025 | Santander Breakthrough Women Business Leaders Mentor | Passionate About Growth & Leadership",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-moger-111b9011",
+      "name": "Charlotte Moger",
+      "summary": "Managing Partner at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colinhoran",
+      "name": "Colin Horan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-houston-work",
+      "name": "Lee Houston",
+      "summary": "UK General Manager, Quaker Oats – PepsiCo | UK Executive Team",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathansewell",
+      "name": "Jonathan Sewell",
+      "summary": "Awarded Communications Expert. Global Marketing & Consultancy. Advertising. Customer Experience. CRM. Loyalty. Martech. Digital Transformation.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diane-m-baker",
+      "name": "Diane Baker",
+      "summary": "SVP, Customer Success | Helping organisations attract the best employees by using the power of their brand and our technology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-sandler",
+      "name": "David Sandler",
+      "summary": "Head of Partnerships",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/malcolm-mclaren-22348410",
+      "name": "Malcolm McLaren",
+      "summary": "Strategic Marketing & Growth Leader | Brand, Demand & Experience | Driving Commercial Impact Across Technology, Financial Services & Automotive",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-blackburn-61157710",
+      "name": "Luke Blackburn",
+      "summary": "Head of Digital & Technology @ PepsiCo UK | E2E Digital Strategy & Transformation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-walter-0a333a12",
+      "name": "Oliver Walter",
+      "summary": "Commerical Controller, PepsiCo Beverages GB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/arlene-livingstone-152a1b12",
+      "name": "Arlene Livingstone",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-rock-a20a7914",
+      "name": "Charlotte Rock",
+      "summary": "Head of Paid Media and Campaigns at Aston University",
+      "location": "Solihull"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanna-mikolajczyk-39119116",
+      "name": "Joanna Mikolajczyk",
+      "summary": "Principal Partner at Havas Media UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jon-beach-b5823716",
+      "name": "Jon Beach",
+      "summary": "Senior Creative | jonandchris.co.uk",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fiona-tomlin-020b6a18",
+      "name": "Fiona Tomlin",
+      "summary": "CMO PepsiCo UK & Ireland",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebecca-dennis-7a055219",
+      "name": "Rebecca Dennis",
+      "summary": "Deeply experienced marketer; passionate for partnering ambitious clients to deliver behaviour change and impact.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-riley-28687419",
+      "name": "Alex Riley",
+      "summary": null,
+      "location": "Leigh-on-Sea"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-herbert-751b7624",
+      "name": "Stephanie Herbert",
+      "summary": "Global Marketing Manager, 7UP, Mountain Dew and Mirinda (STEP programme)",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natalie-st-flour-94629a38",
+      "name": "Natalie St Flour",
+      "summary": "Business Director at Zenith",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/angie-sparling-b7b5833a",
+      "name": "Angie Sparling",
+      "summary": "Corporate Account Manager",
+      "location": "Hythe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-lea-b1924751",
+      "name": "Amy Lea",
+      "summary": "Client Partner at OMD UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-bonsor-99606252",
+      "name": "Laura Bonsor",
+      "summary": "Virtual Lifestyle Assistant",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-fisher-ba251b56",
+      "name": "Will Fisher",
+      "summary": "Global Head of Partnerships",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-winstanley-26702b63",
+      "name": "Steve Winstanley",
+      "summary": "Chief Operating Officer at Vysta Media Group",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-kirby-b846ab67",
+      "name": "Steven Kirby",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandra-sikorska-9699b372",
+      "name": "Aleksandra Sikorska",
+      "summary": "Media and connections planning manager",
+      "location": "Petersfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-vennard-4b05937b",
+      "name": "Katie Vennard",
+      "summary": "Finance Analyst",
+      "location": "Wokingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robyn-may-15625283",
+      "name": "Robyn May",
+      "summary": "Franchisee & Company Director",
+      "location": "Wickford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joi-jenkins-21a835a3",
+      "name": "Joi Jenkins",
+      "summary": "Head of Sales - \nKBH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liz-trussell-297485aa",
+      "name": "Liz Trussell",
+      "summary": "Field Sales Execution Executive at PepsiCo",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/morten-holt-bj%25C3%25A3%25C2%25B8rklund-139260b3",
+      "name": "Morten Holt Bjørklund",
+      "summary": "Commercialization Manager Nutrition - Western Europe i PepsiCo",
+      "location": "Oslo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-hirst-9ab660116",
+      "name": "Steve Hirst",
+      "summary": null,
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vishal-gadhavi-96846111a",
+      "name": "Vishal Gadhavi",
+      "summary": "Director at Good Broadcast (VCCP Partnership)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-cummings-729023122",
+      "name": "Oliver Cummings",
+      "summary": "GB Portfolio Manager at Diageo",
+      "location": "Thatcham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-davy-a11685131",
+      "name": "Steve Davy",
+      "summary": "Ex- Regional Sales Manager",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amber-bray-11980014b",
+      "name": "Amber Bray",
+      "summary": "Business Director at OMD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-gallacher-798a6b154",
+      "name": "Martin Gallacher",
+      "summary": "Sales Development for PepsiCo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-bowsher-27177b161",
+      "name": "Sarah Bowsher",
+      "summary": "Innovation Finance Manager",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/freya-hopkisson-625004173",
+      "name": "Freya Hopkisson",
+      "summary": "Global Marketing at PepsiCo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-jenkins-557751198",
+      "name": "Paul Jenkins",
+      "summary": "Salesperson at PepsiCo",
+      "location": "Swansea"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Still reflecting on an amazing experience speaking today at the Alliance Manchester Business School, part of the The University of Manchester  — one…",
+      "link": "https://www.linkedin.com/posts/alina-petrozhets-5758ba42_marketing-careers-guestspeaker-activity-7443384691572772864-SOW_",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Excited to share that I’ve joined Influential  as a VP of Brand Partnerships! I'm greatly looking forward to working with some new & familiar…",
+      "link": "https://www.linkedin.com/posts/addisson-simms-a48b6311_excited-to-share-that-ive-joined-influential-activity-7441843545008721921-qzkC",
+      "activity_status": null
+    },
+    {
+      "title": "🖤 Ace of Hearts Something in the air… we’re going back to the future. Big systems thinking with media built in, not bolted on. Jamming at the same…",
+      "link": "https://www.linkedin.com/posts/sabina-usher-she-her-92118141_omd-activity-7439276920531259392-2lUI",
+      "activity_status": null
+    },
+    {
+      "title": "In the world full of noise and contradictory advice sticking to healthy eating patterns is more challenging than ever. But there’s one thing that is…",
+      "link": "https://www.linkedin.com/posts/alina-petrozhets-5758ba42_repositioning-fibre-innovation-activity-7433133001728970752-grpZ",
+      "activity_status": null
+    },
+    {
+      "title": "A brilliant morning at Spotify’s London HQ with partners across FMCG, QSR and Retail joining us for our breakfast event ‘Listening Happens First: The…",
+      "link": "https://www.linkedin.com/posts/chikeonyek_lhf-hfss-audio-activity-7432733930903998465-rDH7",
+      "activity_status": null
+    },
+    {
+      "title": "Hot honey anyone 🍯🔥➡️ If you missed it on Friday, our brand‑new show Walkers Unpacked is now streaming on Channel 4 — and it’s already picked up…",
+      "link": "https://www.linkedin.com/posts/jess-sinclair-361b783_hot-honey-anyone-if-you-missed-it-activity-7431268454030008320-bN0_",
+      "activity_status": null
+    },
+    {
+      "title": "We’re at the start of what’s going to be a truly epic year for Walkers. Starting with our brand new VIS, we’re rolling out our biggest brand refresh…",
+      "link": "https://www.linkedin.com/posts/wayne-newton-446880b5_were-at-the-start-of-whats-going-to-be-activity-7417510887810301952-AnzX",
+      "activity_status": null
+    },
+    {
+      "title": "This week I was lucky enough to be asked to speak at this years YouTube Festival 2025. It was something new and uncomfortable for me, speaking to an…",
+      "link": "https://www.linkedin.com/posts/harry-drakes-b6782545_this-week-i-was-lucky-enough-to-be-asked-activity-7377291625594654720-U2Zy",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Harry Drakes",
+      "link": "https://uk.linkedin.com/in/harry-drakes-80abb6120",
+      "summary": "Plasterer at H.D. plastering",
+      "location": "Doncaster"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:54:41Z"
+  }
+}

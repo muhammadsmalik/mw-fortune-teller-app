@@ -1,0 +1,811 @@
+{
+  "public_identifier": "giorgi-trapaidze-44a09b92",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Giorgi",
+  "last_name": "Trapaidze",
+  "full_name": "Giorgi Trapaidze",
+  "follower_count": 3681,
+  "occupation": "Chief Executive Officer at ALMA - Advertising Company",
+  "headline": "Chief Executive Officer at ALMA",
+  "summary": "After six years of working in JSC Bank of Georgia in the field of commercial banking I have got professional experience in different industries: Corporate finance, financial accounting, financial modeling, valuation, budgeting and reporting. <br><br>But today, as Chief Executive Officer of Alma Ltd, looking back I see the big importance of management and leadership. I see the value of team building, motivation and corporate culture - terms which were vague for me years before. <br><br>With superior interpersonal and communication skills I strive for implementing effective ways of employee motivation, employee engagement, positive employee morale, rewards and recognition.",
+  "location_str": "Georgia",
+  "country": "GE",
+  "country_full_name": "Georgia",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "ALMA - Advertising Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/alma---advertising-company",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "•\tDetermining the company’s strategic objectives and policies; •\tResponsible for driving the growth of revenue and profit margins; •\tResponsible for all contracts and lease agreements with key stakeholders & clients; •\tInterpreting financial data and drawing conclusions; •\tImplementing systems that reward good staff performance & competence; •\tMotivating & providing strong leadership to all departments; •\tMonitoring progress towards achieving the objectives and policies; •\tAccounting for the company’s activities to shareholders;",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/10f2759a8fd866ba5eb4b3144b65f692"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "MP Development",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "Generating new development deals for a company that focuses on multi-projects, including commercial and residential real estate development through Georgia.",
+      "location": "Tbilisi, Georgia",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Bank of Georgia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-of-georgia",
+      "company_facebook_profile_url": null,
+      "title": "Principal Corporate Banker",
+      "description": "- Managing existing portfolio of 40 VIP clients out of top 100 clients of Bank of Georgia defined for the VIP Banking Unit; - Negotiations with potential clients, preparing presentations for these meetings; - Analyzing strategic plans, financial statements and ratios of the companies to be financed; - Identifying opportunities for existing and potential clients and apprising investment proposals in terms of financing and documentary operations; - Selling the Bank Products to Corporate Clients and their employees.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1ce8638102f2bd0a2c2f3a3c176574c9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2009
+      },
+      "company": "Bank of Georgia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-of-georgia",
+      "company_facebook_profile_url": null,
+      "title": "Corporate Sales Manager",
+      "description": "-  Managing portfolio of Legal Entities; -  Making intensive phone calls to clients in order to arrange meetings and make presentations about various banking products; -  Preparing reports and databases of clients; -  Participating in the negotiations with new clients; -  Understanding clients’ requirements and making transfers to appropriate Departments.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1ce8638102f2bd0a2c2f3a3c176574c9"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Bachelor's degree",
+      "school": "Caucasus School of Business",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Business Administration and Management, General",
+      "degree_name": "Bachelor's degree",
+      "school": "Riga International School of Economics and Business Administration (RISEBA)",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Russian",
+    "Georgian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "German",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Russian",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Georgian",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2014
+      },
+      "ends_at": null,
+      "name": "Modern Methods of General Management",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Management Academy",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Financial & Valuation Modeling",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Wall Street Prep",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Financial Modeling Course",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Fitch Learning",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "CFA Level 2 Candidate; Passed CFA Level 1 on first attempt",
+      "license_number": null,
+      "display_source": null,
+      "authority": "CFA Institute",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Renewable energy & Energy efficiency",
+      "license_number": null,
+      "display_source": null,
+      "authority": "INOGATE Programme",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2013
+      },
+      "ends_at": null,
+      "name": "Finance",
+      "license_number": null,
+      "display_source": null,
+      "authority": "GEC Corp.",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/nugulava",
+      "name": "Nutsa Ugulava",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lika-maziashvili",
+      "name": "Lika Maziashvili",
+      "summary": "Legal Consultant at BlueOrchard Finance Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andsoup",
+      "name": "Andreas Soupliotis",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pavlemgeladze",
+      "name": "Pavle Mgeladze",
+      "summary": "Founder & SVO @ re:invent | Former Amazon I Emory MBA",
+      "location": "Miami Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevenjpearson",
+      "name": "Steve Pearson",
+      "summary": "Founder and Executive",
+      "location": "Salt Lake City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bowthorpe",
+      "name": "Simón Bowthorpe",
+      "summary": null,
+      "location": "Écija"
+    },
+    {
+      "link": "https://www.linkedin.com/in/1421",
+      "name": "Anthony Limpert",
+      "summary": "Digital Marketing Manager",
+      "location": "Phoenix metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samialmufleh",
+      "name": "Sami AL Mufleh",
+      "summary": "CEO @ HILLS ADVERTISING L.L.C | Marketing Communications Expert",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leanne-krstevski40",
+      "name": "Leanne Krstevski",
+      "summary": "Chief Executive Officer",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lukelawal",
+      "name": "Luke Lawal Jr.",
+      "summary": "Solving problems, one brand at a time.",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zurab",
+      "name": "Zurab Maisuradze",
+      "summary": "Communication Expert | Customer Experience Strategist | Investment Manager | Management Consultant | Negotiations & Mediation Expert",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valerianberaia",
+      "name": "Vako Beraia",
+      "summary": "Director Of Operations at Dressup Group",
+      "location": "Copenhagen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/psvelardi",
+      "name": "Peter S. Velardi",
+      "summary": "We help financial advisory businesses systematize, scale, and sell their practices | Automated Referral Software | 200+ Practices Represented in Acquisitions | Hired, Trained, and Led 5,000+ Financial Advisors",
+      "location": "Atlanta metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vasilpkhakadze",
+      "name": "Vasil Pkhakadze",
+      "summary": "Chief Executive Officer at Biograpi Living",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irakli-aslanishvili-phd-in-economics-557a7b4",
+      "name": "Irakli Aslanishvili (PhD in Economics)",
+      "summary": null,
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasanka-fonseka-dba-reading-mba-uk-msc-uk-acma-cgma-269a4178",
+      "name": "Sasanka Fonseka DBA ( Reading ) -MBA (.UK )- Msc ( UK) - ACMA CGMA",
+      "summary": "Strategic Transformational Leader ,  Sustainability Enthusiast and Growth Champion        -DBA ( Reading) (MBA(UK ),CMA (Australia),CIPD (UK) ,Msc(UK )ACMA  CGMA ,MSLIM ,ACIM ,CQHRM  (CIPM)\n\nEx Pfizer & GE Healthcare",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaiserestrada",
+      "name": "Kaiser Estrada, CPA, MIB",
+      "summary": "Managing Director at Streamlined Campaigns Philippines & Cambodia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anzor-gagoshidze-212876294",
+      "name": "Anzor Gagoshidze",
+      "summary": "Attended Akaki Tsereteli State University",
+      "location": "Kutaisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zura-cucqiridze-64340327a",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/saba-mdivani-b82ba5279",
+      "name": "Saba Mdivani",
+      "summary": "Sales Manager at Lamborghini Tbilisi",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aleksandre-kokosadze-458109268",
+      "name": "Aleksandre Kokosadze",
+      "summary": "Creative Director & Copywriter",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylanmabin",
+      "name": "Dylan Mabin",
+      "summary": "President - Geopath",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noah-dalal-176089245",
+      "name": "Noah Dalal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/natiaturnava",
+      "name": "Natia Turnava",
+      "summary": "Minister of Economy and Sustainable Development of Georgia - ეკონომიკის სამინისტრო",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kumartz",
+      "name": "kumar pandya",
+      "summary": "Founder | Business Strategist | Commodity Trader | Empowering Business Owners through Marketing and Financial Innovation",
+      "location": "Dar es-Salaam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sasanka-fonseka-acma-cgma-uk-269a4178",
+      "name": "Sasanka Fonseka ACMA CGMA ( UK )",
+      "summary": "Strategic Transformational Leader ,  Sustainability Enthusiast, EDI mindset and Sales Champion        -DBA ( Reading) (MBA(UK ),CMA (Australia),CIPD (UK) ,Msc(UK )ACMA  CGMA ,MSLIM ,ACIM ,CQHRM  (CIPM)\n\nlives in London",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bitchiko-siradze-295033a6",
+      "name": "Bitchiko Siradze",
+      "summary": "Head of Business Development & Product Manager",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-irakli-aslanishvili-phd-in-economics-557a7b4",
+      "name": "Dr.Irakli Aslanishvili (PhD in Economics)",
+      "summary": "First Deputy General Director UGT/Euro Marine Group CEO",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/parag-karve-3863995",
+      "name": "Parag Karve",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliangarciatorres",
+      "name": "Julian Garcia Torres",
+      "summary": "CEO | AI Specialist  | CSO & CMO | Tech-Savvy | \nResults-Driven | Mastering Every Challenge",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aymanhaydar",
+      "name": "Ayman Haydar",
+      "summary": "New Venture Launching Soon",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mamuka-loladze-2a6a4114",
+      "name": "Mamuka Loladze",
+      "summary": "Technical Director at GEOMED Ltd (Medical Equipment)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/irina-novoselsky",
+      "name": "Irina Novoselsky",
+      "summary": "CEO at Hootsuite 🦉 Turning social media into a predictable revenue channel | Growing businesses and people",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maryluseka",
+      "name": "Mary Luseka",
+      "summary": "Branding & Communications Consultant | Former CEO Brand Kenya Board",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/levan-pkhakadze-03259436",
+      "name": "Levan Pkhakadze",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vakhtang-lagidze-12540043",
+      "name": "Vakhtang Lagidze",
+      "summary": "Владелец, Coca-Cola Bottlers Georgia LTD",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lasha-gvinianidze-b1185556",
+      "name": "Lasha Gvinianidze",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-harris-91a5b958",
+      "name": "Steve Harris",
+      "summary": "CEO, The Brand Agency, part of the WPP Group.",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/temuka-shengelia-9b860558",
+      "name": "Temuka Shengelia",
+      "summary": "WhiteBIT Georgia CEO",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-samson-soso-pkhakadze-994bb169",
+      "name": "Dr. Samson (Soso) Pkhakadze",
+      "summary": "President of Wissol Group President of Business Assosiation of Georgia",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daria-torbeeva-a170976a",
+      "name": "Daria Torbeeva",
+      "summary": "Business Development | Marketing Manager  | Account Manager",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryanshemen",
+      "name": "Ryan Shemen",
+      "summary": "International Business Development Director I Reward Marketing I Brand Loyalty I Consumer Behavior I New Customer Acquisition I Retention I Partnerships I 30,000 LinkedIn Connections",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliko-kobakhidze-94347273",
+      "name": "Oliko Kobakhidze",
+      "summary": "PhD candidate in Law & Lecturer at Sulkhan-Saba Orbeliani University•Lawyer at Georgian Competition and Consumer Agency•Member of IP Law committee at Georgian Bar Association",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mamuka-loladze-a1407a7b",
+      "name": "mamuka loladze",
+      "summary": "Graphic designer, layout designer, Pre-Press Designer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/levan-pkhakadze-5a9973a9",
+      "name": "Levan Pkhakadze",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nino-japaridze-685184aa",
+      "name": "Nino japaridze",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tornike-obolashvili-070691b5",
+      "name": "Tornike Obolashvili",
+      "summary": "General Manager at Pharmaceutical Factory “Biopolus”",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/syed-ali-1b56b7b9",
+      "name": "Syed Ali",
+      "summary": "Chief Executive Officer at SAAR",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rusa-datukishvili-501301ba",
+      "name": "Rusa Datukishvili",
+      "summary": "Founder of a marketing agency providing tailored, end-to-end solutions for businesses of all sizes — from startups to established brands.",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramin-moradimehr-879b6a101",
+      "name": "ramin moradimehr",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-okeyo-53aa9a114",
+      "name": "Andrew Okeyo",
+      "summary": "Maritime Professional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mp-development-a32a39119",
+      "name": "MP Development",
+      "summary": "MPD at Mp Development Georgia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-ingorokva-25363b128",
+      "name": "George Ingorokva",
+      "summary": "Jaguar Land Rover Quality Control at GT Motors",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lasha-tsaadze-13b6b2138",
+      "name": "Lasha Tsaadze",
+      "summary": "Senior Sales Manager at ALMA - Advertising Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tamar-jojua-a96814139",
+      "name": "Tamar Jojua",
+      "summary": "Head of Client Relations department at ALMA advertising company member of Wissol Group",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natia-bibilashvili-032264156",
+      "name": "natia bibilashvili",
+      "summary": "accountant at ALMA - Advertising Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/temo-kurtsikidze-aa6655170",
+      "name": "Temo Kurtsikidze",
+      "summary": "Chief Revenue Officer (CRO) | MBA | ESM",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/irakli-gotsiridze-493a9b175",
+      "name": "Irakli Gotsiridze",
+      "summary": "Digital Artist / Illustrator / Senior designer / Freelancer /",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iraklisoselia",
+      "name": "Irakli Soselia",
+      "summary": "IT Supervisor",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikheil-gorgiladze-432300185",
+      "name": "Mikheil Gorgiladze",
+      "summary": "Industry Maverick: Setting the Bar High and Raising Eyebrows Everywhere! Sales Broker Extraordinaire: Turning Transactions into Triumphs and Deals into Dominance!",
+      "location": "Batumi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nino-kakhoshvili-17bab0186",
+      "name": "nino Kakhoshvili",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/levan-pkhakadze-55bb14194",
+      "name": "Levan Pkhakadze",
+      "summary": "Omedia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariam-chkhartishvili-aa453219a",
+      "name": "Mariam Chkhartishvili",
+      "summary": "Senior Brand & Marketing Operations Lead",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincent-lam-1ab12419b",
+      "name": "Vincent Lam",
+      "summary": "Chairman, CEO, Founder at Asiaray Media Group Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/irakli-kalmakhelidze-ab60791a2",
+      "name": "Irakli Kalmakhelidze",
+      "summary": "Managing Director at LLC SUFTA TSKALI",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikheil-gorgiladze-776a381a4",
+      "name": "Mikheil Gorgiladze",
+      "summary": "seaman at",
+      "location": "Batumi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nino-mirvelashvili-a82a201a5",
+      "name": "Nino Mirvelashvili",
+      "summary": "Assistant Accountant at Humana (Tbilisi)",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikheil-gorgadze-3509771b7",
+      "name": "Mikheil Gorgadze",
+      "summary": null,
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mari-darsadze-a526471b8",
+      "name": "Mari Darsadze",
+      "summary": "Sales And Marketing Specialist at ALMA",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roma-tsirekidze-1060b1204",
+      "name": "Roma Tsirekidze",
+      "summary": "Sales and Marketing Manager at ALMA - Advertising Company",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vazha-rukhadze-ab8ab3215",
+      "name": "Vazha Rukhadze",
+      "summary": "Head of OOH Advertising Channel",
+      "location": "Tbilisi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/temo-sulamanidze-a65774217",
+      "name": "Temo Sulamanidze",
+      "summary": "Head of OOH Advertising Channel  at ALMA\n\nMember of Wissol Group",
+      "location": "Tbilisi"
+    }
+  ],
+  "recommendations": [
+    "Givi Chachia\n\nGiorgi was our corporate banker; we were working on various projects during 4 years. During our cooperation, Giorgi has shown up himself as reliable and productive partner, with high level of competence in almost all fields of banking business.",
+    "Nikoloz Doborjginidze\n\nGiorgi  is a personable individual that gets on well with those around him. He is focused and dedicated to producing his very best at all times. He has shown that he is able to deal with uncertainty and dislocation and I recommend him highly – he has a great sense of responsibility and truly client oriented approach. I'm happy to have a chance to work with him."
+  ],
+  "activities": [
+    {
+      "title": "სასწრაფოდ იყიდება ნაკვეთი კაკლებში. იდეალური ადგილი კერძო სახლისთვის. ს/კ 01.14.09.008.602. ფასი - 250$ 1კვ/მ",
+      "link": "https://www.linkedin.com/posts/giorgi-trapaidze-44a09b92_იყიდება-მიწის-ნაკვეთი-ბაგებში-იმედაძის-ქ-activity-6503500374501134336-7hGg",
+      "activity_status": null
+    },
+    {
+      "title": "#HOTCO #Hotelinvestment #hotels #budapest",
+      "link": "https://www.linkedin.com/posts/attilaradvanszki_hotco-hotelinvestment-hotels-activity-6488627103490277376-iiD0",
+      "activity_status": null
+    },
+    {
+      "title": "How are Lifestyle Trends and the Internet changing the Value of Brands for Hotel Owners? HOTCO  will reveal the answer! Join us between January 21-22…",
+      "link": "https://www.linkedin.com/posts/attilaradvanszki_how-are-lifestyle-trends-and-the-internet-activity-6491249692532449280-d-kI",
+      "activity_status": null
+    },
+    {
+      "title": "At the Annual Investment Meeting In Dubai with my good friend, Giorgi Cherkezishvili, Deputy Minister of Economy of Georgia.",
+      "link": "https://www.linkedin.com/posts/fadyasly_at-the-annual-investment-meeting-in-dubai-activity-6391107398303510528-HEcU",
+      "activity_status": null
+    },
+    {
+      "title": "მეგობრებო, როგორც შეგპირდით ერთი ძალიან კარგი პროექტი თითქმის დავამთავრეთ, ერთწლიანი შრომის შემდეგ, ერთგულ პარტნიორებთან და თანამშრომლებთან ერთად…",
+      "link": "https://www.linkedin.com/posts/levan-sharangia-70b038116_მეგობრებო-როგორც-შეგპირდით-ერთი-ძალიან-კარგი-activity-6320236146378969088-4qIb",
+      "activity_status": null
+    },
+    {
+      "title": "გამარჯობა მეგობრებო, სარეკლამო კომპანია \"ალმა\"-სთვის ვეძებთ გაყიდვების მენეჯერს. მოთხოვნები მარტივია: კანდიდატი უნდა იყოს ენერგიული და განვითარებაზე…",
+      "link": "https://www.linkedin.com/posts/giorgi-trapaidze-44a09b92_გამარჯობა-მეგობრებო-სარეკლამო-კომპანია-activity-6329692264268386304-K3bp",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze-4088a5b9",
+      "summary": "Architect at NGO Georgian Heritage",
+      "location": "Georgia"
+    },
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze-892761b1",
+      "summary": "HR Manager at ENERGO-PRO Georgia",
+      "location": "Georgia"
+    },
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze-bb13346",
+      "summary": "top specialiste at mes",
+      "location": "Georgia"
+    },
+    {
+      "name": "giorgi trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze-56a5186a",
+      "summary": "Специалист Строительство",
+      "location": "Georgia"
+    },
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze",
+      "summary": null,
+      "location": "Tbilisi"
+    },
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://ge.linkedin.com/in/giorgi-trapaidze-58508533a",
+      "summary": null,
+      "location": "Tbilisi"
+    },
+    {
+      "name": "Giorgi Trapaidze",
+      "link": "https://uk.linkedin.com/in/giorgi-trapaidze-74003395",
+      "summary": null,
+      "location": "London"
+    }
+  ],
+  "articles": [
+    {
+      "title": "5 simple ways to be happier",
+      "link": "https://www.linkedin.com/pulse/20141125152754-328664506-5-simple-ways-to-be-happier",
+      "published_date": {
+        "day": 25,
+        "month": 11,
+        "year": 2014
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/C5612AQEOs8d6g-CMcA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520157018389?e=2147483647&v=beta&t=uv44ajeOiEIJyWFXtYryMM_r-gqYi9lxqp5ZyP54dZg"
+    },
+    {
+      "title": "Learning without thought is labor lost © Confucius",
+      "link": "https://www.linkedin.com/pulse/20140824150403-328664506-learning-without-thought-is-labor-lost-confucius",
+      "published_date": {
+        "day": 24,
+        "month": 8,
+        "year": 2014
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Power of Self Criticism and Hard Work",
+      "link": "https://www.linkedin.com/pulse/20140818142539-328664506-formula-for-success-for-job-seekers-self-criticism-and-hard-work",
+      "published_date": {
+        "day": 18,
+        "month": 8,
+        "year": 2014
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-10T00:00:00Z"
+  }
+}

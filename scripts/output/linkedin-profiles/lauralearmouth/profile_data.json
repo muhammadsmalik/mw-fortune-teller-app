@@ -1,0 +1,731 @@
+{
+  "public_identifier": "lauralearmouth",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Laura",
+  "last_name": "Learmouth",
+  "full_name": "Laura Learmouth",
+  "follower_count": 1069,
+  "occupation": "International Commercial Director at Evolve OOH",
+  "headline": null,
+  "summary": "Highly commercial, results orientated and people focused Media professional with significant experience working across all media channels. Key expertise lies in building and developing impactful and retentive relationships with Media Owners, Agencies and Clients, and working in partnership to help all parties achieve more.<br><br>Offers a proven success record in managing and leading large teams in order to collaboratively meet business objectives and drive personal growth and development.",
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Evolve OOH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/evolve-ooh",
+      "company_facebook_profile_url": null,
+      "title": "International Commercial Director",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5caa320df58644a0715d5c9e0c4401cc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2025
+      },
+      "company": "Active International UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/active-international-uk",
+      "company_facebook_profile_url": null,
+      "title": "Media Director",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57499dad207108b87b015e7aee666319"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Active International UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/active-international-uk",
+      "company_facebook_profile_url": null,
+      "title": "Head Of Media",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57499dad207108b87b015e7aee666319"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Bloom UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bloomuk",
+      "company_facebook_profile_url": null,
+      "title": "Member and Mentor",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a510279949a235d4a6612cf988e8c3f9"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "Active International UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/active-international-uk",
+      "company_facebook_profile_url": null,
+      "title": "Senior Media Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/57499dad207108b87b015e7aee666319"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2015
+      },
+      "company": "Channel 5",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-5",
+      "company_facebook_profile_url": null,
+      "title": "Business Manager",
+      "description": "Reporting into the Head of Sales and managing a team of 6 (including Group Manager, 2 Account Executives and 3 Assistant Account Executives) with responsibility for maximizing revenue within a portfolio of agencies across spot & VOD trading, broadcast and online sponsorship, product placement, creative spot solutions and multi-platform partnerships across TV, Digital and Print.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d37126e6edac6dbc5b2c25d94a08e43a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "company": "Channel 5",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-5",
+      "company_facebook_profile_url": null,
+      "title": "Group Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d37126e6edac6dbc5b2c25d94a08e43a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2010
+      },
+      "company": "Channel 5",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-5",
+      "company_facebook_profile_url": null,
+      "title": "Senior Account Executive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d37126e6edac6dbc5b2c25d94a08e43a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2008
+      },
+      "company": "Channel 5",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-5",
+      "company_facebook_profile_url": null,
+      "title": "Account Executive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d37126e6edac6dbc5b2c25d94a08e43a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2006
+      },
+      "company": "Channel 5",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/channel-5",
+      "company_facebook_profile_url": null,
+      "title": "Assistant Account Executive",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d37126e6edac6dbc5b2c25d94a08e43a"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Business Management (Marketing)",
+      "degree_name": "Bachelor of Arts - BA",
+      "school": "University of Westminster",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-westminster",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cc47548cafdb31cfdbad192ac7934986",
+      "grade": "Upper Second Class Honours",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Executive Mini MBA",
+      "license_number": null,
+      "display_source": null,
+      "authority": "London School of Business and Finance LSBF",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Advanced Coaching",
+      "license_number": null,
+      "display_source": null,
+      "authority": "NLP School",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Certified Practitioner In the Art of Neuro-Linguistic Programming (NLP)",
+      "license_number": null,
+      "display_source": null,
+      "authority": "NLP School",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Edge Academy Certified: Marketing Foundations",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Trade Desk",
+      "url": "https://www.credly.com/badges/eff25c5d-2a17-4543-a969-97cb189a0999?source=linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "TV Masters",
+      "license_number": null,
+      "display_source": null,
+      "authority": "TV Masters from Thinkbox",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": null,
+      "name": "The Coach House: Leader as Coach",
+      "license_number": null,
+      "display_source": null,
+      "authority": "The Coach House Ltd",
+      "url": null
+    }
+  ],
+  "connections": 1078,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/marylangancoach",
+      "name": "Mary Langan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarrodsmith1",
+      "name": "Jarrod Gowland-Smith",
+      "summary": "Media Consultancy / Freelance Media / Barter / Media for Equity / Media Procurement / Media Advisory / Media Partnerships",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharvimehta",
+      "name": "Sharvi Mehta",
+      "summary": "Marketing & Strategy @ Google | B2C & B2B",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johncharlesworth1",
+      "name": "John Charlesworth",
+      "summary": "Working with clients to utilise excess and slow moving stock to fund marketing and wider business costs",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hollyshiell",
+      "name": "Holly Kennedy",
+      "summary": "Head of HR at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemmaatkinson1",
+      "name": "Gemma Atkinson",
+      "summary": "Global CPO / Coach / Curator of lists and possibilities",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jadebehr",
+      "name": "Jade Behr",
+      "summary": "Spotify EMEA Agency Development & WACL Future Leader.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/killian-barrins",
+      "name": "Killian Barrins",
+      "summary": "Commercial Leader",
+      "location": "Dublin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shalima-koroma",
+      "name": "Shalima Koroma",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mediasteve",
+      "name": "Steve Pollack",
+      "summary": "Founder of The Payback Project",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattvacher",
+      "name": "Matthew Vacher",
+      "summary": "Owner, Curly Dog Handyman, LLC",
+      "location": "Braintree"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kierongmurphy",
+      "name": "Kieron Murphy",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleanorfarrar",
+      "name": "Ellie Farrar",
+      "summary": "Data Strategist | Growth Consultant | Corporate Trade Expertise | Favourite Place - Abel Tasman pictured",
+      "location": "Reading"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-henson",
+      "name": "Mark Henson",
+      "summary": "Commercial Strategy | Media Sales | Media Planning & Buying | Business Development  | Media Barter",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nataliakasnakidis",
+      "name": "Natalia Kasnakidis",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helenbrooks",
+      "name": "Helen Brooks",
+      "summary": "Head of Media, EMEA at Kimberly-Clark",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elliotbaum",
+      "name": "Elliot Baum",
+      "summary": "YouTube Revenue Specialist | Founder of The Polar Bears",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/finsinger01",
+      "name": "Stefan Finsinger",
+      "summary": "Head of European Media at Ptarmigan Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justinjames-cafferty",
+      "name": "Justin James-Cafferty",
+      "summary": "Head of Media at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-m-bryan",
+      "name": "Jason Bryan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisajwalker",
+      "name": "Lisa Walker",
+      "summary": "Head of Media and Sponsorship | Winner Media Leader of the Year",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitch-hole",
+      "name": "Mitch Hole",
+      "summary": "Head of Media  / Helping companies deliver brand awareness, thought leadership and lead generation in the B2B space",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cy-porteous",
+      "name": "Cy Porteous",
+      "summary": "Software Engineer\n\nJavaScript || HTML || CSS || Ruby || Ruby on Rails",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-beeden",
+      "name": "Alexandra Beeden",
+      "summary": "Head of Client Relations at Active International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darthmesh",
+      "name": "Dharmesh Patel",
+      "summary": null,
+      "location": "Hatfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/curtis-sinclair",
+      "name": "Curtis Sinclair",
+      "summary": "Media Strategy, Transformation, Ops & Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilypeteksargeant",
+      "name": "Emily Petek-Sargeant",
+      "summary": "Head of Brand Management, UK & Ireland, Pandora | ex-Dyson",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dancro23",
+      "name": "Dan Cronin",
+      "summary": null,
+      "location": "Henley-In-Arden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/perry-brown",
+      "name": "Perry Brown",
+      "summary": "Media Manager - Broadcast & Digital at Active International UK",
+      "location": "Leigh-on-Sea"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-white-9430341b",
+      "name": "Stephanie White",
+      "summary": "Media Strategy & Operations Planning, Senior Manager",
+      "location": "Weybridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-brown-33222616",
+      "name": "Rob Brown",
+      "summary": "B2B Growth Director at Spotlight Sports Group | Racing Post",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/taylor-g-wood",
+      "name": "Taylor Wood",
+      "summary": "Operations Co-ordinator at Active International UK.",
+      "location": "Romford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neeshacoelho",
+      "name": "Neesha Coelho",
+      "summary": "Head of Agency Relations at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-drobiazko",
+      "name": "Nataliia Drobiazko",
+      "summary": "We don’t chase luck — we create it",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johillconsultant",
+      "name": "Jo Hill",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gayle-noah-41341b4",
+      "name": "Gayle Noah",
+      "summary": "Global Media Director at L'Oréal",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/deborah-villiers-b9253311",
+      "name": "Deborah Villiers",
+      "summary": "Pitch",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-smith-0556a914",
+      "name": "Paul Smith",
+      "summary": "Managing Director at AKA UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/graeme-canter",
+      "name": "Graeme Canter",
+      "summary": "Leader | Advisor | Founder | Change Agent | AI Advocate",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-harris-b6592219",
+      "name": "Nicola Harris",
+      "summary": "Brand, Strategy & Growth Leader | Content, Community & Brand Experiences | Subscription & Participation-Led Growth",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rob-doel-83b35221",
+      "name": "Rob Doel",
+      "summary": "Experienced OOH and Commercial Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-hall-hall-96536021",
+      "name": "Julie Hall Hall",
+      "summary": "Director at JHH Designs",
+      "location": "Brighton and Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-jutla-12987823",
+      "name": "Jason Jutla",
+      "summary": "Head of Practice EMEA & UK, GroupM Nexus",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/will-bartholomew",
+      "name": "Will Bartholomew",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-selby-06709126",
+      "name": "Caroline Selby",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-newman-87823726",
+      "name": "Ashley Newman",
+      "summary": "Co-Founder at Off the Ropes | Co-Founder at Diversity Media Sales",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-harwood-3951492a",
+      "name": "James Harwood",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/virginie-vincent-3a5b862a",
+      "name": "virginie vincent",
+      "summary": "at L'Image Francaise, French lessons in Brighton, General and Technical Translation, Correspondence Services",
+      "location": "Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-ashley-ab467833",
+      "name": "Nick Ashley",
+      "summary": "Experienced Media Leader | Tesco Media",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-stone18",
+      "name": "Chris Stone",
+      "summary": "Head of Digital & Programmatic at Active International UK",
+      "location": "Wadhurst"
+    },
+    {
+      "link": "https://www.linkedin.com/in/howard-staines-3a944737",
+      "name": "Howard Staines",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keiron-batchelor-5bb2663b",
+      "name": "Keiron Batchelor",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/waynechim",
+      "name": "Wayne Chim",
+      "summary": "Finance Director at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caren-nicholls-88475758",
+      "name": "Caren Nicholls",
+      "summary": "Media Manager Broadcast & Digital at Active International UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-welch-8301725a",
+      "name": "Emma Welch",
+      "summary": "Head of Client Strategy at Captify & Member at Bloom UK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-golding-b5593066",
+      "name": "Sean Golding",
+      "summary": "Co-founder at Tolerance & Strategy Director at AKA",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-blythman-688b4183",
+      "name": "Jack Blythman",
+      "summary": null,
+      "location": "Crawley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-kemple-53197395",
+      "name": "Chris Kemple",
+      "summary": "UK Agency Sales Lead at Samsung Ads | Publicis | Streaming/CTV",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tracey-sheedy-86103796",
+      "name": "Tracey Sheedy",
+      "summary": "Sheltered Scheme Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roger-lockwood-1a1a6999",
+      "name": "Roger Lockwood",
+      "summary": "Retired",
+      "location": "Dunblane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophie-billington-b81b60b8",
+      "name": "Sophie Billington",
+      "summary": "Associate Director - Client Planning at MediaCom",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-wilkinson-231010b9",
+      "name": "Michael Wilkinson",
+      "summary": "AV Account Manager at Mindshare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-putley-9468a011a",
+      "name": "Jane Putley",
+      "summary": "Commercial Partnerships Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/billy-jenner-3920b9138",
+      "name": "Billy Jenner",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-baer-deep-transformational-coaching",
+      "name": "Sandra Baer",
+      "summary": "Deep Transformational Coach",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydia-w-b32a89166",
+      "name": "Lydia W.",
+      "summary": "Partner Experience & Operations at Arsenal F.C",
+      "location": "London"
+    }
+  ],
+  "recommendations": [
+    "Sarah J.\n\nLaura was on MC&C's business at Five. We found her to be an excellent salesperson. Her involvement with us doubled our agency spend yr/yr.She was pro-active,accommodating,really knew her stuff and was always a pleasure to deal with.Can't recommend her highly enough and we wish her all the very best in whatever she decides to do next."
+  ],
+  "activities": [
+    {
+      "title": "Thank you Clare Beddow Joe Espinosa and Gag Sahota for updating team Active International UK on all things MiQ 🙏🏼 #achievemore #connecting…",
+      "link": "https://www.linkedin.com/posts/lauralearmouth_achievemore-connecting-programmatic-activity-7206627714559029248-AknZ",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-21T00:00:00Z"
+  }
+}

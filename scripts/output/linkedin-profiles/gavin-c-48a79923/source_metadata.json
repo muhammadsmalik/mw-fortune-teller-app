@@ -1,0 +1,12 @@
+{
+  "normalizedUrl": "https://www.linkedin.com/in/gavin-c-48a79923",
+  "username": "gavin-c-48a79923",
+  "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+  "csvRowNumber": 595,
+  "attendee": {
+    "fullName": "Gavin Croxford",
+    "company": "Dynascan",
+    "email": "gavin.croxford@dynascan.com",
+    "country": "United States"
+  }
+}

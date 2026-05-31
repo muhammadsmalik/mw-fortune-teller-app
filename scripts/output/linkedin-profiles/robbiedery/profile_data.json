@@ -1,0 +1,947 @@
+{
+  "public_identifier": "robbiedery",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/964ae794dc3b45303a8bd8733fba73a5",
+  "background_cover_image_url": null,
+  "first_name": "Robbie",
+  "last_name": "Dery",
+  "full_name": "Robbie Dery",
+  "follower_count": 2322,
+  "occupation": "Chief Commercial Operating Officer at oOh!",
+  "headline": "Chief Commercial Operating Officer",
+  "summary": null,
+  "location_str": "Greater Sydney Area",
+  "country": "AU",
+  "country_full_name": "Australia",
+  "city": "Sydney",
+  "state": "New South Wales",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "oOh!",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Chief Commercial Operating Officer",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Outdoor Media Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oma-australia",
+      "company_facebook_profile_url": null,
+      "title": "OMA Board Member",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/142fc11354068c8ee01d651237eec786"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "Outdoor Media Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/oma-australia",
+      "company_facebook_profile_url": null,
+      "title": "Board Member - MOVE",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/142fc11354068c8ee01d651237eec786"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "company": "oOh!",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Chief Commercial and Product Officer",
+      "description": null,
+      "location": "Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "oOh!",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ooh-media",
+      "company_facebook_profile_url": null,
+      "title": "Group Director - Fly",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c68b7b28c6199123571f1fa08a7aa16b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "EYE",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "General Manager - Fly and Drive, Australia & New Zealand",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2008
+      },
+      "company": "Travelex",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/travelex",
+      "company_facebook_profile_url": null,
+      "title": "Vice President - Sales and Marketing",
+      "description": "Relocated to Nth America by private equity owners to reinvigorate and transform the sales and marketing plan and execute through the local teams.",
+      "location": "North America",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b29a24c5d682e75284d07883083caeb7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2006
+      },
+      "company": "Travelex",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/travelex",
+      "company_facebook_profile_url": null,
+      "title": "Head of Group Strategic Alliances and Partnerships",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b29a24c5d682e75284d07883083caeb7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2004
+      },
+      "company": "Travelex",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/travelex",
+      "company_facebook_profile_url": null,
+      "title": "Head of Group E-Commerce and Retail Marketing EMEA",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b29a24c5d682e75284d07883083caeb7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2000
+      },
+      "company": "Travelex",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/travelex",
+      "company_facebook_profile_url": null,
+      "title": "Head of e-commerce & Money Transfer ANZ",
+      "description": null,
+      "location": "Sydney, Australia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b29a24c5d682e75284d07883083caeb7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "company": "Concorde / World Aviation Systems",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager - Distribution",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "company": "World Aviation Systems",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "National Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "company": "Concorde International",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Graduate Management Trainee",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f11767653a405609bf4c7f8df86b9608",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "RMIT University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/rmit-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4863a3c9bd266f1fa3a06f11f8d7dbfc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Australian Federation of Advertising",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1984
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1990
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Geelong Grammar School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/geelong-grammar-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7027625efc81411d2bb6251df1a5080b",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "International Excellence in Airport Advertising - http://bit.ly/2zQzW1z",
+      "issuer": "MOODIE DAVITT AWARDS",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "description": "The Moodie Davitt awards, recognise best practice in social & digital media among airports and their commercial partners globally."
+    },
+    {
+      "title": "Worlds Best Airport Terminal Advertising",
+      "issuer": "Moody Award",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "description": "The ‘Moodies’ were created to champion and reward thought leadership, innovation and consumer interaction in the social media environment. The winners rank among the best exponents of social and digital media campaigns anywhere in the world, across any industry."
+    },
+    {
+      "title": "UK Marketing Strategy of the Year - FINALIST",
+      "issuer": "Orange Mobile - National Marketing Awards",
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      },
+      "ends_at": null,
+      "title": "Qantas Club and Business Lounge - Digital Media transformation",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": null,
+      "title": "Qantas Terminals - National Digital Media Trransformation",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/melissaguppy",
+      "name": "Melissa Guppy",
+      "summary": "Founder and Director at Clever Fox Marketing (MBA, MAMI CPM)",
+      "location": "Perth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-gallagher-gaicd-152b86",
+      "name": "Brian Gallagher (GAICD)",
+      "summary": "Commercial Media Specialist I Media Strategy I Non Executive Director I Experienced C-Suite Media Executive",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurenzonfrillo",
+      "name": "Lauren Zonfrillo FAMI CPM",
+      "summary": "Chief Executive Officer @ The Zonfrillo Group | Advisor  Author  Speaker",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alimichell",
+      "name": "Ali Michell",
+      "summary": "Board director and Chair | Marriage Celebrant | Former PR & digital consultant, Operations Director & Journalist",
+      "location": "Adelaide"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jason-tonelli-gaicd-0a21a5a",
+      "name": "Jason Tonelli GAICD",
+      "summary": "Dad of 3 Boys | CEO at Zenith Media Australia | Chair at AMAA | Director at UnLTD. | Director at Madebox |\n\n\n Leading people to help unlock their potential",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandy-sigaloff-29157a4",
+      "name": "Mandy Sigaloff",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leevalentine",
+      "name": "Lee Valentine",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-blamey",
+      "name": "Tony Blamey",
+      "summary": "CEO - Fotocasa Group S.L.U.",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-anderson-3a065015",
+      "name": "Catherine Anderson",
+      "summary": "Chief Marketing Officer | GAICD | CMO2025 #18 | AFR BOSS Young Executive of the Year 2019",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebeccatos",
+      "name": "Rebecca Tos (GAICD)",
+      "summary": "B&T Woman of the Year, Marketing Winner & Women in Media Power List | Human, Tech & Data-Driven",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caryl-hertz-064a7b19",
+      "name": "Caryl Hertz",
+      "summary": "Life/Business Coach, Education mentor and Non-executive Director",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samuelokelly",
+      "name": "Sam Kelly",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerrieckart",
+      "name": "Kerri Eckart",
+      "summary": "CEO and Founder of Focused Marketing | Tender & Marketing Specialist | \n$15B in Successful Bids | Brand Strategist",
+      "location": "Brisbane"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachael-wilmot-8743b432",
+      "name": "Rachael Wilmot",
+      "summary": "Director and Founder, Thirty1 Twenty1 Media",
+      "location": "Prahran"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amberellem",
+      "name": "Amber Ellem",
+      "summary": null,
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-ronson-24174150",
+      "name": "Lisa Ronson",
+      "summary": "In Loving Memory: Celebrating the Life and Legacy of Lisa Ronson (1972-2024)",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-coad",
+      "name": "Mark Coad",
+      "summary": "CEO / Director / Advisor / Consultant",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-hier-05406b96",
+      "name": "James Hier",
+      "summary": "Chief Growth & Product Officer at Wavemaker",
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heidi-sutherland-176b49103",
+      "name": "Heidi Sutherland",
+      "summary": "Partner, Non-executive Director, Marketing and Strategic Planning, Change Management, Governance",
+      "location": "Melbourne"
+    }
+  ],
+  "recommendations": [
+    "Shane de Wit MAICD MBA\n\nI have worked with Robbie over several years during my time as General Manager Retail and Car Parking and Manager Commercial Innovation at Melbourne Airport.  Robbie is an accomplished commercially focused leader.  His team is close knit, focused on delivering results and always speak highly of their leader.  His negotiation style is collaborative and he always seeks win/win/win outcomes for our businesses and our customers.  Robbie is an innovative and creative thinker, who challenges the status quo.  The qualities I appreciate most about Robbie are integrity, trustworthiness and the fact that he always does what he says he will do.",
+    "Brad Thompson\n\nRobbie was the executive sponsor for Travelex who hired my company to create an Inside Sales Team whose mission was to acquire new customers requiring FX Services within in the United States and Puerto Rico. Robbie proved to be a valuable business partner and an effective executive leader.  In creating this successful partnerhip, Robbie was able to create an effective management system, mentor and develop an unproven sales force and drive positive change within both of our organizations.  Robbie created a new sales process which incorporated Key Performance Indicators (KPIs), Electronic Direct Marketing (EDM) and pipleline management not seen in either organization.  The process accelerated the sales effectiveness of the inside sales team.  So much so, in less than a year the team was able to generate revenue equaling a long tenured field sales force. Robbie's key attributes of intelligence, tenacity and humility made our business partnership successful.",
+    "Shane de Wit   MBA GAICD\n\nI have worked with Robbie over several years during my time as General Manager Retail and Car Parking and Manager Commercial Innovation at Melbourne Airport.  Robbie is an accomplished commercially focused leader.  His team is close knit, focused on delivering results and always speak highly of their leader.  His negotiation style is collaborative and he always seeks win/win/win outcomes for our businesses and our customers.  Robbie is an innovative and creative thinker, who challenges the status quo.  The qualities I appreciate most about Robbie are integrity, trustworthiness and the fact that he always does what he says he will do."
+  ],
+  "activities": [
+    {
+      "title": "Why Global Brands Are Thriving with Out-of-Home Advertising in Australia Out-of-Home has revolutionized the way brands connect with consumers in…",
+      "link": "https://www.linkedin.com/posts/sal-daoud-9ba6876b_why-global-brands-are-thriving-with-out-of-home-activity-7294597735935029249-Z8AS",
+      "activity_status": null
+    },
+    {
+      "title": "Nice work Wrexham AFC, love it.... but doesn't touch this Goal 'Celebration' piece we created with Wayne Rooney and James Corden for Coca-Cola back…",
+      "link": "https://www.linkedin.com/posts/steve-martin-a292966_nice-work-wrexham-afc-love-it-but-doesnt-activity-7293222961296080896-zOug",
+      "activity_status": null
+    },
+    {
+      "title": "ANZ’s Falcon® has soared to new heights with the latest iteration of their campaign, utilising innovative technology to deliver an interactive and…",
+      "link": "https://www.linkedin.com/posts/richard-alexander-moore_anz-falconlens-personalised-ai-experience-activity-7287626519856795649-hZCr",
+      "activity_status": null
+    },
+    {
+      "title": "Life is a playground. From working many years at oOh! to having my artwork on their network. Thanks to winning a competition held via Artcrush…",
+      "link": "https://www.linkedin.com/posts/jonathanhercus_life-is-a-playground-from-working-many-activity-7293424256795783168-CXcw",
+      "activity_status": null
+    },
+    {
+      "title": "Sharing the love this Valentine’s Day! With over $465 million spent on the occasion in 2024, Australians are investing in romance, where jewellery…",
+      "link": "https://www.linkedin.com/posts/ooh-media_sharing-the-love-this-valentines-day-with-activity-7291972031833681920-FXEH",
+      "activity_status": null
+    },
+    {
+      "title": "An incredible opportunity to celebrate the best in Out of Home creativity! 👏 If you've got a standout 2024 campaign, now's the time to shine. Plus…",
+      "link": "https://www.linkedin.com/posts/kylie-green_an-incredible-opportunity-to-celebrate-the-activity-7291945410246459392-YWTD",
+      "activity_status": null
+    },
+    {
+      "title": "Career Bucket List - SILO'S ✅ Safe to say 2025 has kicked off with a strong start locking in the Silo's for ASICS Oceania MENACE 5 Launch…",
+      "link": "https://www.linkedin.com/posts/merryn-young_career-bucket-list-silos-safe-to-say-activity-7292066794180091904-Y287",
+      "activity_status": null
+    },
+    {
+      "title": "In-store retail media is transforming the way brands and retailers connect with shoppers in real time. From digital screens driving massive sales…",
+      "link": "https://www.linkedin.com/posts/reo-retail-media_heres-how-to-unlock-the-power-of-in-store-activity-7290855365070491648-D4p2",
+      "activity_status": null
+    },
+    {
+      "title": "Really looking forward to joining the conversation about how clients can build media campaigns with lower carbon emissions. Join us if you can at The…",
+      "link": "https://www.linkedin.com/posts/sarah-young-b9436352_really-looking-forward-to-joining-the-conversation-activity-7289804457511424000-gqgI",
+      "activity_status": null
+    },
+    {
+      "title": "You’re not most people.",
+      "link": "https://www.linkedin.com/posts/pauliedery_youre-not-most-people-activity-7282429353240502272-96CI",
+      "activity_status": null
+    },
+    {
+      "title": "Engaging consumers at the right moment, the Outdoor Media Association’s fresh veg, deliciously affordable campaign is addressing the concerning…",
+      "link": "https://www.linkedin.com/posts/ooh-media_engaging-consumers-at-the-right-moment-the-activity-7290523288252911618-fuWA",
+      "activity_status": null
+    },
+    {
+      "title": "A fresh and healthy reminder to kick-start the year. Eat well, save money, and support Aussie farmers! 🥦🥕",
+      "link": "https://www.linkedin.com/posts/kylie-green_a-fresh-and-healthy-reminder-to-kick-start-activity-7290856790840250368-TGyp",
+      "activity_status": null
+    },
+    {
+      "title": "That’s a wrap! After 6.5 incredible years, today marks my last day at oOh!media. It’s hard to sum up what this chapter has meant to me. I’ve had the…",
+      "link": "https://www.linkedin.com/posts/matthew-knopp_thats-a-wrap-after-65-incredible-years-activity-7290861414443847684-19US",
+      "activity_status": null
+    },
+    {
+      "title": "This week marks the conclusion of a truly rewarding 10-year journey at oOh!media, a time that has shaped me both professionally and personally in…",
+      "link": "https://www.linkedin.com/posts/daniellefarrelly_this-week-marks-the-conclusion-of-a-truly-activity-7290891174024728577-Dxc1",
+      "activity_status": null
+    },
+    {
+      "title": "As Melbourne prepares for another exciting global event with the Formula 1 Grand Prix, oOh! Media has been hard at work behind the scenes, creating…",
+      "link": "https://www.linkedin.com/posts/sal-daoud-9ba6876b_as-melbourne-prepares-for-another-exciting-activity-7290525419068440577--s7A",
+      "activity_status": null
+    },
+    {
+      "title": "The Signature Series are an elite collection of the most premium and sought after locations across the country which deliver undoubtable brand fame​.…",
+      "link": "https://www.linkedin.com/posts/ooh-media_the-signature-series-are-an-elite-collection-activity-7289769499686227968-6S7I",
+      "activity_status": null
+    },
+    {
+      "title": "All Netflix, no chill. Taking over Melbourne’s Parliament station across full-motion consecutives, tunnel and escalator wraps, and an activation for…",
+      "link": "https://www.linkedin.com/posts/ooh-media_all-netflix-no-chill-taking-over-melbourne-activity-7295599156474089472-WKwI",
+      "activity_status": null
+    },
+    {
+      "title": "Is it even possible to comprehend how someone can survive the Holocaust only to be killed by Hamas in captivity? Shlomo Mansour had his childhood…",
+      "link": "https://www.linkedin.com/posts/darren-stein_is-it-even-possible-to-comprehend-how-someone-activity-7295046577084084225-k5hK",
+      "activity_status": null
+    },
+    {
+      "title": "Australia Post in partnership with reo powered by oOh!media is gearing up to trial its first in-store screen retail media network across 60 Victorian…",
+      "link": "https://www.linkedin.com/posts/retail-technology-innovation-hub_retailmedia-activity-7295004215855271936-IC_p",
+      "activity_status": null
+    },
+    {
+      "title": "I celebrated a little birthday this week, soaking up all the love from friends, family, and colleagues. On the same day as my birthday (the 11th of…",
+      "link": "https://www.linkedin.com/posts/jaquiescammell_freedom-mindset-inspiration-activity-7295305624383275008-KNcG",
+      "activity_status": null
+    },
+    {
+      "title": "More exciting news from oOh! at Melbourne Airport. We have recently launched brand-new assets across the international terminal, including a new…",
+      "link": "https://www.linkedin.com/posts/jamie-gill-00b826a_airportadvertising-melbourne-categoryexclusivity-activity-7295251134414233600-J--r",
+      "activity_status": null
+    },
+    {
+      "title": "First cab off the rank for 2025 and incredible to partner with an iconic Australian institution.  We'll be working with Josh Bannister, Aimee Dixon…",
+      "link": "https://www.linkedin.com/posts/mcdowell-david_first-cab-off-the-rank-for-2025-and-incredible-activity-7294948011619553282-HrEl",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to finally share the news that oOh!'s retail media division, reo is partnering with Australia Post to launch into Retail Media. A massive…",
+      "link": "https://www.linkedin.com/posts/neilackland_australia-post-launching-retail-media-network-activity-7294878869273157633-3ExT",
+      "activity_status": null
+    },
+    {
+      "title": "Made you look 👀 Turning heads, THE ICONIC is showcasing the breadth of style available on their platform with fashionable double-take moments…",
+      "link": "https://www.linkedin.com/posts/ooh-media_made-you-look-turning-heads-the-iconic-activity-7318457138505293826-BUGq",
+      "activity_status": null
+    },
+    {
+      "title": "Never miss a headline. We’re welcoming Nine to our content program, where 9News will provide more than 50 news updates each day, seven days a week…",
+      "link": "https://www.linkedin.com/posts/ooh-media_never-miss-a-headline-were-welcoming-nine-activity-7318055835996155905-lG6n",
+      "activity_status": null
+    },
+    {
+      "title": "We're proud to once again support the Outdoor Media Association and RSL Queensland's ANZAC Day Campaign. It’s up to all of us to keep the spirit of…",
+      "link": "https://www.linkedin.com/posts/bishopp-outdoor-advertising-pty-ltd_anzacday-activity-7318134792745607169-SEoD",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Easter all, like me you'll probably all be bunking down, hiding from the storm and eating too many Hot X buns! Lots of debate over the last few…",
+      "link": "https://www.linkedin.com/posts/nick-vile-9b5a2514_happy-easter-all-like-me-youll-probably-activity-7318090646064414720-32Mc",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to our partners at Melbourne Airport! Travellers have voted Melbourne Airport the Best Airport in Australia and the Pacific for the…",
+      "link": "https://www.linkedin.com/posts/jamie-gill-00b826a_congratulations-to-our-partners-at-melbourne-activity-7317309904329814016-CPB9",
+      "activity_status": null
+    },
+    {
+      "title": "A BRAND NEW opportunity available at the most visited retail centre in Australia, Melbourne Central!",
+      "link": "https://www.linkedin.com/posts/jessica-macdonald-a8832771_maximise-impact-across-new-retail-opportunities-activity-7307553673922887680-TpsX",
+      "activity_status": null
+    },
+    {
+      "title": "If you are looking for a legend with the personality to match Edwina Lugsdin is your gal. Go hire her, you will never regret it!",
+      "link": "https://www.linkedin.com/posts/emma-hegg-406a8813_if-you-are-looking-for-a-legend-with-the-activity-7315937435824111618-PBTE",
+      "activity_status": null
+    },
+    {
+      "title": "So many firsts in the space of an hour: 🥇 Recording our #SecondWind podcast at SXSW with my Also Known As co-founder, Gully Flowers 🥇 Meeting the…",
+      "link": "https://www.linkedin.com/posts/kerriefinch_secondwind-activity-7311117061995319302-mklA",
+      "activity_status": null
+    },
+    {
+      "title": "Why have one creative when you can have four?! That's the power of Digital Out of Home. Tradie have made the most of our Woolloongabba Digital…",
+      "link": "https://www.linkedin.com/posts/bishopp-outdoor-advertising-pty-ltd_madeyoulook-activity-7315501214798880768-K5Uo",
+      "activity_status": null
+    },
+    {
+      "title": "All Killer. No Filler. And absolutely no chance of missing it. Thrilled to help welcome Warner Bros. Discovery to Aussie screens with a seriously…",
+      "link": "https://www.linkedin.com/posts/malcolm-bennett-535342173_all-killer-no-filler-and-absolutely-no-activity-7315572687978799104-l-h5",
+      "activity_status": null
+    },
+    {
+      "title": "Melbourne Airport is the first touchpoint to so many F1 fan’s Grand Prix experience, the perfect way to ignite excitement is on arrival ✈️ 🏎️ We…",
+      "link": "https://www.linkedin.com/posts/chloe-swinton_melbourne-airport-is-the-first-touchpoint-activity-7315198625943326720-HpW6",
+      "activity_status": null
+    },
+    {
+      "title": "The TV Advertising Paradox campaign launched today, and it’s a compelling exploration of a timely question: why are some marketers turning away from…",
+      "link": "https://www.linkedin.com/posts/phil-lucy-8599a14_the-tv-advertising-paradox-campaign-launched-activity-7314877811964407808-x9_A",
+      "activity_status": null
+    },
+    {
+      "title": "At oOh!, we hold a unique position in the OOH landscape with the scale and coverage of our Street Furniture and Retail networks. But when we drill…",
+      "link": "https://www.linkedin.com/posts/rickfrenchgoodwin_the-power-of-local-connecting-with-communities-activity-7315327655032066048-dS2K",
+      "activity_status": null
+    },
+    {
+      "title": "Major congrats to the TBWA\\Melbourne and Specsavers ANZ teams for their Outdoor Media Association Creative Awards Grand Prix Win 🏆 Specsavers'…",
+      "link": "https://www.linkedin.com/posts/ooh-media_major-congrats-to-the-tbwamelbourne-and-activity-7315188589066100736-Gslr",
+      "activity_status": null
+    },
+    {
+      "title": "Airports are teamwork! A big thank you to the more than 20,000 BNE people that make the dream work 24/7! #bne #brisbaneairport…",
+      "link": "https://www.linkedin.com/posts/gdegraaff_bne-brisbaneairport-employeeappreciationday-activity-7313322202076983297-lsSL",
+      "activity_status": null
+    },
+    {
+      "title": "April is a big month for travel through Melbourne Airport. 👇👇👇👇",
+      "link": "https://www.linkedin.com/posts/jai-mcdermott-1853011a_april-is-a-big-month-for-travel-through-melbourne-activity-7313034368480854016-vZC8",
+      "activity_status": null
+    },
+    {
+      "title": "Great to share the news today on the creative leadership changes at Droga5 ANZ. Damon Stapleton and Barbara Humphries will be a force in this next…",
+      "link": "https://www.linkedin.com/posts/matthew-michael-78a92110_tara-ford-moves-to-london-barbara-humphries-activity-7313101358633533440-zn9g",
+      "activity_status": null
+    },
+    {
+      "title": "I am super excited to share that I have been selected as a mentor for the NGEN Mentor Program! NGEN plays a key role in supporting and empowering…",
+      "link": "https://www.linkedin.com/posts/sam-burge-75318599_i-am-super-excited-to-share-that-i-have-been-activity-7313337941701865473-z3I8",
+      "activity_status": null
+    },
+    {
+      "title": "Driving our industry forward together, we’re proud to be supporting Mi3Australia’s CMO Awards in 2026 as they return for their second year…",
+      "link": "https://www.linkedin.com/posts/ooh-media_driving-our-industry-forward-together-we-activity-7422432497793294336-mBth",
+      "activity_status": null
+    },
+    {
+      "title": "New Head Office in Geelong, authentic people, iconic brand, exciting growth trajectory. Take a look under the hood. https://lnkd.in/gy2xSewA",
+      "link": "https://www.linkedin.com/posts/jim-gall-9508a47_office-executive-support-job-in-north-geelong-activity-7422034713302745088-PPdk",
+      "activity_status": null
+    },
+    {
+      "title": "5 days. 10 teas. 15 meetings. 20 black coffees. 25 enormous hugs. London what a week! 🇬🇧 So good to reconnect with agency clients and partners…",
+      "link": "https://www.linkedin.com/posts/sal-daoud-9ba6876b_5-days-10-teas-15-meetings-20-black-coffees-activity-7420356842079473664-Pd3o",
+      "activity_status": null
+    },
+    {
+      "title": "At SXSW last year, Paulie Dery, CMO at AG1, said this. Then the rest of 2025 proved it. I’m a brand-led marketer. I’ll die on that hill. Brand…",
+      "link": "https://www.linkedin.com/posts/gullyf_at-sxsw-last-year-paulie-dery-cmo-at-ag1-activity-7420129377956360192-0WrP",
+      "activity_status": null
+    },
+    {
+      "title": "The newly revamped Macquarie Ice Rink adds another powerful reason to visit The GPT Group's Macquarie Centre in Sydney (ROOH exclusively represented…",
+      "link": "https://www.linkedin.com/posts/donna-tauro-75818810_the-newly-revamped-macquarie-ice-rink-adds-activity-7419920760904970240-zSKQ",
+      "activity_status": null
+    },
+    {
+      "title": "Powering up Melbourne 💻 Spec’d all the way out, Lenovo took to The Bourke to showcase their Legion range with electric 3D Anamorphic.",
+      "link": "https://www.linkedin.com/posts/ooh-media_powering-up-melbourne-specd-all-the-activity-7419880396860964864-dXnA",
+      "activity_status": null
+    },
+    {
+      "title": "Our network strategy continues to be delivered - and is more specific and precise than ever before, ensuring our customers can reach more audiences,…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohmedia-expands-adelaide-portfolio-with-activity-7419836270060810240-ycN9",
+      "activity_status": null
+    },
+    {
+      "title": "I recently spoke with Malls & Stores of the Future about a simple truth: people don’t return to places because of what they buy, they return because…",
+      "link": "https://www.linkedin.com/posts/andrew-hoyne-1a5a02_mallsandstoresofthefuture-retailreimagined-activity-7419121478832508928-CGH-",
+      "activity_status": null
+    },
+    {
+      "title": "🎾 Serving up a winner! Huge congratulations to the teams at oOh! and Tennis Australia for absolutely acing our Australian Open 2026 sponsored…",
+      "link": "https://www.linkedin.com/posts/richard-alexander-moore_serving-up-a-winner-huge-congratulations-activity-7418777965087543296-3gG4",
+      "activity_status": null
+    },
+    {
+      "title": "Big things are happening at Castle Towers! 🙌 A QIC centre that keeps transforming, drawing more shoppers and unlocking even bigger opportunities…",
+      "link": "https://www.linkedin.com/posts/donna-tauro-75818810_castle-towers-expands-fashion-offering-with-activity-7418900391859367936-RiIV",
+      "activity_status": null
+    },
+    {
+      "title": "This week marks the 16th anniversary of Fabio Buresti at The Monkeys, now Droga5 ANZ and Accenture Song. Professionally, his impact on the business…",
+      "link": "https://www.linkedin.com/posts/matthew-michael-78a92110_this-week-marks-the-16th-anniversary-of-fabio-activity-7418868520991551488-x-Ef",
+      "activity_status": null
+    },
+    {
+      "title": "Delivering sun safety messaging where it matters most ☀️ Leveraging the proximity of our beaches network, Cancer Council Western Australia, OMD…",
+      "link": "https://www.linkedin.com/posts/ooh-media_delivering-sun-safety-messaging-where-it-activity-7416620942442860545-8KjE",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating an iconic summer sporting ritual together with Cricket Australia, Special Australia, and Initiative, we went all out to ensure that no…",
+      "link": "https://www.linkedin.com/posts/ooh-media_cricket-australias-unmissable-first-over-activity-7416262185334558720-G_7K",
+      "activity_status": null
+    },
+    {
+      "title": "Fizz the season! Maximising impact with contextually relevant creative, Pepsi’s multi-format festive campaign sparkled across our Billboard, Street,…",
+      "link": "https://www.linkedin.com/posts/ooh-media_fizz-the-season-maximising-impact-with-activity-7415205463270584320-cnWk",
+      "activity_status": null
+    },
+    {
+      "title": "Going long on brand fame. Owning 100% share of time, space, and attention, Aldi encouraged Aussies to indulge in the festive season by taking over…",
+      "link": "https://www.linkedin.com/posts/ooh-media_going-long-on-brand-fame-owning-100-share-activity-7414451252597542912-XLBy",
+      "activity_status": null
+    },
+    {
+      "title": "A landmark moment with the launch of MOVE, the new audience measurement for OOH. Great to see Australia leading the rest of the world, bringing…",
+      "link": "https://www.linkedin.com/posts/robbiedery_a-landmark-moment-with-the-launch-of-move-activity-7436717817753804801-4Khn",
+      "activity_status": null
+    },
+    {
+      "title": "Another great example of how we are delivering on our purpose of “making public spaces better and brands unmissable.” The continued innovation and…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohmedia-launches-waverley-council-street-activity-7396401511670525952-U52e",
+      "activity_status": null
+    },
+    {
+      "title": "Another important win in the key Sydney metro market and compliments our recent Transurban win (citylink and Bolte bridge) across Melbourne and…",
+      "link": "https://www.linkedin.com/posts/robbiedery_ooh-media-secures-major-transport-for-nsw-activity-7393949450651623424-Z_M7",
+      "activity_status": null
+    },
+    {
+      "title": "The vision of providing the most impactful large format experience to our customers has come to life. Our new Transurban contract, featuring the M1…",
+      "link": "https://www.linkedin.com/posts/robbiedery_the-vision-of-providing-the-most-impactful-activity-7388672391700328448-E9aW",
+      "activity_status": null
+    },
+    {
+      "title": "The excitement the new Melbourne Metro Tunnel is creating is incredible. This is spectacular infrastructure for Melbourne and will put it on par with…",
+      "link": "https://www.linkedin.com/posts/robbiedery_the-excitement-the-new-melbourne-metro-tunnel-activity-7385257395016556544-OPZs",
+      "activity_status": null
+    },
+    {
+      "title": "With more than one third of Australians living in regional cities and towns, it was a tremendous opportunity to share with an incredible group of…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohs-senior-marketing-retreat-in-daylesford-activity-7348867625969438722-vgvd",
+      "activity_status": null
+    },
+    {
+      "title": "Appropriate recognition for the world class infrastructure that has been delivered for Sydney Metro. Premium environments, in the heart of Sydney’s…",
+      "link": "https://www.linkedin.com/posts/robbiedery_2025-nsw-architecture-awards-activity-7342339726365945857-Wcmu",
+      "activity_status": null
+    },
+    {
+      "title": "A powerhouse team. The experience and product depth of the team is purely focussed on ensuring our clients deliver the best outcomes utilising the #1…",
+      "link": "https://www.linkedin.com/posts/robbiedery_a-powerhouse-team-the-experience-and-product-activity-7340316471786381312-bNf_",
+      "activity_status": null
+    },
+    {
+      "title": "Our commitment to deliver high quality and scalable solutions to our customers is unwavering. This monumental win elevates the scale and quality of…",
+      "link": "https://www.linkedin.com/posts/robbiedery_why-ooh-medias-transurban-win-is-significant-activity-7325358929343877121--UYT",
+      "activity_status": null
+    },
+    {
+      "title": "As the #1 regional billboard network across Australia, I am delighted to be adding these high-quality locations and assets to our portfolio. This…",
+      "link": "https://www.linkedin.com/posts/robbiedery_as-the-1-regional-billboard-network-across-activity-7322531325364572160-DW14",
+      "activity_status": null
+    },
+    {
+      "title": "Adding to our recent wins of Waverley, Sydney Metro, Woollahra, Northern Beaches and Manly. Parramatta - an exceptional addition to our incomparable…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohmedia-wins-city-of-parramatta-street-activity-7300768227540811776-XK2D",
+      "activity_status": null
+    },
+    {
+      "title": "5 big mega trends shaping media and some big wins - 2025 is going to be an exciting one…. ANZ’s #1 Out of Home company.",
+      "link": "https://www.linkedin.com/posts/robbiedery_5-big-mega-trends-shaping-media-and-some-activity-7243771142191116288-6GL1",
+      "activity_status": null
+    },
+    {
+      "title": "We are so excited to be a part of this. Australia’s newest and most prestigious rail project is live tomorrow…and no better way to reach these…",
+      "link": "https://www.linkedin.com/posts/robbiedery_sydney-metro-city-set-to-open-activity-7230904627573964802-5gK3",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to have acquired the quality Blue Tongue Outdoor Pty Ltd business as we continue to offer unparalleled scale across our Retail network.…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohmedia-acquires-blue-tongue-outdoor-adds-activity-7228732357711646720-uKE1",
+      "activity_status": null
+    },
+    {
+      "title": "Huge audience numbers on the Metro…",
+      "link": "https://www.linkedin.com/posts/robbiedery_huge-audience-numbers-on-the-metro-activity-7233945308727033856-imhQ",
+      "activity_status": null
+    },
+    {
+      "title": "The strength of our network continues to grow…",
+      "link": "https://www.linkedin.com/posts/robbiedery_oohmedia-extends-perth-reach-with-new-northern-activity-7252952886731526144-KA56",
+      "activity_status": null
+    },
+    {
+      "title": "An incredible response to our Premium Sydney launch and key data, retail media and sustainability announcements. 2024 is going to be big!…",
+      "link": "https://www.linkedin.com/posts/robbiedery_premium-audiences-pvc-free-neil-perry-activity-7123057778197237761-vVKw",
+      "activity_status": null
+    },
+    {
+      "title": "A great example of how our purpose of âMaking public spaces betterâ comes to life. Nice piece Michael Cali",
+      "link": "https://www.linkedin.com/posts/robbiedery_was-ambitious-development-plan-to-make-public-activity-7118675042971910145-wXRF",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud to be nominated for both of these categories.",
+      "link": "https://www.linkedin.com/posts/robbiedery_very-proud-to-be-nominated-for-both-of-these-activity-7067410530407247872-bjgr",
+      "activity_status": null
+    },
+    {
+      "title": "Very grateful I had the opportunity to celebrate with these exceptional leaders. They are role models in every way.",
+      "link": "https://www.linkedin.com/posts/robbiedery_very-grateful-i-had-the-opportunity-to-celebrate-activity-7102142792331628544-sT9s",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud of the team for winning Australiaâs largest infrastructure project, the highly sought after Sydney Metro City and Southwest line long…",
+      "link": "https://www.linkedin.com/posts/robbiedery_all-aboard-oohmedia-wins-golden-20m-activity-7079738669430964224-QEd5",
+      "activity_status": null
+    },
+    {
+      "title": "When great creative, digital enablement and high impact converge….",
+      "link": "https://www.linkedin.com/posts/robbiedery_masterchef-australia-judges-have-taken-over-activity-7057280551862337536-DHsq",
+      "activity_status": null
+    },
+    {
+      "title": "Another great win for the team. Thank you Brisbane Airport for sharing in the vision. https://lnkd.in/ggzXkk3",
+      "link": "https://www.linkedin.com/posts/robbiedery_engaging-experiences-brisbane-airport-activity-6501195459741253632-pJE4",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Robbie Dery",
+      "link": "https://au.linkedin.com/in/robbie-dery-609493278",
+      "summary": "--",
+      "location": "Millers Point, NSW"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:48:42Z"
+  }
+}

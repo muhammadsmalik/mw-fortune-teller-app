@@ -1,0 +1,916 @@
+{
+  "public_identifier": "tom-gibbings-14ab377",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/d1bf6e0b54e2511d6c5bda89daff9534",
+  "background_cover_image_url": null,
+  "first_name": "Tom",
+  "last_name": "Gibbings",
+  "full_name": "Tom Gibbings",
+  "follower_count": 1237,
+  "occupation": "CEO at Goldbach Neo OOH AG",
+  "headline": "CEO Goldbach Neo OOH AG",
+  "summary": "Commercially focused, experienced leader with expertise in operational finance, turnaround / restructuring, investment appraisal and cross-border M&A transaction diligence.  <br><br>Collaborative, strategic thinker with leadership experience across Swiss, UK,  pan-European and international companies under public, private and PE ownership structures.  <br> <br>Proven ability to build strong teams, deliver transformation, lead capital allocation and deal strategy, and drive sustainable profitable growth in the media, telecommunications, infrastructure and financial services industries in multilingual environments",
+  "location_str": "Zürich, Schweiz",
+  "country": "CH",
+  "country_full_name": "Switzerland",
+  "city": "Zurich",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Goldbach Neo OOH AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goldbachneo",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Zürich",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04d43c15d1ca969c9b1d50dd4f499845"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2024
+      },
+      "company": "Goldbach Neo OOH AG",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/goldbachneo",
+      "company_facebook_profile_url": null,
+      "title": "Chief Financial Officer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/04d43c15d1ca969c9b1d50dd4f499845"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "company": "Clear Channel Europe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clearchanneleurope",
+      "company_facebook_profile_url": null,
+      "title": "Commerical Finance Director Europe",
+      "description": null,
+      "location": "Zurich, Switzerland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/37056c97af1ad0d3b823635c5acb6aa4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2015
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "FP&A Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "company": "BT Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bt",
+      "company_facebook_profile_url": null,
+      "title": "Senior Finance Manager - Openreach",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7bcad029c6bbbf27ecff3fc111f91df2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2011
+      },
+      "company": "The Walt Disney Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-walt-disney-company",
+      "company_facebook_profile_url": null,
+      "title": "Finance & Business Operations Manager: Emerging Markets - Media Networks & Distribution",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ae7061ab986819e0271d565ca76c3d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2008
+      },
+      "company": "The Walt Disney Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-walt-disney-company",
+      "company_facebook_profile_url": null,
+      "title": "Senior Finance Analyst: Disney Channels UK, Scandinavia, CEE & Emerging Markets",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ae7061ab986819e0271d565ca76c3d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      },
+      "company": "The Walt Disney Company",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-walt-disney-company",
+      "company_facebook_profile_url": null,
+      "title": "Analyst / Senior Finance Analyst: EMEA Regional Office Disney Channel",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ae7061ab986819e0271d565ca76c3d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "company": "KPMG US",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/kpmg-us",
+      "company_facebook_profile_url": null,
+      "title": "Manager: Media Sector",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bccc8cdbb5a4735d2b9d0f304a5e99ca"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": null,
+      "degree_name": "Executive Leadership Program",
+      "school": "INSEAD",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/insead",
+      "school_facebook_profile_url": null,
+      "description": "Residential program for selected leaders in the company 2015-2016",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/f11767653a405609bf4c7f8df86b9608",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": "Accounting",
+      "degree_name": "ACA Chartered Accountant",
+      "school": "ICAEW",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/icaew",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/64890da8fa3102bb3b119856e598f2dc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2000
+      },
+      "field_of_study": "Economics",
+      "degree_name": "Bsc",
+      "school": "University of Birmingham",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-birmingham",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b87ddc4a3a116a88c42ed37241d4a860",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "German"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "German",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "org_name": "AWS Aussenwerbung Schweiz",
+      "title": "Vorstandsmitglied",
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2003
+      },
+      "ends_at": null,
+      "name": "ACA Chartered Accountant",
+      "license_number": null,
+      "display_source": null,
+      "authority": "ICAEW",
+      "url": null
+    }
+  ],
+  "connections": 1179,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/andreeastanescu-change",
+      "name": "Andreea Stanescu",
+      "summary": "Fractional Executive I Chief Transformation Officer I Organizational Change I  📈 Growth & Scale-up I Futures Studies & Foresight I 💡Strategic Innovation I🐥 Proud Mum",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/trondharstad",
+      "name": "Trond Harstad",
+      "summary": null,
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruedigerpetrikowski",
+      "name": "Rüdiger Petrikowski",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sekankee",
+      "name": "Sekan Kee",
+      "summary": "CFO Credaris AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianna-pirigyi",
+      "name": "Marianna Pirigyi",
+      "summary": "Finance Manager Globals at Swiss Re",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kskondu",
+      "name": "Saravanan Kondu Sennappan",
+      "summary": "Passionate about effective capital allocation, technology, and collaborative innovation.",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickleigh-it",
+      "name": "Nick Leigh",
+      "summary": null,
+      "location": "Cairns"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romanneumayer",
+      "name": "Roman Neumayer",
+      "summary": "Head of Sales bei Goldbach Neo OOH AG",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/denisranke",
+      "name": "Denis Ranke",
+      "summary": "CFO / COO at Xovis I ex-eBay",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshlevine77",
+      "name": "Josh Levine",
+      "summary": null,
+      "location": "Redondo Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elyess-ga%25C3%25AFda",
+      "name": "Elyess Gaïda",
+      "summary": "Global Lead in Digital Project, Governance and Performance - Finance & IT",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mario-macerola-33058425b",
+      "name": "Mario Macerola",
+      "summary": "Responsable/Teamleader",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vitor-manuel-ramos-dos-santos-774bbb227",
+      "name": "Vitor Manuel Ramos Dos Santos",
+      "summary": "Chef d’équipe Service Technique de Romanel\nAfficheur/Monteur",
+      "location": "Prilly"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petr-kuzmenko-7a661b40",
+      "name": "Petr Kuzmenko",
+      "summary": "CFO, Mobile Gaming",
+      "location": "Nicosia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agata-jochemczyk",
+      "name": "Agata Jochemczyk",
+      "summary": "Finance Leader|Project Management|Business Transformation|Controlling|Pharma",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nunuprincipe",
+      "name": "Nunu Príncipe",
+      "summary": "CONTENT CREATOR /\nTALENT RELATIONS / MULTICULTURAL",
+      "location": "Beverly Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuelfrantz",
+      "name": "Emmanuel Frantz",
+      "summary": "Chief Financial and Administration Officer at EBU",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-manganel-318698",
+      "name": "Eric Manganel",
+      "summary": null,
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/didier-kolly",
+      "name": "Didier Kolly",
+      "summary": "💼 Chief Financial Officer (CFO) | M&A • Finance Transformation • Strategic Leadership | Value Creation | Aerospace, Defence & Industrial | Board & Executive Partner | Switzerland",
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoltangelencser",
+      "name": "Zoltan Gelencser",
+      "summary": null,
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peeterskevin1",
+      "name": "Kevin Peeters",
+      "summary": "Senior Finance and Operational Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/edgar-magyar-b638045",
+      "name": "Edgar Magyar",
+      "summary": "CFO & Global Client Finance Lead",
+      "location": "Uetikon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giuseppe-magra-6862167",
+      "name": "Giuseppe Magra",
+      "summary": "Head of Finance",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roxine-jenkins-0458478",
+      "name": "Roxine Jenkins",
+      "summary": "Sales Finance Business Partner at Kellogg Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/angus-rose-b8169410",
+      "name": "Angus Rose",
+      "summary": "Finance Director at MacArthur & Company",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-mccartney-cfo",
+      "name": "Anthony McCartney",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-nash-56491020",
+      "name": "James Nash",
+      "summary": "Unit Manager at Bentley Productions",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damien-longhurst-187a5228",
+      "name": "Damien Longhurst",
+      "summary": "Director of Finance at Kooth Digital Health",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michi-frank-b537a836",
+      "name": "Michi Frank",
+      "summary": null,
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-tolia-689b903a",
+      "name": "Sarah Tolia",
+      "summary": "Europe Finance Director at Bauer Media Outdoor Europe",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberta-spatalino-14b72058",
+      "name": "Roberta Spatalino",
+      "summary": "Jolly Box - Campodarsego",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-eller-8ab8b259",
+      "name": "Dirk Eller",
+      "summary": "Founder, EHC One",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corinne-goumaz",
+      "name": "Corinne Goumaz",
+      "summary": null,
+      "location": "Lausanne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregor-j-eschle-11b2856b",
+      "name": "Gregor J. Eschle",
+      "summary": "Leiter Filiale Zentralschweiz / Region Zentral-Ost bei Goldbach Neo OOH AG",
+      "location": "Lucerne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%25AD%25A3%25E5%25AE%259C-%25E9%2599%25B3-62169a6b",
+      "name": "陳正宜",
+      "summary": "doctor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-kruesi-a8083b74",
+      "name": "Andreas Kruesi",
+      "summary": "Menschenzentrierte Prozesse und Strukturen für das gesunde Wachstum der Mitarbeiter, Kunden und Unternehmen | Geschäftsstrategie, Unternehmensführung, vorgelebte Mitarbeiterführung, Mensch im Fokus",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-marie-wallis",
+      "name": "Anna-Marie Wallis",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christoph-marty-31417989",
+      "name": "Christoph Marty",
+      "summary": "Werbung und Kommunikation formen Wahrnehmungen und schaffen Verbindungen",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philipp-fuchs-32721a89",
+      "name": "Philipp Fuchs",
+      "summary": "Senior Key Account Manager bei Goldbach Neo",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicole-costa-713a8891",
+      "name": "Nicole Costa",
+      "summary": "Senior Key Account Manager bei Goldbach Neo OOH AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rico-wiemann-73347192",
+      "name": "Rico Wiemann",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/markus-gehrig-78927496",
+      "name": "Markus Gehrig",
+      "summary": "--",
+      "location": "Winterthur"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ersin-tuncay-039a78b9",
+      "name": "Ersin Tuncay",
+      "summary": "Innovation trifft Sicherheit: Digitale Geschäftsmodelle smarter, schneller, sicherer gestalten.",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-studer-889ab5bb",
+      "name": "Sam Studer",
+      "summary": "Leiter Werkstatt & Entwicklung und Interne Dienste bei Golbach Neo OOH AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-goldsmid-957085105",
+      "name": "Jonathan Goldsmid",
+      "summary": null,
+      "location": "Padua"
+    },
+    {
+      "link": "https://www.linkedin.com/in/plesner-anthony-abb649106",
+      "name": "Plesner Anthony",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/raju-shah-9a5056107",
+      "name": "Raju Shah",
+      "summary": "Group Finance Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-houghton-706345107",
+      "name": "Richard Houghton",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ben-millard-bb816a114",
+      "name": "Ben Millard",
+      "summary": null,
+      "location": "Barberà del Vallès"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mae-ann-narvasa-024075119",
+      "name": "Mae Ann Narvasa",
+      "summary": "Executive Assistant | Helping Executives Stay Organized & Focused",
+      "location": "Davao"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enrico-lazzarini-507868129",
+      "name": "Enrico Lazzarini",
+      "summary": "IT Delivery Professional presso Infonet Solutions srl",
+      "location": "Vigodarzere"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marion-finocchiaro-peyer-266990142",
+      "name": "Marion Finocchiaro-Peyer",
+      "summary": "Sachbearbeiterin",
+      "location": "Dietikon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ornella-zito-9091b0157",
+      "name": "Ornella Zito",
+      "summary": "Impiegata presso Fenice Spa",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-montag-15b68b165",
+      "name": "Claudia Montag",
+      "summary": "Head of Human Resources bei Goldbach Neo OOH AG",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcello-palazzetti-aa270a168",
+      "name": "Marcello Palazzetti",
+      "summary": "Commercial Director Waste Management & Resource Recovery",
+      "location": "Banksmeadow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christianvaglio",
+      "name": "Christian Vaglio-Giors",
+      "summary": "Growth & value creation entrepreneur minded",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-br%C3%BChlmann-599b94183",
+      "name": "Oliver Brühlmann",
+      "summary": "Senior Key Account Manager bei Goldbach Neo OOH AG | Executive MBA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriano-beti",
+      "name": "Adriano Beti",
+      "summary": "CEO @ Livesystems | Smart out-of-home advertising that connects brands and people",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadine-shaddock-0b0a1a46",
+      "name": "Nadine Shaddock",
+      "summary": "Assistentin Landesgeschäftsführer / CEO",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-quintarelli-53876014",
+      "name": "Diego Quintarelli",
+      "summary": "Chief Sales & Marketing Officer - GOLDBACH NEO    Member Executive Commitee",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanedore",
+      "name": "Stéphane Doré",
+      "summary": "OOH / DOOH Expert",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/leila-bigolin-72a15191",
+      "name": "Leila Bigolin",
+      "summary": "Direttrice Filiale Ticino",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuel-schiltknecht-788847147",
+      "name": "Manuel Schiltknecht",
+      "summary": "dipl. Wirtschaftsprüfer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hgehrenbeck",
+      "name": "Hildeghard Gehrenbeck",
+      "summary": "Diplom-Kauffrau",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/markus-ehrle-394ab36",
+      "name": "Markus Ehrle",
+      "summary": "CEO bei APG|SGA AG",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathrin-petrow-a7673710",
+      "name": "Kathrin Petrow",
+      "summary": "Head of Product Management & Data Analytics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/raphael-zurkinden-770813130",
+      "name": "Raphael Zurkinden",
+      "summary": "Eidg. Dipl. Verkaufsleiter",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/regina-edes-gibbings-691128146",
+      "name": "Regina Edes-Gibbings",
+      "summary": "DipWSET | Independent Wine PR& Marketing | Board Member at Deutschschweizer\nSommelierverband SVS | Jury/Buyer/Advisor | Wine Educator | Wine Influencer @swirlsipfeel Instagram | Masterclasses, Events, Tastings ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/vincentmetroz",
+      "name": "Vincent Métroz",
+      "summary": "Chartered Expert in Finance and Controlling | Head of Finance & Administration | Senior Controller | Finance Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-stucki-ehrler-66b99430",
+      "name": "Olivia Stucki-Ehrler",
+      "summary": "Wer zur Quelle will, muss gegen den Strom schwimmen.\n(Chinesische Weisheit)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanja-dr-prinzessin-zu-waldeck-41872914",
+      "name": "Tanja Dr. Prinzessin zu Waldeck",
+      "summary": "COO TX Group (Medien und Group Operations)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/viktoria-diner-76948820a",
+      "name": "Viktoria Diner",
+      "summary": "Digital Campaign Manager",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Very proud of our achievements and continued progress. Our new CSR report for 2025 is now available 💚",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_very-proud-of-our-achievements-and-continued-activity-7460426874352111617-XkuD",
+      "activity_status": null
+    },
+    {
+      "title": "Diego Quintarelli explains why a campaign supporting Outdoor advertising is important right now and how our medium is an integral part of public…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_diego-quintarelli-explains-why-a-campaign-activity-7422587325672714241-NfxU",
+      "activity_status": null
+    },
+    {
+      "title": "An important positive signal from Bern today",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_an-important-positive-signal-from-bern-today-activity-7374500180370567168-Jl7q",
+      "activity_status": null
+    },
+    {
+      "title": "I was recently interviewed by Sandra Porchet for persönlich Verlags AG, looking back after a year as CEO of Goldbach Neo OOH AG and sharing thoughts…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_i-was-recently-interviewed-by-sandra-porchet-activity-7373615021383118848-Nrf7",
+      "activity_status": null
+    },
+    {
+      "title": "Das Plakat ist mehr als Werbung und gehört zu einer demokratischen Schweiz❗ Diese Woche fiel der Startschuss zur Lancierung der Initiative Pro Plakat…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_das-plakat-ist-mehr-als-werbung-und-gehört-activity-7371803130088562688-0gp6",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating a evening full of WOOHW! Moments On Thursday we celebrated creativity and communication for the Swiss Out of Home awards 2025. We saw…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_woohw-ooh-aussenwerbung-activity-7370894594148032512-ft9Z",
+      "activity_status": null
+    },
+    {
+      "title": "👏👏👏 Well tested Raphael Zurkinden!",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_well-tested-raphael-zurkinden-activity-7359703169670471680-331F",
+      "activity_status": null
+    },
+    {
+      "title": "🏆⚽ 𝗙𝗿𝗼𝗺 𝗣𝗶𝘁𝗰𝗵 𝘁𝗼 𝗣𝗼𝘀𝘁𝗲𝗿 - 𝗢𝘂𝘁 𝗼𝗳 𝗛𝗼𝗺𝗲 𝗮𝗱𝘃𝗲𝗿𝘁𝗶𝘀𝗶𝗻𝗴 𝘀𝗰𝗼𝗿𝗲𝘀 𝗽𝗼𝗶𝗻𝘁𝘀 𝘁𝗵𝗶𝘀 𝘀𝘂𝗺𝗺𝗲𝗿! Have you…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_uefawomenseuro-outofhome-ooh-activity-7353803988871352320-j99Y",
+      "activity_status": null
+    },
+    {
+      "title": "🔴 𝗜𝘁'𝘀 𝗱𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁 𝘁𝗼 𝗮𝗿𝗴𝘂𝗲 𝘄𝗶𝘁𝗵 𝗵𝗮𝗿𝗱 𝗱𝗮𝘁𝗮, 𝘆𝗲𝘁 𝘀𝗼𝗺𝗲 𝗽𝗼𝗹𝗶𝘁𝗶𝗰𝗶𝗮𝗻𝘀 𝘀𝘁𝗶𝗹𝗹 𝗽𝘂𝘁 𝗶𝗱𝗲𝗼𝗹𝗼𝗴𝘆…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_kscs-aussenwerbung-bern-activity-7341817770059214850-Wy2w",
+      "activity_status": null
+    },
+    {
+      "title": "Outdoor advertising is an essential part of urban life in Zürich! Following the recent Zürich Gemeinderat vote which only passed by a wafer-thin…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_outdoor-advertising-is-an-essential-part-activity-7335317117438746624-6Q28",
+      "activity_status": null
+    },
+    {
+      "title": "🎾 𝗦𝗲𝗿𝘃𝗲 𝗶𝘁, 𝗦𝗺𝗮𝘀𝗵 𝗶𝘁, 𝗪𝗶𝗻 𝗶𝘁, 𝗟𝗼𝘃𝗲 𝗶𝘁: 𝗚𝗼𝗻𝗲𝘁 𝗚𝗲𝗻𝗲𝘃𝗮 𝗢𝗽𝗲𝗻 𝗮𝗻𝗱 𝗚𝗼𝗹𝗱𝗯𝗮𝗰𝗵 𝗡𝗲𝗼 What started as a…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_gonetgenevaopen-10years-geneva-activity-7331966962400428032-b2PQ",
+      "activity_status": null
+    },
+    {
+      "title": "Wir hätten es begrüsst, wenn der Gemeinderat der Empfehlung des Stadtrats gefolgt wäre und sich gegen ein Verbot ausgesprochen hätte. Wir sind…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_wir-hätten-es-begrüsst-wenn-der-gemeinderat-activity-7308439463687258114-hBiY",
+      "activity_status": null
+    },
+    {
+      "title": "New Year, New Goals for Swiss Out of Home Advertising! 🚀 At the recent General Assembly of the Association of Outdoor Advertising Switzerland (AWS,…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_ooh-dooh-outofhome-activity-7293566782181654528-MB-m",
+      "activity_status": null
+    },
+    {
+      "title": "Behind the Scenes and Out of Home with Goldbach Neo OOH AG Recently I had the opportunity to step into the shoes of our dedicated team at Goldbach…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_goldbachneo-outofhome-digitaloutofhome-activity-7255136589599719425-_CMp",
+      "activity_status": null
+    },
+    {
+      "title": "The opening of 2025 bookings starts today! 🚀🚀🚀 Catch me if you scan! 👇",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_the-opening-of-2025-bookings-starts-today-activity-7249070515942735872-HC0n",
+      "activity_status": null
+    },
+    {
+      "title": "JUST WOOHW! What wonderful evening! Thank you to everyone who made it possible for us to celebrate Out of Home yesterday! Special thanks to our host…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_just-woohw-what-wonderful-evening-thank-activity-7242895294709792770-VPsI",
+      "activity_status": null
+    },
+    {
+      "title": "A rather atypical working day... Recently I had the opportunity to visit a project that we support as part of our CSR activities at Goldbach Neo OOH…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_a-rather-atypical-working-day-recently-activity-7224048546797228036-ZgBV",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve very proud of all the significant achievements we made in 2024, a big thank you to everyone who made this possible and wishing you a happy…",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_ive-very-proud-of-all-the-significant-achievements-activity-7277301026490073088-XauX",
+      "activity_status": null
+    },
+    {
+      "title": "Very proud of this achievement. Thank you to everyone at Goldbach Neo for your contributions which have led to this recognition!",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_very-proud-of-this-achievement-thank-you-activity-7216082337497759744-UgNA",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_platformforbrands-platformforgood-livingwall-activity-6895502096448274432-8nWz",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_platformforbrands-platformforgood-ooh-activity-6953108830784241664-0a3n",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_borntodare-platformforbrands-clearchannel-activity-6956005359886942208-rSuR",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_tagesschau-vom-15072022-hauptausgabe-activity-6956494277703045120-A84B",
+      "activity_status": null
+    },
+    {
+      "title": "Sound on 🔈",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_bullet-train-dooh-campaign-clear-channel-activity-6964153415404810240-Q2g3",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_hearme-hearmewhileyoucan-cop26-activity-6861427916027375616-hzpC",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/tom-gibbings-14ab377_clear-channel-schweiz-ag-übernimmt-per-112019-activity-6476211212995559424-XKQ8",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Tom Gibbings",
+      "link": "https://www.linkedin.com/in/tom-gibbings-2639535a",
+      "summary": "--",
+      "location": "Fayetteville, NC"
+    },
+    {
+      "name": "Tom Gibbings",
+      "link": "https://www.linkedin.com/in/tomgibbings",
+      "summary": "Owner, 20/20 Financial Advisers of San Diego",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Tom Gibbings",
+      "link": "https://www.linkedin.com/in/tom-gibbings-12077711",
+      "summary": "President at High-Tech Marketing, Inc.",
+      "location": "Macomb Township, MI"
+    },
+    {
+      "name": "Tom Gibbings, Jr.",
+      "link": "https://www.linkedin.com/in/tom-gibbings-jr-a16759",
+      "summary": "Product Manager at Teradata",
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Tom Gibbings",
+      "link": "https://uk.linkedin.com/in/tom-gibbings-25b526241",
+      "summary": "Internal Sales Executive - Inspection @ COPTRZ",
+      "location": "Leeds"
+    },
+    {
+      "name": "Tom Gibbings",
+      "link": "https://uk.linkedin.com/in/tom-gibbings-47175b28a",
+      "summary": "Data Page Editor at Racing Post",
+      "location": "Harlow"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-05T00:00:00Z"
+  }
+}

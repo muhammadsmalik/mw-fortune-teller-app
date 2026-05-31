@@ -1,0 +1,22 @@
+{
+  "message": "EnrichLayer profile request failed: 404 Not Found",
+  "status": 404,
+  "body": {
+    "code": 404,
+    "description": "Person profile does not exist or has been deleted or marked as private by the user.",
+    "name": "Not Found"
+  },
+  "profile": {
+    "normalizedUrl": "https://www.linkedin.com/in/gavin-c-48a79923",
+    "username": "gavin-c-48a79923",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 595,
+    "attendee": {
+      "fullName": "Gavin Croxford",
+      "company": "Dynascan",
+      "email": "gavin.croxford@dynascan.com",
+      "country": "United States"
+    }
+  },
+  "scrapedAt": "2026-05-31T06:17:24.867Z"
+}

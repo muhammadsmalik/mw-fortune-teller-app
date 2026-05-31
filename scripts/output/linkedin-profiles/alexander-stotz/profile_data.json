@@ -1,0 +1,1145 @@
+{
+  "public_identifier": "alexander-stotz",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ed4778c1ed1e9ffc5fdc1ea26959808e",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQEmyaulTkdEYg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1671102127777?e=2147483647&v=beta&t=pJygrza-xjZJDPxTWHzV_p7vUpNLYilm08NFcFqkhL4",
+  "first_name": "Alexander",
+  "last_name": "Stotz",
+  "full_name": "Alexander Stotz",
+  "follower_count": 17436,
+  "occupation": "Chief Executive Officer at Ströer Media Deutschland GmbH",
+  "headline": "CEO Ströer Media Deutschland GmbH, Vizepräsident ZAW, Präsident Fachverband Außenwerbung, Vorstand IDOOH, Aufsichtsrat Media Frankfurt",
+  "summary": "Digitale Medien und Infrastrukturen ermöglichen ganz neue Formen der Kommunikation. Für uns als Mensch – in unserem gewohnten Lebensumfeld. Mit der Digitalisierung der Außenwerbung entstehen Stadtscreens, die eine ganz neue, vernetzte Kommunikations-Infrastruktur im öffentlichen Raum ermöglichen. Das schafft Mehrwerte. Es pusht lokale Wirtschaftsunternehmen, nachhaltige Entwicklungen von NGO´s oder Initiativen. Es öffnet Kunst- oder Kulturräume und ermöglicht neue Dialogformen für uns als Bürger:innen.\n\nDer Stadtscreen ist ein Medium, das es gerade in Zeiten des Wandels, verschiedensten Akteur:innen ermöglicht, eben diesen selbst in Echtzeit zu gestalten. Auch im Ernst- oder Katastrophenfall können wir darüber ad-hoc und gezielt informieren oder warnen. Der Stadtscreen wird multifunktional und kehrt gleichzeitig mehr und mehr zu dem zurück, was er als Infoscreen eigentlich immer schon war: Ein Medium für alle.",
+  "location_str": "Cologne Bonn Region",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": "Cologne Bonn Region",
+  "state": "Nordrhein-Westfalen",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2016
+      },
+      "ends_at": null,
+      "company": "Ströer Media Deutschland GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/str%C3%B6er-media-deutschland-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "Verantwortlich für die Digitalisierung der Out-of-Home-Medien und den Ausbau digitaler Informationsnetzwerke im öffentlichen Raum, für das gesamte Produkt- und Rechteportfolio, den Regionalvertrieb und sämtliche Ströer-Niederlassungen und Verkaufsbüros in Deutschland –  sowie für die strategische Entwicklung von Smart City Features und den Ausbau des Vertriebsfeldes Lokale Märkte.\n\nDie Ströer Media Deutschland GmbH ist ein Unternehmen der Ströer Gruppe - die Ströer SE & Co. KGaA ist im MDAX der Deutschen Börse notiert.\n\n http://www.stroeer.com",
+      "location": "Köln und Umgebung, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcdb03b6ad32f9aa194eee7ff7613989"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Ströer Media Deutschland GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/str%C3%B6er-media-deutschland-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Geschäftsführer (COO)",
+      "description": "Verantwortlich für das gesamte Produkt- und Rechteportfolio sowie für den Regionalvertrieb und sämtliche Ströer Niederlassungen und Verkaufsbüros in Deutschland.\n\nDie Ströer Media Deutschland GmbH ist ein Unternehmen der Ströer Gruppe - die Ströer SE & Co. KGaA ist im MDAX der Deutschen Börse notiert.\n\n http://www.stroeer.com",
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcdb03b6ad32f9aa194eee7ff7613989"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "Ströer Media Deutschland GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/str%C3%B6er-media-deutschland-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Mitglied der Deutschland Geschäftsführung",
+      "description": null,
+      "location": "Krefeld, Nordrhein-Westfalen, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcdb03b6ad32f9aa194eee7ff7613989"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "company": "Ströer Media Deutschland GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/str%C3%B6er-media-deutschland-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Leiter Rechteeinkauf Deutschland",
+      "description": null,
+      "location": "Region Köln/Bonn",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcdb03b6ad32f9aa194eee7ff7613989"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "company": "Ströer Media Deutschland GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/str%C3%B6er-media-deutschland-gmbh",
+      "company_facebook_profile_url": null,
+      "title": "Leiter Rechteeinkauf Nordrhein-Westfalen",
+      "description": null,
+      "location": "Region Köln/Bonn",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bcdb03b6ad32f9aa194eee7ff7613989"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "IDOOH Institute for Digital Out of Home Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/institute-for-digital-out-of-home-media-idooh-gmbh-i-g",
+      "company_facebook_profile_url": null,
+      "title": "Vorstand",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6074e00daea6f58327589c02b26ba9fd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "DSM Krefeld Außenwerbung GmbH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Aufsichtsratsmitglied",
+      "description": null,
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Media Frankfurt GmbH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/media-frankfurt",
+      "company_facebook_profile_url": null,
+      "title": "Gesellschaftsvertreter und Aufsichtsratsmitglied",
+      "description": null,
+      "location": "München, Bayern, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bf8741ecf62f3d8e59a00dfac3e3caaf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Zentralverband der deutschen Werbewirtschaft ZAW",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/der-zaw",
+      "company_facebook_profile_url": null,
+      "title": "Vizepräsident",
+      "description": null,
+      "location": "Köln und Umgebung, Deutschland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d9e27ac7b797052e3347e948f93dc1d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "B|A|M Bundesverband Aussenmedien e.V.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bundesverband-aussenmedien",
+      "company_facebook_profile_url": null,
+      "title": "Präsident",
+      "description": null,
+      "location": "Region Köln/Bonn",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1e3cf91a671266a9849aed6f7d6c01c5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2023
+      },
+      "company": "Fachverband Aussenwerbung E.v",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bundesverband-aussenmedien",
+      "company_facebook_profile_url": null,
+      "title": "Vorstand",
+      "description": null,
+      "location": "Region Köln/Bonn",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1e3cf91a671266a9849aed6f7d6c01c5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Deutscher Werberat",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deutscher-werberat",
+      "company_facebook_profile_url": null,
+      "title": "Mitglied",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "ends_at": null,
+      "title": "Botschafter",
+      "cause": "Umwelt",
+      "company": "MBRC the ocean",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mbrctheocean/",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/D4E0BAQEBocpIb2k6aQ/company-logo_100_100/company-logo_100_100/0/1737893268160/embracetheocean_logo?e=2147483647&v=beta&t=NZT6K4SCs-YIjtSqmHPuPeBVMe-hS4GxGoQEalxjVT0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": null,
+      "title": "Verwaltungsratsmitglied",
+      "cause": null,
+      "company": "Kölner Haie",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/k%C3%B6lner-haie/",
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/ll/C560BAQE3hpmI2wKsjA/company-logo_100_100/company-logo_100_100/0/1630670863077/klner_haie_logo?e=2147483647&v=beta&t=qkNoWLMXTkg1t-gE19TNXPZAyRvRrHcQ76xoS43Vmk4"
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/krollcarmen",
+      "name": "Carmen Kroll",
+      "summary": null,
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-sallge",
+      "name": "Sebastian Sallge",
+      "summary": "Google Ads für u.a. Cube, Gardeur, Grafschafter, Elasten // Co-Founder bei Lyonic // Google Premium Partner 2024 | Microsoft Advertising Partner 2024",
+      "location": "Bielefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliverschroer",
+      "name": "Oliver Schroer",
+      "summary": "Supporting E-Commerce Retailer and Brands growing with highly professional expertise.",
+      "location": "Bielefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marvin-rohmann",
+      "name": "Marvin Rohmann",
+      "summary": "Chief Executive Officer, Founder",
+      "location": "Osnabrück"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jensschongar",
+      "name": "Jens Schongar",
+      "summary": "Geschäftsführer @ KYL Software GmbH | Experte für strategische Unternehmensführung und Projektleitung",
+      "location": "Bamberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tilmanau",
+      "name": "Tilman Au",
+      "summary": "Managing Director at Conclusion DACH I Supervisory Board Member at Mainz 05 | Expert for Buy-and-Build-Plattforms | M&A Awardwinner",
+      "location": "Mainz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kralpeter",
+      "name": "Peter Kral",
+      "summary": "CEO Wikando GmbH / FundraisingBox",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simone-kollmann-g%25C3%25B6bels",
+      "name": "Simone Kollmann-Göbels",
+      "summary": "Erfahrene Senior Vice President in internationalen Unternehmen mit ausgewiesener Transformationskompetenz I Strategie I Leadership I Operations I Kostenmanagement & Resilienz I Aufsichtsrätin I Dozentin",
+      "location": "Zürich Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ralfreichert",
+      "name": "Ralf Reichert",
+      "summary": "CEO of Esports World Cup Foundation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/miriam-werkmann-geb-sch%25C3%25BCtt-114a9619a",
+      "name": "Miriam Werkmann geb. Schütt",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcel-gehner",
+      "name": "Marcel Gehner",
+      "summary": "Chief Executive Officer bei B+P Communications",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/glferralis",
+      "name": "Gian-Luca F.",
+      "summary": "🚘 DOOH an Travel & Retail Touchpoints 🛩️",
+      "location": "Cologne Bonn Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcus-wailersbacher",
+      "name": "Marcus Wailersbacher",
+      "summary": null,
+      "location": "Nuremberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tilman-au-ceo-investor-digital-expert",
+      "name": "Tilman Au",
+      "summary": "CEO at diva-e | Digital Expert | 05er | Expert for Buy-and-Build-Plattforms | M&A Awardwinner",
+      "location": "Mainz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeniffer-k%25C3%25A4ther",
+      "name": "Jeniffer Käther",
+      "summary": "Verkaufsleiterin bei Ströer Media Deutschland GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmine-klenke-82a0892",
+      "name": "Yasmine Klenke",
+      "summary": "Dynamic VP of Sales with a proven track record of developing and executing sales strategies that significantly drive revenue growth.",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-holger-blask-114a3a4",
+      "name": "Dr. Holger Blask",
+      "summary": "Chairman of the Management Board at DFB",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fahlbusch-robert-7841965",
+      "name": "Fahlbusch Robert",
+      "summary": "Senior Vice President",
+      "location": "Wiesbaden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bjoern-bremer-a9291b12",
+      "name": "Bjoern Bremer",
+      "summary": "Chief Executive Officer / Geschäftsführer BBDO Holding Germany. The new TeamBBDO with DDB Group of Germany.",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenswessel",
+      "name": "Jens Wessel",
+      "summary": null,
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandra-rebernig-39207a39",
+      "name": "Alexandra Rebernig",
+      "summary": "Co-Founder & CEO @VAEMYN Holistic Female Nutrition | Investor | Speaker | Thought Leader in Holistic Beauty & Health, Female Longevity, Growth Mindset. Love to inspire women and industries.",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonas-keller",
+      "name": "Jonas Keller",
+      "summary": "Empowering Leaders with new presenting",
+      "location": "Karlsruhe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-helbig-11339768",
+      "name": "Stefan Helbig",
+      "summary": "Geschäftsführer bei Ströer Deutsche Städte Medien GmbH",
+      "location": "Landsberg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-marie-christine-frank-publicrelations",
+      "name": "Dr. Marie-Christine Frank",
+      "summary": "Geschäftsführerin Drei Brueder Kommunikation und Beratung | Kolumnistin Courage Magazin | Expertin in brand eins, FAZ & Emotion | Strategische PR & Personal Branding | Host: Newsletter „Public Performance & Visibility“",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/achim-hofmann-10120373",
+      "name": "Achim Hofmann",
+      "summary": "CEO I Chief Executive Officer",
+      "location": "Schönefeld"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephanie-dettmann-a865a782",
+      "name": "Stephanie Dettmann",
+      "summary": "Co-Founder | Shareholder UND GRETEL\nSpeakerin, Moderatorin, Brand Builder",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mr-gert-pieplow-scholl-b80607a0",
+      "name": "Mr. Gert Pieplow-Scholl",
+      "summary": "Founder / Partner / Sales Specialist / Leadership in Sales / Skalierung im Marketing und Vertrieb / scales your sales",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hermann-meyersick",
+      "name": "Hermann Meyersick",
+      "summary": "Geschäftsführer bei Ströer",
+      "location": "Efferen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-eckhardt",
+      "name": "Christian Eckhardt",
+      "summary": "Founder guy 👨🏻💻, Husband 🤵🏻♂️, Father of 3 👦🏻👦🏻👦🏻, Pilot in training ✈️, Tinkerer 👨🏻🔬, Tech + Vehicle + Watch nerd 📱🚗🏍️🚲🛩️⌚️- always building stuff 🔨👷🏻",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jennifer-wegemund",
+      "name": "Jennifer Wegemund",
+      "summary": null,
+      "location": "Saarbrücken"
+    },
+    {
+      "link": "https://www.linkedin.com/in/schansab-zamir-safi",
+      "name": "Schansab Zamir Safi",
+      "summary": "Performance Marketing Enthusiast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/walter-fischer-b3b565bb",
+      "name": "Walter Fischer",
+      "summary": "Geschäftsführer bei Eqolot Local",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-ruhfus-0729b4111",
+      "name": "Thomas Ruhfus",
+      "summary": "Ehemaliger Präsident des Fachverbands Aussenwerbung",
+      "location": "Dortmund"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-prasse-aa0190112",
+      "name": "Andreas Prasse",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andree-linke-7369a3126",
+      "name": "Andree Linke",
+      "summary": "Leiter Geschäftskundenvertrieb Energielösungen",
+      "location": "Oldenburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catharina-enderlein-b41655148",
+      "name": "Catharina Enderlein",
+      "summary": "CEO ELSCP - European Lab for sustainable companies & personalities / meet MOMENTUM / Initiative SINNFLUT - Zukunft gesunde Stadt (Partner New European Bauhaus, EU-Commission)",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philip-deml-0743a9171",
+      "name": "Philip Deml",
+      "summary": "CASA FAR NIENTE - Sprezzatura with every Spritz! Serial entrepreneur, focus d2c, luxury brand building & social media",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-becker-2337921a1",
+      "name": "Linda Becker",
+      "summary": "CEO admenti GmbH | Aufsichtsrätin & Beirätin (zertifiziert durch Deutsche Börse AG)\nMarketing & eCommerce",
+      "location": "Osnabrück"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ewelina-janke-6585061a5",
+      "name": "Ewelina Janke",
+      "summary": "Head of Sales - Medivise",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/petra-loubek-b2184a1a6",
+      "name": "Petra Loubek",
+      "summary": "Gasche Excellent Leadership I Business-Coaching I Executive-Coaching I zertifizierte systemische Coaching Ausbildung I Coach-Pools I Kulturwandel I Leadership I Change I Seminare I Trainings",
+      "location": "Hennef"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-l%25C3%25A4ssig-4224191b8",
+      "name": "Paul Lässig",
+      "summary": "Leiter Stabsstelle Vertrags- und Kooperationsverhandlungen",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-k%25C3%25BCkensh%25C3%25B6ner-5bab81202",
+      "name": "Peter Kükenshöner",
+      "summary": "Geschäftsführer bei Ströer Deutsche Städte Medien GmbH",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-gessner-0ba604208",
+      "name": "Dirk Gessner",
+      "summary": "Geschäftsführer bei Ströer Media Deutschland GmbH",
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-noth-a49a45211",
+      "name": "Michael Noth",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-andreas-mueller-leydig",
+      "name": "Dr. Andreas Mueller-Leydig",
+      "summary": "COO & CFO Ströer Media Deutschland GmbH",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/korosec",
+      "name": "Martin Korosec",
+      "summary": "Managing Director",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-andreas-mueller-leydig-4a1124214",
+      "name": "Dr. Andreas Mueller-Leydig",
+      "summary": " COO & CFO Ströer Media Deutschland ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/timo-hahn-02ab74158",
+      "name": "Timo Hahn",
+      "summary": "Vice President Client Sales bei Ströer Media Solutions",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-kai-marcus-th%C3%A4sler-98774988",
+      "name": "Dr. Kai-Marcus Thäsler",
+      "summary": "FAW Hauptgeschäftsführer / Ex-Professor Digitales Marketing / IDOOH Vorstand / agma Vorstand / WOO Board Member / Olivenbauer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ute-buschmann-906a1849",
+      "name": "Ute Buschmann",
+      "summary": "Niederlassungsleitung bei Ströer Out-of-Home Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lars-peters-70098b10",
+      "name": "Lars Peters",
+      "summary": "If you change nothing, nothing will change!",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatjana-kiel",
+      "name": "Tatjana Kiel",
+      "summary": "CEO KLITSCHKO Ventures I WeAreAllUkrainians I score4impact I LinkedIn TopVoice Social Impact",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-lennarz-405359122",
+      "name": "Michael Lennarz",
+      "summary": "Teamleiter Recruiting Lokale Märkte bei Ströer Media Deutschland GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-knorr-4a1880",
+      "name": "Andreas Knorr",
+      "summary": "Director Marketing at WallDecaux",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sven-wucherpfennig-2965593",
+      "name": "Sven Wucherpfennig",
+      "summary": "Owner, Alvern Media GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eva-adelsgruber",
+      "name": "Eva Adelsgruber",
+      "summary": "C-Level Executive in Marketing and Sales Transformation - Driving growth & digital transformation | Media & Advertising | Former: CEO Plan.Net Impact, CEO at P7S1 7Screen | Senior Manager at KPMG",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/fgoldberg",
+      "name": "Frank Goldberg",
+      "summary": "Managing Director at Institute for Digital Out of Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabel-castilla-hechavarria-614a242b9",
+      "name": "Isabel Castilla Hechavarria",
+      "summary": "Vertriebsmitarbeiter bei Ströer Media Deutschland GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/%C3%B6zalp-seferoglu-012162188",
+      "name": "Özalp Seferoglu",
+      "summary": "Verkaufsleiter bei Ströer Media Deutschland GmbH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabine-pafferath-142832148",
+      "name": "Sabine Pafferath",
+      "summary": "Head of Client Sales",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sinan-%C5%9Fen-928404201",
+      "name": "Sinan  Şen",
+      "summary": "Senior Sales Manager bei Ströer Media Deutschland GmbH | Vertriebsmanagement & Elite Silber Club Mitglied & Vorstandsmitglied der Turkish European Business Association Group ",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Setting New Standards in #Fashiontainment @AboutYou x @blowUPmedia Germany turned our Hamburg Medienfassade into the city’s most spectacular runway.…",
+      "link": "https://www.linkedin.com/posts/blowup-media_fashiontainment-dooh-aboutyou-activity-7379772213991899136--fcm",
+      "activity_status": null
+    },
+    {
+      "title": "Manchmal kommt es anders, als man denkt... und wird dann plötzlich richtig gut. Mein \"anders\" heißt nun Ströer Deutsche Städte Medien GmbH und ich…",
+      "link": "https://de.linkedin.com/posts/cathrin-scharkowski_manchmal-kommt-es-anders-als-man-denkt-activity-7373345658629488640-XqS_",
+      "activity_status": null
+    },
+    {
+      "title": "Vielen Dank an die Herzretter für die großartige Zusammenarbeit und dass wir das Projekt gemeinsam auf die Beine stellen konnten! Ein weiterer…",
+      "link": "https://de.linkedin.com/posts/koorosh-armi-64a8a2144_vielen-dank-an-dieherzretterfür-die-großartige-activity-7379072625832038400-lhhD",
+      "activity_status": null
+    },
+    {
+      "title": "Die Freie und Hansestadt Hamburg geht mir einer smarten Lösung im öffentlichen Raum wieder vor. Um Menschenleben im öffentlichen Raum zu retten, ist…",
+      "link": "https://de.linkedin.com/posts/ströer-erstehilfe-aed-activity-7379096575798841345-DcnE",
+      "activity_status": null
+    },
+    {
+      "title": "🚨 𝗗𝗶𝗴𝗶𝘁𝗮𝗹𝗲 𝗔𝘂ß𝗲𝗻𝗺𝗲𝗱𝗶𝗲𝗻 𝗮𝗹𝘀 𝗟𝗲𝗯𝗲𝗻𝘀𝗿𝗲𝘁𝘁𝗲𝗿 Was wäre, wenn die Infrastruktur, die uns täglich mit Informationen…",
+      "link": "https://de.linkedin.com/posts/alexander-stotz_aussenmedien-stroeer-dooh-activity-7379061523098546176-FZy7",
+      "activity_status": null
+    },
+    {
+      "title": "Gesehen in Erfurt 🤩- hallo DOOH! Endlich moderne Premium-DCLPs jetzt auch an Erfurts Top-Shopping area „Anger. Buchbar programmatisch oder IO bei…",
+      "link": "https://de.linkedin.com/posts/daniel-lange-1aab90197_gesehen-in-erfurt-hallo-dooh-endlich-activity-7377314150315888640-1oCC",
+      "activity_status": null
+    },
+    {
+      "title": "Es ist #Pinktober 💗 Ein Monat, in dem es um Brustkrebs Awareness und Vorsorge geht. Ein Thema, das Aufmerksamkeit verdient – und bei dem Bewusstsein…",
+      "link": "https://de.linkedin.com/posts/anna-helene-schramm-b7483b172_pinktober-checkstdu-pinktober-activity-7387497300035522560-TIm5",
+      "activity_status": null
+    },
+    {
+      "title": "💚 Wenn Technik Leben rettet! Gemeinsam mit Ströer Media Deutschland GmbH und Herzretter.ev haben wir den ersten öffentlich zugänglichen…",
+      "link": "https://de.linkedin.com/posts/medical-industrie-mettmann_lebensrettung-innovation-herzretter-activity-7381242982630440960-8jA6",
+      "activity_status": null
+    },
+    {
+      "title": "💙 Wenn Likes wichtiger werden als Nähe – Zeit, über mentale Gesundheit zu reden. Zum Welttag starten wir gemeinsam mit STRÖER die Kampagne #FühlIch…",
+      "link": "https://de.linkedin.com/posts/unicefdeutschland_fühlich-fühlich-mentalegesundheit-activity-7381595463952646144-IV7Y",
+      "activity_status": null
+    },
+    {
+      "title": "„Die werden Augen machen! 🤩 Das galt nicht nur für Kund:innen der neuen „Magic Finish Grow & Tint Mascara von asambeauty, sondern auch für…",
+      "link": "https://de.linkedin.com/posts/stroeer_die-werden-augen-machen-das-galt-activity-7384132265808924672-qoXK",
+      "activity_status": null
+    },
+    {
+      "title": "✨ ✨ 𝐈𝐜𝐡 𝐛𝐢𝐧 𝐰𝐢𝐞𝐝𝐞𝐫 𝐚𝐮𝐟 𝐝𝐞𝐫 𝐡𝐞𝐫𝐂𝐀𝐑𝐄𝐄𝐑 ✨ ✨ Und diesmal mit 𝐆𝐚𝐬𝐜𝐡𝐞 𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐭 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩. Ich freue…",
+      "link": "https://de.linkedin.com/posts/petra-loubek-b2184a1a6_hercareer-leadership-excellence-activity-7378359700708401152-108b",
+      "activity_status": null
+    },
+    {
+      "title": "𝗗𝗶𝗲 𝗛𝗲𝗹𝗱𝗲𝗻 𝗮𝘂𝘀 𝗱𝗲𝗿 𝘇𝘄𝗲𝗶𝘁𝗲𝗻 𝗥𝗲𝗶𝗵𝗲 𝗶𝗺 𝗥𝗮𝗺𝗽𝗲𝗻𝗹𝗶𝗰𝗵𝘁 🏒 Eishockey ist nicht nur auf dem Eis eine Teamleistung: nur…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_tagdesehrenamts-stroeer-dooh-activity-7404802995437195264-qmuG",
+      "activity_status": null
+    },
+    {
+      "title": "Habt ihr euch schon mal gefragt, wie wir „The Whale“ mit seinen 342-Quadratmetern in 30 Metern Höhe so präzise ausrichten, dass am Ende jedes Pixel…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_thewhale-dooh-aussenwerbung-activity-7404084959428313088-hfvF",
+      "activity_status": null
+    },
+    {
+      "title": "So wunderbar. Der legendärste Homeoffice-Video-Call aller Zeiten mit Robert Kelly. Was Du davon lernen kannst, anders als Du denkst. 😉 Professor…",
+      "link": "https://de.linkedin.com/posts/murtaza-akbar-wortwahl_wortwahl-werte-wirkung-activity-7402242642551521280-3GsR",
+      "activity_status": null
+    },
+    {
+      "title": "𝗦𝗰𝗵𝗲𝗶𝗻𝘄𝗲𝗿𝗳𝗲𝗿𝗹𝗶𝗰𝗵𝘁 𝗮𝗻! 𝗔𝗯 𝘀𝗼𝗳𝗼𝗿𝘁 𝗹ä𝘂𝗳𝘁 𝘂𝗻𝘀𝗲𝗿𝗲 𝘀𝘁𝗮𝗱𝘁𝘄𝗲𝗶𝘁𝗲 𝗦𝗶𝗰𝗵𝘁𝗯𝗮𝗿𝗸𝗲𝗶𝘁𝘀𝗸𝗮𝗺𝗽𝗮𝗴𝗻𝗲…",
+      "link": "https://de.linkedin.com/posts/socialentrepreneurshipcityhamburg_𝗦𝗰𝗵𝗲𝗶𝗻𝘄𝗲𝗿𝗳𝗲𝗿𝗹𝗶𝗰𝗵𝘁-𝗮𝗻-activity-7396125130730414080-Rny6",
+      "activity_status": null
+    },
+    {
+      "title": "𝗗𝗲𝗿 𝗦𝘁𝗿𝗼̈𝗲𝗿 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗛𝘂𝗯 𝗯𝗿𝗶𝗻𝗴𝘁 𝗸𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗜𝗱𝗲𝗲𝗻 𝗮𝘂𝗳 𝗱𝗶𝗴𝗶𝘁𝗮𝗹𝗲 𝗦𝗰𝗿𝗲𝗲𝗻𝘀 𝗶𝗺…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_stroeer-creativehub-aussenmedien-activity-7462408823954178048-aLpN",
+      "activity_status": null
+    },
+    {
+      "title": "𝗗𝗲𝗿 ö𝗳𝗳𝗲𝗻𝘁𝗹𝗶𝗰𝗵𝗲 𝗥𝗮𝘂𝗺 𝘄𝗶𝗿𝗱 𝘇𝘂𝗿 𝗚𝗮𝗹𝗲𝗿𝗶𝗲 🎨🙌 Gemeinsam mit der Kunstschaffenden-Agentur Artcrush.com bringen wir unter…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_𝗗𝗲𝗿-ö𝗳𝗳𝗲𝗻𝘁𝗹𝗶𝗰𝗵𝗲-𝗥𝗮𝘂𝗺-𝘄𝗶𝗿𝗱-activity-7460244820301680640-rYIh",
+      "activity_status": null
+    },
+    {
+      "title": "𝗘𝗶𝗻 𝘄𝘂𝗻𝗱𝗲𝗿𝗯𝗮𝗿𝗲𝗿 𝗔𝗯𝗲𝗻𝗱 𝘇𝘂 𝗲𝗶𝗻𝗲𝗺 𝘄𝗶𝗰𝗵𝘁𝗶𝗴𝗲𝗻 𝗧𝗵𝗲𝗺𝗮! Beim Guardian Dinner der AMES Foundation in Köln stand der…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ames-dinner-community-activity-7454824095457849344-5yTb",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 𝗗𝗶𝗲 𝗣𝗹𝗮𝗸𝗮𝗗𝗶𝘃𝗮 𝟮𝟬𝟮𝟲 𝗵𝗮𝘁 𝗘𝗶𝗻𝗱𝗿𝘂𝗰𝗸 𝗵𝗶𝗻𝘁𝗲𝗿𝗹𝗮𝘀𝘀𝗲𝗻! Eine besondere Location, gute Gespräche und eine einzigartige…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_plakadiva2026-ooh-aussenwerbung-activity-7453379340874047488-nhVg",
+      "activity_status": null
+    },
+    {
+      "title": "Ein starker Abend für die Kölner Haie bei den PENNY DEL Awards 🏆🏒 Kurz vor dem Start in die Endrunde vergab die Deutsche Eishockey Liga GmbH & Co.…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_stroeer-koelnerhaie-eishockey-activity-7439968446089465856-wbZ0",
+      "activity_status": null
+    },
+    {
+      "title": "𝗔𝘂𝘀 𝗱𝗲𝗺 𝗙𝗮𝗰𝗵𝘃𝗲𝗿𝗯𝗮𝗻𝗱 𝗔𝘂ß𝗲𝗻𝘄𝗲𝗿𝗯𝘂𝗻𝗴 𝘄𝗶𝗿𝗱 𝗱𝗲𝗿 B|A|M Bundesverband Aussenmedien e.V. ! Mit diesen spannenden…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_aussenmedien-ooh-dooh-activity-7417865396046905344-nyvx",
+      "activity_status": null
+    },
+    {
+      "title": "\"𝗧𝗵𝗲 𝗪𝗵𝗮𝗹𝗲\" 𝗮𝘂𝗳 𝗱𝗲𝗿 𝗭𝗶𝗲𝗹𝗴𝗲𝗿𝗮𝗱𝗲𝗻! Mit unserem ikonischen neuen Screen im Testbetrieb geht es nun in die finale Phase. Nach…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_thewhale-stroeer-dooh-activity-7407711239914749953-XfkT",
+      "activity_status": null
+    },
+    {
+      "title": "𝗘𝗶𝗻 𝗞𝗹𝗮𝘀𝘀𝗲𝗻𝘇𝗶𝗺𝗺𝗲𝗿 𝘂𝗻𝘁𝗲𝗿 𝗱𝗲𝗿 𝗘𝗿𝗱𝗲, 𝗺𝗶𝘁𝘁𝗲𝗻 𝗶𝗻 𝗕𝗲𝗿𝗹𝗶𝗻. UNICEF Deutschland und die Berliner Verkehrsbetriebe…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_unicef-lernenimkrieg-ukraine-activity-7407459250366750720-IWZb",
+      "activity_status": null
+    },
+    {
+      "title": "Wir alle freuen uns darauf, 2026 willkommen zu heißen, und gerade an Silvester ist es wichtig, respektvoll miteinander umzugehen! Die diesjährige…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_stroeer-berlin-ooh-activity-7406644164496609281-06D0",
+      "activity_status": null
+    },
+    {
+      "title": "🚧𝗘𝗶𝗻 𝗕𝗹𝗶𝗰𝗸 𝗵𝗶𝗻𝘁𝗲𝗿 𝗱𝗶𝗲 𝗞𝘂𝗹𝗶𝘀𝘀𝗲𝗻 Wir nehmen euch mit auf die Baustelle von \"The Whale\" und zeigen, wie der größte DOOH-Screen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_thewhale-dooh-aussenwerbung-activity-7396465329507479553-Ln7k",
+      "activity_status": null
+    },
+    {
+      "title": "Die DMEXCO - Digital Marketing Expo & Conference ist in vollem Gange und wir nutzen den Moment, um ein neues Highlight in unserem Portfolio…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_dooh-activity-7374440331460837376-eWmC",
+      "activity_status": null
+    },
+    {
+      "title": "Kölle ist putzmunter 💪🧹 – und wir sind stolz, Teil dieser tollen Aktion der Abfallwirtschaftsbetriebe Köln GmbH (AWB Köln) zu sein! Am vergangenen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_stroeer-dooh-koelnerhaie-activity-7373714656248451073-vrnx",
+      "activity_status": null
+    },
+    {
+      "title": "Out-of-Home setzt Erfolgskurs fort! 🚀 Erst vor wenigen Wochen haben wir gemeinsam das Erreichen von 10% Marktanteil gefeiert, im Juli steht #OOH…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ooh-aussenwerbung-stroeer-activity-7364562235513352193-wz1i",
+      "activity_status": null
+    },
+    {
+      "title": "Stark, was Hamburg hier auf die Straße bringt! 🚴♀️ Wir freuen uns sehr, dass Hamburg unsere digitalen Stadtinformationsanlagen nutzt und ab sofort…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_infrastruktur-mobilitätswende-digitaloutofhome-activity-7349471446408015873-OoCp",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Birthday Litfaßsäule! Heute feiern wir die Grande Dame der Außenwerbung – Die Litfaßsäule wird unglaubliche 170 Jahre alt! 🎉 Die Litfaßsäule…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_170jahrelitfasssäule-geburtstag-stadtentwicklung-activity-7345713843135754240-Apn-",
+      "activity_status": null
+    },
+    {
+      "title": "Herzlichen Glückwunsch an den Effzeh! 1. FC Köln #fckoeln #aufstieg #bundesliga #Effzeh #koeln #liebedeinestadt #colonia #aufstieg2025 #fcfeiert…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_fckoeln-aufstieg-bundesliga-activity-7330263526013321216-oXSG",
+      "activity_status": null
+    },
+    {
+      "title": "𝗜𝗺 𝗚𝗲𝘀𝗽𝗿ä𝗰𝗵 𝗺𝗶𝘁 𝗱𝗲𝗿 𝗝𝘂𝗴𝗲𝗻𝗱 – 𝗘𝗶𝗻 𝗔𝗯𝗲𝗻𝗱 𝗯𝗲𝗶𝗺 𝗡𝗲𝘂𝗺𝗶𝘁𝗴𝗹𝗶𝗲𝗱𝗲𝗿-𝗧𝗿𝗲𝗳𝗳 𝗱𝗲𝗿 𝗝𝘂𝗻𝗴𝗲𝗻 𝗨𝗻𝗶𝗼𝗻…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_digitalisierung-münchen-dooh-activity-7334188594271608832-RBFZ",
+      "activity_status": null
+    },
+    {
+      "title": "Danke, Kölner Haie - was für eine Saison! Wir wünschen euch allen eine unvergessliche Saisonabschlussfeier heute – „Mer stonn zesamme, ejal wat…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_dankehaie-vizemeister2025-merstonnzesamme-activity-7324116973389332480-H2Q_",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Heute ist #WeltFRAUENtag – Gleichberechtigung geht uns alle an, und noch immer gibt es viel zu tun! Es ist höchste Zeit, für echte Fairness und…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_weltfrauentag-wasfrauennichtmehrhörenwollen-activity-7304118386647556096-Gf93",
+      "activity_status": null
+    },
+    {
+      "title": "Eine Stadt steht still! Drei Jahre Krieg in der Ukraine. Drei Jahre unfassbares Leid, drei Jahre Widerstand und Hoffnung. Wir dürfen nicht wegsehen.…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_hamburgstehtstill-standwithukraine-hamburgstehtstill-activity-7300082592433737728-63TM",
+      "activity_status": null
+    },
+    {
+      "title": "𝗠𝗲𝗵𝗿 𝗱𝗮𝘃𝗼𝗻! 👏 Am Wochenende in Hamburg live entdeckt: Eine großartige Idee, die zeigt, wie Kommunikation im Stadtraum funktionieren kann.…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_jobrad-dooh-haltungzeigen-activity-7298284271083937793-wnJj",
+      "activity_status": null
+    },
+    {
+      "title": "🔥 𝗦𝗼 𝘃𝗲𝗿𝗹ä𝗻𝗴𝗲𝗿𝘁 𝗺𝗮𝗻 𝗲𝗶𝗻𝗲 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗞𝗮𝗺𝗽𝗮𝗴𝗻𝗲 – 𝘂𝗻𝗱 𝘄𝗶𝗿𝗱 𝘇𝘂𝗺 𝗦𝘁𝗮𝗱𝘁𝗴𝗲𝘀𝗽𝗿ä𝗰𝗵!🔥 Zwei Tage…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_musiala-fcbayern-socialmedia-activity-7297217301483806722-j6jw",
+      "activity_status": null
+    },
+    {
+      "title": "150. Todestag von Ernst Litfaß – Wir erinnern an einen Vorreiter unserer Branche Heute gedenken wir Ernst Litfaß, einem Visionär und Wegbereiter der…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_einestundehistory-aussenwerbung-ooh-activity-7278868104871333888-Hy4Q",
+      "activity_status": null
+    },
+    {
+      "title": "Vorsicht! Dauerregen! Ab sofort werden amtliche Extremwetterwarnungen des Deutschen Wetterdienstes (#DWD) auf unseren deutschlandweit rund 6.000…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_dwd-steffilemke-aussenmedien-activity-7249764956282245120-gyhu",
+      "activity_status": null
+    },
+    {
+      "title": "🚨ACHTUNG WARNUNG: Heute war es wieder soweit: anbei einige Eindrücke des heutigen bundesweite #Warntags! Direkt aus unseren Städten🚨 Wir bei Ströer…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_warntags-probewarnung-sicherheitskommunikation-activity-7240010385699860483-qLBt",
+      "activity_status": null
+    },
+    {
+      "title": "Ströer meets Paris. Nicht nur seit Beginn der olympischen Spiele live auf unseren Screens mit dem Medal Alert und den News aus Paris, sondern auch…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_deutschenhaus-teamgeist-respekt-activity-7228818064849424386-4XFS",
+      "activity_status": null
+    },
+    {
+      "title": "Hey – hört mal rein in den neuen OOH! Podcast. Ich hatte die Chance, mit Prof. Dr. Kai-Marcus Thäsler vom Fachverband Aussenwerbung E.v über unsere…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_urbanisierung-digitalisierung-nachhaltigkeit-activity-7223677967288197121-zmg2",
+      "activity_status": null
+    },
+    {
+      "title": "1.000 Tage Krieg in der Ukraine. Mitten in Europa. Es fehlen einem die Worte. Wie ist das möglich? Gerne wollen wir an diesem traurigen Tag einen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_unicef-weareallukrainians-standwithukraine-activity-7264237117159981056-khMD",
+      "activity_status": null
+    },
+    {
+      "title": "Schon mal Manuel Neuer in die Arme gelaufen? #OutofHome macht´s möglich. Ab sofort am Münchner Odeonsplatz. Super Umsetzung, liebe Kolleg:innen aus…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_outofhome-uefaeuro2024-liveimraum-activity-7209901373281259522-JtbG",
+      "activity_status": null
+    },
+    {
+      "title": "Wir zeigen euch nahezu in Echtzeit die Tore 🥅 ⚽️und den Weg zu freien Parkplätzen 🚗 auf unseren Ströer-Screens im Hamburger Stadtgebiet. Das hat’s…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_fussballspass-uefaeuro2024-str%C3%B6er-activity-7207375277859971073-qoGd",
+      "activity_status": null
+    },
+    {
+      "title": "Wir sind glücklich! Mehr als 64% Wahlbeteiligung. Vielleicht sogar neuer Europarekord! 6 Wochen lang liefen mehrere 1000 Screens – im Auftrag der…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_grundgesetz-nextgeneration-europas-activity-7205863777827753984-no4f",
+      "activity_status": null
+    },
+    {
+      "title": "Schon mal Tore in Echtzeit geschossen? #WeDOOH #OutofHome: Erstmalig werden in 20-sekündigen-Highlight-Clips die Tore - direkt und unmittelbar –…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_gratis-fu%C3%9Fball-f%C3%BCr-44-millionen-telekom-activity-7203650710830272513-ISlw",
+      "activity_status": null
+    },
+    {
+      "title": "Nicht nur Berlin braucht #erziehung: zu Recht bei der #plakadiva haben die „Berliner Kitas“ in der Königsdisziplin beste Kreation gewonnen! Für mich…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_erziehung-plakadiva-bildung-activity-7191330571120238593-fJFs",
+      "activity_status": null
+    },
+    {
+      "title": "Für mich persönlich in dieser neuen #Verantwortung ein besonderer Moment der OOH!-Branche. Geprägt durch unglaublich viele, großartige Einreichungen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_verantwortung-kreativ-nachhaltig-activity-7189540191919890433-5P4E",
+      "activity_status": null
+    },
+    {
+      "title": "Ein klasse Gespräch mit der Landtagspräsidentin #Bayerns, Ilse Aigner, und unserem Geschäftsführer Stefan Helbig für die Region zum Thema: Wie sorgen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_bayerns-mediacreation-wahlen2024-activity-7186619504334950400-Sf2b",
+      "activity_status": null
+    },
+    {
+      "title": "#Plakadiva 2024 – der OOH-Branchen-Award: Die 38 Finalist:innen sind nominiert! Am 24. April zeigt sich in München, wer es geschafft hat in den…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_plakadiva-kreativen-vermarktern-activity-7175802779083366401-KEkO",
+      "activity_status": null
+    },
+    {
+      "title": "Die Natur ist das Wertvollste, was wir haben! SchÃ¼tzen wir sie und alle Arten, die in ihr leben - besonders jene, die in diesen Zeiten bedroht sind!…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_worldrhinoday-wedooh-together-activity-7110986591073890304-c8pV",
+      "activity_status": null
+    },
+    {
+      "title": "ðð«ð¨Ãðð«ð­ð¢ð ð ðððð¡ð«ð¢ðð¡ð­ðð§: ðð­ð«Ã¶ðð« ð°ð¢ð«ð ð¢ð¦…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_nachhaltigkeits-rating-msci-stuft-str%C3%B6er-activity-7074651933751304192--ZrF",
+      "activity_status": null
+    },
+    {
+      "title": "ð± Auch in diesem Jahr ist #StrÃ¶er wieder auf dem GREENTECH FESTIVAL vertreten! â Â Wir freuen uns, zum 4. Mal als Partner des GREENTECH…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_str%C3%B6er-nachhaltigkeit-greentechtestival-activity-7073971531558576129-UTlN",
+      "activity_status": null
+    },
+    {
+      "title": "🌱 Nachhaltige #Medien sind die Zukunft – aber wie grün sieht unsere Medienlandschaft zurzeit aus? Was zeigt ein horizontaler Branchenvergleich? ▶️…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_green-media-so-profitieren-marken-davon-activity-7028720865684922368-17G3",
+      "activity_status": null
+    },
+    {
+      "title": "ð§Heute ist Weltwassertag: 2,2 Milliarden Menschen weltweit leben immer noch ohne Zugang zu sauberem Trinkwasser, so der Wasserbericht 2020 der…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_wasser-trinkwasser-weltwassertag-activity-7044309686333956100-1yF7",
+      "activity_status": null
+    },
+    {
+      "title": "#Ukraine. Ein Jahr Krieg. Unfassbar. Grausam. Inakzeptabel. Heute haben viele fÃ¼r eine Minute innegehalten, um den zahlreichen Kriegsopfern der…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ukraine-dooh-hamburgstehtstill-activity-7034922716449112064-5x-i",
+      "activity_status": null
+    },
+    {
+      "title": "Wir sind sehr ergriffen von dem Spot, den uns Unicef geschickt hat. Danke UNICEF â fÃ¼r diese emotionale Anerkennung unserer Zusammenarbeit! ð…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_unicef-kinderrechte-deinerechte-activity-7024316655178522624-6gIP",
+      "activity_status": null
+    },
+    {
+      "title": "So funktioniert natürliches Materialrecycling! Die Auflagefläche der Bank in unserer neuesten Wartehallen-Konzeption besteht aus Treibholz –…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_smartcity-sustainability-stadtimpulse-activity-6952169616370511872-9Si7",
+      "activity_status": null
+    },
+    {
+      "title": "Be #safe and #communicate âï¸ Â In einem neuen Pilotprojekt erÃ¶ffnen wir der #Feuerwehr #Frankfurt ð â durch den direkten Zugriff auf unsere…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_safe-communicate-feuerwehr-activity-7004000764591251456-3wlU",
+      "activity_status": null
+    },
+    {
+      "title": "Kinder haben das #Recht zu wissen, welche Grundrechte sie eigentlich haben❗ Anlässlich des heutigen #Weltkindertag wollen wir den Kleinsten unserer…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_recht-weltkindertag-kinder-activity-6977896891451645953-LujH",
+      "activity_status": null
+    },
+    {
+      "title": "Es gibt was zu feiern! 🎉 Die digitale Außenwerbung hat vor einem Jahr eine neue Heimat bekommen: #IDOOH 👀 Gemeinsam mit dem Digital Media…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_idooh-ströer-ooh-activity-7029395621564325889-rmnB",
+      "activity_status": null
+    },
+    {
+      "title": "Auch von mir einen herzlichen Dank an alle Festgäste, die diesen für uns sehr wichtigen Meilenstein mit uns geehrt haben. Und natürlich an alle…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-smartcity-digitalisierung-activity-6950814265708568576-BtPJ",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ukraine-köln-berlin-activity-6907284019084697600-k-AU",
+      "activity_status": null
+    },
+    {
+      "title": "Die Zeiten sind für uns alle schwer. Durch die Pandemie hat sich viel verändert - und einiges wurde zunichtegemacht. Trotzdem dürfen wir nicht aus…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-hilfe-unicef-activity-6879047200161226753-D5Jr",
+      "activity_status": null
+    },
+    {
+      "title": "#TurnTheWorldBlue. Höchste Zeit, Farbe zu bekennen. Für Kinderrechte! Denn jedes Kind hat unabhängig von Herkunft, Geschlecht, Religion oder sozialem…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_turntheworldblue-turntheworldblue-tagderkinderrechte-activity-6867416811835535360-3TW7",
+      "activity_status": null
+    },
+    {
+      "title": "#Frankfurt warnt jetzt digital! Schnelligkeit ist entscheidend, wenn eine ernsthafte Gefahr für Leib und Leben droht. Durch die Anbindung der 290…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_frankfurt-mowas-sicherheit-activity-6877161776245460992-8aY2",
+      "activity_status": null
+    },
+    {
+      "title": "🏒🏒 Warum dieser Tag für das Spiel der Kölner Haie gegen Red Bull München ein ganz besonderer ist: - Nach 154 Tagen tritt der #KEC zu seinem ersten…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_kec-eishockey-haie-activity-6976187410816626690-todt",
+      "activity_status": null
+    },
+    {
+      "title": "Außenwerber und Plakatliebhaber aufgepasst: Anlässlich des 100-jährigen Jubiläums des 𝐌𝐮𝐬𝐞𝐮𝐦 𝐅𝐨𝐥𝐤𝐰𝐚𝐧𝐠 𝐢𝐧 𝐄𝐬𝐬𝐞𝐧 und unserer…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ren%C3%A9grohnert-ankagrosser-petergorschl%C3%BCter-activity-6920274064355794944-ijik",
+      "activity_status": null
+    },
+    {
+      "title": "Großartig! Unser aktuelles KI-Projekt \"Stadtsignale\" biegt als Teil unseres \"Kommunalen Stadtinformationssystems\" (kurz KISS) in Hamburg in die…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-dooh-hamburg-activity-6867079696543174656-jBeS",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH etabliert sich immer mehr als schnelles Medium für top aktuelle Nachrichten – z.B. bei Sportmeldungen! Nach dem \"Medal Alert\" bei Olympia vom…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_str%C3%B6er-dooh-publicvideo-activity-6835567260992581633-Qzgc",
+      "activity_status": null
+    },
+    {
+      "title": "In Hamburg sind die Pixel los! Unser kommunales Stadtinformationssystem hat in der Hansestadt eine Screendichte erreicht, durch die unsere…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-dooh-hamburg-activity-6866310690513276929-r3HC",
+      "activity_status": null
+    },
+    {
+      "title": "Die digitale Außenwerbung hat eine neue Heimat: Das IDOOH – das „Institute for Digital Out of Home Media“. Gemeinsam mit dem DMI, dem Digital Media…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-dmi-goldbach-activity-6900401778027024384-iE-G",
+      "activity_status": null
+    },
+    {
+      "title": "GroÃartig! Im wahrsten Sinne des Wortes! Da schlÃ¤gt das Herz des AuÃenwerbers hÃ¶her. Ein neuer Top-Screen am MÃ¼nchner Stachus. Unser Public…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_str%C3%B6er-dooh-m%C3%BCnchen-activity-6859384179361116160-0tuY",
+      "activity_status": null
+    },
+    {
+      "title": "Heute ist der Tag des Nashorns. Das mag im ersten Moment seltsam klingen, ist aber immens wichtig! Ins Leben gerufen wurde er vom WWF-Südafrika mit…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ames-africa-wildlife-activity-6846372246068457472-4Q9u",
+      "activity_status": null
+    },
+    {
+      "title": "Frischer Wind schadet nie! Auch nicht bei einem noch so jungen Medium wie der digitalen Außenwerbung (DOOH)! Das DMI – Digital Media Institute hat…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-dooh-aussenwerbung-activity-6797831327962943488-IdcR",
+      "activity_status": null
+    },
+    {
+      "title": "Es ist schön zur Abwechslung auch mal über eine positive Entwicklung im Kontext Corona kommunizieren zu können. Hier ist so eine: Wir fahren deutlich…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_bleibinbewegung-bleibinbewegung-ströer-activity-6788752479992467456-IOJl",
+      "activity_status": null
+    },
+    {
+      "title": "Happy Bee-Day! Seit 2018 ist der 20. Mai der offizielle Welt-Bienentag. Er weist auf die besondere Bedeutung von Bienen für unser Leben hin. Denn sie…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-aussenwerbung-nachhaltigkeit-activity-6801059116170145792-gEXK",
+      "activity_status": null
+    },
+    {
+      "title": "Es wird immer grüner im Westen! Schon im August durften wir den ersten Schritt in Richtung des „Duisburger Großstadtdschungels“ mitgehen. Jetzt freut…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_in-52-sekunden-zur-begrünten-wartehalle-activity-6755461796955488256-KUHU",
+      "activity_status": null
+    },
+    {
+      "title": "Ein wirklich gutes und konstruktives Gespräch! Mein Kollege Christian von den Brincken und ich durften mit Frau Ursula Heinen-Esser, Ministerin für…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-urban-talk-ursula-heinen-esser-activity-6744168160653545472-3tw9",
+      "activity_status": null
+    },
+    {
+      "title": "Eine tolle Auszeichnung für ein so junges Medium wie DOOH! Erstmals gibt es einen eigenen Award – vergeben vom Digital Media Institute (DMI) für die…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_dooh-creative-challenge-digital-media-institute-activity-6742058457756790785-eMRl",
+      "activity_status": null
+    },
+    {
+      "title": "Großartig! Die Außenwerbung macht mit der Einführung eines grünen Leistungswertes einen wichtigen Schritt in Richtung Klimaneutralität. Kampagnen…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_green-grp-activity-6780861529479757824-zBpe",
+      "activity_status": null
+    },
+    {
+      "title": "Werberat verteilt 2020 sechs Rügen wegen sexistischer Werbung. Gut, könnte man meinen. Nur wenige Fälle, die der Werberat 2020 rügen musste – bei…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-aussenwerbung-fachverbandaussenwerbung-activity-6752234251611082752-njy7",
+      "activity_status": null
+    },
+    {
+      "title": "In der Nachhaltigkeit liegt die Zukunft. Auch bei uns. Um unser Nachhaltigkeitsmanagement weiter auszubauen suchen wir zur StÃ¤rkung unseres Teams…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_experte-für-ströer-karriereseite-activity-6754790522138726400-zp6A",
+      "activity_status": null
+    },
+    {
+      "title": "Nachhaltigkeit OOH! Da haben sich unsere Kollegen von Outsite Media wirklich was tolles ausgedacht: Werbeplanen als Schadstoff-Filter! Dank des…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-ooh-riesenposter-activity-6763018867137617921-IcNv",
+      "activity_status": null
+    },
+    {
+      "title": "Heute, am 22. April, ist der World Earth Day. Ein Tag, der weltweit aus guten Grund begangen wird: Seit über 50 Jahren in fast 200 Ländern – und…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_timeforclimateaction-5minsfortheplanet-activity-6790963886947475456-03uF",
+      "activity_status": null
+    },
+    {
+      "title": "In unserem regelmäßigen Ströer Stadtgespräch, dem Urban Talk, spricht Christian von den Brincken mit Gästen über Themen, die Städte und uns in…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_urban-talk-resilienz-und-ethische-ki-wie-activity-6770614838050738177-Mf1w",
+      "activity_status": null
+    },
+    {
+      "title": "\"Forest Dream\" – eine beeindruckende Kunstinstallation in der Kölner U-Bahnstation \"Neumarkt\". Nicht nur, weil sie zu Zeiten geschlossener Museen die…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-aussenwerbung-nachhaltigkeit-activity-6777502485469769728-jTYJ",
+      "activity_status": null
+    },
+    {
+      "title": "Am Lernen auf Distanz scheitern zurzeit leider viele Kinder und Jugendliche. Die Gründe dafür sind ganz unterschiedlich – und egal welche es im…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_ströer-nachhaltig-dooh-activity-6765553397035761664-rb9E",
+      "activity_status": null
+    },
+    {
+      "title": "Wie schön, wenn Außenwerbung auch mal laut sein darf! Nein – es sogar soll! Und man auf fast 10qm visuell in die Stadt hinein schreit: \"Kai'ne rächte…",
+      "link": "https://www.linkedin.com/posts/alexander-stotz_wie-schön-wenn-außenwerbung-auch-mal-laut-activity-6760592304999829506-I99E",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-2b6320135",
+      "summary": "Company and Sales Strategy",
+      "location": "Constance"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-2b342a119",
+      "summary": "Senior Consultant - Customer Transformation | Automotive Digital | Salesforce CRM @ Capgemini Invent",
+      "location": "Stuttgart Region"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-9904ba29",
+      "summary": "Director SAP CoE at Tech Data",
+      "location": "Greater Munich Metropolitan Area"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-7611a2161",
+      "summary": "Technischer Sachbearbeiter Kundendienst bei JOST World",
+      "location": "Mannheim"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-10833966",
+      "summary": "Erneuerbare Energien / Energiewende",
+      "location": "Sarstedt"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-28488b270",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "name": "Alexander Stotz",
+      "link": "https://de.linkedin.com/in/alexander-stotz-1b7b594",
+      "summary": null,
+      "location": "Cologne Bonn Region"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-01-19T00:00:00Z"
+  }
+}

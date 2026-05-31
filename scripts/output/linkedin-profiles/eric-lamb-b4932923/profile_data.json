@@ -1,0 +1,850 @@
+{
+  "public_identifier": "eric-lamb-b4932923",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D4E16AQFjhhv3j-mSRQ/profile-displaybackgroundimage-shrink_200_800/B4EZwV2CaHJAAU-/0/1769893013458?e=2147483647&v=beta&t=OJ5tl0bMvyQcg5v2-uP0Sl6d8lFdh43dLJ10twi76YE",
+  "first_name": "Eric",
+  "last_name": "Lamb",
+  "full_name": "Eric Lamb",
+  "follower_count": 2393,
+  "occupation": "SVP, Enterprise Solutions at Vistar Media",
+  "headline": "SVP, Enterprise Solutions at Vistar Media",
+  "summary": null,
+  "location_str": "New York City Metropolitan Area",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "New York metropolitan area",
+  "state": "New York",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "SVP, Enterprise Solutions",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2021
+      },
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "VP, Publisher Solutions",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      },
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "Director, Publisher Solutions",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2017
+      },
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "Senior Product Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2017
+      },
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "Product Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "company": "Vistar Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vistar-media",
+      "company_facebook_profile_url": null,
+      "title": "Platform Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/66a24540c098b5bb40eb24caf551ceaa"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2014
+      },
+      "company": "Street Solutions Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/street-solutions-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Business Technology Analyst",
+      "description": "As part of new client deployment projects, interfaced with client business and technology teams to define requirements and implement customized business workflows.\n\nManaged development of new product features, including design, testing, and documentation within an  agile development framework.\n\nTrained new hires on system technology and firm processes.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6a28253f7e363a00154d07267eb390e4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "Free Library of Philadelphia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/free-library-of-philadelphia",
+      "company_facebook_profile_url": null,
+      "title": "Technology Education",
+      "description": "Designed and led robotics/programming workshops for students (4th to 12th grade) throughout the city of Philadelphia. \nLed computer training sessions for library employees.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7ef4e9605c45dfb3c71d246c12ba5328"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Systems Engineering",
+      "degree_name": "B.S.",
+      "school": "University of Pennsylvania",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-pennsylvania",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4a84619d171ecfe1e13e7ded36976abe",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2016
+      },
+      "title": "Mentor",
+      "cause": "Education",
+      "company": "iMentor",
+      "company_linkedin_profile_url": null,
+      "description": "I was matched with an NYC student whom I coached primarily for college readiness throughout their high school career. This included weekly correspondence and in-person meetings.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 2372,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/madhavsrinath",
+      "name": "Madhav Srinath",
+      "summary": "CEO at NexusLeap | Forbes Tech Council | Cloud Analytics & AI",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryanjcantor",
+      "name": "Ryan Cantor",
+      "summary": null,
+      "location": "Allen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/courtneymachi",
+      "name": "Courtney Machi",
+      "summary": "VP of Product at Andela",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajkintner",
+      "name": "AJ Kintner",
+      "summary": "Sales @ LG Ads Solutions.",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joelige",
+      "name": "Joe Ligé",
+      "summary": null,
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thejennycheng",
+      "name": "Jenny Cheng",
+      "summary": "VP/GM @Google | ex-@PayPal,@Salesforce,@InsideView",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/biaoma",
+      "name": "Leo Ma",
+      "summary": "Founder & CEO at RoboForce",
+      "location": "Sunnyvale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariapalviz",
+      "name": "Maria Alviz Radi",
+      "summary": "Senior Product Marketing Manager at Vistar Media",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattsteffenson",
+      "name": "Matt Steffenson",
+      "summary": null,
+      "location": "Sydney"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelprovenzano",
+      "name": "Michael Provenzano",
+      "summary": "CEO & Co-Founder at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericdetterman",
+      "name": "Eric Detterman",
+      "summary": "Machine Learning, AI, Software Engineering Leader",
+      "location": "Birmingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryangolub",
+      "name": "Ryan Golub, MS",
+      "summary": "Senior Analytics Associate at Vistar Media",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophermallison",
+      "name": "Chris Allison",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megmal06",
+      "name": "Meg Fireman",
+      "summary": null,
+      "location": "Allenwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aflugstadclarke",
+      "name": "Amanda Flugstad-Clarke",
+      "summary": "Sr. Director @ Vistar Media | Data",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edmulraine",
+      "name": "Edward Mulraine",
+      "summary": "CEO, E.A. Raine Publishing, Religious Leader, Author",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marklawler",
+      "name": "Mark Lawler",
+      "summary": "VP, Engineering",
+      "location": "Beaverton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisrasco",
+      "name": "Chris Rasco",
+      "summary": "VP, Enterprise Architecture @ TBD | CTO @ VINwiki | Advisor",
+      "location": "Atlanta metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasonwenji",
+      "name": "Wenji Pan",
+      "summary": "Manager, Inventory Technical Operations @ StackAdapt",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iqradada",
+      "name": "Iqra Dada",
+      "summary": "Senior Product Manager. Pronounced ick-rah.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephlige",
+      "name": "Joe Ligé",
+      "summary": "Strategic Business Development Leader | Driving Revenue Growth in AdTech, Data Partnerships & Programmatic Advertising | Proven Expertise in Sales Leadership & Market Expansion",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajlala",
+      "name": "Raj Lala",
+      "summary": "Vice President, US Sales and Development at Vistar Media",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marissabernstein",
+      "name": "Marissa (Bernstein) Andrade",
+      "summary": "VP of Global Marketing at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ravedivera",
+      "name": "Dave Rivera",
+      "summary": "Head of Channel Partnerships at Vistar Media",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jrocapito",
+      "name": "Jamie Capito",
+      "summary": "Chief of Staff at T-Mobile Advertising Solutions",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-fitzgerald-07257b113",
+      "name": "Matthew Fitzgerald",
+      "summary": "Director, Enterprise Solutions at Vistar Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gina-briggs",
+      "name": "Gina Briggs",
+      "summary": "Marketing Operations & Digital Strategy at Vistar Media",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-m-762291",
+      "name": "David M.",
+      "summary": "Driving growth and security as a Technology Consultant in Cloud, Data and AI technologies.",
+      "location": "Atlanta metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathanstegman",
+      "name": "Jonathan Stegman",
+      "summary": "Vice President, Client Success at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harsh",
+      "name": "Harsh Jawharkar",
+      "summary": null,
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-spande-6930021",
+      "name": "Peter Spande",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pjtanzillo",
+      "name": "P.J. Tanzillo",
+      "summary": "Chief Product Officer @ Chegg Inc.",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinod-birla-75b2934",
+      "name": "Vinod Birla",
+      "summary": "VP - Services at V2Force",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-fleischer-2494404",
+      "name": "Tom Fleischer",
+      "summary": "Ad-Tech Engineering Leader / Coffee Person",
+      "location": "Philadelphia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-calder-b964537",
+      "name": "Brad Calder",
+      "summary": null,
+      "location": "Mountain View"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bennett-nayer-0097718",
+      "name": "Bennett Nayer",
+      "summary": "Sales Director, East at Vistar Media | Babson MBA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/timantoian",
+      "name": "Tim Antoian",
+      "summary": "Performance and Affiliate Marketing Expert - Prescott Performance Strategies",
+      "location": "Philadelphia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-schwartz-b8464322",
+      "name": "Michael Schwartz",
+      "summary": "CEO at Cal Lab Solutions and Publisher at Cal Lab Magazine",
+      "location": "Aurora"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-markowitz-3990b523",
+      "name": "Lucy Markowitz",
+      "summary": "SVP & General Manager, Americas Marketplace at Vistar Media I Business Insider Rising Star of Adtech",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-collins-96225048",
+      "name": "Christian Collins",
+      "summary": "VP, Product Management at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/derek-mansen-7569a755",
+      "name": "Derek Mansen",
+      "summary": "Software Engineer at Vistar Media",
+      "location": "Howes Cave"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ciara-kennedy-6787ba58",
+      "name": "Ciara Kennedy",
+      "summary": "SVP, Product at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trevor-sheehan-80484261",
+      "name": "Trevor Sheehan",
+      "summary": "Director of Engineering at Vistar Media",
+      "location": "Phoenixville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/candice-mcdonald-18943375",
+      "name": "Candice McDonald",
+      "summary": "Sales Director at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allison-liebeskind",
+      "name": "Allison Liebeskind",
+      "summary": "VP, Client Success at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shai-noznisky",
+      "name": "Shai Noznisky",
+      "summary": "Technical Account Manager at Vistar Media",
+      "location": "Ithaca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/casey-black-491829110",
+      "name": "Casey Black",
+      "summary": null,
+      "location": "Baltimore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julia-schuster-057946129",
+      "name": "Julia Schuster",
+      "summary": "Senior Account Manager",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/billie-kolinsky-b8758b130",
+      "name": "Billie Kolinsky",
+      "summary": "Senior Recruiter at Vistar Media",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kenanakin",
+      "name": "Kenan Akin",
+      "summary": "Product Manager, Customer Platforms at PulsePoint",
+      "location": "New York"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Every time a woman steps into leadership, she paves the way for another to follow. Today, I want to recognize and celebrate the remarkable women who…",
+      "link": "https://www.linkedin.com/posts/tishsquillaro_internationalwomensday-womeninleadership-activity-7304135958910676994-fSWn",
+      "activity_status": null
+    },
+    {
+      "title": "Welcome to all the great folks from Blis and Vistar.  Excited about the potential for our combined teams!…",
+      "link": "https://www.linkedin.com/posts/mike-peralta1_tmobile-enhances-marketing-capabilities-activity-7303071181920698368-Z874",
+      "activity_status": null
+    },
+    {
+      "title": "With all of the amazing people I've had the privilege of rubbing elbows with over the years, Shoptalk has become something I look forward to every…",
+      "link": "https://www.linkedin.com/posts/seancheyney_retailmedia-shoptalk25-dooh-activity-7303454825923428352-IRvU",
+      "activity_status": null
+    },
+    {
+      "title": "Big things are happening at T-Mobile Advertising Solutions and #teammagenta! 🎉 Thrilled to welcome Blis and Vistar Media to the T-Ads family as we…",
+      "link": "https://www.linkedin.com/posts/ariella-astion_teammagenta-activity-7303167402777669634-We_W",
+      "activity_status": null
+    },
+    {
+      "title": "📢 T-Mobile has officially completed its acquisitions of Vistar Media and Blis Global! With these strategic additions, we’re taking T-Mobile…",
+      "link": "https://www.linkedin.com/posts/t-mobile_t-mobile-has-officially-completed-its-activity-7303055719434526721-LZEH",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to be partners with the first audience data company to be certified as a CarbonNeutral Enterprise. Congratulations Datonics!",
+      "link": "https://www.linkedin.com/posts/aflugstadclarke_proud-to-be-partners-with-the-first-audience-activity-7303102062974697477-FwB5",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting News: Blis to be Acquired by T-Mobile I’m incredibly proud to share that Blis will be joining forces with T-Mobile. This marks a major…",
+      "link": "https://www.linkedin.com/posts/gregorisbister_t-mobile-enhances-marketing-capabilities-activity-7303054665028370434-uu8U",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news out of T-Mobile towers as they continue to expand with a focus on location based advertising. Nice to be joined by our friends at Blis…",
+      "link": "https://www.linkedin.com/posts/karan-singh-8207a537_t-mobile-enhances-marketing-capabilities-activity-7303056583372992512-KH2R",
+      "activity_status": null
+    },
+    {
+      "title": "Another exciting milestone for T-Mobile Advertising Solutions With the acquisitions of Vistar Media and Blis  we’re enhancing our ability to run…",
+      "link": "https://www.linkedin.com/posts/jean-paul-colaco-6646a8_wewontstop-activity-7303055442887233537-wW1l",
+      "activity_status": null
+    },
+    {
+      "title": "We're thrilled to join the Path to Purchase Institute community! As a member, we're committed to their mission of advancing the commerce marketing…",
+      "link": "https://www.linkedin.com/posts/stingray-advertising_were-thrilled-to-join-the-path-to-purchase-activity-7297633909498892288-9pTN",
+      "activity_status": null
+    },
+    {
+      "title": "This is a kick-ass role for someone to come in and own our marketing efforts across our EMEA business…which happens to be on a massive growth…",
+      "link": "https://www.linkedin.com/posts/karan-singh-8207a537_vistar-media-director-of-marketing-emea-activity-7295062394429489152-TyP3",
+      "activity_status": null
+    },
+    {
+      "title": "📣  Attention Canadian Advertisers! 📣 Today, DOOH measurement is evolving... We’re excited to announce that our enhanced engagement reporting is…",
+      "link": "https://www.linkedin.com/posts/vertical-impression_attention-measurement-vertical-impression-activity-7300541379523317760-Kks8",
+      "activity_status": null
+    },
+    {
+      "title": "2025 is a milestone for Alight as we celebrate five years of growth and innovation! 🎉 From a small team of 22 with big ambitions to a thriving…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_2025-is-a-milestone-for-alight-as-we-celebrate-activity-7300559322722291712-zInH",
+      "activity_status": null
+    },
+    {
+      "title": "Rituals (B Corp™) leveraged Programmatic DOOH in all the right ways with Vistar Media! -Activated a multimarket campaign from one centralising…",
+      "link": "https://www.linkedin.com/posts/tomabarbour_rituals-b-corp-leveraged-programmatic-activity-7300122867248070656-v9k-",
+      "activity_status": null
+    },
+    {
+      "title": "Absolutely massive news for the EV space in Canada! ⚡ 👀 🇨🇦 JOLT's $194M partnership with the Canada Infrastructure Bank/ Banque de…",
+      "link": "https://www.linkedin.com/posts/brendandillon_evs-evcharging-sustainability-activity-7299961271112646657-sFiq",
+      "activity_status": null
+    },
+    {
+      "title": "Awesome news Jolt team !!! Doug McNamee Tom McNamee Michael Selden Emily Martin Brendan Dillon Gino Cettina Sam Hannaford",
+      "link": "https://www.linkedin.com/posts/luke-adams-7409192b_awesome-news-jolt-team-doug-mcnamee-tom-activity-7299947140926119936-1f0Z",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted to have the opportunity to step up and lead Route Research Ltd. at such an exciting time for the industry as we evolve our #ooh audience…",
+      "link": "https://www.linkedin.com/posts/iameuanmackay_euan-mackay-named-route-ceo-activity-7307687097950220288-J-LU",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 That’s one for the highlight reel! The 2025 AD Retail Media Team Gathering kicked off last week in beautiful Charlotte, North Carolina, bringing…",
+      "link": "https://www.linkedin.com/posts/margitkittridge_teamadrm-adretailmedia-retailmedia-activity-7301293816848728064-VOqc",
+      "activity_status": null
+    },
+    {
+      "title": "Due to some internal shifts with our recent growth here at Vistar Media, we have a very exciting role now available to lead Marketplace Ops in APAC…",
+      "link": "https://www.linkedin.com/posts/mattsteffenson_senior-manager-supply-operations-activity-7307184209863852032-JJZx",
+      "activity_status": null
+    },
+    {
+      "title": "No, I'm not going to Shoptalk. Thanks for asking. But Costco retail media did just wrap our first onsite video campaign, and  people in the know…",
+      "link": "https://www.linkedin.com/posts/no-im-not-going-to-shoptalk-thanks-for-activity-7306066511108919296-_dBI",
+      "activity_status": null
+    },
+    {
+      "title": "Aussie brands going global? We love to see it! LSKD’s latest campaign has landed in New York, Los Angeles and Chicago, seamlessly activated through…",
+      "link": "https://www.linkedin.com/posts/vistar-media_aussie-brands-going-global-we-love-to-see-activity-7306079142762983424-Bl8M",
+      "activity_status": null
+    },
+    {
+      "title": "Grazie a Brand News  per la pubblicazione e l’attenzione dedicata alla partnership tra Pikasso Italia e Vistar Media . Siamo orgogliosi di…",
+      "link": "https://it.linkedin.com/posts/francesca-vincenti-3030336a_pdooh-activity-7426542996990406657-DUKt",
+      "activity_status": null
+    },
+    {
+      "title": "Two days. One ANZ team. All together in the same place. ⚡ Our ANZ team came together for a 2-day offsite to step back from the day-to-day, align on…",
+      "link": "https://www.linkedin.com/posts/jolt-charge_two-days-one-anz-team-all-together-in-the-activity-7426369238426083328-Xp2-",
+      "activity_status": null
+    },
+    {
+      "title": "Gaps in coverage don’t just slow response—they put lives at risk. Over 500,000 square miles of the U.S. still fall outside traditional networks…",
+      "link": "https://www.linkedin.com/posts/tpriority_beyond-the-grid-your-coverage-shouldnt-activity-7424501715774722049-O-DW",
+      "activity_status": null
+    },
+    {
+      "title": "Julia J. began her career in planning and programmatic development at an early-stage DOOH startup, helping the company grow to the point of going…",
+      "link": "https://www.linkedin.com/posts/vision-media-us_agencylife-mediabuying-bestclients-activity-7425576554082213888-_T5i",
+      "activity_status": null
+    },
+    {
+      "title": "Great to present at Web Summit Qatar with Kristaps Ronis on VC secondaries and how we can creatively address liquidity needs for all stakeholders in…",
+      "link": "https://www.linkedin.com/posts/jonathan-chia-5833b019_great-to-present-at-web-summit-qatar-with-activity-7424446072388923393-_Mg6",
+      "activity_status": null
+    },
+    {
+      "title": "What better way to kick off a year of fantastic partnerships than with world-class food and wine? 🍷 Last week, our France Country Manager, Maxime…",
+      "link": "https://www.linkedin.com/posts/vistar-media_what-better-way-to-kick-off-a-year-of-fantastic-activity-7424388404223709185-z_Bj",
+      "activity_status": null
+    },
+    {
+      "title": "We’re excited to welcome Oliver Goodge to Vistar Media as our new Enterprise Sales Director, EMEA 🎉 With over a decade of experience across the…",
+      "link": "https://www.linkedin.com/posts/vistar-media_vistar-media-appoints-oliver-goodge-as-enterprise-activity-7424013762895978496-Mzwv",
+      "activity_status": null
+    },
+    {
+      "title": "Vistar Media appoints Oliver Goodge as Enterprise Sales Director, EMEA https://lnkd.in/ep86kBRv Vistar Media Eric Lamb #DOOH #Technology #MarCommNews",
+      "link": "https://www.linkedin.com/posts/marcomm-news_vistar-media-appoints-oliver-goodge-as-enterprise-activity-7424015019161546752-n_g2",
+      "activity_status": null
+    },
+    {
+      "title": "A nice surprise in my inbox this week from Gordon Young. Honored to be named to The Drum’s Commerce Media Power 100 alongside so many people helping…",
+      "link": "https://www.linkedin.com/posts/marlow-nickell_a-nice-surprise-in-my-inbox-this-week-from-activity-7423011770111279104-RgGV",
+      "activity_status": null
+    },
+    {
+      "title": "Feeling very Magenta after attending the T-Mobile Growth & Emerging Business leadership offsite in Bellevue last week. 🇺🇸💫 With Vistar Media…",
+      "link": "https://www.linkedin.com/posts/karan-singh-8207a537_feeling-very-magenta-after-attending-the-activity-7421494905144782849-dvDn",
+      "activity_status": null
+    },
+    {
+      "title": "January has been a whirlwind of activity, travel and incredible meetings. We kicked things off in Las Vegas at CES, where I had the opportunity to…",
+      "link": "https://www.linkedin.com/posts/john-ortman_january-has-been-a-whirlwind-of-activity-activity-7420981693479550976-B05z",
+      "activity_status": null
+    },
+    {
+      "title": "Fun and productive few days with the T-Mobile SQUAD here at HQ!  Closing out 2025 and into the 2026 #magenta tunnel! Michael Provenzano Janet…",
+      "link": "https://www.linkedin.com/posts/cherian-thomas-9099aa10b_magenta-activity-7420470518731943936-GtkS",
+      "activity_status": null
+    },
+    {
+      "title": "Three Years at GSTV — A Quick Reflection January 17th marks three years since I joined GSTV. I don’t post often, but this felt like a good moment to…",
+      "link": "https://www.linkedin.com/posts/billbink_three-years-at-gstv-a-quick-reflection-activity-7417935999403573248-Sz9N",
+      "activity_status": null
+    },
+    {
+      "title": "I’m officially swapping out 💳 wallets for 🎧 headphones by joining Ad Results Media! Digital audio is scaling fast and I’m energized to help…",
+      "link": "https://www.linkedin.com/posts/marc-david-kelley_im-officially-swapping-out-wallets-for-activity-7407432708043460608-UQ2W",
+      "activity_status": null
+    },
+    {
+      "title": "Come be an integral part of one of the leading programmatic OOH teams in the business! I'm hiring a Channel Develpment Manager who is a commercially…",
+      "link": "https://www.linkedin.com/posts/neilbshapiro_programmatic-channel-development-manager-activity-7417300665737093120-7k5s",
+      "activity_status": null
+    },
+    {
+      "title": "Your store is not Amazon.com! In-store retail media will scale much faster if we stop thinking it needs to match online retail media. To build a…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_your-store-is-not-amazoncom-in-store-retail-activity-7448029147903397888-pno0",
+      "activity_status": null
+    },
+    {
+      "title": "To grow OOH, we need to get the tech right. Clear Channel Outdoor has known this for years, so we're thrilled to move the industry forward with them.…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_to-grow-ooh-we-need-to-get-the-tech-right-activity-7376251193901346816-Utmr",
+      "activity_status": null
+    },
+    {
+      "title": "If I had $1 for every time I saw an insane revenue model for a DOOH network, I'd probably have around $30. In this piece Sean Cheyney distills how to…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_if-i-had-1-for-every-time-i-saw-an-insane-activity-7353069743035092993-Vxoo",
+      "activity_status": null
+    },
+    {
+      "title": "Retailers have a huge opportunity to create media value in their stores, but internal roadblocks are slowing them down. As always, my colleague Sean…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_retail-media-vs-merchant-teams-the-evolving-activity-7317975228352008192-Ly7r",
+      "activity_status": null
+    },
+    {
+      "title": "Partnering with NextGrad is awesome because they do meaningful work, returning real 💰value💰 in the form of scholarships to the schools they work…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_partnering-with-nextgrad-is-awesome-because-activity-7294742012908421121-2y9Z",
+      "activity_status": null
+    },
+    {
+      "title": "Sean Cheyney does a great job distilling why in-store retail media is about to boom, and why being intentional matters so much. It's not about…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_lets-say-it-2025-will-be-the-year-of-in-store-activity-7290790096939732992-dQEs",
+      "activity_status": null
+    },
+    {
+      "title": "Starlite Media is doing great work in the DOOH and retail media space. We're excited to take our partnership to the next level! Big thanks to Oscar…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_starlite-media-selects-vistar-media-to-power-activity-7183831655067922432-XMZa",
+      "activity_status": null
+    },
+    {
+      "title": "Lamar has been an incredible partner for many years, and a leader in the industry for much longer. It's great to take this step with them, and a big…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_vistar-media-to-power-lamar-advertisings-activity-7188905945056387072-f9EV",
+      "activity_status": null
+    },
+    {
+      "title": "Headed to Vegas for Shoptalk? Let's meet up! Check out the details and see who else is going: https://lnkd.in/eD_KBr7p and https://hubs.la/Q02n5DQ-0.…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_shoptalk-2024-activity-7171243071475560448-1wSc",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to release Vistar Verify! We want to give buyers confidence as they take the plunge into pDOOH, and reward our publisher partners who have…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_excited-to-release-vistar-verify-we-want-activity-7070041182914895872-emgl",
+      "activity_status": null
+    },
+    {
+      "title": "Super proud of our team on this one! @GSTV has partnered with @vistarmedia to transition its ad serving system to Vistarâs technology. Vistar's ad…",
+      "link": "https://www.linkedin.com/posts/eric-lamb-b4932923_sagearcher-joins-vistar-media-to-accelerate-activity-6930593147798364160-NHmW",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-bbbbb011",
+      "summary": "Eric H. Lamb, LCSW, LLC",
+      "location": "Fort Walton Beach, FL"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-02a29664",
+      "summary": "IT TECH at Leslie Equipment Company",
+      "location": "Cowen, WV"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-68811414",
+      "summary": "Executive Director at Ben Hair Just Swim For Life Foundation",
+      "location": "Greater Charlottesville Area"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-084916",
+      "summary": "Board Member of DPR Construction and WND Ventures",
+      "location": "Redwood City, CA"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-9bb15810",
+      "summary": "Senior National Operations Manager at Siemens",
+      "location": "West Chester, PA"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eclamb",
+      "summary": "Creative Director & Strategic Creative Leader",
+      "location": "Los Angeles Metropolitan Area"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-65221013",
+      "summary": null,
+      "location": "Raleigh-Durham-Chapel Hill Area"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/ericrosslamb",
+      "summary": null,
+      "location": "St. Petersburg, FL"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-3b8a10147",
+      "summary": "Executive Vice President",
+      "location": "Youngstown-Warren area"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/ericlamb26",
+      "summary": "Director of Post Production Operations | Media Management, Post-Production Dubbing & Editorial",
+      "location": "Santa Clarita, CA"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-1a63b710",
+      "summary": "Partner at Frost Brown Todd focusing on Trademarks and Branding",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "name": "Eric Lamb",
+      "link": "https://www.linkedin.com/in/eric-lamb-3486b344",
+      "summary": "Attorney at Lamb and Lamb, PSC.",
+      "location": "Louisville, KY"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-30T00:00:00Z"
+  }
+}

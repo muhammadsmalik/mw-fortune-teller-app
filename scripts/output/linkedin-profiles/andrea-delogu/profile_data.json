@@ -1,0 +1,446 @@
+{
+  "public_identifier": "andrea-delogu",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/8b2b2104a367d47d8f67f83cbaccec89",
+  "background_cover_image_url": null,
+  "first_name": "Andrea",
+  "last_name": "Delogu",
+  "full_name": "Andrea Delogu",
+  "follower_count": 1899,
+  "occupation": "Head of Corporate Sales & Solutions at First Avenue",
+  "headline": "Head of Corporate Sales & Solutions",
+  "summary": null,
+  "location_str": "Bolzano, Trentino-Alto Adige, Italia",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Bolzano",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2008
+      },
+      "ends_at": null,
+      "company": "First Avenue",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/first-avenue-srl",
+      "company_facebook_profile_url": null,
+      "title": "Head of Corporate Sales & Solutions",
+      "description": "-\tAffissioni retroilluminate (oltre 1000 Citylight Poster) e affissioni (City Poster) su spazi di medio e grande formato -> vedi www.map.firstavenue.it), \n-\tPubblicità digitale su bus extra urbani e treni in Alto Adige \n-\tCircuito Cinema in Alto Adige (tot. 16 sale/2.799 posti sedere): -> vedi cine.firstavenue.it\n-\tTippthek: tramite il sistema d‘informazione digitale raggiungere gli OSPITI e gli ALBERGATORI in Alto Adige -> vedi http://www.tippthek.com \n-\tBest Offer App in Alto Adige (vedi www.cippy.it) \n-\tPortale Cultura Alto Adige -> vedi www.cultura.bz.it + Portale Cultura Trentino -> vedi www.cultura.tn.it \n-\tSentres, il #1 portale outdoor dell’Alto Adige -> vedi www.sentres.com \n-\tUlteriori portali www.restaurants.st, www.shopping.st, www.ilmioartigiano.lvh.it, www.suedtirol.live",
+      "location": "Bozen-Bolzano",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ad5b3e7e89a651feb4c0c30f909b5295"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2008
+      },
+      "company": "EGOS! The Education Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Geschäftsführer Filiale Bozen/Bildungsberater",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Rechnungsanalytiker",
+      "school": "Handelsschule Brixen",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Italiano",
+    "Inglese",
+    "Tedesco"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Italiano",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Inglese",
+      "proficiency": "LIMITED_WORKING"
+    },
+    {
+      "name": "Tedesco",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Junior Project Manager",
+      "license_number": null,
+      "display_source": null,
+      "authority": "IPMA: International Project Management Association",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/waldemar-kerschbaumer",
+      "name": "Waldemar Kerschbaumer",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nikita-guidotti",
+      "name": "Nikita Guidotti",
+      "summary": "Freelance translation & copywriting",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samantha-rizzo-410063234",
+      "name": "Samantha Rizzo",
+      "summary": "Consulting green energy",
+      "location": "Egna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-wolf-617718253",
+      "name": "Barbara Wolf",
+      "summary": "Sustainable Business & Innovation student working in Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastiano-farci-186bb9135",
+      "name": "Sebastiano Farci",
+      "summary": "Étudiant(e) (Università degli Studi di Torino)",
+      "location": "Turin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jana-brodowski-baa28b223",
+      "name": "Jana Brodowski",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonhard-resch-34930320",
+      "name": "Leonhard Resch",
+      "summary": "Referatsleitung bei Arche im KVW",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorella-ridenti-77b99b21",
+      "name": "Lorella Ridenti",
+      "summary": "Direttore presso La Mia Casa",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ingo-perkmann-8a948228",
+      "name": "Ingo Perkmann",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/domenique-hopfgartner-6893574a",
+      "name": "Domenique Hopfgartner",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/serena-de-lorenzis-21900350",
+      "name": "Serena De Lorenzis",
+      "summary": "Ballerina - Hostess - Insegnante",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-matera-3a343863",
+      "name": "Barbara Matera",
+      "summary": "amministratore &srl",
+      "location": "Verona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-nagler-b2443a83",
+      "name": "Simon Nagler",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-schwingshackl-181611a2",
+      "name": "Patrick Schwingshackl",
+      "summary": "Wellness Consulting Hofergroup Company",
+      "location": "Ortisei"
+    },
+    {
+      "link": "https://www.linkedin.com/in/armin-goegele",
+      "name": "Armin Gögele",
+      "summary": "Head of Customer Success Management",
+      "location": "Lana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonja-zingerle-a79220b6",
+      "name": "Sonja Zingerle",
+      "summary": "CMO ZINGERLE GROUP",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/h%25C3%25B6lzl-michael-5b8aab101",
+      "name": "Hölzl Michael",
+      "summary": "CEO bei First Avenue GmbH",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/torsten-daniel",
+      "name": "Torsten Daniel",
+      "summary": null,
+      "location": "Quartu Sant’Elena"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-heyer-3581b7106",
+      "name": "Andreas Heyer",
+      "summary": "Senior Sales Manager by First Avenue",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bettina-a-4767b9113",
+      "name": "Bettina A.",
+      "summary": "CEM bei First Avenue - OOH & Digital Media",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lina-jill-roberz-32bb71121",
+      "name": "Lina Jill Roberz",
+      "summary": "Verkaufsinnendienst bei Südtirol Druck",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mattia-santoro-b51213128",
+      "name": "Mattia Santoro",
+      "summary": null,
+      "location": "Laives"
+    },
+    {
+      "link": "https://www.linkedin.com/in/othmar-luciano-1617b0129",
+      "name": "Othmar Luciano",
+      "summary": "Digital Project Specialist bei First Avenue Srl",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matteopighi",
+      "name": "Matteo Pighi",
+      "summary": "Operations Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-delueg-643349169",
+      "name": "Simon Delueg",
+      "summary": "moving more than just pixels.",
+      "location": "Bressanone"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannes-mussak-4946b6183",
+      "name": "Hannes Mussak",
+      "summary": null,
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-scrocca-5b7a95183",
+      "name": "Patrick Scrocca",
+      "summary": "Senior Direct Sales presso Italiaonline",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/deborah-hofer-23390a1b5",
+      "name": "Deborah Hofer",
+      "summary": "Team Lead Sales Operations Digital & Project Manager | First Avenue GmbH",
+      "location": "Bolzano"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannes-vieider-4b193b224",
+      "name": "Hannes Vieider",
+      "summary": "FUBAS Product- und Projektmanagement",
+      "location": "Bolzano"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Kinopremiere/anteprima \"Michael\" - Danke an alle Kunden - grazie a tutti i clienti! Vuoi prenotare la tua pubblicità al cinema? Contattami! Möchtest…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_kinopremiereanteprima-michael-danke-activity-7453106044131790848-qrer",
+      "activity_status": null
+    },
+    {
+      "title": "First20: Gli hotel 3 stelle più amati in Alto Adige 2026 Südtirols beliebteste 3-Sterne-Hotels 2026 Vota il tuo hotel 3 stelle preferito e aiutaci a…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_gli-hotel-3-stelle-più-amati-in-alto-adige-activity-7445142266840608768-s8ZM",
+      "activity_status": null
+    },
+    {
+      "title": "Un sorriso riduce l'attesa alla fermata dell'autobus ... nuova campagna sulle nostre fermate degli autobus #respect #kindness #insieme #zivilcourage",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_respect-kindness-insieme-activity-7327961868109553664-o2l_",
+      "activity_status": null
+    },
+    {
+      "title": "Se sei in viaggio per le strade dell'Alto Adige, c'è una cosa a cui non puoi sfuggire - i nostri Citylight Posters. Il mezzo pubblicitario perfetto…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_citylights-poster-altoadige-activity-7305516082788720640-rJrQ",
+      "activity_status": null
+    },
+    {
+      "title": "ogni tanto basta poco per aiutare il prossimo ;-)",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_ogni-tanto-basta-poco-per-aiutare-il-prossimo-activity-7226104396223258624-lV9S",
+      "activity_status": null
+    },
+    {
+      "title": "Sales Manager [m/w/d] für deutschsprachige Kunden gesucht! 🌟 Werde Teil unseres erfolgreichen Teams bei First Avenue und gestalte die Werbewelt von…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_sales-manager-mwd-für-deutschsprachige-activity-7265678650086191104-Xgdk",
+      "activity_status": null
+    },
+    {
+      "title": "welcome a woo2024 Hong Kong ;-)",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_welcome-a-woo2024-hong-kong-activity-7204430445638254592-sizB",
+      "activity_status": null
+    },
+    {
+      "title": "schon gelesen?",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_von-plakat-zu-pixel-smart-ads-bringen-au%C3%9Fenwerbung-activity-7162102181221900288-IO8y",
+      "activity_status": null
+    },
+    {
+      "title": "auch meinerseits danke an alle und freue mich auf ein spannendes neues Jahr, Frohe Festtage ... anche da parte mia un grazie a tutti! anche per il…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_auch-meinerseits-danke-an-alle-und-freue-activity-7143209741056425985-xH1K",
+      "activity_status": null
+    },
+    {
+      "title": "Cerchi una nuova sfida? Vuoi entrare nel nostro sales team? Candidati ora! Du suchst eine neue Herausforderung? MÃ¶chtest du Teil unseres Sales Teams…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_cerchi-una-nuova-sfida-vuoi-entrare-nel-activity-7128688968895721473-4QUy",
+      "activity_status": null
+    },
+    {
+      "title": "Grandissima serata e bellissimo film, grazie a tutti per aver partecipato ... WunderschÃ¶ner Abend und toller Film, danke an allen fÃ¼r die Teilnahme…",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_napoleon-kinopremiere-by-first-avenue-im-activity-7134117015304167425-WSGf",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_innovation-fooh-advertising-activity-7120038007960674304-Dukr",
+      "activity_status": null
+    },
+    {
+      "title": "grande insegnamento!",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_grande-insegnamento-activity-7076551821766324225-Sx2q",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_wir-gratulieren-andrea-delogu-unserem-activity-7069353831104442368--yD4",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_outdoor-outdoor-sentres-activity-6778957790384840704-cP-K",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_job-museion-communicationofficer-activity-6798321368850071552-z4p8",
+      "activity_status": null
+    },
+    {
+      "title": "Forte ...",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_forte-activity-6534881310375190528-BWT8",
+      "activity_status": null
+    },
+    {
+      "title": "Back to the future is coming",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_back-to-the-future-is-coming-activity-6479815999410442240-yXrF",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/andrea-delogu_keep-hope-activity-6339247994935799808-xjb-",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-a5a12333",
+      "summary": "Live and Social Entertainer",
+      "location": "Italy"
+    },
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-50b40627",
+      "summary": "Vice Direttore Generale e Coordinamento Informazione",
+      "location": "Milan"
+    },
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-andrealestate",
+      "summary": "Real Estate, Marketing, Comunication",
+      "location": "Greater Sassari Metropolitan Area"
+    },
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-512823111",
+      "summary": "Deputy Project Manager presso Techbau S.p.A.",
+      "location": "Castelletto sopra Ticino"
+    },
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-0baa68217",
+      "summary": "Agente assicurativo presso G & D ITALIA SAS",
+      "location": "Arluno"
+    },
+    {
+      "name": "Andrea Delogu",
+      "link": "https://it.linkedin.com/in/andrea-delogu-0914611ab",
+      "summary": "Customer Experience - Coach & Trainer - DEKRA Italia",
+      "location": "Italy"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Recruiting war noch nie so einfach: So hilft dir (Digital) Out of Home dabei",
+      "link": "https://de.linkedin.com/pulse/recruiting-war-noch-nie-so-einfach-hilft-dir-digital-out-delogu",
+      "published_date": {
+        "day": 3,
+        "month": 5,
+        "year": 2023
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-02T00:00:00Z"
+  }
+}

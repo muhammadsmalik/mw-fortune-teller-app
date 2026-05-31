@@ -1,0 +1,545 @@
+{
+  "public_identifier": "patrick-molleman-58062b2",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Patrick",
+  "last_name": "Molleman",
+  "full_name": "Patrick Molleman",
+  "follower_count": 2269,
+  "occupation": "Managing Director at Global Nederland",
+  "headline": "Managing Director Global Nederland",
+  "summary": null,
+  "location_str": "Amsterdam, North Holland, Netherlands",
+  "country": "NL",
+  "country_full_name": "Netherlands",
+  "city": "Amsterdam",
+  "state": "North Holland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Global Nederland",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/globalnetherlands/",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Amsterdam, North Holland, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2025
+      },
+      "company": "Omnicom Media Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/omnicom-media-group_2/",
+      "company_facebook_profile_url": null,
+      "title": "CEO",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Platvorm Media Adviesbureaus",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Board Member PMA",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "Effie Worldwide",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/effie-worldwide-inc/",
+      "company_facebook_profile_url": null,
+      "title": "Jury Member EFFIE",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "PHD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/phd-/",
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Amsterdam Area, Netherlands",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "PHD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/phd-/",
+      "company_facebook_profile_url": null,
+      "title": "Director of Client Services",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2008
+      },
+      "company": "OMD Netherlands",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/omd-netherlands/",
+      "company_facebook_profile_url": null,
+      "title": "Media Strategy Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Talpa Radio",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talpa-radio/",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Universal Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mediabrands-sweden/",
+      "company_facebook_profile_url": null,
+      "title": "Media Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "company": "Sport 7",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "company": "Ster",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ster/",
+      "company_facebook_profile_url": null,
+      "title": "Account Manager",
+      "description": null,
+      "location": "Hilversum",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "company": "Ster",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ster/",
+      "company_facebook_profile_url": null,
+      "title": "Sales Planning",
+      "description": null,
+      "location": "Hilversum",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "HAVO",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "MBO",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "NIMA A",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "NIMA B",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/fionahoogmoed",
+      "name": "Fiona Hoogmoed",
+      "summary": "Creatief ondernemer en oprichter van Atelier In de Hoge Hoed |  Enthousiast, ontspannen én inspirerend",
+      "location": "Zaandam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brendadekkers",
+      "name": "Brenda Dekkers",
+      "summary": "Concept, copy, content, circulair",
+      "location": "Rotterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/estherovermars",
+      "name": "Esther Overmars",
+      "summary": "Here |  Director of Strategy | Merkstrateeg  | Author & board member at SWOCC | Effie Jury social impact",
+      "location": "Baarn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrevdmeer",
+      "name": "André van der Meer",
+      "summary": "Managing Partner at Campagne",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/majaseggerman",
+      "name": "Maja Seggerman🔆",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dax-stuijfzand",
+      "name": "Dax Stuijfzand",
+      "summary": "Double Bsc Economics & Business Economics and Economics of Taxation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roelkuik",
+      "name": "Roel Kuik",
+      "summary": "Digital Experience Strategist | Kentico Marketing MVP | Digital Experience MVP",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thijsmuller",
+      "name": "Mathijs (Thijs) Muller",
+      "summary": "CEO Havas Media",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeroenvandruenen",
+      "name": "Jeroen van Druenen",
+      "summary": "@Jubels - Smart printing, since 1902",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wouterglaser",
+      "name": "Wouter Glaser",
+      "summary": "Co-founder as a service voor ondernemers met een topsportmentaliteit | Founder Glasnost | Serial entrepreneur |",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastiaanmoesman",
+      "name": "Sebastiaan Moesman",
+      "summary": "CSO  @Azerion",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peterhoekstra",
+      "name": "Peter H.",
+      "summary": "Startup- en scaleup coach @ ZWINC | Financial Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annekeschogt",
+      "name": "Anneke Schogt",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dennisvanderlubbe",
+      "name": "Dennis van der Lubbe",
+      "summary": "Marketing Director | Managing Director | Ex: Google, Diageo, Praxis, Warner Brothers, Bacardi | Interim | Vast | B2C | B2B | FMCG | Retail | Entertainment | e-Commerce |",
+      "location": "The Hague"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bart-jeroen-pots-1876b06",
+      "name": "Bart-Jeroen Pots",
+      "summary": "Managing Partner at Brandwise Field Marketing Group B.V.",
+      "location": "Randstad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allard-ruyl-3184357",
+      "name": "Allard Ruyl",
+      "summary": null,
+      "location": "Amstelveen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/l%25C3%25A9onie-koning-724b167",
+      "name": "Léonie Koning",
+      "summary": "Global Commercial Director DVJ Insights | SER Topvrouwen | Supervisory Board",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/martijnpots",
+      "name": "Martijn Pots",
+      "summary": "Client Services & Brand Marketing Leader. Helping agencies and brands scale teams and client operations",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/julius-minnaar-6b536a9",
+      "name": "Julius Minnaar",
+      "summary": "Algemeen directeur WILDLANDS Adventure Zoo Emmen en bestuurder ATLAS Theater | Voorzitter Nederlandse Vereniging van Dierentuinen",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jim-lemmer-88597544",
+      "name": "Jim Lemmer",
+      "summary": null,
+      "location": "Amsterdam"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Abri Safari: van theorie naar Out of Home media in de praktijk! 👉 CE next niveau 2 studenten van de challenge 'Crossmediale campagne strateeg' aan…",
+      "link": "https://nl.linkedin.com/posts/leoniegooijer_hva-commercieleeconomie-cenext-activity-7435432564397543424-Po99",
+      "activity_status": null
+    },
+    {
+      "title": "Na maanden van voorbereiding kwam de afgelopen week alles samen. Het bezoek van onze minister-president en Hunne Majesteiten Koning Willem-Alexander…",
+      "link": "https://nl.linkedin.com/posts/estherspierdijk_na-maanden-van-voorbereiding-kwam-de-afgelopen-activity-7427465183117152256-lZ6z",
+      "activity_status": null
+    },
+    {
+      "title": "Onze OOH director Groesz, Roos in gesprek met Vistar Media over klant Spadel: \"Programmatic Guaranteed bood ons verschillende belangrijke voordelen…",
+      "link": "https://nl.linkedin.com/posts/omnicom-media-nederland_a-refreshing-approach-how-spa-reine-used-activity-7424379364256948224-UWgt",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible, remarkable moment for Omnicom Media Nederland 🎉 Last week, we had our first physical joint All Staff as Omnicom Media! It was a…",
+      "link": "https://www.linkedin.com/posts/saskiawagenmakers_omnicommedia-leadership-culture-activity-7424361511445229568-7mBR",
+      "activity_status": null
+    },
+    {
+      "title": "Super initiatief om jonge mensen een betaalbare optie te bieden.",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_super-initiatief-om-jonge-mensen-een-betaalbare-activity-7335391830265495552-NroM",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/g8vqZBKy",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_patrick-molleman-wordt-managing-director-activity-7294792728301711362-0Lug",
+      "activity_status": null
+    },
+    {
+      "title": "The word is out...",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_the-word-is-out-activity-7294758035468546050-YQz9",
+      "activity_status": null
+    },
+    {
+      "title": "Yes, zin in!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_onno-seelen-chief-commercial-officer-omnicom-activity-7205863753450467328-f1Fx",
+      "activity_status": null
+    },
+    {
+      "title": "Let's rock 'n roll!!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_marijke-wiersma-managing-director-annalect-activity-7191728598217560064-U4VQ",
+      "activity_status": null
+    },
+    {
+      "title": "Yes! we're on 🔥",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_omnicom-media-group-wint-lor%C3%A9al-mediapitch-activity-7193223800652464128-v7cJ",
+      "activity_status": null
+    },
+    {
+      "title": "Ryan Saheblal is op zoek naar medewerkers (#hiring). Kent u iemand die misschien geïnteresseerd is?",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_hiring-activity-7170371733449871360-HyuS",
+      "activity_status": null
+    },
+    {
+      "title": "Super strak verhaal van Bart Manders van OMG TransAct",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_retailmedia-hype-of-trenddrie-obstakels-activity-7171514938379722752-dQHr",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s Rock ‘n Roll🔥",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_omnicom-media-group-nederland-begint-hume-activity-7156297770574692355-8sf6",
+      "activity_status": null
+    },
+    {
+      "title": "Welkom aan boord Frank, we gaan rocken 🔥!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_frank-bitter-managing-director-phd-nederland-activity-7151172587467788288-kGFC",
+      "activity_status": null
+    },
+    {
+      "title": "Pioneering news!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_wsj-news-exclusive-omnicom-group-to-debut-activity-7076559882761465856-QA-H",
+      "activity_status": null
+    },
+    {
+      "title": "And here's another piece of innovative partnership announced @ Cannes 2023",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_uber-partners-with-omnicom-media-group-to-activity-7076923500132716544-8x1y",
+      "activity_status": null
+    },
+    {
+      "title": "Ik zou er maar bij zijn!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_wauw-omd-3-x-effie-waarvan-1x-goud-trots-activity-6331409245686288385-Jx5-",
+      "activity_status": null
+    },
+    {
+      "title": "Ryan Saheblal is op zoek naar medewerkers (#hiring). Kent u iemand die misschien geÃ¯nteresseerd is?",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_hiring-activity-7046894194971291648-2xIn",
+      "activity_status": null
+    },
+    {
+      "title": "Super leuke vacature!!",
+      "link": "https://www.linkedin.com/posts/patrick-molleman-58062b2_hr-co%C3%B6rdinator-omnicom-media-group-activity-7047123838345654273-8xML",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:51:30Z"
+  }
+}

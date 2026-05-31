@@ -1,0 +1,942 @@
+{
+  "public_identifier": "amannanda",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D5616AQEFncSBi82gaw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732699160779?e=2147483647&v=beta&t=RHIsvNQY4OyMhsHvwr7ij6xvxZ2oc6_5_InGDv5tH3M",
+  "first_name": "Aman",
+  "last_name": "Nanda",
+  "full_name": "Aman Nanda",
+  "follower_count": 4078,
+  "occupation": "Chief Strategy Officer (CSO), Chief Human Resources Officer (CHRO) and Head Marketing at Times Innovative Media Limited - (The Times Group)",
+  "headline": null,
+  "summary": "I build and transform media businesses at scale.<br><br>Over 28 years, I have progressed…",
+  "location_str": "South Delhi, Delhi, India",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "South Delhi",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      },
+      "ends_at": null,
+      "company": "Times Innovative Media Limited - (The Times Group)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Strategy Officer (CSO), Chief Human Resources Officer (CHRO) and Head Marketing",
+      "description": "In my current role as, Chief Strategy Officer, Head of HR and Marketing and Business Head Mauritius, I am leading the company’s international operations, setting-up new lines of business, driving growth and efficiencies of core brands for the Times Group. As Head of HR, focused on developing competencies and talent for future. In addition, has set-up new lines of businesses, established new markets, created new products and helped increase the market share for some of the flagship brands of Group.",
+      "location": "Delhi, India",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2023
+      },
+      "company": "FICCI Skills Development",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Member Board of Directors",
+      "description": "Advise and guide the set-up of skills committee for media sector in India",
+      "location": "New Delhi Area, India",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2008
+      },
+      "company": "Mirchi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/radio-mirchi",
+      "company_facebook_profile_url": null,
+      "title": "Executive Vice President Strategy",
+      "description": "Head corporate strategy, policy development, innovations and new initiatives for ENIL and its Group companies - radio, OOH, events, movies and activations.",
+      "location": "Delhi, India",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a074559d63ee9213883c9faf73e87888"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2006
+      },
+      "company": "Bennett Coleman & Company Limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Dy Chief Manager - Corporate",
+      "description": "Currently working in the corporate planning and strategy department of Bennett Coleman & Company Ltd - Times Group, a leading Media and Entertainment company of India. \n\nWorking with Vice Chairman & Managing Director, responsible for strategizing, planning and implementing new initiatives across various divisions of Times Group. In this capacity, I am responsible for increasing pan India presence of the English Newspapers (Times of India and Economic Times)and developing future revenue growth plans for Radio Mirchi (FM Radio Channel). Also developed long term vision and strategy for the internet businesses  timesjob.com & timesmatri.com.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2003
+      },
+      "company": "IBM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm",
+      "company_facebook_profile_url": null,
+      "title": "Consultant",
+      "description": "Worked for five years in the business consultancy group of IBM Global Services which is the worlds largest consulting services organization.\n\nAs a business consultant, responsibilities included project management and executing consulting assignments in the area of Business Transformations, Process Redesign, IT Strategy, IT Solution Selection and Change Management.  In addition have administered the full project life cycle including sales and marketing activities, administration and development of proposals and actual execution of a project.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a97e96c9ed068221042f256e9a1c6c66"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1998
+      },
+      "company": "Tata Consultancy Services",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/tata-consultancy-services",
+      "company_facebook_profile_url": null,
+      "title": "Consultant",
+      "description": "Business Strategy",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ada8b83af42d46f6bf6460339d338df"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "field_of_study": "Finance and Financial Management Services",
+      "degree_name": "Executive Program in Applied Finance",
+      "school": "Indian Institute of Management, Lucknow",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/indian-institute-of-management-lucknow",
+      "school_facebook_profile_url": null,
+      "description": "The course covers a range of topics, including corporate finance, economic and accounting concepts, cost management, and quantitative analysis. It also covers financial risk management, investment and portfolio management, and mergers and acquisitions.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dcda993f1e499829e18840493f308c17",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "Strategy,  Management",
+      "degree_name": "MBA",
+      "school": "University of Massachusetts Lowell",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-massachusetts-lowell",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/03f9b118a776ac4ad6d30b7461dab899",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Aligning &  Executing Strategy",
+      "degree_name": "Executive Education",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9550dd31e1b71782045956142df4ed0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "field_of_study": "Leading Innovation in India",
+      "degree_name": "Executive Education",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-business-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e9550dd31e1b71782045956142df4ed0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1994
+      },
+      "field_of_study": "Mechanical Engineering",
+      "degree_name": "BE",
+      "school": "Manipal Institute of Technology, Manipal, Karnataka, India",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Winner of Gold Medal for best Digital Signage Network",
+      "issuer": "Digital Signage Expo, USA",
+      "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2015
+      },
+      "description": "Won Gold for the best digital media network in transportation segment for designing and setting up the digital network at Mumbai Airport."
+    },
+    {
+      "title": "Chairman’s Award for exemplary performance at Times of India",
+      "issuer": "Times of India Group Chairman",
+      "issued_on": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/pauldueman",
+      "name": "Paul Arthur Dueman",
+      "summary": "General Manager Marketing, at Meril Life Sciences",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shanjain",
+      "name": "Shan Jain",
+      "summary": "Brand Building and Marketing Transformation Advisor for Series-A funded Startups and SME's, \nIndependent Director, Audit Committee Chairperson, Mandala Art Artist and Evangelist.",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harish-vijayan",
+      "name": "Harish Vijayan",
+      "summary": "Marketing Manager, Times group  |  EX Zee Media , Brand Marketing Enthusiast | LinkedIn Top Branding Voice",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/upalinagkumar",
+      "name": "Upali Nag Kumar",
+      "summary": "President Strategy WPP Media South Asia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shruthiak",
+      "name": "Shruthi Anandakumar",
+      "summary": "Supply Chain Professional with more than 11 years of work experience in Inventory, Strategic Sourcing, P2P, Operations",
+      "location": "Coimbatore"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shivampandey05",
+      "name": "Shivam Pandey",
+      "summary": "BBA Student | Aspiring Accounts Executive | Finance & CSR Enthusiast | Skilled in Accounting, Business Development & Sustainability | Actively Seeking Opportunities",
+      "location": "Patna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohitchopra",
+      "name": "Rohit C.",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tabrezalamsaif",
+      "name": "Tabrez Alam",
+      "summary": "📊 Data Enthusiast | 🚀 AdTech Innovator | 📺 Building TV-to-Mobile Engagement | 💬 Conversation Media Marketing | 🏢 Data Clean Room Expert",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vandanamarda",
+      "name": "Vandana Marda",
+      "summary": null,
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sidharthkhullar",
+      "name": "Siddharth Khullar",
+      "summary": "Sales & Marketing Professional - Brand Solutions I Digital Media I Display I IPR & Events",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/venkateshadavi",
+      "name": "Venkatesh Adavi",
+      "summary": "Vice President | Sales | Strategy | Growth | Partnerships | Intrapreneur",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/krupaashankar",
+      "name": "Krupaashankar K",
+      "summary": "Helping solve leads, sales and growth problems of small to medium businesses |                 Reach : ks@krealogy.com",
+      "location": "Chennai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gurpreet-singh-sachdeva-9594271bb",
+      "name": "Gurpreet Singh Sachdeva",
+      "summary": "Associate Director at UBS , Group Treasury Product Control",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajlekhaa-basu-mallick-5225b91a",
+      "name": "Rajlekhaa Basu Mallick",
+      "summary": "Asst. General Manager at India Today | Media Ad Sales & MBA in Marketing Management",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ramprasad-murali",
+      "name": "Ramprasad Murali",
+      "summary": "Times of India | MDI Gurgaon | BIT",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/prakhar-bhatnagar-005058115",
+      "name": "Prakhar Bhatnagar",
+      "summary": "Senior Analyst at scientific games",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajinder-singh-b12b3760",
+      "name": "Rajinder Singh",
+      "summary": "Finance & Audit Leader | (MBA | CISA | CFE| AAIA | PMP)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vikram-sakhuja",
+      "name": "Vikram Sakhuja",
+      "summary": "Group CEO - Madison Media & OOH at Madison World",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anchal-kumar-dhawan",
+      "name": "Anchal Kumar Dhawan",
+      "summary": "IIM-A II Global Enterprise Sales Head- SaaS , Tech & Media II  Digital Strategist II Startup Advisor II Entrepreneur",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/afshan-tabassum-8a1bb91a8",
+      "name": "Afshan Tabassum",
+      "summary": "Area Manager",
+      "location": "Hyderabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirti-dadhich-gbo-srcc",
+      "name": "Kirti Dadhich",
+      "summary": "SRCC GBO'25 | Times OOH | Corporate Relations & Placement Cell | President - CII YI Yuva Society",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/narayanaswami-shekhar-29b4947",
+      "name": "Narayanaswami Shekhar",
+      "summary": "CEO & Board Leader | Turnaround & Institution Builder | Chairman – IOAA",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitrapriyanka28",
+      "name": "Priyanka Mitra",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yash1806",
+      "name": "Yash Gupta",
+      "summary": "Times Group | Regional Head - Middle East |Ex- HDFC Ltd | MBA, B-Tech",
+      "location": "New Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karan-banga-6a351413",
+      "name": "Karan Banga",
+      "summary": "CEO and Co-founder at W3 Dimensions |Product Expert | Marketer | Management Consultant | Strategic Partnerships | Ex BCCL, Times Group, Ex Strategy&",
+      "location": "West Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonikhushalani",
+      "name": "Soni Khushalani",
+      "summary": "Deputy General Manager  at Bennett, Coleman and Co. Ltd. (Times Group)",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sundar-mahalingam-68a0661",
+      "name": "Sundar Mahalingam",
+      "summary": "President - Strategy, HCL Corp and Shiv Nadar Foundation",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajiv-raghunath-4393181",
+      "name": "Rajiv Raghunath",
+      "summary": "Thought leadership, business research & communications specialist; Founder & CEO, Wellversed Media; Partner, Quadrastra Ventures (multi-sport academy Sportzville)",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nitin-lakhotia-7505191",
+      "name": "Nitin Lakhotia",
+      "summary": "New Business and Lateral Growth | Strategic Growth | New Business Ventures | Driving Innovation and Pivoting using AI | Risk Mitigation, M&A, Expansion, Unlocking Markets and Leading with Vision",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shailen-chawla-5ba2433",
+      "name": "Shailen Chawla",
+      "summary": "Management &Technology Consultant",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjay-sondhi-3478084",
+      "name": "Sanjay Sondhi",
+      "summary": "Vice President - Investment Management",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ankush-malhotra-5204076",
+      "name": "Ankush Malhotra",
+      "summary": "Sales and Marketing Professional.                   Ex- Times, Star TV, Radio One, Radio Mirchi and Airtel.",
+      "location": "Pune"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roli-ritwija-ojha-9575536",
+      "name": "Roli Ritwija Ojha",
+      "summary": null,
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajeeta-bharadwaj-152a076",
+      "name": "Ajeeta Bharadwaj",
+      "summary": "Chief Strategy Officer at Wondrlab",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjukta-singh-5044007",
+      "name": "Sanjukta Singh",
+      "summary": "Branded Content at The Times of India - Deputy General Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhavesh-gajjar",
+      "name": "Bhavesh Gajjar",
+      "summary": null,
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rohit-shukla-b081a5b",
+      "name": "Rohit Shukla",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-kumar-sinha-65a589b",
+      "name": "Amit Kumar Sinha",
+      "summary": "Brand Growth & Solutions Partner | Orchestrating Integrated Marketing across Trust, Reach & Action | Marketing‑led GTM & Partnerships",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachanadlokhande",
+      "name": "Rachana Lokhande",
+      "summary": "Making OOH meaningful",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karan-banga-strategic-alliances-products-and-initiatives-bccl-6a351413",
+      "name": "Karan Banga Strategic Alliances, Products and Initiatives,BCCL",
+      "summary": "Ex Management Consultant @Strategy& | Ex Equity Research",
+      "location": "West Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajeshpatalia",
+      "name": "Rajesh Patalia",
+      "summary": "Author - Marketing by Numbers | Marketing Strategist | Business Growth Leader | Mentor | FMCG, Telecom & Media Specialist | 29+ Years of Driving Brand & Revenue Success",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajat-mittal-82517415",
+      "name": "Rajat Mittal",
+      "summary": "Founder & Chief Innovation Officer",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mridula-roy-pal-84599419",
+      "name": "Mridula Roy Pal",
+      "summary": "Corporate Strategy & Growth Leader | M&A, Capital Allocation | Institution & Platform Builder | Board & CXO Advisor",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/puneet-biyani-5825431a",
+      "name": "Puneet Biyani",
+      "summary": "Head-New Business(OOH|Exhibition|Influencer Mktng|Branded Content) - The Times of India.\nEx Lemma/Times OOH/Goldman Sachs/PwC. Gold Medalist CA & HBS Alumni. 20+Yrs Exp in Business Ops, P&L Mgt, Finance, Strategy & Sales",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richa-sharma-6679b920",
+      "name": "Richa Sharma",
+      "summary": "Luxury Business Head - The Times Group\n\nBrand & Marketing Specialist | Luxury & International Markets",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/himanshu-arora-99122529",
+      "name": "Himanshu Arora",
+      "summary": "Times OOH•3K followers",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sumit-chadha-b38b4b38",
+      "name": "Sumit Chadha",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gaurav-chowdhry-14730045",
+      "name": "Gaurav Chowdhry",
+      "summary": "Value Seller | KAM | Content | Digital | FMS | NSIT",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/munish-kanotra-a092b64b",
+      "name": "Munish Kanotra",
+      "summary": "Chief Executive Officer at Times Group - GMR Group JV (TIMDAA)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sankalp-shrivastava-77313261",
+      "name": "Sankalp Shrivastava",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nehal-s-dua-9920877a",
+      "name": "Nehal S Dua",
+      "summary": "Driving revenue at SONY LIV | Ex- Jio Hotstar and Times Group | NMIMS Mumbai",
+      "location": "Gurugram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanjeev-gulati-82b9a88a",
+      "name": "Sanjeev Gulati",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanvi-malik-81a277114",
+      "name": "Tanvi Malik",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rubika-pal-268807120",
+      "name": "Rubika Pal",
+      "summary": "HR at Times Group",
+      "location": "Noida"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharuk-ali-khan-108162121",
+      "name": "Sharuk Ali Khan",
+      "summary": "Strategy & Growth - Times Group | Ex - Deloitte",
+      "location": "Delhi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dwitika-gambhir-773259181",
+      "name": "Dwitika Gambhir",
+      "summary": "HR Professional | Talent Acquisition & Engagement | Building High-Performing, Inclusive Work Cultures",
+      "location": "Faridabad"
+    },
+    {
+      "link": "https://www.linkedin.com/in/komal-matela-b19b151b9",
+      "name": "Komal Matela",
+      "summary": "Office Administrator",
+      "location": "Auckland"
+    }
+  ],
+  "recommendations": [
+    "Rajesh Agarwal\n\nI have known Aman since 1996 when we both worked in the Management Consulting Practice within TCS.  I had the opportunity to work with Aman on a Strategy Engagement for a client and though Aman was just out of college then I was very impressed by his maturity, focus and structured approach to problem solving.  Aman is passionate for excellence and has the skills and tenacity to drive large scale business transformation.",
+    "LinkedIn User\n\nI reported to Aman for almost half a decade in different structures during my stint at Times and I must say that I was extremely lucky to have a line manager like him. Aman is a born leader to who we all looked upto and the go to person for taking professional advice on any challenges we faced. His management style is a perfect blend of strategic thinking which directed me to think macro and a people oriented approach which helped me share my thoughts openly if ever I faced any challenges in execution of tasks. If there were an article on qualities of a leader, aman is equipped with all sets that form a part of it. Thanks aman for the enriching experience I got under your mentorship and wish you all the best for all your future endeavours."
+  ],
+  "activities": [
+    {
+      "title": "South Korea has unveiled a stunning 3,000-square-meter J-curved LG LED display, located at the Dong-A Media Centre in Seoul's Gwanghwamun district…",
+      "link": "https://www.linkedin.com/posts/theavixa_south-korea-has-unveiled-a-stunning-3000-activity-7391857116317347840-0fkE",
+      "activity_status": null
+    },
+    {
+      "title": "A True Home Run for an Extraordinary Leader What we thought was already an incredible recognition of vision and leadership just turned into a home…",
+      "link": "https://www.linkedin.com/posts/moving-walls_a-true-home-run-for-an-extraordinary-leader-activity-7393885219080237056-J9kl",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 A Proud Moment at Orgatec 2025 Our booth at Orgatec 2025 winning the Best Booth Design Award feels incredibly rewarding — not just for the…",
+      "link": "https://www.linkedin.com/posts/raghvendra-singh-00982114_a-proud-moment-at-orgatec-2025-our-booth-activity-7393623998741430272-mWMo",
+      "activity_status": null
+    },
+    {
+      "title": "\"We Are Recognised for Integrity in the Market\"! Times OOH, a Times Group company, has redefined the outdoor advertising landscape through…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-20yearsofsuccess-activity-7393993211318480896-IMdw",
+      "activity_status": null
+    },
+    {
+      "title": "Crafting Connections, One Journey at a Time! World of Hyatt takes center stage at the Aviation Hub of India – Delhi Airport, creating an elegant…",
+      "link": "https://www.linkedin.com/posts/tim-delhi-airport-advertising_delhiairport-aviationhubofindia-everyoneishere-activity-7391800622188130304-mPbj",
+      "activity_status": null
+    },
+    {
+      "title": "Recently, Times OOH conducted an insightful seminar at our college, where Mr.Aman Nanda  and Ms.Guneet Kaur  shared valuable perspectives about the…",
+      "link": "https://www.linkedin.com/posts/atharvanangare_recently-times-ooh-conducted-an-insightful-activity-7392923849274732544-nfAA",
+      "activity_status": null
+    },
+    {
+      "title": "Leading & Nurturing like no one else! At Times OOH – A Times Group Company, women aren’t just part of the organisation- they lead it. From sales…",
+      "link": "https://www.linkedin.com/posts/timesooh_womeninleadership-timesooh-empoweredatwork-activity-7392567061866115072-wf-P",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating a Decade of Impact! HCLFoundation  recently marked 10 years of their HCLTech Grant by HCLFoundation  journey — a decade of…",
+      "link": "https://www.linkedin.com/posts/rupinder-chahal-89584b17_10yearsofimpact-partnershipforchange-foundationallearning-activity-7392797383547531264-Qd_y",
+      "activity_status": null
+    },
+    {
+      "title": "Kalyan Jewellers — A True OOH Enthusiast! This Diwali, Kalyan Jewellers parkled brighter than ever with a spectacular airport presence at Chandigarh…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-chandigarhairport-activity-7392446737224757250-lXXa",
+      "activity_status": null
+    },
+    {
+      "title": "Mumbai Metro Aqua Line 3 — A New Era of Commute Comfort for Mumbai. 🚇✨ The newly operational, fully underground, Aqua Line 3 is redefining how…",
+      "link": "https://www.linkedin.com/posts/nikhildeshmukh-pune_mumbaimetro-aqualine3-mumbaicommute-activity-7387862999463608320-GT4A",
+      "activity_status": null
+    },
+    {
+      "title": "I have pleasure in sharing with LinkedIn network that I have joined Board Stewardship as Director – Board Engagement North India. I am really…",
+      "link": "https://www.linkedin.com/posts/naaiyar-jaffri_i-have-pleasure-in-sharing-with-linkedin-activity-7392418307506794496-bYJT",
+      "activity_status": null
+    },
+    {
+      "title": "Riding Faster in the Industry with Mumbai Metro! Times OOH - A Times Group Company ventured into the rapid transport branding space with a vision to…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-mumbaimetro-activity-7391094934407151616-KImQ",
+      "activity_status": null
+    },
+    {
+      "title": "Ensuring the Excitement & Learnings! It is imperative to ensure that new talent is strategically nurtured and carefully guided to add value to their…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-lifeattimesooh-activity-7391096596907732992-eMr3",
+      "activity_status": null
+    },
+    {
+      "title": "Some journeys don’t end — they simply evolve. After almost five and a half incredible years leading HR at Adecco, I’m turning the page on a chapter…",
+      "link": "https://www.linkedin.com/posts/prasad-swaminathan-0599346_some-journeys-dont-end-they-simply-evolve-activity-7391199770293268482-NW5J",
+      "activity_status": null
+    },
+    {
+      "title": "What Do They Have to Say? Find Out! The Functional Heads at Times OOH - A Times Group Company shares the key differentiating factors that make us…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-ooh-activity-7389997744985317376-CZLN",
+      "activity_status": null
+    },
+    {
+      "title": "All Hands on the Deck — Collective Ownership Honoured to be hosted by Times Media Group for a leadership program centered on a simple but demanding…",
+      "link": "https://www.linkedin.com/posts/ram-krishnamani-5152b19_all-hands-on-the-deck-collective-ownership-activity-7425603932388798464-jYft",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to our PortCo UPTIQ and Snehal Fulzele for this milestone. I am truly impressed by the execution and believe that their product will…",
+      "link": "https://www.linkedin.com/posts/adityamishra_congratulations-to-our-portco-uptiq-and-snehal-activity-7427780358118748161-l5oT",
+      "activity_status": null
+    },
+    {
+      "title": "Opening the doors of DDX Asia 2026! The recent edition of DDX Asia 2026 Expo was inaugurated today by Mr. Shekhar Narayanswami, CEO, Times OOH in…",
+      "link": "https://www.linkedin.com/posts/timesooh_ooh-dooh-expo-activity-7427708314752360448-MZmK",
+      "activity_status": null
+    },
+    {
+      "title": "We’ve been busy. Design Mumbai is very well curated. It is democratic and the audience is precise and thoughtfully filtered, says Parminder Pal…",
+      "link": "https://www.linkedin.com/posts/design-mumbai_weve-been-busy-design-mumbai-is-very-well-activity-7426991918321979392-kcte",
+      "activity_status": null
+    },
+    {
+      "title": "it was the second time , what a refreshing experience ..... wonderful to catch up with old and new friends .... keep it going design mumbai ..…",
+      "link": "https://www.linkedin.com/posts/parminder-pal-singh-b1963b59_it-was-the-second-time-what-a-refreshing-activity-7426998053175373824-ZeC9",
+      "activity_status": null
+    },
+    {
+      "title": "Being featured once again in the Chairman’s Merit List for Term 5 fills my heart with gratitude and quiet pride.❤️ It feels less like a milestone and…",
+      "link": "https://www.linkedin.com/posts/mili-srivastava-101545235_being-featured-once-again-in-the-chairman-activity-7427235366614675456-DFEZ",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be part of Tech Leaders’ Private Dinner & Networking hosted by Atomicwork — an invite-only gathering for CIOs and IT leaders to connect…",
+      "link": "https://www.linkedin.com/posts/sumeet-kumar-248b474_tech-leaders-private-dinner-and-networking-activity-7425291123536998400-zkgE",
+      "activity_status": null
+    },
+    {
+      "title": "Owning the Arrival Moment at India’s Aviation Hub! BPTP Projects Gurgaon Realty commands attention at the Delhi Airport with a striking gantry…",
+      "link": "https://www.linkedin.com/posts/tim-delhi-airport-advertising_delhiairport-aviationhubofindia-everyoneishere-activity-7424048061250871296-SE2L",
+      "activity_status": null
+    },
+    {
+      "title": "At our workplace, we believe in balancing performance with play. A fantastic day at our Office Cricket Tournament celebrating teamwork, wellness, and…",
+      "link": "https://www.linkedin.com/posts/syed-ehteshyam-5b41b930_boxcricket-officeactivity-teambonding-activity-7422614820530733057-c9R6",
+      "activity_status": null
+    },
+    {
+      "title": "Work travel isn’t free. Someone always pays the price. Two weeks. Three countries. Endless meetings. From the outside, it looks exciting. But…",
+      "link": "https://www.linkedin.com/posts/sameerwahie_parentfounder-worklifeintegration-leadership-activity-7424353512974852096-18xB",
+      "activity_status": null
+    },
+    {
+      "title": "I was introduced to Pratham early in its development and had the chance to witness its rare combination of daring idealism with evidence-based…",
+      "link": "https://www.linkedin.com/posts/charu-ps_ite-gems-of-india-prathampdf-activity-7421688447884746752-6cpD",
+      "activity_status": null
+    },
+    {
+      "title": "It's great to have you back, Vaibhav Prabhune. So excited to start working with you again!",
+      "link": "https://www.linkedin.com/posts/gulab-patil-24aaa420_its-great-to-have-you-back-vaibhav-prabhune-activity-7422284730076856320-gXVi",
+      "activity_status": null
+    },
+    {
+      "title": "Stewardship encourages you to hold trust, make decisions with long-term impact, and serve the collective good beyond individual tenure. Happy…",
+      "link": "https://www.linkedin.com/posts/naaiyar-jaffri_republicday-stewardship-leadershipwithpurpose-activity-7421381095142813696-rYO0",
+      "activity_status": null
+    },
+    {
+      "title": "One of South India’s largest anamorphic DOOH screens installed at Mantri Square Mall Measuring 42 feet in width and 55 feet in height, the screen…",
+      "link": "https://www.linkedin.com/posts/media4growth_shankhcreations-mantrisquaremall-installation-activity-7419300538665652224-loJr",
+      "activity_status": null
+    },
+    {
+      "title": "𝗞𝗻𝗼𝘄 𝘁𝗵𝗲 𝗪𝗶𝗻𝗻𝗲𝗿𝘀 𝗼𝗳 𝗛𝗥 𝗧𝗢𝗗𝗔𝗬 𝗚𝗹𝗼𝗯𝗮𝗹 𝟭𝟬𝟬 𝗛𝗥 𝗟𝗲𝗮𝗱𝗲𝗿𝘀 – 𝗛𝗮𝗹𝗹 𝗼𝗳 𝗙𝗮𝗺𝗲 𝟮𝟬𝟮𝟱 Congratulations to Mr.…",
+      "link": "https://www.linkedin.com/posts/hrtoday_hrtoday-global100hrleaders-halloffame2025-activity-7420789173604864000-GKb8",
+      "activity_status": null
+    },
+    {
+      "title": "BAT VC portfolio news: Real security means the \"bad guys\" can't steal what the algorithm never sees. Eiman Ebrahimi and the Protopia AI team just…",
+      "link": "https://www.linkedin.com/posts/adityamishra_protopia-ai-selected-as-awardee-on-missile-activity-7419782047080022017-r8sH",
+      "activity_status": null
+    },
+    {
+      "title": "Creating a roar on the OOH canvas! The much-awaited Bollywood film Border 2 amped up excitement across Mumbai with multiple billboards and Mumbai…",
+      "link": "https://www.linkedin.com/posts/timesooh_timesooh-timesgroup-ooh-activity-7420439205266337796-lnGb",
+      "activity_status": null
+    },
+    {
+      "title": "The Era of the \"Impulse Traveler\" is Here: Is Your Brand Waiting Where They Decide? Planning a holiday months in advance? For today’s Indian…",
+      "link": "https://www.linkedin.com/posts/amannanda_advertising-activity-7411741351215820800-Bb7t",
+      "activity_status": null
+    },
+    {
+      "title": "It was a great way to end a wonderful year. Well done team HR Times OOH ! Proud of you !",
+      "link": "https://www.linkedin.com/posts/amannanda_it-was-a-great-way-to-end-a-wonderful-year-activity-7411725572625735680-ppt1",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to share that Times OOH has been recertified as a Great Place To Work ! This recognition reflects our team’s commitment to fostering a…",
+      "link": "https://www.linkedin.com/posts/amannanda_greatplacetowork-timesooh-peoplefirst-activity-7403627785392513025-Jaev",
+      "activity_status": null
+    },
+    {
+      "title": "Terminal 1 at #delhiairport is redefining the travel experience in India. With premium offerings like a @channel #Chanel #GordonRamsay Street Burger…",
+      "link": "https://www.linkedin.com/posts/amannanda_delhiairport-chanel-gordonramsay-activity-7389155494856224768-YvkQ",
+      "activity_status": null
+    },
+    {
+      "title": "Sharing Times OOH OOH’s 20-year milestone video—two decades of redefining outdoors and setting new benchmarks. Grateful to our current and past…",
+      "link": "https://www.linkedin.com/posts/amannanda_sharing-times-ooh-oohs-20-year-milestone-activity-7388193717574299648-6ut1",
+      "activity_status": null
+    },
+    {
+      "title": "OOH, in one thought: Trust In a world overflowing with information, trust has become the invisible glue that binds consumers to brands. It’s more…",
+      "link": "https://www.linkedin.com/posts/amannanda_ooh-in-one-thought-trust-activity-7384105645064687616-hCuv",
+      "activity_status": null
+    },
+    {
+      "title": "Jai Hind !",
+      "link": "https://www.linkedin.com/posts/amannanda_jai-hind-activity-7361988959574388737-mxo2",
+      "activity_status": null
+    },
+    {
+      "title": "Explore. Class. Poise. A new chapter in airport advertising begins at Terminal 1, Delhi Airport. Our latest media sites don’t just advertise — they…",
+      "link": "https://www.linkedin.com/posts/amannanda_delhiairport-ooh-advertising-activity-7323168072754679809-oX-H",
+      "activity_status": null
+    },
+    {
+      "title": "I am thrilled to share that I have successfully completed the prestigious Executive Programme in Applied Finance from Indian Institute of Management,…",
+      "link": "https://www.linkedin.com/posts/amannanda_i-am-thrilled-to-share-that-i-have-successfully-activity-7178080876558241793-Mp55",
+      "activity_status": null
+    },
+    {
+      "title": "Glad you liked our media ! Thanks for the appreciation....",
+      "link": "https://www.linkedin.com/posts/amannanda_glad-you-liked-our-media-thanks-for-the-activity-7137356294855806976-oMdy",
+      "activity_status": null
+    },
+    {
+      "title": "Looking for a young dynamic advertising sales manager for Mauritius. #Mauritius #Advertising #jobs Times OOH",
+      "link": "https://www.linkedin.com/posts/amannanda_mauritius-advertising-jobs-activity-7117841210894934017-wSoS",
+      "activity_status": null
+    },
+    {
+      "title": "We're embarking on an incredible growth journey. Our team's dedication and hard work have paid off, and we're soaring to new heights. Stay tuned for…",
+      "link": "https://www.linkedin.com/posts/amannanda_times-ooh-bags-advertising-rights-for-goa-activity-7116677224350593024-U8-B",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations!",
+      "link": "https://www.linkedin.com/posts/amannanda_congratulations-activity-7096711999027388416-tiMv",
+      "activity_status": null
+    },
+    {
+      "title": "The innovation looks awesome ! Welcome onboard to host of experiences at Mumbai International Airport Limited (CSMIA) with Times OOH. Thanks 🙏",
+      "link": "https://www.linkedin.com/posts/amannanda_the-innovation-looks-awesome-welcome-onboard-activity-7096698881287057408-FFTq",
+      "activity_status": null
+    },
+    {
+      "title": "What a shot !",
+      "link": "https://www.linkedin.com/posts/amannanda_what-a-shot-activity-7052957829040680961-57jR",
+      "activity_status": null
+    },
+    {
+      "title": "Great thoughts Narayanaswami Shekhar",
+      "link": "https://www.linkedin.com/posts/amannanda_great-thoughts-narayanaswami-shekhar-activity-7051534898980892672-sveb",
+      "activity_status": null
+    },
+    {
+      "title": "Jai Ho!",
+      "link": "https://www.linkedin.com/posts/amannanda_jai-ho-activity-7097077852348555264-JKv3",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/amannanda_timesrise-justdial-activity-6946349291107954689-pA4Y",
+      "activity_status": null
+    },
+    {
+      "title": "Greetings!!! We are rapidly growing and have an urgent opening for an HR Manager. As a Human Resources Business Partner, you will nurture, develop,…",
+      "link": "https://www.linkedin.com/posts/amannanda_jobs-noida-ncr-activity-6921658248127221760-a9-C",
+      "activity_status": null
+    },
+    {
+      "title": "Looking for Strategy Manager. We are looking for an individual from strategy consulting background with strong analytical skills and an inquisitive…",
+      "link": "https://www.linkedin.com/posts/amannanda_looking-for-strategy-manager-we-are-looking-share-6896128584709459968-pm4e",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/amannanda_dooh-mumbaiairport-delhiairport-activity-6636889994105589760-wesE",
+      "activity_status": null
+    },
+    {
+      "title": "Nicely covered exchange4media !",
+      "link": "https://www.linkedin.com/posts/amannanda_our-vision-is-to-build-an-imposing-times-activity-6565673743283249152-8OdV",
+      "activity_status": null
+    },
+    {
+      "title": "Bank of Baroda Andheri Station ! What a way to create an impressive landmark!",
+      "link": "https://www.linkedin.com/posts/amannanda_bank-of-baroda-andheri-station-what-a-way-activity-6296363214850613248-KlBk",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Aman Nanda",
+      "link": "https://in.linkedin.com/in/aman-nanda-24b569199",
+      "summary": null,
+      "location": "New Delhi"
+    },
+    {
+      "name": "Aman Nanda",
+      "link": "https://in.linkedin.com/in/aman-nanda-056512234",
+      "summary": null,
+      "location": "Prayagraj"
+    },
+    {
+      "name": "Aman Nanda",
+      "link": "https://in.linkedin.com/in/aman-nanda",
+      "summary": null,
+      "location": "India"
+    },
+    {
+      "name": "Aman Nanda",
+      "link": "https://in.linkedin.com/in/nanda-aman",
+      "summary": null,
+      "location": "Vishakhapatnam"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-12T00:00:00Z"
+  }
+}

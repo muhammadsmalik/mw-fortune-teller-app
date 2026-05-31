@@ -1,0 +1,700 @@
+{
+  "public_identifier": "mariosgeorgakopoulos",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/28a1892a22baf443cfb75fcd8207bde8",
+  "background_cover_image_url": null,
+  "first_name": "Marios",
+  "last_name": "Georgakopoulos",
+  "full_name": "Marios Georgakopoulos",
+  "follower_count": 754,
+  "occupation": "Corporate Transformation Director at Politis Group",
+  "headline": "Corporate Transformation Director at Politis Group | Intrapreneur by habit",
+  "summary": null,
+  "location_str": "Greece",
+  "country": "GR",
+  "country_full_name": "Greece",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Politis Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/politis-group",
+      "company_facebook_profile_url": null,
+      "title": "Corporate Transformation Director",
+      "description": null,
+      "location": "Athens Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e3601bbb5fd569b3cde6267cab6fce54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2025
+      },
+      "company": "Politis Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/politis-group",
+      "company_facebook_profile_url": null,
+      "title": "New Business & Transformation Manager",
+      "description": null,
+      "location": "Athens Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e3601bbb5fd569b3cde6267cab6fce54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Politis Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/politis-group",
+      "company_facebook_profile_url": null,
+      "title": "New Business Manager",
+      "description": null,
+      "location": "Athens Metropolitan Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e3601bbb5fd569b3cde6267cab6fce54"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Institute for Media and Out-of-Home Advertising (ΜΜΕ&ΥΔ)",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Management Consultant",
+      "description": "Institute for Media and Out-of-Home Advertising \nΙνστιτούτο Μέσων Μαζικής Ενημέρωσης και Υπαίθριας Διαφήμισης (ΜΜΕ&ΥΔ)\n\nThe Institute aims to:\nImprove citizens’ lives and living conditions through information and communication.\nPromote social messages at a mass level to raise awareness and engage the public.\nHarness the power of media for social impact through strategic planning and partnerships.\nStrengthen the values of the media industry, emphasizing collaboration, solidarity, and transparency.\n\nhttps://mediainstitute.gr/",
+      "location": "Athens, Attiki, Greece",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2016
+      },
+      "company": "FOOD PLUS S.A.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/foodplusgreece",
+      "company_facebook_profile_url": null,
+      "title": "Commercial And Marketing Director",
+      "description": null,
+      "location": "Marousi, Greece",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cb63b852a42cd76a05b2e8c9bad6cdde"
+    }
+  ],
+  "education": [],
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "French",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "title": "GOOH - Out of Home Gate",
+      "description": null,
+      "url": "https://gooh.gr/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "title": "L.I.S. - Location Intelligence Study for OOH campaigns",
+      "description": "Post-campaign analysis & report for OOH campaigns. Relevant metrics: Vehicles impacted, Total Reach, Unique Reach, Frequency, Gender Distribution, Population Distribution, Profile Types, Week Analysis, Daypart Analysis. Reach related metrics are offered by Vodafone Analytics via Carto platform. Vehicles impacted metric is offered by Tom Tom, enhanced by an inductive loop network, via Carto platform.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": null,
+      "title": "MAST (Media Advanced Selection Tool)",
+      "description": "MAST is a professional tool that enables the user (advertiser or agency) to combine audience research data along with the desired geographic and commercial targeting criteria and automatically create an indicative package of OOH advertising spots that will serve the specific needs of her campaign.",
+      "url": "https://gooh.gr/diamorfosi-paketou/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "ends_at": null,
+      "title": "Skonaki",
+      "description": "SkonakiVideos (Educational) channel",
+      "url": "https://www.facebook.com/SkonakiVideos/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "FOOD VIDEOs",
+      "description": "Food Videos facebook page ranked #2 in Greece for the categories \"Cooking\" & \"Lifestyle\". Source: Social Bakers, Facebook Statistics",
+      "url": "https://www.facebook.com/FoodVideosGr/"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "title": "Genius Burger - KFC",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "title": "HUT BOX - Pizza Hut",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "title": "Smart Bucket - KFC",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "title": "NPD & Line extension - KFC",
+      "description": null,
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "title": "NPD & Line extension - Pizza Hut",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "title": "Consultant",
+      "cause": "Καταπολέμηση της φτώχειας",
+      "company": "Food On | Τροφή για Νέα Αρχή",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Building Live Voice Agents with Google’s ADK",
+      "license_number": "Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/accomplishments/a35e45c2-69ae-4f38-bb2f-4db744041004?usp=sharing"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Academy Accreditation - Generative AI Fundamentals",
+      "license_number": "Διαπιστευτήρια αναγνωριστικό 129751579 Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "Databricks",
+      "url": "https://credentials.databricks.com/7b826b9c-4d05-4a5c-8d1c-a3499363a3ab"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "ChatGPT Prompt Engineering for Developers",
+      "license_number": "Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "DeepLearning.AI",
+      "url": "https://learn.deeplearning.ai/accomplishments/52563cdd-ffa2-4d12-992d-c67b46fed369?usp=sharing"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Introduction to Generative AI",
+      "license_number": "Διαπιστευτήρια αναγνωριστικό 13570334 Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/819564e9-9ecf-4669-bd0f-5f2bfecc7ffb/badges/13570334?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Transform your business with Microsoft AI",
+      "license_number": "Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "Microsoft",
+      "url": "https://learn.microsoft.com/api/achievements/share/en-us/MARIOSGEORGAKOPOULOS-2115/FVGZ22VX?sharingId=456EC6B2E53CCB3C"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2016
+      },
+      "ends_at": null,
+      "name": "Digital Marketing Foundations Trained Practitioner",
+      "license_number": "Δείτε διαπιστευτήρια",
+      "display_source": null,
+      "authority": "Market Motive",
+      "url": "http://www.marketmotive.com/training/component/comprofiler/userprofile/mgeorgakopoulos"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2002
+      },
+      "ends_at": null,
+      "name": "Head of Share & Market Analysis (Certificate D)",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Hellenic Capital Market Commission (HCMC)",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2002
+      },
+      "ends_at": null,
+      "name": "CFA / Level 1, Chartered Financial Analyst  [Level 1: > 70%]",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Association for Investment Management & Research (AIMR) of USA",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "CARAT : Media Agency of the year in Greece !!! What an honor for all #dentsugreece family !!!! Proud and thankful for our people , clients and media…",
+      "link": "https://www.linkedin.com/posts/dentsugreece-activity-7291162712787628033-gDIx",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux UK is to install 1,000 new #DOOH roadside screens in London, doubling its current inventory. The 86-inch screens consume 20% less energy and…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_jcdecaux-to-double-london-digital-roadside-activity-7293144938924417026-7_er",
+      "activity_status": null
+    },
+    {
+      "title": "Life can be intense and internal thoughts are too often negative. That’s why I love comedy - the ability to laugh at ourselves and situations we…",
+      "link": "https://www.linkedin.com/posts/stephaniegutnik_life-can-be-intense-and-internal-thoughts-activity-7293603152157646848-Fu54",
+      "activity_status": null
+    },
+    {
+      "title": "Solomon Partners proudly celebrated our 35-year anniversary in New York City last week. Over the years, we have expanded into 12 key industry…",
+      "link": "https://www.linkedin.com/posts/solomonpartners_solomon-partners-proudly-celebrated-our-35-activity-7291134484601573377-xfbp",
+      "activity_status": null
+    },
+    {
+      "title": "This is a real photo. No FOOH, no fakery, just a beautifully realistic 15m high watch appearing to float over central London. #DeepScreen still…",
+      "link": "https://www.linkedin.com/posts/david-tait-a723a533_deepscreen-activity-7288620022556459008-AmfM",
+      "activity_status": null
+    },
+    {
+      "title": "🤯  Adobe’s Face Expression Feature: Animation Made Simple Adobe’s new Face Expression feature gives animators powerful tools to refine emotions…",
+      "link": "https://www.linkedin.com/posts/genai-works_animationtools-adobe-aiinanimation-activity-7286427137308299264--Ukz",
+      "activity_status": null
+    },
+    {
+      "title": "Magic!",
+      "link": "https://ph.linkedin.com/posts/oohcapital_magic-activity-7285403162184675328-_xkc",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to share that I’ve completed the “ChatGPT Prompt Engineering for Developers!” course created by OpenAI in collaboration with DeepLearning.ai.…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_marios-georgakopoulos-congratulations-on-activity-7285283408673443842-0UG8",
+      "activity_status": null
+    },
+    {
+      "title": "Branded Cities' Sephora campaign expertly takes advantage of the curved Moxy screen to create spectacular 3D/anamorphic advertising.",
+      "link": "https://www.linkedin.com/posts/sansi-north-america-sna_branded-cities-sephora-campaign-expertly-activity-7285011600183279616-NWOH",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to share that I’ve completed the \"Transform your business with Microsoft AI\" learning path! Modules: 1. Leverage AI tools and resources for…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_transform-your-business-with-microsoft-ai-activity-7284946126640738304-PMCB",
+      "activity_status": null
+    },
+    {
+      "title": "OOH Capital has advised Bauer Media Group (Bauer Media or the Group) – a leading European media business which includes print and online…",
+      "link": "https://www.linkedin.com/posts/oohcapital_ooh-capital-has-advised-bauer-media-group-activity-7283878221878636544-OP5v",
+      "activity_status": null
+    },
+    {
+      "title": "“We are our memory.” — Jorge Luis Borges What does that mean in an AI-first world? Not sure yet—but excited to share that I’ve recently completed the…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_oracle-ai-artificialintelligence-activity-7441415914324905984-M0fw",
+      "activity_status": null
+    },
+    {
+      "title": "Curious: are we ready for this generation? Some people still believe that execution under pressure, solution-driven thinking, and real…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_aihackathon2026-aihackathon-ai-activity-7436811413261766656-JS1u",
+      "activity_status": null
+    },
+    {
+      "title": "Greatness Before AI Today, AI can create videos at lightning speed — text-to-video, automated edits, synthetic visuals, algorithmic storytelling. But…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_greatnessbeforeai-aiinadvertising-advertising-activity-7433809819649634304--mvg",
+      "activity_status": null
+    },
+    {
+      "title": "“Is ElevenLabs the new Apple?” That question kept popping into my head at the ElevenLabs event in London. Apple made machines feel friendly.…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_is-elevenlabs-the-new-apple-that-question-activity-7428148901204967424-MHj5",
+      "activity_status": null
+    },
+    {
+      "title": "This puzzle was shaped by hundreds of hands — mine among them — at #TheAISummit in New York. Each of us placed a small square, a fragment of a larger…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_theaisummit-aisummit-ai-activity-7405818575535517696-mji5",
+      "activity_status": null
+    },
+    {
+      "title": "Impressed by the energy at the hackathon pre-event — talent surely grows fast when you give it space to build",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_impressed-by-the-energy-at-the-hackathon-activity-7401551224820371456-ldx1",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to share that I have recently undertaken the “Agentic AI / Building Effective Agentic AI Systems” course, created by DeepLearning.AI. As an…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_ai-agenticai-learningjourney-activity-7385706298295668736-0MJi",
+      "activity_status": null
+    },
+    {
+      "title": "Athens Digitized Art Displays (A-DAYs) is an initiative where both classical and contemporary artworks are transferred into the digital realm…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_athens-digitized-art-displays-a-days-is-activity-7358804640341127169-KAuE",
+      "activity_status": null
+    },
+    {
+      "title": "Instead of traditional wishes, I’m sharing a proposed prompt for an AI Agent in 2025: “First, ensure health and safety in our lives, then: Create an…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_instead-of-traditional-wishes-im-sharing-activity-7280008132225830912-dD_e",
+      "activity_status": null
+    },
+    {
+      "title": "During the World Out of Home Organization Europe Forum in Milan, as with every WOO Congress I’ve attended since Sorrento in 2018, I feel the same…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_ooh-dooh-woo-activity-7261430700623478785-tj-W",
+      "activity_status": null
+    },
+    {
+      "title": "Hey, media channels! Whoâs your daddy? ð OOH is #1 for driving brand awareness! The Outdoor Media Association (OMA) released the results of the…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_ooh-brandawareness-mediachannels-activity-7121109999262609409-fm2A",
+      "activity_status": null
+    },
+    {
+      "title": "\"The Cube\" paradigm - 600 mÂ² cube-shaped Giant Poster in Berlin offered a spectacular 360Â° all-round view for brandsÂ - Illuminated by LED…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_photovoltaic-system-launched-for-giant-poster-activity-7108101498244358145-fG89",
+      "activity_status": null
+    },
+    {
+      "title": "Outdoor advertising (OOH & DOOH) is making a splash! â... with both traditional and digital OOH making the top 5 most preferred ad platforms among…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_outdoor-advertising-ooh-dooh-is-making-activity-7105205471493435392-oxiB",
+      "activity_status": null
+    },
+    {
+      "title": "Someone needs blood (and may receive anâ¦ award ð) We are delighted to announce that the OOH campaign \"Someone needs blood\" has been shortlisted…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_ooh-oohadvertising-creativity-activity-7069657766059008000-6sXI",
+      "activity_status": null
+    },
+    {
+      "title": "‘Find TV audiences’ using OOH digital screens \"OOH and Commercial TV are complementary in their delivery of audience. OOH is relatively stable…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_politisgroup-ooh-research-activity-7051530795286413312-g2WD",
+      "activity_status": null
+    },
+    {
+      "title": "#Outdoor spaces, what are we living for? More premium places, I guess we know the score, on and on Does #PolitisGroup know what we are looking for?…",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_outdoor-politisgroup-campaign-activity-7048960388951945216-5KJB",
+      "activity_status": null
+    },
+    {
+      "title": "ÎÏÎµÎ¹Î´Î® Î¿ Î£ÎºÎ»Î±Î²ÎµÎ½Î¯ÏÎ·Ï Î´Îµ Î¸Î± ÎºÎ¬Î½ÎµÎ¹ Î´Î¹Î±ÏÎ®Î¼Î¹ÏÎ·â¦",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_%CE%B5%CF%80%CE%B5%CE%B9%CE%B4%CE%AE-%CE%BF-%CF%83%CE%BA%CE%BB%CE%B1%CE%B2%CE%B5%CE%BD%CE%AF%CF%84%CE%B7%CF%82-%CE%B4%CE%B5-%CE%B8%CE%B1-%CE%BA%CE%AC%CE%BD%CE%B5%CE%B9-%CE%B4%CE%B9%CE%B1%CF%86%CE%AE%CE%BC%CE%B9%CF%83%CE%B7-activity-6829064297021218816-9FqU",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/mariosgeorgakopoulos_menoumespiti-politisooh-ooh-activity-6645979826605867011-nbSx",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "marios georgakopoulos",
+      "link": "https://gr.linkedin.com/in/marios-georgakopoulos-60a7ab13",
+      "summary": "general manager at aviation risk services s.a.",
+      "location": "Greece"
+    },
+    {
+      "name": "Marios Georgakopoulos",
+      "link": "https://gr.linkedin.com/in/marios-georgakopoulos-054b6051",
+      "summary": "Student at Technical University of Crete / Πολυτεχνείο Κρήτης",
+      "location": "Greece"
+    },
+    {
+      "name": "marios georgakopoulos",
+      "link": "https://gr.linkedin.com/in/marios-georgakopoulos-ab04a882",
+      "summary": "General Manager at Aviation Risk Services S.A.",
+      "location": "Greece"
+    },
+    {
+      "name": "Marios Georgakopoulos",
+      "link": "https://gr.linkedin.com/in/marios-georgakopoulos-b835bbb4",
+      "summary": "Registered Dietitian",
+      "location": "Greece"
+    },
+    {
+      "name": "Marios Georgakopoulos",
+      "link": "https://gr.linkedin.com/in/marios-georgakopoulos-585b33242",
+      "summary": "Angular Developer @ FoodTec Solutions",
+      "location": "Thessaloniki"
+    },
+    {
+      "name": "Marios Georgakopoulos",
+      "link": "https://gr.linkedin.com/in/mgeorgakopoulos",
+      "summary": "Serving Navy | Undergraduate Student",
+      "location": "Glifádha"
+    }
+  ],
+  "articles": [
+    {
+      "title": "To αφιέρωμα στα FOOD VIDEOs",
+      "link": "https://www.linkedin.com/pulse/αφιέρωμα-στα-food-videos-marios-georgakopoulos",
+      "published_date": {
+        "day": 27,
+        "month": 3,
+        "year": 2018
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Το ΣΚΟΝΑΚΙ έγινε υποχρεωτικό;",
+      "link": "https://www.linkedin.com/pulse/το-σκονακι-έγινε-υποχρεωτικό-marios-georgakopoulos",
+      "published_date": {
+        "day": 3,
+        "month": 10,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "64% of Consumers Purchase After Watching Branded Social Videos",
+      "link": "https://nl.linkedin.com/pulse/64-consumers-purchase-after-watching-branded-social-georgakopoulos",
+      "published_date": {
+        "day": 3,
+        "month": 10,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Which is the favorite chicken chain in US?",
+      "link": "https://www.linkedin.com/pulse/which-favorite-chicken-chain-us-marios-georgakopoulos",
+      "published_date": {
+        "day": 17,
+        "month": 3,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Facebook:  Videos To Autoplay with Sound on Mobile",
+      "link": "https://www.linkedin.com/pulse/facebook-videos-autoplay-sound-mobile-marios-georgakopoulos",
+      "published_date": {
+        "day": 6,
+        "month": 3,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Burger King Buys Popeyes for $1.8 Billion in Fast-Food Mega-Merger",
+      "link": "https://www.linkedin.com/pulse/burger-king-buys-popeyes-18-billion-fast-food-marios-georgakopoulos",
+      "published_date": {
+        "day": 24,
+        "month": 2,
+        "year": 2017
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Video will account for 70% of all mobile traffic!!!",
+      "link": "https://www.linkedin.com/pulse/video-account-70-all-mobile-traffic-marios-georgakopoulos",
+      "published_date": {
+        "day": 13,
+        "month": 7,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "This mirror will tell you the whole truth...",
+      "link": "https://www.linkedin.com/pulse/mirror-tell-you-whole-truth-marios-georgakopoulos",
+      "published_date": {
+        "day": 11,
+        "month": 7,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Coming soon!",
+      "link": "https://www.linkedin.com/pulse/coming-soon-marios-georgakopoulos",
+      "published_date": {
+        "day": 11,
+        "month": 7,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "2,5 D animation",
+      "link": "https://www.linkedin.com/pulse/25-d-animation-marios-georgakopoulos",
+      "published_date": {
+        "day": 22,
+        "month": 6,
+        "year": 2016
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-03-30T00:00:00Z"
+  }
+}

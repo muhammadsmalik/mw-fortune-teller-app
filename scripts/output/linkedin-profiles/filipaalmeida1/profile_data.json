@@ -1,0 +1,549 @@
+{
+  "public_identifier": "filipaalmeida1",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Filipa",
+  "last_name": "Almeida",
+  "full_name": "Filipa Almeida",
+  "follower_count": 805,
+  "occupation": "Head of Marketing at MOP",
+  "headline": "Head of Marketing @MOP",
+  "summary": "Marketing Executive with more than 16 years of experience in marketing, media and brand management in multinational and national companies, having worked both in-house and in agency. Developed marketing solutions and business projects for top brands in different sectors such as Media, Banking, Pharmacy, Finance, Insurance, Retail, Hospitality and F&B.\n\nSolid experience in marketing management, specialized in marketing and media strategies, branding and positioning, as well as planning, budgeting and implementing communication campaigns.",
+  "location_str": "Portugal",
+  "country": "PT",
+  "country_full_name": "Portugal",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "MOP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mop-multimedia-outdoors-portugal",
+      "company_facebook_profile_url": null,
+      "title": "Head of Marketing",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/db3103e906413eeff23040fd1b8b774f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2025
+      },
+      "company": "WPP Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wpp-media",
+      "company_facebook_profile_url": null,
+      "title": "Account Director",
+      "description": null,
+      "location": "Lisboa, Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c56bfd0849be87b43b020ae989e62b17"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "Dyson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dyson",
+      "company_facebook_profile_url": null,
+      "title": "Media Manager",
+      "description": null,
+      "location": "Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a8440259478274f3ebeeff50d1bd55"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "company": "Mindshare Portugal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mindshare-portugal",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": null,
+      "location": "Lisboa e Região, Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/460348a731bd29b59f54a7479bb6cf58"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "SANA Hotels",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sana-hotels",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": null,
+      "location": "Lisboa e Região, Portugal",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/37c592de6484769560651fd8f46d51e3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2017
+      },
+      "company": "Fox International Channels (FIC)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fox-international-channels",
+      "company_facebook_profile_url": null,
+      "title": "Brand Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/24478a807dc0984fa362ef08b7f44d4c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "FOX NETWORKS GROUP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fox-international-channels",
+      "company_facebook_profile_url": null,
+      "title": "Junior Brand Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/24478a807dc0984fa362ef08b7f44d4c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "company": "FOX NETWORKS GROUP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fox-international-channels",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Assistant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/24478a807dc0984fa362ef08b7f44d4c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2010
+      },
+      "company": "FOX NETWORKS GROUP",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fox-international-channels",
+      "company_facebook_profile_url": null,
+      "title": "Advanced Media Assistant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/24478a807dc0984fa362ef08b7f44d4c"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": null,
+      "degree_name": "E-business in the Digital Age",
+      "school": "The London School of Economics and Political Science (LSE)",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "- B2B and B2C e-business strategies - E-business entrepreneurship - Strategic management for e-business - Organizational strategy - Online marketing",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": null,
+      "degree_name": "Curso completo de Marketing Digital",
+      "school": "Lisbon Digital School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": null,
+      "degree_name": "Marketing e Publicidade – Gestão de Marketing",
+      "school": "IADE",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": null,
+      "degree_name": "Direito",
+      "school": "Faculdade de Direito da Universidade de Lisboa",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Inglês",
+    "Português",
+    "Espanhol"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Inglês",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "Português",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Espanhol",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Distinção nacional e internacional - ‘The Walking Dead Blood Store’",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "description": "Distinção e premiação (nacional e internacional) pela Campanha de Marketing de responsabilidade social ‘The Walking Dead Blood Store’ em parceria com o Instituto Português de Sangue e Transplantação Principais destaques: Ouro no Festival de publicidade Clube de Criativos Prata e bronze em diversas categorias nos Prémios Meios & Publicidade Short list do Festival Mundial de Publicidade em Cannes"
+    },
+    {
+      "title": "Prémios Meios & Publicidade",
+      "issuer": null,
+      "issued_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "description": "Distinção e premiação nacional pelo evento de Halloween da FOX, direcionado ao grande público - mais de 5000 participantes e 4 marcas patrocinadoras."
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mafaldapalha",
+      "name": "Mafalda Palha",
+      "summary": "Account Manager na Judas",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/filipacorrea",
+      "name": "Filipa Corrêa",
+      "summary": "Project Manager at RISE",
+      "location": "Faro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreiagoncalvesribeiro",
+      "name": "Andreia Ribeiro",
+      "summary": "Branding Account Manager",
+      "location": "Aveiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andretdias",
+      "name": "André Teixeira Dias",
+      "summary": null,
+      "location": "Maia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patriciarcpinto",
+      "name": "Patrícia Pinto",
+      "summary": "Marketing & Comms Specialist | Exploring Project Management | Strategy | Digital | Data",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raquel-vilela-",
+      "name": "Raquel Vilela",
+      "summary": "Senior Project Manager",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-duarte-66952a53",
+      "name": "André Duarte",
+      "summary": null,
+      "location": "Aveiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patr%25C3%25ADcia-nunes-rodrigues",
+      "name": "Patrícia Nunes Rodrigues",
+      "summary": "Marketing, Communication and Project Management pat(h)way",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-joao-calado-matias",
+      "name": "Maria João Matias",
+      "summary": "Project Manager na youzz",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandraopereira",
+      "name": "Sandra Pereira",
+      "summary": "Senior Sales Account Manager - Production Manager\nAccount Manager - Stands for exhibitions | Retail environments | Show-rooms | Museums and exhibitions | Custom Furniture | Shop in Shop | Special projects...",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catarina-isabel-fernandes",
+      "name": "Catarina Fernandes",
+      "summary": "Marketing Manager na Discovery Hotel Management",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-salles-11077444",
+      "name": "Juliana Salles",
+      "summary": "Brand Project Mannager",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianabrancoesilva",
+      "name": "Marianne Silva",
+      "summary": null,
+      "location": "Oeiras"
+    },
+    {
+      "link": "https://www.linkedin.com/in/filipamfsaraujo",
+      "name": "Filipa Araújo",
+      "summary": "Events Manager na Audiomeios",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/s%25C3%25A9rgio-silva-a5334b68",
+      "name": "Sérgio Silva",
+      "summary": "Project manager na MEDIAenergie",
+      "location": "Porto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raquel-vilela-0909247a",
+      "name": "Raquel Vilela",
+      "summary": "Senior Project Manager",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marta-ventura-monteiro-31ab3290",
+      "name": "Marta Ventura Monteiro",
+      "summary": "Project Manager na FunnyHow?",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimjansenmarketer",
+      "name": "Kim Jansen",
+      "summary": "Empreendedor | Gerente de Projetos | Produtor Executivo | Especialista em Marketing | Gerente de eventos",
+      "location": "Cascais"
+    },
+    {
+      "link": "https://www.linkedin.com/in/inesfmenezes",
+      "name": "Inês Menezes",
+      "summary": "E-Commerce @ Mondelēz International",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreia-amiguinho-86570698",
+      "name": "Andreia Amiguinho",
+      "summary": "Marketing Communication After-Sales at Renault Group",
+      "location": "Lisbon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisa-matos-a28279a8",
+      "name": "Marisa Matos",
+      "summary": "Project Manager na DONE!",
+      "location": "Lisbon"
+    }
+  ],
+  "recommendations": [
+    "Tiago da Mota\n\nNotable character, intelligence, completely focused on the quality of the delivered work and outstanding executive vision can, synthetically, define Filipa professionally. Highly recommended."
+  ],
+  "activities": [
+    {
+      "title": "🎸✨ Thrilled to share that Dyson will be at Rock in Rio Lisboa 2024! 🎉 Join us on June 15, 16, 22, and 23 at our amazing Dyson Styling Cube in one…",
+      "link": "https://www.linkedin.com/posts/filipaalmeida1_getreadywithdyson-dysonairstrait-dysonbeauty-activity-7207656509407694848-rAXp",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-99044395",
+      "summary": "Tradução * Ensino * Formação",
+      "location": "Lisboa"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-7656a467",
+      "summary": "Recruiter at KPMG Portugal",
+      "location": "Lisboa"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-9316b925",
+      "summary": "Head of Continuous Improvement na CaetanoBus",
+      "location": "Porto"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-0a3a729",
+      "summary": "Engenharia do Ambiente/ Agroecologia / Agricultura biológica e biodinâmmica / Permacultura",
+      "location": "Porto"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-4824461b0",
+      "summary": "Office Manager | Metyis",
+      "location": "Porto"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-ramalho-almeida",
+      "summary": "Talent Recruiter | Aubay",
+      "location": "Setúbal"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida",
+      "summary": "HR Business Partner",
+      "location": "Lisbon Metropolitan Area"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-096b8a3b",
+      "summary": "Founder and CEO at Nanny Portugal Agency  and Nanny Portugal School",
+      "location": "Cascais"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida-0114a029",
+      "summary": "Chief Customer Officer | Onport",
+      "location": "Portugal"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipaalmeidadesign",
+      "summary": "Head graphic design SPAR Portugal",
+      "location": "Portugal"
+    },
+    {
+      "name": "Filipa A.",
+      "link": "https://pt.linkedin.com/in/filipa-a-32909310",
+      "summary": "Analista de risco de crédito na COSEC",
+      "location": "Lisboa"
+    },
+    {
+      "name": "Filipa Almeida",
+      "link": "https://pt.linkedin.com/in/filipa-almeida1",
+      "summary": "MBA | Strategic HR & Data Leader | Change Management Specialist | Advocate for Diversity & Inclusion | Driving Innovation Across Global Teams",
+      "location": "Lisbon"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-01-07T00:00:00Z"
+  }
+}

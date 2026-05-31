@@ -1,0 +1,561 @@
+{
+  "public_identifier": "mandyrayment",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ecd492909d02e7334815a36782a4577f",
+  "background_cover_image_url": null,
+  "first_name": "Mandy",
+  "last_name": "Rayment",
+  "full_name": "Mandy Rayment",
+  "follower_count": 1508,
+  "occupation": "Global Communications Director at Talon",
+  "headline": "Global Communications Director - Talon / ex-Publicis / ex-Dentsu",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Talon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Global Communications Director",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "company": "Publicis Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/publicismedia",
+      "company_facebook_profile_url": null,
+      "title": "Director Of Communications",
+      "description": "As a Board Member reporting directly to the CEO and working alongside 7 other C-Suite ExCo board members, I have the privilege of leading the communications and marketing function, as well as overseeing our talented in-house design team. Responsible developing comprehensive communication and marketing strategies for Publicis Media and its sub-brands, including Zenith, Starcom, Spark Foundry, Performics, PMX, and Publicis Commerce. In addition to these responsibilities, I also take charge of all internal communications and employee engagement initiatives for our 1800-strong workforce. \n\nAs a member of Publicis Groupe UK's Top 50 Senior Leadership Team, I strive to uphold the company's values and vision in all that I do.",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0bb4ba94f0e138ab17e108c67a13b3ee"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "VivaWomen! UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vivawomenuk",
+      "company_facebook_profile_url": null,
+      "title": "Board Member",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e0385f3875cfc0c7bead595f67433e3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "dentsu",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Communications & Marketing Director, UK & Ireland",
+      "description": "Reporting to the CEO, I was promoted to lead the corporate communications and marketing function for Dentsu and its sub-brands including Carat, iProspect, DentsuX, Vizeum and Isobar. I oversaw a team accountable for Employee Engagement, External Communications and PR, Events, Digital Marketing, Thought Leadership and Social Impact.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "Dentsu Aegis Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dentsu",
+      "company_facebook_profile_url": null,
+      "title": "Head of Corporate Communications, UK & Ireland",
+      "description": "As Head of Corporate Communications, I oversaw a small team focussed on external comms and PR.",
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dd961fba3110b27917f2a29f7d56886b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2020
+      },
+      "company": "&PROUD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Co Chair",
+      "description": "During my time at Dentsu, I helped set up and launch the LGBT+ employee resource group, called '&Proud'. As Co-Chair, I led a passionate group of volunteers from across the business, representing many agencies, to ensure that LGBT+ people can be open, authentic and true to themselves; with the knowledge that they will be treated fairly, respectfully and as equals.",
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2013
+      },
+      "company": "Isobar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/isobar",
+      "company_facebook_profile_url": null,
+      "title": "Director of Marketing Communications, UK",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/266ae8224ae7a0f8383e982f92350b9c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Isobar",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/isobar",
+      "company_facebook_profile_url": null,
+      "title": "Global Marketing Communications Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/266ae8224ae7a0f8383e982f92350b9c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "company": "Time+Space",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/time-space",
+      "company_facebook_profile_url": null,
+      "title": "Marketing & PR Manager",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/93a43a70ac6a5eb2065e22453864a036"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Stover School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "South Devon College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/eleni-kanellas1510",
+      "name": "Eleni Kanellas",
+      "summary": "Director Of Communications at Newnham College",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/katemcferran",
+      "name": "Kate McFerran",
+      "summary": "Corporate Affairs & Communications Director | Brand & Marketing | Reputation | Business Development",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katiesteels",
+      "name": "Katie Steels",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleanorconroy",
+      "name": "Eleanor Conroy",
+      "summary": "Director of Communications at Publicis Groupe (UK + EMEA)",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cathrynrowley",
+      "name": "Cathryn Rowley",
+      "summary": "Director, Communications at L&Q",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsay-complin-0735b614",
+      "name": "Lindsay Complin",
+      "summary": "Highly experienced communications professional.  Impressive breadth of skills across inspiring leadership, powerful strategy development and advising very senior stakeholders. EMCC coach and OCM coaching supervisor",
+      "location": "Cobham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rfhayhurst",
+      "name": "Richard Hayhurst",
+      "summary": "Experienced PR entrepreneur for both private and public sector",
+      "location": "Bath"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-sinnatt-3b45224",
+      "name": "Jonathan Sinnatt",
+      "summary": "Freelance",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-kenyon-ba32555",
+      "name": "Caroline Kenyon",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rebeccahildreth",
+      "name": "Rebecca Hildreth",
+      "summary": "Leader in communications, external affairs, reputation and brand management. Creative strategist delivering exceptional results",
+      "location": "Kent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cullencatherine",
+      "name": "Catherine Cullen",
+      "summary": "Impact + strategy + leadership + communications",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-melling-656b5013",
+      "name": "Lucy Melling",
+      "summary": "Communications director and strategic business leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-heywood-4b932914",
+      "name": "Steve Heywood",
+      "summary": "Home Group",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-griffiths-14a65214",
+      "name": "Sarah Griffiths",
+      "summary": "Director of Marketing & Communications (EMEA) at Gallagher | Board Member iWIN",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericaboardman",
+      "name": "Erica Boardman",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tash-carpenter-02224b16",
+      "name": "Tash Carpenter",
+      "summary": null,
+      "location": "Dorridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-hussey-7b2b492a",
+      "name": "Nicola Hussey",
+      "summary": "Award-winning Senior Communications specialist (MCIPR) | Charity Trustee",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jean-wylie-59486838",
+      "name": "Jean Wylie",
+      "summary": "Strategic Communicator, Storyteller and Collector of People",
+      "location": "Belfast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefan-jarmolowicz-53304011b",
+      "name": "Stefan Jarmolowicz",
+      "summary": "Head of Global PR at Ultimate Performance",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-lillicrap-835aa7145",
+      "name": "Sarah Lillicrap",
+      "summary": "Director Of Communications at Truro High School for Girls",
+      "location": "Truro"
+    }
+  ],
+  "recommendations": [
+    "Silvia de Candia\n\nMandy and I worked together at Dentsu Aegis Network, where we were both part of the PR and Comms team for the advertising group. Mandy is an extremely talented professional. Her creativity, originality and media awareness always stood out and delivered really inspiring and successful work. I found in Mandy a great mentor and a warm person to work with (and sit next to!). I miss her and I hope our career paths will cross again in the future!",
+    "Lydia Oakes\n\nI worked with Mandy indirectly in my role as Head of Marketing for iProspect, part of Dentsu Aegis. Her strong leadership and collaborative approach ensure the success of the projects she leads. As well as being a highly skilled PR and Communications professional, Mandy is an abolute pleasure to work with."
+  ],
+  "activities": [
+    {
+      "title": "5 things I would rather do than work for Meta: 1. Do the London-Manchester commute 4 times a day for a year 2. Rewatch 'Lost' in reverse episode…",
+      "link": "https://www.linkedin.com/posts/omar-oakes-54b6829_5-things-i-would-rather-do-than-work-for-activity-7294643202106482691-JIUQ",
+      "activity_status": null
+    },
+    {
+      "title": "Hello network! We’re looking for a Marketing Exec to join our team… a great role for a curious mind, who can communicate and interpret well. All the…",
+      "link": "https://www.linkedin.com/posts/bryanscott_hello-network-were-looking-for-a-marketing-activity-7293627851025633280-BUOs",
+      "activity_status": null
+    },
+    {
+      "title": "Crunchy, yummy, chewy – unleash your senses 🍬 This week, Nerds are bringing the sweetest experience to Piccadilly. Sink your teeth into an…",
+      "link": "https://www.linkedin.com/posts/piccadilly-lights_piccadillylights-activity-7293282405585412096-T6zm",
+      "activity_status": null
+    },
+    {
+      "title": "Crunchy, yummy, unmissable. 🍬 Piccadilly Lights just got seriously sweet. Nerds latest DeepScreen® campaign - brought to life by our Ocean Studio…",
+      "link": "https://www.linkedin.com/posts/ocean-outdoor_theartofoutdoor-nerds-activity-7293283301308452866-YBRL",
+      "activity_status": null
+    },
+    {
+      "title": "We're Hiring #OOH Planners! 🚀 Talon is in search of two OOH Planners in NYC or on the West Coast. What You'll Do: Plan and manage traditional &…",
+      "link": "https://www.linkedin.com/posts/talonoohna_ooh-thinkoutside-hiring-activity-7292992486254280704-DxOC",
+      "activity_status": null
+    },
+    {
+      "title": "JCDecaux to double the number of roadside screens in London. JCDecaux has unveiled its vision to double the number of digital roadside 2m² screens…",
+      "link": "https://www.linkedin.com/posts/jcdecaux_jcdecaux-to-double-the-number-of-roadside-activity-7292799260591345665-66By",
+      "activity_status": null
+    },
+    {
+      "title": "Is the obsession with media firsts holding us all back? 🤔 Some of the best, most effective campaigns in OOH (and beyond) aren’t about shiny new…",
+      "link": "https://www.linkedin.com/posts/jayyoung1_creativeooh-ooh-activity-7292459492703629312-rUly",
+      "activity_status": null
+    },
+    {
+      "title": "Spotted on the Tube last night… and I had to stop and admire this. This Bridget Jones: Mad About the Boy poster does something so simple yet so…",
+      "link": "https://www.linkedin.com/posts/venetiasour_spotted-on-the-tube-last-night-and-i-had-activity-7290784875555483648-aFgx",
+      "activity_status": null
+    },
+    {
+      "title": "Huge thanks to The Media Leader UK for inviting me to give some thoughts about Meta. The article is in the comments below. Meta is a business…",
+      "link": "https://www.linkedin.com/posts/lindseyclay1_huge-thanks-to-the-media-leader-uk-for-activity-7292098716855861248-vksT",
+      "activity_status": null
+    },
+    {
+      "title": "From LDN ✈️ NYC Was an absolute honour this week to be part of the Ozone representation in NYC for Stagwell’s #FutureofNews Publisher Summit. Our…",
+      "link": "https://www.linkedin.com/posts/bryanscott_futureofnews-activity-7291063872470331392-H9yD",
+      "activity_status": null
+    },
+    {
+      "title": "We’re excited to welcome Andrew Pearson as our first North American SVP, Creative Strategy. 🎉 With over 20 years of crafting award-winning…",
+      "link": "https://www.linkedin.com/posts/grand-visual_were-excited-to-welcome-andrew-pearson-as-activity-7288223998771957762-Gc6Y",
+      "activity_status": null
+    },
+    {
+      "title": "You'll never sell if you don't listen to the market. But equally you can't just say whatever you think people expect to hear. A great Selling Story…",
+      "link": "https://www.linkedin.com/posts/matthewhook_youll-never-sell-if-you-dont-listen-to-activity-7295701987642212352-vvwm",
+      "activity_status": null
+    },
+    {
+      "title": "Talon MENA at the GCC OOH Industry Summit 2025!🚀 Last week, we challenged the industry with a powerful thought: \"Data means nothing without great…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor-mena_talonmena-gccoohsummit-activity-7297587584157847554-Yaec",
+      "activity_status": null
+    },
+    {
+      "title": "Build trust in your brand with Out-of-Home. As our ‘The Moment For Trust’ research with Clear Channel UK shows, brand trust and consideration go…",
+      "link": "https://www.linkedin.com/posts/jcdecaux-uk_jcduk-ooh-activity-7297208225072906241-YDJs",
+      "activity_status": null
+    },
+    {
+      "title": "I mean, sure, give me an addressable, flywheel-integrated, data and AI enabled, agile, signal-based ecosystem. But give me this too. Brand…",
+      "link": "https://www.linkedin.com/posts/drwilding_i-mean-sure-give-me-an-addressable-flywheel-integrated-activity-7297163999261945856-uj6U",
+      "activity_status": null
+    },
+    {
+      "title": "We were so excited to get the Alight Media team together this week for our 2025 kick off session. 2025 is a huge year for Alight as we celebrate our…",
+      "link": "https://www.linkedin.com/posts/dan-durling-2045bb9_positivelydifferent-alightmedia-team-activity-7291189856301371392-ajFw",
+      "activity_status": null
+    },
+    {
+      "title": "When you've out and about'd enough. When you've extra mile'd enough. When you've showtime'd enough. When you've fun uncle'd enough. Uber Eats 💚 🍔…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_ooh-activity-7293584328444239873-DZTg",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to all who attended our annual Media Owner partners event yesterday - Playing the ACES in 2025 ✨ It was wonderful to see you all and to…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_ooh-dooh-thinkoutside-activity-7296102750507917312-UqBv",
+      "activity_status": null
+    },
+    {
+      "title": "Wrapping up January with the first campaign highlights of 2025! #ThinkOutside",
+      "link": "https://www.linkedin.com/posts/talonoohna_thinkoutside-activity-7291178021296750592-RWku",
+      "activity_status": null
+    },
+    {
+      "title": "What an incredible experience. With Energy, Focus and Attention truly anything is possible! So yesterday, I stepped majorly out of my comfort zone…",
+      "link": "https://www.linkedin.com/posts/biancabest_energize-success-impact-activity-7295417780537864192-Zhs4",
+      "activity_status": null
+    },
+    {
+      "title": "Because on a day like this, only a takeaway will do!  TALON OUTDOOR LIMITED Uber Ocean Outdoor #takeaway #piccadillylights #dooh",
+      "link": "https://www.linkedin.com/posts/view2fill_takeaway-piccadillylights-dooh-activity-7294752214177206272-ZXiy",
+      "activity_status": null
+    },
+    {
+      "title": "OOH is having a real moment in 2025 ✨ Speaking with The Media Leader UK, Talon’s Chief Programmatic Officer Shanil Chande shares how programmatic…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_ooh-activity-7364613152413478912-Ab8H",
+      "activity_status": null
+    },
+    {
+      "title": "This summer, we’re turning up the taste and the energy with a bold new move — taking our creator partnerships from social to centre stage. Born from…",
+      "link": "https://www.linkedin.com/posts/charlie-crideford_this-summer-were-turning-up-the-taste-and-activity-7358881592003436544-XYt1",
+      "activity_status": null
+    },
+    {
+      "title": "What a day for 7Up Pink Lemonade! Grand Visual are very busy refreshing the nation with splashes of pink to promote the launch of 7Up Pink Lemonade!…",
+      "link": "https://www.linkedin.com/posts/georgia-hamp_what-a-day-for-7up-pink-lemonade-grand-visual-activity-7362098337254150144-1Qop",
+      "activity_status": null
+    },
+    {
+      "title": "In between all the \"noise\" at WPP I managed to squeeze in some time with the straight-talking Natalie Cummins this summer to talk about what's next…",
+      "link": "https://www.linkedin.com/posts/beau-jackson-067525105_essencemediacoms-uk-ceo-natalie-cummins-activity-7361395230358528015-i0Yr",
+      "activity_status": null
+    },
+    {
+      "title": "Industry picks best ads of 2025 so far ✨ Speaking with The Media Leader UK, our Head of UK Client Strategy, Dilki Weerakoon, shares one of her…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_industry-picks-best-ads-of-2025-so-far-activity-7361712467753746433-6zWg",
+      "activity_status": null
+    },
+    {
+      "title": "Well done team! Grand Visual",
+      "link": "https://www.linkedin.com/posts/georgia-hamp_well-done-team-grand-visual-activity-7352053760191258625-9ijf",
+      "activity_status": null
+    },
+    {
+      "title": "After close to 10 years, I have arrived at my final few days at Hawk (an Azerion company). Words can’t describe how proud I am of the journey we…",
+      "link": "https://www.linkedin.com/posts/shanil-chande-10929463_after-close-to-10-years-i-have-arrived-at-activity-7353712683688337408-d6Ba",
+      "activity_status": null
+    },
+    {
+      "title": "Anything is a kebab if you put a skewer through it (even this wall) 🦐 🫑 🧅 Waitrose & Partners unveils two special builds in London featuring…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_anything-is-a-kebab-if-you-put-a-skewer-through-activity-7353778438538731523-9Ocd",
+      "activity_status": null
+    },
+    {
+      "title": "Last month, Talon proudly hosted the fifth edition of the #OOH Football Tournament – uniting ten teams from across the industry in a spirited battle…",
+      "link": "https://www.linkedin.com/posts/talon-outdoor_ooh-charity-football-tournament-2025-activity-7359540449969086464-RHEX",
+      "activity_status": null
+    },
+    {
+      "title": "History, written again by the Lionesses. 🦁 Congratulations to our Lionesses on defending the UEFA Women's EURO 2025 crown and for another…",
+      "link": "https://www.linkedin.com/posts/ocean-outdoor_theartofoutdoor-activity-7355615128345526272-Apw7",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/mandyrayment_campaign-launches-school-reports-2022-activity-6914601067930402817-D_tt",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Mandy Rayment",
+      "link": "https://uk.linkedin.com/in/mandy-rayment-1b028896",
+      "summary": "--",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Amanda Rayment",
+      "link": "https://au.linkedin.com/in/amanda-rayment-736828158",
+      "summary": "Entertainment and Marketing Cooridinator at The Juniors Kingsford",
+      "location": "Sydney, NS"
+    },
+    {
+      "name": "Amanda Rayment",
+      "link": "https://uk.linkedin.com/in/amanda-rayment-6b242431",
+      "summary": "Director of Antenatal Wisdom at Welcome World herbal teas",
+      "location": "Bristol"
+    },
+    {
+      "name": "Amanda Rayment",
+      "link": "https://uk.linkedin.com/in/amanda-rayment-abb8ba15",
+      "summary": "--",
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Mandy Rayment",
+      "link": "https://uk.linkedin.com/in/mandy-rayment-41b60428b",
+      "summary": "--",
+      "location": "London"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-02T00:00:00Z"
+  }
+}

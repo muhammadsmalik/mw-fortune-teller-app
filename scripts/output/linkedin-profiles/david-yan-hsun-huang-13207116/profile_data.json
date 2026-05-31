@@ -1,0 +1,329 @@
+{
+  "public_identifier": "david-yan-hsun-huang-13207116",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "David Yan-Hsun",
+  "last_name": "Huang",
+  "full_name": "David Yan-Hsun Huang",
+  "follower_count": 522,
+  "occupation": "Managing Director at DynaScan Technology",
+  "headline": "Managing Director",
+  "summary": null,
+  "location_str": "台灣 臺北市 台北",
+  "country": "TW",
+  "country_full_name": "Taiwan",
+  "city": "Taipei",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "DynaScan Technology",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Director",
+      "description": null,
+      "location": "Taipei City, Taiwan",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Chroma ATE Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/chroma-ate-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Special Assistant to the Chairman",
+      "description": null,
+      "location": "Taiwan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dbd396dff40b206f118b0980275d7400"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Chroma ATE Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/chroma-ate-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Board Director",
+      "description": null,
+      "location": "Taiwan",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dbd396dff40b206f118b0980275d7400"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2020
+      },
+      "company": "DynaScan Technology, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dynascan-technology-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Global Director",
+      "description": null,
+      "location": "Irvine, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b3660876522fe3c5389c3b06fdb07b87"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "company": "DynaScan Technology, Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/dynascan-technology-inc.",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": null,
+      "location": "Irvine, CA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/b3660876522fe3c5389c3b06fdb07b87"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2006
+      },
+      "company": "Chroma ATE, Inc. (USA)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/chroma-ate-united-states",
+      "company_facebook_profile_url": null,
+      "title": "Business Analyst",
+      "description": null,
+      "location": "Irvine, CA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2c1074a11afe39b84ae3e1f669e1f3dd"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2003
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Western University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/westernuniversity",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4df6031e8917afbdcc53c1ffb980a951",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Shawnigan Lake School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/shawnigan-lake-school",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c6a26ecb8d1507e2d9ea406f3fcde4c7",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Chinese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 487,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/vanosdelln",
+      "name": "Natalie van Osdell",
+      "summary": "Sr. Business Analyst | CRM Administrator, VEGA Americas, Inc.",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kory-fullmer-mba-b0aa253",
+      "name": "Kory Fullmer, MBA",
+      "summary": "Sales Engineer",
+      "location": "Georgetown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tejusvr",
+      "name": "Tejus V Reddy",
+      "summary": "Healthcare |  Real Estate |",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brian-perkins-7362a15",
+      "name": "Brian Perkins",
+      "summary": "Senior Account Manager & Business Leader | Sales Management | Business Development | Account Planning | Marketing Strategy | Strategic Partnerships",
+      "location": "Maryville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rgnavarrete",
+      "name": "Raymond G Navarrete",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brittany-willison-fite",
+      "name": "Brittany Willison Fite",
+      "summary": "Reporting Supervisor at MarketSource Inc.",
+      "location": "Atlanta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-ovington-8620965",
+      "name": "Laura Ovington",
+      "summary": "Product Manager  at T-Mobile",
+      "location": "Overland Park"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-renie-9a5a606",
+      "name": "James Renie",
+      "summary": null,
+      "location": "Raleigh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerailey",
+      "name": "Jason Railey",
+      "summary": "Global Sales Director & Strategic Alliances Executive",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-green-3890b013",
+      "name": "Richard Green",
+      "summary": "Sr. Business Analyst at Sypris Electronics, LLC",
+      "location": "Edgewater"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pam-scott-87023118",
+      "name": "Pam Scott",
+      "summary": "Business Analyst at Qorvo",
+      "location": "Reidsville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janet-maroon-1038562a",
+      "name": "Janet Maroon",
+      "summary": null,
+      "location": "Memphis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franco-chakkalakal-36147640",
+      "name": "Franco Chakkalakal",
+      "summary": null,
+      "location": "Manvel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lacey-stoerp-0b155a56",
+      "name": "Lacey Stoerp",
+      "summary": "Federal Business Development at M.C. Dean, Inc.",
+      "location": "Washington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-jorgenson-8116396a",
+      "name": "Jeff Jorgenson",
+      "summary": null,
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amy-pittman-a9405579",
+      "name": "Amy Pittman",
+      "summary": "Transformation Lead at DigiKey",
+      "location": "Thief River Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craig-bishop-11422290",
+      "name": "Craig Bishop",
+      "summary": "--",
+      "location": "Poolville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cathy-washburn-45803b99",
+      "name": "Cathy Washburn",
+      "summary": "Business Analyst at Hubbell Incorporated",
+      "location": "Sandy Hook"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joan-greenwell-638674b5",
+      "name": "Joan Greenwell",
+      "summary": null,
+      "location": "Morrow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heidi-larson-5b8276126",
+      "name": "Heidi Larson",
+      "summary": "Business Analyst at Digi-Key Electronics",
+      "location": "Thief River Falls"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-09T00:00:00Z"
+  }
+}

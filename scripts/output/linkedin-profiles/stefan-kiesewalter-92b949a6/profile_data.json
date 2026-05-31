@@ -1,0 +1,666 @@
+{
+  "public_identifier": "stefan-kiesewalter-92b949a6",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/d81210e5ee1f689249b81767ea68242a",
+  "background_cover_image_url": null,
+  "first_name": "Stefan",
+  "last_name": "Kiesewalter",
+  "full_name": "Stefan Kiesewalter",
+  "follower_count": 890,
+  "occupation": "Head of Client Service Management at Weischer.OOH",
+  "headline": "Head of Client Service Management",
+  "summary": null,
+  "location_str": "Frankfurt Rhine-Main Metropolitan Area",
+  "country": "DE",
+  "country_full_name": "Germany",
+  "city": "Darmstadt",
+  "state": "Hessen",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Weischer.OOH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/weischerooh",
+      "company_facebook_profile_url": null,
+      "title": "Head of Client Service Management",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c42936425c305f5bd9d9d67a998167cc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Weischer.OOH",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/weischerooh",
+      "company_facebook_profile_url": null,
+      "title": "Head of International Media Department",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c42936425c305f5bd9d9d67a998167cc"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "field_of_study": null,
+      "degree_name": "Diplom",
+      "school": "Johannes Gutenberg-Universität Mainz",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1993
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Eberhard-Karls-Universität Tübingen",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1991
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Johannes Gutenberg-Universität Mainz",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Englisch",
+    "Französisch"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Englisch",
+      "proficiency": null
+    },
+    {
+      "name": "Französisch",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/anke-sch%25C3%25B6be-33baa922",
+      "name": "Anke Schöbe",
+      "summary": "Head of Customer Service bei rightmart Berlin",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/petra-brahm",
+      "name": "Petra Brahm",
+      "summary": "Head of Strategic Media Planning I Account Director bei Weischer.JvB GmbH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annina-schl%25C3%25BCter",
+      "name": "Annina Schlüter",
+      "summary": "Head of Planning & Consulting @ Weischer.OOH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-dostal-5ab212268",
+      "name": "Frank Dostal",
+      "summary": "Customer Service Specialist bei Keysight Technologies | Kundensupport",
+      "location": "Böblingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruth-messerschmidt-0a80b0101",
+      "name": "Ruth Messerschmidt",
+      "summary": "Onboarding, Employer Branding & wertschätzende Geschenkpakete für Geschäftspartner | LogisticAct GmbH Köln & LA Paketerie – Expertin für individuelle Wertschätzung im Unternehmensalltag",
+      "location": "Frechen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andre-funke-16b8b9121",
+      "name": "Andre Funke",
+      "summary": "Senior Audience Analyst at RTL Deutschland GmbH",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angie-eck-0a4618244",
+      "name": "Angie Eck",
+      "summary": null,
+      "location": "De Soto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meganmoneypenny",
+      "name": "Megan Moneypenny",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-pople-9451324",
+      "name": "Steve Pople",
+      "summary": "Independent Consultant | Non Executive Director | Business Leadership, Marketing Communications",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-jurisch",
+      "name": "Michael Jurisch",
+      "summary": "Senior Digital & AI Transformation Executive | Co-Autor „KI im Kundenservice DACH 2025” | Organisationen bereit machen für Veränderung",
+      "location": "Kleinmachnow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefanie-linz-39232015",
+      "name": "Stefanie Linz",
+      "summary": "Marketing Automation Consultant",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-trouvain-02915b19",
+      "name": "Marc Trouvain",
+      "summary": "Account Director bei Weischer.OOH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ulrich-spies-5abb8526",
+      "name": "Ulrich Spies",
+      "summary": "Director Global E-Commerce & Digital Sales at STIHL  | Managing Director at STIHL digital Services GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-rebernigg-468b9341",
+      "name": "Patricia Rebernigg",
+      "summary": "Account Director",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hans-peter-szeip-08034145",
+      "name": "Hans-Peter Szeip",
+      "summary": "Mediaberater, Kommunikations- und Verkaufstrainer; Dozent",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/manuela-bruhn-aa8b574a",
+      "name": "Manuela Bruhn",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-metzler-32714552",
+      "name": "Marc Metzler",
+      "summary": "Senior Media Manager",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/timo-gorges-34441153",
+      "name": "Timo Gorges",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stefanie-klemkow-92991b57",
+      "name": "Stefanie Klemkow",
+      "summary": "Head of Planning & Consulting, Planning & Consulting Team 2",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-brind%25C3%25B6pke-7a75b564",
+      "name": "Thomas Brindöpke",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanja-dostal-39673b65",
+      "name": "Tanja Dostal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/timraabe",
+      "name": "Tim Raabe",
+      "summary": "Head of International Sales at blowUP media",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-wiedau-41271576",
+      "name": "Dirk Wiedau",
+      "summary": "Head of Client Relations DOOH | Gründer & Safari-Spezialist Tansania | Berater für B2B & B2C Beziehungsmanagement | „If you want to go fast go alone, if you want to go far go together.“",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/felix-fischer-97100a82",
+      "name": "Felix Fischer",
+      "summary": "Marketingleiter | Experte für digitale Transformation & E-Commerce | Führungsstärke in der Getränkeindustrie | Fokus auf datenbasierte Marketingstrategien",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dirk-altenscheidt-98335486",
+      "name": "Dirk Altenscheidt",
+      "summary": "Partner at KPS",
+      "location": "Ruhr"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oona-schmalbruch-23174688",
+      "name": "Oona Schmalbruch",
+      "summary": null,
+      "location": "Bremen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-liebelt-8253928b",
+      "name": "Christian Liebelt",
+      "summary": "it’s all about people",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-heyer-67925193",
+      "name": "Michael Heyer",
+      "summary": null,
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-mader-dunn-967b2ba9",
+      "name": "Victoria Mader-Dunn",
+      "summary": null,
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/werner-lang-b91240106",
+      "name": "Werner Lang",
+      "summary": "Deputy Director Customer Service Center bei HOTEL DE GmbH",
+      "location": "Beratzhausen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susanne-presland-694448107",
+      "name": "Susanne Presland",
+      "summary": null,
+      "location": "Hannover"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristina-brendel-50b400112",
+      "name": "Kristina Brendel",
+      "summary": null,
+      "location": "Frankfurt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valerie-schafaff-30a37a113",
+      "name": "Valerie Schafaff",
+      "summary": "Media Manager Implementation Billing",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/torsten-behnke-958814114",
+      "name": "Torsten Behnke",
+      "summary": "Dipl.-Ing.",
+      "location": "Lingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/holger-leonhardt-990608124",
+      "name": "Holger Leonhardt",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-nitschmann-974243126",
+      "name": "Stephan Nitschmann",
+      "summary": "Director Media Investment",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jutta-reichelt-6746b012a",
+      "name": "Jutta Reichelt",
+      "summary": "Effizienz aus dem Inneren heraus gestalten.",
+      "location": "Ahrensburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-dostal-95b891133",
+      "name": "Frank Dostal",
+      "summary": "Account Manager Client Solutions bei Dell",
+      "location": "Wiesbaden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danel-frohmann-71b099146",
+      "name": "Danel Frohmann",
+      "summary": "Media Consultant if the inovisco group",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-neves-64b095154",
+      "name": "Daniel Neves",
+      "summary": null,
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cynthia-rocker-7996a4164",
+      "name": "Cynthia Rocker",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbara-hinz-715260167",
+      "name": "Barbara Hinz",
+      "summary": "Director Client Advice Management",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-bedel-7b4b9517a",
+      "name": "Thomas Bedel",
+      "summary": null,
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dina-tribukeit-32b107197",
+      "name": "Dina Tribukeit",
+      "summary": "Senior Media Buyer bei Weischer.JvB GmbH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/j%25C3%25B6rg-pommeranz-a38ab1198",
+      "name": "Jörg Pommeranz",
+      "summary": null,
+      "location": "Münster"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-neu",
+      "name": "Sebastian Neu",
+      "summary": "Senior Key Account Manager bei Score Media Group GmbH & Co. KG",
+      "location": "Düsseldorf"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gregor-d%25C3%25BCster-a614221a4",
+      "name": "Gregor Düster",
+      "summary": "Angestellter bei Stadt Köln",
+      "location": "Cologne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A3%25C2%25A9-czaplicki-89b1251a5",
+      "name": "André Czaplicki",
+      "summary": "Energievertrieb",
+      "location": "Wismar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ursula-wittkowski-0b19441a5",
+      "name": "Ursula Wittkowski",
+      "summary": "Mediaplaner bei Weischer.JvB",
+      "location": "Heiligenstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lena-a-432b881b4",
+      "name": "Lena A.",
+      "summary": "Accounting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadine-mielke",
+      "name": "Nadine Mielke",
+      "summary": "Kino - Emotion trifft auf echte Menschen.",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marilena-schraner-929465216",
+      "name": "Marilena Schraner",
+      "summary": "Head of Implementation/Buying @Weischer.OOH",
+      "location": "Hamburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anja-erlmann-7b45a9222",
+      "name": "Anja Erlmann",
+      "summary": "Media Planning & Strategy Professional | International Client Management | ROI-Focused Campaigns | Leading large, diverse teams across international markets",
+      "location": "Darmstadt"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "World out of home Congress 2026 ahead! Looking forward to exciting days lead by World Out of Home Organization filled with great presentations and…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_is-out-of-home-under-threat-from-global-regulations-activity-7459855750941523968-xs72",
+      "activity_status": null
+    },
+    {
+      "title": "Bin dieses Jahr dabei und freue mich auf viele interessante Vorträge, Diskussionen, Gespräche. Masterclasses und was sich sonst noch so in den Hallen…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_omr26-weischerooh-ooh-activity-7455502793257414657-oWGu",
+      "activity_status": null
+    },
+    {
+      "title": "#WeischerOOH #DigitalOutOfHome #OutOfHome #BestCases #GoldenerHans #DOOH #OOH",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_weischerooh-digitaloutofhome-outofhome-activity-7389666375503446016-PREV",
+      "activity_status": null
+    },
+    {
+      "title": "Relaxing for the days, weeks, months to come! #weischerooh #ooh #dooh #retailmedia #worldoutofhome #faw",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_weischerooh-ooh-dooh-activity-7374194184678891520-9jI-",
+      "activity_status": null
+    },
+    {
+      "title": "Ein generelle „Verbotskultur“ kann nie die „Ultima Ratio“ sein. #ooh #dooh #proplakat #faw #weischerooh",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-proplakat-activity-7371894848674508800-fWyy",
+      "activity_status": null
+    },
+    {
+      "title": "So, jetzt darf es endlich raus! Das mache ich doch auch gern mal aus dem Urlaub heraus: WE ARE Weischer.OOH! #WeischerOOH #WeAreOOH #OutOfHome #OOH…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_weischerooh-weareooh-outofhome-activity-7371213859006787584-R9EW",
+      "activity_status": null
+    },
+    {
+      "title": "Auch im Juli zeigt sich: Der Trend von OOH bleibt stabil, nach 10% Marktanteil im Juni nun 10,3% im Juli! #ooh #dooh #prdooh #faw #weischer",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-prdooh-activity-7364589255311900672-zEEU",
+      "activity_status": null
+    },
+    {
+      "title": "Here we go!!!",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_here-we-go-activity-7353737882823471104-qjHC",
+      "activity_status": null
+    },
+    {
+      "title": "Another great collaboration of pilot Agenturgruppe, Weischer.JvB and MEDIAKEYS for the client Zum Dorfkrug Unternehmensgruppe. Live in the Big Apple!…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_another-great-collaboration-of-pilot-agenturgruppe-activity-7350405746125111296-pg4m",
+      "activity_status": null
+    },
+    {
+      "title": "Ihr wollt in New York, London oder sonst wo auf der Welt Euren Spot schalten? Kein Thema, wir von Weischer.JvB sind global vernetzt um für Euch den…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_iconic-high-impact-outdoor-campaign-with-activity-7350415828342784000-DjIR",
+      "activity_status": null
+    },
+    {
+      "title": "In eigener Sache: Vor 30 Jahren war Birne noch Kanzler, der Film Forrest Gump erhielt 6 Oscars, Frankfurt Galaxy holte sich seinen ersten World-Bowl…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-tech-activity-7353429876948762624-uyjr",
+      "activity_status": null
+    },
+    {
+      "title": "Last day of World Out of Home Organization congress opens with more interesting insights from all around the world of OOH! #OOH #DOOH #Retailmedia…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-retailmedia-activity-7336852651751411713-TB1z",
+      "activity_status": null
+    },
+    {
+      "title": "More great presentations and panels to come! #ooh #dooh #woomexico #wooho",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-woomexico-activity-7336234219418890241-7bud",
+      "activity_status": null
+    },
+    {
+      "title": "Back home, what were my highlights of the days at World Out of Home Organization annual congress? Many exciting presentations and panel discussions…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-retailmedia-activity-7338220108101648385-XxcZ",
+      "activity_status": null
+    },
+    {
+      "title": "And much more inspiration, news, speakers, highlights at the afternoon at the World Out of Home Organization congress. Want to know more? Can‘t wait…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_woomexicocity-ooh-dooh-activity-7336538604099272704-CO-p",
+      "activity_status": null
+    },
+    {
+      "title": "World Out of Home Organization getting bigger and bigger, amazing amount of delegates and partners from all around the world of the OOH industry at…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-woomexicocity-activity-7336450716032512000-9ZED",
+      "activity_status": null
+    },
+    {
+      "title": "Great start into this years World Out of Home Organization congress! German #OOH business seems to be doing a quite good job 😄 Proud to represent…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-ooh-dooh-activity-7336448959030177793-bkXN",
+      "activity_status": null
+    },
+    {
+      "title": "Faszinierende Wachstumsraten in 2024 für OOH! So lag gemäß der ZAW-Bilanz der Zuwachs bei 24,6 Prozent, im DOOH Segment sogar bei 35,6 Prozent. Wie…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_zaw-bilanz-so-lief-das-werbejahr-2024-activity-7331256943337984000-HHtI",
+      "activity_status": null
+    },
+    {
+      "title": "Dem kann ich nur komplett beipflichten Annina! 😄",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_dem-kann-ich-nur-komplett-beipflichten-annina-activity-7333766866793922560-bw1J",
+      "activity_status": null
+    },
+    {
+      "title": "Ich hoffe auf viele bekannte und neue Gesichter bei der #Plakadiva 2025 des Fachverband Aussenwerbung e.V. (FAW) morgen in München! Sehen wir uns?…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_plakadiva-ooh-faw-activity-7332657064856449025--k_i",
+      "activity_status": null
+    },
+    {
+      "title": "Ja, Hongkong ist voller gigantischer DOOH Screens, aber eine analoge Tankstellen-Dominanz hat hier doch auch was! Kino & OOH, das ist doch mal ein…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-dooh-wooh-activity-7205204271754076160-jMl8",
+      "activity_status": null
+    },
+    {
+      "title": "Und noch einmal ein fantastischer Blick von Outsite Media auf die für unseren Kunden Unilever großartig in Szene gesetzten Murals für die Welt der…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-langnese-weischer-activity-7224774093328248832-Zc7x",
+      "activity_status": null
+    },
+    {
+      "title": "OOH rockt und Weischer.JvB sowieso! 😁 Dazu hier ein kleiner Inside-View von einer meiner Lieblingskolleginnen Annina Schlüter! und wer nun Bock hat:…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-rockt-und-weischerjvb-sowieso-dazu-activity-7213573109243662336-Xa_y",
+      "activity_status": null
+    },
+    {
+      "title": "Sehr erquickend wenn sich die Kreativen Größen des Landes zu den von uns, Weischer.JvB, für unseren Kunden Unilever gemeinsam mit der PHD Germany…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-weischer-dove-activity-7217159019621208064-1GY8",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastische Bilder! #ooh #weischer #langense #unilever",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-weischer-langense-activity-7219594838143311872-BOIa",
+      "activity_status": null
+    },
+    {
+      "title": "Murals sind ja immer was \"Besonderes\", und hier durften wir von Weischer.JvB für unseren Kunden Unilever zusammen mit PHD Germany ein wirklich großes…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ooh-weischer-langnese-activity-7219358888943316992-Qy8j",
+      "activity_status": null
+    },
+    {
+      "title": "Getting ready for the start of the annual World Out of Home Organization Congress 2024, sharing some first Pre-Impressions!",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_getting-ready-for-the-start-of-the-annual-activity-7204002231614861314-R0Le",
+      "activity_status": null
+    },
+    {
+      "title": "Ja dann müssen jetzt nur noch die Tore fallen und Julian's Jungs den Titel holen! 😉 Beim letzten EM-Titel hießen die übrigens noch \"Berti's Buben\" 😝",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_ja-dann-müssen-jetzt-nur-noch-die-tore-fallen-activity-7203395219373846529-Th7f",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic lineup! #WOOHKCongress #wooh #ooh #dooh",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_our-strongest-speaker-line-up-to-date-for-activity-7202751512685531136-f202",
+      "activity_status": null
+    },
+    {
+      "title": "PrDOOH, Retail Media und mehr TopThemen von Top Speakern auch am Nachmittag des World Out of Home Organization Kongress 2024! Und auch Netzwerken…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_wooh-ooh-dooh-activity-7204418485727248384-m-GA",
+      "activity_status": null
+    },
+    {
+      "title": "The Gala Dinner, always a special highlight at the World Out of Home Organization congress. Happy to be a part of the big global OOH family. 😁 #wooh…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_wooh-dooh-ooh-activity-7204867144096829440-TZxE",
+      "activity_status": null
+    },
+    {
+      "title": "Wir lieben OOH in jeglicher Form!",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_wir-lieben-ooh-in-jeglicher-form-activity-7201952192721858560-iVrx",
+      "activity_status": null
+    },
+    {
+      "title": "Richtiges Statement!",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_demokratie-activity-7162530137740042240-UNu7",
+      "activity_status": null
+    },
+    {
+      "title": "Jürgen Klopp, eine beeindruckende Karriere die ihn aus dem idyllischen Schwarzwald bis zum europäischen Vereins-Fußballthron nach Liverpool führte.…",
+      "link": "https://www.linkedin.com/posts/stefan-kiesewalter-92b949a6_boss-klopp-ooh-activity-7198034690732101633-ZGQo",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Stefan Kiesewalter",
+      "link": "https://de.linkedin.com/in/stefan-kiesewalter-b23b77",
+      "summary": null,
+      "location": "Mainz"
+    },
+    {
+      "name": "Stefan Kiesewalter",
+      "link": "https://de.linkedin.com/in/stefan-kiesewalter-45505359",
+      "summary": "--",
+      "location": "Deutschland"
+    },
+    {
+      "name": "Stefan Kiesewalter",
+      "link": "https://de.linkedin.com/in/stefan-kiesewalter-088a6811a",
+      "summary": "Rechtsanwalt, Steuerberater bei KPMG Deutschland",
+      "location": "Berlin"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-20T00:00:00Z"
+  }
+}

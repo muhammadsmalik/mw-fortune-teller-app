@@ -1,0 +1,581 @@
+{
+  "public_identifier": "anne-sophie-boniface-0a001922",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/ef5ffc59247353ead1411380a3af3b8b",
+  "background_cover_image_url": null,
+  "first_name": "Anne-Sophie",
+  "last_name": "Boniface",
+  "full_name": "Anne-Sophie Boniface",
+  "follower_count": 1927,
+  "occupation": null,
+  "headline": "MEDIAKEYS•2K followers",
+  "summary": "MD France at Mediakeys Group, a 30 year old international and independent communication…",
+  "location_str": "Greater Paris Metropolitan Region",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Paris",
+  "state": null,
+  "experiences": [],
+  "education": [],
+  "languages": [
+    "Français",
+    "Anglais"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Français",
+      "proficiency": null
+    },
+    {
+      "name": "Anglais",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "The Interview #1",
+      "description": "a good portrait of a great artist.",
+      "url": "http://youtu.be/aG_jedeGNjY"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1913,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/abaudrydasson",
+      "name": "Arnaud BAUDRY D'ASSON",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adelyanabiullina",
+      "name": "Adelya Nabiullina",
+      "summary": "International Account Manager chez MEDIAKEYS",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anabeatriz",
+      "name": "Ana Godoy",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/geraldinehammer",
+      "name": "Géraldine Hammer",
+      "summary": "Head of Media for Europe @ Club Med",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariondolbeau",
+      "name": "Marion DOLBEAU",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thibaultleca",
+      "name": "Thibault Leca",
+      "summary": "Managing Director at Mediakeys",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolascouvret",
+      "name": "Nicolas Couvret",
+      "summary": "Directeur @Touchpoint Media / @province_",
+      "location": "Nantes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/de-saint-blanquat-g%25C3%25A9rald",
+      "name": "De Saint Blanquat Gérald",
+      "summary": "Conseil Media Expert OOH",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nadeaubertrand",
+      "name": "Bertrand Nadeau",
+      "summary": "CEO OMD France",
+      "location": "Boulogne-Billancourt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marinehakim",
+      "name": "Marine Hakim",
+      "summary": "Vice-president BETC",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianne-de-guillebon",
+      "name": "Marianne de Guillebon",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolineprinceyucatanrp",
+      "name": "Caroline Prince-Albagnac",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/flienart",
+      "name": "François Lienart",
+      "summary": "Insight & Data - Le Lab CoSpirit",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremienoel",
+      "name": "Jérémie N.",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjembe",
+      "name": "Emmanuel Anjembe",
+      "summary": "Managing director",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philippe-bonnel-rezau",
+      "name": "Philippe Bonnel",
+      "summary": "CEO Rezau SAS (ex CEO Repeat)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/smiquelis",
+      "name": "Stéphane MIQUELIS",
+      "summary": "Directeur commercial Arago",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anamariaolcina",
+      "name": "Ana Maria Olcina",
+      "summary": null,
+      "location": "Vaucresson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/s%25C3%25A9bastien-cimperman-900699b4",
+      "name": "Sébastien Cimperman",
+      "summary": "New Business Manager North America at Arago",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julianne-bouffenie-b5215154",
+      "name": "Julianne BOUFFENIE",
+      "summary": "Head Of Digital Media chez mediakeys",
+      "location": "La Rochelle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fran%25C3%25A7ois-nicolon-17288b18",
+      "name": "François Nicolon",
+      "summary": "CMO, Head of Insights",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sylvie-gruchalski-15829716",
+      "name": "Sylvie Gruchalski",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thibaultpeulen",
+      "name": "Thibault Peulen",
+      "summary": "Managing Director @Cap&Cime PR | Strategic PR & Influence sparring partner | Human-led, Results-driven I Board Member – SCRP (French PR Industry Association)",
+      "location": "St.-Denis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-viel-de-tauriac-93ba35b",
+      "name": "Caroline Viel - de Tauriac",
+      "summary": "Trade Marketing and Strategic Partnerships Director chez Euronews & Africanews",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-maria-tarca-81b57010",
+      "name": "Ana-Maria Tarca",
+      "summary": "Customer Engineer Google Cloud | Generative AI Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stanislas-vert",
+      "name": "Stanislas VERT",
+      "summary": "Communication, Media & Brand Strategy | Global Brand & Client Experience Leader | ex-WPP",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eric-malluile-1b631a11",
+      "name": "Eric Malluile",
+      "summary": "Directeur Media et Commercial France chez MEDIAKEYS",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jos%25C3%25A9phine-fl%25C3%25A9-756aba12",
+      "name": "Joséphine Flé",
+      "summary": ".",
+      "location": "Perpignan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-pierre-rouette-62050314",
+      "name": "Marie-Pierre Rouette",
+      "summary": "Chargée de missions, Bureau des relations gouvernementales et municipales ,  Ville de Montréal",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolas-sistac",
+      "name": "Nicolas Sistac",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-comman-488b6615",
+      "name": "Charles Comman",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dmarchais",
+      "name": "Dominique Marchais",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-daniel-35634b17",
+      "name": "Ana Daniel",
+      "summary": "Financial Controller",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clement-jouvet-a581b923",
+      "name": "Clement Jouvet",
+      "summary": "Co-Founder at Chateau Brooklyn",
+      "location": "Brooklyn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-cahierre-b5a48625",
+      "name": "Paul Cahierre",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ccolomb",
+      "name": "Charles-Antoine Colomb",
+      "summary": "Managing Director @HopscotchPR\n                                     Head of PR @Hopscotch Groupe",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fran%25C3%25A7oise-millet-11410329",
+      "name": "Françoise Millet",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/olivia-laurentjoye-8424742b",
+      "name": "Olivia Laurentjoye",
+      "summary": "Directrice du Philanthro-Lab - Directrice de cabinet de Philippe Journo, Président chez Compagnie de Phalsbourg",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-attar",
+      "name": "Patricia Attar",
+      "summary": "CEO & co‑fondatrice @Hello SunRise PR ☀️ Agence RP & influence | Faire rayonner les acteurs qui façonnent le monde de demain : Match Group, Greenly, Getaround, Yousign, Indy, Yespark, Husqvarna...",
+      "location": "St.-Cloud"
+    },
+    {
+      "link": "https://www.linkedin.com/in/audrey-berthet-b1111036",
+      "name": "Audrey Berthet",
+      "summary": "Senior International Account Director",
+      "location": "Zurich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillaumelegoff1",
+      "name": "Guillaume Le Goff",
+      "summary": "Head Of Culture / Creative Direction, Content & Strategy",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fr%25C3%25A9d%25C3%25A9rik-vuille-09831541",
+      "name": "Frédérik Vuille",
+      "summary": "Compositeur Musique —\nTechnicien Dum Dum films — Photographe",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/catherine-s%25C3%25A3%25C2%25A9dilli%25C3%25A3%25C2%25A8re-59745643",
+      "name": "Catherine Sédillière",
+      "summary": "Industry Relations @Google | CISL Sustainability Business Management graduate",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mickaelboyer",
+      "name": "Mickael Boyer",
+      "summary": "Director VMG AGENCY",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanessa-remy",
+      "name": "Vanessa Remy",
+      "summary": null,
+      "location": "Versailles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/m%25C3%25A9lodie-baudusseau-0438a051",
+      "name": "Mélodie Baudusseau",
+      "summary": "Marketing & e-commerce Director",
+      "location": "Clermont-Ferrand"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-de-langsdorff-3781ab52",
+      "name": "christian de langsdorff",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julianne-bouff%25c3%25a9nie-b5215154",
+      "name": "Julianne Bouffénie",
+      "summary": "Head Of Digital Media chez mediakeys",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ekaterina-dmitrieva-ba23b954",
+      "name": "Ekaterina Dmitrieva",
+      "summary": "Engagement Architect at SAP",
+      "location": "Saint Petersburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laura-steyer-5a240969",
+      "name": "Laura Steyer",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-da-silva-18839374",
+      "name": "jose da silva",
+      "summary": null,
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabrice-bertin-b1784b77",
+      "name": "Fabrice Bertin",
+      "summary": null,
+      "location": "Montlhéry"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariongastecorrectrice",
+      "name": "Marion Gasté",
+      "summary": "Correctrice - Rédactrice / Responsable de communication",
+      "location": "Orléans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leopont",
+      "name": "Léo Pont",
+      "summary": "Charpentier formé à la Fédération Compagnonnique de Bordeaux",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-pellereau-840079112",
+      "name": "Ana PELLEREAU",
+      "summary": null,
+      "location": "Lille"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pascale-merzereau-834466116",
+      "name": "pascale Merzereau",
+      "summary": "DG Etudes et Data chez MEDIAPLUS FRANCE",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elham-tavassoli1993",
+      "name": "Elham Tavassoli",
+      "summary": "Global Marketing Manager | Doctor of Pharmacy(PharmD) | MSc in Marketing | Go-to-Market & MarComms Strategy",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clo%25C3%25A3%25C2%25A9-r-38853a157",
+      "name": "Cloé R.",
+      "summary": "Graphiste indépendante chez Champagne Collard-Mercier",
+      "location": "Montpellier"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrieldorangeon",
+      "name": "Gabriel Dorangeon",
+      "summary": "Finance Director North America for Valrhona Selection",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-cristina-orozco-512742160",
+      "name": "Ana Cristina Orozco",
+      "summary": "Senior International Account Director/ Senior Marketing Strategist/ International Advertising Specialist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clementburle",
+      "name": "Clément Burle",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clara-rivis-7125ba216",
+      "name": null,
+      "summary": null,
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "L'innovation chez MEDIAKEYS c'est avant tout une expérience collective ! Une belle récompense pour le travail accompli main dans la main avec Club…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_linnovation-chez-mediakeys-cest-avant-tout-activity-7437501482981244929-RkvV",
+      "activity_status": null
+    },
+    {
+      "title": "So proud of the MEDIAKEYS teams for supporting Club Med in this cinematic 360° campaign! From cinema screens to the streets, we are bringing the new…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_mediakeys-x-club-med-activity-7437536069861957632-y_op",
+      "activity_status": null
+    },
+    {
+      "title": "Dans notre métier on ne sauve pas des vies, mais aujourd’hui on a quand même appris à le faire ! Chaque année, jusqu’à 20 000 vies pourraient être…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_secourisme-securitecivile-mediakeysteam-activity-7402659749080489984-zLXz",
+      "activity_status": null
+    },
+    {
+      "title": "Très heureuse de relayer cette belle initiative de AAMI (Association des Agences Media Indépendantes) et INfluencia ! Un WE LOVE MEDIA plein…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_welovemedia-independentagency-advertising-activity-7397176242375905280-tFcc",
+      "activity_status": null
+    },
+    {
+      "title": "Bravo à la team MEDIAKEYS ! On est très heureux d’accompagner Kometa et les Kometa girls Léna Mauger Christine Debiais Antoine Barrailler Yannick…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_bravo-à-la-team-mediakeys-on-est-très-activity-7397612106235400192-q4l1",
+      "activity_status": null
+    },
+    {
+      "title": "À demain à La Gaîté Lyrique pour WE LOVE MEDIA le 1er festival de l’association des agences média indépendantes de l’@AAMI - See you there!…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_agencesmedia-independantes-aami-activity-7394270760263122944-Jchs",
+      "activity_status": null
+    },
+    {
+      "title": "Delighted by these great exchanges with the Air Tahiti Nui worldwide teams! An inspiring session and exciting projects ahead for 2026! Jean-Marc…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_delighted-by-these-great-exchanges-with-the-activity-7368643258479960064-Hs5k",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to see how the collaboration between Club Med, MEDIAKEYS, DoubleVerify optimized the \"That’s L’Esprit Libre!\" campaign. A great example of…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_club-med-attire-lattention-et-marque-les-activity-7242099503334330369-U3yF",
+      "activity_status": null
+    },
+    {
+      "title": "I'm thrilled to share this great campaign we managed for the iconic TUMI 19 Degree suitcase 🥳 Thanks to the MK dream team Julianne BOUFFENIE Axelle…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_im-thrilled-to-share-this-great-campaign-activity-7222232281472507904-ZyDw",
+      "activity_status": null
+    },
+    {
+      "title": "We're excited to embark on this new journey with such an amazing client! Thank you for your trust and support Marie Laure Guerpillon Sebastien V.…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_nouvelle-campagne-pour-samsonite-orchestr%C3%A9e-activity-7204773138436423682-iiPL",
+      "activity_status": null
+    },
+    {
+      "title": "What a thrill to extend our journey with such a great client! Thanks for your trust Torea Colas Aurelie BESNARD Jean-Marc Hastings Caroline Borawski…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_what-a-thrill-to-extend-our-journey-with-activity-7179071227381075968-YazT",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats to the @Mediakeys teams in Zürich for this new Club Med campaign in German-speaking Switzerland Club Med Aude Wartelle Vincent Jäggi Carmen…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_neue-club-med-kampagne-kreative-neuerfindung-activity-7153415377425694722-qJVj",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to this fantastic team for the year 2023. Proud and happy to be part of such a wonderful group!",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_thank-you-to-this-fantastic-team-for-the-activity-7144301434782576640-6nzc",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats MEDIAKEYS creative teams Yannick Renard Carol Thévenard Simon WEISDORF @magaliguillermain",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_congrats-mediakeys-creative-teams-yannick-activity-7127416942365167618-P4D2",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to join the International Advertising Association - France! Proud to represent Mediakeys as an independent voice in the industry! #IAA…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_publicis-france-havas-et-mediakeys-international-activity-7131297428070100994-4TGB",
+      "activity_status": null
+    },
+    {
+      "title": "Fiers d'accompagner les équipes Club Med en France, Belgique, UK, Suisse et Afrique du Sud, bravo à toute la team Mediakeys et aux bureaux…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_thats-lesprit-libre-activity-7104732714796212224-EyNt",
+      "activity_status": null
+    },
+    {
+      "title": "Table ronde Rencontres Udecam, Le défi du trading media : Comment redonner de l’agilité au marché ? #trading #advertising #rencontresudecam…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_trading-advertising-rencontresudecam-activity-6998251892266967040-o9bs",
+      "activity_status": null
+    },
+    {
+      "title": "Revivre Rock En Seine. Retrouver la moiteur de fin d’été sur les pelouses de Saint Cloud, la ferveur du public déchainé, le frisson mystique de Nick…",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_rockenseine-nickcaveandthebadseeds-theblaze-activity-6969998922991738880-sEYG",
+      "activity_status": null
+    },
+    {
+      "title": "Fière des équipes création @MEDIAKEYS! Un grand merci au Centre des monuments nationaux pour sa confiance.",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_fière-des-équipes-création-mediakeys-un-activity-6808072151451623424-zqa3",
+      "activity_status": null
+    },
+    {
+      "title": "Ravie d'accueillir La Haute Société 👏",
+      "link": "https://www.linkedin.com/posts/anne-sophie-boniface-0a001922_ravie-daccueillir-la-haute-société-activity-6687247308335157248-yJmx",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Anne-Sophie BONIFACE",
+      "link": "https://fr.linkedin.com/in/anne-sophie-boniface-b33627134",
+      "summary": "Responsable de la patinoire de la Rosiere 1850",
+      "location": "Colombes"
+    },
+    {
+      "name": "Anne-Sophie Boniface",
+      "link": "https://fr.linkedin.com/in/anne-sophie-boniface-23466923b",
+      "summary": "--",
+      "location": "Paris"
+    },
+    {
+      "name": "Anne-Sophie Boniface",
+      "link": "https://fr.linkedin.com/in/anne-sophie-boniface-369a45284",
+      "summary": "--",
+      "location": "Paris"
+    },
+    {
+      "name": "Marie anne-sophie Boniface",
+      "link": "https://mu.linkedin.com/in/marie-anne-sophie-boniface-5923b2298",
+      "summary": "--",
+      "location": "Trou d'Eau Douce"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Mediakeys devient la marque ombrelle de l’ensemble des activités du groupe Comkeys et fait évoluer son identité graphique",
+      "link": "https://www.linkedin.com/pulse/mediakeys-devient-la-marque-ombrelle-de-lensemble-des-anne-sophie",
+      "published_date": {
+        "day": 3,
+        "month": 7,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-09-22T00:00:00Z"
+  }
+}

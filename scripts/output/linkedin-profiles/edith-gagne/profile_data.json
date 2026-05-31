@@ -1,0 +1,910 @@
+{
+  "public_identifier": "edith-gagne",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Edith",
+  "last_name": "Gagne",
+  "full_name": "Edith Gagne",
+  "follower_count": 1402,
+  "occupation": "Director, Programmatic DOOH, Campaign Management and Sales Support at Bell Media",
+  "headline": "Programmatic DOOH, Change Management and Sales Operations Leader",
+  "summary": "I'm an operations and strategy leader with a passion for driving growth and innovation in the out-of-home advertising industry. I've successfully led teams through transformative change, from launching groundbreaking startups like Campsite to scaling global media sales organizations at Broadsign and now working on enhancing the programmatic DOOH offering and optimizing sales support workflows for operational excellence with my latest role at Bell Media / Astral. <br><br>My expertise lies in:<br>▶️ Strategic Planning: Architecting growth strategies and executing complex initiatives.<br>▶️ Operational Excellence: Streamlining processes, optimizing workflows, and leveraging technology to drive efficiency.<br>▶️ Team Leadership: Building high-performing teams and fostering a culture of collaboration and innovation.<br><br>Being a systems thinker with a knack for turning challenges into opportunities, I thrive on solving complex problems and building high-performing organizations, all while staying true to myself and connecting with others on a human level, and always having fun along the way!",
+  "location_str": "Greater Montreal Metropolitan Area",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Greater Montreal",
+  "state": "Quebec",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Bell Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bell-media-",
+      "company_facebook_profile_url": null,
+      "title": "Director, Programmatic DOOH, Campaign Management and Sales Support",
+      "description": "- Overseeing programmatic OOH, ad ops, and sales support teams to implement measures & workflows that help drive growth. - Collaborate with cross-functional teams to drive process improvements and system optimizations that enhance customer experience and automate manual tasks.",
+      "location": "Montreal, Quebec, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8625f0e6df9ccfab5abfaaafcc602af2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "company": "OUTEDGE Media Canada",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vice President, Digital Transformation, Programmatic DOOH & Client Services",
+      "description": "- Collaborated with C-suite on strategic initiative to deliver a fully integrated solution for inventory discovery, proposal creation and campaign delivery. - Executed comprehensive change management strategy. - Boosted client service productivity and sales efficiency. - Led programmatic sales, ad operations, and client services teams. - Oversaw GTM strategy and drove revenue growth on programmatic.",
+      "location": "Montreal, Quebec, Canada",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2022
+      },
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Vice President, Media Sales Operations",
+      "description": "- Built and scaled global programmatic media sales and ad ops organization. - Drove exponential revenue growth and launched new markets. - Led team of 15+ across multiple countries. - Ensured business continuity during the COVID crisis.",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Campsite",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/campsite-project",
+      "company_facebook_profile_url": null,
+      "title": "Vice President, Business Development | General Manager",
+      "description": "- Led digital startup, pioneering programmatic OOH in Canada. - Generated significant revenue and secured acquisition by Broadsign. - Managed all aspects of the business, including P&L, product, engineering, and sales.",
+      "location": "Montreal, Canada Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fe7d141dc6db0011e4504294d2a4e290"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "NEWAD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director Sales Operations",
+      "description": "- Increased YoY revenue growth by 40%. - Improved sales and finance alignment. - Established compensation and training plans.",
+      "location": "Montreal, Canada Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "company": "NEWAD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director, Human Resources & Various Roles",
+      "description": "Summary: Director, Human Resources (2008–2012) Manager Training and Competency Development (2005–2008) Coordinator, Inventory Management and Ad Operations | Traffic Coordinator (2001–2005) - Led HR initiatives, including recruitment, training, and organizational development. - Implemented management best practices and coaching programs. - Main business stakeholder in campaign & inventory management application development projects.",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Human Relations & Education",
+      "degree_name": "Bachelor of Arts",
+      "school": "Concordia University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/concordia-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": null,
+      "field_of_study": "Applied Human Sciences - Human Systems Intervention",
+      "degree_name": "Master’s Degree",
+      "school": "Concordia University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/concordia-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "UNKNOWN"
+    },
+    {
+      "name": "French",
+      "proficiency": "UNKNOWN"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "title": "Board Member",
+      "cause": null,
+      "company": "IAB Canada",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/iab-canada/",
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Prosci® Certified Change Practitioner",
+      "license_number": null,
+      "display_source": "credly.com",
+      "authority": "Prosci",
+      "url": "https://www.credly.com/badges/b2129eed-6447-4852-b8c6-7460e50806fd/linked_in_profile"
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/derekjoynt",
+      "name": "Derek Joynt",
+      "summary": "Omni-Channel Marketing Executive | Agency Leader | Operating Officer | Board Member | P&L Management | Commercial Strategy | Effie Grand Prix Judge | P2PI Speaker",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bernieoreilly",
+      "name": "Bernie O'Reilly",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephaniegutnik",
+      "name": "Dr. Stephanie Gutnik",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolaashton",
+      "name": "Paola Ashton",
+      "summary": "Driving Growth in Mining & Tech",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/florianrotberg",
+      "name": "Florian Rotberg",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/saahilbz",
+      "name": "Saahil Budhrani",
+      "summary": "Technical Specialist | Optimizing Enterprise Infrastructure | Problem-Solver & Leader | \nTechnical Specialist at Government of Nova Scotia",
+      "location": "Halifax"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharlenedozois",
+      "name": "Sharlene Dozois",
+      "summary": "Senior Vice President New Business Sales Americas | Head of Canada and Latin America at Cision",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robwcote",
+      "name": "Rob Côté",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dalbin",
+      "name": "Don Albin",
+      "summary": "Vice President at St. Joseph Communications, Content",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierre-arthur",
+      "name": "Pierre Arthur",
+      "summary": "Formateur et stratège en marketing, média et recherche",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/atonsimms",
+      "name": "Aton Simms",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davemkoch",
+      "name": "David Koch",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steveilkos",
+      "name": "Steve Ilkos, PMP",
+      "summary": "Vice President Sales Operations at DCM",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liseanne-gillham",
+      "name": "Liseanne Gillham",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marioagv",
+      "name": "Mario González",
+      "summary": "Software Developer at Broadsign",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolinatrrs",
+      "name": "Carolina Moens",
+      "summary": "Graphic Designer + Creative Director",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tanvirszone",
+      "name": "Tanvir Ahmed",
+      "summary": "Technologist | Specializing in driving Digital Growth powered by AI, Analytics & Strategic Insight",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jmoores",
+      "name": "Jeff Moores",
+      "summary": "Driving Enterprise Data & Customer Strategy | Co-Founder | Architect of Connected Experiences",
+      "location": "Kitchener"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlafea",
+      "name": "Carla Feagan",
+      "summary": "Account Executive | Strategic Client Success Manager | Partner Account Manager",
+      "location": "White Rock"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melodywarman",
+      "name": "Melody Warman",
+      "summary": "Vice President Sales and Revenue Strategies | New Business Development, CRM",
+      "location": "Calgary"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michellecudmore",
+      "name": "Michelle Wallace",
+      "summary": ".",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthonydigennaro",
+      "name": "Anthony Di Gennaro",
+      "summary": "Amazon Web Services (AWS)•382 followers",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisatorry",
+      "name": "Lisa Torry",
+      "summary": "Vice President Client Service at Mark IV",
+      "location": "Burlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josealmonteregalado",
+      "name": "José Almonte Regalado",
+      "summary": "Optoelectronics Business",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/prof-dr-kai-marcus-th%25C3%25A4sler-98774988",
+      "name": "Prof. Dr. Kai-Marcus Thäsler",
+      "summary": "FAW Geschäftsführer / FOM Professor / agma Vorstand / WOO Board Member / Medien- und Mediaexperte",
+      "location": "Darmstadt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/romulusstoian",
+      "name": "Romulus Stoian",
+      "summary": "Globally Connected DOOH Leader, Programmatic, Sales and Business Development, Strategy & Operations, EMBA",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tiarabravo",
+      "name": "Tiara Bravo",
+      "summary": "Programmatic DOOH Media Sales",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-andr%25C3%25A9e-brault-924296224",
+      "name": "Marie-Andrée Brault",
+      "summary": "Conseillère en pédagogie",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/amalia-quintanilla",
+      "name": "Amalia Quintanilla",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevi%25C3%25A3%25C2%25A8ve-paquette",
+      "name": "Geneviève PAQUETTE",
+      "summary": "Account manager, Media, OOH",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/plan-christian-kaessmann",
+      "name": "Christian Kaeßmann",
+      "summary": "Markenberatung und Mediaplanung für Impact Brands",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edette-gagn%25C3%25A9-68a47011",
+      "name": "Edette Gagné",
+      "summary": "Visionary Leader - Human Resource Guru - Event Animator - Musical/Stage Creator",
+      "location": "Vancouver"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidbourgault",
+      "name": "David Bourgault",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrismoro",
+      "name": "Chris Moro",
+      "summary": "President at RMN - Read Me Now Marketing Inc.",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-gage-a186801",
+      "name": "Andrew Gage",
+      "summary": "SVP Sales and Client Development, National Accounts",
+      "location": "Markham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/larry-dykun-0161112",
+      "name": "Larry Dykun",
+      "summary": null,
+      "location": "Haldimand County"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francois-hechme-aaba063",
+      "name": "Francois Hechme",
+      "summary": "Leading Products at BroadSign",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zoltan-toth-0132634",
+      "name": "Zoltan Toth",
+      "summary": "OOH Leader | Driving Revenue Growth & Client Value | Programmatic & DOOH Innovation",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/manas-kumar-senapati-85b2ab6",
+      "name": "Manas Kumar Senapati",
+      "summary": "Marketing Manager - HOMELAND FOODS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/christopher-bentler-a989358",
+      "name": "Christopher Bentler",
+      "summary": "President @ ALLVISION Digital Out-of-Home | Board Member @ COMMB",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-bridger-417495a",
+      "name": "Scott Bridger",
+      "summary": "Director of Member Services Burlington Chamber of Commerce",
+      "location": "Burlington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-e-bak",
+      "name": "Joseph Bak",
+      "summary": "National Sales Director at Astral Out-of-Home, Bell Media",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/burr-smith-b7161010",
+      "name": "Burr Smith",
+      "summary": "Chairman of the Board, President and CEO at Broadsign",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-bettens-80892a12",
+      "name": "Jamie Bettens",
+      "summary": null,
+      "location": "Winnipeg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marjolaine-goulet-99319315",
+      "name": "Marjolaine Goulet",
+      "summary": "Directrice de comptes nationaux, Pattison Outdoor",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/akuffo-sekyi-otu-90208016",
+      "name": "Akuffo Sekyi-Otu",
+      "summary": "National Account Manager at PATTISON Outdoor",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-rankin-a2833717",
+      "name": "Stephen Rankin",
+      "summary": "I connect brands & organizations to the Canadian Consumer with specialty in the LGBTQ+ segment, authentically, and effectively.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/radhika-saxena-4323a019",
+      "name": "Radhika Saxena",
+      "summary": "Internal Queue Supervisor @ CIBC | Human Resource Graduate",
+      "location": "Markham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johanne-dufour-6879b41b",
+      "name": "Johanne Dufour",
+      "summary": "Directrice, Clientèles et communications chez Chambre des notaires du Québec",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heather-earle-7b59b51b",
+      "name": "Heather Earle",
+      "summary": "Sales and Advertising Executive",
+      "location": "Nanaimo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-vander-ploeg-a15a2220",
+      "name": "Dave Vander Ploeg",
+      "summary": "Chief Business Officer & Chief Business Development Officer at Direct Response Media Group & Dollco Print Solutions",
+      "location": "Oakville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adamkahansky",
+      "name": "Adam Kahansky",
+      "summary": "Regional VP, Sales, Canada at Broadsign",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophialeonard",
+      "name": "Sophia Leonard",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-oliver-21605623",
+      "name": "Mike Oliver",
+      "summary": null,
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-desjardins-83296024",
+      "name": "Chris Desjardins",
+      "summary": "SVP, Managing Director at Publicis Canada",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/genevi%25c3%25a8ve-paquette",
+      "name": "Geneviève PAQUETTE",
+      "summary": "IMAGI Affichage•1K followers",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandre-guillemette-78671429",
+      "name": "Alexandre Guillemette",
+      "summary": null,
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-claude-fortin-19a69a30",
+      "name": "Annie Claude Fortin",
+      "summary": "Rédactrice, relationniste, stratège",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kseniya-baluk-software-developer",
+      "name": "Kseniya Baluk",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonny-richardson-66660a37",
+      "name": "Jonny Richardson",
+      "summary": "Director of Business Development - APAC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-dolan-jr-30370737",
+      "name": "John Dolan Jr",
+      "summary": "VP,  Revenue and Partnerships, International",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyla-yukon-7793ba39",
+      "name": "Kyla Yukon",
+      "summary": "Team Lead, Sales Administration",
+      "location": "Winnipeg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexis-gallant-ab6a1a45",
+      "name": "Alexis Gallant",
+      "summary": null,
+      "location": "Kincardine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tracy-anema-5b033250",
+      "name": "Tracy Anema",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maxime-desabrais",
+      "name": "Maxime Desabrais",
+      "summary": "Senior Account Executive - North America at StackAdapt",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/maximilienphilips",
+      "name": "Maximilien Philips",
+      "summary": "Programmatic Technical Specialist III chez Broadsign",
+      "location": "Bronte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-mercuri-73b98062",
+      "name": "Matthew Mercuri",
+      "summary": "Director, Business Development at Samsung Electronics",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bilal-khan-8042ab66",
+      "name": "Bilal Khan",
+      "summary": "Oztech•9K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/morris-cumetti-9a9b9571",
+      "name": "Morris Cumetti",
+      "summary": null,
+      "location": "Pincourt"
+    },
+    {
+      "link": "https://www.linkedin.com/in/george-hallett-67267772",
+      "name": "George Hallett",
+      "summary": "National Account Manager",
+      "location": "Dartmouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabell-m%25C3%25BCller-3b158887",
+      "name": "Isabell Müller",
+      "summary": "Director Client & Strategic Partnerships",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugenia-yauheniya-radziuk-2b5993a7",
+      "name": "Eugenia (Yauheniya) Radziuk",
+      "summary": "Software Engineer In Test at Broadsign",
+      "location": "Greater Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miro-palombini-a70757b1",
+      "name": "Miro Palombini",
+      "summary": "Amministratore",
+      "location": "Ariccia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/veronique-costa-4b957a109",
+      "name": "Veronique Costa",
+      "summary": "Real Estate Coordinator at Bell Media",
+      "location": "Montreal"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anahid-kouleian-265502118",
+      "name": "Anahid Kouleian",
+      "summary": "Lead Recruiter & Senior HR Partner, Technology @ Broadsign",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joel-anderson-58b527131",
+      "name": "Joel Anderson",
+      "summary": "Husband | Father | Business Owner",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-jette-7a9b4b152",
+      "name": "Nick Jette",
+      "summary": null,
+      "location": "Longueuil"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-zayer-8787b818a",
+      "name": "Claudia Zayer",
+      "summary": "eisbach.media",
+      "location": "Munich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexia-bajzath-774ba3225",
+      "name": "Alexia Bajzath",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-green-03727b",
+      "name": "Adam Green",
+      "summary": "CSO at 99 Ravens",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shane-neufeld-9569a919",
+      "name": "Shane Neufeld",
+      "summary": "A creative, analytical, results driver leader with a history of increasing revenue and profitability.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-ventresca-241a7a13",
+      "name": "Mary Ventresca",
+      "summary": "Vice President, Marketing & Communications at Pattison Outdoor Advertising",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shannon-wells-%F0%9F%87%A8%F0%9F%87%A6-aa62a199",
+      "name": "Shannon Wells 🇨🇦",
+      "summary": "Director of Sales, Bell Media Quebec at Bell Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/michele-erskine-1634baa",
+      "name": "Michele Erskine",
+      "summary": "VP, Out-of-Home (OOH)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsaygarfinkle",
+      "name": "Lindsay Garfinkle",
+      "summary": "Vice President, Strategy at Media Experts",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-perkins-young-168928a7",
+      "name": "Emily Perkins-Young",
+      "summary": "OOH Operations Manager (DOOH, pDOOH, Mobile Retargeting)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/haddly-mussotte-401b7827",
+      "name": "Haddly Mussotte",
+      "summary": "Support specialist at OPES software",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alicehodigiovanni",
+      "name": "Alice DiGiovanni",
+      "summary": "President",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Maarten Dollevoet\n\nI have worked with Edith for several years, and have always found her drive for challenging the status quo, move things forward (faster), and develop new processes to do things better, inspiring! I can highly recommend Edith. She has a drive for taking on new tasks, and always created a strong team culture with every team she worked with.",
+    "Ryan Pogy\n\nEdith is a highly skilled intuitive leader with drive to grow business, and support the team needs and nuances. She adept and translating strategy to into operation among a variety of teams. Her technical knowledge ensures teams have the tools they need and that tools are built to meet the specific use cases and workflows that build reliability and enable efficiency at scale."
+  ],
+  "activities": [
+    {
+      "title": "Great opportunity here with the Environics team!",
+      "link": "https://www.linkedin.com/posts/edith-gagne_director-business-development-media-activity-7274601483281600512-klIW",
+      "activity_status": null
+    },
+    {
+      "title": "Beauty of print OOH is creative must be compelling and straight to the point- and print will continue to co-exist alongside DOOH- Love this…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_beauty-of-print-ooh-is-creative-must-be-compelling-activity-7130154129871532032--9Xb",
+      "activity_status": null
+    },
+    {
+      "title": "Congrats to DailyDOOH and the entire COMMB team for putting on an informative and exciting inauguraul event, well done!",
+      "link": "https://www.linkedin.com/posts/edith-gagne_congrats-to-dailydooh-and-the-entire-commb-activity-7126308675895336960-p27a",
+      "activity_status": null
+    },
+    {
+      "title": "Being aware of the limits or biases of my perspective is a good thing (as opposed to feeling very certain that my view is whole and correct), helps…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_the-limits-of-our-personal-experience-and-activity-7098251521531752449-dtmN",
+      "activity_status": null
+    },
+    {
+      "title": "There are lots of articles about the impact of purpose on organizational performance on HBR. I particularly appreciate this one- with a 9-step âhow…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_how-to-help-your-team-find-their-higher-purpose-activity-7095014072609374208-UkS8",
+      "activity_status": null
+    },
+    {
+      "title": "This is so true. In my first job as a cashier at Mcdonaldâs, I naturally developed an automatic reaction to customers who came in with a chip on…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_the-simple-power-of-communicating-with-kindness-activity-7095531924185600000-UWkB",
+      "activity_status": null
+    },
+    {
+      "title": "My good friend Jean-FranÃ§ois Michaud is doing the Mt Kilimanjaro climb, a spectacular feat for the benefit of NABS who do great work to support our…",
+      "link": "https://www.linkedin.com/posts/edith-gagne-90756711_icymi-campsites-maxime-chouinard-gave-a-activity-6369854256802996224-_VYc",
+      "activity_status": null
+    },
+    {
+      "title": "I am very excited to announce today that I am joiningÂ Michele ErskineÂ and her stellar team atÂ OUTFRONT Media CanadaÂ working on digital…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_i-am-very-excited-to-announce-today-that-activity-6999779545901924352-q24d",
+      "activity_status": null
+    },
+    {
+      "title": "Broadsign est en pleine croissance! Tu est Ã la recherche dâun rÃ´le stimulant et critique au succÃ¨s de lâentreprise? On cherche un/une…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_broadsign-est-en-pleine-croissance-tu-est-activity-6900182201200128000-NrAW",
+      "activity_status": null
+    },
+    {
+      "title": "Great content & discussion here on challenges & opportunities around #addressable media and #brandawarenessmarketing",
+      "link": "https://www.linkedin.com/posts/edith-gagne_addressable-brandawarenessmarketing-activity-6912343807338422272-L04u",
+      "activity_status": null
+    },
+    {
+      "title": "Never been a more exciting time to join our team! I currently have roles open in our programmatic team in business development and account management…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_jobpostings-transformation-businessdevelopment-activity-6890343931838554112-4pAN",
+      "activity_status": null
+    },
+    {
+      "title": "Excellent programme de certification en affichage programmatique maintenant disponible en franÃ§ais!",
+      "link": "https://www.linkedin.com/posts/edith-gagne_excellent-programme-de-certification-en-affichage-activity-6894292932564713473-c5Hy",
+      "activity_status": null
+    },
+    {
+      "title": "It's an honor to work with such smart people in our industry. Emerging roles in tech and the changing perceptions around what makes great leaders are…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_its-an-honor-to-work-with-such-smart-people-activity-6777625508776550400-gY9y",
+      "activity_status": null
+    },
+    {
+      "title": "Learn all about how out-of-home works within an omni-channel strategy by joining us in our next Out-of-Home from Home webinar series…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_learn-all-about-how-out-of-home-works-within-activity-6666302043247964160-Zq4p",
+      "activity_status": null
+    },
+    {
+      "title": "Big news for Campsite Project today. What an exciting new beginning and an amazing welcome from the Broadsign (and Ayuda Media Systems) team! Thank…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_and-even-brighter-we-shine-broadsign-activity-6531860727634935809-4_eJ",
+      "activity_status": null
+    },
+    {
+      "title": "Here is a clear example of the efficiency in planning and execution of a dooh campaign unlocked by programmatic capabilities. #dooh #programmatic",
+      "link": "https://www.linkedin.com/posts/edith-gagne_dooh-programmatic-activity-6594595985274527744-w-ZK",
+      "activity_status": null
+    },
+    {
+      "title": "Digital screens in airports now available on Campsite!",
+      "link": "https://www.linkedin.com/posts/edith-gagne_dooh-in-airport-specs-audiences-and-inspiration-activity-6359398938138734592-g-vM",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks IDS Canada for choosing Campsite Project as your #SSP. Campsite's #DSP now offers up the best scale in #programmatic #dooh healthcare…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_ids-canada-ooh-digital-now-available-for-activity-6402936104097497088-NsX6",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to announce our new partnership with Native Touch, bringing new audience targeting tools derived from mobile data to our out-of-home…",
+      "link": "https://www.linkedin.com/posts/edith-gagne_campsite-partners-with-native-touch-to-offer-activity-6328682462448807937-ubxe",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Edith Gagné",
+      "link": "https://ca.linkedin.com/in/edith-gagne-007",
+      "summary": "CNRC-PARI (Programme d’Aide à la Recherche Industrielle)",
+      "location": "Canada"
+    },
+    {
+      "name": "Edith Gagné",
+      "link": "https://ca.linkedin.com/in/edith-gagné-aa324a163",
+      "summary": "Formateur Développement des personnes et Appui à la transformation, Desjardins Entreprises",
+      "location": "Thetford Mines, QC"
+    },
+    {
+      "name": "Edith Gagne",
+      "link": "https://ca.linkedin.com/in/edith-gagne-3a73b190",
+      "summary": "caissiere chez 2012",
+      "location": "Saint-Adelme, QC"
+    },
+    {
+      "name": "Edith Gagné",
+      "link": "https://ca.linkedin.com/in/edith-gagné-5216681a7",
+      "summary": "Directeur général chez boucherie des chutes",
+      "location": "Lévis, QC"
+    },
+    {
+      "name": "Edith Gagné",
+      "link": "https://ca.linkedin.com/in/edith-gagné-129b331b2",
+      "summary": "--",
+      "location": "Saint-Pierre-de-Broughton, QC"
+    },
+    {
+      "name": "Edith Gagné",
+      "link": "https://ca.linkedin.com/in/edith-gagné-496a2b265",
+      "summary": "Directeur général chez boucherie des chutes",
+      "location": "Lévis, QC"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-11T00:00:00Z"
+  }
+}

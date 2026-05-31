@@ -1,0 +1,583 @@
+{
+  "public_identifier": "ahmad-dahmash-11774b8",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Ahmad",
+  "last_name": "Dahmash",
+  "full_name": "Ahmad Dahmash",
+  "follower_count": 1874,
+  "occupation": "General Manager at Daktronics",
+  "headline": "Daktronics Regional Manager",
+  "summary": null,
+  "location_str": "United Arab Emirates",
+  "country": "AE",
+  "country_full_name": "United Arab Emirates",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "General Manager",
+      "description": null,
+      "location": "Dubai",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2009
+      },
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "Regional Sales Manager",
+      "description": null,
+      "location": "Dubai",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2008
+      },
+      "company": "Daktronics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/daktronics",
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": null,
+      "location": "Brookings, SD",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e50443a74e2e99a443201111fb05ebcb"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": "Industrial Engineering",
+      "degree_name": "Master of Engineering (M.Eng.)",
+      "school": "South Dakota State University",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Industrial Engineering",
+      "degree_name": "Bachelor of Engineering (B.E.)",
+      "school": "University of Jordan",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Biggest LED in Middle east Dawra, First curved LED in Beirut Wimpy hamra",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/matthewbunger",
+      "name": "Matthew Bunger",
+      "summary": "Project Manager",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thair-kayed-lxxxvi",
+      "name": "THAIR KAYED",
+      "summary": "Project Engineer at Daktronics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-bicknell-backlite",
+      "name": "James Bicknell",
+      "summary": "Chief Executive Officer at BackLite Media UAE | Helping brands be seen, appreciated, and desired in Dubai and Abu Dhabi.",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottroserecruiter",
+      "name": "Scott Rose",
+      "summary": null,
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-mansour-a27303277",
+      "name": "Ahmed Mansour",
+      "summary": "Presales Engineer at NourNet",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/klarissa-krcil-a7152b17b",
+      "name": "Klarissa Krcil",
+      "summary": "Marketing & Communications Director- MBA",
+      "location": "Sioux Falls"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karmin-luo-629418262",
+      "name": "Karmin Luo",
+      "summary": "Sales Manager at Leyard",
+      "location": "Shenzhen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamed-kharoub-97378537",
+      "name": "Mohamed Kharoub",
+      "summary": "Managing Partner at Lumity Lighting Solutions LLC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-aldahmash-67b937253",
+      "name": "Ahmed AlDahmash",
+      "summary": "Digital transformation and Innovation Consultant PMP®️,RMP®️,CCMP®️, CInS®️, CCInO®️",
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ericsson-bacayo-a9713b39",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolo-manca-customer-centric",
+      "name": "Paolo Manca",
+      "summary": "Commercial & Marketing Director | MEA & Europe | Subsidiary General Manager | MBA | Multinational Team Leadership | P&L | Multichannel | Industrial Solutions, Energy & Utilities | CRM |",
+      "location": "Sirmione"
+    },
+    {
+      "link": "https://www.linkedin.com/in/erick-jason-wong-a9713b39",
+      "name": "Erick Jason Wong",
+      "summary": "Field Services Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25D9%2585-%25D8%25AE%25D8%25A7%25D9%2584%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B7%25D9%258A%25D9%2587-%25D9%2585%25D8%25B3%25D8%25AA%25D8%25B4%25D8%25A7%25D8%25B1-%25D9%2588%25D9%2583%25D8%25A7%25D9%2584%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25AF%25D9%2585%25D8%25A7%25D8%25AA-44ba5937",
+      "name": "م .  خالد العطيه مستشار وكالة الخدمات",
+      "summary": "اللهم اجعلني خيرا ممايظنون واغفرلي مالايعلمون ..",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ala%25E2%2580%2599a-ayesh-848928194",
+      "name": "Ala’a Ayesh",
+      "summary": "International Sales at Daktronics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mathieuverbraken",
+      "name": "Mathieu Verbraken",
+      "summary": "Husband | Father | Development Manager @ Daktronics | Passionate about classic cars and new ventures",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/khurram-khaliq-094327",
+      "name": "Khurram Khaliq",
+      "summary": "DETECON REPRESENTATIVE -•16K followers",
+      "location": "Lahore District"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jafar-riyas-1632065",
+      "name": "Jafar Riyas",
+      "summary": "Self Employed",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/judd-guthmiller-2516535",
+      "name": "Judd Guthmiller",
+      "summary": "Vice President - International",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-halliwell-2874546",
+      "name": "Patrick Halliwell",
+      "summary": null,
+      "location": "Portishead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justin-r-ochsner",
+      "name": "Justin Ochsner",
+      "summary": "Marketing, PR & Social Media Leader | Corporate Storytelling, Podcasts & Brand Visibility | Daktronics",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/biju-philip-0054799",
+      "name": "Biju Philip",
+      "summary": "SALES EXECUTIVE at DORMA GULF",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fayez-hassan-1a817113",
+      "name": "Fayez Hassan",
+      "summary": "General Manager, Bright House Lighting",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sathisharya",
+      "name": "Sathish Arya",
+      "summary": "CEO & Business Head | Wireless IoT Monitoring, Control & Automation| Industrial Integrations | BIM |  BMS |  Digital Twin | Architecting Scalable Web of Things Ecosystems",
+      "location": "Bengaluru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sameeh-moualla-990a5015",
+      "name": "Sameeh Moualla",
+      "summary": "General Manager  at LTC  Lighting Trading Co. llc.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/waseem-ashqar-b4250718",
+      "name": "Waseem Ashqar",
+      "summary": "Scaling up Mentor\n  | Managing Director at HELUKABEL Middle East |",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseph-gomes-a2b43519",
+      "name": "Joseph Gomes",
+      "summary": "GM at PEDROLLO GULF FZE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/troy-frankson-8370151a",
+      "name": "Troy Frankson",
+      "summary": "Chief Systems Designer at Omnix Media Networks",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-dobson-5aba911b",
+      "name": "Paul Dobson",
+      "summary": "Senior Project Manager at The Sign Place",
+      "location": "Richmond"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enad-battal-54332420",
+      "name": "enad battal",
+      "summary": "enad electronics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/youssef-m-asiri-emba-pmp%25c2%25ae-14731324",
+      "name": "Youssef M. Asiri, EMBA, PMP®",
+      "summary": "Department Manager, Business and Commercial at ADNOC Distribution",
+      "location": "Al Khubar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mujahid-khan-85076529",
+      "name": "Mujahid Khan",
+      "summary": "Business Development Manager Emirates Marketing and Services(RBK Holding LLC Group)",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-khanka-29018b2b",
+      "name": "ANIL KHANKA",
+      "summary": "Director of Sales - Oil & Gas/Industrial - MENA at The Marmon Group - Electrical Sector",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-khalil-9706542b",
+      "name": "Mohammed Khalil",
+      "summary": "Metro Tunnel MEP Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamad-jaber-51329733",
+      "name": "Mohamad Jaber",
+      "summary": "General Manager @ Vega International | Electronics and Lighting",
+      "location": "Abu Dhabi"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinesh-katariya-6b560733",
+      "name": "Dinesh Katariya",
+      "summary": "GENERAL MANAGER at A ONE ELECTRICALS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/greg-fleischbein-59998033",
+      "name": "Greg Fleischbein",
+      "summary": "Technology Leader | Innovator LED Display Solutions | Expertise in Sports & Entertainment Technology",
+      "location": "Tampa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/parimal-sumeet-4b828b39",
+      "name": "Parimal Sumeet",
+      "summary": "Partner @ yefírma; Quickart;CATHPRO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/harjot-singh-65195141",
+      "name": "HARJOT SINGH",
+      "summary": "General Manager at Technical Supplies & Services Co. LLC.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-sodergren-a2771144",
+      "name": "Dave Sodergren",
+      "summary": "General Manager at World Wide Expeditions FZE",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dave-philips-b6892746",
+      "name": "Dave Philips",
+      "summary": "Process Engineering Manager",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hany-attia-76477948",
+      "name": "Hany Attia",
+      "summary": "Golden Group Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jodi-koerner-367b774b",
+      "name": "Jodi Koerner",
+      "summary": "Sales at Daktronics",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saif-alhaloul-65b94561",
+      "name": "Saif Alhaloul",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamid-masoodi-460a6862",
+      "name": "Hamid Masoodi",
+      "summary": "General Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shruthi-shetty-05790965",
+      "name": "shruthi shetty",
+      "summary": "Sales Coordinator at DUTCO TENNANT LLC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mujeeb-al-goshary-1612626b",
+      "name": "Mujeeb Al Goshary",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anil-mehta-22175872",
+      "name": "ANIL MEHTA",
+      "summary": "GENERAL MANAGER at PATEL TRADING CO. M.E. LLC & Director of NST Co. LLC - Oman",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivan-menezes-83846785",
+      "name": "Ivan Menezes",
+      "summary": "Rajesh",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/terry-van-80240b92",
+      "name": "Terry Van",
+      "summary": "Account Manager-Xi'an Novastar Tech Co.,ltd",
+      "location": "Xi'an"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-viljoen-0737b6b8",
+      "name": "Stephan Viljoen",
+      "summary": "Technical Director at BBI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahmed-aldahmash-602796100",
+      "name": "Ahmed AlDahmash",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dakota-tube-277734105",
+      "name": "Dakota Tube",
+      "summary": null,
+      "location": "Watertown"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pascal-tabu-065847105",
+      "name": "Pascal Tabu",
+      "summary": "--",
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dylan-monson-b2985a108",
+      "name": "Dylan Monson",
+      "summary": "Videographer | Photographer | Drone Pilot | Storyteller",
+      "location": "Brookings"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samer-hakam-796942111",
+      "name": "Samer Hakam",
+      "summary": "General Manager at Lightgeist llc",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nisreen-barakat-865084147",
+      "name": "nisreen barakat",
+      "summary": "Medical Doctor at IFH institut of family health",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-cho-41a9b617b",
+      "name": "Elena Cho",
+      "summary": "Experienced Konjac Industry Leader | Expertise in OEM, Packaging, and Product Customization | Passionate About Low-Carb Solutions",
+      "location": "Chengdu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mahmoud-abo-elmagd-a982a2192",
+      "name": "mahmoud abo Elmagd",
+      "summary": null,
+      "location": "Riyadh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandro-marquis-a549831aa",
+      "name": "Alejandro Marquis",
+      "summary": "Sports Card Breaker Assistant at Backyardbreaks",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/majed-qaid-56123a1b9",
+      "name": "Majed Qaid",
+      "summary": "Assistant Manager, Projects & Services IT",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E9%2594%25A6%25E7%2581%25BF-%25E5%2588%2598-a47567208",
+      "name": "刘锦灿",
+      "summary": "Fujian New Vision Technology Industry Co., Ltd-LED Display Screen Sales Director",
+      "location": "Quanzhou"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "This is a great example of the video walls we can provide with great clarity and ability to see the fine details!",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_this-is-a-great-example-of-the-video-walls-activity-7335664511632207875-QVon",
+      "activity_status": null
+    },
+    {
+      "title": "Make your message impossible to miss with our LED displays! Urban wallscapes turn cityscapes into brand showcases - high-traffic, high-impact and…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_make-your-message-impossible-to-miss-with-activity-7325577913968291840-aCPJ",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to Quadra Technologies on these great installations for the ICC 2025 Championship. The turnaround time was tight but our team of…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_congratulations-to-quadra-technologies-on-activity-7308349165195972608--5NP",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to VOV Gaming for their impressive E gaming arena at the Riyadh Front mall, Riyadh - Saudi Arabia. For eGaming lovers, if you in…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_daktronics-bendable-video-walls-selected-activity-7108367178403344384-k6XR",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to VOV Gaming for opening these amazing branches. VOV Gaming it taking the Egaming to next level.…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_ledscreen-activity-7088953318688866304-f6EW",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be part of the World Out of Home Organization Global Congress in Lisbon this week, looking forward to meeting the industry experts and…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_oohadvertising-oohmedia-ooh-activity-7071465691438096384-fIIg",
+      "activity_status": null
+    },
+    {
+      "title": "Attending Intratraffic show in Amsterdam after 4 years! Please visit Daktronics stand to learn more about ITS solutions. We are at hall 1.120…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_daktronics-activity-6914563634044022785-NtBA",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to have our name accoicated with this great club, canât wait to see Daktronicsâs displays and scoreboard lighting up the santiago bernabeu…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_proud-to-have-our-name-accoicated-with-this-activity-6925544086753947648-aAr8",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to seeing you all next month",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_looking-forward-to-seeing-you-all-next-month-activity-6922212298665140224-mvc0",
+      "activity_status": null
+    },
+    {
+      "title": "Very impressive way to show the display capabilities Daktronics",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_very-impressive-way-to-show-the-display-capabilities-activity-6846035678506082304-m3pZ",
+      "activity_status": null
+    },
+    {
+      "title": "Congratulations to BackLite Media for a stunning digital rollout displays. We, at Daktronics, are proud to see a high quality performance displays…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_dooh-digital-oohmedia-activity-6861223697693380608-Wli6",
+      "activity_status": null
+    },
+    {
+      "title": "Daktronics all-in-one LED display system in action. Multiple applications, supports presentation mode, multiple video sources, Bluetooth connection…",
+      "link": "https://www.linkedin.com/posts/ahmad-dahmash-11774b8_video-sld-selects-activity-6853940984980533248-L4E8",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-18T00:00:00Z"
+  }
+}

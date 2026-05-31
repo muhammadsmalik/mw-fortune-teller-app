@@ -1,0 +1,751 @@
+{
+  "public_identifier": "andrewstevens2",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/3172a78b022a6914857aca5de45239ce",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/92314f5213c4857bf90cf56699f06410",
+  "first_name": "Andy",
+  "last_name": "Stevens",
+  "full_name": "Andy Stevens",
+  "follower_count": 1831,
+  "occupation": "Global Chief Product Officer at Talon",
+  "headline": "Global Chief Product Officer at Talon",
+  "summary": "A specialist in large scale initiatives, working with Fortune 500 companies to devise multi-channel marketing strategies, utilizing consumer insights, behavioral analytics and metric-driven results.  Extensive experience with international markets, business analysis, project and personnel management.\n\nSpecialties: Digital marketing, behavioral analytics, audience segmentation and thought leadership",
+  "location_str": "United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Talon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/talon-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Global Chief Product Officer",
+      "description": null,
+      "location": "London Area, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5fa09e135e6fc00acd2b73cd37acaa8b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2025
+      },
+      "company": "Clear Channel Europe",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clearchanneleurope",
+      "company_facebook_profile_url": null,
+      "title": "Chief Data Officer, Europe",
+      "description": "Defining and leading the rollout of a unified data and sales channel strategy across 16 countries in Europe",
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/37056c97af1ad0d3b823635c5acb6aa4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2021
+      },
+      "company": "Clear Channel International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clearchanneleurope",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Innovation Director, Europe",
+      "description": "Led the global rollout of Clear Channel RADAR, including product development, GTM strategy, and data evaluation\n\nOversaw simultaneous launch of RADAR in Spain and UK with additional markets in Europe planned over the next 2 years\n\nLaunched Clear Channel's programmatic platform: LaunchPAD now live in UK, Spain, Italy, Belgium, Switzerland, Finland and Netherlands\n\nHelped define a framework for ethical data usage in accordance with GDPR regulations",
+      "location": "Madrid Area, Spain",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/37056c97af1ad0d3b823635c5acb6aa4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "company": "Clear Channel Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/clear-channel-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "SVP Research & Insights",
+      "description": "Developing a research agenda using digital data to prove and enhance the value of out-of-home (OOH) advertising\n\nLead architect of Clear Channel Outdoor RADAR - a Graphical User Interface (GUI) that utilizes aggregated mobile location data to identify consumers exposed to OOH advertising\n\nUsing RADAR to create a new model for OOH audience segmentation, campaign attribution, and cross channel targeting",
+      "location": "New York, NY",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cab21163c3c6c6f5a63e3cf0f098908f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2015
+      },
+      "company": "ShareThis",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sharethis",
+      "company_facebook_profile_url": null,
+      "title": "VP Strategy & Research",
+      "description": "Generated product narrative and positioning around the use of sharing data to drive campaign performance, leading to revenues > $50MM in 3 years.\n\nRecruited and led team of 4 strategists to proactively focus on major clients and generated 10% revenue growth (double company average) on strategic accounts\n\nPartnered with major brands / research organizations including Unilever, Toyota, Nielsen and The Paley Center for Media to create research and insights to demonstrate the value of sharing and measure its impact on real-world consumer purchase behavior.  Generated over $15MM in associated revenue from inbound leads\n\nEvangelized \"the sharing economy” and established ShareThis’ role role as experts on sharing data through speaking engagements at conferences including Internet Week, JD Powers, IAB MIXX, SocialMedia.org, The Innovation Exchange and Cynopsis Media.  Have also lectured at NYU as part of their MBA program.",
+      "location": "New York, NY",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/773de9d7796e62d8df48aa26d4ddec86"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "company": "AOL",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aol",
+      "company_facebook_profile_url": null,
+      "title": "Strategy Director",
+      "description": "Led a team of 6 strategists to drive account growth in the East Coast region through customized advertising solutions and drove over $150MM in ad sales\n\nWorked with engineering team to create the Segmentation Insights Platform (SIP) to profile customers using AOL user data and showcase audience-based buying\n\nCreated new account segmentation to help prioritize proactive account work and streamline approval process for new projects",
+      "location": "New York, NY",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3dcabd349e96ed535da4b682ec8ecf0e"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2008
+      },
+      "company": "Capgemini Invent",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/capgemini-invent",
+      "company_facebook_profile_url": null,
+      "title": "Management Consultant",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/dbf2dad028c71acab6a23317d41fa684"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2007
+      },
+      "company": "Advertising.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/advertising-com",
+      "company_facebook_profile_url": null,
+      "title": "Head of Delivery",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a79eb887587ff2c6041beb79ffa2a916"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2005
+      },
+      "company": "Advertising.com, A Division of AOL Platforms",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/advertising-com",
+      "company_facebook_profile_url": null,
+      "title": "UK Delivery Manager",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a79eb887587ff2c6041beb79ffa2a916"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2002
+      },
+      "field_of_study": "Philosophy, Psychology and Physiology",
+      "degree_name": "MA (Hons)",
+      "school": "University of Oxford",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/oxforduni",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1a1513f65c4b03deabab55885214ad03",
+      "grade": "2:1",
+      "activities_and_societies": "Activities and Societies: • Head of OU Psychology Society Undergraduate\n• Undergrad rep for Psychology Joint Consultative Committee (JCC)"
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "PROFESSIONAL_WORKING"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Fashion Retailer Uses New OOH Campaign to Lift Black Friday Sales",
+      "publisher": "Total Retail",
+      "published_on": {
+        "day": 23,
+        "month": 8,
+        "year": 2017
+      },
+      "description": "Article about how fashion retailers are using CCO RADAR to optimize their location marketing strategy and boost in-store sales",
+      "url": "http://www.mytotalretail.com/article/major-fashion-retailer-uses-new-out-of-home-campaign-measurement-capability-to-drive-huge-lift-in-black-friday-sale-promotion/"
+    },
+    {
+      "name": "Out-of Home-Advertising Enters a New Era for Restaurants",
+      "publisher": "QSR Magazine",
+      "published_on": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "description": "Enhanced targeting and measurement capabilities are changing the way quick-service restaurants engage customers.",
+      "url": "https://qsrmagazine.com/outside-insights/out-home-advertising-enters-new-era-restaurants"
+    },
+    {
+      "name": "How Out-of-Home Ad Measurement Benefits Dealers and OEMs",
+      "publisher": "Dealer Marketing Magazine",
+      "published_on": {
+        "day": 2,
+        "month": 2,
+        "year": 2017
+      },
+      "description": null,
+      "url": "http://www.dealermarketing.com/how-out-of-home-ad-measurement-benefits-dealers-and-oems/"
+    },
+    {
+      "name": "Location profiling is the next frontier in audience insights",
+      "publisher": "Digiday",
+      "published_on": {
+        "day": 14,
+        "month": 9,
+        "year": 2015
+      },
+      "description": "In the past, out-of-home advertisers relied upon traffic data and census data to calculate ad exposure. By using mobile technology, we can access rich and nuanced profiles of people who walk, drive, or ride past out-of-home properties. There are two ways this helps advertisers sell: It provides data on where the highest concentrations of people are located. It also lets us profile a location, which can show where else the viewers go and better understand the type of advertising messages that might appeal to them.",
+      "url": "http://digiday.com/agencies/opinion-location-profiling-next-frontier-audience-insights/"
+    },
+    {
+      "name": "Online Movie Chat Translates to Ticket Buying in Big Way",
+      "publisher": "The Wrap",
+      "published_on": {
+        "day": 13,
+        "month": 8,
+        "year": 2013
+      },
+      "description": "A study to investigate the relationship between online sharing of entertainment content and movie ticket purchases",
+      "url": "http://www.thewrap.com/movies/article/online-movie-chat-translates-ticket-buying-big-way-survey-finds-110416"
+    },
+    {
+      "name": "How Wendy's Views Social Data",
+      "publisher": "Digiday",
+      "published_on": {
+        "day": 7,
+        "month": 7,
+        "year": 2012
+      },
+      "description": "Joint release with Wendy's and Mediavest NY to show how we used sharing data to target influential users and spread product messages more effectively",
+      "url": "http://www.digiday.com/brands/how-wendys-views-social-data/"
+    },
+    {
+      "name": "The role of sharing the purchase cycle for Hertz rentals",
+      "publisher": "Ad Week",
+      "published_on": {
+        "day": 30,
+        "month": 5,
+        "year": 2012
+      },
+      "description": "ShareThis and Hertz partnered to map the Hertz customer journey to reservation and determine the role of social on customers’ decision process",
+      "url": "http://www.adweek.com/news/advertising-branding/hertz-learns-value-sharing-purchase-cycle-140842"
+    },
+    {
+      "name": "Sharing is more than just Fans, Friends and Followers",
+      "publisher": "TechCrunch",
+      "published_on": {
+        "day": 6,
+        "month": 6,
+        "year": 2011
+      },
+      "description": "Joint research study with Starcom Mediavest Group to show what, why and how people share content and how marketers can make better use of this growing trend",
+      "url": "http://techcrunch.com/2011/06/06/sharethis-facebook-38-percent-traffic/"
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [
+    {
+      "title": "Graphical User Interface (GUI) Generation Based On Billboard Profiles",
+      "issuer": null,
+      "issued_on": {
+        "day": 28,
+        "month": 2,
+        "year": 2017
+      },
+      "description": "Systems and methods of generating a graphical user interface (GUI) to facilitate audience analysis for a set of billboards are disclosed.  For example, billboard profiles (BPs) may be used to generate GUIs that identify billboards (BBs) having an audience that exhibits particular behaviors.  A billboard profile (BP) of a billboard (BB) may indicate a count of devices (e.g., mobile devices) that, during a time period, passed the BB and were associated with a particular behavior.  A behavior may be ascribed to a device based on a detected location of the device during the time period.  To illustrate, a device may be determined to be associated with the particular behavior in response to determining that the device was detected at a location-of-interest (e.g., a health food store) that is associated with the particular behavior (e.g., shopping at a health food store).  By counting devices that pass the BB and exhibit particular behaviors, a more precise analysis of the audience of the BB may be determined.",
+      "application_number": null,
+      "patent_number": "US 15/906465",
+      "url": null
+    },
+    {
+      "title": "Method For Audience Profiling And Audience Analytics",
+      "issuer": null,
+      "issued_on": {
+        "day": 26,
+        "month": 10,
+        "year": 2012
+      },
+      "description": null,
+      "application_number": null,
+      "patent_number": "US 13661905",
+      "url": null
+    }
+  ],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2013
+      },
+      "title": "Wired to Share: research on the social behavior of moms",
+      "description": "Wired to Share: New Research from ShareThis and Digitas Reveals Important Insights into Digital Sharing Behavior of Moms",
+      "url": "http://www.marketwatch.com/story/wired-to-share-new-research-from-sharethis-and-digitas-reveals-important-insights-into-digital-sharing-behavior-of-moms-2013-05-22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2011
+      },
+      "title": "Social Quality Index (SQI) Product",
+      "description": "A universal measure of site content quality based on the amount of social activity (sharing) it generates",
+      "url": "http://www.adweek.com/news/advertising-branding/sharethis-shares-sharing-data-136585"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1765,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/danilocascino",
+      "name": "Danilo Cascino",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marinaspecht",
+      "name": "Marina Specht Blum",
+      "summary": "Board Member & Senior Advisor | Ex CEO and Chair McCann Worldgroup | FORBES Top100 Most Influential Women | Growth Driver",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/odedlida",
+      "name": "Oded Lida",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/changandy",
+      "name": "张光晨",
+      "summary": "莫比無限科技股份有限公司",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/annadurannebreda",
+      "name": "Anna Duran Nebreda",
+      "summary": "Strategic Innovation Director at FIRMA | Action Team Member at Creatives for the Future | Professor at Loyola University",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gemmavallet",
+      "name": "Dr. Gemma Vallet",
+      "summary": "Vice Dean BSBI Connecting Industry & Academia • Berlin  • Barcelona • Europe • Digital Branding AI Marketing MBA Professor Researcher Author • BSBI Future Lab Initiator & Leader",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jwholland",
+      "name": "John William Holland",
+      "summary": "Managing Director",
+      "location": "Lepe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diana-garcia-martinez",
+      "name": "Diana Garcia Martínez",
+      "summary": "Chief Brands & Strategy Officer | Employer Branding | HR Marketing | Board member",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-serrano-criado",
+      "name": "Ana Serrano Criado",
+      "summary": "Universidad Europea•839 followers",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenny-stanley",
+      "name": "Jenny Stanley",
+      "summary": "Founder and Managing Director of Appetite Creative -The Connected Experiences Studio, Founder of AI Equestrian, Founder of FemmeNiche #Speaker #Goldman Sachs 10,000 Small Businesses UK Alumni",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisamanzano",
+      "name": "Marisa Manzano",
+      "summary": "Senior Business Development Professional | Marketing Communications MSc | Focused on Scalable Growth & Innovation",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raul-de-la-cruz-bazo-364a112",
+      "name": "Raúl De La Cruz Bazo",
+      "summary": "Director General de Desarrollo de Negocio, Medios y Transformación Digital",
+      "location": "Alcobendas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yago-castillo-4213315",
+      "name": "Yago Castillo",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexbaixas",
+      "name": "Alex Baixas",
+      "summary": "Director Global de Marketing y Comunicación at Renta 4 Banco",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javier-macho-b471786",
+      "name": "Javier Macho",
+      "summary": "MANAGING DIRECTOR, COO, INSIDE SALES DIRECTOR EU, BUSINESS DEVELOPMENT,  PROGRAMMATIC, PERFORMANCE, MARKETING MEDIA MIX, AGENCY, PUBLISHER, ADTECH",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stlange",
+      "name": "Stefan Lange",
+      "summary": "Developing International Business & Partnerships on Media &Tech",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermo-roger-782a9a16",
+      "name": "Guillermo Roger",
+      "summary": null,
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/almudena-rioja-62638a17",
+      "name": "Almudena Rioja",
+      "summary": "Platform Manager at Casino Gran Madrid",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexavarsavsky",
+      "name": "Alexa Varsavsky",
+      "summary": null,
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/urtemitschunas",
+      "name": "Urte Mitschunas",
+      "summary": "Online Marketing Leader | 10+ Years Experience | Passionate About Scaling Brands & Driving Revenue",
+      "location": "Barcelona"
+    }
+  ],
+  "recommendations": [
+    "Ramanathan Ramaswamy\n\nI worked with Andy when we built the campaign analytics to derive more insights about the data and to generate reports to measure campaign performance. Andy played a key role by helping engineering with clear requirements from sales perspective. Andy always provided us with specific examples of data and visualization for pre-campaign and post-campaign analytics. I admire his customer centric approach and learned how sales and engineering/product teams can work together to achieve a common goal.",
+    "Saikat Mukherjee\n\nI worked with Andy and his team on formulating research insights from social behavioral data. These insights were significant for ShareThis in creating new as well as expanding existing online advertising opportunities/campaigns with brands and agencies and in general to position the company as a thought leader in social data. Andy is a data scientist’s dream colleague — he understands the trees without losing sight of the forest. He has a great sense of the advertising industry in general and particularly when it comes to how data is viewed/used at agencies and brands. He brought all that experience in formulating innovative metrics from our social data and combined that with a terrific story-telling ability to create very impactful research reports — simple, concise, quantitative and with a narrative. A true data-driven marketeer and a great person to work with!",
+    "Saikat Mukherjee\n\nI worked with Andy and his team on formulating research insights from social behavioral data. These insights were significant for ShareThis in creating new as well as expanding existing online advertising opportunities/campaigns with brands and agencies and in general to position the company as a thought leader in social data. Andy is a data scientists dream colleague — he understands the trees without losing sight of the forest. He has a great sense of the advertising industry in general and particularly when it comes to how data is viewed/used at agencies and brands. He brought all that experience in formulating innovative metrics from our social data and combined that with a terrific story-telling ability to create very impactful research reports — simple, concise, quantitative and with a narrative. A true data-driven marketeer and a great person to work with!"
+  ],
+  "activities": [
+    {
+      "title": "One year ago at SCOPE, I met Luke. Today, we’re on stage together winning the Site Innovation Award! In that time, we’ve shifted our strategy to…",
+      "link": "https://www.linkedin.com/posts/jonathanmoshinsky_one-year-ago-at-scope-i-met-luke-today-activity-7292941847323131904-dd0S",
+      "activity_status": null
+    },
+    {
+      "title": "The Quan Media Group family has grown (literally) In October, our COO, Ashley Moll gave birth to a beautiful baby boy, Luca! Today we welcome back…",
+      "link": "https://www.linkedin.com/posts/briantrappaport_work-life-matleave-activity-7308104039542476800-a1Ml",
+      "activity_status": null
+    },
+    {
+      "title": "Proud to fly the flag for Bauer Media Outdoor UK & Bauer Media Outdoor Europe in a year with so much change, on all fronts... Chuffed to be in…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_campaignuk-platformforbrands-platformforgood-activity-7406314111858286595-FFOG",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to announce that I'm moving into a new role at The Trade Desk, leading a global Enablement team of 60+ (and growing!), encompassing…",
+      "link": "https://www.linkedin.com/posts/eric-holt-3203971_im-excited-to-announce-that-im-moving-into-activity-7398467328180494336-7kBt",
+      "activity_status": null
+    },
+    {
+      "title": "Programmatic DOOH + LEGO = creativity unlocked 🔓🧱 Just returned from an inspiring trip to Copenhagen🧜‍♀️ I had the pleasure of visiting the…",
+      "link": "https://www.linkedin.com/posts/charmaine-tavassoly_everyoneisawesome-programmatic-dooh-activity-7397614039155044352-j033",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you as always to The ADVERTISING Club of New York for the opportunity to moderate a panel today in front of our industry on how OOH and sports…",
+      "link": "https://www.linkedin.com/posts/andrewweinstein1_thank-you-as-always-to-the-advertising-club-activity-7402037726163935232-6MgG",
+      "activity_status": null
+    },
+    {
+      "title": "I’m delighted to share that I’ve joined HubSpot as UK Country Manager & Head of Corporate Sales. Throughout my career, I’ve found the greatest…",
+      "link": "https://www.linkedin.com/posts/tompepperlinkedin_im-delighted-to-share-that-ive-joined-hubspot-activity-7401186712263225344-0V6K",
+      "activity_status": null
+    },
+    {
+      "title": "What a ride! Thanks to everyone at PX for getting us here - I've loved every second of it. Thanks to the Broadsign team for believing in us and…",
+      "link": "https://www.linkedin.com/posts/daveetherington_what-a-ride-thanks-to-everyone-at-px-for-activity-7399157775118786560-w3ww",
+      "activity_status": null
+    },
+    {
+      "title": "4,000 screens strong... our Adshel Live network keeps growing💪Truly the UK's largest Digital Out of Home Network🔥 Over the last 10 years our…",
+      "link": "https://www.linkedin.com/posts/richard-bon-8490a744_adshel-live-4000-activity-7394996920202522624-Hjsc",
+      "activity_status": null
+    },
+    {
+      "title": "🌐🎯💼 It was a privilege to present at the IAB's event in Warsaw last week, \"How to DOOH.\" Lizzie Frew and I discussed the growth of Programmatic…",
+      "link": "https://www.linkedin.com/posts/charmaine-tavassoly_it-was-a-privilege-to-present-at-the-activity-7391135561761284099-m0Pk",
+      "activity_status": null
+    },
+    {
+      "title": "And that’s a wrap! 🎬 Camp is officially over, and all that’s left is to step into the ring on Thursday night for Media Fight Night 10. Whatever…",
+      "link": "https://www.linkedin.com/posts/shanil-chande-10929463_and-thats-a-wrap-camp-is-officially-activity-7391411170064371712-DxRj",
+      "activity_status": null
+    },
+    {
+      "title": "Super excited to announce the newest addition to the Quan Media Group East Coast office! Please welcome Phillip Antwi-Buosiako - our new Supervisor!…",
+      "link": "https://www.linkedin.com/posts/briantrappaport_ooh-activity-7381698200832815105-6YOC",
+      "activity_status": null
+    },
+    {
+      "title": "Playout sets the standard – as a system that unifies tracking and verification of all Out-of-Home advertising in the UK. It proves the playout of…",
+      "link": "https://www.linkedin.com/posts/mark-bucknell-1ba63113_results-ooh-data-activity-7379827091090903040-OHJq",
+      "activity_status": null
+    },
+    {
+      "title": "Quan Media Group is growing Our LA office is looking for some good talent! Check out the below!",
+      "link": "https://www.linkedin.com/posts/briantrappaport_quan-media-group-is-growing-our-la-office-activity-7381401018372091904-9Lwy",
+      "activity_status": null
+    },
+    {
+      "title": "Like me, I'm assuming that many of you found the book \"Freakonomics\" to be a pretty influential read. So I was thrilled when the team at Freakonomics…",
+      "link": "https://www.linkedin.com/posts/danlevi_billboards-freakonomics-activity-7381086410910486530-ZiUs",
+      "activity_status": null
+    },
+    {
+      "title": "After (almost) 7 years at Bauer Media Outdoor UK, my time has come to move on to somewhere new. I’ve loved my time at BMO and that’s largely due to…",
+      "link": "https://www.linkedin.com/posts/edie-fisher-375224152_after-almost-7-years-at-bauer-media-outdoor-activity-7379804323008131074-lkNu",
+      "activity_status": null
+    },
+    {
+      "title": "Let’s get ready to rumble 🥊 🛎️ Excited to announce that I will be participating in Media Fight Night on the 6th November and helping to raise…",
+      "link": "https://www.linkedin.com/posts/shanil-chande-10929463_lets-get-ready-to-rumble-excited-activity-7374789711778979840-JRru",
+      "activity_status": null
+    },
+    {
+      "title": "\"I huvudet på Finn Wikander\" kanske låter som en skräckfilm - men tack Head Agent Executive Search & Interim för pratstunden om ledarskap, lärdomar…",
+      "link": "https://se.linkedin.com/posts/finnwikander_i-huvudet-på-finn-wikander-kanske-låter-activity-7424483442601594880-phSF",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks a major milestone in our product journey: the launch of Atlas Planner, our new AI-powered programmatic planning tool for OOH. This is a…",
+      "link": "https://www.linkedin.com/posts/andrewstevens2_talon-launches-atlas-planner-an-ai-powered-activity-7452020246774927360-3htC",
+      "activity_status": null
+    },
+    {
+      "title": "I'm very pleased to officially announce that I'm starting a new position at Talon, as Global Chief Product Officer. Looking forward to joining this…",
+      "link": "https://www.linkedin.com/posts/andrewstevens2_im-very-pleased-to-officially-announce-that-activity-7285663252112441344-N91R",
+      "activity_status": null
+    },
+    {
+      "title": "A few thoughts on Google's decision to abandon third-party cookie deprecation, and why OOH still stands to benefit",
+      "link": "https://www.linkedin.com/posts/andrewstevens2_googles-decision-to-abandon-third-party-activity-7223688682761793538-s6a_",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-71111714",
+      "summary": "Online Editor at Saga Publishing/Saga Magazine",
+      "location": "Sandgate"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-b46b59100",
+      "summary": "production manager at lonestar sealing division, Leeds",
+      "location": "Halifax"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://be.linkedin.com/in/andy-stevens-74b9143b",
+      "summary": "Hoofdwerfleider Besix",
+      "location": "Ghent Metropolitan Area"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-71464532",
+      "summary": "Orno Design Ltd",
+      "location": "Surrey"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://ie.linkedin.com/in/andy-stevens-803151b9",
+      "summary": "Recruitment Consultant at Cornhouse Consulting",
+      "location": "Ireland"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/onlineastevens",
+      "summary": "I squeeze the brains of clever digital healthcare people and turn the juice into interesting content for other clever digital healthcare people. Head of Marketing at Channel 3. Once met Norman Wisdom.",
+      "location": "Greater Preston Area"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andypstevens",
+      "summary": "C-Suite | Leader | Consultant | Entrepreneur | Board Member",
+      "location": "London"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-a2292624",
+      "summary": "Director, Talent Acquisition - Global Technical Operations, Quality and EU Commercial at Jazz Pharmaceuticals",
+      "location": "Royal Tunbridge Wells"
+    },
+    {
+      "name": "Andy. Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-125a0528",
+      "summary": "Construction Director at Berkeley Group Holdings Plc",
+      "location": "London"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens",
+      "summary": null,
+      "location": "Princes Risborough"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andystevens5",
+      "summary": null,
+      "location": "United Kingdom"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-a36205",
+      "summary": null,
+      "location": "Alton"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-0177a0262",
+      "summary": "Full stack developer at Aloma.io",
+      "location": "London"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-1b711b21a",
+      "summary": null,
+      "location": "Broughty Ferry"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-91b2344",
+      "summary": "International Sales Manager (EMEA)",
+      "location": "Greater Brighton and Hove Area"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-tbnuk",
+      "summary": "Founder & CEO of The Build Network UK",
+      "location": "London"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andy-stevens-11686a1",
+      "summary": null,
+      "location": "Greater Oxford Area"
+    },
+    {
+      "name": "Andy Stevens",
+      "link": "https://uk.linkedin.com/in/andystevens001",
+      "summary": null,
+      "location": "Lightwater"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Google's decision to abandon third-party cookie deprecation doesn't change the need to rethink cookie-based advertising",
+      "link": "https://www.linkedin.com/pulse/googles-decision-abandon-third-party-cookie-doesnt-change-stevens-v76ze",
+      "published_date": {
+        "day": 29,
+        "month": 7,
+        "year": 2024
+      },
+      "author": null,
+      "image_url": "https://assets.enrichlayer.com/ll/D4E12AQFMT9O-jmIjUw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722261392858?e=2147483647&v=beta&t=ce3jiSLdH56u8l6cBHbbG8RAwS7rjFeydfQkO05pccM"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-16T00:00:00Z"
+  }
+}

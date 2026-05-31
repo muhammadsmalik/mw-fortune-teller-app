@@ -1,0 +1,12 @@
+{
+  "normalizedUrl": "https://www.linkedin.com/in/kevinwoohmedia",
+  "username": "kevinwoohmedia",
+  "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+  "csvRowNumber": 67,
+  "attendee": {
+    "fullName": "Kevin Wu",
+    "company": "Starvision",
+    "email": "kevin.wu@leapingai.com",
+    "country": "China"
+  }
+}

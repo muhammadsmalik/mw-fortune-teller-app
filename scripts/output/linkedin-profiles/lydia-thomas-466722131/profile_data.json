@@ -1,0 +1,694 @@
+{
+  "public_identifier": "lydia-thomas-466722131",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Lydia",
+  "last_name": "Thomas",
+  "full_name": "Lydia Thomas",
+  "follower_count": 649,
+  "occupation": "Partnerships Manager at Wildstone",
+  "headline": "Partnerships Manager at Wildstone",
+  "summary": "Strong experience within the Out of Home Advertising industry and extensive involvement in development focused targets. Diverse in client relationships with a proven track record in problem solving. Creative and yet an analytical individual, that thrives in result driven and energetic environments. <br><br>Bachelor Hons degree qualified, graduating from the University of the West of England with direct focus on Business and Events management.<br><br>A authentic passion for both professional and personal aspirations. As well as, searching for further opportunities to arise for continued growth and development.",
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "Wildstone",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wildstone",
+      "company_facebook_profile_url": null,
+      "title": "Partnerships Manager",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bdb52bd75e419065e7a81b3dd591101b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "company": "Wildstone",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wildstone",
+      "company_facebook_profile_url": null,
+      "title": "Development Manager",
+      "description": null,
+      "location": "London and South West",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bdb52bd75e419065e7a81b3dd591101b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2022
+      },
+      "company": "Wildstone",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wildstone",
+      "company_facebook_profile_url": null,
+      "title": "Project Coordinator",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/bdb52bd75e419065e7a81b3dd591101b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "Speakers Corner",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/speakers-corner",
+      "company_facebook_profile_url": null,
+      "title": "Events Logistics Coordinator",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4197c8317f9af3cde6cbe254bbb5d3db"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "Mayfair Town and Country",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mayfair-town-and-country",
+      "company_facebook_profile_url": null,
+      "title": "Lettings Manager",
+      "description": null,
+      "location": "Clifton, Bristol",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ce6f4251939854033687d005d51c35da"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "Mayfair Town and Country",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mayfair-town-and-country",
+      "company_facebook_profile_url": null,
+      "title": "Lettings negotiator",
+      "description": null,
+      "location": "Clifton, Bristol",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ce6f4251939854033687d005d51c35da"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      },
+      "company": "Blueriver Cottages",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/blueriver-cottages",
+      "company_facebook_profile_url": null,
+      "title": "Property Assistant",
+      "description": null,
+      "location": "Dartmouth",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2017
+      },
+      "company": "House of Fraser",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/house-of-fraser",
+      "company_facebook_profile_url": null,
+      "title": "Supervisor",
+      "description": null,
+      "location": "Bristol, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a7d5254bc66d584c0d3a9cce982a2d18"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Business and Events Management",
+      "degree_name": "Business and Events Management (Final year)",
+      "school": "The University of The West of England",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": null,
+      "degree_name": "Business Studies Diploma",
+      "school": "HSDC Alton",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/hsdcalton",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/edc7506bcefbd6c1ed504cfcfbe66469",
+      "grade": "Distinction* Distinction* and Distinction",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/lukearmstrongwildstone",
+      "name": "Luke Armstrong",
+      "summary": "Development Manager at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/harrietosmond",
+      "name": "Harriet Osmond",
+      "summary": "Project Manager | Specialist in simultaneously managing multiple projects ensuring they remain within scope, schedule, and defined budgets.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lesley-elizabeth-watson",
+      "name": "Lesley Taylor",
+      "summary": null,
+      "location": "Glasgow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jenniferlsmith",
+      "name": "Jennifer Smith",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ecekurtaraner",
+      "name": "Ece Kurtaraner",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abigailwatts",
+      "name": "Abigail Watts",
+      "summary": "Program Coordinator",
+      "location": "Melbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aartinaidu",
+      "name": "Aarti Naidu",
+      "summary": "Project Manager- Operations at PromoVeritas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosie-simpson-nee-lally-97422271",
+      "name": "Rosie Simpson (nee Lally)",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosie-simpson-97422271",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lydiadaniels",
+      "name": "Lydia Daniels (Chunky Rugs)",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aliciakharod",
+      "name": "Alicia Kharod",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoriawarner",
+      "name": "Vicki Warner",
+      "summary": "Training & Coaching Professional",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leah-ivens-81200176",
+      "name": "Leah Ivens",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hebdenjill",
+      "name": "Jill Hebden",
+      "summary": "UK Managing Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-bolt-231767175",
+      "name": "sarah bolt",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paula-wr%25C3%25B3bel-14989b37",
+      "name": "Paula Wróbel",
+      "summary": "Head of Marketing at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sashaoxley",
+      "name": "Sasha Oxley",
+      "summary": "Customer Support & Relationship Manager, aiming to deliver a great customer experience",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulinman75",
+      "name": "Paul Inman",
+      "summary": "CEO & Co-Founder at AskBOB | Making billboard advertising simpler for SMEs and brands | AI planning, mapping and booking applications | Ex-OOH operator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrick-fisher-6b951616",
+      "name": "Patrick Fisher",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philip-allard-57539018",
+      "name": "Philip Allard",
+      "summary": null,
+      "location": "Kensington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/masslambresa",
+      "name": "Mass Lambresa",
+      "summary": "DOOHable Ltd•7K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aimee-law-76461928",
+      "name": "Aimee Law",
+      "summary": "It's been an interesting couple of years!",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-duty-b407592a",
+      "name": "Michael Duty",
+      "summary": "Head of Development at Wildstone",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/otis-tree-362a942b",
+      "name": "Otis Tree",
+      "summary": "Director",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-chandler-18804137",
+      "name": "Jonathan Chandler",
+      "summary": "UK CEO at Wildstone",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruth-baird-a30a4045",
+      "name": "Ruth Baird",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sophia-dick-94740048",
+      "name": "Sophia Dick",
+      "summary": "Project Management / Events Management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damian-cox-baa6014a",
+      "name": "Damian Cox",
+      "summary": "Global CEO & Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cennydd-roberts-7539144b",
+      "name": "Cennydd Roberts",
+      "summary": "Previously Founder & CEO at Foris Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/muaz-mahfuzh-6005ba5b",
+      "name": "Muaz Mahfuzh",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-hopkins-1b884b64",
+      "name": "Helen Hopkins",
+      "summary": "Project Coordinator at LIGHTS CONTROL RIGGING LIMITED",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-parsons-480b9b6a",
+      "name": "Sarah Parsons",
+      "summary": "Administrator at TOOGOOD INTERNATIONAL TRANSPORT AND AGRICULTURAL SERVICES LIMITED",
+      "location": "Bristol"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosie-lally-97422271",
+      "name": "Rosie Lally",
+      "summary": "Senior Program Manager at Excerpta Medica BV - Adelphi Group",
+      "location": "Leicester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luis-navarro-575a7a73",
+      "name": "Luis Navarro",
+      "summary": "Technical Assistant at N8 Health Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sammi-jo-phillips-a0a92a74",
+      "name": "Sammi-Jo Phillips",
+      "summary": null,
+      "location": "Rochester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorraine-o-kane-7569a57a",
+      "name": "Lorraine O'Kane",
+      "summary": null,
+      "location": "Redhill"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-root-a4708681",
+      "name": "Katie Root",
+      "summary": "Senior Project Coordinator | Smyle Creative Ltd | The Human Network",
+      "location": "Hitchin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmin-ahmed-9aa22b83",
+      "name": "Yasmin Ahmed",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-ellis-74a2a990",
+      "name": "Lucy Ellis",
+      "summary": "Senior Project Manager at Nteractive",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/beth-mcduff-32887891",
+      "name": "Beth McDuff",
+      "summary": "Producer at Amplify",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelsie-whittemore-257264a8",
+      "name": "Kelsie Whittemore",
+      "summary": "Elite Garages | Management (MSc)",
+      "location": "Durham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jay-gami-82ab69ab",
+      "name": "Jay Gami",
+      "summary": "Project Manager at Epiq | PRINCE2",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-boyd-6264b8bb",
+      "name": "Peter Boyd",
+      "summary": "Senior Director of Commercial Sales at Massey Services, Ind",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/firhaad-ahmed-b744a2100",
+      "name": "Firhaad Ahmed",
+      "summary": "Managing Director at Event Maestros Group CIC",
+      "location": "Luton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgia-akers",
+      "name": "Georgia Akers",
+      "summary": "Head of Events at Spinal Research",
+      "location": "Tewkesbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-tracey-457931111",
+      "name": "Mark Tracey",
+      "summary": "Senior Site Manager at Wildstone",
+      "location": "Maldon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wanda-pendri%25C3%25A9-b462b6117",
+      "name": "Wanda Pendrié",
+      "summary": "Doctorante en littérature contemporaine",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hywel-lebbon-797522118",
+      "name": "HYWEL LEBBON",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hollybowendesign",
+      "name": "Holly Bowen",
+      "summary": "Interior Architect & Project Manager",
+      "location": "Waterlooville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloeramsdenseniorproducer",
+      "name": "Chloe Ramsden",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-fisher-421ba814a",
+      "name": "Tom Fisher",
+      "summary": "Business development and marketing manager",
+      "location": "Royal Leamington Spa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martha-johnstone-137b75160",
+      "name": "Martha Johnstone",
+      "summary": "Back in East Africa | Ready to Make an Impact",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-tandy-2b3244178",
+      "name": "Emily Tandy",
+      "summary": "Producer at 4Studio",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rheanne-chuter-5a0a6818a",
+      "name": "Rheanne Chuter",
+      "summary": null,
+      "location": "Shefford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-catlow-b29800197",
+      "name": "Adrian Catlow",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-wang-80374020a",
+      "name": "Jack Wang",
+      "summary": "Overseas Sales Manager",
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Natalia Hernandez\n\nLydia is a dynamic, efficient, focused and solutions-oriented employee who excels in her communication and social media skills in that  signature energetic style. She is a pleasure to work with and is a valuable asset to any team."
+  ],
+  "activities": [
+    {
+      "title": "Success, even with tube strikes! Really proud to have hosted an industry based event last night, bringing together such a great mix of people in a…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_success-even-with-tube-strikes-really-activity-7453111378502082560-t_lJ",
+      "activity_status": null
+    },
+    {
+      "title": "Last week DPAA hosted a brilliant Town Hall event. The overarching theme I took away was we need to work collaboratively to drive creativity within…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_last-week-dpaa-hosted-a-brilliant-town-hall-activity-7444418054073061376-t8xl",
+      "activity_status": null
+    },
+    {
+      "title": "What a fabulous evening to host last night, brilliant meeting with industry friends, old & new. Wildstone truly knows how to throw a party 🎉 a huge…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_what-a-fabulous-evening-to-host-last-night-activity-7379863588473032704-wzJ2",
+      "activity_status": null
+    },
+    {
+      "title": "Feeling truly grateful for the opportunity to connect, learn and share ideas with such talented peers in the heart of Mexico City. Excited about…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_feeling-truly-grateful-for-the-opportunity-activity-7337840485018882049-ackj",
+      "activity_status": null
+    },
+    {
+      "title": "Day 1 at the WOO Out of Home Congress in Mexico City — a brilliant opportunity to connect, collaborate, and explore where the industry is heading.…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_day-1-at-the-woo-out-of-home-congress-in-activity-7336806895803850754-oFa0",
+      "activity_status": null
+    },
+    {
+      "title": "Excited to be at this year’s WOO Conference in Mexico City! Great to see the latest trends within the industry and to hear fresh perspectives.…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_excited-to-be-at-this-years-woo-conference-activity-7330848952818282496-7B5a",
+      "activity_status": null
+    },
+    {
+      "title": "What a fantastic few days at the World Out of Home Organization Congress in Milan. An insightful and creative time, listening to the beauty of OOH…",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_what-a-fantastic-few-days-at-the-world-out-activity-7259953223623434240-kJux",
+      "activity_status": null
+    },
+    {
+      "title": "Fabulous evening last week at the NABS 2024 charity event",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_fabulous-evening-last-week-at-the-nabs-2024-activity-7207388913022218240--Cvz",
+      "activity_status": null
+    },
+    {
+      "title": "I am pleased to have successfully passed my exams and achieved an ARLA qualification at level 3 in residential letting and property management",
+      "link": "https://www.linkedin.com/posts/lydia-thomas-466722131_i-am-pleased-to-have-successfully-passed-activity-6430443157720305664-auMF",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydiaffion",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://www.linkedin.com/in/lydia-thomas-20b8108a",
+      "summary": "Executive Director at Greenville Zoo Foundation",
+      "location": "Greenville, SC"
+    },
+    {
+      "name": "Lydia T.",
+      "link": "https://ae.linkedin.com/in/lydializthomas",
+      "summary": "Digital Marketing Intern at DAMAC Properties",
+      "location": "United Arab Emirates"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://www.linkedin.com/in/lydia-thomas-508867b",
+      "summary": "CEO at Coastal Platinum Properties",
+      "location": "Miami, FL"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://www.linkedin.com/in/lydia-thomas-73a3794a",
+      "summary": "DNA Consultant at Paternity Direct, Inc.",
+      "location": "Grapevine, TX"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydia-thomas-a273a0a7",
+      "summary": "Director at Cultiv8: Farming With Numbers",
+      "location": "Bridgwater"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydia-thomas-213256119",
+      "summary": "Founder and CEO @ARAY | Connecting Brands 🤝🏽 UGC Creators",
+      "location": "Manchester Area, United Kingdom"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydiaraynethomas",
+      "summary": "SRE | Google | Customer Reliability Engineering",
+      "location": "London"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydia-m-thomas",
+      "summary": "Project Manager",
+      "location": "Leamington Spa"
+    },
+    {
+      "name": "Lydia T.",
+      "link": "https://uk.linkedin.com/in/lydia-t-3a645a158",
+      "summary": "Employment and Litigation Solicitor",
+      "location": "Greater Swansea Area"
+    },
+    {
+      "name": "Lydia Thomas",
+      "link": "https://uk.linkedin.com/in/lydia-thomas-bb7b1a201",
+      "summary": "Business Analyst at Eagle Eye",
+      "location": "Manchester"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-25T00:00:00Z"
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "public_identifier": "richard-boundy-a8982712",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Richard",
+  "last_name": "Boundy",
+  "full_name": "Richard Boundy",
+  "follower_count": 1228,
+  "occupation": "Senior Sales Representative Bus Stop Infrastructure at Trueform Manufacturing & Technologies Group",
+  "headline": "Senior Sales Representative , Bus stop infrastructure",
+  "summary": "An experienced business development manager, or Sales Manager. Resilient, collaborative and focused I can deliver solutions to all your infrastructure projects.",
+  "location_str": "Warrington, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "Warrington",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Trueform Manufacturing & Technologies Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/trueform-group",
+      "company_facebook_profile_url": null,
+      "title": "Senior Sales Representative Bus Stop Infrastructure",
+      "description": "Responsible for building relationships within local authorities, county and city councils, architects and transport consultants within the bus stop infrastructure sector.",
+      "location": "Uk",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/a816e31d2c22ee976705d629bb5c0650"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2025
+      },
+      "company": "Simmonsigns Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/simmonsigns",
+      "company_facebook_profile_url": null,
+      "title": "Area Sales Manager Midlands",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fb421f6c4261bd6bed939b1fd5e038a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2024
+      },
+      "company": "Ladc",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Local Authority Relationship Manager",
+      "description": "LADC Highways are Section 38/278 (Highways Act 1980) Agreement specialists, with a focus on achieving compliance of obligations under relevant agreements to resolve the issue of unadopted roads. We believe our compliance solutions bring long-lasting social value to the residents of our valued Local Authority Partners, as adoption of roads brings the lasting effect to those residents of maintenance of the roads, environmental benefits, potential for improved safety measures and highway beautification and more. LA Developer Compliance Limited as part of its mission to provide full faceted solutions is proud to announce it has made a number strategic acquisitions, resulting in LADC Highways gaining over 14 years of expert experience, protocols and systems which it will use to assist its Partner Local Authorities with nil-fee solutions should any Section 38/278 agreement fall into default, no matter the reason.",
+      "location": "United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "ACTION RECLAIM LTD",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/action-reclaim-ltd",
+      "company_facebook_profile_url": null,
+      "title": "Sales and Marketing Director",
+      "description": "Working in the Housing Disrepair sector and other areas of consumer advice.",
+      "location": "Manchester, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "company": "Satsuma Sales and Marketing",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales and Marketing Manager",
+      "description": "Freelance expertise in sales and marketing in publishing for books and music.",
+      "location": "Warrington, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2016
+      },
+      "company": "Gravitas law",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gravitas-law",
+      "company_facebook_profile_url": null,
+      "title": "Housing Disrepair Agent",
+      "description": "Managing housing disrepair claims for tenants in social housing and working alongside solicitors to ensure the claims are successful and well presented.",
+      "location": "Manchester",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "company": "Platform People",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Manager",
+      "description": null,
+      "location": "Warrington",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Sunpenny Publishing",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Sales Manager",
+      "description": "Publishing a range of excellent books. Brands are Romantic fiction ,boating and Childrens",
+      "location": "Warrington",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "company": "ETA",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "sales and marketing",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2012
+      },
+      "company": "MortgageForce",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mortgageforce",
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "Sale FC Rugby",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sale-fc-rugby",
+      "company_facebook_profile_url": null,
+      "title": "Director of Rugby",
+      "description": null,
+      "location": "Carrington/Heywood Road",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0791a3a7bde44b71dea9c39e9836c6f7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2011
+      },
+      "company": "Lymm Rugby Football Club",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lymm-rugby-football-club",
+      "company_facebook_profile_url": null,
+      "title": "Director of Rugby",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/eaaf1ff5db3ce5cd201b7b28f6b0b38f"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1984
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Pangbourne College",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/pangbourne-college",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/02f882c56ec90226f15d0dea428947b4",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "Chartered Institute of Bankers",
+      "number": null
+    },
+    {
+      "name": "Chartered Institute of Marketing",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2025
+      },
+      "ends_at": null,
+      "name": "Associate Member",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Chartered Institution of Highways & Transportation (CIHT)",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2006
+      },
+      "ends_at": null,
+      "name": "CEMAP",
+      "license_number": null,
+      "display_source": null,
+      "authority": "FCA",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "FCIM",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Chartered Institute of Marketing",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Fellow",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Chartered Institute of Bankers",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/julia-church",
+      "name": "Julia Church",
+      "summary": "Project Support/Administrator at Osborn Associates",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sas1989",
+      "name": "Stevie Smith",
+      "summary": "Building teams and brands",
+      "location": "Bearsden"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-bullars",
+      "name": "Matt Bullars",
+      "summary": "General Manager",
+      "location": "Nottingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarablackwell",
+      "name": "Sara Blackwell",
+      "summary": "Leading strategic brand-focused campaigns for Greenwoods.",
+      "location": "Peterborough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kirstyhumphrey",
+      "name": "Kirsty Humphrey",
+      "summary": "Marketing Manager at Warners Solicitors",
+      "location": "Tonbridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helenfreestonparissmithllp",
+      "name": "Helen Freeston",
+      "summary": "Marketing Director at Paris Smith LLP.  Helping to connect businesses and build lasting relationships that matter.",
+      "location": "Southampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cxspecialist",
+      "name": "Laura Jones",
+      "summary": "Customer Experience Specialist | Chartered Marketer | Working with our legal teams to optimise every touch point of the customer journey | Passionate about the delivery of exceptional customer service",
+      "location": "Wolverhampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-stockford-20a787260",
+      "name": "sam stockford",
+      "summary": "cnc machinist at Wabtec Corporation",
+      "location": "Chard"
+    },
+    {
+      "link": "https://www.linkedin.com/in/am-claims-solutions-783a83257",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/martin-supple-27b741297",
+      "name": "Martin Supple",
+      "summary": "Project Specialist",
+      "location": "Canterbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/surj-ghosh-938803256",
+      "name": "Surj Ghosh",
+      "summary": "Motivated in contributing to IT/Computing related work at a junior level",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hr-building-maintenance-208758222",
+      "name": "HR Building Maintenance",
+      "summary": "--",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rozer-rockson-289707249",
+      "name": "Rozer Rockson",
+      "summary": "Business introducer , IVA, PCP, LIFE INSURANCE ,SOLAR , HDR",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmamclark",
+      "name": "Emma C.",
+      "summary": null,
+      "location": "Exeter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/healthy-tenants-3a6a93218",
+      "name": "Healthy Tenants",
+      "summary": "--",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alfi-ismail-b23881238",
+      "name": "Alfi Ismail",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joegillettgillettenviro",
+      "name": "Joe Gillett",
+      "summary": "Managing Director at Gillett Environmental",
+      "location": "Lytham St Anne's"
+    },
+    {
+      "link": "https://www.linkedin.com/in/abdullah-khalid-921206236",
+      "name": "Abdullah Khalid",
+      "summary": "CLAIMS MANAGEMENT COMPANY GENERATING LEADS FOR THE SOLICITORS FIRM ONLY HDR AND RTA",
+      "location": "Dagenham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joe-dennis-81075a226",
+      "name": "Joe Dennis",
+      "summary": "Assistant Project Manager at VolkerRail Ltd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/graeme-parrott",
+      "name": "Graeme Parrott",
+      "summary": "Utilising all forms of marketing and business development to drive reputation, relationships and revenue across key clients and sectors globally.",
+      "location": "Bicester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sheila-gibson-118b095",
+      "name": "Sheila Gibson",
+      "summary": "Owner, CapitalM Associates Ltd",
+      "location": "Staveley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/robert-pinheiro-1782989",
+      "name": "Robert Pinheiro",
+      "summary": "BD leader making lawyers feel loved by helping them create strategies to win more business from existing clients and convert leads through dynamic campaigns and pipeline activity",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-joy-2b9787a",
+      "name": "Matthew Joy",
+      "summary": null,
+      "location": "Wokingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachelbiggin1",
+      "name": "Rachel Biggin",
+      "summary": "Marketing Manager - Intellectual Property, at  Gateley",
+      "location": "Nottingham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bidwells-coulsdon-sbo-3b58381b",
+      "name": "Bidwells Coulsdon Sbo",
+      "summary": "Bidwells Old Coulsdon at Bidwells Estate Agents",
+      "location": "South Croydon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/duncan-chisholm-65ab801b",
+      "name": "Duncan Chisholm",
+      "summary": "Head of Commercial | Business Development, Sales, Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karenclarksonparkerbullen",
+      "name": "Karen Clarkson",
+      "summary": "Professional services marketing within the legal sector | Currently Marketing and Business Development Partner at Parker Bullen LLP",
+      "location": "Romsey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vohrad",
+      "name": "Deepak Vohra",
+      "summary": "Director at Global Legal Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/huzaifa-patel-3a98852a",
+      "name": "Huzaifa Patel",
+      "summary": "Lead Generator/#ECO4 Energy/#RTA/#Scottish RTA/#PCP/#HDR/#PPE/#masks/#nitriles/#workwear#Coveralls#Goggles#Test Kits",
+      "location": "Pleasington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adam-turner-57a8a32b",
+      "name": "Adam Turner",
+      "summary": "Managing Director | Commercial Director | CEO | Founder | Investor",
+      "location": "Chorley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/warren-barnard-35337532",
+      "name": "Warren Barnard",
+      "summary": "Managing Director at Arcadia Heating & Plumbing Services Ltd",
+      "location": "Portsmouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-swindells-73675934",
+      "name": "Nick Swindells",
+      "summary": "Motorsport event at Caterham R300",
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/s-beatty-0154993a",
+      "name": "s beatty",
+      "summary": "security at nonya",
+      "location": "Kansas City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charlotte-turner-52bb7141",
+      "name": "Charlotte Turner",
+      "summary": "Marketing Manager at RDP Law",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jakegann",
+      "name": "Jake Gann",
+      "summary": "Driving Results at the Intersection of Tech, Sales & Customer Experience",
+      "location": "Canterbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E6%25B4%25B2-%25E9%2599%2586-4649934b",
+      "name": "陆洲",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-warwick-85a23853",
+      "name": "Emma Warwick",
+      "summary": "Marketing Manager at Slade Legal",
+      "location": "Oxford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gillian-felby-8a235b6a",
+      "name": "Gillian Felby",
+      "summary": "Managing Director at The Retreat Beauty Rooms",
+      "location": "Tandridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephen-kealey-8736316b",
+      "name": "Stephen Kealey",
+      "summary": "Solicitor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-masters-38885277",
+      "name": "Matt Masters",
+      "summary": "Head of Executive Workforce Solutions | Partnering with Public Sector Organisations to Diagnose Workforce Needs and Secure the Leaders Who Drive Performance, Stability & Long‑Term Impact",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ahsan-ayyaz-99836987",
+      "name": "Ahsan Ayyaz",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/antony-gray-4574aa88",
+      "name": "Antony Gray",
+      "summary": null,
+      "location": "Tandridge"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicky-quinn-campbell-39515a92",
+      "name": "Vicky Quinn-Campbell",
+      "summary": "Sales and Marketing Director at Simply Conveyancing",
+      "location": "Caistor"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-rowe-mbe-ab564894",
+      "name": "Simon Rowe MBE",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-rogers",
+      "name": "Louise Rogers",
+      "summary": null,
+      "location": "Warrington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dominique-stockford-595151a4",
+      "name": "Dominique Stockford",
+      "summary": null,
+      "location": "Gloucester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-long-a67490a5",
+      "name": "steven Long",
+      "summary": null,
+      "location": "Lichfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/caroline-murray-56781ba6",
+      "name": "Caroline Murray",
+      "summary": "ULR Specialist",
+      "location": "Mirfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lindsay-emmett-2b5734b0",
+      "name": "Lindsay Emmett",
+      "summary": "Senior HR Business Partner- NHS",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-stewart-fcim-727699b6",
+      "name": "Paul Stewart FCIM",
+      "summary": "Managing Director at Stewart Marketing Limited",
+      "location": "Worksop"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25E7%25A5%25A5%25E9%2591%25AB-%25E5%25AD%2594-859542ba",
+      "name": "孔祥鑫",
+      "summary": "Cambridge University Press - Sales Representative",
+      "location": "Beijing"
+    },
+    {
+      "link": "https://www.linkedin.com/in/norrene-shan-4273b4104",
+      "name": "Norrene Shan",
+      "summary": "Solicitor at Forbes Solicitors LLP Housing & Regeneration (Litigation)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-learmonth-1263b3105",
+      "name": "Tony Learmonth",
+      "summary": "Partner at COYNE LEARMONTH LLP",
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-gardner-621405106",
+      "name": "Daniel Gardner",
+      "summary": "Trainee Solicitor at Next Gen Solicitors Ltd",
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rosemary-garstang-717772150",
+      "name": "Rosemary Garstang",
+      "summary": null,
+      "location": "Chelmsford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/syeda-islam-920a78151",
+      "name": "Syeda Islam",
+      "summary": "Company Director at A GREENER CONSULTANCY LTD - we specialise in surveying for cavity claims and HDR Claims.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yasmin-eusuf-redman-457a16155",
+      "name": "Yasmin Eusuf-Redman",
+      "summary": null,
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alban-zylyfi-8807a2158",
+      "name": "Alban Zylyfi",
+      "summary": "Managing Director at GENERAL ROOFING LTD",
+      "location": "Enfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fadi-el-ghaith-0058b5170",
+      "name": "fadi el ghaith",
+      "summary": "Head Chef at IRVIN BAR GRILL LTD",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-kenny-54b290173",
+      "name": "Danielle Kenny",
+      "summary": "Case Manager at LADC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-marti-186446183",
+      "name": "Tony Marti",
+      "summary": "Team Supervisor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hadi-gibson-7462b918a",
+      "name": "hadi gibson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dean-fielding-2678a7198",
+      "name": "Dean Fielding",
+      "summary": "Consultant at Next Gen Solicitors Ltd",
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-blood-a9912619a",
+      "name": "Steve Blood",
+      "summary": "Paragon Claims Mcr/ Docufind Ltd - HDR - CWI - \nJKW - MIS SOLD FINANCIALS.",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-abbott-0638111b0",
+      "name": "Colin Abbott",
+      "summary": "Operations Support System Manager at BNS Distribution LTD",
+      "location": "Standish"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-townrow-064503202",
+      "name": "Alex Townrow",
+      "summary": "Engineering Apprentice at WSP in the UK",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I am very pleased and excited to announce my new position as Senior Sales Representative , Bus Stop Infrastructure, Trueform Manufacturing &…",
+      "link": "https://www.linkedin.com/posts/richard-boundy-a8982712_i-am-very-pleased-and-excited-to-announce-activity-7317476416118288384-Xpeo",
+      "activity_status": null
+    },
+    {
+      "title": "Interesting place for my 11am meeting? #ladchighways",
+      "link": "https://www.linkedin.com/posts/richard-boundy-a8982712_ladchighways-activity-7122903232812597248-0D9M",
+      "activity_status": null
+    },
+    {
+      "title": "Very excited to be attending Strictly Highways this year with the LADC team! Come and say hello at stand 47 😊",
+      "link": "https://www.linkedin.com/posts/richard-boundy-a8982712_very-excited-to-be-attending-strictly-highways-activity-7109883456846721025-HdVd",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Richard Boundy",
+      "link": "https://au.linkedin.com/in/richard-boundy-86882b5b",
+      "summary": "Richard Boundy at Andersons Solicitors",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Richard Boundy",
+      "link": "https://uk.linkedin.com/in/richard-boundy-59972428",
+      "summary": "Home Business Manager at Cornwall Care",
+      "location": "Camelford"
+    },
+    {
+      "name": "Richard Boundy",
+      "link": "https://uk.linkedin.com/in/richard-boundy-6bb52b1",
+      "summary": "-",
+      "location": "Warrington"
+    },
+    {
+      "name": "Richard Boundy",
+      "link": "https://uk.linkedin.com/in/richard-boundy-5b2a863a",
+      "summary": "Principal Engineer at Desco Ltd.",
+      "location": "Sutton"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-19T00:00:00Z"
+  }
+}

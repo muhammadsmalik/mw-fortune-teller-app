@@ -1,0 +1,561 @@
+{
+  "public_identifier": "1mungo",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/D5616AQEBtud6QvSscA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1696278140601?e=2147483647&v=beta&t=McE0QjECw3rPRj31PDFW9tQf_1RngKuHf86LsYNNbgQ",
+  "first_name": "Mungo",
+  "last_name": "Knott",
+  "full_name": "Mungo Knott",
+  "follower_count": 1285,
+  "occupation": "Owner at OOH Communications Ltd",
+  "headline": "Outdoor Advertising Professional",
+  "summary": "A broad range of experience within the outdoor advertising industry Working with…",
+  "location_str": "London Area, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": null,
+      "company": "OOH Communications Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Owner",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Commercial Platform and Product Director - Outdoor",
+      "description": null,
+      "location": "London, England, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "Global",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/global-media-entertainment-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Director of Automation and Platforms - Outdoor",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e030ba080c0a95f79be79e79a43ca9fb"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Primesight",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Insight and Innovation Director",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2017
+      },
+      "company": "Primesight Outdoor",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing & Insight Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2009
+      },
+      "company": "Streetbroadcast",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/streetbroadcast",
+      "company_facebook_profile_url": null,
+      "title": "MD Adsales",
+      "description": "Head of Sales and Marketing for Streetbroadcast Ltd Out of Home Advertising media owner, specialising in retail environments, and Digital OOH Advertising",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8423c3b655cb41d25c1b37b169f3edf6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1991
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "Posterscope",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posterscope",
+      "company_facebook_profile_url": null,
+      "title": "Buying Director",
+      "description": "As a board member responsible for the management of the company, with particular focus on buying, tools and systems",
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/613d50fffb933c2293d32c246eae4c22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 1991
+      },
+      "company": "Pinnacle",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Buyer - Account Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 1986
+      },
+      "company": "Portland Outdoor",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Finance & Buying Assistant",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "title": "Group Scout Leader - 11th Southgate",
+      "cause": "Children",
+      "company": "The Scout Association",
+      "company_linkedin_profile_url": "https://uk.linkedin.com/company/scoutsuk",
+      "description": "Scouting exists to actively engage and support young people in their personal development, empowering them to make a positive contribution to society",
+      "logo_url": "https://assets.enrichlayer.com/ll/D4E0BAQHjSOCpY6JElQ/company-logo_100_100/B4EZfGDYl4HgAU-/0/1751374465806/scoutsuk_logo?e=2147483647&v=beta&t=UZ_9Fic2NDsf6ePxRsfra5UVWJlnnwg118itvIu8Kxc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      },
+      "title": "Governor - Chair of Resources",
+      "cause": "Education",
+      "company": "East Barnet School",
+      "company_linkedin_profile_url": "https://uk.linkedin.com/school/eastbarnetschool/",
+      "description": "Very succesfull State Secondary School which transitioned to Academy status, and completed a whole school rebuild",
+      "logo_url": "https://assets.enrichlayer.com/ll/C560BAQGutEgrfu4zqw/company-logo_100_100/company-logo_100_100/0/1631364078144?e=2147483647&v=beta&t=4yNL2sqf1SGXladKNZQ8KNrKH2JXGvCI7ZYULmZ_6oc"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "PPLH",
+      "license_number": null,
+      "display_source": null,
+      "authority": "CAA International - Part of the UK CAA",
+      "url": null
+    }
+  ],
+  "connections": 1276,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ibetson",
+      "name": "Iain Betson",
+      "summary": "Owner at AV Resilience - \"The AV & Broadcast Experience Specialist\"",
+      "location": "Hilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidholliday",
+      "name": "David Holliday",
+      "summary": null,
+      "location": "Broxbourne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darren-cavanagh",
+      "name": "DARREN CAVANAGH",
+      "summary": "I am a vegan film director & producer and I help plant-based and eco-conscious filmmakers and business owners produce the best video and digital content to make a difference in the world.",
+      "location": "Glastonbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliasavill",
+      "name": "Julia Connaughton",
+      "summary": "Digital Pioneer | Commercial Growth | Mentor | Sustainability Champion",
+      "location": "Hersham"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avrilappleyard",
+      "name": "Avril Appleyard",
+      "summary": "Marcoms Strategist, Creative Director \nRetail • Travel Retail • Hospitality • Luxury • Onboard Services • Events • Food & Beverages • Beauty • Charity",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/wendytaylor01",
+      "name": "Wendy Nelson",
+      "summary": "Artist creating handmade resin art inspired by colour, movement, and reinvention.\nProof it’s never too late to begin again.",
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rjwhmarketing",
+      "name": "Richard Holgate",
+      "summary": "Semi-retired",
+      "location": "Harrogate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/traceynewton1",
+      "name": "Tracey Newton",
+      "summary": "Owner & Founder at TN Talent Ltd - Recruitment Specialist for the TV Broadcast & Media Industry & Rec2Rec - Recruitment opportunities within our Executive Search Agency clients across the UK.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuarthatton",
+      "name": "Stuart Hatton",
+      "summary": "Associate Partner - Hockey's Estate Agents - Ely",
+      "location": "Littleport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/suekarran",
+      "name": "Sue Karran",
+      "summary": "Freelance Marketing Consultant",
+      "location": "Wexford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/otto-jebari-b87345284",
+      "name": "Otto Jebari",
+      "summary": "Client Executive at Evolve OOH",
+      "location": "Hove"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisforrester",
+      "name": "Chris Forrester",
+      "summary": "Commercial Leader / Qualified Coach / Mentor /  Board Trustee",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rogilvie",
+      "name": "Ryan Ogilvie",
+      "summary": "owner @ mind the gap creative, Creative Director at Go Radio & Podcast Producer - HIGHLY COMMENDED at True Crime Awards 2024",
+      "location": "Aberdeen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gingervoila",
+      "name": "Elaine Fleming",
+      "summary": "Helping businesses grow with clear communication.",
+      "location": "Broughty Ferry"
+    },
+    {
+      "link": "https://www.linkedin.com/in/richardhavelock",
+      "name": "Richard Havelock",
+      "summary": "Owner of HAVY",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25c3%25a5se-kristine-moe-11710210a",
+      "name": "Åse Kristine Moe",
+      "summary": "Product Owner at Global",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chloe-coffen-a680188a",
+      "name": "Chloe Coffen",
+      "summary": "Lolly Agency•300 followers",
+      "location": "Shaftesbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-tabbin-almond",
+      "name": "Katherine (Tabbin) Almond",
+      "summary": "Alcohol Addiction Coach at Wine to Water Coaching and Non Executive Chairman at Route Outdoor Media Analytics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-harris-b84023222",
+      "name": "Jack Harris",
+      "summary": "Data Strategy Manager",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorna-garrett-3983921",
+      "name": "Lorna Garrett",
+      "summary": "Managing Director at Zest Technologies Limited",
+      "location": "Alton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/creightonandrew",
+      "name": "ANDREW CREIGHTON",
+      "summary": "Chief Commercial Officer, Nakamoto Inc (NASDAQ: NAKA) | Building Bitcoin’s Future | Founder, ADVICE | Parkinson’s Advocate",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-davis-1663064",
+      "name": "Chris Davis",
+      "summary": "Freelance CG Artist",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-white-b326b34",
+      "name": "Steve White",
+      "summary": null,
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-harrison-147a807",
+      "name": "Mark Harrison",
+      "summary": null,
+      "location": "Wilmslow"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johndash",
+      "name": "John Dash",
+      "summary": "Offering support to audio businesses and charities people, whilst encouraging the positive power of audio to improve people's lives and well being.",
+      "location": "Manchester"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bill-vidal-266a4415",
+      "name": "Bill Vidal",
+      "summary": "Head of Commercial Optimisation at JCDecaux",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-whelan-aab17417",
+      "name": "Mark Whelan",
+      "summary": "Owner, The Media Research Shop",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-pipistrelli-71842318",
+      "name": "Francesca Pipistrelli",
+      "summary": "Director/Owner at FJP Media, FOXY Lady Drivers Club & Foxy Choice",
+      "location": "Sandhurst"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-mcmurray-19a73919",
+      "name": "Steve McMurray",
+      "summary": "Consultant at Signs Express Falkirk",
+      "location": "Grangemouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackie-dane-2b394b61",
+      "name": "Jackie Dane",
+      "summary": "Group Investment Director at Posterscope",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-sapsford-3a390a7a",
+      "name": "Tim Sapsford",
+      "summary": "Managing Director at POSTERSCOPE | LIVEPOSTER",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyliedentith",
+      "name": "Kylie Dentith",
+      "summary": "Head of UK Customer Success",
+      "location": "Stoke-on-Trent"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carly-thorp-b71247a0",
+      "name": "Carly Thorp",
+      "summary": "Operations Manager, Evolve OOH",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kay-rostron-48b6b612a",
+      "name": "Kay Rostron",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliver-kelly-72638816b",
+      "name": "Oliver Kelly",
+      "summary": "Software Engineer at Antidote Legal",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-pettman-67970b203",
+      "name": "David Pettman",
+      "summary": "Bar Manager at Colchester rugby football club",
+      "location": "Colchester"
+    }
+  ],
+  "recommendations": [
+    "Nick David\n\nI had the pleasure of working with Mungo during my time at Posterscope. Mungo has a wealth of knowledge when it comes to outdoor and OOH. He is a fantastic mentor and kept me on the 'straight and narrow.' Thank you for all your help back then.",
+    "Mark Dillon\n\nI worked with Mungo for circa three years and found him to be one of the best Manager's I have worked for. He has great vision and knows how to get the best from people."
+  ],
+  "activities": [
+    {
+      "title": "Media Owners - 3x things you might have missed in VIOOH's \"State of the Nation\" programmatic reports... As a benchmark, the headlines are…",
+      "link": "https://www.linkedin.com/posts/bskrprice_media-owners-3x-things-you-might-have-missed-activity-7462481591546707968-6fWA",
+      "activity_status": null
+    },
+    {
+      "title": "Had a fantastic time at the London Transport Museum this morning speaking about how to utilise data to bring brands through the funnel all the way…",
+      "link": "https://www.linkedin.com/posts/stevie-s-791007131_had-a-fantastic-time-at-the-london-transport-activity-7455223439658942464-SRjg",
+      "activity_status": null
+    },
+    {
+      "title": "Aside from the use of zapping as a verb that people partake in, this is a very good overview of one of the most crucial aspects of media planning…",
+      "link": "https://www.linkedin.com/posts/iameuanmackay_ooh-activity-7455321505246257153-_34E",
+      "activity_status": null
+    },
+    {
+      "title": "▶ Route Research Ltd. is developing integration with Playout data for use in media mix modelling. OOH joint-industry currency Route is developing a…",
+      "link": "https://www.linkedin.com/posts/outsmart-out-of-home_route-research-ltd-is-developing-integration-activity-7453076175628718080-8utP",
+      "activity_status": null
+    },
+    {
+      "title": "For 20 years, we optimised the auction. Jeff Green said this week at Marketecture Media Live that digital advertising is the perfect environment for…",
+      "link": "https://www.linkedin.com/posts/june-cheung-87160b3_for-20-years-we-optimised-the-auction-jeff-activity-7437644513436852224-9dcX",
+      "activity_status": null
+    },
+    {
+      "title": "Tim de Monte joins Alight Media as Trading Director We're really excited to announce that Tim de Monte has joined the company as Trading Director…",
+      "link": "https://www.linkedin.com/posts/alightbrandmedia_tim-de-monte-joins-alight-media-as-trading-activity-7439316922988503042-8QV-",
+      "activity_status": null
+    },
+    {
+      "title": "Today, Trillboards became the first DOOH network with a fully operational MCP (Model Context Protocol) server. I’ve been obsessed with a…",
+      "link": "https://www.linkedin.com/posts/snehdhruv_dooh-mcp-aiagents-activity-7437667355612311552-OmGa",
+      "activity_status": null
+    },
+    {
+      "title": "Solomon Partners’ 2025 Major Media CPM Comparison once again proves that OOH is a highly efficient media channel. But what if we could…",
+      "link": "https://www.linkedin.com/posts/ben-zloof-584a5a73_out-of-home-advertising-still-a-great-value-activity-7436717370875928576-YRVl",
+      "activity_status": null
+    },
+    {
+      "title": "Sometimes the smartest #OOH ideas are the simplest ones. With Follow the Arches, McDonald's’s stripped its #outdoor creative back to a single…",
+      "link": "https://www.linkedin.com/posts/ooh-outdoor-wayfinding-activity-7432341182745120768-b7gM",
+      "activity_status": null
+    },
+    {
+      "title": "I'm delighted to share that I've joined JOLT as UK Country Manager! JOLT is on a mission to deliver fast and affordable EV charging whilst powering…",
+      "link": "https://www.linkedin.com/posts/sarina-patel-51ab70140_im-delighted-to-share-that-ive-joinedjolt-activity-7435362768838348801-xrT7",
+      "activity_status": null
+    },
+    {
+      "title": "Last week I made it up to London.  My first 'work trip' out of Cornwall and into the City in a year.  After a long winter of rain and storms, I…",
+      "link": "https://www.linkedin.com/posts/emilycoeooh_last-week-i-made-it-up-to-london-my-first-activity-7434572445132468225-KX55",
+      "activity_status": null
+    },
+    {
+      "title": "David Strnad, writing today in Billboard Insider on the need to recognise human behaviour, in measuring #OOH audiences - not just raw device…",
+      "link": "https://www.linkedin.com/posts/gideon-adey-47a98623_outdoor-advertising-needs-people-metrics-activity-7432081093446672384-LbZU",
+      "activity_status": null
+    },
+    {
+      "title": "More messaging doesn’t increase impact. It fragments it. When an ad carries one clear message, recall is strongest. Add a second message, and the…",
+      "link": "https://www.linkedin.com/posts/super-optimal_more-messaging-doesnt-increase-impact-it-activity-7427678275864547328-NLjw",
+      "activity_status": null
+    },
+    {
+      "title": "7 Words or less, make it easy to read, watch out for low contrast, don’t clutter Everyone in the industry knows the guardrails but we don’t always…",
+      "link": "https://www.linkedin.com/posts/neiljmorris_7-words-or-less-make-it-easy-to-read-watch-activity-7421512033927434240-Be5v",
+      "activity_status": null
+    },
+    {
+      "title": "Do we all know what good design for OOH looks like? Yes - I really think we do. The OOH industry has an abundance of creative best practice…",
+      "link": "https://www.linkedin.com/posts/neiljmorris_do-we-all-know-what-good-design-for-ooh-looks-activity-7420043368191201280-8cAA",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-05-29T04:53:15Z"
+  }
+}

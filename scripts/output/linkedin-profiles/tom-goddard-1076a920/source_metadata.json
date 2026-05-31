@@ -1,0 +1,12 @@
+{
+  "normalizedUrl": "https://www.linkedin.com/in/tom-goddard-1076a920",
+  "username": "tom-goddard-1076a920",
+  "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+  "csvRowNumber": 666,
+  "attendee": {
+    "fullName": "Tom Goddard",
+    "company": "World Out Of Home Organization",
+    "email": "tom@bluecatchai.com",
+    "country": "United Kingdom"
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "public_identifier": "mauricio-prieto-75aa3439",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Mauricio",
+  "last_name": "Prieto",
+  "full_name": "Mauricio Prieto",
+  "follower_count": 10,
+  "occupation": "Propietario at Marketmedios Comunicaciones",
+  "headline": "Propietario, Marketmedios Comunicaciones",
+  "summary": null,
+  "location_str": "Bogota, D.C., Capital District, Colombia",
+  "country": "CO",
+  "country_full_name": "Colombia",
+  "city": "Bogota",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "Marketmedios Comunicaciones",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Propietario",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 6,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/natalieperez00",
+      "name": "Nathalie Perez",
+      "summary": "Marketing graduate",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patricia-beltran-ochoa",
+      "name": "Patricia Beltrán Ochoa",
+      "summary": "Sales Executive of OOH y DOOH",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jalin-oliveira",
+      "name": "Jalin Oliveira",
+      "summary": "Special Project Coordinator",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-alejandra-ali",
+      "name": "Maria Alejandra Ali",
+      "summary": "Marketing Tech Leader | Field and Solutions Marketing | Executive Engagement & Strategy",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alangonzalezmd",
+      "name": "Alan González",
+      "summary": "Director Científico, Alan González Cirugía Plástica y Tratamientos No Quirúrgicos IPS S.A.S.",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nohora-angela-pena-saldana",
+      "name": "Nohora Angela Pena Saldana",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julian-gaitan-3a6a16240",
+      "name": "Julian Gaitan",
+      "summary": "Coordinador producción Outdoor en Marketmedios",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-rivera-b173b5231",
+      "name": "diego rivera",
+      "summary": "Aprendiz en Marketmedios",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lady-johana-cardozo-saavedra",
+      "name": "Lady Johana Cardozo Saavedra",
+      "summary": "Especialista en Gerencia de Talento Humano/Director de Talento Humano/Director Nacional de Selección/RRHH/HR Business Partner/Talent Manager/Head Of Talent & Learning Development",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-geovanni-mu%25C3%25B1oz-76a385130",
+      "name": "DAVID GEOVANNI MUÑOZ",
+      "summary": "Asesor financiero en MARKET MEDIOS",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victor-salazar-b4a892228",
+      "name": "Victor salazar",
+      "summary": "Productor en Marketmedios",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelly-betancourth-2273b3223",
+      "name": "Nelly Betancourth",
+      "summary": "Técnico de archivo en Marketmedios",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diego-pineros-latorre-780b174",
+      "name": "Diego Pineros Latorre",
+      "summary": "Manager at LATORRE FINCA RAIZ",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovanna-iannazzone-6852735",
+      "name": "Giovanna Iannazzone",
+      "summary": "Creative Director / Owner / Krio Color",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/victoria-ortega-43a8a65",
+      "name": "Victoria Ortega",
+      "summary": "Senior SAP SD/MM Consultant",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adriana-prieto-diazgranados-04203428",
+      "name": "Adriana Prieto DiazGranados",
+      "summary": "Directora de Agencias",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorena-ariza-59767331",
+      "name": "Lorena Ariza",
+      "summary": "Diseñadora Industrial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisa-maria-florez-giraldo",
+      "name": "LUISA MARIA FLOREZ GIRALDO",
+      "summary": null,
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-pablo-restrepo-a6317b38",
+      "name": "Juan Pablo Restrepo",
+      "summary": "Legal Director / Chief Compliance Officer / LLM Graduate / GC Powerlist",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerardo-antonio-espinosa-palacios-8412b251",
+      "name": "Gerardo Antonio Espinosa Palacios",
+      "summary": "Profesional independiente•1K followers",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/augusto-de-sola-14984053",
+      "name": "Augusto De Sola",
+      "summary": "Founder & CEO @ Inmarcesible / INALDE MBA",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandra-murillo-66a7b761",
+      "name": "Sandra Murillo",
+      "summary": "TECNÓLOGO EN ADMINISTRACIÓN Y CIENCIAS COMERCIALES",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeniferpc",
+      "name": "JENIFER P.",
+      "summary": "Account Executive - IBP",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/maria-adelaida-delgado-casta%25C3%25B1eda-8a368869",
+      "name": "Maria Adelaida Delgado Castañeda",
+      "summary": "Profesional Legal especialista en Consultoria y Asesoría de Proyectos.",
+      "location": "Virginia Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diana-carolina-rodriguez-prieto-508a2b6a",
+      "name": "DIANA CAROLINA RODRIGUEZ PRIETO",
+      "summary": "Directora Comercial",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fadia-arana-a6775177",
+      "name": "Fadia Arana",
+      "summary": "Subgerente",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/franciscopol",
+      "name": "Francisco Pol",
+      "summary": "Chief Financial Officer",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-alejandra-casilimas-quiroga-ba98bb115",
+      "name": "Paola Alejandra Casilimas Quiroga",
+      "summary": "Economista.\n\nCoordinadora Información y administración de incentivos en EL TIEMPO Casa Editorial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9s-felipe-barrera-vega-294871118",
+      "name": "Andrés Felipe Barrera Vega",
+      "summary": "DIRECTOR CREATIVO en IDEADOS GRUPO CREATIVO",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cesar-javier-triana-escandon-680a6911a",
+      "name": "Cesar Javier Triana Escandon",
+      "summary": "Coordinador de Produccion at Marketmedios Comunicaciones S.A.",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelson-beltr%25C3%25A1n-parada-2a3035125",
+      "name": "NELSON BELTRÁN PARADA",
+      "summary": "Gerente financiero y administrativo en MMB Sinergia Empresarial",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/liliana-maria-ramirez-gomez-196470125",
+      "name": "Liliana Maria Ramirez Gomez",
+      "summary": "--",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edgar-molina-613989125",
+      "name": "Edgar Molina",
+      "summary": "Contador Negocios Conjuntos en Marketmedios Comunicaciones S.A.",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juliana-sampedro-272396128",
+      "name": "Juliana Sampedro",
+      "summary": "Ejecutivo de cuentas en Marketmedios Comunicaciones S.A.",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mary-perez-hazime-087394173",
+      "name": "Mary Perez Hazime",
+      "summary": "Administrativa y Financiera en Artha Care SAS",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franck-pierre-22877b175",
+      "name": "Franck Pierre",
+      "summary": "Consultor de empresas y experto en retail",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/diana-marcela-morales-suarez-7567a9193",
+      "name": "Diana Marcela Morales Suarez",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/catalina-zuluaga-8564951a2",
+      "name": "Catalina Zuluaga",
+      "summary": "Marketing en Marketmedios Comunicaciones S.A.",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/miguel-vel%25C3%25A1squez-vega-00ab5a203",
+      "name": "Miguel Velásquez Vega",
+      "summary": "documentador  en ANATO Nacional",
+      "location": "Bogota"
+    },
+    {
+      "link": "https://www.linkedin.com/in/genny-macias-74810b211",
+      "name": "genny macias",
+      "summary": "gerente de cuenta junior en FROSCH",
+      "location": "Bogota"
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://es.linkedin.com/in/mauricio-prieto-30b7762a",
+      "summary": "Antropólogo - Investigador - Fotógrafo",
+      "location": "Sevilla"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://br.linkedin.com/in/mauricio-prieto-0295728b",
+      "summary": "Gerente de Viveiros | Bracell",
+      "location": "Alagoinhas, BA"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://mx.linkedin.com/in/mau-prieto",
+      "summary": "Presidente en Lennken Group.",
+      "location": "Ciudad de México"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://www.linkedin.com/in/mauprieto",
+      "summary": "Now: Product, growth, digital transformation. Before: eDreams co-founder & CMO. Way back: Schwab online brokerage product development",
+      "location": "Nueva Orleans, LA"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://de.linkedin.com/in/mauricioaprieto",
+      "summary": "Anthropologe und Archäologe",
+      "location": "Lingen (Ems)"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://br.linkedin.com/in/prieto22222",
+      "summary": "Gerente de Viveiros | Bracell",
+      "location": "Alagoinhas, BA"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://www.linkedin.com/in/mauricio-prieto-a66274216",
+      "summary": "Business Development Representative - Salesforce Backup & Recovery I Enhanced Sandbox Seeding l Data Archiving l Dynamics365 Backup & Recovery",
+      "location": "New Jersey, United States"
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://co.linkedin.com/in/mauricio-prieto-277a6050",
+      "summary": "Digital Director at Radiopolis",
+      "location": "Bogota, D.C."
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://co.linkedin.com/in/mauricio-prieto-08350a138",
+      "summary": "--",
+      "location": "Colombia"
+    },
+    {
+      "name": "Mauricio Prieto Peña",
+      "link": "https://co.linkedin.com/in/mauroprieto/en",
+      "summary": "Telecommunications Product Manager | IT Project Manager | Analysis, Planning, Development and Launching IT Products | Product Owner | ICT Consultant",
+      "location": "Bogotá D.C. Metropolitan Area"
+    },
+    {
+      "name": "MAURICIO MORENO PRIETO",
+      "link": "https://co.linkedin.com/in/mauricio-moreno-prieto-2b6357257",
+      "summary": "Gerente general Operaprima Abogados",
+      "location": "Bogota, D.C."
+    },
+    {
+      "name": "Mauricio Prieto",
+      "link": "https://co.linkedin.com/in/mauricio-prieto-741b5a74",
+      "summary": "Administración",
+      "location": "Colombia"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-10-05T00:00:00Z"
+  }
+}

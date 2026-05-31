@@ -1,0 +1,785 @@
+{
+  "public_identifier": "jessamine-downs-61178944",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/9bbf004eda5d5822f90a9be1bc017e80",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Jessamine",
+  "last_name": "Downs",
+  "full_name": "Jessamine Downs",
+  "follower_count": 428,
+  "occupation": "Executive Vice President of Operations at JEDFam Group LLC",
+  "headline": "Executive Vice President JEDFam Group, LLC",
+  "summary": null,
+  "location_str": "Poway, California, United States",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Poway",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "JEDFam Group LLC",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jedfam-group-llc",
+      "company_facebook_profile_url": null,
+      "title": "Executive Vice President of Operations",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "NuFund Venture Group",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/nufundventures",
+      "company_facebook_profile_url": null,
+      "title": "Investor",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/430fbc2b01450b08245e28d8909005cd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Jefferson Labs, LLC",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Executive Vice President",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Member Board Of Directors",
+      "description": null,
+      "location": "Montreal, Quebec, Canada",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "The CEO University",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/the-ceo-university",
+      "company_facebook_profile_url": null,
+      "title": "Executive Committee Member",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6d1c51ab5d1ccd7ff2af148ca252375f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "company": "HealthPRO Heritage",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/healthpro-heritage",
+      "company_facebook_profile_url": null,
+      "title": "Clinical Operations Consultant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ca25ff06a0b397a8610934fe7e662b40"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2023
+      },
+      "company": "National Association of Rehab Providers and Agencies (NARA)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/national-association-of-rehab-agencies",
+      "company_facebook_profile_url": null,
+      "title": "NARA Regional Coordinator",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/87439f697002ec86d5ce2c8de9eab4a7"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "company": "Intergro Rehab Services, a HealthPro-Heritage Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Regional Vice President at Intergro Rehab Services, A HealthPro-Heritage Company",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2020
+      },
+      "company": "Intergro Rehab Services",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intergro-rehab-services",
+      "company_facebook_profile_url": null,
+      "title": "Vice President of Intergro Rehab Services",
+      "description": null,
+      "location": "Santa Ana, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/77e24da3f130c5160848a7ec28c921d6"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2014
+      },
+      "company": "Intergro Rehab Services",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intergro-rehab-services",
+      "company_facebook_profile_url": null,
+      "title": "Director of Clinical Services",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/77e24da3f130c5160848a7ec28c921d6"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Cell/Cellular and Molecular Biology",
+      "degree_name": "BS",
+      "school": "Tulane University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/tulane-university",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/84600683fffac219dfbba89ba0e9722f",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Doctor of Physical Therapy",
+      "degree_name": "Doctor of Physical Therapy",
+      "school": "Washington University in St. Louis",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/washington-university-in-st-louis",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cf667e1c0b5aa5f589747b99e016673c",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Clinical Instructor",
+      "license_number": null,
+      "display_source": null,
+      "authority": "-",
+      "url": null
+    }
+  ],
+  "connections": 427,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/drkenadams",
+      "name": "Kenneth Adams, M.D.",
+      "summary": "Chief Operating Officer @ Popologi - The Study of Populations | Driving Operational Excellence",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sonalpathak",
+      "name": "Sonal Pathak",
+      "summary": "M.S., CCC-SLP",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/raymondoweston",
+      "name": "Raymondo Weston, RN, LNHA",
+      "summary": "Licensed Nursing Home Administrator",
+      "location": "Port St Lucie"
+    },
+    {
+      "link": "https://www.linkedin.com/in/intergro",
+      "name": "Intergro Rehab Services",
+      "summary": "Contract Therapy Provider of PT, OT and ST Services",
+      "location": "Santa Ana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-batty-md",
+      "name": "Dr. Nicolas Batty MD MBA MSF FACP FASCP",
+      "summary": "Executive Director | Premier Health Consultants",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimpylecentivity",
+      "name": "Jim Pyle",
+      "summary": "PMCOTX, LLC",
+      "location": "Dallas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/larisamasiarova",
+      "name": "Larisa Masiarova",
+      "summary": "Occupational Therapist, CLT at Genesis Rehab Services",
+      "location": "Monterey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cecantrell",
+      "name": "Christopher Cantrell, MBA, LNFA, LBBP, PGI Certified, Author",
+      "summary": "Life Someday",
+      "location": "Amarillo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franklinbevans",
+      "name": "Franklin B Evans",
+      "summary": "Executive Director at Unity of Phoenix",
+      "location": "Phoenix"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-kendall-ford",
+      "name": "Dr. Kendall Ford",
+      "summary": "PT, MSEd, PhD, ACHE, CPHQ, LSSBBC, MBA, Prosci CCMP Healthcare Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eddiebailsjr",
+      "name": "Eddie Bails, Jr.",
+      "summary": "Talent Acquisition Specialist - I Help Businesses Increase Profits 🎙Podcast Host of Code Freedom",
+      "location": "Simpsonville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jill-gaffney-rawlins",
+      "name": "Jill Gaffney-Rawlins",
+      "summary": "Results-Driven Executive Leader | Driving Organizational Growth | Innovation | Relationship Building | Customer Service Excellence",
+      "location": "Delaware Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-young-12198568",
+      "name": "lawrence young",
+      "summary": null,
+      "location": "Monterey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angie-willard-16850b269",
+      "name": "Angie Willard",
+      "summary": "\"Give your hands to serve, and your hearts to love.\" -Mother Teresa",
+      "location": "Millersburg"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tish-sharp",
+      "name": "Tish Sharp",
+      "summary": "Rehab Solutions Texas•9K followers",
+      "location": "Foreman"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelli-reyes-95b5a223a",
+      "name": "Kelli Reyes",
+      "summary": "--",
+      "location": "Bastrop"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cecilia-silitonga-bsn-rn-25a23955",
+      "name": "Cecilia Silitonga, BSN, RN",
+      "summary": "RN Case Manager at AltaMed Health Services",
+      "location": "Greater Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-kull-47517634",
+      "name": "Sara Kull",
+      "summary": "SMK Therapy•543 followers",
+      "location": "Falls Church"
+    },
+    {
+      "link": "https://www.linkedin.com/in/summer-mccoy-otr-l-rac-ct-7b181992",
+      "name": "Summer McCoy, OTR/L, RAC-CT",
+      "summary": "Vice President of Rehabilitation NewGen Administrative Services",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clarice-alphonso-pt-gcs-ceeaa-91235b42",
+      "name": "Clarice Alphonso PT, GCS, CEEAA",
+      "summary": "Physical Therapist at Genesis Rehab Services",
+      "location": "Cape Coral"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-kini-tan-a406b476",
+      "name": "Emily Kini Tan",
+      "summary": "Doctor Of Physical Therapy with Neurologic Clinical Specialty",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-ford-md-mba-89a5325",
+      "name": "William Ford, MD, MBA",
+      "summary": null,
+      "location": "Malvern"
+    },
+    {
+      "link": "https://www.linkedin.com/in/armena-christa-san-agustin-b6ab1523b",
+      "name": "Armena Christa San Agustin",
+      "summary": "Graduate of California State University, Long Beach",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanne-gere",
+      "name": "Joanne Gere",
+      "summary": "Executive Director at Westchester Biotech Project",
+      "location": "Princeton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tejasvi-jaiswal-1246b322b",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dipikaamin1",
+      "name": "Dipika Amin",
+      "summary": "Inspiring and Transformational Leader in Post-Acute Rehab  ||  Executive Coach in Healthcare",
+      "location": "Temecula"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joachim-andersen-6b94541",
+      "name": "Joachim Andersen",
+      "summary": "Senior Living/Health Care Executive",
+      "location": "Littleton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-tremulis-4557046",
+      "name": "Steve Tremulis",
+      "summary": "CEO and Founder at IntelliGrip Premium Golf Club Grips",
+      "location": "Redwood City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-bringas",
+      "name": "Julie Bringas",
+      "summary": null,
+      "location": "Fountain Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-ojeda-5a9879a",
+      "name": "David Ojeda",
+      "summary": null,
+      "location": "Santa Monica"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elisa-bovee",
+      "name": "Elisa Bovee",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/burr-smith-b7161010",
+      "name": "Burr Smith",
+      "summary": "Chairman of the Board, President and CEO at Broadsign",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sherry-andersen-53486b10",
+      "name": "Sherry Andersen",
+      "summary": "In business since May of 1987, Healthcare Consultants, Recruitment and Acquisition Services",
+      "location": "Jacksonville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/upen-vyas-27b82511",
+      "name": "Upen Vyas",
+      "summary": "PT, DPT, OMPT, OCS",
+      "location": "Canton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/snehal-soni-70703313",
+      "name": "Snehal Soni",
+      "summary": "Rehab/Therapy Resource for Inhouse Rehab Programs. Real Estate Investor/Rental Properties Owner/Manager",
+      "location": "Corona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sherri-schultz-mba-3221b516",
+      "name": "Sherri Schultz, MBA",
+      "summary": "President Long Term Care at HealthPRO Heritage",
+      "location": "Metro Detroit"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wayne-hulon-a3079b18",
+      "name": "Wayne Hulon",
+      "summary": "Psychotherapist and Neurofeedback Therapist",
+      "location": "Suwanee"
+    },
+    {
+      "link": "https://www.linkedin.com/in/megan-mccullough-07899b18",
+      "name": "Megan McCullough",
+      "summary": "Limitlessli•4K followers",
+      "location": "Chicago metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roxana-delaherran-515ba718",
+      "name": "Roxana DeLaHerran",
+      "summary": "Occupational Therapist at Monterey county CCS",
+      "location": "Salinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karen-lutgerding-20826619",
+      "name": "karen lutgerding",
+      "summary": null,
+      "location": "Santa Ana"
+    },
+    {
+      "link": "https://www.linkedin.com/in/takehiko-yamamoto-7a91b01b",
+      "name": "Takehiko Yamamoto",
+      "summary": "Professor at Waseda University",
+      "location": "Tokyo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/staci-sebestyen-69539027",
+      "name": "Staci Sebestyen",
+      "summary": "Company Owner at Navigate Tax & Accounting LLC",
+      "location": "Astoria"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shellee-leong-poon-9783962a",
+      "name": "Shellee Leong Poon",
+      "summary": "Occupational Therapist at Intergro Rehab Services",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/coleen-jeter-80752332",
+      "name": "Coleen Jeter",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-jeffery-58487335",
+      "name": "Katie Jeffery",
+      "summary": null,
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-hathaway-41086138",
+      "name": "Jeff Hathaway",
+      "summary": null,
+      "location": "Liverpool"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-murnyack-0301bb3a",
+      "name": "Ashley Murnyack",
+      "summary": "Senior Manager - Finance Operations - Americas",
+      "location": "Cleveland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luke-phillips-66908148",
+      "name": "Luke Phillips",
+      "summary": "Doctor of Physical Therapy",
+      "location": "Pismo Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rochelle-telles-a41b8b48",
+      "name": "Rochelle Telles",
+      "summary": "Occupational Therapist at TUSTIN UNIFIED SCHOOL DISTRICT",
+      "location": "Irvine"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lawrence-page-davis-lion-a6a48850",
+      "name": "Lawrence Page Davis    (LION)",
+      "summary": "Executive Director   24 k",
+      "location": "Royal Oak"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christie-reeves-35901051",
+      "name": "Christie Reeves",
+      "summary": "Senior Living Operations Expert",
+      "location": "Greater Orlando"
+    },
+    {
+      "link": "https://www.linkedin.com/in/payden-dowling-36089752",
+      "name": "Payden Dowling",
+      "summary": "Clinical Operations Area Director, PT, DPT, RAC-CT, CDP",
+      "location": "Leawood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margaret-dictenberg-60825054",
+      "name": "Margaret Dictenberg",
+      "summary": "--Real Estate Broker and Architectural Designer",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carrie-strub-449ba157",
+      "name": "Carrie Strub",
+      "summary": "Occupational Therapist at Monterey County Office of Education",
+      "location": "Carmel Valley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-kaufman-948a6a59",
+      "name": "Julie Kaufman",
+      "summary": null,
+      "location": "Florence"
+    },
+    {
+      "link": "https://www.linkedin.com/in/r-l-hansen-199b0564",
+      "name": "R. L. Hansen",
+      "summary": null,
+      "location": "Buffalo–Niagara Falls metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steven-medina-4225216a",
+      "name": "STEVEN MEDINA",
+      "summary": null,
+      "location": "Thousand Oaks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aryk-copley",
+      "name": "Aryk Copley",
+      "summary": null,
+      "location": "Santa Rosa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ladene-elam-732a7a71",
+      "name": "Ladene Elam",
+      "summary": "Occupational Therapist at Monterey County Office of Education",
+      "location": "Salinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-marron-94460673",
+      "name": "William Marron",
+      "summary": null,
+      "location": "Peshastin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-rhodes-mha-mpa-dpt-a8b33978",
+      "name": "Mike Rhodes, MHA, MPA, DPT",
+      "summary": null,
+      "location": "Mount Sterling"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-bartges-6004157a",
+      "name": "Peter Bartges",
+      "summary": "Doctor of Physical Therapy | Director of Rehab",
+      "location": "Monterey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/keith-rigsby-md-84a1147b",
+      "name": "Keith Rigsby, MD",
+      "summary": "President at VIP Healthcare",
+      "location": "Dallas–Fort Worth metroplex"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brad-diaz-74639082",
+      "name": "Brad D.",
+      "summary": "PTA Interim Home Health",
+      "location": "Redding"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-longa-75498188",
+      "name": "Michelle Longa",
+      "summary": "Director of Rehab at Aegis Therapies",
+      "location": "Bakersfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kelli-snider-86418491",
+      "name": "Kelli Snider",
+      "summary": "Travel Occupational Therapist",
+      "location": "Monterey"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mitchell-switalski-08330191",
+      "name": "Mitchell Switalski",
+      "summary": "Music Education Specialist",
+      "location": "Thousand Oaks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mylene-ravina-35683b95",
+      "name": "Mylene Ravina",
+      "summary": "Physical Therapist at Intergro Rehab",
+      "location": "Beverly Hills"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sean-borman-78a9b09b",
+      "name": "Sean Borman",
+      "summary": "President/CEO at AEROAUTO GLOBAL INC",
+      "location": "West Palm Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/berenice-galvez-soto-6812ba109",
+      "name": "Berenice Galvez-Soto",
+      "summary": "Corporate Compliance Officer\nInvestigations & Data Analytics",
+      "location": "Broadview"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephat-mua-666251113",
+      "name": "Josephat Mua",
+      "summary": "Executive Director at Mulala Conservation Movement",
+      "location": "Silver Spring"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-russell-mba-nha-798536122",
+      "name": "Matthew Russell MBA, NHA",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/khushboo-mamania-30a726129",
+      "name": "Khushboo Mamania",
+      "summary": "Occupational Therapist, OTR/L",
+      "location": "San Jose"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-nusbaum-150052137",
+      "name": "Emily Nusbaum",
+      "summary": "OTR",
+      "location": "Oakland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vaibhavi-bhojak-519397139",
+      "name": "Vaibhavi Bhojak",
+      "summary": null,
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-laroya-799174142",
+      "name": "John Laroya",
+      "summary": "RD  at Consonus Healthcare",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katie-tira-0a0485151",
+      "name": "Katie Tira",
+      "summary": "RN, Regional Vice President MDS/RAI",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mikekuhar",
+      "name": "Mike Kuhar",
+      "summary": "Regional Director of Therapy Services",
+      "location": "Metropolitan Fresno"
+    },
+    {
+      "link": "https://www.linkedin.com/in/crystal-fender-7915aa194",
+      "name": "Crystal Fender",
+      "summary": null,
+      "location": "Portland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/julie-morckel-738a681a8",
+      "name": "Julie Morckel",
+      "summary": "Chief Operating Officer, Attain ABA",
+      "location": "Louisville"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "At a member conference hosted by CCC Alliance, LLC this month, ONE WORLD CEO Scott D. Saslow had the opportunity to discuss the value of social…",
+      "link": "https://www.linkedin.com/posts/oneworld-investments_familyoffice-socialentrepreneurship-venturecapital-activity-7308567083351478273-PLQq",
+      "activity_status": null
+    },
+    {
+      "title": "⛳ The Broadsign team had a great time out on the links for the annual AdClub of Toronto Golf Day event last week, teeing off and networking with our…",
+      "link": "https://www.linkedin.com/posts/broadsign_the-broadsign-team-had-a-great-time-out-activity-7221168103743713281-tLiy",
+      "activity_status": null
+    },
+    {
+      "title": "Looking forward to this next chapter! Making a difference and lasting impact by supporting a food-secure future. Sustainable aquaculture is not a…",
+      "link": "https://www.linkedin.com/posts/caitlin-wege-9609a16_knipbio-inc-welcomes-new-ceo-activity-7220111841790763008-6LdF",
+      "activity_status": null
+    },
+    {
+      "title": "Exclusive invidis interview with Broadsign CEO Burr Smith about 20 years broadsign, how to become a Net Zero company and the role of #dooh in the…",
+      "link": "https://www.linkedin.com/posts/florianrotberg_broadsign-ceo-smith-the-most-fun-ive-had-activity-7150091492848480256-Fvoz",
+      "activity_status": null
+    },
+    {
+      "title": "Mayo Clinic hospitals across the organization received star ratings from the Centers for Medicare & Medicaid Services. Across Mayo Clinic, 10…",
+      "link": "https://www.linkedin.com/posts/mayo-clinic_mayo-clinic-hospitals-again-earn-overall-activity-7090320044903051264-R12O",
+      "activity_status": null
+    },
+    {
+      "title": "Celebrating 20 amazing years with Broadsign! 🙌 🎉 Congratulations to our esteemed CTO, Bryan Mongeau, on reaching a 20-year milestone anniversary…",
+      "link": "https://www.linkedin.com/posts/broadsign_celebrating-20-amazing-years-with-broadsign-activity-7087887086107643904-lP5c",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you to all of these amazing people that make National Association of Rehab Providers and Agencies great! Our sponsors and presenters and…",
+      "link": "https://www.linkedin.com/posts/kelly-macneill-cooney-a4084b10_naraera-activity-6984261204793851904-Zn2P",
+      "activity_status": null
+    },
+    {
+      "title": "Last week we hosted an amazing conference for 125+ rehab industry organizations. Our sponsors are always a huge part of our ability to provide such…",
+      "link": "https://www.linkedin.com/posts/national-association-of-rehab-agencies_thankyou-activity-6985280151852904448-x9zk",
+      "activity_status": null
+    },
+    {
+      "title": "Such a fantastic event. I look forward to the collaboration every year!",
+      "link": "https://www.linkedin.com/posts/jessamine-downs-61178944_such-a-fantastic-event-i-look-forward-to-activity-6920075874381791232-WlIX",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-02-15T00:00:00Z"
+  }
+}

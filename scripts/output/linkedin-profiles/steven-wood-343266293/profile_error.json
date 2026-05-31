@@ -1,0 +1,22 @@
+{
+  "message": "EnrichLayer profile request failed: 404 Not Found",
+  "status": 404,
+  "body": {
+    "code": 404,
+    "description": "Person profile does not exist or has been deleted or marked as private by the user.",
+    "name": "Not Found"
+  },
+  "profile": {
+    "normalizedUrl": "https://www.linkedin.com/in/steven-wood-343266293",
+    "username": "steven-wood-343266293",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 299,
+    "attendee": {
+      "fullName": "Steve Wood",
+      "company": "Out of Home Media Consultancy Limited",
+      "email": "steve.wood86@gmail.com",
+      "country": "United Kingdom"
+    }
+  },
+  "scrapedAt": "2026-05-31T06:15:50.610Z"
+}

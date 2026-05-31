@@ -1,0 +1,108 @@
+{
+  "public_identifier": "andrea-maria-casella-185aa5371",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/d21fd3852492539c3bdb432ece1cb5f3",
+  "background_cover_image_url": null,
+  "first_name": "Andrea Maria",
+  "last_name": "Casella",
+  "full_name": "Andrea Maria Casella",
+  "follower_count": 25,
+  "occupation": "Co-fondatore at QUADRO ADVERTISING SRL",
+  "headline": "Co-fondatore presso QUADRO ADVERTISING SRL",
+  "summary": null,
+  "location_str": "Italy",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2025
+      },
+      "company": "QUADRO ADVERTISING SRL",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/quadro-advertising-srl",
+      "company_facebook_profile_url": null,
+      "title": "Co-fondatore",
+      "description": null,
+      "location": "Padova, Veneto, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0012e15b04b856759c0a3c98872d8f75"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1999
+      },
+      "company": "OPS Spa",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Responsabile commerciale",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1983
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1995
+      },
+      "company": "Jolly Pubblicità Spa",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Agente di commercio",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 25,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2026-02-19T00:00:00Z"
+  }
+}

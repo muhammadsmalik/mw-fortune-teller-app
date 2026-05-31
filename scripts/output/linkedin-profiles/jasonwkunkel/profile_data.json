@@ -1,0 +1,829 @@
+{
+  "public_identifier": "jasonwkunkel",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/86f617ea34fc92d946d1005e35da6aaf",
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/5b32e75a2583f2a6910068bdaa04c811",
+  "first_name": "Jason",
+  "last_name": "Kunkel-de Cesero",
+  "full_name": "Jason Kunkel-de Cesero",
+  "follower_count": 2214,
+  "occupation": "Chief Development Officer at AdQuick",
+  "headline": "Growing the OOH Sector, Chief Development Officer @ AdQuick",
+  "summary": "I'm focused on helping the OOH sector and AdQuick grow through innovative commercial partnerships with media operators, media agencies, advertisers, and measurement providers.",
+  "location_str": "Greater Tampa Bay Area",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": null,
+  "state": "Florida",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2026
+      },
+      "ends_at": null,
+      "company": "AdQuick",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adquick",
+      "company_facebook_profile_url": null,
+      "title": "Chief Development Officer",
+      "description": null,
+      "location": "Greater Tampa Bay Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ac95be4999bea3de8868c2b8aa1e4b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2026
+      },
+      "company": "AdQuick",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/adquick",
+      "company_facebook_profile_url": null,
+      "title": "Vice President, Demand & Analytics Partnerships",
+      "description": "I lead partnerships with omnichannel demand side platforms, measurement platforms, planning platforms, data providers, media operators, and agencies focused on generating sales by creating innovative KPI-focused OOH analytics solutions and value-driven pricing models.",
+      "location": "Greater Tampa Bay Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2ac95be4999bea3de8868c2b8aa1e4b1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2023
+      },
+      "company": "Meta",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meta",
+      "company_facebook_profile_url": null,
+      "title": "Team Lead, Global Performance Media Investment & AdTech Product Management",
+      "description": "My team and I were responsible for creating and managing AdTech products, AdTech product operations, and ad buying processes that helped Meta as a portfolio of brands maximize its own efficacy in driving brand & product marketing outcomes from its advertising investments. \n\nI led enterprise-level performance advertising partnerships with demand side platforms, measurement companies, and data companies to provide all brand & product marketing teams from Meta, Facebook, Instagram, WhatsApp, Reality Labs, etc and our media agencies with access to technologies, strategy & planning resources, and operational resourcing.  \n\nOnce partnerships were established, we then lead AdTech product strategy, AdTech operations, and media buying processes in areas such as integrating 1st and 3rd party data in targeting, measurement, and optimization as well as building buying operational frameworks for planning, measuring, optimizing, and reporting on campaigns.\n\nLast, my team are responsible for partnering with privacy, legal, and policy in building enterprise marketing privacy frameworks and managing all marketing privacy reviews to ensure compliance with privacy regulations, industry policies and internal policies.",
+      "location": "Tampa, Florida, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05f02f1fba8b7b9a86c81d1b51f2cd66"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2021
+      },
+      "company": "Meta",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meta",
+      "company_facebook_profile_url": null,
+      "title": "Global Performance Manager, Media Investment Centers of Excellence",
+      "description": null,
+      "location": "Menlo Park, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05f02f1fba8b7b9a86c81d1b51f2cd66"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2018
+      },
+      "company": "Meta",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/meta",
+      "company_facebook_profile_url": null,
+      "title": "Consumer Marketing, Digital Media Manager",
+      "description": "As a part of the Facebook Watch product marketing organization, I was responsible for driving viewing of FB Watch content and awareness of the FB Watch streaming product by leading cross-channel brand and content advertising campaigns.  During the short amount of time that I was on the FB Watch team, I drove significant lifts in content viewing (i.e. Sorry for Your Loss) and FB Watch product awareness.  Due to my demonstrated skills in advertising, I was tapped to create central/horizontal strategic frameworks and solutions for helping all product marketing teams across Meta's enterprise maximize performance from advertising investments.",
+      "location": "Menlo Park, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/05f02f1fba8b7b9a86c81d1b51f2cd66"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2018
+      },
+      "company": "Netflix",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/netflix",
+      "company_facebook_profile_url": null,
+      "title": "Manager, Programmatic Marketing - Global",
+      "description": "Significantly lifted global subscriber acquisitions and member content viewing through end-to-end design, execution, and optimization of digital advertising campaigns",
+      "location": "Los Gatos",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5281a610a619cf2af9510e22f45b7697"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "company": "Netflix",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/netflix",
+      "company_facebook_profile_url": null,
+      "title": "Manager, Programmatic Marketing - EMEA",
+      "description": "Supported Netflix's launches into new markets across EMEA by generating stat-sig subscriber acquisitions via digital advertising campaigns",
+      "location": "Los Gatos, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5281a610a619cf2af9510e22f45b7697"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "company": "Netflix",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/netflix",
+      "company_facebook_profile_url": null,
+      "title": "Analyst, Programmatic Buying - Europe",
+      "description": null,
+      "location": "Los Gatos, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5281a610a619cf2af9510e22f45b7697"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2014
+      },
+      "company": "Frequence",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/frequence",
+      "company_facebook_profile_url": null,
+      "title": "Programmatic Media Planning & Buying, Senior Manager",
+      "description": "- Guided the Ad Operations Team in media planning and setting up, optimizing, and reporting on RTB display and video campaigns for advertisers of all sizes across the United States. \n- Generated sales from new and existing clients through technical sales calls and account support \n- Partnered with the Engineering Team to automate campaign setup\n- Produced RTB media plans and campaign reports for advertisers of all sizes across the United States\n- Partnered with the Sales team in acquiring new customers and channel partners\n- Collaborated with the Engineering team to automate media planning workflows",
+      "location": "Mountain View, CA",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52b04d28f2b05d918c2a23329efec2da"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Frequence",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/frequence",
+      "company_facebook_profile_url": null,
+      "title": "Programmatic Media Planning Manager",
+      "description": null,
+      "location": "Mountain View, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52b04d28f2b05d918c2a23329efec2da"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Frequence",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/frequence",
+      "company_facebook_profile_url": null,
+      "title": "Programmatic Media Planning Intern",
+      "description": null,
+      "location": "Mountain View, California, United States",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/52b04d28f2b05d918c2a23329efec2da"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Peter Newsom MD",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Marketing Director and Neurofeedback Technician",
+      "description": "- Designed and executed online marketing plans geared at establishing Peter Newsom MD's online brand, raising brand awareness and creating demand via website development, social media, and online directories.\n- Started a nonprofit on behalf of Peter Newsom MD geared toward providing families after-school and summer recreational and educational programs.\n- Managed community relationships for the nonprofit with schools, public facilities, and parks to generate interest in the company's services and obtain free space for events and programs.\n- Promoted and coordinated fundraising and educational events for the nonprofit.",
+      "location": "Menlo Park",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "company": "Hillview Prep",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hillview-prep-llc",
+      "company_facebook_profile_url": null,
+      "title": "Marketing Associate",
+      "description": "Collaborated with the company's owner in creating and executing marketing plans, conducting business development with local schools, and recruiting, hiring, and supervising tutors and marketing specialists.",
+      "location": "Saratoga, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1dfdb5c7f627405173455917dfa2012b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2010
+      },
+      "company": "ACES (Comprehensive Educational Services)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aces-autism-comprehensive-educational-services-",
+      "company_facebook_profile_url": null,
+      "title": "Behavioral Specialist",
+      "description": "Implemented behavioral therapy programs with kids, students, and adults with special needs. Awarded Specialist of the Year, 2009.",
+      "location": "San Jose, California",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/6e1f90d4e1850dfa0cde94b98e019fb5"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Marketing",
+      "degree_name": "Master of Business Administration (MBA)",
+      "school": "Santa Clara University Leavey School of Business",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/santa-clara-university-leavey-school-of-business",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7c6b602b942178803269083829c98a7a",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Psychology",
+      "degree_name": "Bachelor of Arts - BA",
+      "school": "UC Santa Barbara",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/ucsantabarbara",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1b9272e696bd4c7356534c6e7f1f77e9",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": "Liberal Arts",
+      "degree_name": "Associate of Arts - AA",
+      "school": "West Valley College",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/west-valley-college",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/9e335ed2e235100120593ffc1f39f865",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "2014 SABR Analytics Case Competition",
+      "description": "This is our submitted presentation for the 2014 SABR Baseball Analytics Case Competition. The deliverable was to use a creative and logical thought process to value the top three pitching assets in baseball today. Using an Analytical Hierarchy Process (AHP) model to integrate statistical analysis with the human element of scouting, we narrowed down our scope to five players. We then modeled a public perception variable scraping data from Twitter and Local Media websites followed by a Monte Carlo risk analysis. Finally, we built a forecasting model to project WAR over remaining control years and discounted back to come up with an NPV for our top three pitching assets.",
+      "url": "https://drive.google.com/a/scu.edu/?tab=mo#folders/0B8BxDlCxkUrjU1cwLUNmUTVweXc"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "MGMT 503: EA Sports Organizational Diagnosis",
+      "description": "An organizational diagnosis of EA Sports, a division of Electronic Arts.",
+      "url": "https://drive.google.com/?tab=mo&authuser=0#folders/0B0wDdmtpGb-tejFabEotbWZGVVU"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "EA Sports Organizational Analysis",
+      "description": "This is an organizational analysis of EA Sports which encompasses several organizational design change recommendations that EA Sports could implement to improve its performance in terms of efficiency and effectiveness. The link will take you to a Google Drive folder with both a presentation and a paper of the analysis. If interested in taking a look, I would encourage downloading the file from Google Drive in order to see all of the presentation's animations and the layers of each slide.",
+      "url": "https://drive.google.com/?tab=mo&authuser=0#folders/0B0wDdmtpGb-tejFabEotbWZGVVU"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Business Development Analysis: Microsoft Corporation",
+      "description": null,
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2013
+      },
+      "title": "Commissioner, Advisory Board for Consumer Affairs",
+      "cause": "Politics",
+      "company": "County of Santa Clara",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/county-of-santa-clara",
+      "description": "•  Worked with fellow Commissioners in gathering and analyzing research and reports on various issues impacting Santa Clara County consumers. •  Formulated and analyzed actionable legislative proposals for the Board of Supervisors.",
+      "logo_url": "https://assets.enrichlayer.com/ll/C4D0BAQGIXNGoJMjzzQ/company-logo_100_100/company-logo_100_100/0/1631313081551?e=2147483647&v=beta&t=NS8cTavLq9cp9VESwBAQPIkvgR1yDrKYbyRPiO0pDfw"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2012
+      },
+      "title": "Founder and CEO",
+      "cause": "Education",
+      "company": "Embrace All Abilities",
+      "company_linkedin_profile_url": null,
+      "description": "Led the nonprofit's rock climbing programs, advocacy services, and fundraising events for the special needs community; recruited and guided volunteers and employees; represented the company at trade shows and community events.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/addy22",
+      "name": "Helen Lin",
+      "summary": "Chief Digital Officer @ Publicis Groupe",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/doraosinde",
+      "name": "Dora Osinde",
+      "summary": "Entertainment & Pop Culture Pro | Chief Creative Officer @ Ogilvy Germany | Advisory Board @ C& | ex Netflix | Podcast Host | W&V Top 100 2022 | ADC Diversity Board Member",
+      "location": "Berlin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeremyaroberts",
+      "name": "Dr. Jeremy Roberts",
+      "summary": "HealthTech Executive | International Startup Founder | Entrepreneur | College Educator",
+      "location": "San Antonio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-andrews-digital",
+      "name": "Mark Andrews",
+      "summary": "Senior Consultant at ID Comms",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tammylawman",
+      "name": "Tammy Lawman",
+      "summary": "Scale Your Business Beyond Six Figures With Aligned & Strategic Joint-Venture and Affiliate Partnerships",
+      "location": "Boca Raton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/crawfordmiller",
+      "name": "Crawford Miller",
+      "summary": "Marketing Technology Specialist at Martin Advertising | Expert in Automotive Industry Marketing Strategies and Solutions",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmalouiserushe",
+      "name": "Emma Crepeau",
+      "summary": "CEO - Jack Archer",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophergadek",
+      "name": "Chris Gadek",
+      "summary": "CEO at AdQuick",
+      "location": "Austin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dougchavez",
+      "name": "Doug Chavez",
+      "summary": "WPP Global Strategic Partnerships | Focused on the intersection of Digital Commerce, Retail Media, AI, and Ad-tech",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mmorrisonoconnor",
+      "name": "Matthew O'Connor",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/remonashraf",
+      "name": "Remon Saad",
+      "summary": "IT Technician | Social Media | Digital Marketing | Graphic Design | Web Development | Photography | AI",
+      "location": "Brentwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barbaramly",
+      "name": "Barbara Ly",
+      "summary": "Keeping the Manufacturing Industry Personable",
+      "location": "Fremont"
+    },
+    {
+      "link": "https://www.linkedin.com/in/seanwinnett",
+      "name": "Sean Winnett",
+      "summary": "🚀 Performance Growth for eCom & Lead Gen | Paid Media Strategy (Google + Meta) | Fractional Performance Lead | Marketing AI | Speaker",
+      "location": "Meridian"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmyloweryjr",
+      "name": "Jimmy Lowery Jr",
+      "summary": "Product Manager, AdTheorent",
+      "location": "Nashville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kategoldvasser",
+      "name": "Kate Goldvasser",
+      "summary": "Programmatic Strategy | Business Development | Strategic Partnerships | Programmatic DOOH",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darrkenn",
+      "name": "Darren Kennedy",
+      "summary": "Media /Event Marketing Consultant",
+      "location": "Fort Lauderdale"
+    },
+    {
+      "link": "https://www.linkedin.com/in/slaaksonen",
+      "name": "Sussu Laaksonen",
+      "summary": "Writer. Recovering techie.",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cademccann",
+      "name": "Cade McCann",
+      "summary": "OOH made easy & measurable",
+      "location": "Jacksonville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martinjonesonline",
+      "name": "Martin Jones",
+      "summary": "Digital Marketing Strategist, Writer & Speaker | Driving Growth in B2B/B2C through Innovative and First-Mover Social, Content & AI Strategies.",
+      "location": "Phoenix"
+    },
+    {
+      "link": "https://www.linkedin.com/in/monicaargenti",
+      "name": "Monica Argenti",
+      "summary": "Leader • Educator • Innovator",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/winterbrooks",
+      "name": "Winter Brooks",
+      "summary": "MBA Candidate at Michigan Ross School of Business | Consortium, Health Innovation & Dean's Impact Fellow | Ex-Ritual, Peloton, Google",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachelconan",
+      "name": "Rachel Conan",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlburckhardt",
+      "name": "Carl B.",
+      "summary": null,
+      "location": "Seattle"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anuradhashrimali",
+      "name": "Anuradha Shrimali",
+      "summary": "Decision Science Manager at Facebook",
+      "location": "San Francisco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/craigrmacdonald",
+      "name": "Craig Macdonald",
+      "summary": "Partner, Media and Advertising  at McKinsey & Company",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeneasesorondo",
+      "name": "Jenease Sorondo",
+      "summary": "Manager",
+      "location": "Lake Worth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brandonmadrid",
+      "name": "Brandon Madrid",
+      "summary": "Identity and Customer Intelligence in everything we do and everywhere we go!",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/coryschaefer",
+      "name": "Cory Schaefer",
+      "summary": "VP, Strategic Planning Director",
+      "location": "St Louis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolynmdavidson",
+      "name": "Carolyn Davidson",
+      "summary": "Senior Marketing Manager @ LinkedIn    //    Growth & Acquisition Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/clazzell",
+      "name": "Carrie Lazzell",
+      "summary": "Digital Marketing Strategist, SEO Consultant",
+      "location": "Palmetto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristinpeitz",
+      "name": "Kristin Peitz Brewer",
+      "summary": "Media Operations at Meta",
+      "location": "Holmdel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lagunav",
+      "name": "Vanessa Laguna",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dinanath-gaikwad-2a7136243",
+      "name": "Dinanath Gaikwad",
+      "summary": "Sr. Graphic Designer",
+      "location": "Mumbai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-canel-%25E2%2598%2585-80572515",
+      "name": "Kate Canel ★",
+      "summary": "Digital Ideator | Strategic Growth Partner",
+      "location": "Miami Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexisginsberg415",
+      "name": "Alexis Ginsberg",
+      "summary": "eCommerce Marketing Lead at PepsiCo",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/haleymills",
+      "name": "Haley Carroll",
+      "summary": "Senior Strategist, Salesforce Innovation Center",
+      "location": "San Jose"
+    },
+    {
+      "link": "https://www.linkedin.com/in/frank-friedman-2982292",
+      "name": "Frank Friedman",
+      "summary": null,
+      "location": "Jacksonville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/franklyngalusha",
+      "name": "Franklyn Galusha",
+      "summary": "Video Marketing and SEO",
+      "location": "Inverness"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rysanderson",
+      "name": "Ry Sanderson",
+      "summary": "Investment Banker at PWP",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brandon-roots-07a4b817",
+      "name": "Brandon Roots",
+      "summary": "Product Marketing @ Wealthfront",
+      "location": "Detroit"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nina-boost-01905222",
+      "name": "Nina Boost",
+      "summary": "Chief Operating Officer at AdQuick",
+      "location": "Long Beach"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-waterfield-66381432",
+      "name": "Kevin Waterfield",
+      "summary": "manager at contractors notice services",
+      "location": "Lutz"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-s-blaeser",
+      "name": "Andrew Blaeser",
+      "summary": "Data scientist",
+      "location": "Norwood"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-abebe-39657644",
+      "name": "Michael Abebe",
+      "summary": null,
+      "location": "Greater Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jiajie-xu-83815145",
+      "name": "Jiajie Xu",
+      "summary": "Scientist - Lung regeneration - Single cell sequencing - Human disease modeling - Developmental Biology - Stem Cell Biology",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adrian-flanagan-53b44148",
+      "name": "Adrian Flanagan",
+      "summary": "Director, Field Applications at Analog Devices",
+      "location": "San Jose"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewtriggas",
+      "name": "Andrew Triggas",
+      "summary": "Project Engineer (Engineering Manager) at Turner Construction Company",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-mcclung-73206369",
+      "name": "John McClung",
+      "summary": "Sales Director @ AdQuick",
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marc-welsh",
+      "name": "Marc Welsh",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stacy-shannon-4a625399",
+      "name": "Stacy Shannon",
+      "summary": "Substitute Teacher at Palo Alto Community Child Care",
+      "location": "San Jose"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-russo-a169a2105",
+      "name": "Michelle Russo",
+      "summary": null,
+      "location": "New York metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffrey-robert-06b82811b",
+      "name": "Jeffrey Robert",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sara-moe",
+      "name": "Sara Moe",
+      "summary": "Account Manager at The Trade Desk",
+      "location": "Denver"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "I'm visiting London and attending World Out of Home Organization's Annual Congress. Let's connect if you're around.",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_im-visiting-london-and-attending-world-out-activity-7462937842332213248-sKeq",
+      "activity_status": null
+    },
+    {
+      "title": "I'll be at OAAA's OOH conference in a few weeks.",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_ill-be-at-oaaas-ooh-conference-in-a-few-activity-7455438131517927424-106A",
+      "activity_status": null
+    },
+    {
+      "title": "Can't wait to get back to Miami next week to explore business development opportunities at POSSIBLE.",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_cant-wait-to-get-back-to-miami-next-week-activity-7453549677796446208-9K_p",
+      "activity_status": null
+    },
+    {
+      "title": "Really enjoyed my convo with Allison Robl Stransky! Very inspirational how her marketing team has proactively infused quality data and AI across…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_really-enjoyed-my-convo-with-allison-robl-activity-7439428759394529281-u-cC",
+      "activity_status": null
+    },
+    {
+      "title": "I feel like my upcoming conversation with Allison Robl Stransky at Brand Innovators SXSW couldn’t be more timely for OOH and the advertising industry…",
+      "link": "https://www.linkedin.com/posts/activity-7435677874868883456-jGhs",
+      "activity_status": null
+    },
+    {
+      "title": "So excited for our new partnership with OUTFRONT Media! Lots of innovation and benefit for the entire OOH sector is coming soon. Feel free to reach…",
+      "link": "https://www.linkedin.com/posts/activity-7432791524813295626-wKvm",
+      "activity_status": null
+    },
+    {
+      "title": "So good 👏",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_so-good-activity-7325512848212746241-arT9",
+      "activity_status": null
+    },
+    {
+      "title": "I’m looking forward to joining Nick Parker, Mo Moubayed, and Alex Grieves next week at OAAA’s 2025 OOH Media Conference to share the value and…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_ooh2025-activity-7324096030071820288-uZFA",
+      "activity_status": null
+    },
+    {
+      "title": "I'll be in London the first week of April to attend ADWEEK Europe and DPAA's UK Town Hall. Would love to connect if you're in the area. AdQuick",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_ill-be-in-london-the-first-week-of-april-activity-7308954103664070656-x__T",
+      "activity_status": null
+    },
+    {
+      "title": "All aboard the Attributy. + AdQuick train! “Through this partnership, Attributy’s customers have preferred access to AdQuick’s industry-leading OOH…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_all-aboard-the-attributy-adquick-train-activity-7173362112520523776-iypH",
+      "activity_status": null
+    },
+    {
+      "title": "Ecstatic for AdQuick's new partnership with Measured. Reach out if you're interested in seeing OOH's impact in driving meaningful business KPIs…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_quantifying-ooh-impact-via-measured-and-adquick-activity-7168291989229154305-3lSl",
+      "activity_status": null
+    },
+    {
+      "title": "Highly recommend",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_highly-recommend-activity-7153198333539348481-CXfW",
+      "activity_status": null
+    },
+    {
+      "title": "If you haven't heard yet, Neustar, Inc., a TransUnion company, and AdQuick announced our partnership at DPAA's global summit and a press release…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_if-you-havent-heard-yet-neustar-inc-activity-7125871462015479808-ftCL",
+      "activity_status": null
+    },
+    {
+      "title": "Iâm excited to announce AdQuickâs partnership with TransUnion at DPAAâs global summit. Letâs connect in person if youâre planning to attend…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_im-excited-to-announce-adquicks-partnership-activity-7110987483273678850-tXAy",
+      "activity_status": null
+    },
+    {
+      "title": "I'm finding difficulty expressing how thankful and hopeful I am for this new integration w/ Place Exchange that now connects AdQuick's OOH planning…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_adquick-accesses-leading-omnichannel-dsps-activity-7113266758282534912-Ow6k",
+      "activity_status": null
+    },
+    {
+      "title": "AdQuick's new partnership with Veritone One creates fantastic OOH + Audio benefits for our mutual clients. Have a look at the following blog post for…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_adquicks-new-partnership-with-veritone-one-activity-7112457027536175104-subs",
+      "activity_status": null
+    },
+    {
+      "title": "I'm heading to OAAA/Geopath's OOH conference in Nashville next month. If you work in OOH advertising demand, supply, measurement, and/or data…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_toggle-navigation-activity-7034286163725033472-ykCD",
+      "activity_status": null
+    },
+    {
+      "title": "I'm excited to share that I recently joined AdQuick to lead partnerships with demand side advertising platforms for integrating with AdQuick's supply…",
+      "link": "https://www.linkedin.com/posts/jasonwkunkel_im-excited-to-share-that-i-recently-joined-activity-7033877685072199680-n7JV",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-04-27T00:00:00Z"
+  }
+}

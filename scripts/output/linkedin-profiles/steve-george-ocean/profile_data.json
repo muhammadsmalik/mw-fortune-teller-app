@@ -1,0 +1,514 @@
+{
+  "public_identifier": "steve-george-ocean",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Steve",
+  "last_name": "George",
+  "full_name": "Steve George",
+  "follower_count": 10,
+  "occupation": "Chief Development Officer at Ocean Outdoor",
+  "headline": "Chief Development Officer at Ocean Outdoor",
+  "summary": "I have over 30 years’ of entrepreneurial experience in building and selling successful, out-of-home businesses, from my time as a shareholder and partner in Vision Posters, a Midlands-based outdoor company that was sold to Scottish Radio Holdings PLC in 1999, through to my current role as Chief Development Officer at Ocean Outdoor, having jointly founded Signature Outdoor in 2003 and after a sustained period of growth and excellent trading, sold the company to Ocean in 2014.",
+  "location_str": "Greater London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor/",
+      "company_facebook_profile_url": null,
+      "title": "Chief Development Officer",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Signature Outdoor Ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Managing Partner",
+      "description": null,
+      "location": "Birmingham, United Kingdom",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2003
+      },
+      "company": "Clear Channel UK",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Corporate Development Director",
+      "description": null,
+      "location": "Birmingham, United Kingdom",
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/paulowenuk",
+      "name": "Paul Owen",
+      "summary": "Managing Partner at Instinctif Partners",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulmallett",
+      "name": "Paul Mallett",
+      "summary": "Managing Partner",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stuartpocock",
+      "name": "Stuart Pocock",
+      "summary": "Founder at The Observatory International",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashcgupta",
+      "name": "Ash Gupta",
+      "summary": "Managing Partner at Gupta Smart Energy - Putting network resilience at the top of the agenda for water utilities, DNOs and manufacturing to  cope with the increasing demands of EVs and renewables.",
+      "location": "Edinburgh"
+    },
+    {
+      "link": "https://www.linkedin.com/in/goldsmithrobert",
+      "name": "Robert Goldsmith",
+      "summary": "CEO at Spinnaker London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandrasydow",
+      "name": "Sandra Sydow",
+      "summary": "SUSTAINABILITY BUSINESS, COMMUNICATIONS & STORYTELLING | Planet On Stage Co-Founder",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisagardiner",
+      "name": "Lisa G.",
+      "summary": "Open to new opportunities",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-r-mackenzie",
+      "name": "Chris MacKenzie",
+      "summary": null,
+      "location": "Harrogate"
+    },
+    {
+      "link": "https://www.linkedin.com/in/geoff-de-burca-526aba3",
+      "name": "Geoff de Burca",
+      "summary": "European Strategy Lead for Amazon XCM at WPP OpenDoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-cantillon-9881354",
+      "name": "Sarah Cantillon",
+      "summary": "Client Services Leader",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-richardson-9a44274",
+      "name": "Lucy Richardson",
+      "summary": null,
+      "location": "Thames Ditton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stjohn-lewis-6668794",
+      "name": "Stjohn Lewis",
+      "summary": "Managing Partner at Agency.com",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-samuda-21bb8a4",
+      "name": "James Samuda",
+      "summary": "Managing Partner at MEC Global",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanne-somerville-b657135",
+      "name": "Joanne Somerville",
+      "summary": null,
+      "location": "Newbury"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mick-mernagh-0b03467",
+      "name": "Mick Mernagh",
+      "summary": "Managing Partner at MediaCom",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-walker-2283a17",
+      "name": "Mark Walker",
+      "summary": "Digital Marketing & Transformation, Content Development & Delivery.",
+      "location": "Stratford-upon-Avon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-cloke-a6ab268",
+      "name": "Nick Cloke",
+      "summary": null,
+      "location": "High Wycombe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-dry-2b32089",
+      "name": "Chris Dry",
+      "summary": "Managing Partner at BPL Marketing",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-goodwin-9443b0a",
+      "name": "Chris Goodwin",
+      "summary": null,
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/georgeatmediaperformance",
+      "name": "George Carter",
+      "summary": null,
+      "location": "Huddersfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/peter-bell-49400112",
+      "name": "Peter Bell",
+      "summary": null,
+      "location": "Kingston upon Thames"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tim-brady-b7b00612",
+      "name": "Tim Brady",
+      "summary": "Managing Partner at ZenithOptimedia",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-langford-lee-3a596414",
+      "name": "Emma Langford-Lee",
+      "summary": "After burning out in a six-figure corporate job, I created a life I love on my terms. Now I \nhelp ambitious people turn their skills and spare time into flexible income—without sacrificing family, freedom, or sanity.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-copley-18a6b016",
+      "name": "James Copley",
+      "summary": "Talon•2K followers",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pixel8designjamiewatson",
+      "name": "Jamie Watson",
+      "summary": "Managing Partner at Pixel8",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-blois",
+      "name": "David Blois",
+      "summary": "Experts in selling your agency | 30 years sector experience in M&A | Board Advisor | Business Consulting | Marketing Communications | Digital | Martech | Technology",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-stears-05b1231b",
+      "name": "Emma Stears",
+      "summary": "Client Partner at MindShare",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trevor-chapman-82898027",
+      "name": "Trevor Chapman",
+      "summary": "Managing Partner at Rainmaker Healthcare Communications London",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-jenkins-726b014a",
+      "name": "Sarah Jenkins",
+      "summary": "Chief Operating Officer at Saatchi & Saatchi",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stella-bond-57b15a89",
+      "name": "Stella Bond",
+      "summary": "Human Resources Manager at Self-employed",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/adesoji-adeniyi-003653a2",
+      "name": "Adesoji Adeniyi",
+      "summary": "Partner at Enerpex Inc (UK) Nashh Media",
+      "location": "Luton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andy-parkin-5aa6a3125",
+      "name": "Andy Parkin",
+      "summary": "Managing Partner at The Moment Content Company",
+      "location": "Plymouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-finn-6b21321b",
+      "name": "Jamie Finn",
+      "summary": "Chief Planning Operations Officer at Talon Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/brunofcjardim",
+      "name": "Bruno Jardim",
+      "summary": "Creative Technologist at Ocean Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-flynn-71337616",
+      "name": "Paul Flynn",
+      "summary": "Development at Ocean Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-rogan-7687a315",
+      "name": "Louise Rogan",
+      "summary": "Business Development at Gorta Self Help Africa",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmy-hills-472576133",
+      "name": "Jimmy Hills",
+      "summary": "Senior Agency Partner at Global",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/john-wali-84ba64254",
+      "name": "John Wali",
+      "summary": "Programme Manager - WASH Systems Strengthening at Self Help Africa",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashley-bignall-a901b613",
+      "name": "Ashley Bignall",
+      "summary": "VP Performance Marketing at The Real Group (Realry)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/erin-fletcher-williams",
+      "name": "Erin Walker-Williams",
+      "summary": "Director of Client Services at Ciconi Ltd",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-des-portes-b0069549",
+      "name": "Charles des Portes",
+      "summary": "Lecturer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucy-lyth-873bb5130",
+      "name": "Lucy Lyth",
+      "summary": "Planning Manager at Talon Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisa-amado-ab165b11b",
+      "name": "Luisa Amado",
+      "summary": "Business Director at Talon",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carly-o-neill-barrett-sfhea-6a34413",
+      "name": "Carly O'Neill - Barrett SFHEA",
+      "summary": "Lecturer at University of Leeds, Academic Lead for Authentic Assessment",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-foster-53b45a65",
+      "name": "Matt Foster",
+      "summary": "Experienced Recruitment Leader with over a Decade of Industry Expertise.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ian-moore-7017b430",
+      "name": "Ian Moore",
+      "summary": "Account Director at 75Media",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dr-bethany-robertson-18916985",
+      "name": "Dr Bethany Robertson",
+      "summary": "Lecturer in Sociology & Social Policy",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-trott-36260973",
+      "name": "Emma Trott",
+      "summary": "Lecturer in Contemporary Literature at University of Leeds",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/denis-flannery-6a3a9b5",
+      "name": "Denis Flannery",
+      "summary": "Senior Lecturer at University of Leeds",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/burgandi-rakoska-ph-d-42b29394",
+      "name": "Burgandi Rakoska, Ph.D.",
+      "summary": "Advocate for disability justice, independent living, and intersectional activism.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-warnes-2691a9169",
+      "name": "Andrew Warnes",
+      "summary": "Literature and Everyday Reading. Interdisciplinary Food Studies",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-mcfarlane-7bb29a54",
+      "name": "Anna McFarlane",
+      "summary": "Lecturer in Fantasy Literature | Contemporary Literature | Genre Fiction | Research-Led Teaching | Exploring impact potential of my British Academy Postdoctoral Fellowship project and completing 2nd monograph",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Steve George",
+      "link": "https://www.linkedin.com/in/steve-george-63087510",
+      "summary": "General Superintendent/Project Manager/Senior Superintendent & Safety & Risk Management Manager at Prevost Construction",
+      "location": "Solana Beach, CA"
+    },
+    {
+      "name": "steve george",
+      "link": "https://www.linkedin.com/in/steve-george-70a6b641",
+      "summary": "President at Stephen George, Inc.",
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://ca.linkedin.com/in/steve-george-b069a9b2",
+      "summary": "President at Groupe Immobilier EXUR",
+      "location": "Montreal, QC"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://au.linkedin.com/in/steve-george-a1254993",
+      "summary": "General Manager at Independent Financial & Property pty ltd",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://www.linkedin.com/in/steve-george-1280332",
+      "summary": "-",
+      "location": "Waxhaw, NC"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://au.linkedin.com/in/steve-george-1a113439",
+      "summary": "Founder at Sugarloaf Cycles",
+      "location": "Greater Brisbane Area"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://www.linkedin.com/in/steve-george-293b704a",
+      "summary": "President & CEO at Fort Worth & Western Railroad",
+      "location": "Fort Worth, TX"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/steve-george-54768a1",
+      "summary": null,
+      "location": "New Milton"
+    },
+    {
+      "name": "Steve Whigham",
+      "link": "https://uk.linkedin.com/in/steve-whigham-1369298",
+      "summary": "General Manager, Senior Vice President Strategic Realisation & Quality at Polatis",
+      "location": "Crewe"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/steve-george-96539bb1",
+      "summary": "Experienced Leader - Real Estate Finance and Investment",
+      "location": "Tamworth"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/stevegeorge",
+      "summary": "Chief Operations Officer at Weaveworks",
+      "location": "London"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/stevegeorgeuk1",
+      "summary": "Senior Advisor and Consultant on chemical regulation matters, especially REACH",
+      "location": "Ashbourne"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/steve-george-38855bb3",
+      "summary": "Head of Audit: Retail Insurance, UK Finance & Risk",
+      "location": "Frampton On Severn"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/stevegeorge99",
+      "summary": null,
+      "location": "Greater Cheshire West and Chester Area"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/steve-george-634b587b",
+      "summary": "Senior Architectural Technologist",
+      "location": "Bridlington"
+    },
+    {
+      "name": "Steve George",
+      "link": "https://uk.linkedin.com/in/steve-george-b66092a",
+      "summary": "Owner - Dragon Consulting Services Limited",
+      "location": "Greater Newport Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-12-31T00:00:00Z"
+  }
+}

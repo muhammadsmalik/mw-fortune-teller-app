@@ -1,0 +1,1100 @@
+{
+  "public_identifier": "juan-ignacio-alvarez-lescano",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/1f1346d3ae908ac6eaa5d810dc7994b2",
+  "background_cover_image_url": null,
+  "first_name": "Juan Ignacio",
+  "last_name": "Alvarez",
+  "full_name": "Juan Ignacio Alvarez",
+  "follower_count": 4546,
+  "occupation": "CEO & Co-Founder at LatinAd",
+  "headline": "Co-Founder / CEO en LatinAd",
+  "summary": "I am a software engineer. I have dedicated my life to the development of ideas that solve problems of people and companies through technology.<br><br>With more than 14 years of experience in platform and application development companies. Being a full stack developer, product owner, project manager and team manager, and today in the general direction of LatinAd company.<br><br>With 10 years of experience in the Out of Home advertising industry, we created a 360 platform that automates all the traditional processes of administration, purchase and sale of digital out of home media, and the intelligent management of advertising spaces connected to programmatic digital advertising (such as social media and internet) based on audience.<br><br>We created 4 interconnected products (CMS, SSP, DSP and Audience) plus integrations with other platforms, we are the most complete technology company in all of Latin America.",
+  "location_str": "Argentina",
+  "country": "AR",
+  "country_full_name": "Argentina",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "LatinAd",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/latinad",
+      "company_facebook_profile_url": null,
+      "title": "CEO & Co-Founder",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/cb569824a047fff36d06a4077d158a22"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2022
+      },
+      "company": "Publinet",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CEO & Co-Founder",
+      "description": null,
+      "location": "Provincia de Mendoza, Argentina",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      },
+      "company": "ITCx",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": "Making the Internet managing easy\nNo matter the complexity of the environment, itcᵡ gives the world the best possible managing of the Internet and of all the devices connected to it.",
+      "location": "Mendoza, Argentina",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Littlebox Argentina",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/littlebox-argentina",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e4efe325652f273989787510b9d5a451"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "Littlebox Argentina",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/littlebox-argentina",
+      "company_facebook_profile_url": null,
+      "title": "Software Developer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e4efe325652f273989787510b9d5a451"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "company": null,
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "CEO & Co-Founder",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2018
+      },
+      "company": null,
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": "Making the Internet managing easy\nNo matter the complexity of the environment, itcᵡ gives the world the best possible managing of the Internet and of all the devices connected to it.",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": null,
+      "degree_name": "Software Engineering",
+      "school": "Universidad de Mendoza",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universidad-de-mendoza",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c319088f5f04ba2bd770f258b5282083",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "field_of_study": null,
+      "degree_name": "Software Engineering",
+      "school": "UTN Mendoza",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": null,
+      "degree_name": "Polimodal Humanidades",
+      "school": "Rainbow English College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Español",
+    "Ingles",
+    "Ingles Técnico"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Español",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Ingles",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Ingles Técnico",
+      "proficiency": "FULL_PROFESSIONAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [
+    {
+      "name": "3er Puesto Startup Weekend Mendoza 2015",
+      "number": null
+    },
+    {
+      "name": "Accesibilidad Web",
+      "number": null
+    },
+    {
+      "name": "BigData",
+      "number": null
+    },
+    {
+      "name": "IPV6",
+      "number": null
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2015
+      },
+      "ends_at": null,
+      "title": "Shaas",
+      "description": "Shaas gives you a powerful assistant to easily manage major Internet challenges with a tap on your smartphone",
+      "url": "http://itcx.io/es/products/"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Volunteer",
+      "cause": "Infancia",
+      "company": "FUNDACION CONIN",
+      "company_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": null,
+      "title": "Volunteer",
+      "cause": "CHILDREN",
+      "company": "Fundación CONIN",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/coninargentina/",
+      "description": null,
+      "logo_url": null
+    }
+  ],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/andrearodifalanga",
+      "name": "Andrea Rodi Falanga",
+      "summary": "M365 Infrastructure Engineer",
+      "location": "Maidenhead"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulasantilli",
+      "name": "Paula Santilli",
+      "summary": null,
+      "location": "Álvaro Obregón"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emanueldbarrera",
+      "name": "Emanuel Barrera",
+      "summary": "ソフトウェアエンジニア",
+      "location": "Shibuya-Ku"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicolaspennesi",
+      "name": "Nicolás Pennesi",
+      "summary": "Co-Founder | CTO on LatinAd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/javieruanini",
+      "name": "Javier Ricardo Uanini de la Serna",
+      "summary": null,
+      "location": "Cordoba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tobias-naftali",
+      "name": "Tobias Naftali",
+      "summary": "Tech Lead at Timeline",
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-simon",
+      "name": "Pedro Simon",
+      "summary": "Staff Software Engineer at Buoy Software - AI builder",
+      "location": "Rosario"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agustinibars",
+      "name": "Agustín Ibars",
+      "summary": "Software Engineer (.NET/NodeJS/React Native)",
+      "location": "Rosario"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jpdantur",
+      "name": "Juan Pablo Dantur",
+      "summary": "Software Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ismatim",
+      "name": "Ismael J. Tisminetzky",
+      "summary": "Senior Software Engineer at PayPal",
+      "location": "La Plata"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-timan%25C3%25A1-190724177",
+      "name": "Andrea Timaná",
+      "summary": "Administradora De Empresas",
+      "location": "Rionegro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/agustinperuzzi",
+      "name": "Agustín Peruzzi",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sebastian-capotondo",
+      "name": "Sebastián Capotondo",
+      "summary": "Technical Leader at Koibanx",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ignaciomirchak",
+      "name": "Ignacio Mirchak",
+      "summary": "Country Leader Chile en Kantar Ibope Media | Programa de Desarrollo Gerencial",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristian-charbel-mirchak-85ab76190",
+      "name": "Cristian Charbel Mirchak",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/billy-k%25C3%25B6ng-023941261",
+      "name": "Billy Köng",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/anal%25C3%25ADa-haydee-4533791a6",
+      "name": "Analía Haydee",
+      "summary": null,
+      "location": "Cruz Alta"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-timan%25C3%25A1-cort%25C3%25A9s-190724177",
+      "name": "Andrea Timaná Cortés",
+      "summary": "Administradora De Empresas",
+      "location": "Rionegro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanmatiassoli%25C3%25B1o",
+      "name": "Juan Matías Soliño",
+      "summary": "CEO en Growthing Marketing - Consultor SR - Capital Investor - Growth Hacker - Especialistas en Inteligencia Artificial - MBA, Master en Marketing - Master en Growth Hacking - 17 años de Experiencia en IT . 🇦🇷🇵🇪🇻🇪",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-leal-d%25C3%25ADaz-b82438167",
+      "name": "Katherine Leal Díaz",
+      "summary": "Canal Programmatic Massiva",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/yara-mar%25C3%25ADa-charlin-g%25C3%25B3mez-rivera-3a04231ab",
+      "name": "Yara María Charlin Gómez Rivera",
+      "summary": "Financie Analyst",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marianolista1994",
+      "name": "Mariano Lista",
+      "summary": "Software Project Leader en Mercado Libre",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andr%25C3%25A9s-zabala",
+      "name": "Andrés Zabala",
+      "summary": "CFO - Chief Financial Officer en LatinAd",
+      "location": "Mendoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emiacc",
+      "name": "Emiliano Scavuzzo",
+      "summary": "Technical Leader | Software Architect | Data Science Enthusiast",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mar%25C3%25ADa-laura-moyano-6826a0a0",
+      "name": "María Laura Moyano",
+      "summary": "Software Quality Assurance & Automation Engineer at Wakapi",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ezequiel-agust%25C3%25ADn-manzano-b3391445",
+      "name": "Ezequiel Agustín Manzano",
+      "summary": "Software Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandrodahlman",
+      "name": "Leandro Dahlman",
+      "summary": "Sales Manager en Time Out Arg. |\nBpax Solutions - agencia de marketing especializada en turismo - Campañas On-Off/DOOH | \nQuiero Viajar - Primer programa que se emite en 12 países de Latam - Directv",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom%25C3%25A1s-almarza-villaseca-06174939",
+      "name": "Tomás Almarza Villaseca",
+      "summary": "Co-fundador & CEO en OOH | Publicidad Exterior Fácil, Medible y al Alcance de todos |\nAlumni Start-Up Chile (G6 2013)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-guillermo-k%25C3%25B6ng-32804692",
+      "name": "Jorge Guillermo Köng",
+      "summary": "Director en LatinAd",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dami%25C3%25A1n-fiorillo-a2085173",
+      "name": null,
+      "summary": null,
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudiamiami",
+      "name": "Claudia Damas",
+      "summary": "Partner & CEO Altermark || Partner OOH Capital || Board Member ABOOH",
+      "location": "Miami"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darapourafzal",
+      "name": "Dara Pourafzal",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cesar-a-balsells-mir%25C3%25B3-942a5922",
+      "name": "Cesar A. Balsells Miró",
+      "summary": "Productor Audiovisual , Gestión técnica y de producción en Shows musicales.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom%25C3%25A3%25C2%25A1s-almarza-villaseca-06174939",
+      "name": "Tomás Almarza Villaseca",
+      "summary": "Co-fundador & CEO en OOH Publicidad",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-simon-1672683a",
+      "name": "Jose Simon",
+      "summary": "Sala de ventas en Orion Representaciones Int. S.A.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emma-luisa-diaz-loya-2a776443",
+      "name": "Emma Luisa Diaz Loya",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabriel-mazzocca-3ba7a743",
+      "name": "Gabriel Mazzocca",
+      "summary": "Software Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hernan-glossman-24786b57",
+      "name": "Hernan Glossman",
+      "summary": "Lic. Comunicacion Audiovisual",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gonzaloricco",
+      "name": "Gonzalo Ricco",
+      "summary": "Software Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benito-martiarena-b55b8364",
+      "name": "Benito Martiarena",
+      "summary": ".Net Developer",
+      "location": "San Salvador de Jujuy"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francisco-echeverr%25C3%25ADa-alem%25C3%25A1n-42a91874",
+      "name": "Francisco Echeverría Alemán",
+      "summary": "Gerente de Marketing en Grupo Casa Saba",
+      "location": "Naucalpan de Juárez"
+    },
+    {
+      "link": "https://www.linkedin.com/in/masa-ideas-81619b77",
+      "name": "Masa Ideas",
+      "summary": "Empresa Vía Pública",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jorge-guillermo-k%25C3%25A3%25C2%25B6ng-32804692",
+      "name": "Jorge Guillermo Köng",
+      "summary": "Director en LatinAd",
+      "location": "Guatemala City"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guillermohaserfaty",
+      "name": "Guillermo Haserfaty",
+      "summary": "Lead Fullstack Engineer",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/santiago-martin-iglesias-7074289a",
+      "name": "Santiago Martin Iglesias",
+      "summary": "Senior Backend Engineer at Personio",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandrolezcano",
+      "name": "Leandro Lezcano",
+      "summary": "Software engineer",
+      "location": "Ubatuba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johanna-villanueva-009895b7",
+      "name": "Johanna Villanueva",
+      "summary": "Regional Sales Leader",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-mirchak-7a022811a",
+      "name": "Gustavo Mirchak",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andres--zabala",
+      "name": "Andrés Zabala",
+      "summary": "CFO - Chief Financial Officer en LatinAd",
+      "location": "Mendoza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tomas-schmidt-391a78135",
+      "name": "Tomas Schmidt",
+      "summary": "Technical Lead at Mercado Libre",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andres-vallone-31672314a",
+      "name": "Andres Vallone",
+      "summary": "Socio Fundador en AV Arquitectura & Diseño",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gonzalo-mirchak-09a317154",
+      "name": "Gonzalo Mirchak",
+      "summary": "Estudiante de Ingeniería Química",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandrina-morales-2093a91b2",
+      "name": "Alejandrina Morales",
+      "summary": "Vidente /Medium/Tarotista en Vidente Alejandrina Morales",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-francisco-bichutte-harris",
+      "name": "Juan Francisco Bichutte Harris",
+      "summary": "CEO & Founder en Hunt Raw Food",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/enzo-santilli",
+      "name": "Enzo Santilli",
+      "summary": "Desarrollador de software Fullstack",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ignacioalvarezsaez",
+      "name": "Ignacio Alvarez Saez",
+      "summary": "Co-Founder & CEO at Logan\n",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jpjesses",
+      "name": "Jean Pierre Jesses",
+      "summary": "Imactions.com - let’s do business, cheers",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/juanmatiassoli%C3%B1o",
+      "name": "Juan Matías  Soliño",
+      "summary": "CEO en Growthing Marketing - Capital Investor -\nMBA - Master en Marketing - Master en Growth Hacking Y Automatización - Especialista en IA - 17 años de Experiencia en IT .🌎 . Speaker Internacional.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alejandro-piedrabuena",
+      "name": "Alejandro Piedrabuena",
+      "summary": "Consultor y Coach de Ecommerce",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandercalifano",
+      "name": "Alexander Califano",
+      "summary": "Founder en PROFORGE parts",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elvistaflorino",
+      "name": "Damián Nuñez",
+      "summary": "Emprendedor ",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/omar-blanco-alarc%C3%B3n-1a20b9269",
+      "name": "Omar Blanco Alarcón",
+      "summary": "Estudiante de Administración | Community Manager | Experiencia en Marketing Digital y Ventas Online",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/emmanuel-arcumano-4b7298201",
+      "name": "Emmanuel Arcumano",
+      "summary": "Full Stack Developer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/luc%C3%ADa-belen-chiesa",
+      "name": "Lucía Chiesa",
+      "summary": "Consultora Sr. en Marketing Digital | Project Manager & Social Media Manager | Experta en Comunicación, UX/UI, Diseño e IA | Growth Marketing | Emprendedora",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/juan-martin-garriga-lacaze-509140239",
+      "name": "Juan Martin Garriga Lacaze",
+      "summary": "Founder & Director Trendo - Brand Creative Manager La Ola Group - Founder, Manager & Singer  Agapornis - Manager Fabiø  Guerra & lisandro skar",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/franciscomanrique04",
+      "name": "Francisco Manrique",
+      "summary": "Programmatic Specialist @LatinAd | Programmatic Out-of-Home (PdOOH) Solutions 🚀 | Transforming Ad Spaces into Experiences #Programmatic #DOOH",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/pablo-seco-76bba734b",
+      "name": "Pablo Seco",
+      "summary": "Principal CEO en Take Studio | Emprendedor, comunicador estratégico y creativo",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-luisa-pereira-dos-santos-ab935b359",
+      "name": "Ana Luisa Pereira Dos Santos",
+      "summary": "Supervisor en Inversiones Celeste Azul, C.A.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardoanibalramirez-346539124",
+      "name": "Ricardo Anibal Ramirez",
+      "summary": "CEO \nASTERISCO SPONSORING & EVENTS",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Nicolas Lara\n\nJuan Ignacio started as junior on itcx with a good base of skills and he learned very fast the frontend stack, also did a lot of support with routers and the wordpress site. If I had to recommend somebody who is pragmatic and responsible will be him.",
+    "Nicolas Lara\n\n«Juan Ignacio started as junior on itcx with a good base of skills and he learned very fast the frontend stack, also did a lot of support with routers and the wordpress site. If I had to recommend somebody who is pragmatic and responsible will be him.»"
+  ],
+  "activities": [
+    {
+      "title": "🆕 #MovidaPublicitaria 🇨🇴 | Havas Colombia anuncia la incorporación de Andrea C Guzman R como la nueva Managing Director de la agencia. 🚀✨ Con…",
+      "link": "https://es.linkedin.com/posts/copu_movidapublicitaria-activity-7397021406997250048-BmJ3",
+      "activity_status": null
+    },
+    {
+      "title": "Ayer se vivió la gran Final de la Copa Claro por Colombia 2026, estuvimos desde Pulzo acompañando al equipo de Claro Colombia en las instalaciones de…",
+      "link": "https://es.linkedin.com/posts/nicolasespana_clarocolombia-copaclarocolombia-pulzo-activity-7397303535224397824--uNs",
+      "activity_status": null
+    },
+    {
+      "title": "📢 Anuncio Importante: ¡Mañana Revelamos al Ganador de las Ray-Ban | Meta! El equipo de Barracuda Media Solutions se complace en anunciar que…",
+      "link": "https://es.linkedin.com/posts/barracuda-media-solutions_advertisingweeklatam-barracudamediasolutions-activity-7397009493638856704-oo61",
+      "activity_status": null
+    },
+    {
+      "title": "🌴 Recién nos despedimos y ya estamos hablando del próximo Summit de Agencias Argentinas! Nos juntamos en Miami con los líderes de las agencias de…",
+      "link": "https://es.linkedin.com/posts/lantonelli_recién-nos-despedimos-y-ya-estamos-hablando-activity-7396977612558065664-yEmw",
+      "activity_status": null
+    },
+    {
+      "title": "ReachMe nueva columna en Parque Toreo en uno de los puntos estratégicos de #parquetoreo. #dooh #ooh",
+      "link": "https://es.linkedin.com/posts/parquetoreo-dooh-ooh-activity-7391185106406625280-kfJX",
+      "activity_status": null
+    },
+    {
+      "title": "Mucho se habla del impacto del DOOH, poco se habla de lo medible que es. Hoy tenemos herramientas que permiten saber con claridad cuántas personas…",
+      "link": "https://es.linkedin.com/posts/david-pérez-salinas-8793824a_mucho-se-habla-del-impacto-del-dooh-poco-activity-7396945021511520257-KLHl",
+      "activity_status": null
+    },
+    {
+      "title": "Foi uma honra reunir um ecossistema completo de líderes de anunciantes, agências e gigantes de conteúdo e tecnologia para o nosso primeiro CTV Summit…",
+      "link": "https://pt.linkedin.com/posts/brenobarcelos_foi-uma-honra-reunir-um-ecossistema-completo-activity-7391133739231338496-TyLT",
+      "activity_status": null
+    },
+    {
+      "title": "¡LA REVOLUCIÓN DEL DOOH PROGRAMÁTICO LLEGA A MÉXICO! 🇲🇽 Estamos orgullosos de anunciar que Barracuda Media Solutions es el socio exclusivo y único…",
+      "link": "https://es.linkedin.com/posts/barracuda-media-solutions_doohprogramático-latinad-barracudamediasolutions-activity-7392341729053564928-DBk5",
+      "activity_status": null
+    },
+    {
+      "title": "🇪🇸 La semana pasada participamos en #Brand100 Latam🇧🇷, uno de los encuentros más influyentes para la industria del marketing en la…",
+      "link": "https://www.linkedin.com/posts/xchange-global-ooh_brand100-brand100-xchangelatam-activity-7396670847895306240-oX6u",
+      "activity_status": null
+    },
+    {
+      "title": "Acá algunas tendencias e ideas que me traje de ALOOH Guatemala, nueva edición del foro que reúne al OOH en la región, y que creo reflejan el avance…",
+      "link": "https://es.linkedin.com/posts/alejandroharcha_chan-foroaloohlatam2025-foroalooh-activity-7396592174596837376-3O9P",
+      "activity_status": null
+    },
+    {
+      "title": "Gran evento DV360 & Beer🎯 Un placer haber estado presentes y seguir fortaleciendo nuestro trabajo como partners de DV360 para DOOH. Orgullo de ser…",
+      "link": "https://es.linkedin.com/posts/latinad_gran-evento-dv360-beer-un-placer-haber-activity-7396221935539453953-QE1c",
+      "activity_status": null
+    },
+    {
+      "title": "💚 MODO también se metió Aaaadeentro del subte. La marca presentó su nueva campaña Adentro, una propuesta que conecta con un valor profundamente…",
+      "link": "https://es.linkedin.com/posts/grupovía_modo-grupovía-adentro-activity-7389415979006459904-Rn-K",
+      "activity_status": null
+    },
+    {
+      "title": "Rompiendo fronteras! Nuestro viaje a medio oriente con el fin de expandir negocios arrancó de la mejor manera, recibidos por un mensaje de nuestro…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-programmatic-dsp-activity-7459380741060276224-BWt_",
+      "activity_status": null
+    },
+    {
+      "title": "Dame al mejor equipo para Colombia... wow wow wow 🤚 pero tampoco tanto! A darlo todo este año en el Brand100events team Será un momento de conexión…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_latinad-dv360-programmatic-activity-7447659962237034496-mb7R",
+      "activity_status": null
+    },
+    {
+      "title": "Resumen del Webinar a cargo del crack Eduardo Difonso junto a la IAB Colombia sobre el nuevo ecosistema DOOH. LatinAd",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_resumen-del-webinar-a-cargo-del-crack-eduardo-activity-7437900103866163200-igPy",
+      "activity_status": null
+    },
+    {
+      "title": "Por un 2026 de gran crecimiento para Perú 🇵🇪 Si estás interesado en automatizar tu negocio digital en pantallas digitales y aumentar los ingresos…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_latinad-dooh-peru-activity-7429594267435819008-1EFK",
+      "activity_status": null
+    },
+    {
+      "title": "Cerramos un nuevo año a bordo de este viaje increíble, navegando una industria que no deja de sorprender y desafiar. Lo celebramos como corresponde,…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-programmatic-víapública-activity-7406650261512953856-dBuR",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Adrenalina, ansiedad y entusiasmo. Todo junto. Así se sintió estar frente a más de 400 personas mostrando en vivo una funcionalidad de…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-ai-innovation-activity-7388976880516771840-50He",
+      "activity_status": null
+    },
+    {
+      "title": "Turismo Perú confió en LatinAd para llevar su mensaje a las calles. No solo generamos visibilidad, generamos impacto medible. - Pantallas en puntos…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_turismo-perú-confió-en-latinad-para-llevar-activity-7361872159100563456-KUKf",
+      "activity_status": null
+    },
+    {
+      "title": "Excelente campaña de Nike, demostrando el potencial de la vía pública. Si bien es una acción que muchos dirán, era obvia… estar con un fuerte y…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-activity-7365752023641739266-95de",
+      "activity_status": null
+    },
+    {
+      "title": "En LatinAd llevamos nuestro lenguaje visual a otro nivel. Con LatinAd Style, la actitud DOOH también se viste. Diseño, energía y presencia, dentro y…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_en-latinad-llevamos-nuestro-lenguaje-visual-activity-7358854333590921219-ernY",
+      "activity_status": null
+    },
+    {
+      "title": "They took their time for those of us in the Southern Hemisphere, but with -1°C ❄️ temperatures, they finally came into play. Details aren’t the…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_they-took-their-time-for-those-of-us-in-the-activity-7353975357542141952-olGx",
+      "activity_status": null
+    },
+    {
+      "title": "¿Tu marca necesita verse más? Samsung lo entendió: en pantallas se ve mejor. Y no solo mejor, se ve más. Esto no es magia, es DOOH: Publicidad en…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_tu-marca-necesita-verse-más-samsung-lo-activity-7345925655693275136-dgq_",
+      "activity_status": null
+    },
+    {
+      "title": "La publicidad medible ya es el presente gracias al DOOH programático. Ahora puedes saber cuándo, dónde y cuántas personas ven tu anuncio, además de…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_la-publicidad-medible-ya-es-el-presente-gracias-activity-7343323950174601217-mtLO",
+      "activity_status": null
+    },
+    {
+      "title": "Nos vemos en el gran México 🇲🇽 nuevamente!! Estaremos compartiendo con nuestros colegas, clientes y amigos para seguir avanzando y profundizando en…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-woo-programmatic-activity-7333294575123324928-gTKf",
+      "activity_status": null
+    },
+    {
+      "title": "¿Tenés un negocio de pantallas digitales? Somos la solución completa para administrarlo 💯 Desde la gestión inteligente del inventario y la…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_toma-el-control-de-tus-pantallas-publicitarias-activity-7338947474193039360-VlTx",
+      "activity_status": null
+    },
+    {
+      "title": "Muy pronto nuestro equipo estará presente en #Brand100 Chile! Un. encuentro único dentro de la industria del Marketing, comunicación y publicidad.…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_brand100-dooh-marketing-activity-7331302863882604544-1okr",
+      "activity_status": null
+    },
+    {
+      "title": "🟦➡️🟨 ¿Cambio polémico? Puede ser. Pero si alguien puede hacerlo… ¡es Mercado Libre! 😎 💡 El clásico azul de Mercado Pago le cedió el lugar a un…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-peogrammatic-dv360-activity-7330704512359264256-IiVp",
+      "activity_status": null
+    },
+    {
+      "title": "🎬 ¿Todavía no viste El Eternauta? Más allá de ser una adaptación impactante del clásico argentino, la serie ofrece una lección sutil pero poderosa…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-activity-7325570595847331841-81u8",
+      "activity_status": null
+    },
+    {
+      "title": "Ahora nos preparamos en LatinAd para #Brand100 Chile, un encuentro entre las empresas más relevantes de la industria publicitaria. Vas a estar ahí?…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_brand100-activity-7327721581621755904-OtKz",
+      "activity_status": null
+    },
+    {
+      "title": "Con DOOH incluso en escenarios extremos, tu marca se hace ver.",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_con-dooh-incluso-en-escenarios-extremos-activity-7326629530561871873-Hnfb",
+      "activity_status": null
+    },
+    {
+      "title": "Muchos piensan que la publicidad digital en vía pública no es para ellos.. Acá te brindo 3 factores importantes sobre DOOH: - DOOH tiene 86% más de…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_muchos-piensan-que-la-publicidad-digital-activity-7323375416692432897-_Ued",
+      "activity_status": null
+    },
+    {
+      "title": "Transformamos pantallas en conexiones inteligentes y rentables En LatinAd, la publicidad exterior digital deja de ser solo un espacio visual y se…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_transformamos-pantallas-en-conexiones-inteligentes-activity-7326599330356719618-gAY1",
+      "activity_status": null
+    },
+    {
+      "title": "Si sos una agencia o media owner, ahora podés planificar e implementar campañas en vía pública digital de forma simple y efectiva. Gracias a nuestra…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_programmatic-dooh-activity-7319808097848315904-GYhd",
+      "activity_status": null
+    },
+    {
+      "title": "Todavía pensás que la publicidad en vía pública no se puede medir?",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_todavía-pensás-que-la-publicidad-en-vía-pública-activity-7317370690188328961-bI5_",
+      "activity_status": null
+    },
+    {
+      "title": "Ya se encuentra el equipo de LatinAd en Cartagena, Colombia, viviendo por primera vez la experiencia #Brand100. Llevando soluciones tecnológicas para…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_brand100-programmatic-dooh-activity-7315328005940166656-pWGa",
+      "activity_status": null
+    },
+    {
+      "title": "¿Sabés lo que es DOOH? El DOOH (Digital Out Of Home) fusiona publicidad y tecnología para lograr conexiones impactantes y memorables. Qué podes…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-publicidaddigital-latinad-activity-7302719539429924865-5GB-",
+      "activity_status": null
+    },
+    {
+      "title": "¿Sabías que podés configurar tu publicidad digital en minutos y sin intermediarios? Conocé cómo ingresando en nuestra web: https://latinad.com/",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_sabías-que-podés-configurar-tu-publicidad-activity-7305657445543022593-JY5z",
+      "activity_status": null
+    },
+    {
+      "title": "En las campañas en vía pública se procesan millones de datos de audiencia por semana, información que resulta vital para las campañas publicitarias.…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_latinad-publicidaddigital-dooh-activity-7303765147435581440-xvex",
+      "activity_status": null
+    },
+    {
+      "title": "Hiciste alguna vez pauta en vía pública? Maximizá tu alcance con estrategias inteligentes! Creando campañas en vía pública podes: ✅ Elegir…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_hiciste-alguna-vez-pauta-en-vía-pública-activity-7298367798060195840-esb7",
+      "activity_status": null
+    },
+    {
+      "title": "✨ Ayer tuve el honor de participar en el evento @oohsummit junto a OOH Publicidad I Cotiza miles de soportes, en una charla fascinante sobre la…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-programmatic-dsp-activity-7251949103033573376-Ex_G",
+      "activity_status": null
+    },
+    {
+      "title": "Es un placer acompañar a grandes empresas en su crecimiento y éxito continuo. ¡Contento de ser parte de su evolución Enmedio Comunicación Digital! 🚀",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_nuestro-aliado-en-programática-latinad-visitó-activity-7265861603378528256--lOD",
+      "activity_status": null
+    },
+    {
+      "title": "Llevamos a las grandes marcas a la calle y hacemos que el impacto sea real! Campañas programáticas regionales basadas en segmentación de público…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_campaña-oreo-coca-cola-dooh-latinad-activity-7259153927785353216-Nh_G",
+      "activity_status": null
+    },
+    {
+      "title": "Seremos parte del Webinar que impulsa Basis, como plataforma líder que ha demostrado y confiado en que el mundo de la publicidad programática ya es…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_digital-out-of-home-en-latam-activity-7196252364272496641-1IR8",
+      "activity_status": null
+    },
+    {
+      "title": "LatinAd SSP. Es hora de vender tus pantallas digitales de manera automatizada, conectada al mundo programático, con más de 150 proveedores del lado…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_cómo-latinad-le-genera-ventas-a-los-dueños-activity-7177465118681686016-dGli",
+      "activity_status": null
+    },
+    {
+      "title": "¡Únete a nuestra revolución digital! En LatinAd, estamos comprometidos a simplificar y agilizar la gestión de tu negocio en pantallas digitales.…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_únete-a-nuestra-revolución-digital-en-latinad-activity-7163611861819539458-kBAn",
+      "activity_status": null
+    },
+    {
+      "title": "Equipazo!! A seguir cumpliendo metas y revolucionando la industria del Digital Out of Home 💪",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_equipazo-a-seguir-cumpliendo-metas-y-revolucionando-activity-7142711305169272832-i_Fe",
+      "activity_status": null
+    },
+    {
+      "title": "Happy for this new alliance! We continue adding technology and growing the DOOH ecosystem.",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_lmx-adsmovil-ooh-expand-pdooh-reach-in-latin-activity-7142912324281040896-2eFt",
+      "activity_status": null
+    },
+    {
+      "title": "En LatinAd, actuamos como plataforma intermediaria entre la oferta y la demanda, comprometidos con la transparencia. Nuestra misión es hacer que la…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_en-latinad-actuamos-como-plataforma-intermediaria-activity-7146577706091016193-WOH5",
+      "activity_status": null
+    },
+    {
+      "title": "Muy buen video en donde se puede ver cÃ³mo funciona una plataforma omnicanal (varios canales de comunicaciÃ³n interconectados) para lograr una…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_muy-buen-video-en-donde-se-puede-ver-cómo-activity-7121962679920963584-0MJs",
+      "activity_status": null
+    },
+    {
+      "title": "CampaÃ±as exitosas! Seguimos sumando acciones creativas, con tecnologÃ­a programÃ¡tica, segmentando y llegando al pÃºblico objetivo, optimizando…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_campañas-exitosas-seguimos-sumando-acciones-activity-7108445548495450112-GB-J",
+      "activity_status": null
+    },
+    {
+      "title": "Creando tecnologÃ­a en todo tipo de dispositivos de pantallas digitales para sumar cobertura y conexiÃ³n al mundo programÃ¡tico a todo tipo de medio,…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_latinad-y-la-era-de-dispositivos-android-activity-7102318937152876544-5Br0",
+      "activity_status": null
+    },
+    {
+      "title": "Seguimos creciendo en todo LatinoamÃ©rica!! Gran equipo y grandes clientes y colaboradores que siguen confiando en nosotros. Transformando el DOOH…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_seguimos-creciendo-en-todo-latinoam%C3%A9rica-activity-7095049936341221376-j3Hk",
+      "activity_status": null
+    },
+    {
+      "title": "Nuestro último y novedoso desarrollo tecnológico, Programmatic Hub, permite automatizar las ventas con más de 30 proveedores del lado de la Demanda.…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_programmatic-audience-dooh-activity-7077452074967273472-KXcb",
+      "activity_status": null
+    },
+    {
+      "title": "Otro año más acompañando en el evento ALOOH Latam. Esta vez un evento más local, como país de inauguración Argentina, Buenos Aires. País en donde…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_audiencia-innovacion-diversidad-activity-7064994362748788736-pFv7",
+      "activity_status": null
+    },
+    {
+      "title": "Desde LatinAd creamos tecnologÃ­a para que los dueÃ±os de medios de pantallas digitales, puedan crear ingresos extras sin esfuerzo comercial. Ãnete…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_cms-audience-audiencias-activity-7053765874964410369-yFgj",
+      "activity_status": null
+    },
+    {
+      "title": "Finalizó el evento de Vía Pública más importante y grande de Latinoamérica, ALOOH Asociación Latinoamericana de Out of Home. Una vez más con LatinAd…",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_equipo-medios-ecosistema-activity-6977077480234864640-L6cX",
+      "activity_status": null
+    },
+    {
+      "title": "A pleasure to be part of the growth in the DOOH industry together with Place Exchange. LatinAd #dooh #programmatic #exchanges",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_dooh-programmatic-exchanges-activity-6956621058611269632-urp_",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/juan-ignacio-alvarez-lescano_publicidad-dooh-ooh-activity-6911792507894796288-Vp88",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Juan Ignacio Álvarez",
+      "link": "https://ar.linkedin.com/in/juan-ignacio-álvarez-227ba013a",
+      "summary": "Ingeniero Mecánico - TGS",
+      "location": "Argentina"
+    },
+    {
+      "name": "Juan Ignacio Álvarez",
+      "link": "https://cl.linkedin.com/in/juan-ignacio-álvarez-89ba50162",
+      "summary": "Gerente General en Unnio Seguros Generales",
+      "location": "Chile"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juan-ignacio-alvarez-4ab13a",
+      "summary": "-",
+      "location": "Argentina"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juan-ignacio-alvarez-51862376",
+      "summary": "Jefe Comercial en Inc SA",
+      "location": "Argentina"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juan-i-alvarez",
+      "summary": "Business Analyst en Banco Galicia - CFA Level 1 - Ing. industrial",
+      "location": "Buenos Aires"
+    },
+    {
+      "name": "juan ignacio alvarez",
+      "link": "https://cl.linkedin.com/in/juan-ignacio-alvarez-514b1353",
+      "summary": "Abogado MBL LLM",
+      "location": "Chile"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://cl.linkedin.com/in/juan-ignacio-alvarez-77032075",
+      "summary": "Ingeniero Aeronáutico e Ingeniero en Prevención de Riesgos",
+      "location": "Santiago Metropolitan Area"
+    },
+    {
+      "name": "JUAN IGNACIO NAVARRO ALVAREZ",
+      "link": "https://es.linkedin.com/in/juan-ignacio-navarro-alvarez-30970b6b",
+      "summary": "Director General Económico Financiero (CFO) en Fertiberia, S.A.",
+      "location": "Greater Madrid Metropolitan Area"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juan-ignacio-alvarez-553794ba",
+      "summary": "Gerente General EAYA MEXICO",
+      "location": "Buenos Aires"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juanignacio-tech",
+      "summary": null,
+      "location": "Buenos Aires"
+    },
+    {
+      "name": "Juan Ignacio Alvarez",
+      "link": "https://ar.linkedin.com/in/juanigz",
+      "summary": null,
+      "location": "La Plata"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-05T00:00:00Z"
+  }
+}

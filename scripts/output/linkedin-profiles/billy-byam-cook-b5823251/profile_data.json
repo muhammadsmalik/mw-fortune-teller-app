@@ -1,0 +1,720 @@
+{
+  "public_identifier": "billy-byam-cook-b5823251",
+  "profile_pic_url": null,
+  "background_cover_image_url": "https://assets.enrichlayer.com/pp/profilepic/60c6015ee2519c056444fbd033145b42",
+  "first_name": "Billy",
+  "last_name": "Byam-Cook",
+  "full_name": "Billy Byam-Cook",
+  "follower_count": 793,
+  "occupation": "Head of Finance at Ocean Outdoor UK",
+  "headline": "Group CFO at Ocean Outdoor",
+  "summary": null,
+  "location_str": "London, England, United Kingdom",
+  "country": "GB",
+  "country_full_name": "United Kingdom",
+  "city": "London",
+  "state": "England",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2025
+      },
+      "company": "Ocean Outdoor UK",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Head of Finance",
+      "description": null,
+      "location": "London, United Kingdom",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor",
+      "company_facebook_profile_url": null,
+      "title": "Financial Controller",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ac6134e1ad0c7313b5c26f1eaeb6a587"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2012
+      },
+      "company": "Intela Publishing",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intela",
+      "company_facebook_profile_url": null,
+      "title": "European Senior Accountant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/5bc7c3023a65122e39082b371e06531b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2010
+      },
+      "company": "Riches & Company",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Auditor and Accountant",
+      "description": null,
+      "location": "Esher",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "company": "Jacob Cavenagh & Skeet",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Trainee Auditor",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2025
+      },
+      "ends_at": null,
+      "company": "Ocean Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ocean-outdoor/",
+      "company_facebook_profile_url": null,
+      "title": "Group CFO",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": null,
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2020
+      },
+      "field_of_study": null,
+      "degree_name": "FCA",
+      "school": "ICAEW",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/icaew",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/64890da8fa3102bb3b119856e598f2dc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Mechanical Engineering",
+      "degree_name": "Mechanical Engineering with European Studies",
+      "school": "University of Southampton",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-southampton",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/964489f90a07e61a9438f73bbf19104c",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "King's College School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [
+    {
+      "name": "French",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/robertoliver-finance",
+      "name": "Robert Oliver",
+      "summary": null,
+      "location": "Oxford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulfarrant1",
+      "name": "Paul Farrant",
+      "summary": "★Mortgage Advisor★Property Investor★Property developer★I practice what I preach when it comes to mortgage advice",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/giulia-consonni",
+      "name": "Giulia Consonni",
+      "summary": "Senior Graphic Designer at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/patrickklink",
+      "name": "Patrick Klink",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xavierkeenan",
+      "name": "Xavier H Keenan",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tonyridd",
+      "name": "Tony Ridd",
+      "summary": "Account Director at Ocean Outdoor, Digital Out of Home Advertising, @oceanoutdoorUK",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/defineyourfuture",
+      "name": "Paul Kunneman",
+      "summary": null,
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/felicitynath",
+      "name": "Felicity Nath FCA",
+      "summary": "Experienced Finance leader with over two decades of post qualification experience in a broad range of roles reporting and operating at senior management and board level",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarahvout",
+      "name": "Sarah Vout",
+      "summary": "Head of Financial Control at Ormiston Academies Trust",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenzjoseph",
+      "name": "Stephen Joseph",
+      "summary": "CFO/COO at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vicky-peirone-a844b129b",
+      "name": "Vicky Peirone",
+      "summary": "Account Executive at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajni-p-982410230",
+      "name": "Rajni P.",
+      "summary": "Accounts Payable Assistant @ Pangaia| M.sc in financial management",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adampentelow",
+      "name": "Adam Lee-Pentelow",
+      "summary": "Director of Finance and Operations at Art Fund",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohammed-suhaib-khokher-fcca-msc-bsc-54177049",
+      "name": "Mohammed Suhaib Khokher FCCA MSc BSc",
+      "summary": "Accounting & Tax professional - Working to help you grow",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eleanor-greszczuk",
+      "name": "Ellie Greszczuk",
+      "summary": "Head of Partner Management at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-reynolds-fca",
+      "name": "Simon Reynolds",
+      "summary": "CFO | Finance Director I FCA I MSc I BSc (Hons) I M&A I Board Experience I Private Equity | NED",
+      "location": "Nantwich"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marie-le-hur-a3300135",
+      "name": "Marie Le Hur",
+      "summary": "UK Marketing Director at Ocean Outdoor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabelle-mccormick-martin-b85365235",
+      "name": "Isabelle McCormick-Martin",
+      "summary": "studying psychology Bsc at Oxford Brookes university",
+      "location": "Frome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabeth-auer-67034880",
+      "name": "Elizabeth Auer",
+      "summary": "Anaesthetics",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhushan-pradhan-acma-cgma-6b93a9a",
+      "name": "Bhushan Pradhan ACMA CGMA",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-farrant-cfa-823a7011",
+      "name": "Paul Farrant CFA",
+      "summary": "Managing Director, IFPC Ltd",
+      "location": "St Albans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-renshaw-73b6a613",
+      "name": "Susan Renshaw",
+      "summary": null,
+      "location": "Menzingen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabeth-mitchell-65246814",
+      "name": "Elizabeth Mitchell",
+      "summary": "FCA",
+      "location": "Billericay"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sarah-fernando-1618311b",
+      "name": "Sarah Fernando",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katheryn-crofts-003b7320",
+      "name": "Katheryn Crofts",
+      "summary": "Private Client Tax Senior Manager at Rawlinson & Hunter",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-hall-82421822",
+      "name": "Phil Hall",
+      "summary": "Group COO at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-martin-9352a523",
+      "name": "Colin Martin",
+      "summary": "Finance Director at ASL",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/emily-hooper-02446524",
+      "name": "Emily Hooper",
+      "summary": "Hemsley Fraser•450 followers",
+      "location": "Exeter"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gary-burnett-93923126",
+      "name": "Gary Burnett",
+      "summary": "Director of Agency Networks at Immediate Media Co",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/katherine-firmin-a311a228",
+      "name": "Katherine Firmin",
+      "summary": "Head Of Finance Integration and Change at The Ardonagh Group",
+      "location": "Keswick"
+    },
+    {
+      "link": "https://www.linkedin.com/in/charles-dessain-2209482b",
+      "name": "Charles Dessain",
+      "summary": "Group Finance Manager at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-puar-9020a630",
+      "name": "Tom Puar",
+      "summary": "Head of Strategy & Group FP&A",
+      "location": "Stratford-upon-Avon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-skinner-84903b31",
+      "name": "Jessica Skinner",
+      "summary": "Digital Marketer",
+      "location": "Arvada"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alison-tootell-a9670736",
+      "name": "Alison Tootell",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pete-thompson-885b3b36",
+      "name": "Pete Thompson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/viraj-mithani-546b2b37",
+      "name": "Viraj Mithani",
+      "summary": "Group Financial Systems Manager at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alan-ive-a28b0938",
+      "name": "Alan Ive",
+      "summary": "Partner at Rawlinson & Hunter",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/barry-curtis-5679b339",
+      "name": "Barry Curtis",
+      "summary": "Head Of Finance at TJ Transport Ltd",
+      "location": "Southampton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanna-bath-20003940",
+      "name": "Joanna Bath",
+      "summary": "Taking some time away from the spreadsheets to be a full-time parent.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/louise-coleman-892b9642",
+      "name": "Louise Coleman",
+      "summary": null,
+      "location": "Stockport"
+    },
+    {
+      "link": "https://www.linkedin.com/in/melissa-bethell-52a97a43",
+      "name": "Melissa Bethell",
+      "summary": "Chair, Board Director and Senior Advisor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/william-watson-7b00b945",
+      "name": "William Watson",
+      "summary": "Partner - Corporate Services at Rawlinson & Hunter LLP",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tom-ballantine-68095349",
+      "name": "Tom Ballantine",
+      "summary": "Development Director, UK at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/philip-gibson-86293056",
+      "name": "Philip Gibson",
+      "summary": "Financial Controller at CCP Gransden",
+      "location": "Belfast"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gareth-pickup-64519a58",
+      "name": "Gareth Pickup",
+      "summary": "Finance Director / ACA / Business Owner / Investor",
+      "location": "Leeds"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simon-potter-9a452059",
+      "name": "Simon Potter",
+      "summary": "Chief Financial Officer at Teachers Building Society",
+      "location": "Bournemouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/steve-bernard-2a377761",
+      "name": "Steve Bernard",
+      "summary": "Head of Insight, Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valeda-scanlon-28b36b64",
+      "name": "Valeda Scanlon",
+      "summary": "International Technical Accounting at Google",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/shona-dobson-bb6b8467",
+      "name": "Shona Dobson",
+      "summary": "Senior Marketing Manager at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-huggins-128a7b70",
+      "name": "Paul Huggins",
+      "summary": "Partner at Rawlinson & Hunter",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-goldring-ea",
+      "name": "Claire Goldring",
+      "summary": "EA to UK CEO & Group Development Officer | Office Management",
+      "location": "Southend-on-Sea"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-harris-983a7480",
+      "name": "Mark Harris",
+      "summary": "Tax Partner at Rawlinson & Hunter",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paul-farrant-249b5982",
+      "name": "Paul Farrant",
+      "summary": "Champion Say So Ltd. NHS First Responder. Volunteer St. Mary’s Hospital",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iwodaro-imoukhuede-86303387",
+      "name": "Iwodaro Imoukhuede",
+      "summary": "Finance Assistant at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lee-putt-06514889",
+      "name": "Lee Putt",
+      "summary": "Financial controller - Flagship Group",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-shilling-46590bbb",
+      "name": "Andrew Shilling",
+      "summary": "World Traveller; Accountant Of The Year 2023; Pandemic-Era Managing Partner; Retired Tax Specialist; Retired In 2024 At Age 54.",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chardex-pavier-438056102",
+      "name": "Chardex Pavier",
+      "summary": "UK Financial Controller - Commercial at Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/henry-malm-045a2a108",
+      "name": "Henry Malm",
+      "summary": null,
+      "location": "Cardiff"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sally-minto-48a29512b",
+      "name": "Sally Minto",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/benjamin-cummings-832468136",
+      "name": "Benjamin Cummings",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andreas-auer-5bb3a1139",
+      "name": "Andreas Auer",
+      "summary": "Consultant Urological Surgeon at Portsmouth University Hospitals NHS Trust",
+      "location": "Portsmouth"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-slattery-757429157",
+      "name": "Jack Slattery",
+      "summary": null,
+      "location": "Basildon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-conboy-750287171",
+      "name": "Daniel Conboy",
+      "summary": "Vice President at North Rock Capital Management LLC",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claire-montford-955a991b7",
+      "name": "Claire Montford",
+      "summary": null,
+      "location": "Lichfield"
+    },
+    {
+      "link": "https://www.linkedin.com/in/james-moss-883a02201",
+      "name": "James Moss",
+      "summary": "Group Management Accountant at Ocean Outdoor",
+      "location": "Barnet"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephan-schneider-0b0712160",
+      "name": "Stephan Schneider",
+      "summary": "OCEAN Outdoor I SeRoCon I ESG I Rotary I Oleadent I Humboldt Capture",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/richard-malton-2582472b",
+      "name": "Richard Malton",
+      "summary": "Ocean Group - Chief Marketing & Strategy Officer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/timbleakley",
+      "name": "Tim Bleakley",
+      "summary": "Chairman at Ocean Group, Digital Out of Home Advertising",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/helenahaines",
+      "name": "Helen Haines",
+      "summary": "Director of Strategic Projects, Ocean Group, Ocean Outdoor; We turn spaces into place using high quality Digital Out of Home Advertising",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kat-mcilroy-0ab8246b",
+      "name": "Kat McIlroy",
+      "summary": "Account Director at Ocean Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-eagle-014b0165",
+      "name": "Alex Eagle",
+      "summary": "Chartered accountant specialising in advising owner managed businesses, providing insights and helping them meet their goals",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/annaduggal",
+      "name": "Anna Gilbert-Duggal",
+      "summary": "Digital Content & Marketing Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ryan-lane-93328415",
+      "name": "Ryan Lane",
+      "summary": "Director at Warrener Stewart",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dhruv-patel-b119b5a2",
+      "name": "Dhruv Patel",
+      "summary": "Head of Finance at Glider Technology",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickshaw1",
+      "name": "Nick Shaw",
+      "summary": "Chief Commercial Officer at Ocean Outdoor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jon-last-757ab39",
+      "name": "Jon Last",
+      "summary": "Partner at Warrener Stewart Chartered Accountants",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andi-v-27b606193",
+      "name": "Andi V.",
+      "summary": "Accounts Manager at Warrener Stewart",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-bennett-99949849",
+      "name": "Andrea Bennett",
+      "summary": "Director of Finance and Strategy at Trafford College Group",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/miranda-watson-a5a385160",
+      "name": "Miranda Watson",
+      "summary": "Assistant Manager at Forvis Mazars",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-andrews-87a925b",
+      "name": "David Andrews",
+      "summary": "Partner at LDC",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Looking forward to some innovative thinking from our government and finance leaders to allow the country’s businesses ‘to innovate and to invest’ in…",
+      "link": "https://www.linkedin.com/posts/billy-byam-cook-b5823251_looking-forward-to-some-innovative-thinking-activity-7382509813206843393-33Uk",
+      "activity_status": null
+    },
+    {
+      "title": "https://lnkd.in/ePg9zzpd",
+      "link": "https://www.linkedin.com/posts/billy-byam-cook-b5823251_dc-studios-superman-next-level-dooh-activity-7350455157488246785-ZVF6",
+      "activity_status": null
+    },
+    {
+      "title": "Brilliant: Multiple advertisers coming together with new ideas on Piccadilly Lights. Plus the upcoming release of Gladiator II.",
+      "link": "https://www.linkedin.com/posts/billy-byam-cook-b5823251_brilliant-multiple-advertisers-coming-together-activity-7260628127708508162-dtY6",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/billy-byam-cook-b5823251_one-year-ago-today-we-launched-piccadilly-activity-6461507487483994112-hkPI",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-29T04:52:10Z"
+  }
+}

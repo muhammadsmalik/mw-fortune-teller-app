@@ -1,0 +1,75 @@
+{
+  "public_identifier": "prochy-mehta-2ab126106",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Prochy",
+  "last_name": "mehta",
+  "full_name": "Prochy mehta",
+  "follower_count": 0,
+  "occupation": "Director at selvel advtg pvt ltd",
+  "headline": "Director at selvel advtg pvt ltd",
+  "summary": null,
+  "location_str": "Kolkata, West Bengal, India",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "experiences": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "company": "selvel advtg pvt ltd",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": null,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Prochy MEHTA",
+      "link": "https://in.linkedin.com/in/prochy-mehta-770612138",
+      "summary": "Executive at Abcd",
+      "location": "Washim"
+    },
+    {
+      "name": "Prochy Mehta",
+      "link": "https://in.linkedin.com/in/prochy-mehta-18a86a32",
+      "summary": "director at selvel one",
+      "location": "Kolkata"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": true,
+    "last_updated": "2025-05-06T00:00:00Z"
+  }
+}

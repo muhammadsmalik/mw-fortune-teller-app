@@ -1,0 +1,729 @@
+{
+  "public_identifier": "yuri-berezovoy",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/87a278e547e50ae13bc48653542bf93c",
+  "background_cover_image_url": null,
+  "first_name": "Yuri",
+  "last_name": "Berezovoy",
+  "full_name": "Yuri Berezovoy",
+  "follower_count": 1210,
+  "occupation": "Ad-Tech, Adops, Metrics, pDOOH and Business Development at RZK Digital",
+  "headline": "Know-how and best-in-class ad-tech for planning and execution of digital-out-of-home (DOOH) networks.",
+  "summary": "Head of Ad-Tech and Programmatic DOOH (pDOOH) at RZK Digital, a leading DOOH network operator based in São Paulo, Brazil.<br><br>Technology & Metrics Director at ABOOH — the Brazilian Out of Home Association.<br><br>Yuri is a computer engineer and seasoned Sales & Business Development executive with a strong track record in digital out-of-home (DOOH), pro-AV, and urban mobility sectors. He brings deep expertise in digital strategy, M&A, negotiation, R&D, business planning, product development, and sales management.<br><br>A tech pioneer in Brazil and Latin America, Yuri has been at the forefront of innovations in broadband internet, digital convergence, large-format and e-cinema, drones/UAVs, digital signage/DOOH, computer vision for retail, and engineering for light electric vehicles. He previously served as a shareholder in a digital signage joint venture with Panasonic.",
+  "location_str": "Greater São Paulo Area",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": null,
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "RZK Digital",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rzkdigital",
+      "company_facebook_profile_url": null,
+      "title": "Ad-Tech, Adops, Metrics, pDOOH and Business Development",
+      "description": "RZK Digital is a next-generation DOOH network operator that integrates state-of-the-art ad-tech with consumers in real-world environments. The company connects brands and agencies to high-impact digital out-of-home inventory through data-driven, privacy-first solutions designed for both direct and programmatic buying.\n\nYuri was responsible for the foundational design and implementation of RZK’s ad-tech stack, including the CMS architecture, the deployment of a first-party sensor network, and the supporting data systems across the campaign lifecycle. Beyond technology, he structured the operational backbone of the delivery side of the business, defining workflows, processes, and governance across sales operations, ad-tech, metrics, and programmatic DOOH (pDOOH), ensuring consistent execution from commercial strategy to on-screen delivery.\n\nWorking alongside international consultants, Yuri also led the deployment of a first-of-its-kind DOOH measurement engine with an omnichannel mindset, aligned with global standards from the IAB, DPAA, and the World Out of Home Organization. This framework positioned RZK as a regional reference in audience measurement and accountability, reflecting the growing convergence between digital, data-centric advertising and the DOOH ecosystem.",
+      "location": "São Paulo, SP",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1d263fc8ea92b8d0320e983d1348376b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "ABOOH - Associação Brasileira de Out of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abooh",
+      "company_facebook_profile_url": null,
+      "title": "Head of Metrics / Diretor de Métricas – ABOOH",
+      "description": "Leading the Metrics Committee to establish and evolve national standards for DOOH data, measurement, and transparency.\nMain initiatives include:\n\nDesign and governance of the ABOOH XML standard for interoperability and data validation across the ecosystem.\n\nOrganizer for the ABOOH Measurement Guidelines, coordinating the steps and collaboration needed to bring the framework to life.\n\nSpeaker in ESPM’s ABOOH course, as well as in webinars and industry roundtables on metrics, programmatic, brand safety, data ethics, and innovation.\n\nFocus areas: data standardization, privacy, transparency, and education in the Brazilian programmatic DOOH market.",
+      "location": "São Paulo, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/89cb24f8b5216e6e816f7e94205656cd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2021
+      },
+      "company": "BrasOOH",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Chief Executive Officer",
+      "description": "BrasOOH is an R&D-driven ad-tech startup providing strategic support and technical services to media agencies for the planning and execution of out-of-home (OOH) and digital out-of-home (DOOH) campaigns.\n\nFunctioning as an outsourced ad-tech arm for media reps and specialist agencies, BrasOOH helped navigate complex campaign planning and digital transformation challenges at scale. The company positioned itself as a future-proof ad-tech partner, fully compliant with both Brazilian and international privacy regulations.",
+      "location": "Brazil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2019
+      },
+      "company": "Panasonic do Brasil",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/panasonic-do-brasil-ltda-",
+      "company_facebook_profile_url": null,
+      "title": "Business and Technology Consultant - Panasonic Innovation Center Brazil",
+      "description": "Yuri played a leading role in strategy, sales, and innovation at DFS (Digital Full Service), Brazil’s top digital signage integration specialist, which culminated in an M&A with Panasonic Brazil.\nFollowing the merger, he served both as a shareholder at DFS and as a digital signage consultant for the Panasonic Innovation Center, contributing to projects across Latin America and the U.S.\n\nAs a Panasonic services subsidiary, DFS delivered full-service digital signage solutions for retail, hospitality, and corporate communication verticals. Yuri’s role spanned the development of critical business areas including:\n\n- Content and network managed services\n- Nationwide field services for installation and maintenance\n- Content production and creative development\n- Innovation delivery for large-scale networks\n- Hardware sales, procurement, and vendor negotiations\n- Software development and lab capabilities\n- Interactive kiosks, video analytics, AV automation, video conferencing, and POS systems\n- In sales and business development, Yuri played a fundamental role in acquiring key accounts and supporting sales initiatives across the region.",
+      "location": "São Paulo Area, Brazil",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/0ddbb61c0164beaa287043b31ff28aaf"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2017
+      },
+      "company": "SOMA Veículos Elétricos",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Vice President Business Product Development",
+      "description": "SOMA Veículos Elétricos became Brazil’s leading light electric vehicle development firm, formally originating in 2013 as the startup Guell in Salvador, Bahia, after receiving FAPESB government funding. SOMA relocated to São Paulo in 2015. The company focuses on research, product development, and market entry for innovative mobility solutions. SOMA was selected to participate in prominent R&D programs by CNPq, FINEP, and the Ministry of Science and Technology (MCTI), through the prestigious innovation acceleration initiative Startup Brasil.\n\nThe company’s first product, the e-scooter SURFER, is showcased at www.gosurfer.com.br. Yuri played a fundamental role in the company’s launch, securing R&D funding and leading marketing efforts, while also contributing directly to product development. He is a co-author of SOMA’s product designs and technological inventions.",
+      "location": "São Paulo Area, Brazil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2012
+      },
+      "company": "Controle Monitoramento",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Franchising General Manager",
+      "description": "Yuri led the franchising division of a Brazilian nationwide vehicle tracking startup, taking a key role in defining and executing the company’s go-to-market strategy.\n\nKey responsibilities and achievements:\n- Proposed and developed the franchise model as the company’s core expansion strategy\n- Built the initial franchise sales pipeline and led the franchise team\n- Advised on product development and innovation strategy\n\nControle Monitoramento was an early-stage startup. Yuri held a leadership position until the company ceased operations in late 2012 due to regulatory issues.",
+      "location": "Greater São Paulo Area",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "company": "Broadsign",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/broadsign",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director Central & South America",
+      "description": "Led regional strategy, business development, and sales for BroadSign’s operations in Central and South America.\n\nKey achievements:\n- Achieved market leadership in Digital Signage SaaS across the region within 2 years\n- Positioned BroadSign as the benchmark digital signage platform in Latin America\n- Influenced local business models that are still in use today\n- Bridged local companies with international know-how, supporting the foundation of the Brazilian, Colombian, and Mexican Digital Signage Associations\n- Reached breakeven in the region within 6 months and ROI within 12 months",
+      "location": "Montreal, Canada Area",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2aaf4dbc433301845c8e8d8ea69528d0"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "Ya Mogu Network Management and Innovations",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Director, Chief Technology Officer",
+      "description": "Served as CTO at Brazil’s first digital signage integrator, leading groundbreaking projects that helped define the early DOOH landscape in the country.\n\nKey milestones:\n- Launched the first digital signage retail project in Brazil with VTV, deployed in Casa e Vídeo stores\n- Deployed the first bar and restaurant network (Conversa Fiada), integrating early mobile and Bluetooth-based audience engagement\n- Executed the first government digital signage project (State of Rio de Janeiro)\n- Delivered the first large-scale convenience store deployment\n- Provided technical and business consulting for pioneering Brazilian projects across multiple verticals, including transit (buses), shopping malls, hospitality, and corporate communications",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "IMAX, Brazilian Sales Representative Office",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": "- Sale of IMAX theatres to a leading Brazilian cinema chain, in operation to this day.\n- Startup Manager for IMAX theatres.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "company": "Brasíl das Águas / The Waters of Brazil",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Logistics and Innovation Specialist",
+      "description": "- Development and innovation support to a water analysis unit installed inside an amphibious aircraft.\n- Project logistics planning. \n- Marketing support.",
+      "location": "Rio de Janeiro Area, Brazil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "company": "Hughes-JVC, Sales Representative Office in Brazil",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Business Development Manager",
+      "description": "- Digital cinema and projector sales.\n- Host and organizer of the 1st Latin American Digital Cinema exhibition in 1999.",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2001
+      },
+      "field_of_study": "Computer Engineering",
+      "degree_name": "Bachelor of Engineering - BE",
+      "school": "Pontifícia Universidade Católica do Rio de Janeiro",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/puc-rio",
+      "school_facebook_profile_url": null,
+      "description": "Bachelor’s in Software and Hardware Engineering — Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Specialized in telecom networks and remote network management and distribution. Final project involved game theory.",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/d5be437f4fa5843738925bd18769e61a",
+      "grade": null,
+      "activities_and_societies": "Atividades e grupos:Founded the Computer Engineering Student Council."
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1992
+      },
+      "field_of_study": null,
+      "degree_name": "International Baccalaureate",
+      "school": "The British School Rio de Janeiro",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Portuguese",
+    "Russian"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "FULL_PROFESSIONAL"
+    },
+    {
+      "name": "French",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Portuguese",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    },
+    {
+      "name": "Russian",
+      "proficiency": "ELEMENTARY"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1163,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/matheus-maluf",
+      "name": "Matheus Maluf Teixeira",
+      "summary": "SEO | SEM | Growth | OPEC na RZK Digital (DOOH)",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergioluiscosta",
+      "name": "Sergio Costa",
+      "summary": "Analista de Operações Comerciais | Cientista de Dados Junior | Analista de Dados Junior | Analista de Suporte Sênior | Coordenador de Suporte | Especialista Apple",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/flavioholanda",
+      "name": "Flávio Holanda",
+      "summary": "Director of Operations and Events",
+      "location": "Trois-Rivières"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolinagiaffone",
+      "name": "Carolina Giaffone",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ggnova",
+      "name": "Guilherme Gênova",
+      "summary": "CEO at XTREAMERS",
+      "location": "Atibaia"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-kallas-oficial",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/gersonrolim",
+      "name": "Gerson Rolim",
+      "summary": "Onalytica TOP 100 global influencer / Transforming Business through AI & GenAI",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lfmorau",
+      "name": "Luiz Fernando Morau",
+      "summary": "CEO at Integradora Digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/aalmeida3",
+      "name": "André Almeida",
+      "summary": "Ad Sales Director RZK Digital",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielmourao",
+      "name": "Daniel Mourão",
+      "summary": "New Business and Digital Marketing Specialist / CRM / VoIP / E-mail Marketing / Online Advertising / Growth / Entrepreneur / Marketing Automation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/paulo-cesar-queiroz-pq",
+      "name": "Paulo Cesar Queiroz",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandopaiva",
+      "name": "Fernando Paiva",
+      "summary": "Chief Executive Officer at LEVI",
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giovannamezzacapa",
+      "name": "Giovanna Araujo Mezzacapa",
+      "summary": "Market Intelligence | Data Analytics | Customer Success",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/flavioholland",
+      "name": "Flavio Holland",
+      "summary": "Commercial Strategy, Operations & Sales Leader | Customer Service Management |Marketing and Communication Specialist | Large-Scale Program & Event Delivery Specialist",
+      "location": "National Capital Region"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucioschneider",
+      "name": "Lucio Schneider",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernandatrein",
+      "name": "Fernanda Trein",
+      "summary": "Digital Marketing Strategist | Chief Executive Officer at VINO Marketing Digital",
+      "location": "Blumenau"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudiadearmas2",
+      "name": "Claudia de Armas",
+      "summary": "Head of Data Scientist at RZK Digital | Ph.D. Student",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pontual",
+      "name": "Andre Pontual",
+      "summary": "Chief Executive Officer at nobeta",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mapalazzi",
+      "name": "Mali Palazzi Ramalho",
+      "summary": "Valtech•2K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cezar-tizo-3082264b",
+      "name": "Cezar Tizo",
+      "summary": "Empresário contábil - Exat Contabilidade.",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/m-trevisan",
+      "name": "Matheus Trevisan",
+      "summary": "Comercial",
+      "location": "Barueri"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christophersuttenfield",
+      "name": "Christopher Suttenfield",
+      "summary": "Co-founder of The New Standard",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gustavo-costa-da-silva-andrade-304b30260",
+      "name": "Gustavo Costa da Silva Andrade",
+      "summary": "Analista de Operações Comerciais",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigoyudi",
+      "name": "Rodrigo Yudi Kawanami",
+      "summary": "CEO at Royss Content Publisher",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/joseluismenghini",
+      "name": "José-Luis Menghini",
+      "summary": "Chairman NTT Data Energy & Utilities Brasil. Active board-member around the globe. Mentor of companies",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jose-valle-diniz-7943036",
+      "name": "Jose Valle Diniz",
+      "summary": "Chief Executive Officer at Tridente.ag",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rafaelsanchezc",
+      "name": "Rafael Sanchez Coelho",
+      "summary": "Executivo de Negócios no Sua Música I  Advertising & Music Business",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eduardomantegazza",
+      "name": "Eduardo Mantegazza",
+      "summary": "Managing Partner",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antoniolima23",
+      "name": "António Ribeiro Lima",
+      "summary": null,
+      "location": "Barcelona"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisrenatolui",
+      "name": "Luis Renato Lui",
+      "summary": "Ajudo marcas e pessoas a se conectarem | Always curious | Founder | Investor | Mentor | Marketing communications expert | Health techAA",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/evandrofsouza",
+      "name": "Evandro Fernandes",
+      "summary": "CEO Founder @ DigiEnge | Driving Sales Growth, Angel Investing",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcoswettreich",
+      "name": "Marcos Wettreich",
+      "summary": null,
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sergio-sacchi-4845017",
+      "name": "Sergio Sacchi",
+      "summary": null,
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcofrade13",
+      "name": "Marco Frade",
+      "summary": "Diretor, Mentor e Executor",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marcospires-ti",
+      "name": "Marcos Pires",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/marisa-rodrigues-9703381a",
+      "name": "Marisa Rodrigues",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeff-ferreira-91738721",
+      "name": "Jeff Ferreira",
+      "summary": "Ad Sales Account Manager",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/raquel-a-09454923",
+      "name": "Raquel A.",
+      "summary": "Entrepreneur",
+      "location": "Petrópolis"
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-galvanini",
+      "name": "Guilherme Galvanini",
+      "summary": "Key Account Manager na NEOOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernando-taralli-33b60236",
+      "name": "Fernando Taralli",
+      "summary": "Gerente General | WPP CP LATAM | Estrategia de Marketing y Medios para el Crecimiento de Marcas",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/emanuela-bertolino-93727638",
+      "name": "Emanuela Bertolino",
+      "summary": "Mãe do João | Account Manager | Sales DOOH | RZK Digital Media",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-weiss-61a3a645",
+      "name": "Andrea Weiss",
+      "summary": "Executiva do setor de OOH | Top 100 Gestores de 2022 | Especialista em Mídia e Inovação | Empreendedora | Analista de Investimentos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-monteiro-98103546",
+      "name": "Allan Monteiro",
+      "summary": "VP Brazil - Country Lead",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/denise-porto-hruby",
+      "name": "Denise Porto Hruby",
+      "summary": "CEO IAB Brasil",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-celia-biondi-rodriguez-86259666",
+      "name": "Ana Celia Biondi Rodriguez",
+      "summary": "Diretora Geral JCDecaux do Brasil | Conselheira do Cenp | Conselheira ABOOH | Vice-Presidente de Comunicação CCIFB",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wesley-asiel-85b285a7",
+      "name": "Wesley Asiel",
+      "summary": "Especialista em BI e Análise de Dados / Apaixonado por desenvolver de Soluções de Gestão com Foco em Inovação e Empreendedorismo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cesar-mantegazza-burga-615a48ab",
+      "name": "César Augusto Mantegazza Burga",
+      "summary": "Estrategia | Liderazgo | Gerencia Comercial | Gestión de Proyectos | Customer Experience | Sub Gerente de Operaciones Comerciales en Cálidda",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/pedro-lopes-monteiro-b701b4b5",
+      "name": "Pedro Lopes Monteiro",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandreguerreroeletromidia",
+      "name": "Alexandre Guerrero",
+      "summary": "CEO na Eletromidia | Membro do Conselho Consultivo (CpCon) da ESPM | Conselheiro Executivo da IAB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-mantegazza-2196a8215",
+      "name": "Luca Mantegazza",
+      "summary": "RZK Digita",
+      "location": ""
+    }
+  ],
+  "recommendations": [
+    "Matt Szabo\n\nIt was an absolute pleasure working with Yuri while at BroadSign - not only is he a leading force in the digital media industry in South America I must say he is one of the pioneers as well.  His skills as a Sales Director come from a natural ability of bringing people and ideas together and making projects happen.  I really enjoyed the technically savvy challenges Yuri and his customers brought forth, as well as the Spanish and Portuguese demos we performed together.  Yuri is a highly respected, key figure in this industry.  He is a Mover and a Shaker."
+  ],
+  "activities": [
+    {
+      "title": "🎉 Leilão pDOOH na RZK Digital! 🎉 Estamos entusiasmados em compartilhar que a RZK Digital está liderando o caminho no Brasil com leilões abertos via…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_rzkdigital-inova%C3%A7%C3%A3o-adtech-activity-7211388102165069825-m0lg",
+      "activity_status": null
+    },
+    {
+      "title": "É daqui a pouco as 10am - webinar do M&M com insights e experiências da RZK Digital na área de tecnologia, métricas e dados: https://lnkd.in/dZSeimjj",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_é-daqui-a-pouco-as-10am-webinar-do-mm-activity-7186689005445386240-bcIt",
+      "activity_status": null
+    },
+    {
+      "title": "#pdooh #rzkdigital #abooh #metricas O mercado de OOH/DOOH está em constante mudança desde a introdução do pDOOH em 2018. Agora, enfrentamos a…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_o-oohdooh-deve-competir-no-omnichannel-activity-7166451246898384897-huhs",
+      "activity_status": null
+    },
+    {
+      "title": "Com grande satisfação, comunico oficialmente o início dos trabalhos da gestão 2024-2025 da ABOOH. Assumimos o compromisso de dar sequência ao…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_com-grande-satisfa%C3%A7%C3%A3o-comunico-oficialmente-activity-7150557046071885824-D02t",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 A RZK Digital implementa modelo de referência em medição anônima de veículos para DOOH📊 A RZK Digital, líder em inteligência de público e DOOH…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_rzkdigital-dooh-pdooh-activity-7117116993387831296-fHiX",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Navigating the Transformative Landscape of DOOH Metrics 🚀 In the dynamic realm of advertising, change is the constant, but the recent surge in…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_mundo-ooh-activity-7102638495927590912-Uon1",
+      "activity_status": null
+    },
+    {
+      "title": "#rzkdigital #pdooh #mundooh",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_o-dooh-program%C3%A1tico-como-meio-premium-em-activity-6970483606439800832-HqEP",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_audi%C3%AAncia-garantida-o-que-significa-e-por-activity-6994322668577554433-t-HJ",
+      "activity_status": null
+    },
+    {
+      "title": "Entenda como o abalo sísmico nas gigantes Goggle e Facebook criarão um mundo digital com maior privacidade e beneficiará a Mídia Exterior!",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_fim-de-festa-nas-empresas-de-tecnologia-publicit%C3%A1ria-activity-6620373308548366336-6awV",
+      "activity_status": null
+    },
+    {
+      "title": "Apresento para download a Seção 1 da versão brasileira do DOOH Primer, o mais atualizado guia internacional de referência e melhores práticas para…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_primer-dooh-brasooh-activity-6627926021255512064-Wf2L",
+      "activity_status": null
+    },
+    {
+      "title": "Nova publicação no blog de Digital Signage Mundo OOH. A DFS Digital é a empresa líder nacional em Digital Menuboards e projetos em redes de…",
+      "link": "https://www.linkedin.com/posts/yuri-berezovoy_nova-publica%C3%A7%C3%A3o-no-blog-de-digital-signage-activity-6313698846065127424-45uv",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [],
+  "articles": [
+    {
+      "title": "O OOH/DOOH deve competir no Omnichannel.",
+      "link": "https://pt.linkedin.com/pulse/o-oohdooh-deve-competir-omnichannel-yuri-berezovoy-yip3f",
+      "published_date": {
+        "day": 22,
+        "month": 2,
+        "year": 2024
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Audiência Garantida, o que significa e por que é relevante para sua marca e para o DOOH?",
+      "link": "https://www.linkedin.com/pulse/audiência-garantida-o-que-significa-e-por-é-relevante-yuri-berezovoy",
+      "published_date": {
+        "day": 4,
+        "month": 11,
+        "year": 2022
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "O DOOH programático como meio premium em contextos omnichannel, impulsionado por dados e audiências segmentadas.",
+      "link": "https://www.linkedin.com/pulse/o-dooh-programático-como-meio-premium-em-contextos-por-yuri-berezovoy",
+      "published_date": {
+        "day": 30,
+        "month": 8,
+        "year": 2022
+      },
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Fim de Festa nas Empresas de Tecnologia Publicitária (AdTech)! A Nova Década Será Marcada por Privacidade e Liderança da Mídia Exterior!",
+      "link": "https://www.linkedin.com/pulse/fim-de-festa-na-adtech-nova-década-publicidade-será-por-berezovoy",
+      "published_date": null,
+      "author": null,
+      "image_url": null
+    },
+    {
+      "title": "Digital Signage Primer - IAB e organizações de DOOH lançam documento com melhores práticas para o setor.",
+      "link": "https://www.linkedin.com/pulse/digital-signage-primer-iab-e-organizações-de-dooh-lançam-berezovoy",
+      "published_date": null,
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-03-20T00:00:00Z"
+  }
+}

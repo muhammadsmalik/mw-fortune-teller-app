@@ -1,0 +1,843 @@
+{
+  "public_identifier": "massimiliano-del-grosso-13110a92",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/e5cf0c20695f6e7559ce6765fe47bc60",
+  "background_cover_image_url": "https://assets.enrichlayer.com/ll/C4E16AQEXtx_GD9v3wg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1634895961531?e=2147483647&v=beta&t=dngQLrHaGVOpStORCy0HGF8OSqkrohrhcCG_eoUN8Rw",
+  "first_name": "Massimiliano",
+  "last_name": "del Grosso",
+  "full_name": "Massimiliano del Grosso",
+  "follower_count": 13536,
+  "occupation": "Founder at Outsight Srl",
+  "headline": "Entrepreneur",
+  "summary": "https://www.maxdelgrosso.com/<br><br>Senior background in business development, management, revenue<br>Media expertise: strategy, relations, planning&buying: focus Digital and OOH<br>Startup founder and surfer: focus Fintech/ Value-tech",
+  "location_str": "Bologna, Emilia Romagna, Italia",
+  "country": "IT",
+  "country_full_name": "Italy",
+  "city": "Bologna",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Outsight Srl",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/outsight-global",
+      "company_facebook_profile_url": null,
+      "title": "Founder",
+      "description": "OUTSIGHT is a media & tech company that develops innovative strategies to boost brand awareness and engage audiences in real time.\n\nWe use digital out-of-home as a strategic media platform to deliver global activations, seamlessly integrated with data and AI-driven neuromarketing solutions.",
+      "location": "Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3bbf8ad22a6e97ff7a0980ef532151ce"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2023
+      },
+      "company": "billups",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/billups",
+      "company_facebook_profile_url": null,
+      "title": "Business Director | EMEA",
+      "description": "Billups is transforming OOH advertising through innovative technology, deeper audience understanding and creative media solutions.",
+      "location": "Milano, Lombardia, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/1e7c5154f1c81362d3d5ff145766b99c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2021
+      },
+      "company": "La Piuma Comunicazione",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lapiumacomunicazione",
+      "company_facebook_profile_url": null,
+      "title": "Co-Founder",
+      "description": "PiumaCom is the media intelligence boutique\nOur mission is turning complexity into clarity: we read business needs and match them with innovative advertising solutions to make your brand emerge and scale.",
+      "location": "Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/24598adb6fdad4f33b5a5510cd99d9d4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2017
+      },
+      "company": "IGPDecaux",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/igpdecaux",
+      "company_facebook_profile_url": null,
+      "title": "Senior Advertising Manager",
+      "description": null,
+      "location": "Bologna, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/4fbeb4d92b21768ca71ceb2b9f518a3f"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "company": "RCS MediaGroup",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/rcs-mediagroup",
+      "company_facebook_profile_url": null,
+      "title": "Advertising Manager",
+      "description": null,
+      "location": "Bologna, Italia",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/3ab0cb9a07ba7643ba1c692ad7b3d4b2"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "International Business and development",
+      "degree_name": "Master's degree",
+      "school": "Università degli studi di Parma",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/universit-degli-studi-di-parma",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/7443823a4a092a74a0780902d642a4f9",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Economics&Marketing",
+      "degree_name": "Bachelor's degree",
+      "school": "Alma Mater Studiorum – Università di Bologna",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/unibo",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/8ee387e55c96787e1be07cdeb51c8df9",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "Italiano"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": "PROFESSIONAL_WORKING"
+    },
+    {
+      "name": "Spanish",
+      "proficiency": "ELEMENTARY"
+    },
+    {
+      "name": "Italiano",
+      "proficiency": "NATIVE_OR_BILINGUAL"
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/giorgiaroversi",
+      "name": "Giorgia Roversi",
+      "summary": null,
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bohdanhuzenko",
+      "name": "Bohdan Huzenko",
+      "summary": "Business Developer presso WILAmed | MBA presso Bologna Business School - Università di Bologna",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mariacarmela-berterame",
+      "name": "Maria Carmela Berterame",
+      "summary": "Unibas",
+      "location": "Potenza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elviorigamonti",
+      "name": "Elvio Rigamonti",
+      "summary": "Accompagno le PMI in percorsi di trasformazione digitale | 20 anni di esperienza e 2000+ aziende affiancate | Ascolto, dati e soluzioni su misura per la crescita aziendale",
+      "location": "Como"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ivancogliati",
+      "name": "Ivan Cogliati",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silviagrego",
+      "name": "Silvia Grego",
+      "summary": "Docente e Business Coach in Comunicazione, Web & Social Media Marketing. Co-Founder of Consulenza Social Media",
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/micmichela",
+      "name": "Michela Passera",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucrezialobuono",
+      "name": "Lucrezia Lobuono",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathaneveraere",
+      "name": "Jonathan Everaere",
+      "summary": "International Business Director",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/enricobabucci",
+      "name": "Enrico Babucci",
+      "summary": "Chief Strategy Officer",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolaiannone",
+      "name": "Paola Iannone",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidepetruzzi",
+      "name": "Davide Petruzzi",
+      "summary": "AI Engineer; Founder of OrygoAI",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dariocalogero",
+      "name": "Dario Calogero",
+      "summary": "Entrepreneur, serial, investor, feminist -                               Founder & CEO at Maya Investments Limited - Co-Founder of I³/NYC - Italian Innovators Initiative",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/margheritamastrone",
+      "name": "Margherita Mastrone",
+      "summary": "CEO Temporary Box Srl",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabio-arbitrio-va-consulting-advisory-cost-control-tvc",
+      "name": "Fabio Arbitrio",
+      "summary": "Chief Business Officer | Marketing Production Advisor | Advertising Cost Controller @ VA Consulting",
+      "location": "Dubai"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luciaemiliani",
+      "name": "Lucia Emiliani",
+      "summary": "Advertising Manager & Co-Founder at Delion | Data-Driven Marketing Agency | Ogni dato ha una storia da raccontare, noi ti aiutiamo a leggerla e interpretarla.",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-berry",
+      "name": "Francesca Berry",
+      "summary": "Senior Business Development and Events Account Manager at The Introduction",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelemezzanzanica",
+      "name": "Michele Mezzanzanica",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francogilardi",
+      "name": "Franco Gilardi",
+      "summary": "Advertising Manager",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/auroradirosa",
+      "name": "Aurora Di Rosa",
+      "summary": "Business Developer presso Traction",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugeniodiquattro",
+      "name": "Eugenio Diquattro",
+      "summary": "Marketing Manager @Bosch",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samueledeluca",
+      "name": "Samuele de Luca",
+      "summary": "curious entrepreneur",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edoardo-santamato",
+      "name": "Edoardo Santamato",
+      "summary": "Executive Partner and Copy @Invasione Creativa. Ai Professional",
+      "location": "Caglio"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-mottola",
+      "name": "Martina Mottola",
+      "summary": "Head of Global Sales at Digitoo",
+      "location": "Turin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giorgiocarpita",
+      "name": "Giorgio Carpita",
+      "summary": "Freelance Designer",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paoluccidiego",
+      "name": "Diego Paolucci",
+      "summary": "Consultant in finance | helping corporates in investment analysis and credit management | interested in fintech",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ines-di-franco",
+      "name": "Ines Di Franco",
+      "summary": "Founder & Ceo VENTUNO ITALY ➡️   Experience box | Visore VR| Ingredienti certificati | Italianità autentica 👉 Vivi un viaggio multisensoriale tra sapori, tradizioni e tecnologia.",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gerardobrillante",
+      "name": "Gerardo Brillante",
+      "summary": null,
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eugenia-formoso-p%25C3%25A9rez-1188b1115",
+      "name": "Eugenia Formoso Pérez",
+      "summary": "CEO & FOUNDER OTS MEDIA INTERNATIONAL",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danieleciancuto",
+      "name": "Daniele Ciancuto",
+      "summary": "Co Founder at Lucky ADV srl",
+      "location": "Rome"
+    },
+    {
+      "link": "https://www.linkedin.com/in/samanthatiano",
+      "name": "Samantha Tiano",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvio-gentile",
+      "name": "Silvio Gentile",
+      "summary": "Sales & Business Development Manager",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/valentin-prieto-l",
+      "name": "Valentin Prieto",
+      "summary": "International Sales | Business Director EMEA",
+      "location": "Madrid"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiocastaldo1",
+      "name": "Fabio Castaldo",
+      "summary": "Aiuto le aziende a migliorare la Brand Communication per ampliare la propria customer base.\nIl mio motto è \"Ogni Brand ha potenzialità da vendere\"",
+      "location": "Naples"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lorenzo-conti-1110549",
+      "name": "Lorenzo Conti",
+      "summary": "Marketing & media expert for fashion and luxury brands",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/marco-portinaro-44b2b411",
+      "name": "Marco Portinaro",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesco-martusciello-77461718",
+      "name": "francesco martusciello",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesco-delle-side-ab129619",
+      "name": "Francesco Delle Side",
+      "summary": "Co Founder presso Handmedia",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicola-bortolini-5580b61b",
+      "name": "Nicola Bortolini",
+      "summary": "Business developer manager",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/corrado-de-luca-29077824",
+      "name": "Corrado de Luca",
+      "summary": "Aiuto le aziende a comunicare per raggiungere i loro obiettivi di business",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paola-greco-4a837827",
+      "name": "Paola Greco",
+      "summary": "Copywriter and Press Officer",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elena-consonni-formalimenti",
+      "name": "elena consonni",
+      "summary": "Founder and Owner presso Formalimenti",
+      "location": "Verano Brianza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/paolo-guardamagna",
+      "name": "Paolo Guardamagna",
+      "summary": "Co-Founder | Energy & Sustainability Advisor",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-martino-33939630",
+      "name": "alessandra martino",
+      "summary": "Co founder QuattordiciA Comunicazione srl - INSOLITA COMUNE - QAPharma",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandra-persico-a2b8363b",
+      "name": "Alessandra Persico",
+      "summary": "CEO and Co-founder at Absolute Media",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damiano-garoffolo-8611a350",
+      "name": "Damiano Garoffolo",
+      "summary": "Co Founder presso TooBig S.r.l",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-romao-07bb6152",
+      "name": "Hannah Romao",
+      "summary": "Directrice Générale – The Lyfe Influence | Influence, Talents & Événements",
+      "location": "Paris"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anna-paterlini-27397556",
+      "name": "Anna Paterlini",
+      "summary": null,
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/francesca-palmi-9a085057",
+      "name": "Francesca Palmi",
+      "summary": "Co-founder presso PICOandCo",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatrice-di-cocco-b8744a70",
+      "name": "Beatrice Di Cocco",
+      "summary": "Ingegnere edile",
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danilo-calcagno-907a4879",
+      "name": "Danilo Calcagno",
+      "summary": "FMCG |🍎 MSc Food Marketing e Strategie Commerciali, Università Cattolica del Sacro Cuore",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christian-monti-517a029a",
+      "name": "Christian Monti",
+      "summary": null,
+      "location": "Genoa"
+    },
+    {
+      "link": "https://www.linkedin.com/in/giorgia-cherchi-a88097a8",
+      "name": "Giorgia Cherchi",
+      "summary": "Senior International Account Manager | Billups EMEA",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gianluca-ideo-242030b7",
+      "name": "Gianluca Ideo",
+      "summary": "Co-founder presso WNDR | Marketing, comunicazione & eventi",
+      "location": "Bergamo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonella-negroni-880453108",
+      "name": "Antonella Negroni",
+      "summary": "Amministratore  presso Bimbo calzature",
+      "location": "Pianoro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-norman-a4a45810a",
+      "name": "Thomas Norman",
+      "summary": "Account Director @ Ocean Outdoor",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/antonio-matera-a5007111a",
+      "name": "Antonio Matera",
+      "summary": "Founder JOVER/Start upper/Finance Professional / MBA",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/isabel-hortelano-pe%25C3%25B1a-926470169",
+      "name": "Isabel Hortelano Peña",
+      "summary": "Marketing & Comms Manager | SaaS | Cloud Native | Fintech | Banking | B2B",
+      "location": "Amsterdam"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luca-polazzi-b18231171",
+      "name": "Luca Polazzi",
+      "summary": null,
+      "location": "Bologna"
+    },
+    {
+      "link": "https://www.linkedin.com/in/biancaarrighini",
+      "name": "Bianca Arrighini",
+      "summary": "Factanza Media & Factanza Academy, CEO & Co-Founder | Forbes Under 30 | LinkedIn Top Voice",
+      "location": "Milan"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-kurchenko-485ab81b4",
+      "name": "Lisa Kurchenko",
+      "summary": "Lead Generation Manager at InsightWhale",
+      "location": "Donetsk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/martina-sgarzi-9628591ba",
+      "name": "martina sgarzi",
+      "summary": "Event Coordinator presso Car&Drive, specializzata in logistica eventi e gestione operativa",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/robin-stabenow",
+      "name": "Robin Stabenow",
+      "summary": "Das Buch: Reich trotz Chef:…•18K followers",
+      "location": "Berlin"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Domani è Black Friday. E se guardo le mie inbox — newsletter, notifiche, SMS, ADV di ogni tipo — mi sembra di essere tornata agli anni in cui bastava…",
+      "link": "https://it.linkedin.com/posts/danidani_blackfriday-marketingstrategy-fashionbusiness-activity-7399752227017441281-JisY",
+      "activity_status": null
+    },
+    {
+      "title": "I’m incredibly proud to share the launch of the Napapijri Fall/Winter 25–26 integrated campaign featuring the legend Alberto Tomba, ideated and…",
+      "link": "https://www.linkedin.com/posts/germano-invernizzi-1aa19261_im-incredibly-proud-to-share-the-launch-activity-7399081449674391552-aYtB",
+      "activity_status": null
+    },
+    {
+      "title": "🎧 E se l’OOH iniziasse davvero a farsi sentire? L’altro giorno ero in un centro commerciale. Partono le grafiche natalizie sui led e, nello stesso…",
+      "link": "https://it.linkedin.com/posts/elisa-zuccaroli-4372a81a9_e-se-looh-iniziasse-davvero-a-farsi-sentire-activity-7399392918320361472-2smC",
+      "activity_status": null
+    },
+    {
+      "title": "In queste ultime settimane sono stato particolarmente impegnato con il fundraising di una delle startup di Peekaboo  (che non vediamo l’ora di…",
+      "link": "https://it.linkedin.com/posts/federico-belli-32b078b2_in-queste-ultime-settimane-sono-stato-particolarmente-activity-7399149983272394752-8bAJ",
+      "activity_status": null
+    },
+    {
+      "title": "I'm Excited to officially launch DOOHable Ltd which is my independent OOH Consultancy. After several years developing and scaling one of the UK’s…",
+      "link": "https://www.linkedin.com/posts/masslambresa_doohable-ooh-dooh-activity-7399018011518464000-ApmG",
+      "activity_status": null
+    },
+    {
+      "title": "\"You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.\" – Walt Disney This…",
+      "link": "https://www.linkedin.com/posts/viviana-pennisi-9ba9b12b6_you-can-design-and-create-and-build-the-activity-7390072563537788928-pRcK",
+      "activity_status": null
+    },
+    {
+      "title": "📱📊 WHEN DOOH DRIVES ACTION: PROOF IN THE AUDIENCE In today’s outdoor communication landscape, #DOOH is no longer just about visibility: it’s a…",
+      "link": "https://www.linkedin.com/posts/outsightworldwide_dooh-reach-brainresponse-activity-7389602011488387073-PnAE",
+      "activity_status": null
+    },
+    {
+      "title": "🎥 Así se construye el impacto, paso a paso. En Expertia Media seguimos apostando por formatos que marcan la diferencia. Hoy compartimos el…",
+      "link": "https://es.linkedin.com/posts/expertia-media_expertiamedia-lenovo-publicidadexterior-activity-7396813180846542848-2XO3",
+      "activity_status": null
+    },
+    {
+      "title": "🚀 Fastweb + Vodafone annuncia di aver concluso la gara per la scelta del centro media che si occuperà di strategia, pianificazione e acquisto degli…",
+      "link": "https://it.linkedin.com/posts/engage_magazine_carat-mediastrategy-mediaplanning-activity-7396522052981129216-TTbn",
+      "activity_status": null
+    },
+    {
+      "title": "TipRanks Global Head of Enterprise Solutions, Joe Craven, will be moderating a powerhouse panel at the Finance Magnates event in London, November…",
+      "link": "https://www.linkedin.com/posts/tipranks_money-bestadvice-ai-activity-7396949319548944385-6DOw",
+      "activity_status": null
+    },
+    {
+      "title": "È nata BBVA in Italia , la nuova pagina di BBVA dedicata al nostro Paese. Seguitela per rimanere sempre aggiornati sulle novità del Banco e della…",
+      "link": "https://it.linkedin.com/posts/walter-rizzi-mck_è-nata-bbva-in-italia-la-nuova-pagina-di-activity-7396891267139375104-InoN",
+      "activity_status": null
+    },
+    {
+      "title": "Onorata di aver lavorato a questo progetto con un brand unico come Amaro Lucano 🥃✨ L'OOH che diventa esperienza condivisa e crea connessioni tra il…",
+      "link": "https://it.linkedin.com/posts/martacolzani_wppmediaentertainment-activity-7396816726706794496-GNou",
+      "activity_status": null
+    },
+    {
+      "title": "Un'occasione per raccontare un pò di DOOH e Out, condividendo spunti e soluzioni che portiamo in Outsight.. Grazie IAB Italia !",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_unoccasione-per-raccontare-un-pò-di-dooh-activity-7396608891540725761-1esB",
+      "activity_status": null
+    },
+    {
+      "title": "See you on November 25th at Digital Talks!",
+      "link": "https://www.linkedin.com/posts/outsightworldwide_see-you-on-november-25th-at-digital-talks-activity-7396524086157299712-7jPA",
+      "activity_status": null
+    },
+    {
+      "title": "Grazie IAB Italia per questa bellissima opportunità!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_grazie-iab-italia-per-questa-bellissima-activity-7396608482017357825-Kjtx",
+      "activity_status": null
+    },
+    {
+      "title": "​Ieri a #Milano per l’evento di Forbes Italia al Cupra Garage, a rappresentare JE Italy - Junior Enterprises Italy. ​Abbiamo parlato di innovazione,…",
+      "link": "https://it.linkedin.com/posts/edoardo-maria-caselli-a33a5436b_milano-forbesitalia-innovazione-activity-7424764673293582336-R1n7",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 30 Years of Creativity: The Pikasso d'Or Historic Milestone Yesterday was a night to remember for the advertising industry in the #MENA region! We…",
+      "link": "https://www.linkedin.com/posts/pikasso_mena-beirut-ooh-activity-7417875783525974016-wTC_",
+      "activity_status": null
+    },
+    {
+      "title": "You wanna get nuts? Let’s get nuts!. This Wonderful Pistachios Don’t Hold Back Snack Times Square takeover works so well because it’s simple. Pure…",
+      "link": "https://www.linkedin.com/posts/damian-rezner-36309656_you-wanna-get-nuts-lets-get-nuts-this-activity-7424686272138612736-ciDY",
+      "activity_status": null
+    },
+    {
+      "title": "𝗦𝗮𝘆 𝗵𝗲𝗹𝗹𝗼 𝘁𝗼 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝗠𝗖𝗣 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗹𝘂𝘅𝘂𝗿𝘆 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆. 1.4 billion data points. 185+…",
+      "link": "https://www.linkedin.com/posts/digital-luxury-group-dlg-_luxuryiq-mcp-by-dlg-activity-7424748065867247616-jATx",
+      "activity_status": null
+    },
+    {
+      "title": "5 days to go! ❄️⛷️ The countdown is on. As the official Out of Home partners of the Australian Olympic & Paralympic Teams, we’re ready for the…",
+      "link": "https://www.linkedin.com/posts/qms-media_forzateamaus-reachnewheights-qms-activity-7423950516079976448-QDXC",
+      "activity_status": null
+    },
+    {
+      "title": "🔗‼️ANNUNCIO NUOVA PARTNERSHIP: JEBV X JEBO In JEBO, la #cooperazione e la creazione di #sinergie sono le fondamenta necessarie a ogni percorso di…",
+      "link": "https://it.linkedin.com/posts/jebobologna_cooperazione-sinergie-sviluppo-activity-7424376161268338689-wXmg",
+      "activity_status": null
+    },
+    {
+      "title": "🌏 UNLOCKING PROGRAMMATIC DOOH INTO CHINA Moving Walls is unlocking programmatic DOOH access into China — making one of the world’s most complex OOH…",
+      "link": "https://www.linkedin.com/posts/manson-c-4379b088_movingwalls-programmaticooh-dooh-activity-7422490066817634304-FmS9",
+      "activity_status": null
+    },
+    {
+      "title": "🔗‼️ANNUNCIO NUOVA PARTNERSHIP: JER-3 X JEBO In JEBO crediamo che la #collaborazione e l’unione di #competenze siano risorsa di #crescita e…",
+      "link": "https://it.linkedin.com/posts/jebobologna_collaborazione-competenze-crescita-activity-7421916253075906560-AiUv",
+      "activity_status": null
+    },
+    {
+      "title": "JE Italy partecipa per la prima volta come membro permanente all'Assemblea Generale del Consiglio Nazionale dei Giovani (CNG). Questo nuovo status…",
+      "link": "https://it.linkedin.com/posts/je-italy_jeitaly-juniorenterprises-cng-activity-7421854182372159488-6LKS",
+      "activity_status": null
+    },
+    {
+      "title": "Liu Jo lands in Copenhagen for CIFF · Copenhagen International Fashion Fair Our denim, a key item of the brand, takes center stage within a…",
+      "link": "https://www.linkedin.com/posts/liu-jo_liujo-ciff-activity-7421882442354950144-a5yP",
+      "activity_status": null
+    },
+    {
+      "title": "Our recent New York OOH campaign with La'dor and BTS V highlights a broader shift. K-pop collaborations are no longer just brand awareness plays…",
+      "link": "https://www.linkedin.com/posts/anna-yoon-2142a4298_ooh-kpopmarketing-kbeauty-activity-7421800112382967808-1Azh",
+      "activity_status": null
+    },
+    {
+      "title": "WHEN YOU NEED THE IMPOSSIBLE DONE, 3ROCK GLOBAL DELIVERS. When other partners said the timeline was impossible, Coca-Cola's Middle East team pushed…",
+      "link": "https://www.linkedin.com/posts/ian-brookes_cocacola-essencemediacom-3d-activity-7421471403473801216-uUmp",
+      "activity_status": null
+    },
+    {
+      "title": "🎭 Carnaval de Tenerife, un momento clave para estar presentes ✈️ En un periodo tan especial para la isla, activamos junto a Iberia Express una…",
+      "link": "https://www.linkedin.com/posts/expertia-media_carnavaldetenerife-ooh-brandactivation-activity-7421474366120480768-PNUQ",
+      "activity_status": null
+    },
+    {
+      "title": "Folli ottimisti. Due parole per descrivere un’azienda che in due anni di vita ha raggiunto 120 milioni di fatturato e superato i 3.000 dipendenti Ne…",
+      "link": "https://it.linkedin.com/posts/husneinnasir_folli-ottimisti-due-parole-per-descrivere-activity-7411791804192256000-IPvO",
+      "activity_status": null
+    },
+    {
+      "title": "In questi giorni sono presente al World Economic Forum di #Davos2026. Ringrazio il prestigioso Financial Times per l’invito al Pavillon Invest Qatar…",
+      "link": "https://it.linkedin.com/posts/luca-perisse-606607339_davos2026-activity-7419777880244629505-PSla",
+      "activity_status": null
+    },
+    {
+      "title": "TikTok et Displayce s’associent pour étendre les campagnes mobiles aux écrans Digital Out-of-Home en Europe. Une alliance qui illustre le…",
+      "link": "https://fr.linkedin.com/posts/themedialeaderbe_displayce-accompagne-tiktok-sur-sa-solution-activity-7419301475140509697-GJ0j",
+      "activity_status": null
+    },
+    {
+      "title": "I’ve shared quite a bit about OOH recently, and how impactful it can be when it’s done right. Our first custome build is now live in Chicago, and…",
+      "link": "https://www.linkedin.com/posts/jadabalster_ive-shared-quite-a-bit-about-ooh-recently-activity-7417843569635397632-o3fy",
+      "activity_status": null
+    },
+    {
+      "title": "fashion truly coming to life!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_fashion-truly-coming-to-life-activity-7458562481565650945-TkfI",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing Dragana Cetojevic !",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_amazing-dragana-cetojevic-activity-7452744859041382400-oiDu",
+      "activity_status": null
+    },
+    {
+      "title": "A smarter DOOH perspective!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_a-smarter-dooh-perspective-activity-7452761984191590416-nvR3",
+      "activity_status": null
+    },
+    {
+      "title": "Great news Daniel Wallis!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_great-news-daniel-wallis-activity-7448365228142280704-HoYX",
+      "activity_status": null
+    },
+    {
+      "title": "Wonderful...And inspiring thanks again to our precious guests and friends!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_wonderfuland-inspiring-thanks-again-to-activity-7442647619321061376-wvle",
+      "activity_status": null
+    },
+    {
+      "title": "#OOH & #DOOH...at a glance!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_ooh-dooh-activity-7442647417767755777-EXkQ",
+      "activity_status": null
+    },
+    {
+      "title": "Beyond simply activating urban locations, #DOOH helps create a seamless omnichannel journeys; find how: get in touch with us!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_dooh-activity-7434603267260833793-jfNt",
+      "activity_status": null
+    },
+    {
+      "title": "Grazie JE Italy! Solo l'inizio di un bel viaggio, insieme",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_grazie-je-italy-solo-linizio-di-un-bel-activity-7430541163335622656-WnD5",
+      "activity_status": null
+    },
+    {
+      "title": "no competition!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_no-competition-activity-7401603884873318400-UUCh",
+      "activity_status": null
+    },
+    {
+      "title": "Sharing a precious project for Liu Jo in Paris… was priceless! Outsight on the stage.",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_sharing-a-precious-project-for-liu-jo-in-activity-7379881276360712192-B0Q3",
+      "activity_status": null
+    },
+    {
+      "title": "DOOH advertising is becoming an increasingly strategic channel, combining the power of branding with the unique ability to reach targeted audiences…",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_dooh-advertising-is-becoming-an-increasingly-activity-7374477995954061312-ac6Y",
+      "activity_status": null
+    },
+    {
+      "title": "Amazing to be here !",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_amazing-to-be-here-activity-7379509294565593088-G0Ln",
+      "activity_status": null
+    },
+    {
+      "title": "OOH becomes magic when the city coverage is in Paris!",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_ooh-becomes-magic-when-the-city-coverage-activity-7379462082443853824-Gygl",
+      "activity_status": null
+    },
+    {
+      "title": "Libro fantastico Massimo Casadei persona unica e professionista del marketing visionario",
+      "link": "https://www.linkedin.com/posts/massimiliano-del-grosso-13110a92_libro-fantastico-massimo-casadei-persona-activity-7184578989070446592-89nh",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Massimiliano Del Grosso",
+      "link": "https://it.linkedin.com/in/massimiliano-del-grosso-241a60197",
+      "summary": "laurea magistrale in filosofia presso Università degli Studi di Napoli Federico II",
+      "location": "Benevento"
+    },
+    {
+      "name": "massimiliano del grosso",
+      "link": "https://it.linkedin.com/in/massimiliano-del-grosso-a09ba6173",
+      "summary": "Impiegato presso ept",
+      "location": "Avellino"
+    },
+    {
+      "name": "massimiliano del grosso",
+      "link": "https://it.linkedin.com/in/massimiliano-del-grosso-64616b1b",
+      "summary": "E' TV at E' TV Rete 7",
+      "location": "Bologna"
+    },
+    {
+      "name": "Massimiliano del Grosso",
+      "link": "https://it.linkedin.com/in/massimiliano-del-grosso-81676521",
+      "summary": "Sales Manager presso Igp Decaux",
+      "location": "Bologna"
+    },
+    {
+      "name": "Massimiliano Del Grosso",
+      "link": "https://it.linkedin.com/in/massimiliano-del-grosso-148218190",
+      "summary": "Guardia giurata presso Sicuritalia S.p.A.",
+      "location": "Greater Bologna Metropolitan Area"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-14T00:00:00Z"
+  }
+}

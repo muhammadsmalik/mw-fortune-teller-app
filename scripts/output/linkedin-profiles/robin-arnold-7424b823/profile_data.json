@@ -1,0 +1,934 @@
+{
+  "public_identifier": "robin-arnold-7424b823",
+  "profile_pic_url": null,
+  "background_cover_image_url": null,
+  "first_name": "Robin",
+  "last_name": "Arnold",
+  "full_name": "Robin Arnold",
+  "follower_count": 1096,
+  "occupation": "Chief Technology Officer at Lumo Digital Outdoor",
+  "headline": "Lumo Digital Outdoor•1K followers",
+  "summary": "I am CTO of a pioneering smart digital billboard company that fills a unique position in…",
+  "location_str": "Auckland, Auckland, New Zealand",
+  "country": "NZ",
+  "country_full_name": "New Zealand",
+  "city": "Auckland",
+  "state": "Auckland",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": null,
+      "company": "Lumo Digital Outdoor",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lumodigital",
+      "company_facebook_profile_url": null,
+      "title": "Chief Technology Officer",
+      "description": "LUMO Digital Outdoor is a premium pure-play digital outdoor media business established to disrupt the existing model and help inspire greater creativity in the digital outdoor space. - Strategically drive the technical side of Lumo Digital - Discover and implement new technology onto the Lumo screen network - Design and implement Static and dynamic campaign management - Ayuda development and deployment - DOOH campaign development including API and bespoke integration - Software development - Client account management - Project management of new and exisiting screen builds - Research and development - Client and internal training - Project scoping and IT system documentation - New business development - Design and implementation of Live events and PR stunts Show less",
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/fbb8168050a3f82f26a6af6236a7ae3d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "LENS Analytics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lensoutdoor",
+      "company_facebook_profile_url": null,
+      "title": "Chief Technical Officer & Co-founder",
+      "description": "Digital Out-Of-Home has taken its first step into real-time audience accountability via LENS, a purpose-built measurement tool designed specifically for road-side Digital OOH networks. Using multiple high-resolution cameras and specialised number plate recognition software, LENS delivers truthful insights of audiences as they travel past digital billboards every day. The key advantage of LENS is that it uses millions of data-points taken from site-based cameras to form the audience insights without any modelling, trickery or confusion. It is simply reporting what the cameras see 24/7 and live-streams the data to LENS’ central hub for interrogation. LENS can provide cumulative & unique reach, visitor frequency, site-based *demographics and *motor vehicle information including type, make, model and age. Show less",
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/e8bdc07059b45d1ade44ca34b237e8c5"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Latch",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/latch-digital-nz",
+      "company_facebook_profile_url": null,
+      "title": "Director",
+      "description": "Latch is an independent agency that specialises in custom OOH software solutions and DOOH DCO creative",
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/c40f3fe70947bc6211ac1736dff238db"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2018
+      },
+      "company": "VXL Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vxl-instruments",
+      "company_facebook_profile_url": null,
+      "title": "European Software Sales Manager",
+      "description": "VXL Software is a world leader in software for digital signage, mobile device management, enterprise device management, PC repurposing and thin-client migration. - Manage revenue, sales targets, and other KPIs for the region, work closely with VP of Sales - Hire, train and manage a growing sales team in the UK and Europe - Define key sales & marketing strategies for all regions - Create a Distributor Network across the UK and Europe - Core member in the development team for Illumineye Digital Signage suite - Assist resellers in complex digital signage system designs - Consulting to clients on digital technologies Show less",
+      "location": "Finchley, London,UK",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/808335c19db046aa63827ed21d3b5381"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2017
+      },
+      "company": "Digital Media Technologies Ltd",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/digital-media-technologies",
+      "company_facebook_profile_url": null,
+      "title": "Sales Director",
+      "description": "- Building the consultancy side of the business across the DOOH and digital signage sector, driving 33% business growth in less than 18 months. - Designing and implementing interactive digital campaigns across the UK, including: - Live screening of the Queen opening Birmingham New Street rail station. - CANNES LONNE awarding winning interactive domestic abuse campaign for Women’s Aid. - TeamGB# 2016 Olympic campaign. - ANPR digital project for Renault and BMW. - Interactive cycling safety campaign in central London for London Cycling (LLC). - Working mainly at C-Level CIO, CTO, SCO, COO as well as heads of departments, Director and senior Management - Leading a motivated sales team to deliver Quality equipment and support for the DOOH sector. - Consulting with clients on building Digital strategies. - Increasing my product knowledge on a regular basis through many sales and product courses Show less",
+      "location": "Hertfordshire, UK",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/75bd99a8672f404483a214ea1e7c4d9c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2014
+      },
+      "company": "ITAV",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/itav",
+      "company_facebook_profile_url": null,
+      "title": "Senior Corporate Business Development Manager",
+      "description": "- Leading a team of motivated sales professionals to build and expand the client base into the corporate and banking sectors. - Leading the project management team to deliver two multi-million dollar audio visual contracts within the corporate banking and finance sector: Westpac Banking ($1.2m), ASB Bank ($2.6m). - Building and implementing strategic plans to expand the use of audio visual technology in client organisations. - Testing and implementing a new CRM system and ordering system across the company. - Winning and project managing the Best Bars Ltd new audio visual fit out. - Achieving all sales targets set for the year by 110%. Show less",
+      "location": "Auckland, New Zealand",
+      "logo_url": "https://assets.enrichlayer.com/pp/hero-img/d4223fcdef3dfca60a57fe0f33857e0b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2012
+      },
+      "company": "Satellite Media",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/satellitenz",
+      "company_facebook_profile_url": null,
+      "title": "Head of Digital Media",
+      "description": "- Building and leading the new digital media side of the business, achieving an annual turnover of over $1million within 12 months. - Delivering benchmark digital campaigns and projects for some of New Zealand’s major brands including Digital Signage for Vodafone Stores ($165k), digital campaign for PowerAde ($25k) and a full AV fit out of all Toni and Guy hair salons in New Zealand. - Creating new AV and digital media business from within the existing client base, and building a new AV client base for the business. - Delivering AV and digital signage (Scala) systems for a range of organisations across New Zealand. Show less",
+      "location": "Ponsonby Road, Ponsonby, Auckland",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/83538b803b46aae0bbd72b51312f40a8"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2011
+      },
+      "company": "Provision Technologies",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/provision-technologies",
+      "company_facebook_profile_url": null,
+      "title": "Project and Account Manager",
+      "description": "- Top sales earner for four consecutive years; selling and deploying both large and small audio visual fit-outs for a wide range of corporate clients across New Zealand, including a $340k project for Ernst and Young’s New Zealand Head Office. - Managing Engineers, technicians and building contractors to run and complete large audio visual projects including a $500k project at the Air New Zealand Head office. - Implementing strategic plans for future-proofing the audio visual equipment sold to our large major corporate clients. - Working Nationally and International. - Successfully winning and implementing New Zealand’s largest ever AV tender for the Auckland University Business School, a $4.2M project completed on time and under budget. Show less",
+      "location": "Auckland, New Zealand",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2002
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2006
+      },
+      "company": "Jigsaw Innovations",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Project Manager",
+      "description": "- Managing the end to end content design, build, installations, training and the ongoing client relationships for a range of large/medium size business. - Part of the development team for Inspired signage product. - Designing and deploying Inspired signage digital signage solutions across the UK.",
+      "location": "Hoddesdon, UK",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1997
+      },
+      "field_of_study": "Art and Design",
+      "degree_name": "GNVQ",
+      "school": "Hertford Regional College",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": "Art and design GNVQ",
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1993
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 1996
+      },
+      "field_of_study": "All fields",
+      "degree_name": "GCSE",
+      "school": "Simon Balle school, Hertford, UK",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": "Activities and Societies: Athletics, football, photography"
+    }
+  ],
+  "languages": [
+    "English"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "English",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "The Guardian - Facial recognition Case Study",
+      "publisher": "The Guardian",
+      "published_on": {
+        "day": 13,
+        "month": 8,
+        "year": 2016
+      },
+      "description": "Full write up and case study on how facial recognition is being used in the advertising sector.",
+      "url": "https://www.theguardian.com/media-network/2016/aug/17/facial-recognition-a-powerful-ad-tool-or-privacy-nightmare"
+    },
+    {
+      "name": "Axis Communication Case Study - Intelligent Marketing",
+      "publisher": "Axis Communication",
+      "published_on": {
+        "day": 1,
+        "month": 7,
+        "year": 2016
+      },
+      "description": "Digital Media Technologies pioneersintelligent marketing with Axis cameras. Outdoor media specialists utilise cameras to develop award-winning advertising projects that capture public interest and deliver uplift in sales",
+      "url": "http://www.axis.com/gb/en/customer-story/4427"
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 1045,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ianoswald",
+      "name": "Ian Oswald",
+      "summary": "Chief Technical Officer at Region Media Group",
+      "location": "Canberra"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshuajparks",
+      "name": "Joshua P.",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-white-nz",
+      "name": "Nick White",
+      "summary": "Director of Business at AV Technix",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/madewithrespect",
+      "name": "Susan Stevens",
+      "summary": "Sales Lead New Zealand, ARKANCE ANZ",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/carlomundsen",
+      "name": "Carl Omundsen",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johngerrington",
+      "name": "John Errington",
+      "summary": "Retired",
+      "location": "Blenheim"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hamishsmith88",
+      "name": "Hamish Smith",
+      "summary": "Founder @ PrettyGood | Building brands for good 🌱",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nathanialfairweather",
+      "name": "Nathanial Fairweather",
+      "summary": "Managing Director at Triode Group Limited | Strategic Business Leader with Operations Expertise",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pomattwatkins",
+      "name": "Matt Watkins",
+      "summary": "Changing the way things are made",
+      "location": "Tauranga"
+    },
+    {
+      "link": "https://www.linkedin.com/in/natasha-jansen-she-her-0b408138",
+      "name": "Natasha Jansen she/her",
+      "summary": "Transformation, Conduct and Compliance specialist. Passionate about people, their well-being, leadership and making a difference.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/toddgisby",
+      "name": "Todd Gisby",
+      "summary": "Co-founder and Chief Systems Architect at StretchSense",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandy-dhiman-41b63860",
+      "name": "Mandy Dhiman",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/osmonnburgos",
+      "name": "Osmonn Burgos",
+      "summary": "Chief Technology Officer at Electronic Partners Ltd",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/edward-ko-itil-v4-33ba48106",
+      "name": "Edward Ko, ITIL V4",
+      "summary": "Data Management",
+      "location": "Toronto"
+    },
+    {
+      "link": "https://www.linkedin.com/in/farfields",
+      "name": "John McDermott",
+      "summary": "IoT Specialist and Business Manager, Founder at Farfields IoT",
+      "location": "Telford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stephenmann",
+      "name": "Stephen Mann",
+      "summary": null,
+      "location": "Christchurch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-dunn-8b27676",
+      "name": "Jack Dunn",
+      "summary": null,
+      "location": "Poway"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mark-sole-b33ba46",
+      "name": "Mark Sole",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bob-lanaux-2610987",
+      "name": "Bob Lanaux",
+      "summary": null,
+      "location": "New Orleans"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nigel-perks-2438b912",
+      "name": "Nigel Perks",
+      "summary": "Owner, NPD",
+      "location": "Nelson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/therese-mcnaughten-4820b213",
+      "name": "Therese McNaughten",
+      "summary": "Ferret Tools Co-Founder & VP Head of Global Marketing and Brand Strategy",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerry-clarke-70945416",
+      "name": "Kerry Clarke",
+      "summary": "Head of Warranty   AIG New Zealand",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lisa-wamego-05930717",
+      "name": "Lisa Wamego",
+      "summary": "Road & Bridge Director Prairie Band Potawatomi Nation",
+      "location": "Topeka"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tony-wickstead-b2066717",
+      "name": "Tony Wickstead",
+      "summary": "CIO at Auckland International Airport Limited",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/phil-clemas-21b36a18",
+      "name": "Phil Clemas",
+      "summary": "Business Leader & Digital Outdoor specialist",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mike-nesbitt-54837319",
+      "name": "Mike Nesbitt",
+      "summary": "Account manager at AVC-Group - Broadcast, Audio and Video specialist.",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markus-blum-1999001a",
+      "name": "Markus Blum",
+      "summary": "Principal / Director NZ Sotheby's International Realty Auckland South and East",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avril-clayson-8b494020",
+      "name": "Avril Clayson",
+      "summary": "MCR & Distribution Engineer at Viacom International Media Networks",
+      "location": "London"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stacey-gattsche-155a9620",
+      "name": "Stacey Gattsche",
+      "summary": "GM of Sales at LUMO Digital Outdoor",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-clegg-97715725",
+      "name": "Michael Clegg",
+      "summary": "Regional Branch Sales Manager at VEGA GLOBAL",
+      "location": "Christchurch"
+    },
+    {
+      "link": "https://www.linkedin.com/in/brendan-norris-b602aa26",
+      "name": "Brendan Norris",
+      "summary": "VP / GM of Georgia Logos, LLC (Lamar Advertising)",
+      "location": "Atlanta metropolitan area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gavin-cammell-a924a827",
+      "name": "Gavin Cammell",
+      "summary": "Product Design Lead at Mooven.",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-macleod-5692a030",
+      "name": "Thomas Macleod",
+      "summary": "All things Audio Visual inc LED & DooH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jack-plowright-75419332",
+      "name": "Jack Plowright",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-dey-027a8033",
+      "name": "Sam Dey",
+      "summary": null,
+      "location": "Hamilton"
+    },
+    {
+      "link": "https://www.linkedin.com/in/zelda-senekal-57a5a934",
+      "name": "Zelda Senekal",
+      "summary": "General Manager at Unified Brands",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nick-hill-5739a940",
+      "name": "Nick Hill",
+      "summary": "Co-Founder at PUREBLACK",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohamed-bashir-a0986a48",
+      "name": "Mohamed Bashir",
+      "summary": "Director at Balance Kitchen/ Managing Director of Unichem Albany Village Pharmacy",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chris-andrews-6a915a57",
+      "name": "chris andrews",
+      "summary": "MD",
+      "location": "New York"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristie-grimster-07487263",
+      "name": "Kristie Grimster",
+      "summary": "UK Account Manager at Zetes",
+      "location": "Slough"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-slater-75904565",
+      "name": "Matt Slater",
+      "summary": "Electrical & Technology Specialist",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthew-behrent-855b3588",
+      "name": "Matthew Behrent",
+      "summary": "Director - Global Signage Concepts",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kerry-radmall-b0690389",
+      "name": "Kerry Radmall",
+      "summary": "Business Owner at Regal Pets",
+      "location": "Wellington"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tejas-r-nirmal",
+      "name": "Tejas Nirmal",
+      "summary": "Experienced Project Manager in ERP Deliveries with Microsoft D365 | 8+ Years in Leading Agile & Scrum Implementations | Driving Efficiency & Delivery Excellence",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/norman-sumpter-66790491",
+      "name": "Norman Sumpter",
+      "summary": "Retired from MetLife",
+      "location": "Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michele-borja-81865596",
+      "name": "Michele Borja",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scott-wilson-6136189a",
+      "name": "Scott Wilson",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/matt-haines-4701a6a6",
+      "name": "Matt Haines",
+      "summary": "Managing Director at Mediapro",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/stevan-kniest-senger-7ab86bb1",
+      "name": "Stevan Kniest Senger",
+      "summary": "Software Developer",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jamie-snow-283653b4",
+      "name": "Jamie Snow",
+      "summary": "OOH & Digital Production Specialist",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fred-depaulis-350714b7",
+      "name": "fred DePaulis",
+      "summary": "Accounting manager at MGM Resorts International",
+      "location": "Henderson"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ali-haider-bb4b5311a",
+      "name": "Ali Haider",
+      "summary": null,
+      "location": "Lahore District"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joshua-mcwilliams-b5197b122",
+      "name": "Joshua McWilliams",
+      "summary": "Head of Direct Sales at Lumo Digital Outdoor",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michael-barletta-4988b6123",
+      "name": "Michael Barletta",
+      "summary": null,
+      "location": "Las Vegas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lynette-wakerley-066660140",
+      "name": "Lynette Wakerley",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrew-tangata-toa-b23121146",
+      "name": "Andrew Tangata'Toa",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mandi-smith-9aab3914a",
+      "name": "Mandi Smith",
+      "summary": "Assistant General Manager @ Lamar Advertising Company | Business Administration, Marketing",
+      "location": "Cumming"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danielle-le-gallais-36985715a",
+      "name": "Danielle Le Gallais",
+      "summary": null,
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eloise-carr-27401117b",
+      "name": "Eloise Carr",
+      "summary": "Head of Software at Latch digital",
+      "location": "Auckland"
+    },
+    {
+      "link": "https://www.linkedin.com/in/darryl-antwine-922367201",
+      "name": "Darryl Antwine",
+      "summary": "Senior Software Engineer at Contra Costa County",
+      "location": "Vicksburg"
+    }
+  ],
+  "recommendations": [
+    "Murray Wilkinson\n\nHaving worked with robin for over a year I can give him a solid recommendation. He managed several of my bigger projects and they went of without a hitch. Great to work with, and always a laugh, I miss working with him and look forward to future opportunities!!",
+    "Nicki Carter\n\nI worked with Robin for a number of years at ProVision. He was great to work with, very customer focused with good work ethics.  Great at building good relationships with clients and always got the job done."
+  ],
+  "activities": [
+    {
+      "title": "From one billboard at Victoria Park to over 70 locations nationwide - what an incredible journey! We’re proud to have been alongside Lumo Digital…",
+      "link": "https://www.linkedin.com/posts/westpac-new-zealand-limited_togethergreater-proudpartner-supportingkiwibusinesses-activity-7307494759785238529-8h5O",
+      "activity_status": null
+    },
+    {
+      "title": "We are thrilled to develop this award-winning Crowdometer Campaign for The Yarn Agency and their client Bargain Box! 🎉 This clever campaign uses…",
+      "link": "https://www.linkedin.com/posts/latch-digital-nz_dynamiccreative-dooh-crowdometer-activity-7289755281666805760-BHjQ",
+      "activity_status": null
+    },
+    {
+      "title": "Last Saturday marked one of the most significant and rewarding moments of my 20-year career in events. It was truly a \"pinch-me\" moment as I stepped…",
+      "link": "https://www.linkedin.com/posts/scottdrice_zmanuworldchamps-manu-majorevents-activity-7303506277073108992-jz0z",
+      "activity_status": null
+    },
+    {
+      "title": "How youdooh helps the Coastguard reach boaties in need...before they're in need. No they haven't switched back to sails. They use youdooh to access…",
+      "link": "https://www.linkedin.com/posts/youdooh_coastguard-education-case-study-emily-willis-activity-7302381841179648001-CfGP",
+      "activity_status": null
+    },
+    {
+      "title": "At our first Auckland super qualifier it was Six60's Chris Mac who the crowd convinced to do an impromptu Manu, and yesterday it was an on duty…",
+      "link": "https://www.linkedin.com/posts/scottdrice_watch-on-duty-officer-makes-a-splash-in-activity-7299598164834074624-onEH",
+      "activity_status": null
+    },
+    {
+      "title": "Great news indeed! Congratulations to the Ocean Outdoor UK team and thank you Landsec for entrusting us with Piccadilly Lights once again. Onwards…",
+      "link": "https://www.linkedin.com/posts/stephenzjoseph_great-news-indeed-congratulations-to-the-activity-7297205156570451968-qruP",
+      "activity_status": null
+    },
+    {
+      "title": "An awesome campaign perfectly delivered by the LUMO Labs team! Great work Rex Carpenter David Roper Latch",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_an-awesome-campaign-perfectly-delivered-by-activity-7294642476391272448-xisz",
+      "activity_status": null
+    },
+    {
+      "title": "💚 The Laneway PMP 💚 Sometimes, in DOOH, location and context can be your best signals to reach an audience. Yesterday, Laneway Auckland 2025…",
+      "link": "https://www.linkedin.com/posts/jack-plowright-75419332_the-laneway-pmp-sometimes-in-dooh-activity-7293406518048083969-mDXS",
+      "activity_status": null
+    },
+    {
+      "title": "I'm happy to share that I received a distinction in the Master of Advertising Effectiveness x WARC course, taught by James Hurman! This course was…",
+      "link": "https://www.linkedin.com/posts/kendallnorthcott_im-happy-to-share-that-i-received-a-distinction-activity-7291922070886662144-lYXb",
+      "activity_status": null
+    },
+    {
+      "title": "Hard evidence of the need for deep expertise and experience to get the best results in our sector….",
+      "link": "https://www.linkedin.com/posts/timbleakley_hard-evidence-of-the-need-for-deep-expertise-activity-7285921164508504065-VLmV",
+      "activity_status": null
+    },
+    {
+      "title": "Rupert Murdoch famously quipped that as long as there are lounge rooms, there’ll always be television (or words to that effect). How well this…",
+      "link": "https://www.linkedin.com/posts/benallman1_out-of-home-industry-reports-revenue-growth-activity-7288314576763265024-_ado",
+      "activity_status": null
+    },
+    {
+      "title": "Thanks Cartel for media for the Doohly shout out .A must say, it so pleasing to help a business like Doohly where every client is so positive about…",
+      "link": "https://www.linkedin.com/posts/brendon-cook_thanks-cartel-for-media-for-the-doohly-shout-activity-7284799887936798721-NDoB",
+      "activity_status": null
+    },
+    {
+      "title": "It is always great to stop, reflect, and recharge over the Christmas & New Year break. Between plenty of sunshine, days at the beach manoeuvring…",
+      "link": "https://www.linkedin.com/posts/ben-poole-11186695_perspective-ooh-is-just-finding-its-groove-activity-7282553506631139328-VpDJ",
+      "activity_status": null
+    },
+    {
+      "title": "Thank you for your incredible contributions over the years Joe Copley  – you've left an indelible mark on Seedooh and the OOH industry! Your…",
+      "link": "https://www.linkedin.com/posts/seedooh_thank-you-for-your-incredible-contributions-activity-7275339879067107329-zwPi",
+      "activity_status": null
+    },
+    {
+      "title": "🎄✨ From us to yours, we wish you all the best for Christmas and the New Year!",
+      "link": "https://www.linkedin.com/posts/lumodigital_from-us-to-yours-we-wish-you-all-the-activity-7275607354203627520-GG9G",
+      "activity_status": null
+    },
+    {
+      "title": "While some people actively enter the world of out-of-home, I fell into it ↴ I started my career at Merrill Lynch. A world of cubicles, hierarchy…",
+      "link": "https://www.linkedin.com/posts/mark-bracey_while-some-people-actively-enter-the-world-activity-7376870707789737984-QEoo",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting times at Latch, proud to be a part of the team 💥",
+      "link": "https://www.linkedin.com/posts/keelyallen0_latch-expands-leadership-team-to-power-growth-activity-7374612907621404672-FPPs",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting times ahead for LATCH https://lnkd.in/g9UQhf6E",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_latch-expands-leadership-team-to-power-growth-activity-7374595745846505472-dh5I",
+      "activity_status": null
+    },
+    {
+      "title": "Best job in the world. Happy Father’s Day to all the dads out there – a day to remind us all to be the man our kids need us to be.",
+      "link": "https://www.linkedin.com/posts/christopher-luxon-bb701b195_best-job-in-the-world-happy-fathers-day-activity-7370267307375443968-qHm_",
+      "activity_status": null
+    },
+    {
+      "title": "🏆 Three Wins at the NZ Event Association Awards! 🏆 Last night was a humbling and proud moment – we were honoured with three awards at the NZEA…",
+      "link": "https://www.linkedin.com/posts/scottdrice_three-wins-at-the-nz-event-association-activity-7368854705088684033-ye9P",
+      "activity_status": null
+    },
+    {
+      "title": "Who would have thought our brand from Bondi would be lighting up the sky in Auckland. A pinch me moment for Chief Nutrition and a testament to all…",
+      "link": "https://www.linkedin.com/posts/jack-mortlock-467998b_who-would-have-thought-our-brand-from-bondi-activity-7368878120872902656-egP9",
+      "activity_status": null
+    },
+    {
+      "title": "​A big thank you to the Outdoor Media Association and IAB Australia for hosting the Powering DOOH conference in #Sydney this week - a day filled with…",
+      "link": "https://www.linkedin.com/posts/sandra-scott-a5118a6b_sydney-programmaticdooh-dooh-activity-7367041053608058880-k18P",
+      "activity_status": null
+    },
+    {
+      "title": "Today marks my final day at Grand Visual. A fleeting 2-year stint in London 🇬🇧 gave me the incredible opportunity to help produce global OOH…",
+      "link": "https://www.linkedin.com/posts/jamie-snow-283653b4_today-marks-my-final-day-at-grand-visual-activity-7363200578417500160-bybQ",
+      "activity_status": null
+    },
+    {
+      "title": "Exciting news! We've advanced to the finals of the NZ Event Awards with our 'ManuTech' video judging software, a contender in the 'Technology…",
+      "link": "https://www.linkedin.com/posts/scottdrice_finals-innovation-techadvancement-activity-7358648411581005824--lnD",
+      "activity_status": null
+    },
+    {
+      "title": "Big news for IMANZ! We’re excited to welcome Simon Teagle as our first Chief Exec. With over 30 years in media leadership – from DDB, Saatchi &…",
+      "link": "https://www.linkedin.com/posts/independent-media-agencies-nz_imanz-independentmedia-mediaindustry-activity-7363309979392487424-vtHr",
+      "activity_status": null
+    },
+    {
+      "title": "Great to attend the Outdoor Media Association launch of the 2025 Creative Awards - proud of the bold, powerful and creative campaigns our out of home…",
+      "link": "https://www.linkedin.com/posts/noel-cook-4bb375110_great-to-attend-the-outdoor-media-association-activity-7359165090287263745-Wjx1",
+      "activity_status": null
+    },
+    {
+      "title": "You shouldn’t have to pay to use your own money. We’re banning surcharges on debit, credit and eftpos payments. This follows a recent announcement…",
+      "link": "https://www.linkedin.com/posts/christopher-luxon-bb701b195_you-shouldnt-have-to-pay-to-use-your-own-activity-7355431041534185472-Ilvh",
+      "activity_status": null
+    },
+    {
+      "title": "We are excited to welcome back Jack Markus Ewen as the new Global Sales Director at Sealegs International. Jack returns to Sealegs with a…",
+      "link": "https://www.linkedin.com/posts/sealegs-international-ltd_we-are-excited-to-welcome-back-jack-markus-activity-7351561163731619840-GgOA",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic to have Vistar Media sponsor our creative competition and promote creativity through programmatic purchasing of DOOH.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_fantastic-to-have-vistar-media-sponsor-our-activity-7457991461448478720-El8s",
+      "activity_status": null
+    },
+    {
+      "title": "Another exciting Lumo special build.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_another-exciting-lumo-special-build-activity-7441973050310410240-PbP0",
+      "activity_status": null
+    },
+    {
+      "title": "It has been a lengthy process but we have got there..... Digital Billboards. Now in Motion.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_it-has-been-a-lengthy-process-but-we-have-activity-7432524404477128704-Fz6q",
+      "activity_status": null
+    },
+    {
+      "title": "Digital Billboards. Now in Motion. https://lnkd.in/e5WhHNUX",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_lumo-secures-approval-for-subtle-motion-on-activity-7432606670708535296-6zIn",
+      "activity_status": null
+    },
+    {
+      "title": "Some fantastic Pixel submissions, it’s going to be great bringing them to life. Creativity is key.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_some-fantastic-pixel-submissions-its-going-activity-7382242276732936194-1n5N",
+      "activity_status": null
+    },
+    {
+      "title": "Fantastic work team, always leading the way in dynamic Out of Home creative executions.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_fantastic-work-team-always-leading-the-way-activity-7378229665045458946-1pTP",
+      "activity_status": null
+    },
+    {
+      "title": "A great execution using real time data. Fantastic work team. Latch Georgy Malanichev Garth Nicholls",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_a-great-execution-using-real-time-data-fantastic-activity-7343476909554507777-P29J",
+      "activity_status": null
+    },
+    {
+      "title": "Another creative global award! A fantastic execution using the LUMO network. Digital out-of-home creativity has come alive over the past six months,…",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_another-creative-global-award-a-fantastic-activity-7340654446927933446-XguJ",
+      "activity_status": null
+    },
+    {
+      "title": "Creativity is essential to making Out of Home advertising more compelling for brands. This campaign perfectly illustrates how technology and…",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_lumo-and-mbm-celebrate-world-ooh-award-win-activity-7338799990586126337-3bgc",
+      "activity_status": null
+    },
+    {
+      "title": "The journey continues….more sites coming online.",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_the-journey-continuesmore-sites-coming-activity-7246736542335975426--yb7",
+      "activity_status": null
+    },
+    {
+      "title": "The new giants….✅",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_the-new-giants-activity-7250002818168725504-97m4",
+      "activity_status": null
+    },
+    {
+      "title": "Continually growing….",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_continually-growing-activity-7234417343928446976-Jj4q",
+      "activity_status": null
+    },
+    {
+      "title": "The team have been busy developing this amazing CRM software for DOOH media owners. Setup a demo and experience all the features in the platform",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_the-team-have-been-busy-developing-this-amazing-activity-7138719333773443073-I0y_",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_lumo-digital-outdoor-celebrating-2022-activity-7011930802275979264-uxZt",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_operations-executive-lumo-digital-outdoor-activity-6916686268114358272-1b56",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_preparing-for-our-next-digital-billboard-activity-6691922291334488064-zNO2",
+      "activity_status": null
+    },
+    {
+      "title": "",
+      "link": "https://www.linkedin.com/posts/robin-arnold-7424b823_covid-19-coronavirus-billboards-across-nz-activity-6660659478763053057-1MTd",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Robin Arnold",
+      "link": "https://www.linkedin.com/in/robin-arnold-8ba10030",
+      "summary": "Retired",
+      "location": "Madison, GA"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://www.linkedin.com/in/robin-arnold-24a0b39",
+      "summary": "Partner at Blue Williams, LLC",
+      "location": "New Orleans, LA"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://uk.linkedin.com/in/designbaron",
+      "summary": "Founding partner of 22 Group, FinanceStream and PropertyStream",
+      "location": "Manchester"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://www.linkedin.com/in/bankowned",
+      "summary": "Realtor at Endless Summer Realty",
+      "location": "St Augustine, FL"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://www.linkedin.com/in/robin-arnold-0aa84b163",
+      "summary": null,
+      "location": "Sacramento, CA"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://www.linkedin.com/in/robin-arnold-5763299",
+      "summary": "Logistics Manager at Solvay Chemicals, Inc.",
+      "location": "Waller, TX"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://nz.linkedin.com/in/robin-arnold-6833385",
+      "summary": "The Virtues Project - Master Facilitator",
+      "location": "Canterbury, New Zealand"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://nz.linkedin.com/in/robin-arnold-a7133125a",
+      "summary": "--",
+      "location": "Gisborne"
+    },
+    {
+      "name": "Robin Arnold",
+      "link": "https://nz.linkedin.com/in/robin-arnold-3883a387",
+      "summary": "--",
+      "location": "New Zealand"
+    },
+    {
+      "name": "robin arnold",
+      "link": "https://nz.linkedin.com/in/robin-arnold-073b81309",
+      "summary": "--",
+      "location": "Lower Hutt"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2025-09-27T00:00:00Z"
+  }
+}

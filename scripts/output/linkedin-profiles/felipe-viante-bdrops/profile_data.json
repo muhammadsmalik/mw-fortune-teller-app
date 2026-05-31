@@ -1,0 +1,832 @@
+{
+  "public_identifier": "felipe-viante-bdrops",
+  "profile_pic_url": "https://assets.enrichlayer.com/pp/profilepic/2a1074114fe09b69e1a071b606570347",
+  "background_cover_image_url": null,
+  "first_name": "Felipe",
+  "last_name": "Viante",
+  "full_name": "Felipe Viante",
+  "follower_count": 2134,
+  "occupation": "Presidente at ABOOH - Associação Brasileira de Out of Home",
+  "headline": "Diretor e Sócio-Fundador da b.drops | \nPresidente da ABOOH | \nRepresentante no Conselho de Ética do CONAR | \nRepresentante no Conselho da WOO – World Out of Home Organization",
+  "summary": null,
+  "location_str": "São Paulo, São Paulo, Brasil",
+  "country": "BR",
+  "country_full_name": "Brazil",
+  "city": "São Paulo",
+  "state": "Sao Paulo",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "ends_at": null,
+      "company": "ABOOH - Associação Brasileira de Out of Home",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/abooh",
+      "company_facebook_profile_url": null,
+      "title": "Presidente",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/89cb24f8b5216e6e816f7e94205656cd"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "b.drops",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/b.drops",
+      "company_facebook_profile_url": null,
+      "title": "Diretor",
+      "description": "A b.drops é um canal de tv exibido em telas instaladas exclusivamente em salões de beleza. Nosso objetivo é levar conteúdo relevante e inteligente para as mulheres em um momento de descontração e bem-estar. Em pouco tempo nos tornamos líder do segmento e hoje estamos presentes nos maiores e melhores salões de beleza do Brasil.",
+      "location": "São Paulo e Região, Brasil",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2010
+      },
+      "ends_at": null,
+      "company": "Posmidia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/posmidia",
+      "company_facebook_profile_url": null,
+      "title": "owner",
+      "description": "Empresa de Mídia Digital Out of Home, produtora do canal Tendência de Mulher TV, exibido exclusivamente em salões de beleza. Presente em salões de Santa Catarina, Paraná e São Paulo, impactando mais de 3 milhões de mulheres por ano.",
+      "location": "Curitiba",
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/2f3284893ac824f46a1cce216a3ee1bc"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2009
+      },
+      "company": "Accenture",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/accenture",
+      "company_facebook_profile_url": null,
+      "title": "Analista",
+      "description": null,
+      "location": null,
+      "logo_url": "https://assets.enrichlayer.com/pp/profilepic/ba497886e02c992d8fe1a74bf0bbe675"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2015
+      },
+      "field_of_study": "Gestão de Projetos",
+      "degree_name": "MBA Gestão de Projetos",
+      "school": "Estação Business School",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Administração de Empresas",
+      "degree_name": "Bachelor of Business Administration (B.B.A.)",
+      "school": "Real Centro Univeristário Maria Cristina",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "field_of_study": "Administração de Empresas",
+      "degree_name": "Bachelor of Business Administration (B.B.A.)",
+      "school": "UniFae",
+      "school_linkedin_profile_url": null,
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "Español",
+    "Inglés",
+    "Portugués"
+  ],
+  "languages_and_proficiencies": [
+    {
+      "name": "Español",
+      "proficiency": null
+    },
+    {
+      "name": "Inglés",
+      "proficiency": null
+    },
+    {
+      "name": "Portugués",
+      "proficiency": null
+    }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Gestión de contenidos",
+      "publisher": "Digital Signage Expo Las Vegas",
+      "published_on": {
+        "day": 14,
+        "month": 3,
+        "year": 2015
+      },
+      "description": "Palestra sobre gestão de conteúdos na feira Digital Signage Expo em Las Vegas, Estados Unidos, para o publico Latino Americano.",
+      "url": null
+    }
+  ],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 2106,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/arnaldorochaneto",
+      "name": "Arnaldo Rocha Neto",
+      "summary": "Marketing | Estratégias ESG | Sustentabilidade | Responsabilidade Social | Inovação | Impacto Social",
+      "location": "Manaus"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pierredebbane",
+      "name": "Pierre Debbane",
+      "summary": "Owner, MP Publicidade",
+      "location": "Vila Velha"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jeffersonjsr",
+      "name": "Jefferson Ribeiro",
+      "summary": "Desenvolvimento de Negócios | Estratégia Comercial | Expansão de Mercado | Vendas B2B | Relacionamento Estratégico",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dancaldeira",
+      "name": "Danilo Caldeira",
+      "summary": "CEO at adMooH.com",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/flaviojfxavier",
+      "name": "Flavio Xavier",
+      "summary": "Diretor comercial na Azul Publicidade",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-kallas-oficial",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrezogbi",
+      "name": "Andre Zogbi Loureiro",
+      "summary": "Marketing",
+      "location": "Barueri"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joana-a-benevides",
+      "name": "Joana Benevides",
+      "summary": "Mãe da Catarina e do Rodrigo | Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/luanabarillari",
+      "name": "Luana Barillari",
+      "summary": "Product Development Project Manager / Sourcing",
+      "location": "Franca"
+    },
+    {
+      "link": "https://www.linkedin.com/in/analigiabatistela",
+      "name": "Ana Lígia Batistela Lozinski",
+      "summary": null,
+      "location": "São Caetano do Sul"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luisactwork",
+      "name": "Luis Sanches",
+      "summary": "CEO at Actwork Comunicação",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/leticiapalmerio",
+      "name": "Letícia Palmério",
+      "summary": "Strategic Marketing | Creative Planner | Innovation & Brand Experience | Live Marketing | OOH & DOOH Activations | Digital Influence & Influencer Marketing | 🏆Élan Festival Award 2024 – Best Brand Activation",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/heitorestrela",
+      "name": "Heitor Estrela Gomes",
+      "summary": "Diretor na Eletromidia | Presidente do Comitê DOOH IAB Brasil",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/mleao1",
+      "name": "Mário Leão",
+      "summary": "Diretor de Vendas NET - TV Band",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucioschneider",
+      "name": "Lucio Schneider",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rog%25C3%25A9riodesouza",
+      "name": "Rogério de Souza",
+      "summary": "CEO na SOLO WELLNESS ADS AGENCY | Marketing Communications",
+      "location": "Campinas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lutticolautto-lampadaag",
+      "name": "LUTTI COLAUTTO",
+      "summary": "CEO Lampada.AG | SENSES TRAVEL - MBA em Comunicação e Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/frednviante",
+      "name": "Frederico Naspolini Viante",
+      "summary": "Diretor na b.drops | Digital OOH",
+      "location": "Curitiba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/dudabrigido",
+      "name": "Duda Brígido",
+      "summary": "Diretor at EBMQUINTTO",
+      "location": "Fortaleza"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leandro-morais-87abb8239",
+      "name": "Leandro Morais",
+      "summary": "Marketing digital",
+      "location": "Mogi das Cruzes"
+    },
+    {
+      "link": "https://www.linkedin.com/in/projeto-drops-educa%25C3%25A7%25C3%25A3o-descomplicada-0b641890",
+      "name": "Projeto Drops Educação Descomplicada",
+      "summary": "Diretora",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/beatriz-prieto-dos-santos-spano",
+      "name": "Beatriz Prieto",
+      "summary": "Comunicação Estratégica & Gestão de Projetos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rogerio-gabriel-comprido-9ba00289",
+      "name": "Rogerio Gabriel Comprido",
+      "summary": "Sr.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ameliamarha",
+      "name": "Amelia Marha",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/karinasedans",
+      "name": "Karina Sedans",
+      "summary": "Engenheira de Materiais | Biomateriais e Sustentabilidade | Inovação e P&D | Ciência e Tecnologia",
+      "location": "Berkhamsted"
+    },
+    {
+      "link": "https://www.linkedin.com/in/m%25C3%25A1rcia-holtz-a2b16a28",
+      "name": "Márcia Holtz",
+      "summary": "Terapeuta e Mentora Sistêmica",
+      "location": "Sorocaba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelaburatto",
+      "name": "Angela Buratto",
+      "summary": "Owner, Reciclo Comunicacao",
+      "location": "Belo Horizonte"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucas-galar%25C3%25A7a-a274a018",
+      "name": "lucas galarça",
+      "summary": null,
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alessandro-basile-9441194",
+      "name": "Alessandro Basile",
+      "summary": "Owner, AGMKT - ESTRATEGIA EMPRESARIAL",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabiana-milioli-boeckler-8b52168",
+      "name": "Fabiana Milioli Boeckler",
+      "summary": "Sales Manager at thyssenkrupp",
+      "location": "Noblesville"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yara-terra",
+      "name": "Yara Terra",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/nelson-moreira-ab97049",
+      "name": "Nelson Moreira",
+      "summary": null,
+      "location": "Porto Alegre"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yuri-berezovoy",
+      "name": "Yuri Berezovoy",
+      "summary": "Know-how and best-in-class ad-tech for planning and execution of digital-out-of-home (DOOH) networks.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/elaine-dias-b7125014",
+      "name": "Elaine Dias.",
+      "summary": "Board Member I Estratégia I Marketing I Novos Negócios I Relacionamento I CX | Pós-graduada em Marketing",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/eliane-el-badouy",
+      "name": "Eliane El Badouy",
+      "summary": "Media & Branding Services | Future & Trends",
+      "location": "Bragança Paulista"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudio-goncalves-6713a916",
+      "name": "Claudio Goncalves",
+      "summary": "Diretor de criação, Digital Planner.",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jarbas-monteiro-279bb421",
+      "name": "Jarbas Monteiro",
+      "summary": "Diretor da Proativa Projetos & Marketing Ltda.",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/silvio-tadao-nakashima-03307724",
+      "name": "SILVIO TADAO NAKASHIMA",
+      "summary": "Coordenador administrativo na Hospital SBC",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-lemos-5914a225",
+      "name": "Rodrigo Lemos",
+      "summary": "Executivo de negócios na b.drops",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelicafacchinato",
+      "name": "Angélica Periañes Facchinato",
+      "summary": "CRM, E-commerce, Marketing",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolina-matias-4b233829",
+      "name": "Carolina Matias",
+      "summary": "Diretora do Laboratório de Governo e Políticas Públicas (LABORA)",
+      "location": "Osasco"
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberto-gabrielli-1272222a",
+      "name": "Roberto GABRIELLI",
+      "summary": "Sócio e VP Growth & Partnership na THE LED\n \nPresidente na ABIESV",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/guilherme-galvanini",
+      "name": "Guilherme Galvanini",
+      "summary": "Key Account Manager na NEOOH",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucie-viviane-75869630",
+      "name": "lucie viviane",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-rondon-bueloni-a3096933",
+      "name": "Rodrigo Rondon Bueloni",
+      "summary": "Sócio | Publicitário | Planner | Marketing na PÃO Criação",
+      "location": "Bauru"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lucelena-ferreira-04418734",
+      "name": "Lucelena Ferreira",
+      "summary": "TEDx Speaker | Palestras, mentoria e treinamentos organizacionais | Equidade de Gênero; Liderança | Autora de: “Mulheres na Liderança: estratégias p superar obstác de gênero nas organiz”; \"Manual Antimachismo\" (Senado)",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/camila-montenegro-b6753234",
+      "name": "Camila Montenegro",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/cristiano-tassinari-alves-19574a34",
+      "name": "Cristiano Tassinari Alves",
+      "summary": "THE LED Oficial•4K followers",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/milton-marcucci-219a5536",
+      "name": "Milton Marcucci",
+      "summary": "Proprietário, Marcucci.gondran",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ricardo-vignoni-93b90739",
+      "name": "Ricardo Vignoni",
+      "summary": "Proprietário dirigente na Painel na Rodovia",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/dagotenaglia",
+      "name": "Dagoberto Tenaglia",
+      "summary": "CEO na HSOL MARKETING",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrea-weiss-61a3a645",
+      "name": "Andrea Weiss",
+      "summary": "Executiva do setor de OOH | Top 100 Gestores de 2022 | Especialista em Mídia e Inovação | Empreendedora | Analista de Investimentos",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/allan-monteiro-98103546",
+      "name": "Allan Monteiro",
+      "summary": "VP Brazil - Country Lead",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/bruno-gianelli-s",
+      "name": "Bruno Gianelli",
+      "summary": "Partner/Project Manager",
+      "location": "Sorocaba"
+    },
+    {
+      "link": "https://www.linkedin.com/in/renato-mascarenhas-725a4759",
+      "name": "Renato Mascarenhas",
+      "summary": "Diretor comercial | b.drops",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-celia-biondi-rodriguez-86259666",
+      "name": "Ana Celia Biondi Rodriguez",
+      "summary": "Diretora Geral JCDecaux do Brasil | Conselheira do Cenp | Conselheira ABOOH | Vice-Presidente de Comunicação CCIFB",
+      "location": "São Paulo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laurie-hofmann-2175546a",
+      "name": "Laurie Hofmann",
+      "summary": "Co-Founder at OvationLab/VirtualPractices",
+      "location": "Santa Fe"
+    },
+    {
+      "link": "https://www.linkedin.com/in/%25e2%2599%25ab-%25e2%2599%25aa-miriam-de-oliveira-moreira-%25e2%2599%25ab%25e2%2599%25aa-75734380",
+      "name": "♫ ♪ Miriam De Oliveira Moreira ♫♪",
+      "summary": "Auxiliar Administrativo na Extintores Asterix",
+      "location": "Lençóis Paulista"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernanda-homem-de-melo-092361126",
+      "name": "Fernanda Homem de Melo",
+      "summary": "Gerente executiva de contas na Retail Media - DOOH | Especialista em publicidade externa",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/jo%25C3%25A3o-junio-rodrigues-4833a9127",
+      "name": "João Junio Rodrigues",
+      "summary": "--",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandreguerreroeletromidia",
+      "name": "Alexandre Guerrero",
+      "summary": "CEO na Eletromidia | Membro do Conselho Consultivo (CpCon) da ESPM | Conselheiro Executivo da IAB",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-simoes-a2ab43134",
+      "name": "Daniel Simoes",
+      "summary": "CEO Streetwise",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/licieri-neves-970977142",
+      "name": "Licieri Neves",
+      "summary": "Gerente",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/babila-garcia-946145166",
+      "name": "Babila Garcia",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/fernanda-tamizari-1125b6167",
+      "name": "Fernanda Tamizari",
+      "summary": "Marketing l Planejamento",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/rodrigo-moreira-kallas-8b362717a",
+      "name": "Rodrigo Moreira Kallas",
+      "summary": null,
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/roberto-costa-santos-costa-santos-127a36181",
+      "name": "Roberto Costa santos Costa santos",
+      "summary": "Técnico de eletrotécnica⚡️⚠️🔰\nTécnico em eletrotécnica",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leonardo-alisson-macedo-494a65199",
+      "name": "Leonardo Alisson Macedo",
+      "summary": "Especialista em Gestão de Marcas e Branding | Projetos Especiais | Planejamento Estratégico | Rádio",
+      "location": ""
+    },
+    {
+      "link": "https://www.linkedin.com/in/vanda-neves-9b69121bb",
+      "name": "Vanda Neves",
+      "summary": null,
+      "location": "Itaboraí"
+    },
+    {
+      "link": "https://www.linkedin.com/in/taynan-dantas-antunes-942b12205",
+      "name": "Taynan Dantas Antunes",
+      "summary": "procurando uma oportunidade",
+      "location": ""
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Na última semana, a ABOOH deu um passo importante para o futuro do Out of Home no Brasil com o lançamento do Padrão ABOOH de Métricas para OOH. Mais…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_na-última-semana-a-abooh-deu-um-passo-importante-activity-7457768369078054912-YJSc",
+      "activity_status": null
+    },
+    {
+      "title": "No início de março, tive a honra de representar o Brasil na reunião do board da WOO, a maior organização de OOH do mundo, nossa primeira participação…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_ooh-dooh-woo-activity-7439714095852974080-Azua",
+      "activity_status": null
+    },
+    {
+      "title": "Encerramos 2025 com a marca de mais de 300 novos endereços instalados e projetamos finalizar fevereiro de 2026 com pelo menos mais 100 novas…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_encerramos-2025-com-a-marca-de-mais-de-300-activity-7425660442338975744-IX3Y",
+      "activity_status": null
+    },
+    {
+      "title": "É inspirador ver iniciativas como essa da Uber. Uma campanha que, de fato, entende a dor (literalmente!) do seu consumidor e se conecta com ele no…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_ooh-uber-smartfit-activity-7399460604060635137-0dM1",
+      "activity_status": null
+    },
+    {
+      "title": "A b.drops acaba de ultrapassar a marca de 6.000 telas instaladas em mais de 120 cidades por todo o Brasil! Esse crescimento acelerado é reflexo de…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_bdrops-reestrutura-equipe-comercial-com-activity-7348369573710106624-ef53",
+      "activity_status": null
+    },
+    {
+      "title": "É uma honra sermos a primeira empresa parceira deste projeto inovador da Eletromidia com o Aqui Ads. Estamos muito orgulhosos em fazer parte desse…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_é-uma-honra-sermos-a-primeira-empresa-parceira-activity-7342974470875242498-s_33",
+      "activity_status": null
+    },
+    {
+      "title": "Encerrou mais uma WOO, desta vez na Cidade do México, onde pudemos subir ao palco e compartilhar com 500 participantes de 58 nacionalidades o…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_encerrou-mais-uma-woo-desta-vez-na-cidade-activity-7337113769841471488--LuE",
+      "activity_status": null
+    },
+    {
+      "title": "Marco para o mercado de OOH no Brasil! 🚀 Hoje, damos um passo fundamental para o fortalecimento e valorização do Out of Home no país! Foi divulgado…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_ooh-outofhome-publicidade-activity-7310754038113878017-GGJj",
+      "activity_status": null
+    },
+    {
+      "title": "Eu acredito que o OOH tem duas grandes capacidades e forças! 1) Tornar marcas inesquecíveis! Pois o impacto ocorre de forma natural, sem interrupções…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_ambev-leva-ativação-em-salões-de-beleza-com-activity-7291204575917703168-rTxy",
+      "activity_status": null
+    },
+    {
+      "title": "E ai, quem já viu a b.drops nas academias da Smart Fit? Já são mais de 1.200 telas na capital paulista com nosso canal.",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_e-ai-quem-j%C3%A1-viu-a-bdrops-nas-academias-activity-7237087039102300162-RRTA",
+      "activity_status": null
+    },
+    {
+      "title": "O canal Health Channel da b.drops esta ganhando musculatura junto a Smart Fit. Ao todo serão mais de 500 academias e 5.000 telas, uma cobertura…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_dooh-health-academias-activity-7232282587354853377-ln_d",
+      "activity_status": null
+    },
+    {
+      "title": "🎉 Bem-vindo, 2025! 🚀 Começamos o ano com empolgação! A b.drops segue conquistando novos ativos e se consolidando cada vez mais como uma das maiores…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_outofhome-ooh-bdrops-activity-7283216579218034688-_KpD",
+      "activity_status": null
+    },
+    {
+      "title": "Muito feliz com a repercussão que a b.drops esta tendo nas 500 academias da rede Smart Fit! Agora contando com os salões e barbearias, já são mais de…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_muito-feliz-com-a-repercussão-que-a-bdrops-activity-7257583782713561092-J5E5",
+      "activity_status": null
+    },
+    {
+      "title": "Muito feliz em poder colocar a b.drops como uma das principais empresas de DOOH do Brasil! Com presença em todas as principais praças brasileiras e…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_muito-feliz-em-poder-colocar-a-bdrops-como-activity-7264740899589378048-OVZ4",
+      "activity_status": null
+    },
+    {
+      "title": "Ontem tive a honra de participar e prestigiar a primeira turma do Curso de Mídia OOH da Abooh, em parceria com a ESPM. Este curso representa a…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_educa%C3%A7%C3%A3o-capacita%C3%A7%C3%A3o-ooh-activity-7214233997067886593-5xgy",
+      "activity_status": null
+    },
+    {
+      "title": "Você gostaria de poder passar alguns dias no futuro, descobrir como será nossas vidas daqui 5, 10 anos e depois poder voltar? Pois essa foi a…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_voc%C3%AA-gostaria-de-poder-passar-alguns-dias-activity-7206691560304848896-DweJ",
+      "activity_status": null
+    },
+    {
+      "title": "A parceria entre a Abooh e a ESPM para lançar este curso é um marco significativo no cenário educacional e publicitário. A mídia out-of-home (OOH)…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_a-parceria-entre-a-abooh-e-a-espm-para-lançar-activity-7195937683536265217-lw3H",
+      "activity_status": null
+    },
+    {
+      "title": "É uma honra ser selecionado como representante do Brasil em uma das categorias da premiação da WOO, World Out of Home Organization. Quero expressar…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_abooh-ooh-woo-activity-7183502132451414016-GnKT",
+      "activity_status": null
+    },
+    {
+      "title": "Quando meu irmão e eu decidimos lançar a b.drops com um canal de TV para salões de beleza, foi porque acreditávamos profundamente na força das…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_msd-e-bdrops-mar%C3%A7o-lil%C3%A1s-activity-7188946669835599874-0x-L",
+      "activity_status": null
+    },
+    {
+      "title": "Investimentos Publicitários em Ascensão: O Crescimento do Cenário da Mídia em 2023 e em especial para o OOH! Ontem foi divulgado os resultados finais…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_bdrops-ooh-abooh-activity-7176628317523984384-emvf",
+      "activity_status": null
+    },
+    {
+      "title": "Sou imensamente grato pelo convite e pela oportunidade de ter feito parte desta diretoria ao lado de personalidades brilhantes como Felipe Forjaz,…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_sou-imensamente-grato-pelo-convite-e-pela-activity-7138150496468357120-RikE",
+      "activity_status": null
+    },
+    {
+      "title": "Dia 24 e 25 acontecerá a Digitalks Expo, um dos principais eventos sobre tecnologia e negócios digitais. Fui convidado a compartilhar um pouquinho…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_dia-24-e-25-acontecerá-a-digitalks-expo-activity-6967951699651014657-XEYw",
+      "activity_status": null
+    },
+    {
+      "title": "Que mulher nunca sonhou em conhecer e ser atendida nos melhores salões de beleza do Brasil? Pois é isso que o São Paulo Beauty Festival…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_empresa-de-ooh-bdrops-promove-s%C3%A3o-paulo-activity-6955213248656748546-GyYs",
+      "activity_status": null
+    },
+    {
+      "title": "b.drops fortalecendo a equipe no Rio de Janeiro!",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_bdrops-fortalecendo-a-equipe-no-rio-de-janeiro-activity-6913263827400687616-xx93",
+      "activity_status": null
+    },
+    {
+      "title": "Ã preciso arriscar e ter coragem! Hoje a primeira foto que vi nas redes sociais foi essa do nosso parceiro Bruno SodrÃ©, e Ã© impressionante a…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_bdrops-salaodebeleza-activity-6745297607460974592-3gAR",
+      "activity_status": null
+    },
+    {
+      "title": "Feliz de ver o mercado publicitÃ¡rio, especialmente o de #ooh aquecendo novamente!",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_ooh-activity-6694017915060154368-A8kx",
+      "activity_status": null
+    },
+    {
+      "title": "Seja bem vinda Viviane Costa",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_seja-bem-vinda-viviane-costa-activity-6673930709780062208-GrJP",
+      "activity_status": null
+    },
+    {
+      "title": "Muito feliz em ver que nosso sonho grande está contagiando e se tornando também o sonho grande muitos outros! Em menos de 2 meses de oferta já…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_r130719599-activity-6583108001790476288-Yho7",
+      "activity_status": null
+    },
+    {
+      "title": "Segunda feira reunimos toda a equipe da b.drops para nossa convenção. Momento de aprendizados e alinhamento estratégico. Tivemos a oportunidade de…",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_gobdrops-ooh-activity-6633540826829991936-g4S8",
+      "activity_status": null
+    },
+    {
+      "title": "Tudo isso só foi possível graças a essa equipe maravilhosa! Obrigado pessoal e que venha 2019!",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_tudo-isso-s%C3%B3-foi-poss%C3%ADvel-gra%C3%A7as-a-essa-equipe-activity-6482725872758452224-ULfm",
+      "activity_status": null
+    },
+    {
+      "title": "Muito feliz por saber que grandes empresas estão voltando a investir na b.drops",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_muito-feliz-por-saber-que-grandes-empresas-activity-6471139089658707968-u7LT",
+      "activity_status": null
+    },
+    {
+      "title": "Venha trabalhar na b.drops!!!!",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_venha-trabalhar-na-bdrops-activity-6411995000560717824-DIPJ",
+      "activity_status": null
+    },
+    {
+      "title": "Venha fazer parte da nossa equipe!",
+      "link": "https://www.linkedin.com/posts/felipe-viante-bdrops_venha-fazer-parte-da-nossa-equipe-activity-6380131800705957888-ytsO",
+      "activity_status": null
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Matheus Felipe Viante",
+      "link": "https://br.linkedin.com/in/matheus-felipe-viante-0056ab5b",
+      "summary": "Frequentou: Universidade Estadual do Centro-Oeste",
+      "location": "Guarapuava, PR"
+    },
+    {
+      "name": "felipe Viante Martins",
+      "link": "https://br.linkedin.com/in/felipe-viante-martins-a681a4186",
+      "summary": "Analista administrativo na Louis Dreyfus Company",
+      "location": "Palmira, PR"
+    },
+    {
+      "name": "Felipe Viante da Silva",
+      "link": "https://br.linkedin.com/in/felipe-viante-da-silva-0bb310194",
+      "summary": "Aluno na Universidade Federal do Paraná",
+      "location": "Guaratuba, PR"
+    },
+    {
+      "name": "Felipe Viante da Silva",
+      "link": "https://br.linkedin.com/in/felipe-viante-da-silva-6172a9140",
+      "summary": "Aluno na UFPR",
+      "location": "Curitiba, PR"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Quer vender seu imóvel? Então, Fala com Elas!",
+      "link": "https://pt.linkedin.com/pulse/quer-vender-seu-imóvel-então-fala-com-elas-felipe-viante",
+      "published_date": {
+        "day": 23,
+        "month": 7,
+        "year": 2019
+      },
+      "author": null,
+      "image_url": null
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": [],
+  "meta": {
+    "thin_profile": false,
+    "last_updated": "2026-05-14T00:00:00Z"
+  }
+}

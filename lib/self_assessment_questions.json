@@ -1,0 +1,44 @@
+[
+  {
+    "id": "discoverability",
+    "dimension": "Discoverability",
+    "product": "Studio",
+    "stem": "How does a new buyer usually find your inventory?",
+    "clarifier": "The route from \"never heard of you\" to \"show me what you've got.\"",
+    "options": [
+      "Word of mouth or cold outreach — they have to know us first",
+      "We share a PDF rate card or site list when asked",
+      "Our website has a searchable site finder or map",
+      "We're listed on one or more programmatic marketplaces",
+      "Buyers can find, filter, and check live availability across multiple exchanges"
+    ]
+  },
+  {
+    "id": "bookability",
+    "dimension": "Bookability",
+    "product": "Market",
+    "stem": "From \"I want to book\" to \"it's confirmed,\" how long does it typically take?",
+    "clarifier": "Elapsed time, not working time.",
+    "options": [
+      "Two weeks+ — RFP, negotiation, IO, sign-off",
+      "About a week — mostly email back-and-forth",
+      "A few days — templated quotes, faster sign-off",
+      "Same day — buyers can hold inventory and confirm in hours",
+      "Minutes — fully self-serve, programmatic guaranteed or PMP"
+    ]
+  },
+  {
+    "id": "measurement",
+    "dimension": "Measurement",
+    "product": "Measure",
+    "stem": "What do you give buyers as proof the campaign ran?",
+    "clarifier": "Post-campaign reporting.",
+    "options": [
+      "Proof-of-posting photos and play logs",
+      "Play logs plus an audience estimate from our own methodology",
+      "Third-party verified impressions",
+      "Impressions plus audience composition (demographics, mobility, etc.)",
+      "Full attribution — impressions, audience, and outcomes tied to buyer KPIs"
+    ]
+  }
+]
