@@ -1,7 +1,7 @@
 /**
  * Precompute the candidate-pool embeddings the live walk-in matcher scores against.
  *
- * For each of the 453 indexed WOO profiles we embed the SAME text a live walk-in
+ * For each person in lib/pool_index.json (WOO ∪ CRM, list-tagged) we embed the SAME text a live walk-in
  * produces (see lib/match-core.mjs), join in the display fields the reveal needs
  * (name/role/company/country/headshot/linkedin), and write one flat file:
  *
@@ -22,11 +22,10 @@
 import 'dotenv/config';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
-import { embedTextFromProfile, embedOpenAI, cosine, EMBED_MODEL } from '../lib/match-core.mjs';
-import { photoFile, photoPublicPath } from './lib/match-photos.mjs';
+import { embedTextFromProfile, embedOpenAI, cosine, isThinProfile, EMBED_MODEL } from '../lib/match-core.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
-const INDEX_MAP = path.join(ROOT, 'MASTER_DOCS', 'linkedin-profile-index-map.json');
+const POOL_INDEX = path.join(ROOT, 'lib', 'pool_index.json');
 const PROFILES_DIR = path.join(ROOT, 'scripts', 'output', 'linkedin-profiles');
 const OUT = path.join(ROOT, 'lib', 'match_embeddings.json');
 
@@ -46,10 +45,9 @@ function loadSavedProfile(publicIdentifier) {
   }
 }
 
-// Fallback embed text from the thin index-map entry when no scrape is on disk.
+// Fallback embed text from the thin pool-index entry when no scrape is on disk.
 function thinText(e) {
-  return [e.headline, e.occupation, e.title, e.company, e.country]
-    .filter(Boolean).join('. ').trim();
+  return [e.role, e.company, e.country].filter(Boolean).join('. ').trim();
 }
 
 async function main() {
@@ -57,16 +55,23 @@ async function main() {
     console.error('\n✗ OPENAI_API_KEY is not set in .env\n');
     process.exit(1);
   }
-  const indexMapRaw = JSON.parse(fs.readFileSync(INDEX_MAP, 'utf-8'));
-  const entries = Array.isArray(indexMapRaw) ? indexMapRaw : Object.values(indexMapRaw);
+  const poolRaw = JSON.parse(fs.readFileSync(POOL_INDEX, 'utf-8'));
+  const entries = Object.values(poolRaw);
   console.log(`Embedding ${entries.length} candidate profiles via ${EMBED_MODEL}…`);
 
   const vectors = [];
-  let scraped = 0, thin = 0, skipped = 0;
+  let scraped = 0, thin = 0, skipped = 0, idx = 0;
 
   for (const e of entries) {
-    const profile = loadSavedProfile(e.public_identifier);
-    const text = profile ? embedTextFromProfile(profile) : thinText(e);
+    const profile = loadSavedProfile(e.slug);
+    let text = profile ? embedTextFromProfile(profile) : thinText(e);
+    // Thin scrape (LinkedIn hid the structured sections): embedTextFromProfile
+    // already leans on the profile's posts — also fold in the CSV role/company we
+    // hold, the one professional signal the scrape itself lost. Builder-only
+    // because only the pool index carries those fields.
+    if (profile && isThinProfile(profile)) {
+      text = [thinText(e), text].filter(Boolean).join('. ').replace(/\s+/g, ' ').trim().slice(0, 6000);
+    }
     if (!text) { skipped++; continue; }
     profile ? scraped++ : thin++;
 
@@ -74,25 +79,25 @@ async function main() {
     try {
       vec = await embedOpenAI(text);
     } catch (err) {
-      console.error(`\n  ! embed failed for #${e.index} ${e.full_name}: ${err.message}`);
+      console.error(`\n  ! embed failed for ${e.slug} (${e.name}): ${err.message}`);
       skipped++;
       continue;
     }
 
-    const hasPhoto = fs.existsSync(photoFile(ROOT, e.index));
     vectors.push({
-      index: e.index,
-      slug: e.public_identifier,
-      name: e.full_name,
-      role: e.title || e.occupation || '',
-      company: e.company || '',
-      country: e.country || '',
-      linkedinUrl: e.linkedin_url || '',
-      headshotUrl: hasPhoto ? photoPublicPath(e.index) : '',
+      index: idx++,
+      slug: e.slug,
+      lists: e.lists,                       // ['woo'] | ['crm'] | ['woo','crm']
+      name: e.name || profile?.full_name || '',
+      role: profile?.occupation || profile?.headline || e.role || '',
+      company: e.company || profile?.experiences?.[0]?.company || '',
+      country: e.country || profile?.country_full_name || profile?.country || '',
+      linkedinUrl: e.linkedinUrl || '',
+      headshotUrl: e.headshotUrl || '',
       vec: vec.map(round6),
     });
 
-    if (vectors.length % 25 === 0) process.stdout.write(`  …${vectors.length}\n`);
+    if (vectors.length % 50 === 0) process.stdout.write(`  …${vectors.length}\n`);
     await sleep(60); // gentle pacing; OpenAI limits are generous but no need to spike
   }
 

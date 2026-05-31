@@ -36,6 +36,9 @@ export default function SelectNamePage() {
   const [linkedinUrl, setLinkedinUrl] = useState('');
   const [walkinLoading, setWalkinLoading] = useState(false);
   const [walkinError, setWalkinError] = useState('');
+  // Set when a "pending" attendee (on the list but no precomputed matches) is picked,
+  // so the walk-in screen can greet them by name instead of looking like a stranger flow.
+  const [pendingName, setPendingName] = useState('');
   const [navigating, setNavigating] = useState(false);
 
   // Wipe any prior selection so the back-out / reset path is clean.
@@ -54,7 +57,15 @@ export default function SelectNamePage() {
     );
   }, [query]);
 
-  const handlePick = (a) => setSelected(a);
+  // Pending people (RSVPs with no precomputed matches) have no LinkedIn on file,
+  // so send them straight into the walk-in flow to paste it — never a dead-end reveal.
+  const handlePick = (a) => {
+    if (a.pending) {
+      setPendingName(a.name);
+      setLinkedinUrl(a.linkedinUrl || ''); // WOO sources have a URL on file → one-tap re-match
+      setShowWalkin(true);
+    } else setSelected(a);
+  };
   const handleBack = () => setSelected(null);
 
   // Back out of the walk-in path → return to the name search, clean.
@@ -62,6 +73,7 @@ export default function SelectNamePage() {
     setShowWalkin(false);
     setLinkedinUrl('');
     setWalkinError('');
+    setPendingName('');
   };
 
   const handleConfirm = () => {
@@ -191,7 +203,9 @@ export default function SelectNamePage() {
               </div>
               <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2">Paste your LinkedIn</h1>
               <p className="text-base text-mw-white/70 text-center mb-8">
-                WALLi will read your profile and find your matches live.
+                {pendingName
+                  ? `Hi ${pendingName.split(' ')[0]} — we don't have your profile yet. Paste your LinkedIn and WALLi will find your matches live.`
+                  : 'WALLi will read your profile and find your matches live.'}
               </p>
 
               <form onSubmit={handleWalkin}>

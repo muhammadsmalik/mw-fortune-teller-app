@@ -9,10 +9,13 @@
     "lint": "next lint",
     "scrape:attendee-linkedin": "node scripts/scrape-attendee-linkedin-profiles.js",
     "build:linkedin-matching-prompt": "node scripts/build-linkedin-matching-prompt.js",
-    "build:match-embeddings": "node scripts/build-match-embeddings.mjs"
+    "build:match-embeddings": "node scripts/build-match-embeddings.mjs",
+    "build:match-profiles": "node scripts/build-match-profiles.mjs",
+    "generate:match-reasons": "node scripts/generate-match-reasons.mjs"
   },
   "dependencies": {
     "@deepgram/sdk": "^4.1.0",
+    "@google/genai": "^2.7.0",
     "@google/generative-ai": "^0.24.1",
     "@radix-ui/react-dialog": "^1.1.13",
     "@radix-ui/react-label": "^2.1.6",

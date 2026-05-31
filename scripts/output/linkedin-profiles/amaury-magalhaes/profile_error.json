@@ -9,14 +9,14 @@
   "profile": {
     "normalizedUrl": "https://www.linkedin.com/in/amaury-magalhaes",
     "username": "amaury-magalhaes",
-    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
     "csvRowNumber": 52,
     "attendee": {
       "fullName": "Amaury Magalhaes",
       "company": "NEOOH",
-      "email": "",
+      "email": "amaury.magalhaes@neooh.com.br",
       "country": "Brazil"
     }
   },
-  "scrapedAt": "2026-05-29T04:49:07.495Z"
+  "scrapedAt": "2026-05-31T06:14:58.740Z"
 }

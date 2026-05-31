@@ -9,14 +9,14 @@
   "profile": {
     "normalizedUrl": "https://www.linkedin.com/in/gavin-c-48a79923",
     "username": "gavin-c-48a79923",
-    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
-    "csvRowNumber": 551,
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
+    "csvRowNumber": 595,
     "attendee": {
       "fullName": "Gavin Croxford",
       "company": "Dynascan",
-      "email": "",
+      "email": "gavin.croxford@dynascan.com",
       "country": "United States"
     }
   },
-  "scrapedAt": "2026-05-29T04:55:49.048Z"
+  "scrapedAt": "2026-05-31T06:17:24.867Z"
 }

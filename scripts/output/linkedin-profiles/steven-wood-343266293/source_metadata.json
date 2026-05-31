@@ -1,12 +1,12 @@
 {
   "normalizedUrl": "https://www.linkedin.com/in/steven-wood-343266293",
   "username": "steven-wood-343266293",
-  "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
+  "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
   "csvRowNumber": 299,
   "attendee": {
     "fullName": "Steve Wood",
     "company": "Out of Home Media Consultancy Limited",
-    "email": "",
+    "email": "steve.wood86@gmail.com",
     "country": "United Kingdom"
   }
 }

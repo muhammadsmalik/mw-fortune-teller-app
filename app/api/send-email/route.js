@@ -241,7 +241,7 @@ export async function POST(request) {
       }
       const { to, subject: finalSubject } = resolveDelivery(emailTo, subject);
       const { data, error } = await resend.emails.send({
-        from: `Moving Walls <${FROM_EMAIL}>`,
+        from: `Agent WALLi <${FROM_EMAIL}>`,
         to,
         subject: finalSubject,
         html: BOOTH_TEMPLATES[template](body),
@@ -318,7 +318,7 @@ export async function POST(request) {
             ${twinHtml}
             <p class="signature">
               Best regards,<br />
-              Your AI Fortune Teller at Moving Walls 🚀
+              Agent WALLi at Moving Walls 🚀
             </p>
             <img src="${EMAIL_FOOTER_IMAGE_URL}" alt="Email Footer" class="footer-image" />
           </div>
@@ -328,7 +328,7 @@ export async function POST(request) {
 
     const { to, subject: finalSubject } = resolveDelivery(emailTo, subject);
     const { data, error } = await resend.emails.send({
-      from: `Moving Walls Fortune Teller <${FROM_EMAIL}>`,
+      from: `Agent WALLi <${FROM_EMAIL}>`,
       to,
       subject: finalSubject,
       html: htmlContent,

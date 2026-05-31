@@ -1,7 +1,10 @@
 import { NextResponse } from 'next/server';
 import fs from 'node:fs';
 import path from 'node:path';
-import { embedTextFromProfile, embedOpenAI, cosine, norm } from '@/lib/match-core.mjs';
+import { embedTextFromProfile, embedOpenAI, norm } from '@/lib/match-core.mjs';
+import { selectMatches } from '@/lib/match-select.mjs';
+import { extractProfileForLLM } from '@/lib/profile-extract.mjs';
+import { generateReasonAndPoints } from '@/lib/match-reasons.mjs';
 
 export const runtime = 'nodejs';
 
@@ -14,6 +17,20 @@ function getPool() {
   const file = path.join(process.cwd(), 'lib', 'match_embeddings.json');
   POOL = JSON.parse(fs.readFileSync(file, 'utf-8'));
   return POOL;
+}
+
+// ── Curated profiles for the pool (slug → curated), for LLM reason/talking-points.
+// Built offline by scripts/build-match-profiles.mjs. Optional: if absent, matches
+// keep the deterministic reasonFor() + empty talking points.
+let PROFILES = null;
+function getProfiles() {
+  if (PROFILES) return PROFILES;
+  try {
+    PROFILES = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'lib', 'match_profiles.json'), 'utf-8'));
+  } catch {
+    PROFILES = {};
+  }
+  return PROFILES;
 }
 
 function normalizeLinkedInUrl(url) {
@@ -88,46 +105,26 @@ export async function POST(request) {
     if (!text) return NextResponse.json({ error: 'That profile is too sparse to match on.' }, { status: 422 });
     const vec = await embedOpenAI(text);
 
-    // 4. Cosine vs the whole pool.
+    // 4-5. Exclusion + composition, shared with the precomputed picker graph via
+    //      lib/match-select.mjs so a walk-in and a name-picker get the same rules.
+    //      No capacity cap on the live path: a single walk-in can't over-expose
+    //      anyone, and it has no view of the day's running match totals.
     const pool = getPool();
-    const ownUrl = norm(linkedinUrl);
-    const scored = pool.vectors
-      .filter((c) => norm(c.linkedinUrl) !== ownUrl) // never match someone to themselves
-      .map((c) => ({ c, sim: cosine(vec, c.vec) }))
-      .sort((x, y) => y.sim - x.sim);
+    const chosen = selectMatches(
+      vec,
+      { linkedinUrl, company: source.company, country: source.country },
+      pool.vectors,
+    );
 
-    // 5. Exclusion rule (from the 2026-05-29 meeting): a valid match must differ
-    //    in BOTH company and country — favours genuine cross-market intros.
-    //
-    //    TODO(region): this excludes same-COUNTRY, per the meeting wording. If
-    //    Salman meant "international connection" = cross-REGION (note match-twins.mjs
-    //    has a `complementary` mode with SAME_REGION_PENALTY = 0.12), make it a SOFT
-    //    penalty rather than a hard exclude so a strong same-region match isn't banned:
-    //      const regionOf = (country) => COUNTRY_TO_REGION[norm(country)] || 'Unknown';
-    //      // in the .map(): sim -= (regionOf(c.country) === regionOf(source.country) ? 0.12 : 0)
-    //    Then sort by the penalised sim. ~5-min change; left out pending confirmation.
-    const srcCompany = norm(source.company);
-    const srcCountry = norm(source.country);
-    const passesStrict = ({ c }) =>
-      (!srcCompany || norm(c.company) !== srcCompany) &&
-      (!srcCountry || norm(c.country) !== srcCountry);
-
-    let pick = scored.filter(passesStrict);
-    // Graceful relaxation if the strict rule leaves us short (e.g. sparse country data):
-    // drop the country constraint but always keep different-company.
-    if (pick.length < 3) {
-      const companyOnly = scored.filter(({ c }) => !srcCompany || norm(c.company) !== srcCompany);
-      pick = pick.length ? pick : companyOnly;
-    }
-
-    const matches = pick.slice(0, 3).map(({ c, sim }, i) => ({
+    const matches = chosen.map(({ c, sim, confidence }) => ({
       slug: c.slug,
       index: c.index,
       name: c.name,
       role: c.role,
       company: c.company,
       country: c.country,
-      confidence: i === 0 ? 'High' : 'Medium',
+      lists: c.lists || [],
+      confidence,
       matchReason: reasonFor(source.role, c),
       linkedinUrl: c.linkedinUrl,
       headshotUrl: c.headshotUrl,
@@ -138,6 +135,23 @@ export async function POST(request) {
     if (matches.length === 0) {
       return NextResponse.json({ error: 'No suitable matches found.' }, { status: 404 });
     }
+
+    // 6. Gemini reason + talking points (block-until-ready, all matches in parallel).
+    //    Each match keeps its deterministic reasonFor() unless generation succeeds,
+    //    so a slow/failed LLM never blocks or degrades the reveal.
+    const sourceCurated = { name: source.name, slug: ownUrl, ...extractProfileForLLM(profile) };
+    const profiles = getProfiles();
+    await Promise.all(
+      matches.map(async (m) => {
+        const matchCurated = profiles[m.slug];
+        if (!matchCurated) return; // no curated profile → keep deterministic reason
+        const out = await generateReasonAndPoints(sourceCurated, { name: m.name, slug: m.slug, ...matchCurated });
+        if (out) {
+          m.matchReason = out.reason;
+          m.talkingPoints = out.talkingPoints;
+        }
+      }),
+    );
 
     return NextResponse.json({ source, matches });
   } catch (err) {

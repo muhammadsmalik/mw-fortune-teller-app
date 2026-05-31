@@ -9,7 +9,7 @@
   "profile": {
     "normalizedUrl": "https://www.linkedin.com/in/carlos-viladevall-passola-16b306",
     "username": "carlos-viladevall-passola-16b306",
-    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
     "csvRowNumber": 405,
     "attendee": {
       "fullName": "Carlos Viladevall",
@@ -18,5 +18,5 @@
       "country": "Spain"
     }
   },
-  "scrapedAt": "2026-05-29T04:53:50.500Z"
+  "scrapedAt": "2026-05-31T06:16:09.811Z"
 }

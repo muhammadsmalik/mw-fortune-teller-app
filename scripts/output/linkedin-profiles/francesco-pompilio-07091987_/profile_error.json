@@ -9,14 +9,14 @@
   "profile": {
     "normalizedUrl": "https://www.linkedin.com/in/francesco-pompilio-07091987'",
     "username": "francesco-pompilio-07091987_",
-    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
     "csvRowNumber": 126,
     "attendee": {
       "fullName": "Francesco Pompilio",
       "company": "Perion",
-      "email": "",
+      "email": "francesco@perion.com",
       "country": "Italy"
     }
   },
-  "scrapedAt": "2026-05-29T04:50:10.509Z"
+  "scrapedAt": "2026-05-31T06:15:15.592Z"
 }

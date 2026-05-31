@@ -9,14 +9,14 @@
   "profile": {
     "normalizedUrl": "https://www.linkedin.com/in/kevinwoohmedia",
     "username": "kevinwoohmedia",
-    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv",
+    "sourceFile": "ATTENDEES-RSVP-LISTS/WOO_London_Attendee_Tracker_Final_Enriched.csv",
     "csvRowNumber": 67,
     "attendee": {
       "fullName": "Kevin Wu",
       "company": "Starvision",
-      "email": "",
+      "email": "kevin.wu@leapingai.com",
       "country": "China"
     }
   },
-  "scrapedAt": "2026-05-29T04:49:20.392Z"
+  "scrapedAt": "2026-05-31T06:15:02.677Z"
 }

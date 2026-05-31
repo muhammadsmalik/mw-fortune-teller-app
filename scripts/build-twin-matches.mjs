@@ -1,188 +1,155 @@
 /**
- * Build the two payloads that drive the booth flow, from one pass over the data:
- *   lib/twin_index.json    -> lightweight attendee directory for the /select-name
- *                             picker (slug,name,role,company,email,linkedinUrl),
- *                             pre-sorted by name. Keeps the heavy match graph out
- *                             of the picker's client bundle.
- *   lib/twin_matches.json  -> per-attendee match payload for /reveal + /concierge,
- *                             keyed by canonical slug: { source: { headshotUrl }, matches }.
+ * Build the two payloads that drive the booth flow, computing the match graph
+ * FROM the embeddings (not the stale MASTER_DOCS/MATCHES/matches.md), so the
+ * precomputed picker path uses the exact same rules as the live walk-in matcher:
  *
- * Both are derived from the same loop so the picker can never list someone the
- * reveal can't resolve.
+ *   lib/twin_index.json    -> lightweight attendee directory for /select-name
+ *                             (slug,name,role,company,email,linkedinUrl), name-sorted.
+ *   lib/twin_matches.json  -> per-source match payload for /reveal + /concierge,
+ *                             keyed by canonical slug: { source:{headshotUrl}, matches }.
  *
- * Built from the UNION of two inputs (decision: cover every WOO attendee, not
- * just confirmed RSVPs):
- *   MASTER_DOCS/linkedin-profile-index-map.json  -> the 453 WOO attendee tracker
- *       (idx -> { full_name, title, company, country, public_identifier, linkedin_url }).
- *       Every one of these has a precomputed matches row.
- *   lib/rsvp_attendees.json                       -> the 39 confirmed RSVPs
- *       (slug, name, email, company, role, country, linkedinUrl). Source of the
- *       only emails we have; ~18 of these are NOT in the tracker.
+ * SOURCES (who picks their name at the booth) = the WOO attendees in the pool,
+ * plus the confirmed RSVPs (most map onto a WOO embedding by url/name; the
+ * handful with no LinkedIn data on file are listed as "matches pending" and fall
+ * to the live walk-in path). CRM contacts are TARGETS only — they don't pick a
+ * name, so they get no row here (a CRM person who shows up uses /api/match live).
  *
- *   MASTER_DOCS/MATCHES/matches.md  -> minified JSON: { "<idx>": [[matchIdx, conf, reason], x3] }
+ * MATCHING is delegated to lib/match-select.mjs (shared with /api/match):
+ *   exclude self + same company/country, then 1 WOO guaranteed + best 2 from
+ *   WOO ∪ CRM by cosine similarity.
  *
- * Join rules:
- *   - Tracker people are keyed by public_identifier; their matches come from
- *     matches.md[index]. If a confirmed RSVP matches (by slug/url/name), its
- *     curated fields + email win for display.
- *   - RSVP-only people (not in the tracker) are added with an empty matches list
- *     — they show a "matches pending" reveal until scraped/matched, but are still
- *     selectable at the booth.
+ * TWIN-5 CAP (CEO ask): applied IN this generation step, not post-patched. A
+ * capacity map starts every target at CAP and is decremented as matches are
+ * assigned; selectMatches skips exhausted targets and falls to the next best, so
+ * no one is shown as a match more than CAP times — and everyone still keeps 3.
  *
- * Talking points come from lib/twin_talking_points.json (sourceSlug -> matchSlug
- * -> [points]); merged here so re-running never wipes the costly grounded pass.
+ * Grounded reasons + talking points (Gemini) are merged in from
+ * lib/twin_match_reasons.json + lib/twin_talking_points.json when present, so a
+ * rebuild never wipes the costly LLM pass. They are EMPTY on a first run; the
+ * Gemini batch (scripts/generate-match-reasons.mjs) fills them, then you re-run
+ * this script to fold them in.
  *
  * RUN:  node scripts/build-twin-matches.mjs
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { photoFile, photoPublicPath } from './lib/match-photos.mjs';
+import { selectMatches } from '../lib/match-select.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => fs.readFileSync(path.join(root, p), 'utf8');
+const readJSON = (p) => JSON.parse(read(p));
+const readJSONOpt = (p) => { try { return readJSON(p); } catch { return {}; } };
 
-const matchesByIndex = JSON.parse(read('MASTER_DOCS/MATCHES/matches.md').trim());
-const indexMap = JSON.parse(read('MASTER_DOCS/linkedin-profile-index-map.json'));
-const rsvp = JSON.parse(read('lib/rsvp_attendees.json'));
+const CAP = 5; // max times any one person may appear as someone else's match
 
-// Grounded talking points, keyed by sourceSlug -> matchSlug -> [points].
-// Optional: merged in below so re-running this generator never wipes them.
-let talkingPointsBySource = {};
-try {
-  talkingPointsBySource = JSON.parse(read('lib/twin_talking_points.json'));
-} catch {
-  // optional file — fine if absent
-}
+const embeddings = readJSON('lib/match_embeddings.json');
+const poolIndex = readJSON('lib/pool_index.json');           // emails live here
+const rsvp = readJSON('lib/rsvp_attendees.json');
+const talkingPointsBySource = readJSONOpt('lib/twin_talking_points.json'); // srcSlug->matchSlug->[points]
+const reasonsBySource = readJSONOpt('lib/twin_match_reasons.json');        // srcSlug->matchSlug->reason
+const matchProfiles = readJSONOpt('lib/match_profiles.json');              // slug->curated; absent = scrape failed
+
+const vectors = embeddings.vectors;
 
 // --- normalize helpers ---------------------------------------------------
-const norm = (s) =>
-  decodeURIComponent(String(s || ''))
-    .toLowerCase()
-    .replace(/\/+$/, '')
-    .trim();
-
-// pull the "/in/<slug>" piece out of a linkedin url
-const slugFromUrl = (url) => {
-  const m = String(url || '').match(/\/in\/([^/?#]+)/i);
-  return m ? norm(m[1]) : '';
-};
-
-// Order-independent name key: "Boaca Dio" and "Dio Boaca" -> "boaca dio".
 const nameKey = (s) =>
-  String(s || '')
-    .toLowerCase()
-    .replace(/[^a-z\s]/g, ' ')
-    .split(/\s+/)
-    .filter(Boolean)
-    .sort()
-    .join(' ');
+  String(s || '').toLowerCase().replace(/[^a-z\s]/g, ' ').split(/\s+/).filter(Boolean).sort().join(' ');
 
-// Title-case a slug as a last-resort display name ("john-smith" -> "John Smith").
-const nameFromSlug = (slug) =>
-  decodeURIComponent(String(slug || ''))
-    .replace(/-+/g, ' ')
-    .replace(/\b\w/g, (c) => c.toUpperCase())
-    .replace(/\d+/g, '')
-    .trim();
-
-const CONF = { H: 'High', M: 'Medium', L: 'Low' };
-
-// Local profile pic (downloaded by scripts/download-profile-pics.mjs), keyed by
-// index. Returns the public path if present, else '' (UI falls back to initials).
-const localPic = (idx) => (fs.existsSync(photoFile(root, idx)) ? photoPublicPath(idx) : '');
-
-// RSVP lookups so a tracker person can claim their curated fields + email.
-const rsvpByKey = new Map(); // slug / url-slug / name-key -> rsvp record
-for (const r of rsvp) {
-  for (const key of [norm(r.slug), slugFromUrl(r.linkedinUrl), nameKey(r.name)]) {
-    if (key && !rsvpByKey.has(key)) rsvpByKey.set(key, r);
-  }
-}
-const findRsvp = (p) => {
-  for (const key of [norm(p.public_identifier), slugFromUrl(p.linkedin_url), nameKey(p.full_name)]) {
-    if (key && rsvpByKey.has(key)) return rsvpByKey.get(key);
-  }
-  return null;
+// Mirror scripts/build-pool-index.mjs::toSlug so RSVP urls resolve to pool slugs.
+const toSlug = (url) => {
+  if (!url || !url.includes('linkedin.com')) return '';
+  const m = url.match(/\/in\/([^/?#]+)/i);
+  if (!m) return '';
+  return decodeURIComponent(m[1]).replace(/\/+$/, '').replace(/[^a-zA-Z0-9_-]/g, '_');
 };
 
-// One builder for an attendee's directory fields, so the picker entry and the
-// reveal headshot are shaped from a single place. RSVP fields win over tracker
-// fields for display; `p`/`idx` are absent for RSVP-only people.
-const buildPerson = (slug, r, p = {}, idx = null) => ({
-  slug,
-  name: (r && r.name) || p.full_name || nameFromSlug(p.public_identifier),
-  role: (r && r.role) || p.title || p.occupation || '',
-  company: (r && r.company) || p.company || '',
-  email: (r && r.email) || '',
-  linkedinUrl: (r && r.linkedinUrl) || p.linkedin_url || '',
-  headshotUrl: idx == null ? '' : localPic(idx),
+// --- lookups -------------------------------------------------------------
+const emailBySlug = {};
+for (const [slug, p] of Object.entries(poolIndex)) if (p.email) emailBySlug[slug] = p.email;
+
+const vectorBySlug = new Map(vectors.map((v) => [v.slug, v]));
+const vectorByName = new Map();
+for (const v of vectors) { const k = nameKey(v.name); if (k && !vectorByName.has(k)) vectorByName.set(k, v); }
+
+// Resolve an RSVP person to their pool vector (so we can attach their email and
+// know they're a real booth source). Returns the vector or null.
+const vectorForRsvp = (r) => vectorBySlug.get(toSlug(r.linkedinUrl)) || vectorByName.get(nameKey(r.name)) || null;
+
+// RSVP email keyed by the resolved pool slug; also collect RSVPs with no vector.
+const rsvpEmailBySlug = {};
+const rsvpOnly = []; // RSVPs we can't precompute (no LinkedIn data on file)
+for (const r of rsvp) {
+  const v = vectorForRsvp(r);
+  if (v) { if (r.email) rsvpEmailBySlug[v.slug] = r.email; }
+  else rsvpOnly.push(r);
+}
+
+// --- match graph (cap-aware, deterministic source order) -----------------
+const isWoo = (v) => Array.isArray(v.lists) && v.lists.includes('woo');
+const sources = vectors.filter(isWoo).sort((a, b) => a.index - b.index); // stable greedy order
+
+const capacity = new Map(vectors.map((v) => [v.slug, CAP]));
+const hasCapacity = (slug) => (capacity.get(slug) ?? CAP) > 0;
+
+const matchObj = (srcSlug, { c, sim, confidence }) => ({
+  slug: c.slug,
+  index: c.index,
+  name: c.name,
+  role: c.role,
+  company: c.company,
+  country: c.country,
+  lists: c.lists || [],
+  confidence,
+  matchReason: (reasonsBySource[srcSlug]?.[c.slug] || '').trim(),
+  linkedinUrl: c.linkedinUrl,
+  headshotUrl: c.headshotUrl || '',
+  email: emailBySlug[c.slug] || '',
+  talkingPoints: Array.isArray(talkingPointsBySource[srcSlug]?.[c.slug]) ? talkingPointsBySource[srcSlug][c.slug] : [],
+  _sim: Math.round(sim * 1000) / 1000, // inspection aid; UI ignores it
 });
 
-const resolveMatch = (matchIdx, conf, reason) => {
-  const p = indexMap[matchIdx] || {};
-  const slug = norm(p.public_identifier) || slugFromUrl(p.linkedin_url) || String(matchIdx);
-  const linkedinUrl =
-    p.linkedin_url ||
-    (p.public_identifier ? `https://www.linkedin.com/in/${decodeURIComponent(p.public_identifier)}` : '');
-  return {
-    slug,
-    index: Number(matchIdx),
-    name: p.full_name || nameFromSlug(p.public_identifier) || `Profile #${matchIdx}`,
-    role: p.title || p.occupation || '',
-    company: p.company || '',
-    country: p.country || '',
-    confidence: CONF[conf] || conf || '',
-    matchReason: reason || '',
-    linkedinUrl,
-    headshotUrl: localPic(matchIdx),
-    talkingPoints: [], // overridden below from twin_talking_points.json when present
-  };
-};
-
-const applyPoints = (slug, matches) => {
-  const overrides = talkingPointsBySource[slug] || {};
-  let applied = 0;
-  for (const m of matches) {
-    if (Array.isArray(overrides[m.slug])) {
-      m.talkingPoints = overrides[m.slug];
-      applied += 1;
-    }
-  }
-  return applied;
-};
-
-// Record one attendee into both payloads. Returns true if matches were attached.
 const out = {};
 const directory = [];
-const addPerson = (person, matches) => {
-  out[person.slug] = { source: { headshotUrl: person.headshotUrl }, matches };
-  const { headshotUrl, ...dirItem } = person; // picker never needs the headshot
-  directory.push(dirItem);
-};
+let shortCount = 0; // sources that couldn't get a full 3
 
-// --- build ---------------------------------------------------------------
-const claimedRsvp = new Set();
-const withPoints = [];
+let brokenSources = 0;
+for (const v of sources) {
+  const dirEntry = {
+    slug: v.slug,
+    name: v.name,
+    role: v.role,
+    company: v.company,
+    email: emailBySlug[v.slug] || rsvpEmailBySlug[v.slug] || '',
+    linkedinUrl: v.linkedinUrl,
+  };
 
-// 1) Every WOO attendee from the tracker (all have a matches row).
-for (const [idx, p] of Object.entries(indexMap)) {
-  const slug = norm(p.public_identifier) || slugFromUrl(p.linkedin_url) || String(idx);
-  if (out[slug]) continue; // pids are unique, but be defensive
-  const r = findRsvp(p);
-  if (r) claimedRsvp.add(r.slug);
+  // A source whose own profile failed to curate (errored/empty scrape) only yields
+  // degenerate, reasonless matches. Flag it `pending` so the picker routes it to the
+  // live walk-in (its LinkedIn URL is prefilled there) instead of a bad reveal.
+  if (!matchProfiles[v.slug]) {
+    brokenSources++;
+    out[v.slug] = { source: { headshotUrl: v.headshotUrl || '' }, matches: [] };
+    directory.push({ ...dirEntry, pending: true });
+    continue;
+  }
 
-  const triples = matchesByIndex[idx];
-  const matches = Array.isArray(triples) ? triples.map((t) => resolveMatch(...t)) : [];
-  if (applyPoints(slug, matches) > 0) withPoints.push(`${p.full_name} (${slug})`);
-  addPerson(buildPerson(slug, r, p, idx), matches);
+  const chosen = selectMatches(v.vec, v, vectors, { hasCapacity });
+  for (const { c } of chosen) capacity.set(c.slug, (capacity.get(c.slug) ?? CAP) - 1);
+  if (chosen.length < 3) shortCount++;
+
+  out[v.slug] = { source: { headshotUrl: v.headshotUrl || '' }, matches: chosen.map((x) => matchObj(v.slug, x)) };
+  directory.push(dirEntry);
 }
 
-// 2) Confirmed RSVPs not in the tracker — selectable, but matches pending.
-for (const r of rsvp) {
-  const slug = norm(r.slug);
-  if (claimedRsvp.has(r.slug) || out[slug]) continue;
-  addPerson(buildPerson(slug, r), []);
+// RSVP-only people with no embedding: still selectable, but flagged `pending` so
+// the picker routes them into the live walk-in flow (paste LinkedIn → match)
+// instead of a dead-end reveal — we have no precomputed matches for them.
+for (const r of rsvpOnly) {
+  const slug = r.slug;
+  if (out[slug]) continue;
+  out[slug] = { source: { headshotUrl: '' }, matches: [] };
+  directory.push({ slug, name: r.name, role: r.role || '', company: r.company || '', email: r.email || '', linkedinUrl: r.linkedinUrl || '', pending: true });
 }
 
 directory.sort((a, b) => a.name.localeCompare(b.name));
@@ -193,9 +160,32 @@ fs.writeFileSync(path.join(root, 'lib/twin_index.json'), JSON.stringify(director
 // --- report --------------------------------------------------------------
 const entries = Object.values(out);
 const withMatches = entries.filter((e) => e.matches.length).length;
-console.log(`Wrote lib/twin_matches.json + lib/twin_index.json`);
-console.log(`  attendees:        ${entries.length} (tracker ${Object.keys(indexMap).length} + RSVP-only ${entries.length - Object.keys(indexMap).length})`);
-console.log(`  with matches:     ${withMatches}`);
-console.log(`  matches pending:  ${entries.length - withMatches}`);
-console.log(`  talking points populated: ${withPoints.length}`);
-withPoints.forEach((w) => console.log(`    - ${w}`));
+
+// in-degree (how many times each target was chosen) for the cap audit
+const inDegree = new Map();
+let edges = 0, wooEdges = 0, crmEdges = 0;
+for (const e of entries) for (const m of e.matches) {
+  inDegree.set(m.slug, (inDegree.get(m.slug) || 0) + 1);
+  edges++;
+  if (m.lists.includes('woo')) wooEdges++;
+  if (m.lists.includes('crm')) crmEdges++;
+}
+const degrees = [...inDegree.values()];
+const maxDeg = Math.max(0, ...degrees);
+const overCap = degrees.filter((d) => d > CAP).length;
+const atCap = degrees.filter((d) => d === CAP).length;
+const targetsUsed = inDegree.size;
+const orphanTargets = vectors.length - targetsUsed; // pool members never shown as a match
+const reasonsApplied = entries.reduce((n, e) => n + e.matches.filter((m) => m.matchReason).length, 0);
+const pointsApplied = entries.reduce((n, e) => n + e.matches.filter((m) => m.talkingPoints.length).length, 0);
+
+console.log('Wrote lib/twin_matches.json + lib/twin_index.json');
+console.log(`  sources (rows):     ${entries.length}  (WOO ${sources.length} + RSVP-only ${rsvpOnly.length})`);
+console.log(`  with matches:       ${withMatches}`);
+console.log(`  matches pending:    ${entries.length - withMatches}  (RSVP-only ${rsvpOnly.length} + broken-scrape ${brokenSources})`);
+console.log(`  sources short of 3: ${shortCount}`);
+console.log(`  total edges:        ${edges}  (woo ${wooEdges} / crm ${crmEdges})`);
+console.log(`  distinct targets:   ${targetsUsed} / ${vectors.length}  (orphans never shown: ${orphanTargets})`);
+console.log(`  cap audit (CAP=${CAP}): max in-degree ${maxDeg}, at cap ${atCap}, OVER cap ${overCap}`);
+console.log(`  gemini reasons merged:  ${reasonsApplied}`);
+console.log(`  talking points merged:  ${pointsApplied}`);
