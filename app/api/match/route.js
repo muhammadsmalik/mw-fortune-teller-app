@@ -139,7 +139,7 @@ export async function POST(request) {
     // 6. Gemini reason + talking points (block-until-ready, all matches in parallel).
     //    Each match keeps its deterministic reasonFor() unless generation succeeds,
     //    so a slow/failed LLM never blocks or degrades the reveal.
-    const sourceCurated = { name: source.name, slug: ownUrl, ...extractProfileForLLM(profile) };
+    const sourceCurated = { name: source.name, slug: linkedinUrl, ...extractProfileForLLM(profile) };
     const profiles = getProfiles();
     await Promise.all(
       matches.map(async (m) => {
