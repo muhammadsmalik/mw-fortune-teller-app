@@ -72,9 +72,23 @@ const vectorBySlug = new Map(vectors.map((v) => [v.slug, v]));
 const vectorByName = new Map();
 for (const v of vectors) { const k = nameKey(v.name); if (k && !vectorByName.has(k)) vectorByName.set(k, v); }
 
+// Email is the strongest RSVP→vector key when url+name both miss — e.g. an RSVP
+// "Thimio Sotos" vs the scraped "Efthimios Thimio Sotos" (same person, different
+// name form). Without this they'd resolve to a `pending` stub AND lose their email.
+const vectorByEmail = new Map();
+for (const [slug, p] of Object.entries(poolIndex)) {
+  const e = (p.email || '').trim().toLowerCase();
+  const v = vectorBySlug.get(slug);
+  if (e && v && !vectorByEmail.has(e)) vectorByEmail.set(e, v);
+}
+
 // Resolve an RSVP person to their pool vector (so we can attach their email and
 // know they're a real booth source). Returns the vector or null.
-const vectorForRsvp = (r) => vectorBySlug.get(toSlug(r.linkedinUrl)) || vectorByName.get(nameKey(r.name)) || null;
+const vectorForRsvp = (r) =>
+  vectorBySlug.get(toSlug(r.linkedinUrl)) ||
+  vectorByName.get(nameKey(r.name)) ||
+  vectorByEmail.get((r.email || '').trim().toLowerCase()) ||
+  null;
 
 // RSVP email keyed by the resolved pool slug; also collect RSVPs with no vector.
 const rsvpEmailBySlug = {};
@@ -120,7 +134,12 @@ for (const v of sources) {
     name: v.name,
     role: v.role,
     company: v.company,
-    email: emailBySlug[v.slug] || rsvpEmailBySlug[v.slug] || '',
+    // Picker pre-fill is RSVP-only by rule (Mehul, 2026-05-30 privacy decision):
+    // only attendees who explicitly shared their email via the Meet-Your-Twin RSVP
+    // list get it pre-populated at the concierge form. Do NOT fall back to the
+    // enriched WOO/CRM pool email (`emailBySlug`) for non-RSVP sources — that stays
+    // confined to the match-intro recipient field (see matchObj above).
+    email: rsvpEmailBySlug[v.slug] || '',
     linkedinUrl: v.linkedinUrl,
   };
 
