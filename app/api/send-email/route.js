@@ -260,7 +260,8 @@ const BI_NAVY = '#151E43';
 const BI_LIGHT = '#5BADDE';
 const BI_GOLD = '#FEDA24';
 const BI_DIM_ORDER = ['discoverability', 'easeOfPurchase', 'measurement', 'programmaticReadiness', 'audienceIntelligence'];
-const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://www.movingwalls.com/contact';
+// Hard-coded Book-a-Demo link (per 2026-06-01 decision — no longer env-driven).
+const DEMO_URL = 'https://www.movingwalls.com/contact';
 
 function biEscape(s) {
   return String(s ?? '')
