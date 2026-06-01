@@ -36,7 +36,10 @@ function getProfiles() {
 function normalizeLinkedInUrl(url) {
   try {
     const parsed = new URL(String(url).trim());
-    if (parsed.hostname !== 'www.linkedin.com' && parsed.hostname !== 'linkedin.com') return null;
+    // Accept linkedin.com, www.linkedin.com, and any country subdomain
+    // (sg./uk./in./… — LinkedIn serves localized hosts that resolve to the same profile).
+    const host = parsed.hostname.toLowerCase();
+    if (host !== 'linkedin.com' && !host.endsWith('.linkedin.com')) return null;
     const m = parsed.pathname.match(/^\/in\/([A-Za-z0-9\-_%]+)\/?$/);
     if (!m) return null;
     return `https://www.linkedin.com/in/${m[1]}`;
