@@ -1,6 +1,6 @@
 /**
  * Build the two payloads that drive the booth flow, computing the match graph
- * FROM the embeddings (not the stale MASTER_DOCS/MATCHES/matches.md), so the
+ * FROM the embeddings (not the stale MASTER_DOCS/AGENT_WALLI/matching/MATCHES/matches.md), so the
  * precomputed picker path uses the exact same rules as the live walk-in matcher:
  *
  *   lib/twin_index.json    -> lightweight attendee directory for /select-name

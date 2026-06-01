@@ -12,8 +12,8 @@ npm run build:linkedin-matching-prompt
 
 This writes:
 
-- `MASTER_DOCS/linkedin-profile-matching-prompt-filled.md`
-- `MASTER_DOCS/linkedin-profile-index-map.json`
+- `MASTER_DOCS/AGENT_WALLI/matching/linkedin-profile-matching-prompt-filled.md`
+- `MASTER_DOCS/AGENT_WALLI/matching/linkedin-profile-index-map.json`
 
 ## Prompt
 

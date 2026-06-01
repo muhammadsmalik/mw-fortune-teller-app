@@ -24,7 +24,7 @@ import { photoFile, photoPublicPath } from './lib/match-photos.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const LISTS = path.join(ROOT, 'ATTENDEES-RSVP-LISTS');
-const OLD_INDEX = path.join(ROOT, 'MASTER_DOCS', 'linkedin-profile-index-map.json');
+const OLD_INDEX = path.join(ROOT, 'MASTER_DOCS', 'AGENT_WALLI', 'matching', 'linkedin-profile-index-map.json');
 const OUT = path.join(ROOT, 'lib', 'pool_index.json');
 
 // Minimal CSV parser (handles quoted fields + embedded commas/newlines).

@@ -36,11 +36,12 @@ npm run dev
 
 Documentation lives in [`MASTER_DOCS/`](./MASTER_DOCS). Read in this order:
 
-1. **[`MASTER_DOCS/CODEBASE_MAP.md`](./MASTER_DOCS/CODEBASE_MAP.md)** — full architecture, user flows, every route, every API, every component, data flow, deprecated code. The appendix at the bottom covers everything added since October 2025 (tarot cards, new end-of-journey flow, product links, expanded lead capture).
-2. **[`MASTER_DOCS/SATELLITE_EVENT_V1_PLAN.md`](./MASTER_DOCS/SATELLITE_EVENT_V1_PLAN.md)** — current initiative: repurposing the app as a networking / "twinning" tool for the WOO Forum.
-3. **[`MASTER_DOCS/PERSONA_PLATFORM_MAPPING.md`](./MASTER_DOCS/PERSONA_PLATFORM_MAPPING.md)** and **[`MASTER_DOCS/TAROT_CARD_MAPPING.md`](./MASTER_DOCS/TAROT_CARD_MAPPING.md)** — domain logic for persona questions and tarot card mappings.
-4. **[`MASTER_DOCS/CHANGES.md`](./MASTER_DOCS/CHANGES.md)** — change history.
-5. `git log --oneline -30` — recent context.
+1. **[`MASTER_DOCS/AGENT_WALLI/`](./MASTER_DOCS/AGENT_WALLI)** — **current initiative.** Agent WALLi, the WOO London booth flow (Matching → Talking Points → Concierge). Its [`README`](./MASTER_DOCS/AGENT_WALLI/README.md) indexes the PRD, tech architecture, matching engine, design, and live status.
+2. **[`MASTER_DOCS/CODEBASE_MAP.md`](./MASTER_DOCS/CODEBASE_MAP.md)** — full architecture, user flows, every route, every API, every component, data flow, deprecated code. The appendix at the bottom covers everything added since October 2025 (tarot cards, new end-of-journey flow, product links, expanded lead capture).
+3. **[`MASTER_DOCS/SATELLITE_EVENT_V1_PLAN.md`](./MASTER_DOCS/SATELLITE_EVENT_V1_PLAN.md)** — earlier framing of the networking / "twinning" repurpose for the WOO Forum (superseded in detail by `AGENT_WALLI/`).
+4. **[`MASTER_DOCS/PERSONA_PLATFORM_MAPPING.md`](./MASTER_DOCS/PERSONA_PLATFORM_MAPPING.md)** and **[`MASTER_DOCS/TAROT_CARD_MAPPING.md`](./MASTER_DOCS/TAROT_CARD_MAPPING.md)** — domain logic for persona questions and tarot card mappings (legacy fortune flow).
+5. **[`MASTER_DOCS/CHANGES.md`](./MASTER_DOCS/CHANGES.md)** — change history.
+6. `git log --oneline -30` — recent context.
 
 ---
 

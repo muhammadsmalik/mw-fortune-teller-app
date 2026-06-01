@@ -2,8 +2,8 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const DEFAULT_INPUT_DIR = path.join('scripts', 'output', 'linkedin-profiles');
-const DEFAULT_PROMPT_OUTPUT = path.join('MASTER_DOCS', 'linkedin-profile-matching-prompt-filled.md');
-const DEFAULT_INDEX_OUTPUT = path.join('MASTER_DOCS', 'linkedin-profile-index-map.json');
+const DEFAULT_PROMPT_OUTPUT = path.join('MASTER_DOCS', 'AGENT_WALLI', 'matching', 'linkedin-profile-matching-prompt-filled.md');
+const DEFAULT_INDEX_OUTPUT = path.join('MASTER_DOCS', 'AGENT_WALLI', 'matching', 'linkedin-profile-index-map.json');
 
 function parseArgs(argv) {
   const args = {

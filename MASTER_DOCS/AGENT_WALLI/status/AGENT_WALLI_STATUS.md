@@ -37,7 +37,7 @@ briefs the marketing DRI to make the intro at the booth.
 - Booth flow restyled toward the brand sheet: **deep-navy backgrounds** (`#0A0F1C → #1B2740 → #111827`) + an electric-blue glow, **antique-gold** accents (`#D4AF37`, replacing the bright yellow `#FEDA24`).
 - **Scope:** antique gold is **booth-flow only** — the legacy fortune flow keeps the bright `mw-gold` and was left untouched (new `mw-gold-antique*` / `mw-navy*` / `mw-blue-electric` / `mw-parchment` tokens in `tailwind.config.js`).
 - **`components/twin-reveal/WalliAvatar.js`** gives WALLi a face at each step (greeting / presenting / thinking / casting / celebrating). Real art now lives in `public/agent-walli/<pose>.png` (Gemini-generated, downscaled to 512px); a gold-ring "W" glow placeholder still renders for any missing pose.
-- **Plan + image-gen prompts + remaining steps** (avatar art, mobile pass, footer-wave recolor, favicon): **`MASTER_DOCS/AGENT_WALLI_THEME_REVAMP.md`**.
+- **Plan + image-gen prompts + remaining steps** (avatar art, mobile pass, footer-wave recolor, favicon): **`MASTER_DOCS/AGENT_WALLI/design/AGENT_WALLI_THEME_REVAMP.md`**.
 
 ### Email + lead capture (wired & configured)
 - `POST /api/send-email` has **three** booth templates (dispatched via a `BOOTH_TEMPLATES` map): **`twinConfirmation`** (to the attendee, their matches + talking points), **`salesRepNotification`** (to the **marketing DRI**, lists requested matches w/ LinkedIn links, flags missing-email cases + which matches were auto-emailed), and **`matchIntro`** (to each selected match — see below).
@@ -80,7 +80,7 @@ The matching pool is now built from the canonical source lists in `ATTENDEES-RSV
 - **Batch:** `scripts/generate-match-reasons.mjs` (`npm run generate:match-reasons`) — reads the new `lib/twin_matches.json` graph (not `matches.md`); writes two **non-destructive** merge-files, `lib/twin_match_reasons.json` + `lib/twin_talking_points.json`, folded into `twin_matches.json` by `build-twin-matches.mjs` (preserves the handwritten Guillermo set). Resumable + only fills missing pairs: `--limit N`, `--force`, `--concurrency N`, `--rpm N`, `--retries N`.
 - **Provider — Vertex AI (2026-05-31):** `match-reasons.mjs` prefers **Vertex** when `GCP_PROJECT_ID` + `GOOGLE_SERVICE_ACCOUNT_JSON` are set (`GOOGLE_CLOUD_LOCATION=global`), falling back to `GEMINI_API_KEY`. Reason: the AI-Studio **free tier is 15 rpm** — a concurrency-5 batch blew past it and silently dropped ~1,400 pairs. Vertex has no such cap; the full ~1,460-pair run completes in ~10 min with **0 failures**.
 - **Rate-limit hardening:** `generateReasonAndPoints(…, { retries })` now does 429-aware backoff that honours the server's "retry in Ns" hint (live path keeps `retries:0` = fast deterministic fallback, never blocks the reveal); the batch adds a request-rate gate (`--rpm`) and **fails loud** (warns on high failure rate instead of reporting success).
-- **Env:** `GEMINI_MATCH_MODEL=gemini-3.1-flash-lite` (defaults if unset; **only** model used for matching). `@google/genai` added; deprecated `@google/generative-ai` left in place for the fortune/archetype endpoints. Plan: `MASTER_DOCS/GEMINI_MATCH_REASONS_PLAN.md`.
+- **Env:** `GEMINI_MATCH_MODEL=gemini-3.1-flash-lite` (defaults if unset; **only** model used for matching). `@google/genai` added; deprecated `@google/generative-ai` left in place for the fortune/archetype endpoints. Plan: `MASTER_DOCS/AGENT_WALLI/matching/GEMINI_MATCH_REASONS_PLAN.md`.
 
 ### ✅ Precompute / picker path REGENERATED (task 11 — done 2026-05-31)
 - The **picker path** (`/select-name` → `/reveal` ← `lib/twin_matches.json`) now uses the **same logic as the live walk-in path** — the old 452-pool `matches.md` is no longer read.
@@ -101,7 +101,7 @@ The matching pool is now built from the canonical source lists in `ATTENDEES-RSV
 - Served from `/public` → works offline at the booth (no CDN dependency at event time).
 
 ### Tooling
-- `scripts/build-linkedin-matching-prompt.js` (+ `npm run build:linkedin-matching-prompt`) — builds the matching prompt; `MASTER_DOCS/linkedin-profile-index-map.json` maps indexes → real profile metadata.
+- `scripts/build-linkedin-matching-prompt.js` (+ `npm run build:linkedin-matching-prompt`) — builds the matching prompt; `MASTER_DOCS/AGENT_WALLI/matching/linkedin-profile-index-map.json` maps indexes → real profile metadata.
 - `scripts/lib/match-photos.mjs` — shared photo-path contract for the two scripts.
 
 ### Scorecard (exists, not wired)

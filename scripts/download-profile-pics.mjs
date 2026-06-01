@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 import { PHOTO_DIR_REL, photoFile } from './lib/match-photos.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const indexMap = JSON.parse(fs.readFileSync(path.join(root, 'MASTER_DOCS/linkedin-profile-index-map.json'), 'utf8'));
+const indexMap = JSON.parse(fs.readFileSync(path.join(root, 'MASTER_DOCS/AGENT_WALLI/matching/linkedin-profile-index-map.json'), 'utf8'));
 const outDir = path.join(root, PHOTO_DIR_REL);
 fs.mkdirSync(outDir, { recursive: true });
 
