@@ -1,8 +1,20 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowUpRight, Globe2 } from 'lucide-react';
+import { ArrowUpRight, Globe2, MapPin } from 'lucide-react';
 import Avatar from '@/components/twin-reveal/Avatar';
+
+// Marks a match who is actually attending WOO London (on the 'woo' list), as
+// opposed to a CRM-only contact the team introduces by email later.
+function AttendeeBadge({ lists }) {
+  if (!Array.isArray(lists) || !lists.includes('woo')) return null;
+  return (
+    <span className="inline-flex items-center gap-1 rounded-full border border-mw-light-blue/40 bg-mw-light-blue/15 px-2 py-0.5 text-[11px] font-semibold text-[#D8F2FF]">
+      <MapPin className="h-3 w-3" />
+      WOO London
+    </span>
+  );
+}
 
 function ConfidencePill({ confidence }) {
   if (!confidence) return null;
@@ -30,6 +42,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
     confidence,
     matchReason,
     linkedinUrl,
+    lists,
     talkingPoints = [],
   } = match || {};
   const hasPoints = Array.isArray(talkingPoints) && talkingPoints.length > 0;
@@ -70,6 +83,7 @@ export default function MatchCard({ match, selectable = false, selected = false,
         <div className="flex-1 min-w-0">
           <div className="flex flex-wrap items-center gap-2">
             <span className="font-semibold text-white">{name}</span>
+            <AttendeeBadge lists={lists} />
             <ConfidencePill confidence={confidence} />
           </div>
           {meta && <div className="text-xs text-white/60 mt-0.5">{meta}</div>}

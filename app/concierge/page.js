@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, Check, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
@@ -13,11 +13,11 @@ import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
 import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 // Concierge requests are handled by a marketing DRI (not general sales).
-// Falls back to the legacy sales-rep var, then a hard default.
+// Falls back to the legacy sales-rep var, then to the concierge CC team lead.
 const DRI_EMAIL =
   process.env.NEXT_PUBLIC_CONCIERGE_DRI_EMAIL ||
   process.env.NEXT_PUBLIC_SALES_REP_EMAIL ||
-  'atlas1000x@gmail.com';
+  'deewakshi.shrestha@movingwalls.com';
 
 // POST JSON and treat any non-2xx as a failure. The previous code never checked
 // res.ok, so an HTTP 500 from the sheet/email routes still resolved and the flow
@@ -45,7 +45,7 @@ export default function ConciergePage() {
   const [ctx, setCtx] = useState(null);
   const [email, setEmail] = useState('');
   const [chosen, setChosen] = useState([]);
-  const [preferredSlot, setPreferredSlot] = useState(''); // '' = no preference → team coordinates via email
+  const [preferredSlots, setPreferredSlots] = useState([]); // empty = no preference → team coordinates via email
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
   // Per-step guards so a retry only re-sends the email(s) that previously failed.
@@ -88,6 +88,14 @@ export default function ConciergePage() {
   // Missing-email fallback: if we have no email on file, prompt for it.
   const emailOnFile = Boolean(ctx?.email);
 
+  // Add/remove a slot from the multi-select. Stored unordered; chronological
+  // order is reapplied when we join them at submit time.
+  const toggleSlot = (slot) => {
+    setPreferredSlots((prev) =>
+      prev.includes(slot) ? prev.filter((s) => s !== slot) : [...prev, slot]
+    );
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!ctx) return;
@@ -103,6 +111,10 @@ export default function ConciergePage() {
     setSubmitting(true);
 
     const matches = chosen;
+    // Collapse the multi-select into the single string every downstream consumer
+    // (sheet column, confirmation screen, all three emails) already expects, in
+    // chronological slot order. Empty = no preference.
+    const preferredSlot = MEETING_SLOTS.filter((s) => preferredSlots.includes(s)).join('; ');
 
     try {
       // 1. Append to Google Sheet (re-uses existing lead pipe). Skip if a prior
@@ -233,7 +245,7 @@ export default function ConciergePage() {
           <p className="text-sm uppercase tracking-[0.2em] text-mw-light-blue text-center mb-3">Agent WALLi</p>
           <h1 className="text-2xl sm:text-3xl font-bold text-center mb-2">Where should I send it?</h1>
           <p className="text-base text-mw-white/70 text-center mb-6">
-            I&apos;ll email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and my team will set up the {chosen.length === 1 ? 'intro' : 'intros'} — just pick a time that suits you.
+            I&apos;ll email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and my team will set up the {chosen.length === 1 ? 'intro' : 'intros'} — just pick the times that suit you.
           </p>
 
           {chosen.length > 0 && (
@@ -244,9 +256,16 @@ export default function ConciergePage() {
               <ul className="space-y-1.5">
                 {chosen.map((m, i) => {
                   const meta = [m.role, m.company].filter(Boolean).join(', ');
+                  const attending = Array.isArray(m.lists) && m.lists.includes('woo');
                   return (
                     <li key={m.slug || i} className="text-sm text-white/85">
                       <span className="font-semibold text-white">{m.name}</span>
+                      {attending && (
+                        <span className="ml-2 inline-flex items-center gap-1 rounded-full border border-mw-light-blue/40 bg-mw-light-blue/15 px-1.5 py-0.5 align-middle text-[10px] font-semibold text-[#D8F2FF]">
+                          <MapPin className="h-2.5 w-2.5" />
+                          WOO London
+                        </span>
+                      )}
                       {meta && <span className="text-white/60"> — {meta}</span>}
                     </li>
                   );
@@ -285,19 +304,30 @@ export default function ConciergePage() {
             </div>
 
             <div>
-              <Label htmlFor="preferredSlot" className="text-white/80 text-sm">Preferred time to meet</Label>
-              <select
-                id="preferredSlot"
-                value={preferredSlot}
-                onChange={(e) => setPreferredSlot(e.target.value)}
-                className="mt-1.5 h-12 w-full rounded-md border border-white/20 bg-white/10 px-3 text-white
-                           focus:border-mw-blue-electric focus:outline-none focus:ring-1 focus:ring-mw-blue-electric"
-              >
-                <option value="" className="bg-mw-navy-deep text-white">No preference — coordinate by email</option>
-                {MEETING_SLOTS.map((s) => (
-                  <option key={s} value={s} className="bg-mw-navy-deep text-white">{s}</option>
-                ))}
-              </select>
+              <Label className="text-white/80 text-sm">Preferred times to meet</Label>
+              <p className="mt-1 mb-2 text-xs text-white/50">
+                Pick any that work — or leave blank and my team will coordinate by email.
+              </p>
+              <div className="grid gap-2">
+                {MEETING_SLOTS.map((s) => {
+                  const selected = preferredSlots.includes(s);
+                  return (
+                    <button
+                      key={s}
+                      type="button"
+                      aria-pressed={selected}
+                      onClick={() => toggleSlot(s)}
+                      className={`flex items-center justify-between rounded-md border px-3 py-3 text-left text-sm transition-colors
+                        ${selected
+                          ? 'border-mw-blue-electric bg-mw-blue-electric/15 text-white'
+                          : 'border-white/20 bg-white/10 text-white/80 hover:border-white/40'}`}
+                    >
+                      <span>{s}</span>
+                      {selected && <Check className="ml-2 h-4 w-4 shrink-0 text-mw-blue-electric" />}
+                    </button>
+                  );
+                })}
+              </div>
             </div>
 
             {error && <p className="text-sm text-red-300">{error}</p>}

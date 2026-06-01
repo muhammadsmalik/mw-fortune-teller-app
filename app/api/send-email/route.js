@@ -158,6 +158,14 @@ function talkingPointsList(items) {
   return `<ul style="margin:0;padding-left:18px;">${(items || []).map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>`;
 }
 
+// `preferredSlot` arrives as one or more meeting windows the attendee picked,
+// joined with '; ' by the concierge form. Split them back out so the templates
+// can pluralise copy and render the picks as a list. Slot labels never contain
+// a semicolon, so the split is safe.
+function slotList(preferredSlot) {
+  return String(preferredSlot || '').split(';').map((s) => s.trim()).filter(Boolean);
+}
+
 function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
   const cards = (matches || []).map((m) => `
     <div style="margin:14px 0;padding:14px 16px;background:#fbfcff;border:1px solid #dde6f5;border-radius:8px;">
@@ -170,14 +178,15 @@ function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
     </div>`).join('');
   const count = (matches || []).length;
   const people = count === 1 ? 'the person' : `the ${count} people`;
+  const slots = slotList(preferredSlot);
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
       <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
         <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
         <p>Agent WALLi here — your AI Concierge Wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
         ${cards || '<p><em>My team will follow up shortly with your matches.</em></p>'}
-        <p style="margin-top:24px;">${preferredSlot
-          ? `My team will set up the introductions around your preferred time — <strong>${preferredSlot}</strong>. We&apos;ll be in touch by email to confirm.`
+        <p style="margin-top:24px;">${slots.length
+          ? `My team will set up the introductions around your preferred ${slots.length === 1 ? 'time' : 'times'} — <strong>${slots.join('</strong>, <strong>')}</strong>. We&apos;ll be in touch by email to confirm.`
           : `My team will set up the introductions and reach out by email to coordinate a time that works for everyone.`}</p>
         <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
       </div>
@@ -190,10 +199,11 @@ function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
 // Walls team sets up the introduction — no booth visit required.
 function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, matchReason, talkingPoints, preferredSlot }) {
   const requester = [attendeeRole, attendeeCompany].filter(Boolean).join(', ');
-  const slot = preferredSlot ? `
+  const slots = slotList(preferredSlot);
+  const slot = slots.length ? `
     <div style="margin:16px 0;padding:12px 16px;background:#f0f6ff;border:1px solid #b9d4f0;border-radius:8px;">
-      <p style="margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">${attendeeName || 'They'} suggested this time</p>
-      <p style="margin:0;font-size:14px;color:#151E43;">${preferredSlot}</p>
+      <p style="margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">${attendeeName || 'They'} suggested ${slots.length === 1 ? 'this time' : 'these times'}</p>
+      ${slots.map((s) => `<p style="margin:0;font-size:14px;color:#151E43;">${s}</p>`).join('')}
     </div>` : '';
   const tp = Array.isArray(talkingPoints) && talkingPoints.length ? `
     <p style="margin:18px 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">What you two share</p>
@@ -232,6 +242,7 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     return `<li style="margin:3px 0;">${li}${meta ? ` — ${meta}` : ''} ${status}</li>`;
   }).join('') || '<li>(no match data attached)</li>';
   const count = (matches || []).length;
+  const slots = slotList(preferredSlot);
   const emailRow = emailOnFile
     ? `<tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''}</td></tr>`
     : `<tr><td style="padding:3px 8px 3px 0;color:#666;">Email</td><td>${email || ''} <span style="color:#b45309;font-weight:bold;">(entered at booth — not previously on file)</span></td></tr>`;
@@ -240,14 +251,14 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     <html><body style="font-family:Arial,sans-serif;line-height:1.5;color:#222;">
       <div style="padding:20px;max-width:640px;margin:auto;">
         <h2 style="margin:0 0 12px;">Concierge request — ${fullName || '(unknown)'}</h2>
-        <p style="margin:0 0 12px;">${fullName || 'An attendee'} requested an intro to ${count} ${count === 1 ? 'person' : 'people'}. Please set up the ${count === 1 ? 'introduction' : 'introductions'} — coordinate over email${preferredSlot ? ` around their preferred time below` : ''}.</p>
+        <p style="margin:0 0 12px;">${fullName || 'An attendee'} requested an intro to ${count} ${count === 1 ? 'person' : 'people'}. Please set up the ${count === 1 ? 'introduction' : 'introductions'} — coordinate over email${slots.length ? ` around their preferred ${slots.length === 1 ? 'time' : 'times'} below` : ''}.</p>
         <table style="border-collapse:collapse;font-size:14px;">
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Name</td><td>${fullName || ''}</td></tr>
           ${emailRow}
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Company</td><td>${company || ''}</td></tr>
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Role</td><td>${role || ''}</td></tr>
           ${requesterLi}
-          <tr><td style="padding:3px 8px 3px 0;color:#666;">Preferred time</td><td>${preferredSlot || '<span style="color:#888;">no preference — coordinate by email</span>'}</td></tr>
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Preferred time${slots.length > 1 ? 's' : ''}</td><td>${slots.length ? slots.join('<br>') : '<span style="color:#888;">no preference — coordinate by email</span>'}</td></tr>
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Slug</td><td>${attendeeSlug || ''}</td></tr>
         </table>
         <p style="margin:18px 0 4px;font-weight:bold;">Requested intro${count === 1 ? '' : 's'} (${count}):</p>

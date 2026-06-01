@@ -25,6 +25,10 @@ export default function ConfirmationPage() {
     setPreferredSlot(localStorage.getItem('selectedPreferredSlot') || '');
   }, []);
   const company = profile?.company || '';
+  // preferredSlot is one or more meeting windows joined with '; ' at the concierge
+  // step; split them back out to pluralise copy and list each pick.
+  const slots = preferredSlot.split(';').map((s) => s.trim()).filter(Boolean);
+  const slotsPlural = slots.length > 1;
 
   // Opt-in: fire the grounded research only when the attendee taps. The route returns
   // 202 instantly and finishes the ~2 min research server-side via after(), then emails
@@ -68,7 +72,7 @@ export default function ConfirmationPage() {
           <p className="text-base text-mw-white/80 leading-relaxed">
             Your intro request is on its way to your inbox.
             <br />
-            My team will set up the introductions{preferredSlot ? ` around your preferred time` : ' and reach out to coordinate a time'}.
+            My team will set up the introductions{slots.length ? ` around your preferred ${slotsPlural ? 'times' : 'time'}` : ' and reach out to coordinate a time'}.
           </p>
           {profile?.email && (
             <div className="mt-6 rounded-lg border border-mw-blue-electric/30 bg-mw-blue-electric/5 p-4 text-left">
@@ -105,11 +109,19 @@ export default function ConfirmationPage() {
 
           <div className="mt-8 rounded-lg border border-white/15 bg-white/5 p-4 text-left">
             <p className="text-xs uppercase tracking-wider text-mw-light-blue mb-2">
-              {preferredSlot ? 'Your preferred time' : 'Timing'}
+              {slots.length ? `Your preferred ${slotsPlural ? 'times' : 'time'}` : 'Timing'}
             </p>
-            <p className="text-sm text-white/85">
-              {preferredSlot || 'No preference set — my team will reach out by email to coordinate a time that works.'}
-            </p>
+            {slots.length ? (
+              <div className="space-y-1">
+                {slots.map((s) => (
+                  <p key={s} className="text-sm text-white/85">{s}</p>
+                ))}
+              </div>
+            ) : (
+              <p className="text-sm text-white/85">
+                No preference set — my team will reach out by email to coordinate a time that works.
+              </p>
+            )}
           </div>
 
           <p className="mt-8 text-sm font-semibold uppercase tracking-[0.25em] text-mw-gold-antique">
