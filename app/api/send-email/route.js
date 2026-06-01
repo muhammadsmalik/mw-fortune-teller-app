@@ -2,7 +2,6 @@ import { Resend } from 'resend';
 import { NextResponse } from 'next/server';
 import fs from 'node:fs';
 import path from 'node:path';
-import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const FROM_EMAIL = process.env.RESEND_FROM_EMAIL || 'onboarding@resend.dev'; // Replace with your verified Resend "from" email or set in .env
@@ -159,7 +158,7 @@ function talkingPointsList(items) {
   return `<ul style="margin:0;padding-left:18px;">${(items || []).map((t) => `<li style="margin:3px 0;font-size:13px;color:#333;">${t}</li>`).join('')}</ul>`;
 }
 
-function twinConfirmationHtml({ fullName, matches }) {
+function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
   const cards = (matches || []).map((m) => `
     <div style="margin:14px 0;padding:14px 16px;background:#fbfcff;border:1px solid #dde6f5;border-radius:8px;">
       <p style="margin:0;font-size:16px;font-weight:bold;color:#151E43;">${m.name || ''}</p>
@@ -177,24 +176,25 @@ function twinConfirmationHtml({ fullName, matches }) {
         <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
         <p>Agent WALLi here — your AI Concierge Wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
         ${cards || '<p><em>My team will follow up shortly with your matches.</em></p>'}
-        <p style="margin-top:24px;">Drop by the Moving Walls booth and we&apos;ll handle the introductions in person.</p>
+        <p style="margin-top:24px;">${preferredSlot
+          ? `My team will set up the introductions around your preferred time — <strong>${preferredSlot}</strong>. We&apos;ll be in touch by email to confirm.`
+          : `My team will set up the introductions and reach out by email to coordinate a time that works for everyone.`}</p>
         <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
       </div>
     </body></html>`;
 }
 
 // Intro email to a matched person: the attendee asked to meet them, with the
-// shared list of booth networking windows and the grounded "why you two" talking
-// points. We don't assign a specific slot per pairing — the same windows go to
-// everyone and the two coordinate via reply-to (set to the attendee in the route)
-// or by dropping by the booth.
-function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, matchReason, talkingPoints }) {
+// attendee's preferred meeting time and the grounded "why you two" talking points.
+// The two coordinate via reply-to (set to the attendee in the route); the Moving
+// Walls team sets up the introduction — no booth visit required.
+function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, matchReason, talkingPoints, preferredSlot }) {
   const requester = [attendeeRole, attendeeCompany].filter(Boolean).join(', ');
-  const slot = `
+  const slot = preferredSlot ? `
     <div style="margin:16px 0;padding:12px 16px;background:#f0f6ff;border:1px solid #b9d4f0;border-radius:8px;">
-      <p style="margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">Find each other at the Moving Walls booth</p>
-      <ul style="margin:0;padding-left:18px;">${MEETING_SLOTS.map((s) => `<li style="margin:3px 0;font-size:14px;color:#151E43;">${s}</li>`).join('')}</ul>
-    </div>`;
+      <p style="margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">${attendeeName || 'They'} suggested this time</p>
+      <p style="margin:0;font-size:14px;color:#151E43;">${preferredSlot}</p>
+    </div>` : '';
   const tp = Array.isArray(talkingPoints) && talkingPoints.length ? `
     <p style="margin:18px 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">What you two share</p>
     ${talkingPointsList(talkingPoints)}
@@ -203,7 +203,7 @@ function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany
   // confirms interest; the Moving Walls team (reply-to) then coordinates the intro.
   const confirmCta = `
     <div style="margin:18px 0;padding:16px 18px;background:#eef6ff;border:1px solid #2554A2;border-radius:8px;">
-      <p style="margin:0;font-size:15px;color:#151E43;"><strong>Interested in meeting?</strong> Just reply to this email to confirm, and the Moving Walls team will set up the introduction. You can suggest another time, or drop by the Moving Walls booth and we&apos;ll introduce you in person.</p>
+      <p style="margin:0;font-size:15px;color:#151E43;"><strong>Interested in meeting?</strong> Just reply to this email to confirm, and the Moving Walls team will set up the introduction. You can suggest another time that suits you better.</p>
     </div>`;
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
@@ -219,7 +219,7 @@ function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany
     </body></html>`;
 }
 
-function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company, role, linkedinUrl, attendeeSlug, matches }) {
+function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company, role, linkedinUrl, attendeeSlug, matches, preferredSlot }) {
   const matchLines = (matches || []).map((m) => {
     const meta = [m.role, m.company].filter(Boolean).join(', ');
     const li = m.linkedinUrl
@@ -240,13 +240,14 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     <html><body style="font-family:Arial,sans-serif;line-height:1.5;color:#222;">
       <div style="padding:20px;max-width:640px;margin:auto;">
         <h2 style="margin:0 0 12px;">Concierge request — ${fullName || '(unknown)'}</h2>
-        <p style="margin:0 0 12px;">${fullName || 'An attendee'} requested an intro to ${count} ${count === 1 ? 'person' : 'people'}. Please make the ${count === 1 ? 'introduction' : 'introductions'} at the booth.</p>
+        <p style="margin:0 0 12px;">${fullName || 'An attendee'} requested an intro to ${count} ${count === 1 ? 'person' : 'people'}. Please set up the ${count === 1 ? 'introduction' : 'introductions'} — coordinate over email${preferredSlot ? ` around their preferred time below` : ''}.</p>
         <table style="border-collapse:collapse;font-size:14px;">
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Name</td><td>${fullName || ''}</td></tr>
           ${emailRow}
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Company</td><td>${company || ''}</td></tr>
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Role</td><td>${role || ''}</td></tr>
           ${requesterLi}
+          <tr><td style="padding:3px 8px 3px 0;color:#666;">Preferred time</td><td>${preferredSlot || '<span style="color:#888;">no preference — coordinate by email</span>'}</td></tr>
           <tr><td style="padding:3px 8px 3px 0;color:#666;">Slug</td><td>${attendeeSlug || ''}</td></tr>
         </table>
         <p style="margin:18px 0 4px;font-weight:bold;">Requested intro${count === 1 ? '' : 's'} (${count}):</p>
@@ -429,7 +430,7 @@ export async function POST(request) {
         <p style="margin:0 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">&#10024; Your Twin at WOO</p>
         <p style="margin:0;font-size:20px;font-weight:bold;color:#151E43;">${twin.twin}</p>
         ${twin.reason ? `<p style="margin:6px 0 0;font-size:13px;color:#555;font-style:italic;">${twin.reason}</p>` : ''}
-        <p style="margin:10px 0 0;font-size:12px;color:#777;">Drop by the booth and we&apos;ll introduce you.</p>
+        <p style="margin:10px 0 0;font-size:12px;color:#777;">The Moving Walls team will introduce you.</p>
       </div>
     ` : '';
 

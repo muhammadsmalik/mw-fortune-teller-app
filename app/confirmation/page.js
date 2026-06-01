@@ -6,13 +6,13 @@ import { Button } from '@/components/ui/button';
 import BrandFooter from '@/components/ui/BrandFooter';
 import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
-import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 export default function ConfirmationPage() {
   const router = useRouter();
   // Profile for the opt-in market read, read from the data persisted at select-name
   // (and the email refreshed at concierge submit). 'idle' until the attendee opts in.
   const [profile, setProfile] = useState(null);
+  const [preferredSlot, setPreferredSlot] = useState(''); // '' = no preference picked at concierge
   const [insightState, setInsightState] = useState('idle'); // idle | sending | sent | error
   useEffect(() => {
     setProfile({
@@ -22,6 +22,7 @@ export default function ConfirmationPage() {
       linkedinUrl: localStorage.getItem('selectedAttendeeLinkedInUrl') || '',
       email: localStorage.getItem('selectedAttendeeEmail') || '',
     });
+    setPreferredSlot(localStorage.getItem('selectedPreferredSlot') || '');
   }, []);
   const company = profile?.company || '';
 
@@ -49,7 +50,7 @@ export default function ConfirmationPage() {
     if (typeof window !== 'undefined') {
       ['selectedAttendeeSlug', 'selectedAttendeeName', 'selectedAttendeeLinkedInUrl',
         'selectedAttendeeEmail', 'selectedAttendeeCompany', 'selectedAttendeeRole',
-        'selectedMatches', LEAD_SAVED_KEY]
+        'selectedMatches', 'selectedPreferredSlot', LEAD_SAVED_KEY]
         .forEach((k) => window.localStorage.removeItem(k));
     }
     router.push('/select-name');
@@ -67,7 +68,7 @@ export default function ConfirmationPage() {
           <p className="text-base text-mw-white/80 leading-relaxed">
             Your intro request is on its way to your inbox.
             <br />
-            Drop by the Moving Walls booth and Agent WALLi&apos;s team will make the intro in person.
+            My team will set up the introductions{preferredSlot ? ` around your preferred time` : ' and reach out to coordinate a time'}.
           </p>
           {profile?.email && (
             <div className="mt-6 rounded-lg border border-mw-blue-electric/30 bg-mw-blue-electric/5 p-4 text-left">
@@ -104,13 +105,11 @@ export default function ConfirmationPage() {
 
           <div className="mt-8 rounded-lg border border-white/15 bg-white/5 p-4 text-left">
             <p className="text-xs uppercase tracking-wider text-mw-light-blue mb-2">
-              Find us at the booth during any networking break
+              {preferredSlot ? 'Your preferred time' : 'Timing'}
             </p>
-            <ul className="space-y-1.5">
-              {MEETING_SLOTS.map((s) => (
-                <li key={s} className="text-sm text-white/85">{s}</li>
-              ))}
-            </ul>
+            <p className="text-sm text-white/85">
+              {preferredSlot || 'No preference set — my team will reach out by email to coordinate a time that works.'}
+            </p>
           </div>
 
           <p className="mt-8 text-sm font-semibold uppercase tracking-[0.25em] text-mw-gold-antique">

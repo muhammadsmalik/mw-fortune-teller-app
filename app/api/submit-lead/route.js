@@ -26,6 +26,7 @@ export async function POST(req) {
       selectedQuestionTexts,
       selectedTarotCards,
       sessionId,
+      preferredSlot, // twin-reveal: attendee's preferred time to be introduced to matches
     } = await req.json();
 
     console.log('[submit-lead] Payload summary', {
@@ -74,7 +75,8 @@ export async function POST(req) {
     // A: Timestamp | B: FullName | C: Email | D: Industry | E: CompanyName | F: FortuneText
     // G: FlowSource | H: LinkedInProfileUrl | I: LinkedInHeadline | J: LinkedInLocation (City, Country)
     // K: Persona | L: SelectedQuestionIds | M: SelectedQuestionTexts | N: SelectedTarotCards | O: SessionId
-    const range = 'Sheet1!A1:O1'; 
+    // P: PreferredSlot (twin-reveal preferred intro time; empty for other flows)
+    const range = 'Sheet1!A1:P1';
 
     const valueInputOption = 'USER_ENTERED';
     const timestamp = new Date().toISOString();
@@ -98,6 +100,7 @@ export async function POST(req) {
         Array.isArray(selectedQuestionTexts) ? selectedQuestionTexts.join(' | ') : (selectedQuestionTexts || ''),
         Array.isArray(selectedTarotCards) ? selectedTarotCards.join(' | ') : (selectedTarotCards || ''),
         sessionId || '',
+        preferredSlot || '',
       ]],
     };
 

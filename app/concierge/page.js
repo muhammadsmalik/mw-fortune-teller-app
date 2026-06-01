@@ -10,6 +10,7 @@ import BrandFooter from '@/components/ui/BrandFooter';
 import WalliAvatar from '@/components/twin-reveal/WalliAvatar';
 import twinMatches from '@/lib/twin_matches.json';
 import { LEAD_SAVED_KEY } from '@/lib/concierge-storage';
+import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 // Concierge requests are handled by a marketing DRI (not general sales).
 // Falls back to the legacy sales-rep var, then a hard default.
@@ -44,6 +45,7 @@ export default function ConciergePage() {
   const [ctx, setCtx] = useState(null);
   const [email, setEmail] = useState('');
   const [chosen, setChosen] = useState([]);
+  const [preferredSlot, setPreferredSlot] = useState(''); // '' = no preference → team coordinates via email
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
   // Per-step guards so a retry only re-sends the email(s) that previously failed.
@@ -119,6 +121,7 @@ export default function ConciergePage() {
           linkedinProfileUrl: ctx.linkedinUrl,
           persona: 'media_owner',
           sessionId: ctx.slug,
+          preferredSlot,
         });
         if (typeof window !== 'undefined') {
           window.localStorage.setItem(LEAD_SAVED_KEY, ctx.slug);
@@ -137,6 +140,7 @@ export default function ConciergePage() {
             subject: 'Your WOO London matches — Moving Walls',
             fullName: ctx.name,
             matches,
+            preferredSlot,
           }).then(() => {
             sent.current.attendee = true;
           })
@@ -157,6 +161,7 @@ export default function ConciergePage() {
             linkedinUrl: ctx.linkedinUrl,
             attendeeSlug: ctx.slug,
             matches,
+            preferredSlot,
           }).then(() => {
             sent.current.dri = true;
           })
@@ -182,6 +187,7 @@ export default function ConciergePage() {
             attendeeCompany: ctx.company,
             matchReason: m.matchReason,
             talkingPoints: m.talkingPoints,
+            preferredSlot,
           }).then(() => {
             sent.current.matches.add(key);
           })
@@ -197,6 +203,7 @@ export default function ConciergePage() {
 
       if (typeof window !== 'undefined') {
         window.localStorage.setItem('selectedAttendeeEmail', email);
+        window.localStorage.setItem('selectedPreferredSlot', preferredSlot);
       }
       router.push('/confirmation');
     } catch (err) {
@@ -226,7 +233,7 @@ export default function ConciergePage() {
           <p className="text-sm uppercase tracking-[0.2em] text-mw-light-blue text-center mb-3">Agent WALLi</p>
           <h1 className="text-2xl sm:text-3xl font-bold text-center mb-2">Where should I send it?</h1>
           <p className="text-base text-mw-white/70 text-center mb-6">
-            I&apos;ll email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and brief my team at the booth to make the intro.
+            I&apos;ll email you your {chosen.length === 1 ? 'match' : `${chosen.length} matches`} and my team will set up the {chosen.length === 1 ? 'intro' : 'intros'} — just pick a time that suits you.
           </p>
 
           {chosen.length > 0 && (
@@ -275,6 +282,22 @@ export default function ConciergePage() {
                   We don&apos;t have your email yet — add it so I can send your intros.
                 </p>
               )}
+            </div>
+
+            <div>
+              <Label htmlFor="preferredSlot" className="text-white/80 text-sm">Preferred time to meet</Label>
+              <select
+                id="preferredSlot"
+                value={preferredSlot}
+                onChange={(e) => setPreferredSlot(e.target.value)}
+                className="mt-1.5 h-12 w-full rounded-md border border-white/20 bg-white/10 px-3 text-white
+                           focus:border-mw-blue-electric focus:outline-none focus:ring-1 focus:ring-mw-blue-electric"
+              >
+                <option value="" className="bg-mw-navy-deep text-white">No preference — coordinate by email</option>
+                {MEETING_SLOTS.map((s) => (
+                  <option key={s} value={s} className="bg-mw-navy-deep text-white">{s}</option>
+                ))}
+              </select>
             </div>
 
             {error && <p className="text-sm text-red-300">{error}</p>}
