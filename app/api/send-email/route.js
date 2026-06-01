@@ -45,6 +45,19 @@ function resolveDelivery(emailTo, subject, rerouteTo) {
   return { to: [emailTo], subject };
 }
 
+// Where a matchIntro reply lands. The match clicks "Reply" to confirm interest,
+// so we point reply-to at the Moving Walls concierge team (the CC'd staff) — that
+// way WE catch the confirmation and coordinate the introduction, rather than the
+// reply going straight to the attendee. Falls back to the attendee address
+// (body.replyTo) when no MW team is configured, and in test mode keeps body.replyTo
+// so a test reply lands with the tester instead of real staff.
+function resolveReplyTo(template, bodyReplyTo) {
+  if (template === 'matchIntro' && !EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0) {
+    return CONCIERGE_CC_EMAILS;
+  }
+  return bodyReplyTo;
+}
+
 // Look up the attendee's precomputed twin from the twinning pipeline state
 // (scripts/twins.json), matched by the name we already have. Returns { twin, reason } or null.
 // The twin is delivered ONLY in the email (not on screen) so a real address is required to receive it.
@@ -186,15 +199,21 @@ function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany
     <p style="margin:18px 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#2554A2;">What you two share</p>
     ${talkingPointsList(talkingPoints)}
   ` : '';
+  // Prominent confirm CTA — sits ABOVE the timing so it isn't buried. Replying
+  // confirms interest; the Moving Walls team (reply-to) then coordinates the intro.
+  const confirmCta = `
+    <div style="margin:18px 0;padding:16px 18px;background:#eef6ff;border:1px solid #2554A2;border-radius:8px;">
+      <p style="margin:0;font-size:15px;color:#151E43;"><strong>Interested in meeting?</strong> Just reply to this email to confirm, and the Moving Walls team will set up the introduction. You can suggest another time, or drop by the Moving Walls booth and we&apos;ll introduce you in person.</p>
+    </div>`;
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
       <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
         <p style="font-size:1.2em;font-weight:bold;">Hello ${matchName || 'there'},</p>
         <p>Agent WALLi here — your AI Concierge Wizard at WOO London. <strong>${attendeeName || 'An attendee'}</strong>${requester ? ` (${requester})` : ''} would like to meet you at the event.</p>
         ${matchReason ? `<p style="font-style:italic;color:#555;">${matchReason}</p>` : ''}
+        ${confirmCta}
         ${slot}
         ${tp}
-        <p style="margin-top:20px;">Just reply to this email to confirm or suggest another time, or drop by the Moving Walls booth and we&apos;ll introduce you in person.</p>
         <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
       </div>
     </body></html>`;
@@ -254,6 +273,9 @@ export async function POST(request) {
         return NextResponse.json({ message: 'Missing required fields: emailTo or subject' }, { status: 400 });
       }
       const { to, subject: finalSubject } = resolveDelivery(emailTo, subject, body.testRerouteTo);
+      // matchIntro routes the reply to the MW concierge team so we coordinate the
+      // intro (see resolveReplyTo); other templates fall back to body.replyTo.
+      const replyTo = resolveReplyTo(template, body.replyTo);
       const { data, error } = await resend.emails.send({
         from: `Agent WALLi <${FROM_EMAIL}>`,
         to,
@@ -261,8 +283,7 @@ export async function POST(request) {
         html: BOOTH_TEMPLATES[template](body),
         // CC internal MW staff on live concierge sends; skipped in test mode.
         ...(!EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0 && { cc: CONCIERGE_CC_EMAILS }),
-        // matchIntro passes replyTo so the match can respond straight to the attendee.
-        ...(body.replyTo && { replyTo: body.replyTo }),
+        ...(replyTo && { replyTo }),
       });
       if (error) {
         console.error('Resend API Error Details:', JSON.stringify(error, null, 2));
