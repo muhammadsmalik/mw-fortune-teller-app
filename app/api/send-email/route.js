@@ -44,15 +44,16 @@ function resolveDelivery(emailTo, subject, rerouteTo) {
   return { to: [emailTo], subject };
 }
 
-// Where a matchIntro reply lands. The match clicks "Reply" to confirm interest,
-// so we point reply-to at the Moving Walls concierge team (the CC'd staff) — that
-// way WE catch the confirmation and coordinate the introduction, rather than the
-// reply going straight to the attendee. Falls back to the attendee address
-// (body.replyTo) when no MW team is configured, and in test mode keeps body.replyTo
-// so a test reply lands with the tester instead of real staff.
+// Where a matchIntro reply lands. The match clicks "Reply" to confirm interest;
+// per the 2026-06-01 decision we put BOTH the requesting attendee and the Moving
+// Walls concierge team on reply-to — the two connect directly (no relay
+// bottleneck), while the team stays on the thread to broker and keep a record.
+// Falls back to just the attendee address (body.replyTo) when no MW team is
+// configured, and in test mode keeps body.replyTo so a test reply lands with the
+// tester instead of real staff.
 function resolveReplyTo(template, bodyReplyTo) {
   if (template === 'matchIntro' && !EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0) {
-    return CONCIERGE_CC_EMAILS;
+    return [bodyReplyTo, ...CONCIERGE_CC_EMAILS].filter(Boolean);
   }
   return bodyReplyTo;
 }
@@ -179,15 +180,26 @@ function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
   const count = (matches || []).length;
   const people = count === 1 ? 'the person' : `the ${count} people`;
   const slots = slotList(preferredSlot);
+  const slotPhrase = slots.length
+    ? ` around your preferred ${slots.length === 1 ? 'time' : 'times'} — <strong>${slots.join('</strong>, <strong>')}</strong>`
+    : '';
+  // Only WOO attendees were auto-emailed (Option B); CRM picks get a team-arranged
+  // future intro, so phrase the coordination line by who we actually contacted —
+  // never promise a reply from someone we didn't email.
+  const attendingCount = (matches || []).filter((m) => Array.isArray(m.lists) && m.lists.includes('woo')).length;
+  const crmCount = count - attendingCount;
+  const coordination = crmCount === 0
+    ? `I&apos;ve let them know you&apos;d like to connect${slotPhrase}. When they reply to confirm, it&apos;ll reach you directly so you can take it from there — and the Moving Walls team is on hand to help you meet at the event, or set up an intro for afterwards.`
+    : attendingCount === 0
+      ? `I&apos;ve shared your request with the Moving Walls team, who&apos;ll arrange an introduction for after the event and be in touch by email.`
+      : `For those at WOO London, I&apos;ve let them know you&apos;d like to connect${slotPhrase} — when they reply to confirm, it&apos;ll reach you directly. For the rest, the Moving Walls team will set up an introduction for afterwards.`;
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
       <div style="padding:20px;max-width:600px;margin:auto;border:1px solid #ddd;border-radius:5px;">
         <p style="font-size:1.2em;font-weight:bold;">Hello ${fullName || 'there'},</p>
         <p>Agent WALLi here — your AI Concierge Wizard at WOO London. I peered into your LinkedIn and here ${count === 1 ? 'is' : 'are'} ${people} you asked to meet:</p>
         ${cards || '<p><em>My team will follow up shortly with your matches.</em></p>'}
-        <p style="margin-top:24px;">${slots.length
-          ? `My team will set up the introductions around your preferred ${slots.length === 1 ? 'time' : 'times'} — <strong>${slots.join('</strong>, <strong>')}</strong>. We&apos;ll be in touch by email to confirm.`
-          : `My team will set up the introductions and reach out by email to coordinate a time that works for everyone.`}</p>
+        <p style="margin-top:24px;">${coordination} Feel free to stop by <strong>the Moving Walls booth</strong> if you&apos;d like a hand.</p>
         <p style="margin-top:20px;font-style:italic;">— Agent WALLi, AI Concierge Wizard<br/>Moving Walls</p>
       </div>
     </body></html>`;
@@ -195,8 +207,10 @@ function twinConfirmationHtml({ fullName, matches, preferredSlot }) {
 
 // Intro email to a matched person: the attendee asked to meet them, with the
 // attendee's preferred meeting time and the grounded "why you two" talking points.
-// The two coordinate via reply-to (set to the attendee in the route); the Moving
-// Walls team sets up the introduction — no booth visit required.
+// Reply-to is the requesting attendee + the concierge team (2026-06-01 decision),
+// so the two connect directly while the team brokers. Copy points them to the
+// Moving Walls booth, with a "set it up for the future" fallback if they miss each
+// other at the event.
 function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany, matchReason, talkingPoints, preferredSlot }) {
   const requester = [attendeeRole, attendeeCompany].filter(Boolean).join(', ');
   const slots = slotList(preferredSlot);
@@ -210,10 +224,11 @@ function matchIntroHtml({ matchName, attendeeName, attendeeRole, attendeeCompany
     ${talkingPointsList(talkingPoints)}
   ` : '';
   // Prominent confirm CTA — sits ABOVE the timing so it isn't buried. Replying
-  // confirms interest; the Moving Walls team (reply-to) then coordinates the intro.
+  // confirms interest and reaches the attendee directly (team copied); booth +
+  // future-intro fallback per the 2026-06-01 decision.
   const confirmCta = `
     <div style="margin:18px 0;padding:16px 18px;background:#eef6ff;border:1px solid #2554A2;border-radius:8px;">
-      <p style="margin:0;font-size:15px;color:#151E43;"><strong>Interested in meeting?</strong> Just reply to this email to confirm, and the Moving Walls team will set up the introduction. You can suggest another time that suits you better.</p>
+      <p style="margin:0;font-size:15px;color:#151E43;"><strong>Interested in meeting?</strong> Just reply to this email to confirm — your reply reaches ${attendeeName || 'them'} and the Moving Walls team, so you can take it from there. We&apos;re on hand to help you connect at the event, and if you don&apos;t manage to this time, we&apos;ll set up an intro for afterwards. You&apos;re also welcome to stop by <strong>the Moving Walls booth</strong>, where our team can help introduce you.</p>
     </div>`;
   return `
     <html><body style="font-family:Arial,sans-serif;line-height:1.6;color:#333;">
@@ -235,10 +250,16 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     const li = m.linkedinUrl
       ? `<a href="${m.linkedinUrl}" style="color:#2554A2;">${m.name || m.linkedinUrl}</a>`
       : (m.name || '');
-    // Flag whether WALLi already emailed this match or the DRI must intro manually.
-    const status = m.email
-      ? `<span style="color:#15803d;">(emailed: ${m.email})</span>`
-      : `<span style="color:#b45309;font-weight:bold;">(no email — needs manual intro)</span>`;
+    // Flag each match's outreach state for the DRI: auto-emailed (WOO attendee with
+    // an email), or needs a manual intro — either no email at all, or a CRM contact
+    // who isn't at the event and so was deliberately NOT cold-emailed (2026-06-01,
+    // Option B). CRM-with-email still shows the address so the DRI can reach out.
+    const attending = Array.isArray(m.lists) && m.lists.includes('woo');
+    const status = !m.email
+      ? `<span style="color:#b45309;font-weight:bold;">(no email — needs manual intro)</span>`
+      : attending
+        ? `<span style="color:#15803d;">(emailed: ${m.email})</span>`
+        : `<span style="color:#b45309;font-weight:bold;">(CRM — not at event; manual outreach: ${m.email})</span>`;
     return `<li style="margin:3px 0;">${li}${meta ? ` — ${meta}` : ''} ${status}</li>`;
   }).join('') || '<li>(no match data attached)</li>';
   const count = (matches || []).length;
