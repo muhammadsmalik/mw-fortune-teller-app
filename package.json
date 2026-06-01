@@ -11,7 +11,8 @@
     "build:linkedin-matching-prompt": "node scripts/build-linkedin-matching-prompt.js",
     "build:match-embeddings": "node scripts/build-match-embeddings.mjs",
     "build:match-profiles": "node scripts/build-match-profiles.mjs",
-    "generate:match-reasons": "node scripts/generate-match-reasons.mjs"
+    "generate:match-reasons": "node scripts/generate-match-reasons.mjs",
+    "test:business-score": "node scripts/test-business-score.mjs"
   },
   "dependencies": {
     "@deepgram/sdk": "^4.1.0",
