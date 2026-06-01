@@ -31,7 +31,7 @@ This realises the May 12 plan: *"a basic score at the event booth, while the ful
 - Not precomputing scores into `scripts/scores.json` (the `score-all.mjs` / `lookupScore` path). Scoring is **live per submission** via the grounded engine. The dead `scores.json` lookup path is out of scope; leave it untouched.
 - Not surfacing live score dials on the booth screen (teaser only — see §5).
 - **Not pre-warming the research earlier in the journey** (e.g. at name selection). Scoring is triggered only at concierge submit — see §6 "Timing: why not pre-warm."
-- Not migrating the scoring engine to the new `@google/genai` SDK — see §4 SDK note.
+- ~~Not migrating the scoring engine to the new `@google/genai` SDK.~~ **Updated post-ship:** the engine now runs on `@google/genai` over Vertex AI, sharing one client with the matching path — see §4 SDK note.
 
 ## 3. The five dimensions → product map
 
@@ -58,7 +58,7 @@ The dimension→product mapping lives in a small config module (`lib/business-sc
 Move the engine out of the standalone script into a reusable, app-callable module. Keep the machinery; change the inputs, dimension set, branding, and output boundary.
 
 **Keep as-is (the valuable parts):**
-- `@google/generative-ai` SDK with `tools: [{ googleSearch: {} }]`, `temperature: 0.3`.
+- Grounded generation with `tools: [{ googleSearch: {} }]`, `temperature: 0.3`. *(SDK updated post-ship from `@google/generative-ai` to `@google/genai` on Vertex — see SDK note below. The `googleSearch` tool config and grounding-metadata shape are identical across both SDKs, so this kept the grounding pipeline unchanged.)*
 - **One isolated grounded call per dimension**, run **sequentially with ~4s spacing** (the grounded endpoint 429s and drops citations under parallel load — do not parallelise).
 - **Freeform text output + `extractJson`** — NOT `responseJsonSchema`. This is deliberate: structured-output mode returns empty `groundingChunks`, destroying source verification. Freeform preserves citations. *(This corrects the original spec, which wrongly proposed structured output.)*
 - The three anti-hallucination layers: `RULES` prompt + `validateDimension` (score 0–100, exactly 3 `{point, evidence}` bullets, `BANNED_PHRASES` blocklist) + `verifyBullets` (grounding-support overlap → `groundedBy`/`verified`) + `scoreWithRetry` (3 attempts, keep grounded bullets, withhold if none).
@@ -70,7 +70,7 @@ Move the engine out of the standalone script into a reusable, app-callable modul
 - **Model:** own env `GEMINI_SCORE_MODEL` (default `gemini-2.5-flash`, what the mockup uses and which supports grounding) so it's decoupled from other routes' `GEMINI_MODEL_NAME`.
 - **Move HTML out:** the `buildScorecardHtml`/`dimensionRow`/`fullEmailHtml` rendering moves to the email route as the `businessInsight` template (§7), rebranded. The lib module returns data only.
 
-**SDK note:** the engine stays on `@google/generative-ai` (old SDK) because its grounding-metadata extraction (`candidate.groundingMetadata.groundingChunks/groundingSupports/webSearchQueries`) is written against that SDK's response shape. The matching path (`lib/match-reasons.mjs`) uses the newer `@google/genai`. **The two SDKs coexist (both are already dependencies).** The previously-planned `lib/genai-client.mjs` extraction assumed both used `@google/genai`; that premise no longer holds for scoring, so it is **dropped from this feature's scope** (see §9).
+**SDK note (updated post-ship):** the engine was first ported on `@google/generative-ai` (the SDK `score-mockup.mjs` used) with an AI Studio API key. It was then migrated to `@google/genai` so it could run on **Vertex AI** (far higher quota than the AI Studio free tier's 15 rpm). The grounding-metadata extraction (`candidate.groundingMetadata.groundingChunks/groundingSupports/webSearchQueries`) is identical across both SDKs, so the migration touched only the client construction and the one `generateContent` call shape — the freeform-output + verification pipeline is unchanged. Because the matching path (`lib/match-reasons.mjs`) already used `@google/genai`, both grounded paths now share one client extracted to **`lib/genai-client.mjs`** (`genaiClient()`): prefers Vertex when `GCP_PROJECT_ID` + `GOOGLE_SERVICE_ACCOUNT_JSON` are set, falls back to an API key (`GOOGLE_GENERATIVE_AI_API_KEY` / `GEMINI_API_KEY`). See §9.
 
 ## 5. On-screen behaviour (teaser only)
 
@@ -131,7 +131,7 @@ Reuse the route's `resolveDelivery` test-mode reroute so booth test runs never h
 ## 9. Open items
 
 - **Book a Demo URL** — ✅ **Resolved:** use a single `NEXT_PUBLIC_DEMO_URL` env as a placeholder for now; real booking link dropped in later.
-- **Shared GenAI client** — ❌ **Dropped:** the `lib/genai-client.mjs` extraction assumed scoring and matching shared the `@google/genai` SDK. The adapted engine uses `@google/generative-ai` instead, so there is no shared client to extract. Matching keeps its own client; no change there.
+- **Shared GenAI client** — ✅ **Done (post-ship):** after the scorer was migrated to `@google/genai` on Vertex, the duplicated Vertex-or-API-key client block was extracted to `lib/genai-client.mjs` (`genaiClient()`). Both `lib/business-scores.mjs` and `lib/match-reasons.mjs` now import it. (Side effect: the matching path's API-key fallback now also accepts `GOOGLE_GENERATIVE_AI_API_KEY` in addition to `GEMINI_API_KEY` — a benign superset.)
 - **`waitUntil` runtime** — confirm the deployment target keeps functions alive for the full ~5-call grounded sequence (~20–40s); otherwise escalate to a queue / Trigger.dev task.
 - **Grounding under load** — the engine is sequential with 4s spacing by design (parallel 429s and drops citations). With 5 dimensions that's longer; acceptable on the async path. Do not "optimise" into parallel calls.
 - **Verification without a test framework** — the repo has no jest/vitest. Phase 1 ships a `scripts/test-business-score.mjs` runnable harness; later phases verify by hitting the route and inspecting the email in `EMAIL_TEST_MODE`.
