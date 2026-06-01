@@ -255,11 +255,112 @@ function salesRepNotificationHtml({ fullName, email, emailOnFile = true, company
     </body></html>`;
 }
 
+// ----- Business Insight scorecard (Agent WALLi market read) -----
+const BI_NAVY = '#151E43';
+const BI_LIGHT = '#5BADDE';
+const BI_GOLD = '#FEDA24';
+const BI_DIM_ORDER = ['discoverability', 'easeOfPurchase', 'measurement', 'programmaticReadiness', 'audienceIntelligence'];
+const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://www.movingwalls.com/contact';
+
+function biEscape(s) {
+  return String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+function biClamp(n) { return Math.max(0, Math.min(100, Number(n) || 0)); }
+
+function biDimensionRow(dim) {
+  const withheld = typeof dim?.score !== 'number';
+  const pct = biClamp(dim?.score);
+  const scoreCell = withheld
+    ? `&mdash;<span style="font-size:11px;color:#8aa0c8;"> /100</span>`
+    : `${pct}<span style="font-size:11px;color:#8aa0c8;">/100</span>`;
+  const note = withheld
+    ? `<li style="margin:7px 0;color:${BI_GOLD};font-size:13px;line-height:1.45;">Couldn't verify this against live sources — score withheld.</li>`
+    : '';
+  const items = (dim?.bullets || [])
+    .map((b) => `<li style="margin:7px 0;color:#dce6f7;font-size:13px;line-height:1.45;">${biEscape(b.point)}</li>`)
+    .join('') + note;
+  return `
+    <div style="margin:22px 0;">
+      <table width="100%" style="border-collapse:collapse;"><tr>
+        <td style="text-align:left;font-weight:700;color:${BI_GOLD};font-size:15px;letter-spacing:.3px;">${biEscape(dim?.label || '')}</td>
+        <td style="text-align:right;font-weight:700;color:#ffffff;font-size:18px;">${scoreCell}</td>
+      </tr></table>
+      <div style="background:rgba(255,255,255,0.09);border-radius:20px;height:9px;margin:8px 0;overflow:hidden;">
+        <div style="width:${withheld ? 0 : pct}%;height:9px;background:${BI_LIGHT};border-radius:20px;"></div>
+      </div>
+      <ul style="margin:6px 0 0;padding-left:18px;">${items}</ul>
+    </div>`;
+}
+
+function businessInsightHtml({ fullName, title, company, region, scores, summary, recommendation, sourceCount, fallback }) {
+  const firstName = (fullName || '').split(' ')[0] || 'there';
+  const demoBtn = `
+    <div style="text-align:center;margin:26px 0 6px;">
+      <a href="${DEMO_URL}" style="display:inline-block;background:${BI_GOLD};color:${BI_NAVY};font-weight:800;font-size:15px;text-decoration:none;padding:14px 30px;border-radius:10px;">Book a Demo</a>
+    </div>`;
+
+  if (fallback || !scores) {
+    return biShell(`
+      <div style="padding:30px 28px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.08);">
+        <div style="font-size:12px;letter-spacing:3px;color:${BI_LIGHT};text-transform:uppercase;">Agent WALLi · Market Read</div>
+      </div>
+      <div style="padding:24px 28px 28px;">
+        <p style="color:#c2cfe6;font-size:14px;line-height:1.65;margin:0 0 18px;">Hello ${biEscape(firstName)}, I started pulling a market read on ${biEscape(company || 'your business')} but couldn't gather enough verified detail to score it fairly this time. The Moving Walls team can walk you through it directly.</p>
+        ${demoBtn}
+        <p style="margin-top:20px;color:#c2cfe6;font-size:13px;">— Agent WALLi, AI Concierge · Moving Walls</p>
+      </div>`);
+  }
+
+  const scoredKeys = BI_DIM_ORDER.filter((k) => typeof scores[k]?.score === 'number');
+  const overall = scoredKeys.length
+    ? Math.round(scoredKeys.reduce((s, k) => s + biClamp(scores[k].score), 0) / scoredKeys.length)
+    : 0;
+  const rows = BI_DIM_ORDER.map((k) => biDimensionRow(scores[k])).join('');
+  const trust = sourceCount ? `Backed by ${sourceCount} live web sources` : 'Backed by live web search';
+  const rec = recommendation ? `
+    <div style="margin-top:22px;padding:16px 18px;background:rgba(91,173,222,0.10);border:1px solid rgba(91,173,222,0.4);border-radius:10px;">
+      <p style="margin:0 0 4px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:${BI_LIGHT};">Where Moving Walls can help most</p>
+      <p style="margin:0;font-size:15px;color:#eaf0fa;"><strong style="color:#fff;">${biEscape(recommendation.product)}</strong> — ${biEscape(recommendation.why)}</p>
+    </div>` : '';
+
+  return biShell(`
+    <div style="padding:30px 28px 22px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.08);">
+      <div style="font-size:12px;letter-spacing:3px;color:${BI_LIGHT};text-transform:uppercase;">Agent WALLi · Market Read</div>
+      <div style="font-size:24px;font-weight:800;margin-top:10px;color:#ffffff;">${biEscape(company || fullName || '')}</div>
+      ${title || region ? `<div style="font-size:13px;color:#9fb2d8;margin-top:3px;">${[biEscape(title), biEscape(region)].filter(Boolean).join(' · ')}</div>` : ''}
+    </div>
+    <div style="padding:24px 28px 28px;">
+      <p style="color:#c2cfe6;font-size:14px;line-height:1.65;margin:0 0 20px;">Hello ${biEscape(firstName)}, here's my data-driven read on ${biEscape(company || 'your business')} across the five dimensions that decide whether your inventory is <em>found</em>, <em>bought</em>, and <em>believed</em>.</p>
+      <div style="text-align:center;margin:6px 0 20px;padding:18px;background:rgba(254,218,36,0.06);border:1px solid rgba(254,218,36,0.28);border-radius:12px;">
+        <div style="font-size:12px;letter-spacing:2px;color:${BI_GOLD};text-transform:uppercase;">Market Presence Score</div>
+        <div style="font-size:50px;font-weight:800;color:#ffffff;line-height:1.05;">${overall}<span style="font-size:18px;color:#7e93bd;">/100</span></div>
+      </div>
+      ${rows}
+      ${summary ? `<p style="margin-top:22px;padding:14px 16px;background:rgba(91,173,222,0.08);border-left:3px solid ${BI_LIGHT};color:#dce6f7;font-size:13px;border-radius:6px;font-style:italic;">${biEscape(summary)}</p>` : ''}
+      ${rec}
+      ${demoBtn}
+      <p style="margin-top:18px;color:#c2cfe6;font-size:13px;">— Agent WALLi, AI Concierge · Moving Walls</p>
+      <p style="margin-top:12px;font-size:10px;color:#5e6e92;text-align:center;letter-spacing:.5px;">${biEscape(trust)}</p>
+    </div>`);
+}
+
+function biShell(inner) {
+  return `<!DOCTYPE html><html><head><meta name="color-scheme" content="light dark"></head>
+  <body style="margin:0;padding:0;background-color:#0c0e16;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#0c0e16;padding:24px;"><tr><td align="center">
+      <div style="max-width:600px;margin:auto;text-align:left;background:${BI_NAVY};border:1px solid #2a3566;border-radius:14px;overflow:hidden;font-family:'Helvetica Neue',Arial,sans-serif;color:#eaf0fa;">
+        ${inner}
+      </div>
+    </td></tr></table>
+  </body></html>`;
+}
+
 // Booth-flow templates, keyed by the `template` field in the request body.
 const BOOTH_TEMPLATES = {
   twinConfirmation: twinConfirmationHtml,
   salesRepNotification: salesRepNotificationHtml,
   matchIntro: matchIntroHtml,
+  businessInsight: businessInsightHtml,
 };
 
 export async function POST(request) {
