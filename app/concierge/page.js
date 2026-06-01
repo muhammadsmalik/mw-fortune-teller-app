@@ -180,12 +180,16 @@ export default function ConciergePage() {
         );
       }
 
-      // 3. Invite each selected match that has an email on file. Matches without
-      //    an email are skipped here and flagged in the DRI notification for a
-      //    manual intro. Reply-to is the attendee so the match can respond directly.
+      // 3. Invite each selected match who is AT the event (lists includes 'woo')
+      //    and has an email. Skipped here: matches with no email, and CRM-only
+      //    contacts who aren't attending — both are flagged in the DRI notification
+      //    for human-judged manual outreach (2026-06-01 decision, Option B), so we
+      //    never cold-email someone who never registered. Reply-to is the attendee
+      //    + concierge team so the match's reply reaches the requester directly.
+      const isAttending = (m) => Array.isArray(m.lists) && m.lists.includes('woo');
       matches.forEach((m) => {
         const key = m.slug || m.email;
-        if (!m.email || sent.current.matches.has(key)) return;
+        if (!m.email || !isAttending(m) || sent.current.matches.has(key)) return;
         emailTasks.push(
           postJson('/api/send-email', {
             template: 'matchIntro',
