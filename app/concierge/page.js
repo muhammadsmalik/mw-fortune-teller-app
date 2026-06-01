@@ -190,6 +190,21 @@ export default function ConciergePage() {
 
       await Promise.all(emailTasks);
 
+      // Kick off the async "business insight" research email — fire-and-forget.
+      // The route returns 202 instantly and finishes the grounded research via
+      // after(); we never block the booth flow on it.
+      fetch('/api/business-insight', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: ctx.name,
+          company: ctx.company,
+          role: ctx.role,
+          linkedinUrl: ctx.linkedinUrl,
+          email,
+        }),
+      }).catch((err) => console.error('[concierge] insight kickoff failed', err));
+
       if (typeof window !== 'undefined') {
         window.localStorage.setItem('selectedAttendeeEmail', email);
       }

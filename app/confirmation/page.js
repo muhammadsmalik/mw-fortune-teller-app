@@ -9,6 +9,8 @@ import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 export default function ConfirmationPage() {
   const router = useRouter();
+  const company =
+    typeof window !== 'undefined' ? window.localStorage.getItem('selectedAttendeeCompany') || '' : '';
 
   const handleReset = () => {
     if (typeof window !== 'undefined') {
@@ -33,6 +35,11 @@ export default function ConfirmationPage() {
             Your intro request is on its way to your inbox.
             <br />
             Drop by the Moving Walls booth and Agent WALLi&apos;s team will make the intro in person.
+          </p>
+          <p className="mt-4 text-sm text-mw-light-blue leading-relaxed">
+            {company
+              ? `I've also analysed ${company}'s market presence — your full breakdown is on its way to your inbox.`
+              : `I've also analysed your business — your full breakdown is on its way to your inbox.`}
           </p>
 
           <div className="mt-8 rounded-lg border border-white/15 bg-white/5 p-4 text-left">
