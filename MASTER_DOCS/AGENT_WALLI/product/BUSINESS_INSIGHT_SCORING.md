@@ -121,7 +121,7 @@ Add a `businessInsight` template to `app/api/send-email/route.js` (alongside `tw
 - Overall score + the five dimension rows (score bar + 3 evidence bullets each; withheld dimensions show the existing "score withheld" note).
 - The `summary` line.
 - A new **recommendation block**: the weakest scored dimension, its matched product, and the `why` line from the mapping.
-- A prominent **Book a Demo** button → `NEXT_PUBLIC_DEMO_URL` *(placeholder env until the real booking link is supplied — see §9)*.
+- A prominent **Book a Demo** button → `https://www.movingwalls.com/contact` *(hard-coded `DEMO_URL` const, no longer env-driven — see §9)*.
 
 Reuse the route's `resolveDelivery` test-mode reroute so booth test runs never hit a real inbox.
 

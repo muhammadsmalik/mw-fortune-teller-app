@@ -366,7 +366,7 @@ const BI_NAVY = '#151E43';
 const BI_LIGHT = '#5BADDE';
 const BI_GOLD = '#FEDA24';
 const BI_DIM_ORDER = ['discoverability', 'easeOfPurchase', 'measurement', 'programmaticReadiness', 'audienceIntelligence'];
-const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://www.movingwalls.com/contact';
+const DEMO_URL = 'https://www.movingwalls.com/contact'; // hard-coded post-ship (was NEXT_PUBLIC_DEMO_URL env)
 
 function biEscape(s) {
   return String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -669,5 +669,5 @@ git commit -m "feat(booth): fire async business-insight on submit + confirmation
 
 - **Spec coverage:** §3 dimensions+boundaries → Task 1; §3 product map → Task 2; §4 engine port → Task 1; §7 email+demo → Task 4; §6 async route → Task 5; §5 teaser + §6 concierge wiring → Task 6. Verification-without-tests (§9) → Task 3 harness + test-mode route/flow checks.
 - **Type consistency:** `scoreBusiness` returns `{ scores, sources, queries, summary, weakestKey }` (Task 1) — consumed by the route (Task 5) and `recommendationFor(weakestKey, label)` (Task 2). Each `scores[key]` carries `label`, `score`, `bullets`, `lowConfidence` — consumed by `businessInsightHtml` (Task 4). Internal key `easeOfPurchase` is retained everywhere (label "Ease of Booking" is display-only).
-- **Open items carried from spec §9:** Book-a-Demo link **pending hard-code** (`NEXT_PUBLIC_DEMO_URL` placeholder in use); `after()`/`maxDuration = 300` **confirmed** to cover the ~90–130s/company sequence and **stays on `after()`** (not Trigger.dev) per the 2026-06-01 decision; scoring model **locked to `gemini-2.5-flash`** (3.5-flash / 3.1-flash-lite break grounding verification); do not parallelise the per-dimension calls.
+- **Open items carried from spec §9:** Book-a-Demo link **hard-coded** to `https://www.movingwalls.com/contact` (no longer env-driven); `after()`/`maxDuration = 300` **confirmed** to cover the ~90–130s/company sequence and **stays on `after()`** (not Trigger.dev) per the 2026-06-01 decision; scoring model **locked to `gemini-2.5-flash`** (3.5-flash / 3.1-flash-lite break grounding verification); do not parallelise the per-dimension calls.
 ```
