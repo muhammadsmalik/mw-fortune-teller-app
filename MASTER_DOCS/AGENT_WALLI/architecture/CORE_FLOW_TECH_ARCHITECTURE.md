@@ -39,14 +39,15 @@ Two-plane architecture: an **offline build plane** (Node scripts that precompute
 | `/select-name` | `app/select-name/page.js` | Directory search (`twin_index.json`) for RSVP; walk-in LinkedIn URL paste; routes `pending` RSVP into walk-in. |
 | `/reveal` | `app/reveal/page.js` | Renders 3 matches. Precomputed (`twin_matches.json`) or live `/api/match`. |
 | `/concierge` | `app/concierge/page.js` | Selection + email capture + 3-part submit orchestration. |
-| `/confirmation` | `app/confirmation/page.js` | Thank-you, windows, localStorage reset. |
+| `/confirmation` | `app/confirmation/page.js` | Thank-you, windows, localStorage reset, **opt-in CTA for the Agent WALLi market read** (fires `POST /api/business-insight` on tap — see [`../product/BUSINESS_INSIGHT_SCORING.md`](../product/BUSINESS_INSIGHT_SCORING.md)). |
 
 ### Online — APIs (`app/api/`)
 | Endpoint | File | Role |
 |---|---|---|
 | `POST /api/match` | `app/api/match/route.js` | Walk-in: EnrichLayer fetch → OpenAI embed → `selectMatches` → Gemini reason+points. |
 | `POST /api/submit-lead` | `app/api/submit-lead/route.js` | Append lead row to Google Sheet. |
-| `POST /api/send-email` | `app/api/send-email/route.js` | Resend dispatch; 3 templates; test-mode reroute; CC/reply-to routing. |
+| `POST /api/send-email` | `app/api/send-email/route.js` | Resend dispatch; 4 templates; test-mode reroute; CC/reply-to routing. |
+| `POST /api/business-insight` | `app/api/business-insight/route.js` | Opt-in market read: `202` → `after()` runs `scoreBusiness` (grounded, ~90–130s) → emails `businessInsight`. Full feature: [`../product/BUSINESS_INSIGHT_SCORING.md`](../product/BUSINESS_INSIGHT_SCORING.md). |
 
 ### Online — shared logic (`lib/*.mjs`)
 | Module | Role |
@@ -189,7 +190,7 @@ POST { template, emailTo, subject, testRerouteTo?, replyTo?, ...templateFields }
                        cc: (!TEST && CONCIERGE_CC_EMAILS) || undefined,
                        replyTo })
 ```
-Templates: `twinConfirmation` (attendee recap), `salesRepNotification` (team handoff, flags missing-email matches), `matchIntro` (invitation with prominent confirm CTA + windows + talking points).
+Templates: `twinConfirmation` (attendee recap), `salesRepNotification` (team handoff, flags missing-email matches), `matchIntro` (invitation with prominent confirm CTA + windows + talking points), `businessInsight` (the opt-in market-read scorecard + Book-a-Demo CTA, with a `fallback` variant).
 
 ---
 

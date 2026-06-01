@@ -15,7 +15,7 @@
 
 After an attendee requests their networking intros (the existing concierge flow), Agent WALLi runs the **grounded scoring engine** (adapted from `score-mockup.mjs`) to research the attendee's company on the open web and score it across **five dimensions** that shape how advertisers discover and buy their media. Each dimension scores **0–100** with **exactly three evidence-cited bullets**, and maps to a Moving Walls product; the weakest scored dimension becomes a concrete product recommendation. The full scored report — plus a **Book a Demo** link — is delivered by **email**, computed **asynchronously** so the attendee never waits at the booth.
 
-This realises the May 12 plan: *"a basic score at the event booth, while the full report will be sent via email."* The booth screen shows only a teaser; the email carries the substance.
+This realises the May 12 plan: *"a basic score at the event booth, while the full report will be sent via email."* The booth screen carries a one-tap **opt-in** (no live scores); the email carries the substance.
 
 ## 2. Goals & Non-Goals
 
@@ -29,7 +29,7 @@ This realises the May 12 plan: *"a basic score at the event booth, while the ful
 ### Non-Goals
 - Not personalising the *intro* emails with scores (those send on the critical path at the concierge step — see §6).
 - Not precomputing scores into `scripts/scores.json` (the `score-all.mjs` / `lookupScore` path). Scoring is **live per submission** via the grounded engine. The dead `scores.json` lookup path is out of scope; leave it untouched.
-- Not surfacing live score dials on the booth screen (teaser only — see §5).
+- Not surfacing live score dials on the booth screen (opt-in CTA + emailed report only — see §5).
 - **Not pre-warming the research earlier in the journey** (e.g. at name selection). Scoring is triggered only at concierge submit — see §6 "Timing: why not pre-warm."
 - ~~Not migrating the scoring engine to the new `@google/genai` SDK.~~ **Updated post-ship:** the engine now runs on `@google/genai` over Vertex AI, sharing one client with the matching path — see §4 SDK note.
 
@@ -72,28 +72,36 @@ Move the engine out of the standalone script into a reusable, app-callable modul
 
 **SDK note (updated post-ship):** the engine was first ported on `@google/generative-ai` (the SDK `score-mockup.mjs` used) with an AI Studio API key. It was then migrated to `@google/genai` so it could run on **Vertex AI** (far higher quota than the AI Studio free tier's 15 rpm). The grounding-metadata extraction (`candidate.groundingMetadata.groundingChunks/groundingSupports/webSearchQueries`) is identical across both SDKs, so the migration touched only the client construction and the one `generateContent` call shape — the freeform-output + verification pipeline is unchanged. Because the matching path (`lib/match-reasons.mjs`) already used `@google/genai`, both grounded paths now share one client extracted to **`lib/genai-client.mjs`** (`genaiClient()`): prefers Vertex when `GCP_PROJECT_ID` + `GOOGLE_SERVICE_ACCOUNT_JSON` are set, falls back to an API key (`GOOGLE_GENERATIVE_AI_API_KEY` / `GEMINI_API_KEY`). See §9.
 
-## 5. On-screen behaviour (teaser only)
+## 5. On-screen behaviour (opt-in CTA)
 
-The booth screen shows **no live scores** and adds **no wait**. On the existing confirmation screen (`app/confirmation/page.js`), which already says *"Your intro request is on its way to your inbox,"* add one teaser line in WALLi's data-analyst voice:
+> **Updated post-ship:** the original design was a passive teaser line that implied the report was *already* being generated for everyone. That auto-fired ~2 min of grounded research for every submitter, including people who didn't want it. **Changed to an explicit opt-in.**
 
-> *"I've also analysed {Company}'s market presence — your full breakdown is on its way to your inbox."*
+The booth screen shows **no live scores** and adds **no wait**. On the confirmation screen (`app/confirmation/page.js`), below the intro confirmation, render an **opt-in card** in WALLi's data-analyst voice:
 
-If `company` is unknown, fall back to a generic phrasing (*"…analysed your business…"*). This is pure copy — no new screen, no fetch, no state.
+> *"Want to see what else I found? I can analyse {Company}'s market presence across five dimensions and email you the full breakdown."* + a **[Yes, email me the market read]** button.
+
+- Tapping the button fires `POST /api/business-insight` (see §6) and swaps the button for *"On its way to your inbox ✓"* (`insightState`: `idle → sending → sent`, with an `error` retry path). It cannot double-fire.
+- If `company` is unknown, fall back to generic phrasing (*"…analyse your business…"*). If no `email` is in `localStorage`, the card is hidden (can't deliver).
+- The profile (`name`, `company`, `role`, `linkedinUrl`, `email`) is read from `localStorage` (persisted at `/select-name`, email refreshed at concierge submit) — no re-collection.
+
+This is the **only** place the research is triggered; the concierge submit no longer fires it.
 
 ## 6. Flow, data, and async architecture
 
 Existing flow: `reveal` → `concierge` (tap **Send me the intros**, lead saved + intro/notification emails fire) → `confirmation`.
 
-This feature adds an **asynchronous insight job**, kicked off at the concierge submit step *without blocking it*:
+This feature adds an **asynchronous insight job**, triggered by the **opt-in tap on `/confirmation`** (§5) *without blocking the UI*:
 
-1. In `app/concierge/page.js handleSubmit`, after the existing intro emails resolve, **fire (do not await)** a POST to `POST /api/business-insight` with `{ name, company, role, linkedinUrl, email, slug }`, then navigate to `/confirmation` exactly as today.
+> **Updated post-ship:** the trigger moved from concierge submit (auto-fire for everyone) to an explicit opt-in tap on `/confirmation`. The concierge submit no longer fires it. The route and async mechanics below are unchanged.
+
+1. In `app/confirmation/page.js`, when the attendee taps the opt-in button, `requestMarketRead()` POSTs to `POST /api/business-insight` with `{ name, company, role, linkedinUrl, email }` (read from `localStorage`). The button reflects `sending`/`sent`/`error`; the page never navigates or waits on the result.
 2. `app/api/business-insight/route.js`:
-   - Validates input, returns **`202 Accepted` immediately**.
-   - Schedules the real work with **`waitUntil(...)`** so the function stays alive after responding (Vercel Fluid Compute). **Required** — a bare fire-and-forget dies when the client request closes on navigation.
-   - Scheduled work: map context → profile, call `scoreBusiness()`. The engine takes ~5 sequential grounded calls (~20–40s with spacing/retries) — fine, nobody waits. On success → POST `/api/send-email` with template `businessInsight` (pass `scores`, `summary`, `recommendation`, profile fields). On total failure (`scoreBusiness` throws / all dimensions withheld) → send the generic fallback email.
+   - Validates input (requires a valid `email`), returns **`202 Accepted` immediately**.
+   - Schedules the real work with Next.js **`after()`** (`import { after } from 'next/server'`) so the function stays alive after responding (Vercel Fluid Compute, `export const maxDuration = 300`). **Required** — a bare fire-and-forget dies when the client request closes.
+   - Scheduled work: map context → profile, call `scoreBusiness()`. The engine runs 5 sequential grounded calls; **measured ~90–130s per company** (4s inter-dimension spacing + up to 3 retries/dimension), well under the 300s limit. On success → POST `/api/send-email` with template `businessInsight` (pass `scores`, `summary`, `recommendation`, profile fields). On total failure (`scoreBusiness` throws / all dimensions withheld) → send the generic fallback email.
 3. The route builds the `recommendation` from the weakest **scored** dimension via `lib/business-score-mapping.mjs` (dimension key → `{ product, why }`).
 
-**Why `waitUntil` and not a plain async call:** the client navigates away immediately, cancelling its request; without `waitUntil` the platform may terminate the function mid-research. Alternatives if it proves insufficient (the ~5-call sequence is long): Vercel Queues or a Trigger.dev task — escalate only if needed.
+**Why `after()` and not a plain async call:** the work must outlive the response. `after()` is the Next.js App Router primitive that keeps the function alive after the `202` is sent (the spec originally called for Vercel's `waitUntil`; `after()` is the framework-level equivalent and what shipped). It has **no retry/durability** — if the instance dies mid-research that attendee gets nothing. Acceptable at booth volume; escalate to Vercel Queues / a Trigger.dev task only if guaranteed delivery, retries, or higher concurrency are needed (see §9).
 
 Walk-ins and RSVP attendees both reach this with `company`/`role`/`linkedinUrl` in context, so the flow is identical for both doors.
 
@@ -126,13 +134,14 @@ Reuse the route's `resolveDelivery` test-mode reroute so booth test runs never h
 1. **Scoring core** — port `score-mockup.mjs` → `lib/business-scores.mjs` (`scoreBusiness(profile)`, data-only return); extend to 5 dimensions with re-scoped boundaries; add `lib/business-score-mapping.mjs`. Verifiable via a thin `scripts/test-business-score.mjs` harness that calls `scoreBusiness` for one real attendee and prints scores/sources (mirrors the repo's `node scripts/*.mjs` verification convention — there is no test framework).
 2. **Email** — `businessInsight` template (adapted, rebranded scorecard + recommendation + Book a Demo CTA) + fallback variant in the send-email route; register in `BOOTH_TEMPLATES`.
 3. **Route + async job** — `POST /api/business-insight` (validate → 202 → `waitUntil` → `scoreBusiness` → send-email; build recommendation from mapping; fallback on failure).
-4. **Concierge wiring + teaser** — fire the insight job non-blocking from `handleSubmit`; add the teaser line to `app/confirmation/page.js`.
+4. **Confirmation opt-in** — render the opt-in CTA on `app/confirmation/page.js`; tapping it fires the insight job non-blocking. *(Originally "concierge wiring + teaser" — the auto-fire was removed from `handleSubmit` and replaced by this opt-in; see §5.)*
 
 ## 9. Open items
 
-- **Book a Demo URL** — ✅ **Resolved:** use a single `NEXT_PUBLIC_DEMO_URL` env as a placeholder for now; real booking link dropped in later.
+- **Book a Demo URL** — ⏳ **Pending hard-code:** the email CTA uses a single `NEXT_PUBLIC_DEMO_URL` env placeholder. The real booking link is to be **hard-coded** (per 2026-06-01 decision) once supplied.
 - **Shared GenAI client** — ✅ **Done (post-ship):** after the scorer was migrated to `@google/genai` on Vertex, the duplicated Vertex-or-API-key client block was extracted to `lib/genai-client.mjs` (`genaiClient()`). Both `lib/business-scores.mjs` and `lib/match-reasons.mjs` now import it. (Side effect: the matching path's API-key fallback now also accepts `GOOGLE_GENERATIVE_AI_API_KEY` in addition to `GEMINI_API_KEY` — a benign superset.)
-- **`waitUntil` runtime** — confirm the deployment target keeps functions alive for the full ~5-call grounded sequence (~20–40s); otherwise escalate to a queue / Trigger.dev task.
+- **Async runtime** — ✅ **Resolved:** ships on Next.js `after()` with `maxDuration = 300`. Measured ~90–130s per company, comfortably under the limit. **Decision (2026-06-01): keep `after()`, do NOT move to Trigger.dev** — it fits the limit, nobody waits, and the booth runs at modest volume. Revisit Trigger.dev only for guaranteed delivery/retries, concurrency limits, or if runtime approaches 5 min. (`after()` is best-effort: a mid-run instance death drops that one report.)
+- **Scoring model** — ⚠️ **Locked to `gemini-2.5-flash`.** Head-to-head tested (2026-06-01): 2.5-flash grounds 15/15 bullets on easy *and* thin-data companies; `gemini-3.1-flash-lite` returns empty grounding metadata (0/15 → all withheld) and `gemini-3.5-flash` emits `[n.n.n]` citation markers + phrasing that fails the ≥50% overlap check in `verifyBullets` (all withheld even on the easy case). Do not change `GEMINI_SCORE_MODEL` without re-running a head-to-head through the real scorer (not just a grounding probe).
 - **Grounding under load** — the engine is sequential with 4s spacing by design (parallel 429s and drops citations). With 5 dimensions that's longer; acceptable on the async path. Do not "optimise" into parallel calls.
 - **Verification without a test framework** — the repo has no jest/vitest. Phase 1 ships a `scripts/test-business-score.mjs` runnable harness; later phases verify by hitting the route and inspecting the email in `EMAIL_TEST_MODE`.
 

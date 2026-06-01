@@ -4,9 +4,9 @@
 
 **Goal:** Adapt the existing grounded scoring engine (`scripts/score-mockup.mjs`) into a live, async, email-delivered "what Agent WALLi found about your business" feature: 5 dimensions scored 0–100 with cited bullets, each mapped to a Moving Walls product, plus a Book a Demo CTA.
 
-**Architecture:** Port the engine to a data-only lib module (`lib/business-scores.mjs`), add a dimension→product mapping, render the report as a new `businessInsight` email template, and trigger it from a `POST /api/business-insight` route that returns `202` immediately and finishes the ~5-call grounded research after the response via Next.js `after()`. The concierge submit fires this non-blocking; the confirmation screen shows a teaser line.
+**Architecture:** Port the engine to a data-only lib module (`lib/business-scores.mjs`), add a dimension→product mapping, render the report as a new `businessInsight` email template, and trigger it from a `POST /api/business-insight` route that returns `202` immediately and finishes the grounded research (measured ~90–130s/company) after the response via Next.js `after()`. **Post-ship:** the trigger is an explicit **opt-in tap on the confirmation screen** — *not* an auto-fire on concierge submit (see Task 6 banner + spec §5).
 
-**Tech Stack:** Next.js 15.3.8 App Router (Node runtime, `after()`), `@google/generative-ai` SDK with Google Search grounding (`gemini-2.5-flash`), Resend email.
+**Tech Stack:** Next.js 15.3.8 App Router (Node runtime, `after()`, `maxDuration = 300`), **`@google/genai`** SDK on **Vertex AI** with Google Search grounding (`gemini-2.5-flash` — locked; see spec §9), Resend email. *(Originally ported on `@google/generative-ai` + AI Studio key, then migrated to `@google/genai` on Vertex via the shared `lib/genai-client.mjs`.)*
 
 **Spec:** [`BUSINESS_INSIGHT_SCORING.md`](./BUSINESS_INSIGHT_SCORING.md). Read it before starting — especially §3 (dimension boundaries) and §4 (what to keep vs change in the engine).
 
@@ -21,8 +21,8 @@
 - **Create** `scripts/test-business-score.mjs` — runnable harness that scores one profile and prints results (Phase 1 verification).
 - **Modify** `app/api/send-email/route.js` — add `businessInsightHtml` template + register in `BOOTH_TEMPLATES`.
 - **Create** `app/api/business-insight/route.js` — validate → `202` → `after()` → `scoreBusiness` → send email; fallback on failure.
-- **Modify** `app/concierge/page.js` — fire the insight job non-blocking in `handleSubmit`.
-- **Modify** `app/confirmation/page.js` — add the teaser line.
+- **Modify** `app/concierge/page.js` — *(post-ship)* remove the auto-fire from `handleSubmit`; the insight is now opt-in on `/confirmation`.
+- **Modify** `app/confirmation/page.js` — *(post-ship)* render the opt-in CTA that fires the insight on tap (replaces the original passive teaser line).
 
 ---
 
@@ -600,6 +600,8 @@ git commit -m "feat(api): add business-insight route (202 + after() grounded sco
 
 ## Task 6: Fire the insight job from concierge + add the confirmation teaser
 
+> ⚠️ **SUPERSEDED post-ship (2026-06-01).** The auto-fire-on-submit + passive teaser below was **replaced by an explicit opt-in**: the concierge auto-fire was removed, and `/confirmation` now shows a **[Yes, email me the market read]** button that fires `POST /api/business-insight` on tap (`requestMarketRead()`, `insightState: idle→sending→sent→error`, reading the profile from `localStorage`). Rationale: don't run ~2 min of grounded research for people who didn't ask for it. The route/async mechanics (Step-3/4 verification, commit) still apply. See spec §5–§6 for the current design. The Step 1/2 code blocks below are retained for history only.
+
 **Files:**
 - Modify: `app/concierge/page.js` (in `handleSubmit`, after `await Promise.all(emailTasks);` at line ~191, before `router.push('/confirmation')` at line ~196)
 - Modify: `app/confirmation/page.js` (the intro copy block, lines ~32–36)
@@ -667,5 +669,5 @@ git commit -m "feat(booth): fire async business-insight on submit + confirmation
 
 - **Spec coverage:** §3 dimensions+boundaries → Task 1; §3 product map → Task 2; §4 engine port → Task 1; §7 email+demo → Task 4; §6 async route → Task 5; §5 teaser + §6 concierge wiring → Task 6. Verification-without-tests (§9) → Task 3 harness + test-mode route/flow checks.
 - **Type consistency:** `scoreBusiness` returns `{ scores, sources, queries, summary, weakestKey }` (Task 1) — consumed by the route (Task 5) and `recommendationFor(weakestKey, label)` (Task 2). Each `scores[key]` carries `label`, `score`, `bullets`, `lowConfidence` — consumed by `businessInsightHtml` (Task 4). Internal key `easeOfPurchase` is retained everywhere (label "Ease of Booking" is display-only).
-- **Open items carried from spec §9:** real `NEXT_PUBLIC_DEMO_URL` (placeholder default used); confirm `after()`/`maxDuration` covers the full grounded sequence on the deploy target (Task 5 validates locally); do not parallelise the per-dimension calls.
+- **Open items carried from spec §9:** Book-a-Demo link **pending hard-code** (`NEXT_PUBLIC_DEMO_URL` placeholder in use); `after()`/`maxDuration = 300` **confirmed** to cover the ~90–130s/company sequence and **stays on `after()`** (not Trigger.dev) per the 2026-06-01 decision; scoring model **locked to `gemini-2.5-flash`** (3.5-flash / 3.1-flash-lite break grounding verification); do not parallelise the per-dimension calls.
 ```

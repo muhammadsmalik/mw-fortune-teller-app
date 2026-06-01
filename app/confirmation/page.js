@@ -10,10 +10,40 @@ import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 export default function ConfirmationPage() {
   const router = useRouter();
-  const [company, setCompany] = useState('');
+  // Profile for the opt-in market read, read from the data persisted at select-name
+  // (and the email refreshed at concierge submit). 'idle' until the attendee opts in.
+  const [profile, setProfile] = useState(null);
+  const [insightState, setInsightState] = useState('idle'); // idle | sending | sent | error
   useEffect(() => {
-    setCompany(localStorage.getItem('selectedAttendeeCompany') || '');
+    setProfile({
+      name: localStorage.getItem('selectedAttendeeName') || '',
+      company: localStorage.getItem('selectedAttendeeCompany') || '',
+      role: localStorage.getItem('selectedAttendeeRole') || '',
+      linkedinUrl: localStorage.getItem('selectedAttendeeLinkedInUrl') || '',
+      email: localStorage.getItem('selectedAttendeeEmail') || '',
+    });
   }, []);
+  const company = profile?.company || '';
+
+  // Opt-in: fire the grounded research only when the attendee taps. The route returns
+  // 202 instantly and finishes the ~2 min research server-side via after(), then emails
+  // the report — so once this request lands the attendee can leave; no need to wait.
+  const requestMarketRead = async () => {
+    if (insightState === 'sending' || insightState === 'sent' || !profile?.email) return;
+    setInsightState('sending');
+    try {
+      const res = await fetch('/api/business-insight', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(profile),
+      });
+      if (!res.ok) throw new Error(`status ${res.status}`);
+      setInsightState('sent');
+    } catch (err) {
+      console.error('[confirmation] market-read request failed', err);
+      setInsightState('error');
+    }
+  };
 
   const handleReset = () => {
     if (typeof window !== 'undefined') {
@@ -39,11 +69,38 @@ export default function ConfirmationPage() {
             <br />
             Drop by the Moving Walls booth and Agent WALLi&apos;s team will make the intro in person.
           </p>
-          <p className="mt-4 text-sm text-mw-light-blue leading-relaxed">
-            {company
-              ? `I've also analysed ${company}'s market presence — your full breakdown is on its way to your inbox.`
-              : `I've also analysed your business — your full breakdown is on its way to your inbox.`}
-          </p>
+          {profile?.email && (
+            <div className="mt-6 rounded-lg border border-mw-blue-electric/30 bg-mw-blue-electric/5 p-4 text-left">
+              <p className="text-xs uppercase tracking-wider text-mw-light-blue mb-2">
+                One more thing
+              </p>
+              <p className="text-sm text-mw-white/85 leading-relaxed mb-3">
+                {company
+                  ? `Want to see what else I found? I can analyse ${company}'s market presence across five dimensions and email you the full breakdown.`
+                  : `Want to see what else I found? I can analyse your business across five dimensions and email you the full breakdown.`}
+              </p>
+              {insightState === 'sent' ? (
+                <p className="text-sm font-medium text-mw-light-blue">
+                  On its way to your inbox ✓
+                </p>
+              ) : (
+                <>
+                  <Button
+                    onClick={requestMarketRead}
+                    disabled={insightState === 'sending'}
+                    className="w-full bg-mw-blue-electric text-white hover:bg-mw-blue-electric/90"
+                  >
+                    {insightState === 'sending' ? 'Sending…' : 'Yes, email me the market read'}
+                  </Button>
+                  {insightState === 'error' && (
+                    <p className="mt-2 text-xs text-red-300">
+                      Something went wrong — tap to try again.
+                    </p>
+                  )}
+                </>
+              )}
+            </div>
+          )}
 
           <div className="mt-8 rounded-lg border border-white/15 bg-white/5 p-4 text-left">
             <p className="text-xs uppercase tracking-wider text-mw-light-blue mb-2">
