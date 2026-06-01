@@ -1,5 +1,6 @@
 'use client';
 
+import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import BrandFooter from '@/components/ui/BrandFooter';
@@ -9,8 +10,10 @@ import { MEETING_SLOTS } from '@/lib/meeting-slots';
 
 export default function ConfirmationPage() {
   const router = useRouter();
-  const company =
-    typeof window !== 'undefined' ? window.localStorage.getItem('selectedAttendeeCompany') || '' : '';
+  const [company, setCompany] = useState('');
+  useEffect(() => {
+    setCompany(localStorage.getItem('selectedAttendeeCompany') || '');
+  }, []);
 
   const handleReset = () => {
     if (typeof window !== 'undefined') {
