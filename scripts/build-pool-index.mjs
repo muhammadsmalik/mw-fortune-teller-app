@@ -61,15 +61,18 @@ function toSlug(url) {
   return raw.replace(/[^a-zA-Z0-9_-]/g, '_');
 }
 
-// Legacy local headshots were downloaded by the OLD index-map's numeric index.
-// Map slug → local photo path so the 453 already-photographed people keep their
-// booth headshots in the expanded pool. (New people get '' → UI shows initials.)
+// Local headshots are stored as public/match-photos/<KEY>.jpg, where KEY is the
+// index-map's object key — that's what download-profile-pics.mjs writes. Use the
+// SAME key here, NOT the 1-based `e.index` field: `e.index === key + 1` for every
+// entry, so referencing `e.index` pointed each person at the NEXT person's photo.
+// Map slug → local photo path so already-photographed people keep their booth
+// headshots in the expanded pool. (New people get '' → UI shows initials.)
 const legacyHeadshot = {};
 try {
   const old = JSON.parse(fs.readFileSync(OLD_INDEX, 'utf8'));
   for (const [idx, e] of Object.entries(old)) {
     const key = toSlug(e.linkedin_url) || (e.public_identifier || '').replace(/[^a-zA-Z0-9_-]/g, '_');
-    if (key && fs.existsSync(photoFile(ROOT, e.index ?? idx))) legacyHeadshot[key] = photoPublicPath(e.index ?? idx);
+    if (key && fs.existsSync(photoFile(ROOT, idx))) legacyHeadshot[key] = photoPublicPath(idx);
   }
 } catch { /* optional */ }
 

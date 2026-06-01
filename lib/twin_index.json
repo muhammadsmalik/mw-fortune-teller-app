@@ -907,7 +907,7 @@
     "name": "Darren McKinon",
     "role": "Commercial Director at Epic Outdoor",
     "company": "Epic Outdoor",
-    "email": "Darren@epicoutdoor.co.za",
+    "email": "darren@epicoutdoor.co.za",
     "linkedinUrl": "https://www.linkedin.com/in/darrenmckinon/"
   },
   {
@@ -1053,7 +1053,7 @@
     "name": "Dio Boaca",
     "role": "Chief Executive Officer at Phoenix Media DOOH Advertising",
     "company": "Phoenix Media",
-    "email": "Dio.boaca@phoenixmedia.ro",
+    "email": "dio.boaca@phoenixmedia.ro",
     "linkedinUrl": "https://www.linkedin.com/in/dio-boaca-1189a42b1/"
   },
   {
@@ -1693,6 +1693,14 @@
     "company": "GLOBAL DISPLAY SOLUTIONS",
     "email": "",
     "linkedinUrl": "https://www.linkedin.com/in/ilaria-giambruno-595509b/"
+  },
+  {
+    "slug": "yiannis-portokalakis-54688740",
+    "name": "Ioannis Portokalakis",
+    "role": "Owner at Citrus Byte",
+    "company": "ATRAPOSMEDIA",
+    "email": "n.portokalakis@atraposmedia.com",
+    "linkedinUrl": "https://www.linkedin.com/in/yiannis-portokalakis-54688740/?isSelfProfile=false"
   },
   {
     "slug": "irvan-f-33767080",
@@ -3100,7 +3108,7 @@
     "name": "Nikolas Portokalakis",
     "role": "Business Development Manager at Atrapos",
     "company": "ATRAPOSMEDIA",
-    "email": "n.portokalakis@atraposmedia.com",
+    "email": "",
     "linkedinUrl": "https://www.linkedin.com/in/portokalakis/?isSelfProfile=false"
   },
   {
@@ -4051,7 +4059,7 @@
     "name": "Tuxworth Gareth",
     "role": "Operations Director ·",
     "company": "Alight Media",
-    "email": "Gareth@alightmedia.com",
+    "email": "gareth@alightmedia.com",
     "linkedinUrl": "",
     "pending": true
   },
