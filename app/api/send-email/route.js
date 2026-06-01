@@ -263,7 +263,12 @@ const BI_DIM_ORDER = ['discoverability', 'easeOfPurchase', 'measurement', 'progr
 const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://www.movingwalls.com/contact';
 
 function biEscape(s) {
-  return String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return String(s ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 function biClamp(n) { return Math.max(0, Math.min(100, Number(n) || 0)); }
 
@@ -345,7 +350,7 @@ function businessInsightHtml({ fullName, title, company, region, scores, summary
 }
 
 function biShell(inner) {
-  return `<!DOCTYPE html><html><head><meta name="color-scheme" content="light dark"></head>
+  return `<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="color-scheme" content="light dark"></head>
   <body style="margin:0;padding:0;background-color:#0c0e16;">
     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#0c0e16;padding:24px;"><tr><td align="center">
       <div style="max-width:600px;margin:auto;text-align:left;background:${BI_NAVY};border:1px solid #2a3566;border-radius:14px;overflow:hidden;font-family:'Helvetica Neue',Arial,sans-serif;color:#eaf0fa;">
@@ -382,8 +387,9 @@ export async function POST(request) {
         to,
         subject: finalSubject,
         html: BOOTH_TEMPLATES[template](body),
-        // CC internal MW staff on live concierge sends; skipped in test mode.
-        ...(!EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0 && { cc: CONCIERGE_CC_EMAILS }),
+        // CC internal MW staff on live concierge sends; skipped in test mode and
+        // for businessInsight (a 1:1 automated report, not a concierge handoff).
+        ...(template !== 'businessInsight' && !EMAIL_TEST_MODE && CONCIERGE_CC_EMAILS.length > 0 && { cc: CONCIERGE_CC_EMAILS }),
         ...(replyTo && { replyTo }),
       });
       if (error) {
