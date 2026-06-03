@@ -167,6 +167,10 @@ for (const v of sources) {
 for (const r of rsvpOnly) {
   const slug = r.slug;
   if (out[slug]) continue;
+  // A pending entry with no LinkedIn URL can neither precompute NOR live-fallback
+  // (the walk-in path has nothing to fetch) — picking it dead-ends. Drop it from
+  // the picker entirely; if a URL is added later it reappears automatically.
+  if (!(r.linkedinUrl || '').trim()) continue;
   out[slug] = { source: { headshotUrl: '' }, matches: [] };
   directory.push({ slug, name: r.name, role: r.role || '', company: r.company || '', email: r.email || '', linkedinUrl: r.linkedinUrl || '', pending: true });
 }
