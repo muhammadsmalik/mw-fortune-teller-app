@@ -1,9 +1,13 @@
 #!/usr/bin/env node
-// Joins the RSVP CSV (38 attendees) with the Master tracker CSV to pull
-// LinkedIn URLs (matched on email), derives a stable slug per attendee,
-// and writes lib/rsvp_attendees.json for the new WOO booth flow.
+// Reads the Meet-Your-Twin RSVP CSV (LinkedIn URLs inline) and writes
+// lib/rsvp_attendees.json for the WOO booth flow, deriving a stable slug per
+// attendee from their LinkedIn URL (falls back to a name slug when blank).
 //
-// Re-run when either CSV changes:
+// (The old Sheet1 export had no LinkedIn column, so this script used to
+// email-join URLs off the master tracker; the updated export carries them
+// inline, so that join is gone.)
+//
+// Re-run when the RSVP CSV changes:
 //   node scripts/build-rsvp-json.mjs
 
 import fs from 'node:fs';
@@ -13,8 +17,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
-const RSVP_CSV = path.join(ROOT, 'ATTENDEES-RSVP-LISTS', 'Meet Your Twin RSVP List - Sheet1.csv');
-const MASTER_CSV = path.join(ROOT, 'ATTENDEES-RSVP-LISTS', 'WOO_London_Attendee_Tracker_Final_MASTER SHEET.xlsx - WOO 2026 Attendee Tracker.csv');
+const RSVP_CSV = path.join(ROOT, 'ATTENDEES-RSVP-LISTS', 'Meet Your Twin RSVP List - RSVP - Updated.csv');
 const OUT = path.join(ROOT, 'lib', 'rsvp_attendees.json');
 
 // Minimal CSV parser that handles quoted fields and commas inside quotes.
@@ -73,27 +76,17 @@ function normalizeName(raw) {
   return s;
 }
 
-const rsvpRows = rowsToObjects(parseCsv(fs.readFileSync(RSVP_CSV, 'utf-8')));
-const masterRows = rowsToObjects(parseCsv(fs.readFileSync(MASTER_CSV, 'utf-8')));
-
-// Build email + name lookups from the master sheet. Prefer the confirmed
-// "LinkedIn Profile URL" column; fall back to "URL 1" if absent.
-const masterByEmail = new Map();
-const masterByName = new Map();
-for (const row of masterRows) {
-  const url = row['LinkedIn Profile URL'] || row['LinkedIn Profile URL 1'] || '';
-  if (!url) continue;
-  const email = (row['Email'] || '').toLowerCase().trim();
-  if (email && !masterByEmail.has(email)) masterByEmail.set(email, url);
-  const nameKey = slugify(normalizeName(row['Full Name']));
-  if (nameKey && !masterByName.has(nameKey)) masterByName.set(nameKey, url);
-}
+const rsvpRows = rowsToObjects(parseCsv(fs.readFileSync(RSVP_CSV, 'utf-8')))
+  // Drop rows that carry only a stray index column (e.g. the trailing blank row),
+  // so the picker never shows a nameless "(no name)" entry.
+  .filter((row) => (row['Full Name'] || '').trim());
 
 const out = rsvpRows.map((row) => {
   const name = normalizeName(row['Full Name']);
   const email = (row['Email'] || '').toLowerCase().trim();
   const nameKey = slugify(name);
-  const linkedinUrl = masterByEmail.get(email) || masterByName.get(nameKey) || '';
+  // LinkedIn URL is now inline in the RSVP export (blank for a handful of rows).
+  const linkedinUrl = (row['LinkedIn'] || '').trim();
   const slug = extractLinkedInSlug(linkedinUrl) || nameKey;
   return {
     slug,
@@ -112,5 +105,5 @@ fs.writeFileSync(OUT, JSON.stringify(out, null, 2) + '\n');
 
 const withLi = out.filter((a) => a.linkedinUrl).length;
 console.log(`Wrote ${out.length} attendees to ${path.relative(ROOT, OUT)}`);
-console.log(`  ${withLi} matched to a LinkedIn URL via email join`);
+console.log(`  ${withLi} have an inline LinkedIn URL`);
 console.log(`  ${out.length - withLi} missing — slug fell back to name slug`);

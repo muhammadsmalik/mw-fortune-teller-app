@@ -6,8 +6,18 @@
     "company": "ALOOH GRUPO AL SUR WOOHO",
     "role": "Founder and CEO",
     "country": "Argentina",
-    "companyType": "Industry Association / OOH Platform",
-    "linkedinUrl": "https://www.linkedin.com/in/guillermo-de-lella/?locale=en"
+    "companyType": "Industry Association / OOH Platform\r\n- Industry Association",
+    "linkedinUrl": "https://ar.linkedin.com/in/guillermo-de-lella/en"
+  },
+  {
+    "slug": "mariano-oreguy-60265a23",
+    "name": "oreguy Mariano",
+    "email": "marianooreguy@wallstreet.com.ar",
+    "company": "Wallstreet",
+    "role": "Director Comercial",
+    "country": "argentina",
+    "companyType": "Media Owner",
+    "linkedinUrl": "https://ar.linkedin.com/in/mariano-oreguy-60265a23/en"
   },
   {
     "slug": "declan-carnes-61911b60",
@@ -17,37 +27,77 @@
     "role": "COO",
     "country": "Australia",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/declan-carnes-61911b60/"
+    "linkedinUrl": "https://au.linkedin.com/in/declan-carnes-61911b60"
   },
   {
-    "slug": "whitford-adam",
+    "slug": "adam-whitford-a571a760",
     "name": "Whitford Adam",
     "email": "adam@civicoutdoor.com.au",
     "company": "Civic",
     "role": "Director",
     "country": "Australia",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://au.linkedin.com/in/adam-whitford-a571a760"
   },
   {
-    "slug": "cook-noel",
+    "slug": "noel-cook-4bb375110",
     "name": "Cook Noel",
     "email": "noel.cook@wildstonecapital.com.au",
     "company": "Wildstone Australia",
     "role": "Managing Director",
     "country": "Australia",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://au.linkedin.com/in/noel-cook-4bb375110"
   },
   {
-    "slug": "magalhaes-amaury",
+    "slug": "areefvohra",
+    "name": "Vohra Areef",
+    "email": "areefv@perion.com",
+    "company": "Perion",
+    "role": "Director Publisher Solutions APACCountry:AustraliaAny food allergies or intolerances? Please describe.:no",
+    "country": "Australia",
+    "companyType": "Ad Tech / SSP / DSP",
+    "linkedinUrl": "https://au.linkedin.com/in/areefvohra"
+  },
+  {
+    "slug": "fabisoriano",
+    "name": "Soriano Fabiana",
+    "email": "fabisoriano@outdoor.org.br",
+    "company": "Central de Outdoor",
+    "role": "Executive Director",
+    "country": "Brasil",
+    "companyType": "Industry Association / OOH Platform",
+    "linkedinUrl": "https://br.linkedin.com/in/fabisoriano"
+  },
+  {
+    "slug": "felipe-davis-ooh",
+    "name": "Davis Felipe",
+    "email": "felipe.davis@oohbrasil.com.br",
+    "company": "OOH BRASIL",
+    "role": "CEO",
+    "country": "Brasil",
+    "companyType": "Industry Association / OOH Platform",
+    "linkedinUrl": "https://br.linkedin.com/in/felipe-davis-ooh"
+  },
+  {
+    "slug": "amaury-magalhaes",
     "name": "Magalhaes Amaury",
     "email": "amaury.magalhaes@neooh.com.br",
     "company": "Neooh",
     "role": "Sales Director",
     "country": "Brazil",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/amaury-magalhaes/"
+  },
+  {
+    "slug": "halissonpontarola",
+    "name": "Pontarola Halisson",
+    "email": "halisson@outdoormidia.com.br",
+    "company": "Outdoormidia",
+    "role": "CEO",
+    "country": "Brazil",
+    "companyType": "Media Owner",
+    "linkedinUrl": "https://br.linkedin.com/in/halissonpontarola"
   },
   {
     "slug": "tom%c3%a1s-almarza-villaseca-06174939",
@@ -57,7 +107,7 @@
     "role": "Co-founder & CEO",
     "country": "Chile",
     "companyType": "Media Owner / Platform",
-    "linkedinUrl": "https://www.linkedin.com/in/tom%C3%A1s-almarza-villaseca-06174939/?isSelfProfile=false"
+    "linkedinUrl": "https://cl.linkedin.com/in/tom%C3%A1s-almarza-villaseca-06174939"
   },
   {
     "slug": "rodriguez-federico",
@@ -77,7 +127,7 @@
     "role": "Head of Research, BigMedia / BigBoard",
     "country": "Czech Republic",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/hana-friedlaenderov%C3%A1-b415248/?isSelfProfile=false"
+    "linkedinUrl": "https://cz.linkedin.com/in/hana-friedlaenderov%C3%A1-b415248"
   },
   {
     "slug": "leslie-scott",
@@ -90,94 +140,134 @@
     "linkedinUrl": ""
   },
   {
-    "slug": "yiannis-portokalakis-54688740",
+    "slug": "valentinbueno",
+    "name": "Bueno Valentin",
+    "email": "vbueno@latcom.com",
+    "company": "Worldcom OOH",
+    "role": "CEO",
+    "country": "Estados Unidos",
+    "companyType": "Industry Association / OOH Network",
+    "linkedinUrl": "https://www.linkedin.com/in/valentinbueno/"
+  },
+  {
+    "slug": "elias-bauguil-b95b756a",
+    "name": "Elias Bauguil",
+    "email": "ebauguil@mereo.ai",
+    "company": "Mereo",
+    "role": "CEO",
+    "country": "France",
+    "companyType": "Ad Tech / AI Platform",
+    "linkedinUrl": "https://fr.linkedin.com/in/elias-bauguil-b95b756a/fr"
+  },
+  {
+    "slug": "leojullien",
+    "name": "Jullien Léo",
+    "email": "ljullien@mereo.fr",
+    "company": "MEREO",
+    "role": "VP Client Success and Partnerships",
+    "country": "France",
+    "companyType": "Ad Tech / AI Platform",
+    "linkedinUrl": "https://es.linkedin.com/in/leojullien"
+  },
+  {
+    "slug": "portokalakis",
     "name": "Nikolas Portokalakis",
     "email": "n.portokalakis@atraposmedia.com",
     "company": "ATRAPOSMEDIA",
-    "role": "CEO",
+    "role": "Business Development Manager",
     "country": "Greece",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/yiannis-portokalakis-54688740/?isSelfProfile=false"
+    "linkedinUrl": "https://gr.linkedin.com/in/portokalakis"
   },
   {
     "slug": "chirag-vasudeva-b599a5174",
     "name": "Chirag Vasudeva",
     "email": "chirag@pioneerpublicityindia.com",
     "company": "Pioneer Publicity Corporation Pvt. Ltd.",
-    "role": "Director",
+    "role": "Business Leader",
     "country": "India",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/chirag-vasudeva-b599a5174/?isSelfProfile=false"
+    "linkedinUrl": "https://in.linkedin.com/in/chirag-vasudeva-b599a5174"
   },
   {
-    "slug": "prashant-verma-23a045aa",
+    "slug": "prashant-verma-4224b238",
     "name": "Prashant Verma",
     "email": "prashantv@pioneerpublicityindia.com",
     "company": "Pioneer Publicity Corporation Pvt. Ltd.",
     "role": "CEO",
     "country": "India",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/prashant-verma-23a045aa/?isSelfProfile=false"
+    "linkedinUrl": "https://in.linkedin.com/in/prashant-verma-4224b238"
   },
   {
-    "slug": "anipole-opeyemi",
+    "slug": "opeyemi-anipole-62423420",
     "name": "Anipole Opeyemi",
     "email": "ope@bowbonishltd.com",
     "company": "Bowbonish Ltd",
     "role": "Managing Director",
     "country": "Nigeria",
     "companyType": "Media Owner / Advertising Company",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://ng.linkedin.com/in/opeyemi-anipole-62423420?trk=public_post-text"
   },
   {
-    "slug": "hania-al-hadhrami",
+    "slug": "fatiu-a-akiolu-03935638",
+    "name": "Akiolu Fatiu",
+    "email": "fatiuakiolu@gmail.com",
+    "company": "Lagos State signage and advertisement agency",
+    "role": "MD/ CEO",
+    "country": "Nigeria",
+    "companyType": "Government / Regulatory Authority — OOH & Signage",
+    "linkedinUrl": "https://ng.linkedin.com/in/fatiu-a-akiolu-03935638"
+  },
+  {
+    "slug": "hania-al-hadhrami-b3a65b84",
     "name": "Hania Al Hadhrami",
     "email": "hania@serajmedia.com",
     "company": "ONEIC Media - Seraj",
     "role": "Product Lead Manager",
     "country": "Oman",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://om.linkedin.com/in/hania-al-hadhrami-b3a65b84"
   },
   {
-    "slug": "fahad-al-dughaishi",
+    "slug": "fahad-al-dughaish",
     "name": "Fahad Al Dughaishi",
     "email": "fahad@serajmedia.com",
     "company": "Seraj Media",
     "role": "CEO",
     "country": "Oman",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/fahad-al-dughaish"
   },
   {
-    "slug": "boaca-dio",
+    "slug": "dio-boaca-1189a42b1",
     "name": "Boaca Dio",
     "email": "dio.boaca@phoenixmedia.ro",
     "company": "Phoenix Media",
     "role": "CEO",
     "country": "Romania",
     "companyType": "Media owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://ro.linkedin.com/in/dio-boaca-1189a42b1"
   },
   {
-    "slug": "ursan-bogdan",
+    "slug": "bogdan-ursan-099824202",
     "name": "Ursan Bogdan",
     "email": "bogdan.ursan@phoenixmedia.ro",
     "company": "Phoenix Media",
     "role": "CIO",
     "country": "Romania",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://ro.linkedin.com/in/bogdan-ursan-099824202"
   },
   {
-    "slug": "omura-kohei",
+    "slug": "kohei-omura",
     "name": "OMURA KOHEI",
     "email": "koh@jreventures.com",
     "company": "JREVENTURES",
     "role": "MASTRUM",
     "country": "singapore",
     "companyType": "Investor / Venture Platform",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://sg.linkedin.com/in/kohei-omura/en"
   },
   {
     "slug": "kim-labuschagne-bb9599179",
@@ -187,67 +277,67 @@
     "role": "Head of Operations",
     "country": "South Africa",
     "companyType": "Media Owner",
-    "linkedinUrl": "https://www.linkedin.com/in/kim-labuschagne-bb9599179/"
+    "linkedinUrl": "https://za.linkedin.com/in/kim-labuschagne-bb9599179"
   },
   {
-    "slug": "du-preez-remi",
+    "slug": "remidupreez",
     "name": "du Preez Remi",
     "email": "remi@pdooh.co.za",
     "company": "Polygon",
     "role": "Managing Director",
     "country": "South Africa",
     "companyType": "Programmatic Network / Aggregator",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://za.linkedin.com/in/remidupreez"
   },
   {
-    "slug": "gray-kyle",
+    "slug": "kyle-gray-60614055",
     "name": "Gray Kyle",
     "email": "kyle@pdooh.co.za",
     "company": "Polygon",
     "role": "Commercial Director",
     "country": "South Africa",
     "companyType": "Programmatic Network / Aggregator",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://za.linkedin.com/in/kyle-gray-60614055"
   },
   {
-    "slug": "mouton-ruchelle",
+    "slug": "ruchellebarker",
     "name": "Mouton Ruchelle",
     "email": "ruchelle@glyntgroup.co.za",
     "company": "Glynt",
     "role": "Chief Marketing Officer",
     "country": "South Africa",
     "companyType": "Media Owner, Parent Group",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://za.linkedin.com/in/ruchellebarker"
   },
   {
-    "slug": "vlaming-neil",
+    "slug": "neil-vlaming-a58b9b8",
     "name": "Vlaming Neil",
     "email": "neil@epicoutdoor.co.za",
     "company": "Epic Outdoor",
     "role": "Director",
     "country": "South Africa",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://za.linkedin.com/in/neil-vlaming-a58b9b8"
   },
   {
-    "slug": "mckinon-darren",
+    "slug": "darrenmckinon",
     "name": "Mckinon Darren",
     "email": "darren@epicoutdoor.co.za",
     "company": "Epic Outdoor",
     "role": "Commercial Director",
     "country": "South Africa",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://za.linkedin.com/in/darrenmckinon"
   },
   {
-    "slug": "lee-hyun",
+    "slug": "airportseoul",
     "name": "Lee Hyun",
     "email": "hyun@airportseoul.com",
     "company": "KED",
     "role": "General Manager",
     "country": "South Korea",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://kr.linkedin.com/in/airportseoul"
   },
   {
     "slug": "michel-helmes-9aab324",
@@ -257,107 +347,107 @@
     "role": "International Sales Director",
     "country": "The Netherlands",
     "companyType": "OOH Sales / Concessionaire",
-    "linkedinUrl": "https://www.linkedin.com/in/michel-helmes-9aab324/?isSelfProfile=false"
+    "linkedinUrl": "https://nl.linkedin.com/in/michel-helmes-9aab324"
   },
   {
-    "slug": "ball-jamie",
+    "slug": "jamiemball",
     "name": "Ball Jamie",
     "email": "jamie.ball@elevision.com",
     "company": "Elevision",
     "role": "Managing Director",
     "country": "UK",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://uk.linkedin.com/in/jamiemball"
   },
   {
-    "slug": "tuxworth-gareth",
+    "slug": "gareth-tuxworth-5ba168152",
     "name": "Tuxworth Gareth",
     "email": "gareth@alightmedia.com",
     "company": "Alight Media",
     "role": "Operations Director ·",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://uk.linkedin.com/in/gareth-tuxworth-5ba168152"
   },
   {
-    "slug": "janmohamed-abeed",
+    "slug": "abeedjanmohamed",
     "name": "Janmohamed Abeed",
     "email": "abeed@volandoglobal.com",
     "company": "Volando",
     "role": "Founding Partner",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://uk.linkedin.com/in/abeedjanmohamed"
   },
   {
-    "slug": "moses-asher",
+    "slug": "asher-moses-3970856",
     "name": "Moses Asher",
     "email": "asher@sherbetlondon.com",
     "company": "Sherbet London",
     "role": "CEO / FOUNDER",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://uk.linkedin.com/in/asher-moses-3970856"
   },
   {
-    "slug": "ray-camilla",
+    "slug": "camilla-ray-42908a2",
     "name": "Ray Camilla",
     "email": "camilla.ray@nectar360.co.uk",
     "company": "Nectar360 (Sainsbury’s Group)",
     "role": "Planning Director",
     "country": "United Kingdom",
     "companyType": "Retail Media",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/camilla-ray-42908a2/"
   },
   {
-    "slug": "white-tanya",
+    "slug": "tatjanasekunda",
     "name": "White Tanya",
     "email": "tanya.white@global.com",
     "company": "Global Media & Enterteinment",
     "role": "Head of International Sales",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/tatjanasekunda/"
   },
   {
-    "slug": "benna-nazli",
+    "slug": "nazlibennabrown",
     "name": "Benna Nazli",
     "email": "nazli.benna@global.com",
     "company": "Global Media",
     "role": "Senior International Key Account Manager",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/nazlibennabrown/"
   },
   {
-    "slug": "dearden-matthew",
+    "slug": "dearden",
     "name": "Dearden Matthew",
     "email": "matthew@alightmedia.com",
     "company": "Alight Media Limited",
     "role": "CEO",
     "country": "United Kingdom",
     "companyType": "Media Owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/dearden/"
   },
   {
-    "slug": "buckhahn-alissa",
+    "slug": "alissaknutson",
     "name": "Buckhahn Alissa",
     "email": "alissa@ad-moto.com",
     "company": "Ad-MOTO",
     "role": "Head of Sales",
     "country": "United Kingdom",
     "companyType": "Media owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/alissaknutson/"
   },
   {
-    "slug": "oliver-bolt-alex",
+    "slug": "alex-oliver-bolt11",
     "name": "Oliver-Bolt Alex",
     "email": "alex@ad-moto.com",
     "company": "AdMOTO Limited",
     "role": "CEO",
     "country": "United Kingdom",
     "companyType": "Media owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/alex-oliver-bolt11/"
   },
   {
     "slug": "andy-francksen1",
@@ -370,23 +460,233 @@
     "linkedinUrl": "https://www.linkedin.com/in/andy-francksen1/"
   },
   {
-    "slug": "sotos-thimio",
+    "slug": "michaelfrancoromero",
+    "name": "Franco Michael",
+    "email": "mfranco@wecommunicateus.com",
+    "company": "We Communicate",
+    "role": "CEO",
+    "country": "United States",
+    "companyType": "Media Agency / Communications",
+    "linkedinUrl": "https://www.linkedin.com/in/michaelfrancoromero/"
+  },
+  {
+    "slug": "efthimios-sotos-a5468722",
     "name": "Sotos Thimio",
     "email": "thimio.sotos@kevani.com",
     "company": "Kevani",
     "role": "CFO",
     "country": "USA",
     "companyType": "Media owner",
-    "linkedinUrl": ""
+    "linkedinUrl": "https://www.linkedin.com/in/efthimios-sotos-a5468722/"
   },
   {
-    "slug": "bartanian-kevin",
+    "slug": "bartanian",
     "name": "Bartanian Kevin",
     "email": "kb@kevani.com",
     "company": "Kevani",
     "role": "CEO",
     "country": "USA",
     "companyType": "Media owner",
+    "linkedinUrl": "https://www.linkedin.com/in/bartanian/"
+  },
+  {
+    "slug": "dylan-temple-heald",
+    "name": "Temple-Heald Dylan",
+    "email": "dylan@hypermedia.ae",
+    "company": "Hypermedia",
+    "role": "Head of Programmatic pDOOH",
+    "country": "United Arab Emirates",
+    "companyType": "Media Owner / Programmatic DOOH Network",
+    "linkedinUrl": "https://www.linkedin.com/in/dylan-temple-heald/"
+  },
+  {
+    "slug": "ryan-auyok-21b710135",
+    "name": "Auyok Ryan",
+    "email": "ryan@growthcreditpartners.com",
+    "company": "Growth Credit Partners",
+    "role": "Investor/Venture Platform",
+    "country": "United Kingdom",
+    "companyType": "Investor / Credit Investment Firm",
+    "linkedinUrl": "https://www.linkedin.com/in/ryan-auyok-21b710135/"
+  },
+  {
+    "slug": "chris-gadek",
+    "name": "Chris Gadek",
+    "email": "",
+    "company": "AdQuick",
+    "role": "",
+    "country": "USA",
+    "companyType": "AdTech / OOH Buying Platform / DSP",
+    "linkedinUrl": ""
+  },
+  {
+    "slug": "kunkel-de-cesero-jason",
+    "name": "Kunkel-de Cesero Jason",
+    "email": "jason@adquick.com",
+    "company": "AdQuick",
+    "role": "Chief Development Officer",
+    "country": "USA",
+    "companyType": "AdTech / OOH Buying Platform / DSP",
+    "linkedinUrl": ""
+  },
+  {
+    "slug": "katieburwell",
+    "name": "Katie Burwell",
+    "email": "katie@adquick.com",
+    "company": "AdQuick",
+    "role": "Sr Director, Marketplace Growth and Partnerships",
+    "country": "USA",
+    "companyType": "AdTech / OOH Buying Platform / DSP",
+    "linkedinUrl": "https://www.linkedin.com/in/katieburwell/"
+  },
+  {
+    "slug": "bskrprice",
+    "name": "Price Ben",
+    "email": "ben@beunskripted.com",
+    "company": "Be Unskripted Ltd",
+    "role": "Ben",
+    "country": "UK",
+    "companyType": "Creative Agency / Content & Production Company",
+    "linkedinUrl": "https://www.linkedin.com/in/bskrprice/"
+  },
+  {
+    "slug": "ricardo-echeverri-92201a44",
+    "name": "Echeverri Ricardo",
+    "email": "recheverri@icomedios.com",
+    "company": "iCo Medios",
+    "role": "CEO",
+    "country": "Colombia",
+    "companyType": "Media Owner (DOOH / OOH Network)",
+    "linkedinUrl": "https://www.linkedin.com/in/ricardo-echeverri-92201a44/"
+  },
+  {
+    "slug": "monish-prakash-05907b232",
+    "name": "Prakash Monish",
+    "email": "monish@prakasharts.com",
+    "company": "Prakash Arts",
+    "role": "Director",
+    "country": "India",
+    "companyType": "Media Owner (OOH / Billboard Operator)",
+    "linkedinUrl": "https://www.linkedin.com/in/monish-prakash-05907b232/"
+  },
+  {
+    "slug": "dearden",
+    "name": "Dearden Matthew",
+    "email": "matthew@alightmedia.com",
+    "company": "Alight Media Limited",
+    "role": "CEO",
+    "country": "United Kingdom",
+    "companyType": "Media Owner (Street Furniture & Transport Advertising)",
+    "linkedinUrl": "https://www.linkedin.com/in/dearden/"
+  },
+  {
+    "slug": "alexander-stotz",
+    "name": "Stotz Alexander",
+    "email": "jebert@stroeer.de",
+    "company": "Ströer Media Deutschland GmbH",
+    "role": "CEO",
+    "country": "Germany",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/alexander-stotz/"
+  },
+  {
+    "slug": "gerard-rustom-300345a",
+    "name": "Rustom Gerard",
+    "email": "gerard@hypermedia.ae",
+    "company": "Hypermedia",
+    "role": "COO",
+    "country": "UAE",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/gerard-rustom-300345a/"
+  },
+  {
+    "slug": "jasonparkinson",
+    "name": "Jason Parkinson",
+    "email": "",
+    "company": "",
+    "role": "",
+    "country": "Astus",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/jasonparkinson/"
+  },
+  {
+    "slug": "srikanth-ramachandran-b7a105",
+    "name": "Srikanth",
+    "email": "",
+    "company": "MW",
+    "role": "CEO & Founder",
+    "country": "Singapore",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/srikanth-ramachandran-b7a105/"
+  },
+  {
+    "slug": "mehul-mandalia",
+    "name": "Mehul",
+    "email": "",
+    "company": "MW",
+    "role": "CGO",
+    "country": "Singapore",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/mehul-mandalia/"
+  },
+  {
+    "slug": "raja-kanniappan-24a50932",
+    "name": "Raja",
+    "email": "",
+    "company": "MW",
+    "role": "COO&CFO",
+    "country": "Singapore",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/raja-kanniappan-24a50932/"
+  },
+  {
+    "slug": "mauriciosabogal",
+    "name": "Maurico",
+    "email": "",
+    "company": "MW",
+    "role": "CSO",
+    "country": "Americas",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/mauriciosabogal/"
+  },
+  {
+    "slug": "marcomunioz74",
+    "name": "Marco",
+    "email": "",
+    "company": "MW",
+    "role": "Business Director",
+    "country": "Americas",
+    "companyType": "",
+    "linkedinUrl": "https://www.linkedin.com/in/marcomunioz74/?locale=en"
+  },
+  {
+    "slug": "shivam-parikh",
+    "name": "Shivam Parikh",
+    "email": "",
+    "company": "GSL",
+    "role": "President and CEO",
+    "country": "",
+    "companyType": "",
+    "linkedinUrl": ""
+  },
+  {
+    "slug": "martyn-barnett",
+    "name": "Martyn Barnett",
+    "email": "",
+    "company": "GSL",
+    "role": "Vice President and Managing Director",
+    "country": "",
+    "companyType": "",
+    "linkedinUrl": ""
+  },
+  {
+    "slug": "jason-shave",
+    "name": "Jason Shave",
+    "email": "",
+    "company": "GSL",
+    "role": "Director Strategic Partnerships (EMEA)",
+    "country": "",
+    "companyType": "",
     "linkedinUrl": ""
   }
 ]
