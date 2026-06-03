@@ -201,11 +201,15 @@ export default function SelectNamePage() {
               <div className="flex justify-center mb-5">
                 <WalliAvatar pose="greeting" size={96} />
               </div>
-              <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2">Paste your LinkedIn</h1>
+              <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2">
+                {pendingName && linkedinUrl ? 'Confirm your LinkedIn' : 'Paste your LinkedIn'}
+              </h1>
               <p className="text-base text-mw-white/70 text-center mb-8">
-                {pendingName
-                  ? `Hi ${pendingName.split(' ')[0]} — we don't have your profile yet. Paste your LinkedIn and WALLi will find your matches live.`
-                  : 'WALLi will read your profile and find your matches live.'}
+                {pendingName && linkedinUrl
+                  ? `We've got your LinkedIn ready — just tap "Find my matches" and WALLi will match you live.`
+                  : pendingName
+                    ? `Hi ${pendingName.split(' ')[0]} — we don't have your profile yet. Paste your LinkedIn and WALLi will find your matches live.`
+                    : 'WALLi will read your profile and find your matches live.'}
               </p>
 
               <form onSubmit={handleWalkin}>
