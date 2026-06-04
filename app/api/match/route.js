@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { embedTextFromProfile, embedOpenAI, norm } from '@/lib/match-core.mjs';
 import { selectMatches } from '@/lib/match-select.mjs';
-import { extractProfileForLLM } from '@/lib/profile-extract.mjs';
+import { extractProfileForLLM, extractIdentity } from '@/lib/profile-extract.mjs';
 import { generateReasonAndPoints } from '@/lib/match-reasons.mjs';
 
 export const runtime = 'nodejs';
@@ -67,45 +67,19 @@ function reasonFor(srcRole, m) {
   return `Cross-market connection · ${m.country || 'global'}`;
 }
 
-export async function POST(request) {
-  try {
-    const { linkedinUrl: raw } = await request.json();
-    if (!raw) return NextResponse.json({ error: 'LinkedIn URL is required.' }, { status: 400 });
-
-    const linkedinUrl = normalizeLinkedInUrl(raw);
-    if (!linkedinUrl) return NextResponse.json({ error: 'That doesn\'t look like a LinkedIn profile URL.' }, { status: 400 });
-
-    const apiKey = process.env.ENRICHLAYER_API_KEY;
-    if (!apiKey) return NextResponse.json({ error: 'Server config error: enrichment key missing.' }, { status: 500 });
-
-    // 1. Live profile fetch (same service that scraped the 453).
-    const profileRes = await fetch(
-      `https://enrichlayer.com/api/v2/profile?url=${encodeURIComponent(linkedinUrl)}`,
-      { headers: { Authorization: `Bearer ${apiKey}` } },
-    );
-    if (!profileRes.ok) {
-      const body = await profileRes.text();
-      console.error('[match] enrichlayer profile failed', profileRes.status, body.slice(0, 200));
-      return NextResponse.json({ error: 'Couldn\'t read that LinkedIn profile. Check the URL and try again.' }, { status: 502 });
-    }
-    const profile = await profileRes.json();
-    if (profile?.message && profile?.code) {
-      return NextResponse.json({ error: `Profile lookup error: ${profile.message}` }, { status: 502 });
-    }
-
+// Turn an EnrichLayer profile into { source, matches }. Shared by both entry
+// points: the LinkedIn-URL paste (fetches the profile first) and the
+// name+company resolve path (hands us the already-enriched profile, no re-fetch).
+// Throws an Error with a `.status` for the known degraded cases (sparse → 422,
+// no matches → 404); the caller maps those to responses.
+async function runMatch(profile, linkedinUrl) {
     // 2. Source identity (what the reveal panel + concierge will show).
-    const source = {
-      name: profile.full_name || [profile.first_name, profile.last_name].filter(Boolean).join(' '),
-      role: profile.occupation || profile.headline || '',
-      company: profile?.experiences?.[0]?.company || '',
-      country: profile.country_full_name || profile.country || '',
-      linkedinUrl,
-      headshotUrl: profile.profile_pic_url || '',
-    };
+    const { photoUrl, ...identity } = extractIdentity(profile);
+    const source = { ...identity, linkedinUrl, headshotUrl: photoUrl };
 
     // 3. Embed the walk-in the SAME way the pool was built.
     const text = embedTextFromProfile(profile);
-    if (!text) return NextResponse.json({ error: 'That profile is too sparse to match on.' }, { status: 422 });
+    if (!text) { const e = new Error('That profile is too sparse to match on.'); e.status = 422; throw e; }
     const vec = await embedOpenAI(text);
 
     // 4-5. Exclusion + composition, shared with the precomputed picker graph via
@@ -136,7 +110,7 @@ export async function POST(request) {
     }));
 
     if (matches.length === 0) {
-      return NextResponse.json({ error: 'No suitable matches found.' }, { status: 404 });
+      const e = new Error('No suitable matches found.'); e.status = 404; throw e;
     }
 
     // 6. Gemini reason + talking points (block-until-ready, all matches in parallel).
@@ -156,8 +130,50 @@ export async function POST(request) {
       }),
     );
 
-    return NextResponse.json({ source, matches });
+    return { source, matches };
+}
+
+export async function POST(request) {
+  try {
+    const body = await request.json();
+
+    // Mode A — resolve path: the profile was already enriched by /api/resolve-profile,
+    // so embed it directly (no second EnrichLayer fetch).
+    if (body?.profile && typeof body.profile === 'object') {
+      const linkedinUrl = normalizeLinkedInUrl(body.linkedinUrl) || '';
+      const result = await runMatch(body.profile, linkedinUrl);
+      return NextResponse.json(result);
+    }
+
+    // Mode B — paste path: fetch the profile by LinkedIn URL, then match.
+    const raw = body?.linkedinUrl;
+    if (!raw) return NextResponse.json({ error: 'LinkedIn URL is required.' }, { status: 400 });
+
+    const linkedinUrl = normalizeLinkedInUrl(raw);
+    if (!linkedinUrl) return NextResponse.json({ error: 'That doesn\'t look like a LinkedIn profile URL.' }, { status: 400 });
+
+    const apiKey = process.env.ENRICHLAYER_API_KEY;
+    if (!apiKey) return NextResponse.json({ error: 'Server config error: enrichment key missing.' }, { status: 500 });
+
+    // 1. Live profile fetch (same service that scraped the 453).
+    const profileRes = await fetch(
+      `https://enrichlayer.com/api/v2/profile?url=${encodeURIComponent(linkedinUrl)}`,
+      { headers: { Authorization: `Bearer ${apiKey}` } },
+    );
+    if (!profileRes.ok) {
+      const text = await profileRes.text();
+      console.error('[match] enrichlayer profile failed', profileRes.status, text.slice(0, 200));
+      return NextResponse.json({ error: 'Couldn\'t read that LinkedIn profile. Check the URL and try again.' }, { status: 502 });
+    }
+    const profile = await profileRes.json();
+    if (profile?.message && profile?.code) {
+      return NextResponse.json({ error: `Profile lookup error: ${profile.message}` }, { status: 502 });
+    }
+
+    const result = await runMatch(profile, linkedinUrl);
+    return NextResponse.json(result);
   } catch (err) {
+    if (err?.status) return NextResponse.json({ error: err.message }, { status: err.status });
     console.error('[match] unexpected', err);
     return NextResponse.json({ error: 'Something went wrong finding your matches.' }, { status: 500 });
   }
