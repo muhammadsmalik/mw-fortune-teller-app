@@ -46,6 +46,9 @@ const CAP = 5; // max times any one person may appear as someone else's match
 const embeddings = readJSON('lib/match_embeddings.json');
 const poolIndex = readJSON('lib/pool_index.json');           // emails live here
 const rsvp = readJSON('lib/rsvp_attendees.json');
+// Net-new attendees (not in the embedded pool) → listed as pending live-fallback,
+// same as RSVP-only. Optional: empty until build-new-attendees.mjs runs.
+const newAttendees = (() => { const v = readJSONOpt('lib/new_attendees.json'); return Array.isArray(v) ? v : []; })();
 const talkingPointsBySource = readJSONOpt('lib/twin_talking_points.json'); // srcSlug->matchSlug->[points]
 const reasonsBySource = readJSONOpt('lib/twin_match_reasons.json');        // srcSlug->matchSlug->reason
 const matchProfiles = readJSONOpt('lib/match_profiles.json');              // slug->curated; absent = scrape failed
@@ -92,10 +95,10 @@ const vectorForRsvp = (r) =>
 
 // RSVP email keyed by the resolved pool slug; also collect RSVPs with no vector.
 const rsvpEmailBySlug = {};
-const rsvpOnly = []; // RSVPs we can't precompute (no LinkedIn data on file)
-for (const r of rsvp) {
+const rsvpOnly = []; // RSVPs + net-new we can't precompute (not in the embedded pool)
+for (const r of [...rsvp, ...newAttendees]) {
   const v = vectorForRsvp(r);
-  if (v) { if (r.email) rsvpEmailBySlug[v.slug] = r.email; }
+  if (v) { if (r.email) rsvpEmailBySlug[v.slug] = r.email; } // already in pool → de-duped
   else rsvpOnly.push(r);
 }
 
