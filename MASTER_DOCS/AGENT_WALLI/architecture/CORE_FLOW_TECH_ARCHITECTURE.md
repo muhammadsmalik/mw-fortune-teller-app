@@ -19,7 +19,7 @@ Two-plane architecture: an **offline build plane** (Node scripts that precompute
  build-pool-index ─► pool_index.json             │
         │                                        ├─► /api/match        (walk-in: live embed + select + Gemini)
  build-match-embeddings ─► match_embeddings.json ├─► /api/submit-lead  (Google Sheets append)
-        │                                        └─► /api/send-email   (Resend: 3 templates)
+        │                                        └─► /api/send-email   (Resend: 4 templates)
  build-match-profiles ─► match_profiles.json
         │                                        Reads precomputed (RSVP path):
  build-twin-matches ──► twin_matches.json          twin_matches.json, twin_index.json
@@ -84,8 +84,8 @@ Counts from the live data files; they change on every rebuild (`§9`).
 |---|---|---|
 | `match_embeddings.json` | **982** vectors | 508 WOO-only · 473 CRM-only · 1 both. `text-embedding-3-small`, 1536-dim, ~13.8 MB. |
 | `pool_index.json` | **981** people | 880 have an email (match-intro recipients). |
-| `twin_matches.json` | **521** sources / **1,458** edges | 484 sources have the full 3 matches · 3 have 2 · **34 `pending` have 0** (no embedding → walk-in). **98%** of edges carry a reason + 3 talking points. Confidence split **High 485 / Medium 973** (≈ 1 guaranteed-present WOO attendee per source). 1,291 match edges have an email. |
-| `twin_index.json` | **521** directory entries | 34 `pending`; **only 39 carry an email** (RSVP-only privacy strip). |
+| `twin_matches.json` | **522** sources / **1,464** edges | 488 sources have the full 3 matches · **34 `pending` have 0** (no embedding → walk-in). **98.5%** of edges carry a reason + 3 talking points. Confidence split **High 488 / Medium 976** (≈ 1 guaranteed-present WOO attendee per source). 1,294 match edges have an email. |
+| `twin_index.json` | **522** directory entries | 34 `pending`; **only 39 carry an email** (RSVP-only privacy strip). |
 | `twin_match_reasons.json` / `twin_talking_points.json` | 1,545 / 1,854 edges | Larger than the 1,458 live edges — non-destructive merge files retain edges later dropped by the twin-5 cap. |
 | `…/matching/linkedin-profile-index-map.json` | 453 entries | Older matching-prompt subset; index → profile metadata. |
 
@@ -124,10 +124,10 @@ Counts from the live data files; they change on every rebuild (`§9`).
 **`twin_index.json`** — name-sorted RSVP directory: `[{ slug, name, role, company, email(RSVP-only), linkedinUrl, pending? }]`.
 
 ### 3.2 Runtime state (client)
-localStorage keys carry context across steps: `selectedAttendee{Slug,Name,Email,Company,Role,LinkedInUrl}`, `selectedMatches` (JSON), and `conciergeLeadSaved` (idempotency marker = attendee slug). Email-send dedupe within a session uses an ephemeral `useRef` (`sent.current`), reset on refresh.
+localStorage keys carry context across steps: `selectedAttendee{Slug,Name,Email,Company,Role,LinkedInUrl,HeadshotUrl}`, `selectedMatches` (JSON), `selectedPreferredSlot`, `liveMatches` (walk-in match cache, JSON), and `conciergeLeadSaved` (idempotency marker = attendee slug). Email-send dedupe within a session uses an ephemeral `useRef` (`sent.current`), reset on refresh.
 
 ### 3.3 Durable state (server-side, external)
-- **Leads:** Google Sheet `Sheet1!A1:O1`, one row per submit (cols A–O: timestamp, name, email, industry, company, fortuneText, flowSource, linkedinUrl, headline, location, persona, questionIds, questionTexts, tarotCards, sessionId).
+- **Leads:** Google Sheet `Sheet1!A1:P1`, one row per submit (cols A–P: timestamp, name, email, industry, company, fortuneText, flowSource, linkedinUrl, headline, location, persona, questionIds, questionTexts, tarotCards, sessionId, **preferredSlot**).
 - **Introductions:** the emails themselves (Resend). No DB.
 
 ---
@@ -157,21 +157,24 @@ Client (select-name) ──{ linkedinUrl }──► /api/match
 
 ### 4.3 Concierge submit (3-part, `app/concierge/page.js`)
 ```
-On submit (email validated, ≤3 chosen matches):
+On submit (email validated, ≤3 chosen matches; preferredSlot = picked windows joined '; '):
   Part 1 — Lead (idempotent):
      if !localStorage[conciergeLeadSaved===slug]:
         POST /api/submit-lead { fullName,email,companyName,industry,
                                 flowSource:'twin-reveal',linkedinProfileUrl,
-                                persona:'media_owner', sessionId:slug }
+                                persona:'media_owner', sessionId:slug, preferredSlot }
         on ok → set marker
   Part 2 — Two emails in parallel:
-     POST /api/send-email twinConfirmation  → emailTo:attendee, testRerouteTo:email
-     POST /api/send-email salesRepNotification → emailTo:DRI, testRerouteTo:email
-  Part 3 — Match invitations:
-     for each chosen match with m.email (deduped via sent.current.matches):
+     POST /api/send-email twinConfirmation    → emailTo:attendee, testRerouteTo:email, { matches, preferredSlot }
+     POST /api/send-email salesRepNotification → emailTo:DRI,      testRerouteTo:email, { matches, preferredSlot, emailOnFile }
+  Part 3 — Match invitations (WOO attendees only):
+     isAttending(m) = Array.isArray(m.lists) && m.lists.includes('woo')
+     for each chosen match where m.email AND isAttending(m) (deduped via sent.current.matches):
         POST /api/send-email matchIntro
            emailTo:m.email, replyTo:attendeeEmail, testRerouteTo:email
-           { matchName, attendeeName/Role/Company, matchReason, talkingPoints }
+           { matchName, attendeeName/Role/Company, matchReason, talkingPoints, preferredSlot }
+     # CRM-only matches (lists without 'woo') and no-email matches are skipped here
+     # and flagged in the DRI email for manual outreach (2026-06-01 'Option B').
   → navigate /confirmation
 ```
 
@@ -183,14 +186,20 @@ POST { template, emailTo, subject, testRerouteTo?, replyTo?, ...templateFields }
                           subject = "[TEST→<realRecipient>] " + subject
      else               → to = [emailTo]
   resolveReplyTo(template, body.replyTo):
-     if matchIntro && !TEST && CONCIERGE_CC_EMAILS → reply-to = MW team   ← team brokers confirmations
-     else → body.replyTo (attendee)
+     if matchIntro && !TEST && CONCIERGE_CC_EMAILS → reply-to = [attendee, ...CONCIERGE_CC_EMAILS]
+                                                     ← attendee + team both: the match's reply reaches the
+                                                       requester directly while the team brokers/keeps a record
+     else → body.replyTo (attendee only; also the test-mode path)
   resend.emails.send({ from:"Agent WALLi <FROM_EMAIL>", to, subject,
                        html: BOOTH_TEMPLATES[template](body),
-                       cc: (!TEST && CONCIERGE_CC_EMAILS) || undefined,
+                       cc: (template!=='businessInsight' && !TEST && CONCIERGE_CC_EMAILS) || undefined,
                        replyTo })
 ```
-Templates: `twinConfirmation` (attendee recap), `salesRepNotification` (team handoff, flags missing-email matches), `matchIntro` (invitation with prominent confirm CTA + windows + talking points), `businessInsight` (the opt-in market-read scorecard + Book-a-Demo CTA, with a `fallback` variant).
+Templates:
+- **`twinConfirmation`** (attendee recap) — coordination copy **branches on the chosen matches' woo/crm split**: all-WOO → "they'll reply directly"; all-CRM → "the team will arrange an intro for afterwards"; mixed → both. Frames the Moving Walls booth as an *optional* meet with a "set it up for the future" fallback.
+- **`salesRepNotification`** (DRI handoff) — lists each match with **three** outreach states: *emailed* (woo + email, green), *no email — needs manual intro* (amber), *CRM — not at event; manual outreach: &lt;email&gt;* (amber).
+- **`matchIntro`** (invitation, prominent reply-to-confirm CTA + windows + talking points) — sent **only** to woo-attending matches with an email; reply-to = **attendee + team**; same booth-optional / future-fallback framing.
+- **`businessInsight`** (opt-in market-read scorecard + Book-a-Demo CTA, with a `fallback` variant). **Never CC'd.**
 
 ---
 
@@ -242,9 +251,10 @@ Name-free composition: headline + occupation + industry + summary + top-4 experi
 | `RESEND_FROM_EMAIL` | server | `onboarding@resend.dev` | From address (wrapped "Agent WALLi <…>"). |
 | `EMAIL_TEST_MODE` | server | — | **Must be `false` in prod.** Reroutes whole submit; restart to apply. |
 | `EMAIL_TEST_RECIPIENTS` | server | — | Fallback reroute targets when `testRerouteTo` absent. |
-| `CONCIERGE_CC_EMAILS` | server | — | Staff CC (live only); also the match-reply broker inbox. |
+| `CONCIERGE_CC_EMAILS` | server | — | Staff CC on the 3 concierge templates (live only); also added to `matchIntro` reply-to alongside the attendee. |
 | `NEXT_PUBLIC_CONCIERGE_DRI_EMAIL` | build | `atlas1000x@gmail.com` (fallback chain) | DRI notification recipient. **Set before event.** |
 | `NEXT_PUBLIC_SALES_REP_EMAIL` | build | — | DRI fallback. |
+| `NEXT_PUBLIC_SITE_URL` | build | request origin | Base URL `business-insight` uses for its server-to-server call to `/api/send-email`. |
 | `NEXT_PUBLIC_ENABLED_PERSONAS` | build | `media_owner` | Persona picker (skipped for WOO). |
 | `NEXT_PUBLIC_LIVE_FLOW` | build | `twin-reveal` | `fortune` restores old path. |
 
@@ -259,7 +269,8 @@ Name-free composition: headline + occupation + industry + summary + top-4 experi
 | Gemini down / 429 (live) | Fail-fast → deterministic reason, no talking points; reveal still works. | `/api/match`, `match-reasons.mjs` |
 | EnrichLayer fails | 502 with friendly error; attendee can retry. | `/api/match` |
 | Profile too sparse | 422; cannot embed. | `/api/match` |
-| Match has no email | Skipped for `matchIntro`; flagged "needs manual intro" in DRI email. | concierge + send-email |
+| Match has no email | Skipped for `matchIntro`; flagged "no email — needs manual intro" in DRI email. | concierge + send-email |
+| Match is CRM-only (not at event) | Deliberately **not** auto-emailed (no cold outbound); flagged "CRM — not at event; manual outreach" in DRI email (2026-06-01 Option B). | concierge + send-email |
 | Page refresh mid-submit | Lead won't double-write (localStorage guard); emails may re-send (idempotent enough — same content). | concierge |
 | Test mode left on | All emails reroute to tester, subjects prefixed, CC suppressed. | send-email |
 

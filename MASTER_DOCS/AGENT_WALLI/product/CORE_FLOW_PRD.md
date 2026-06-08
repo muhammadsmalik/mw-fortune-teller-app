@@ -38,8 +38,8 @@ The product exists because high-value B2B networking at a 2-day forum is bottlen
 |---|---|---|
 | **Pre-registered attendee (RSVP)** | On the "Meet-Your-Twin" RSVP list; profile already enriched & matched offline. | Instant reveal of 3 matches with reasons + talking points; email pre-filled if they shared it. |
 | **Walk-in attendee** | Stops at the booth, pastes their LinkedIn URL. | Live match (≈ a few seconds) producing the same 3-match experience. |
-| **Matched person ("twin")** | Someone in the pool selected as a match; may or may not be physically present. | An invitation email from the attendee with reason + talking points + networking windows. |
-| **Moving Walls team (DRI + staff)** | Booth/marketing staff who broker the intro. | A notification email per submit (who to introduce, LinkedIn links, missing-email flags) and CC on live sends; they catch match replies and coordinate. |
+| **Matched person ("twin")** | Someone in the pool selected as a match. **Only those attending WOO** (`lists` includes `woo`) are auto-emailed; CRM-only contacts are handed to the DRI for manual outreach. | (If attending + has an email) an invitation with reason + talking points + networking windows; reply-to the requesting attendee + team. |
+| **Moving Walls team (DRI + staff)** | Booth/marketing staff who broker the intro. | A notification email per submit (who to introduce, LinkedIn links, and per-match outreach status: *emailed* / *no-email→manual* / *CRM-not-attending→manual outreach*) and CC on live sends; they're on the match-reply thread to coordinate. |
 
 The current event persona is fixed to `media_owner` (`lib/event-config.js`).
 
@@ -64,11 +64,11 @@ The current event persona is fixed to `media_owner` (`lib/event-config.js`).
    - RSVP path reads precomputed matches; walk-in path calls `/api/match` live.
 
 3. **Concierge** (`/concierge`)
-   - Attendee confirms which matches they want (up to 3), confirms their name (read-only), and provides an email if not already on file.
-   - On submit, WALLi: (a) logs the lead, (b) emails the attendee a recap, (c) emails the MW team a notification, (d) emails each match (that has an email) an invitation.
+   - Attendee confirms which matches they want (up to 3), confirms their name (read-only), provides an email if not already on file, and multi-selects preferred meeting windows (optional).
+   - On submit, WALLi: (a) logs the lead, (b) emails the attendee a recap, (c) emails the MW team a notification, (d) emails each match **that's attending WOO and has an email** an invitation (CRM-only / no-email matches are handed to the DRI for manual outreach instead).
 
 4. **Confirmation** (`/confirmation`)
-   - Thank-you, the 5 networking windows repeated, and a "start over" reset.
+   - Thank-you echoing the attendee's **chosen** preferred time(s) (or a "no preference — team will coordinate" note), an **opt-in "email me the market read"** button (shown when an email is on file → fires `/api/business-insight`), and a "start over" reset.
 
 ---
 
@@ -112,11 +112,12 @@ The current event persona is fixed to `media_owner` (`lib/event-config.js`).
 - **C2. Contact capture.** Name is pre-filled and read-only. Email is **pre-filled only for RSVP attendees who shared it** (privacy rule); walk-ins type it. Email must contain `@`.
 - **C3. Lead logging.** One row appended to the Google Sheet per attendee, **idempotent** (guarded so a refresh/retry won't double-write).
 - **C4. Attendee recap email** — confirms their selected matches with talking points.
-- **C5. Match invitation email** — sent to each selected match **that has an email**; includes the match reason, talking points, the 5 networking windows, and a **prominent "interested? reply to confirm" CTA**. Matches **without an email are skipped but flagged** to the team for manual intro.
-- **C6. Team notification email** — to the DRI, listing attendee details, each match with LinkedIn links, and which matches need a manual intro.
-- **C7. Team-brokered replies.** On live sends, the match invitation's **reply-to is the Moving Walls team** (CC'd staff), so the team catches confirmations and coordinates — rather than the reply going straight to the attendee. Falls back to the attendee address if no team inbox is configured.
-- **C8. Networking windows.** A single shared list of 5 windows (`lib/meeting-slots.js`) is shown in the match email and on the confirmation screen. No per-pair slot assignment.
-- **C9. Test mode.** A server-only `EMAIL_TEST_MODE` reroutes an entire submit's emails to the tester's own inbox, prefixes the subject with the intended recipient, and suppresses staff CC — so the full flow can be rehearsed safely.
+- **C5. Match invitation email** — sent to each selected match who is **attending WOO (`lists` includes `woo`) and has an email**; includes the match reason, talking points, the networking windows, and a **prominent "interested? reply to confirm" CTA**. **CRM-only matches (not attending) and matches without an email are skipped but flagged** to the DRI for manual outreach (2026-06-01 "Option B" — never cold-email someone who never registered).
+- **C6. Team notification email** — to the DRI, listing attendee details, each match with LinkedIn links, and each match's outreach status (emailed / no-email→manual / CRM-not-attending→manual outreach).
+- **C7. Direct-connect replies, team copied.** On live sends, the match invitation's **reply-to is the requesting attendee + the Moving Walls team** (CC'd staff), so a "yes" reaches the attendee directly while the team stays on the thread to broker and keep a record. Falls back to just the attendee address if no team inbox is configured; in test mode the reply-to stays the tester. (2026-06-01 decision: let the parties connect directly — MW concierges, doesn't relay.)
+- **C8. Networking windows.** A single shared list of 5 windows (`lib/meeting-slots.js`). The attendee **multi-selects** their preferred window(s) on the concierge form (or leaves blank → team coordinates); the selection is logged (sheet column P) and echoed in the attendee recap, match invitation, and DRI email. The **confirmation screen shows the attendee's chosen time(s)**, not the full list. No per-pair slot assignment.
+- **C9. Market read (opt-in).** The confirmation screen offers an explicit opt-in to email the attendee an Agent WALLi "market read" scorecard (`/api/business-insight`: returns `202` immediately, runs grounded scoring server-side via `after()`, then emails the report; graceful fallback email on failure). **Not** auto-fired — only when the attendee taps it and an email is on file.
+- **C10. Test mode.** A server-only `EMAIL_TEST_MODE` reroutes an entire submit's emails to the tester's own inbox, prefixes the subject with the intended recipient, and suppresses staff CC — so the full flow can be rehearsed safely.
 
 ---
 
@@ -130,7 +131,8 @@ The current event persona is fixed to `media_owner` (`lib/event-config.js`).
 | Precompute RSVP, live walk-in | Instant experience for the known crowd; inclusive door for everyone else. |
 | Reason always present, points optional | The "why" must never be blank; the richer "how" degrades gracefully. |
 | Shared windows, not per-pair scheduling | Booth reality — coordination happens by reply or in person; one list to maintain. |
-| Team-brokered match replies | MW stays in the loop and owns the introduction quality. |
+| Match replies → attendee + team | Parties connect directly (no relay bottleneck) while MW stays on the thread to broker and track. |
+| Skip cold-emailing CRM matches | Only WOO attendees are auto-emailed; CRM contacts → DRI manual outreach (deliverability + relationship risk of cold outbound). |
 | RSVP-only email pre-fill | Privacy: never expose an email the person didn't explicitly share. |
 | Whole-submit test reroute | One tester can rehearse and inspect every email a submit produces. |
 

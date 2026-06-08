@@ -1,5 +1,9 @@
 # MW Fortune Teller App - Codebase Map
 
+> ⚠️ **SUPERSEDED / LEGACY (as of 2026-06-01).** This map describes the **original fortune-teller app** (generated 2025-10-07) and predates the "Agent WALLi" twin-reveal/concierge pivot that is now the live flow. It does **not** cover `select-name` / `reveal` / `concierge` / `confirmation`, `/api/match`, `/api/business-insight`, the booth email templates, or the matching engine (`lib/match-select.mjs`, `twin_matches.json`, etc.).
+>
+> **For the current architecture, see [`AGENT_WALLI/architecture/CORE_FLOW_TECH_ARCHITECTURE.md`](AGENT_WALLI/architecture/CORE_FLOW_TECH_ARCHITECTURE.md), the PRD at [`AGENT_WALLI/product/CORE_FLOW_PRD.md`](AGENT_WALLI/product/CORE_FLOW_PRD.md), and live status at [`AGENT_WALLI/status/AGENT_WALLI_STATUS.md`](AGENT_WALLI/status/AGENT_WALLI_STATUS.md).** Kept only as a reference for the legacy fortune-teller path (still reachable via `NEXT_PUBLIC_LIVE_FLOW=fortune`).
+
 **Generated:** 2025-10-07
 **Version:** 0.1.0
 **Framework:** Next.js 15.3.2 (App Router)

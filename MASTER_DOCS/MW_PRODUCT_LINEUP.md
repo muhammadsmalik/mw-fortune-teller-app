@@ -15,3 +15,10 @@ Market	OOH media should be as easy to discover and buy as social media for every
 ----
 
 
+DOCUMENT #2 (Comments from Mehul when I shared the previous mapping):
+
+MW Planner -> This should be MW Influence - the Ad Server/ Order Management System
+
+There is no LMX Platform anymore, this will be MW Studio - Inventory Management
+
+Self-Serve Booking Platform -> This should be MW Influence -since they will be creating deals/ packages
